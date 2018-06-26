@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView android:id="@id/speed_dial_ooo_container" android:text="@string/ooo" android:contentDescription="@string/accessibility_speeddial_ooo" style="@style/SpeedDialA11yButton"
+  xmlns:android="http://schemas.android.com/apk/res/android" />

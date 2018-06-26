@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WizardScript wizard:firstAction="oem_pre_setup"
+  xmlns:wizard="http://schemas.android.com/apk/res/com.google.android.setupwizard">
+    <WizardAction wizard:uri="intent:#Intent;action=com.android.setupwizard.OEM_PRE_SETUP;end" id="oem_pre_setup">
+        <result wizard:action="secondary_user_warning" />
+    </WizardAction>
+    <WizardAction wizard:uri="intent:#Intent;action=com.android.setupwizard.USER_WARNING;end" id="secondary_user_warning">
+        <result wizard:action="wifi_settings" />
+    </WizardAction>
+    <WizardAction wizard:uri="intent:#Intent;action=com.android.setupwizard.WIFI_SETTINGS;end" id="wifi_settings">
+        <result wizard:action="connection_check" />
+    </WizardAction>
+    <WizardAction wizard:uri="intent:#Intent;action=com.android.setupwizard.CONNECTION_CHECK;end" id="connection_check">
+        <result wizard:resultCode="1" wizard:action="no_account_user_name_check" wizard:name="skip" />
+        <result wizard:action="walled_garden" />
+    </WizardAction>
+    <WizardAction wizard:uri="intent:#Intent;action=com.android.setupwizard.WALLED_GARDEN;end" id="walled_garden">
+        <result wizard:resultCode="1" wizard:action="no_account_user_name_check" wizard:name="skip" />
+        <result wizard:action="load_account_intent" />
+    </WizardAction>
+    <WizardAction wizard:uri="intent:#Intent;action=com.google.android.setupwizard.PROGRESS;S.fragment=com.google.android.setupwizard.account.LoadAddAccountIntentFragment;end" id="load_account_intent">
+        <result wizard:action="account_setup" />
+    </WizardAction>
+    <WizardAction wizard:uri="intent:#Intent;action=com.google.android.setupwizard.ACCOUNT_SETUP;end" id="account_setup">
+        <result wizard:resultCode="1" wizard:action="no_account_user_name_check" wizard:name="skip" />
+        <result wizard:resultCode="102" wizard:action="exit" wizard:name="alt_setup_complete" />
+        <result wizard:action="account_checkin" />
+    </WizardAction>
+    <WizardAction wizard:uri="intent:#Intent;action=com.google.android.setupwizard.PROGRESS;S.fragment=com.google.android.setupwizard.util.WaitForGservicesFragment;end" id="account_checkin">
+        <result wizard:resultCode="1" wizard:action="mfm_check" wizard:name="skip" />
+        <result wizard:action="start_vpa" />
+    </WizardAction>
+    <WizardAction wizard:uri="intent:#Intent;action=com.google.android.setupwizard.PROGRESS;S.fragment=com.google.android.setupwizard.account.StartVpaFragment;end" id="start_vpa">
+        <result wizard:action="mfm_check" />
+    </WizardAction>
+    <WizardAction wizard:uri="intent:#Intent;action=com.google.android.setupwizard.PROGRESS;S.fragment=com.google.android.setupwizard.account.AccountCheckFragment;end" id="mfm_check">
+        <result wizard:resultCode="1" wizard:action="no_account_user_name_check" wizard:name="skip" />
+        <result wizard:resultCode="4" wizard:action="mfm_user_name_check" wizard:name="mfm" />
+        <result wizard:action="user_name_check" />
+    </WizardAction>
+    <WizardAction wizard:uri="intent:#Intent;action=com.google.android.setupwizard.PROGRESS;S.fragment=com.google.android.setupwizard.user.NameCheckFragment;end" id="user_name_check">
+        <result wizard:resultCode="1" wizard:action="gmail" wizard:name="skip" />
+        <result wizard:action="user_name" />
+    </WizardAction>
+    <WizardAction wizard:uri="intent:#Intent;action=com.google.android.setupwizard.USER_NAME;end" id="user_name">
+        <result wizard:action="gmail" />
+    </WizardAction>
+    <WizardAction wizard:uri="intent:#Intent;action=com.google.android.setupwizard.GMAIL_SETUP;end" id="gmail">
+        <result wizard:action="google_now" />
+    </WizardAction>
+    <WizardAction wizard:uri="intent:#Intent;action=com.google.android.setupwizard.GOOGLE_NOW;end" id="google_now">
+        <result wizard:action="start_downloads" />
+    </WizardAction>
+    <WizardAction wizard:uri="intent:#Intent;action=com.google.android.setupwizard.PROGRESS;S.fragment=com.google.android.setupwizard.account.StartDownloadsFragment;end" id="start_downloads">
+        <result wizard:action="final_hold" />
+    </WizardAction>
+    <WizardAction wizard:uri="intent:#Intent;action=com.google.android.setupwizard.FINAL_HOLD;end" id="final_hold">
+        <result wizard:action="oem_post_setup" />
+    </WizardAction>
+    <WizardAction wizard:uri="intent:#Intent;action=com.google.android.setupwizard.PROGRESS;S.fragment=com.google.android.setupwizard.user.NameCheckFragment;end" id="mfm_user_name_check">
+        <result wizard:resultCode="1" wizard:action="mfm_gmail" wizard:name="skip" />
+        <result wizard:action="mfm_user_name" />
+    </WizardAction>
+    <WizardAction wizard:uri="intent:#Intent;action=com.google.android.setupwizard.USER_NAME;end" id="mfm_user_name">
+        <result wizard:action="mfm_gmail" />
+    </WizardAction>
+    <WizardAction wizard:uri="intent:#Intent;action=com.google.android.setupwizard.GMAIL_SETUP;end" id="mfm_gmail">
+        <result wizard:action="mfm_google_now" />
+    </WizardAction>
+    <WizardAction wizard:uri="intent:#Intent;action=com.google.android.setupwizard.GOOGLE_NOW;end" id="mfm_google_now">
+        <result wizard:action="mfm_start_downloads" />
+    </WizardAction>
+    <WizardAction wizard:uri="intent:#Intent;action=com.google.android.setupwizard.PROGRESS;S.fragment=com.google.android.setupwizard.account.StartDownloadsFragment;end" id="mfm_start_downloads">
+        <result wizard:action="mfm_final_hold" />
+    </WizardAction>
+    <WizardAction wizard:uri="intent:#Intent;action=com.google.android.setupwizard.FINAL_HOLD;end" id="mfm_final_hold">
+        <result wizard:action="oem_post_setup" />
+    </WizardAction>
+    <WizardAction wizard:uri="intent:#Intent;action=com.google.android.setupwizard.PROGRESS;S.fragment=com.google.android.setupwizard.user.NameCheckFragment;end" id="no_account_user_name_check">
+        <result wizard:resultCode="1" wizard:action="no_account_gmail" wizard:name="skip" />
+        <result wizard:action="no_account_user_name" />
+    </WizardAction>
+    <WizardAction wizard:uri="intent:#Intent;action=com.google.android.setupwizard.USER_NAME;end" id="no_account_user_name">
+        <result wizard:action="no_account_gmail" />
+    </WizardAction>
+    <WizardAction wizard:uri="intent:#Intent;action=com.google.android.setupwizard.GMAIL_SETUP;end" id="no_account_gmail">
+        <result wizard:action="no_account_google_services" />
+    </WizardAction>
+    <WizardAction wizard:uri="intent:#Intent;action=com.google.android.setupwizard.GOOGLE_SERVICES;end" id="no_account_google_services">
+        <result wizard:action="oem_post_setup" />
+    </WizardAction>
+    <WizardAction wizard:uri="intent:#Intent;action=com.android.setupwizard.OEM_POST_SETUP;end" id="oem_post_setup">
+        <result wizard:action="exit" />
+    </WizardAction>
+    <WizardAction wizard:uri="intent:#Intent;action=com.android.setupwizard.EXIT;end" id="exit" />
+</WizardScript>

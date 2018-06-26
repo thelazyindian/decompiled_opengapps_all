@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Надеждно лице</string>
+    <string name="trusted_face_service_app_name">Услуга Надеждно лице</string>
+    <string name="receiver_app_name">Приемник на излъчвания за Надеждно лице</string>
+    <string name="setup_app_name">Добавяне на функцията</string>
+    <string name="add_to_setup_app_name">Подобряване на лицевото разпознаване</string>
+    <string name="intro_screen_title">Всичко за „Надеждно лице“</string>
+    <string name="intro_screen_header">Отключвайте телефона си, като го погледнете</string>
+    <string name="intro_screen_body">"Не забравяйте следното:
+
+ "<li><ul>"Лицевото разпознаване е по-малко надеждно в сравнение с използването на фигура, ПИН или парола.
+
+ "<li>Някой, който прилича на вас, може да отключи телефона ви.</li>"
+
+ "<li>Използваните за разпознаване на лицето ви данни се съхраняват частно на телефона ви.</li> </ul></li></string>
+    <string name="intro_screen_continue_label">Настройване</string>
+    <string name="instructions_screen_title">Добавяне на функцията „Надеждно лице“</string>
+    <string name="instructions_screen_header">За най-добри резултати:</string>
+    <string name="instructions_screen_body">" "<li><ul>"Намерете закрито място, където осветлението не е твърде ярко, нито прекалено затъмнено.
+
+ "<li>Задръжте телефона на нивото на очите си.</li> </ul></li></string>
+    <string name="instructions_screen_continue_label">Напред</string>
+    <string name="enrollment_screen_message_initializing">Стартира се...</string>
+    <string name="enrollment_screen_message_initialization_error">Намирането на лицето ви не можа да се стартира</string>
+    <string name="enrollment_screen_message_camera_error">Камерата не е достъпна</string>
+    <string name="enrollment_start_message">Дръжте лицето си в оградената с точки област</string>
+    <string name="enrollment_screen_message_instructions">Дръжте главата си в рамките на кръга</string>
+    <string name="enrollment_screen_message_missing_landmarks">Покажете очите, носа и устата си</string>
+    <string name="enrollment_screen_message_done">Добавено е лице</string>
+    <string name="enrollment_screen_status_no_face">Покажете лицето си</string>
+    <string name="enrollment_screen_status_face_off_center">Част от лицето ви не може да се види</string>
+    <string name="enrollment_screen_status_missing_landmarks">Чертите на лицето ви не могат да бъдат видени</string>
+    <string name="enrollment_screen_continue_label">Напред</string>
+    <string name="enrollment_screen_done_label">Готово</string>
+    <string name="enrollment_screen_talkback_preview_description">Визуализация от камерата</string>
+    <string name="enrollment_screen_talkback_face_added">Добавено е лице</string>
+    <string name="end_screen_title">Готови сте!</string>
+    <string name="end_screen_body">За да отключите телефона си, трябва само да включите екрана и да погледнете към камерата</string>
+    <string name="end_screen_bullet_one_text">Телефонът ви ще се отключи веднага щом ви разпознае</string>
+    <string name="end_screen_bullet_two_text">Ако лицето ви не бъде разпознато, вместо това отключете устройството с фигурата, ПИН кода или паролата си</string>
+    <string name="end_screen_tip_text">Съвет: Подобрете лицевото разпознаване, като покажете как изглеждате в различни условия</string>
+    <string name="end_screen_licenses_label">Лицензи</string>
+    <string name="end_screen_continue_label">Готово</string>
+    <string name="add_to_setup_intro_screen_title">Подобряване на лицевото разпознаване</string>
+    <string name="add_to_setup_intro_screen_header">Покажете как изглеждате при различни условия</string>
+    <string name="add_to_setup_intro_screen_body">"Примери:
+
+ "<li><ul>"При различно осветление.
+
+ "<li>Със или без очила с диоптър.</li>"
+
+ "<li>С брада или с гладко избръснато лице.</li>"
+
+ "</ul></li>"
+ Задръжте телефона на нивото на очите си."</string>
+    <string name="add_to_setup_intro_screen_continue_label">Напред</string>
+    <string name="license_screen_header">Съобщения за отворен код</string>
+    <string name="license_screen_continue_label">ОK</string>
+    <string name="shared_cancel_label">Отказ</string>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WizardScript wizard:version="2"
+  xmlns:wizard="http://schemas.android.com/apk/res/com.google.android.setupwizard">
+    <WizardAction wizard:uri="intent:#Intent;action=com.android.setupwizard.CHECK_USER_UNLOCK;end" id="check_user_unlock_dpm_user_complete" />
+    <WizardAction wizard:uri="intent:#Intent;action=com.android.setupwizard.OEM_POST_SETUP;end" id="oem_post_setup" />
+    <WizardAction wizard:uri="intent:#Intent;action=com.google.android.setupwizard.KID_POST_SETUP;end" id="kid_post_setup" />
+    <WizardAction wizard:uri="intent:#Intent;action=com.android.setupwizard.EXIT;end" id="exit" />
+</WizardScript>

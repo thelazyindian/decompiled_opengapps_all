@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Wajah Tepercaya</string>
+    <string name="trusted_face_service_app_name">Layanan Wajah Tepercaya</string>
+    <string name="receiver_app_name">Penerima Siaran Wajah Tepercaya</string>
+    <string name="setup_app_name">Tambahkan wajah tepercaya</string>
+    <string name="add_to_setup_app_name">Tingkatkan pencocokan wajah</string>
+    <string name="intro_screen_title">Tentang wajah tepercaya</string>
+    <string name="intro_screen_header">Buka kunci ponsel dengan melihat ke ponsel</string>
+    <string name="intro_screen_body">"Ingat:
+
+ "<li><ul>"Pencocokan wajah kurang aman dibandingkan dengan pola, PIN, atau sandi
+
+ "<li>Seseorang yang mirip dengan Anda dapat membuka kunci ponsel</li>"
+
+ "<li>Data yang digunakan untuk mengenali wajah Anda tetap bersifat pribadi di ponsel</li> </ul></li></string>
+    <string name="intro_screen_continue_label">Siapkan</string>
+    <string name="instructions_screen_title">Tambahkan wajah tepercaya</string>
+    <string name="instructions_screen_header">Untuk hasil terbaik:</string>
+    <string name="instructions_screen_body">" "<li><ul>"Cari lokasi dalam ruangan yang tidak terlalu terang atau terlalu redup
+
+ "<li>Pegang ponsel sejajar dengan mata</li> </ul></li></string>
+    <string name="instructions_screen_continue_label">Berikutnya</string>
+    <string name="enrollment_screen_message_initializing">Memulai...</string>
+    <string name="enrollment_screen_message_initialization_error">Tidak dapat memulai untuk menemukan wajah Anda</string>
+    <string name="enrollment_screen_message_camera_error">Kamera tidak tersedia</string>
+    <string name="enrollment_start_message">Pertahankan wajah tetap di dalam area bertitik</string>
+    <string name="enrollment_screen_message_instructions">Jaga agar bagian atas kepala dan bagian bawah dagu tetap dalam lingkaran</string>
+    <string name="enrollment_screen_message_missing_landmarks">Tunjukkan mata, hidung, dan mulut</string>
+    <string name="enrollment_screen_message_done">Wajah ditambahkan</string>
+    <string name="enrollment_screen_status_no_face">Tampilkan wajah Anda</string>
+    <string name="enrollment_screen_status_face_off_center">Tidak dapat melihat bagian wajah Anda</string>
+    <string name="enrollment_screen_status_missing_landmarks">Tidak dapat melihat fitur Anda</string>
+    <string name="enrollment_screen_continue_label">Berikutnya</string>
+    <string name="enrollment_screen_done_label">Selesai</string>
+    <string name="enrollment_screen_talkback_preview_description">Pratinjau kamera</string>
+    <string name="enrollment_screen_talkback_face_added">Wajah ditambahkan</string>
+    <string name="end_screen_title">Semua siap!</string>
+    <string name="end_screen_body">Untuk membuka kunci ponsel, cukup aktifkan layar dan lihat ke kamera</string>
+    <string name="end_screen_bullet_one_text">Ponsel akan segera terbuka setelah mengenali wajah Anda</string>
+    <string name="end_screen_bullet_two_text">Jika wajah Anda tidak dikenali, buka dengan pola, PIN, atau sandi</string>
+    <string name="end_screen_tip_text">Kiat: Tingkatkan pencocokan wajah dengan menampilkan wajah Anda di berbagai kondisi</string>
+    <string name="end_screen_licenses_label">Lisensi</string>
+    <string name="end_screen_continue_label">Selesai</string>
+    <string name="add_to_setup_intro_screen_title">Tingkatkan pencocokan wajah</string>
+    <string name="add_to_setup_intro_screen_header">Tampilkan wajah Anda di berbagai kondisi</string>
+    <string name="add_to_setup_intro_screen_body">"Contoh:
+
+ "<li><ul>"Dalam pencahayaan yang berbeda-beda
+
+ "<li>Dengan atau tanpa kacamata</li>"
+
+ "<li>Berjenggot atau dicukur bersih</li>"
+
+ "</ul></li>"
+ Pegang ponsel sejajar dengan mata"</string>
+    <string name="add_to_setup_intro_screen_continue_label">Berikutnya</string>
+    <string name="license_screen_header">Notifikasi Sumber Terbuka</string>
+    <string name="license_screen_continue_label">Oke</string>
+    <string name="shared_cancel_label">Batal</string>
+</resources>

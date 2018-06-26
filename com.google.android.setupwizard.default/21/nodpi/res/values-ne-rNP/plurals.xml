@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="shutdown_countdown_text">
+        <item quantity="other">%d सेकेन्डमा बन्द हुँदै…</item>
+        <item quantity="one">१ सेकेन्डमा बन्द हुँदै…</item>
+    </plurals>
+    <plurals name="sim_missing_title">
+        <item quantity="other">SIM कार्डहरू घुसाउनुहोस्</item>
+        <item quantity="one">सिमकार्ड घुसाउनुहोस्</item>
+    </plurals>
+    <plurals name="sim_missing_text_tablet">
+        <item quantity="other">सिमकार्डहरू राख्नका लागि तपाईँको ट्याब्लेट सँगै आएका निर्देशनहरू पढ्नुहोस्।</item>
+        <item quantity="one">सिमकार्ड राख्नका लागि तपाईँको ट्याब्लेट सँगै आएका निर्देशनहरू पढ्नुहोस्।</item>
+    </plurals>
+    <plurals name="sim_missing_text_device">
+        <item quantity="other">सिमकार्डहरू राख्नका लागि तपाईँको उपकरण सँगै आएका निर्देशनहरू पढ्नुहोस्।</item>
+        <item quantity="one">सिमकार्ड राख्नका लागि तपाईँको उपकरण सँगै आएका निर्देशनहरू पढ्नुहोस्।</item>
+    </plurals>
+    <plurals name="sim_missing_text_default">
+        <item quantity="other">सिमकार्डहरू राख्नका लागि तपाईँको फोन सँगै आएका निर्देशनहरू पढ्नुहोस्।</item>
+        <item quantity="one">सिमकार्ड राख्नका लागि तपाईँको फोन सँग आएका निर्देशनहरू पढ्नुहोस्।</item>
+    </plurals>
+</resources>

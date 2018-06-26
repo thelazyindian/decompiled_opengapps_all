@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="shutdown_countdown_text">
+        <item quantity="other">នឹង​​បិទ​ក្នុង​រយៈ​ពេល​ %dវិនាទី​…</item>
+        <item quantity="one">នឹង​បិទ​ក្នុង​រយៈ​ពេល ១វិនាទី...</item>
+    </plurals>
+    <plurals name="sim_missing_title">
+        <item quantity="other">បញ្ចូល​ស៊ី​ម​កាត</item>
+        <item quantity="one">បញ្ចូល​ស៊ីមកាត​</item>
+    </plurals>
+    <plurals name="sim_missing_text_tablet">
+        <item quantity="other">ដើម្បី​បញ្ចូល​ស៊ី​ម​កាត​របស់​អ្នក​ សូម​អាន​ការ​​ណែនាំ​​​​ដែល​​ភ្ជាប់​ជា​មួយ​​​កុំព្យូទ័រ​បន្ទះ​របស់​អ្នក។</item>
+        <item quantity="one">ដើម្បី​បញ្ចូល​ស៊ីមកាត សូម​អាន​ការ​ណែនាំ​ដែល​​ភ្ជាប់​មក​ជាមួយ​កុំព្យូទ័រ​បន្ទះ​​របស់​អ្នក។</item>
+    </plurals>
+    <plurals name="sim_missing_text_device">
+        <item quantity="other">ដើម្បី​បញ្ចូល​ស៊ី​ម​កាត​របស់​អ្នក​ សូម​អាន​ការ​​ណែនាំ​​​​ដែល​​ភ្ជាប់​ជា​មួយ​​​ឧបករណ៍​របស់​អ្នក។</item>
+        <item quantity="one">ដើម្បី​បញ្ចូល​ស៊ី​ម​កាត​របស់​អ្នក​, សូម​អាន​ការ​​ណែនាំ​អំពី​​ឧបករណ៍​របស់​អ្នក​​ដែល​​ភ្ជាប់​ជា​មួយ​​។</item>
+    </plurals>
+    <plurals name="sim_missing_text_default">
+        <item quantity="other">ដើម្បី​បញ្ចូល​ស៊ី​ម​កាត​របស់​អ្នក​ សូម​អាន​ការ​​ណែនាំ​​​​ដែល​​ភ្ជាប់​ជា​មួយ​​​​ទូរស័ព្ទ​​របស់​អ្នក។</item>
+        <item quantity="one">ដើម្បី​បញ្ចូល​ស៊ីមកាត សូម​អាន​ការ​ណែនាំ​ដែល​ភ្ជាប់​​មក​ជាមួយ​ទូរស័ព្ទ​អ្នក។</item>
+    </plurals>
+</resources>

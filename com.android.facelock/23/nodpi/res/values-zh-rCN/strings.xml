@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">信任的面孔</string>
+    <string name="trusted_face_service_app_name">信任的面孔服务</string>
+    <string name="receiver_app_name">信任的面孔广播接收器</string>
+    <string name="setup_app_name">添加信任的面孔</string>
+    <string name="add_to_setup_app_name">提高面部匹配的准确度</string>
+    <string name="intro_screen_title">信任的面孔简介</string>
+    <string name="intro_screen_header">面部对准手机即可将其解锁</string>
+    <string name="intro_screen_body">"请注意：
+
+"<li><ul>"面部匹配解锁的安全性不及图案、PIN 码或密码
+
+"<li>与您长相接近的人可能也能解锁您的手机</li>"
+
+"<li>用于识别面孔的数据会以私密方式保存在您的手机上</li></ul></li></string>
+    <string name="intro_screen_continue_label">设置</string>
+    <string name="instructions_screen_title">添加信任的面孔</string>
+    <string name="instructions_screen_header">为了达到最佳效果，请注意以下事项：</string>
+    <string name="instructions_screen_body">" "<li><ul>"找一个亮度适中的室内场所
+
+"<li>将手机放在与视线平齐的高度</li></ul></li></string>
+    <string name="instructions_screen_continue_label">下一步</string>
+    <string name="enrollment_screen_message_initializing">正在启动…</string>
+    <string name="enrollment_screen_message_initialization_error">无法开始寻找您的面孔</string>
+    <string name="enrollment_screen_message_camera_error">摄像头不可用</string>
+    <string name="enrollment_start_message">请确保面部在虚线区域内</string>
+    <string name="enrollment_screen_message_instructions">请确保您的头顶和下巴底部均位于圆圈范围内</string>
+    <string name="enrollment_screen_message_missing_landmarks">请确保眼睛、鼻子和嘴巴清晰可见</string>
+    <string name="enrollment_screen_message_done">已添加面孔</string>
+    <string name="enrollment_screen_status_no_face">请确保面部清晰可见</string>
+    <string name="enrollment_screen_status_face_off_center">您的面部未完全显示在屏幕中</string>
+    <string name="enrollment_screen_status_missing_landmarks">无法完全识别您的面部特征</string>
+    <string name="enrollment_screen_continue_label">下一步</string>
+    <string name="enrollment_screen_done_label">完成</string>
+    <string name="enrollment_screen_talkback_preview_description">相机预览</string>
+    <string name="enrollment_screen_talkback_face_added">已添加面孔</string>
+    <string name="end_screen_title">设置完毕！</string>
+    <string name="end_screen_body">要解锁您的手机，您只需打开屏幕并平视摄像头</string>
+    <string name="end_screen_bullet_one_text">如果手机识别出您的面孔，就会立即为您解锁屏幕</string>
+    <string name="end_screen_bullet_two_text">如果设备未能识别出您的面孔，请改用图案、PIN 码或密码来解锁</string>
+    <string name="end_screen_tip_text">提示：让设备在不同条件下捕捉您的面部图像可提高面部匹配准确度</string>
+    <string name="end_screen_licenses_label">许可</string>
+    <string name="end_screen_continue_label">完成</string>
+    <string name="add_to_setup_intro_screen_title">提高面部匹配的准确度</string>
+    <string name="add_to_setup_intro_screen_header">在不同条件下捕捉您的面部图像</string>
+    <string name="add_to_setup_intro_screen_body">"例如：
+
+"<li><ul>"在不同的光线下
+
+"<li>带眼镜或不带眼镜</li>"
+
+"<li>留胡子或不留胡子</li>"
+
+"</ul></li>"
+将手机放在与视线平齐的高度"</string>
+    <string name="add_to_setup_intro_screen_continue_label">下一步</string>
+    <string name="license_screen_header">开放源代码声明</string>
+    <string name="license_screen_continue_label">确定</string>
+    <string name="shared_cancel_label">取消</string>
+</resources>

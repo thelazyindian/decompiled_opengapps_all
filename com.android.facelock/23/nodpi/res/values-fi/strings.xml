@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Trusted Face</string>
+    <string name="trusted_face_service_app_name">Trusted Face -palvelu</string>
+    <string name="receiver_app_name">Trusted Face -lähetyksen vastaanotto</string>
+    <string name="setup_app_name">Lisää luotettava kasvokuva</string>
+    <string name="add_to_setup_app_name">Paranna kasvojen tunnistusta</string>
+    <string name="intro_screen_title">Tietoja luotettavasta kasvokuvasta</string>
+    <string name="intro_screen_header">Avaa puhelimesi lukitus katsomalla laitetta.</string>
+    <string name="intro_screen_body">"Muista:
+
+ "<li><ul>"Kasvojen tunnistus on vähemmän turvallinen kuin kuvio, PIN-koodi tai salasana.
+
+ "<li>Joku näköisesi henkilö voi avata puhelimen lukituksen.</li>"
+
+ "<li>Kasvojen tunnistukseen käytetyt tiedot pidetään turvassa puhelimellasi.</li> </ul></li></string>
+    <string name="intro_screen_continue_label">Määritä asetukset</string>
+    <string name="instructions_screen_title">Lisää luotettava kasvokuva</string>
+    <string name="instructions_screen_header">Näin saat parhaat tulokset:</string>
+    <string name="instructions_screen_body">" "<li><ul>"Etsi sisätiloista paikka, jonka valaistus ei ole liian kirkas eikä liian hämärä.
+
+ "<li>Pidä puhelinta silmiesi tasolla.</li> </ul></li></string>
+    <string name="instructions_screen_continue_label">Seuraava</string>
+    <string name="enrollment_screen_message_initializing">Käynnistyy…</string>
+    <string name="enrollment_screen_message_initialization_error">Kasvojen etsimisen aloitus epäonnistui.</string>
+    <string name="enrollment_screen_message_camera_error">Kamera ei ole käytettävissä.</string>
+    <string name="enrollment_start_message">Pidä kasvot pisteillä merkityn alueen sisäpuolella</string>
+    <string name="enrollment_screen_message_instructions">Pidä päälakesi ja leukasi alalaita ympyrän sisällä.</string>
+    <string name="enrollment_screen_message_missing_landmarks">Silmien, nenän ja suun pitää näkyä.</string>
+    <string name="enrollment_screen_message_done">Kasvot lisätty.</string>
+    <string name="enrollment_screen_status_no_face">Kasvojen pitää näkyä.</string>
+    <string name="enrollment_screen_status_face_off_center">Osa kasvoistasi ei ole näkyvissä.</string>
+    <string name="enrollment_screen_status_missing_landmarks">Kaikki kasvonpiirteesi eivät ole näkyvissä.</string>
+    <string name="enrollment_screen_continue_label">Seuraava</string>
+    <string name="enrollment_screen_done_label">Valmis</string>
+    <string name="enrollment_screen_talkback_preview_description">Kameran esikatselu</string>
+    <string name="enrollment_screen_talkback_face_added">Kasvot lisätty.</string>
+    <string name="end_screen_title">Valmista tuli!</string>
+    <string name="end_screen_body">Avaa puhelimesi lukitus avaamalla näyttö ja katsomalla kameraan.</string>
+    <string name="end_screen_bullet_one_text">Puhelimen lukitus avataan heti, kun laite tunnistaa sinut.</string>
+    <string name="end_screen_bullet_two_text">Jos laite ei tunnista kasvojasi, voit avata lukituksen kuviolla, PIN-koodilla tai salasanalla.</string>
+    <string name="end_screen_tip_text">Vinkki: paranna kasvojen tunnistusta kuvaamalla kasvosi erilaisissa olosuhteissa.</string>
+    <string name="end_screen_licenses_label">Käyttöoikeudet</string>
+    <string name="end_screen_continue_label">Valmis</string>
+    <string name="add_to_setup_intro_screen_title">Paranna kasvojen tunnistusta</string>
+    <string name="add_to_setup_intro_screen_header">Kuvaa kasvosi eri olosuhteissa</string>
+    <string name="add_to_setup_intro_screen_body">"Esimerkkejä:
+
+ "<li><ul>"erilaisissa valo-olosuhteissa
+
+ "<li>silmälaseilla tai ilman</li>"
+
+ "<li>parta tai ei partaa</li>"
+
+ "</ul></li>"
+ Pidä puhelinta silmiesi tasolla."</string>
+    <string name="add_to_setup_intro_screen_continue_label">Seuraava</string>
+    <string name="license_screen_header">Avointa lähdekoodia koskevat ilmoitukset</string>
+    <string name="license_screen_continue_label">OK</string>
+    <string name="shared_cancel_label">Peruuta</string>
+</resources>

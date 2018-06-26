@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="intro_screen_header">Vula ithebulethi yakho ngokuyibheka nje</string>
+    <string name="intro_screen_body">"Khumbula:
+
+ "<li><ul>"Ukufanisa kobuso kuphephe kancane kunephethini, iphinikhodi, noma iphasiwedi
+
+ "<li>Omunye ofana nawe angakwazi ukuvula ithebhuleti yakho</li>"
+
+ "<li>Idatha esetshenziselwa ukubona ubuso bakho igcinwa iyimfihlo kuthebhulethi yakho</li> </ul></li></string>
+    <string name="instructions_screen_body">" "<li><ul>"Thola indawo endlini engakhanyi kakhulu noma emnyama kakhulu
+
+ "<li>Bamba ithebhulethi kuleveli yeso</li> </ul></li></string>
+    <string name="end_screen_body">Ukuze uvule ithebulethi yakho, vele uvule isikrini sakho uphinde ubheke ikhamera</string>
+    <string name="end_screen_bullet_one_text">Ithebulethi yakho izovula ngemuva nje kokuthi ikubone</string>
+    <string name="add_to_setup_intro_screen_body">"Izibonelo:
+
+ "<li><ul>"Emkhanyweni owehlukile
+
+ "<li>Ngezibuko ezichaziwe noma ngaphandle kwazo</li>"
+
+ "<li>Ngentshebe noma okusheviwe</li>"
+
+ "</ul></li>"
+ Beka ithebhulethi kuleveli yeso"</string>
+</resources>

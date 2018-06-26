@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">چهره مورداعتماد</string>
+    <string name="trusted_face_service_app_name">سرویس چهره مورداعتماد</string>
+    <string name="receiver_app_name">Trusted Face Broadcast Receiver</string>
+    <string name="setup_app_name">افزودن چهره مورداعتماد</string>
+    <string name="add_to_setup_app_name">بهبود مطابقت چهره</string>
+    <string name="intro_screen_title">درباره چهره مورداعتماد</string>
+    <string name="intro_screen_header">برای باز کردن قفل تلفن خود به آن نگاه کنید</string>
+    <string name="intro_screen_body">"به خاطر داشته باشید:
+
+ "<li><ul>"مطابقت چهره نسبت به الگو، پین یا گذرواژه امنیت کمتری دارد
+
+ "<li>کسی که شبیه شما باشد می‌تواند قفل تلفنتان را باز کند</li>"
+
+ "<li>داده‌هایی که برای تشخیص چهره شما استفاده می‌شود در تلفنتان به‌صورت خصوصی حفظ می‌شود</li> </ul></li></string>
+    <string name="intro_screen_continue_label">تنظیم</string>
+    <string name="instructions_screen_title">افزودن چهره مورداعتماد</string>
+    <string name="instructions_screen_header">برای بهترین نتایج:</string>
+    <string name="instructions_screen_body">" "<li><ul>"نقطه‌ای در داخل ساختمان پیدا کنید که خیلی روشن یا تاریک نباشد
+
+ "<li>تلفن را در سطح چشم نگه دارید</li> </ul></li></string>
+    <string name="instructions_screen_continue_label">بعدی</string>
+    <string name="enrollment_screen_message_initializing">در حال راه‌اندازی...</string>
+    <string name="enrollment_screen_message_initialization_error">یافتن چهره‌تان شروع نشد</string>
+    <string name="enrollment_screen_message_camera_error">دوربین در دسترس نیست</string>
+    <string name="enrollment_start_message">چهره را درون ناحیه نقطه‌دار نگه دارید</string>
+    <string name="enrollment_screen_message_instructions">قسمت بالای سرتان و قسمت پایین چانه‌تان را در حلقه قرار دهید</string>
+    <string name="enrollment_screen_message_missing_landmarks">چشم‌ها، بینی و لب را نشان دهید</string>
+    <string name="enrollment_screen_message_done">چهره افزوده شد</string>
+    <string name="enrollment_screen_status_no_face">نمایش چهره شما</string>
+    <string name="enrollment_screen_status_face_off_center">بخشی از چهره شما قابل مشاهده نیست</string>
+    <string name="enrollment_screen_status_missing_landmarks">ویژگی‌های شما دیده نمی‌شود</string>
+    <string name="enrollment_screen_continue_label">بعدی</string>
+    <string name="enrollment_screen_done_label">تمام</string>
+    <string name="enrollment_screen_talkback_preview_description">پیش‌نمایش دوربین</string>
+    <string name="enrollment_screen_talkback_face_added">چهره افزوده شد</string>
+    <string name="end_screen_title">همه چیز آماده است!</string>
+    <string name="end_screen_body">برای بازکردن قفل تلفن کافی است صفحه‌نمایش را روشن کنید و به دوربین نگاه کنید</string>
+    <string name="end_screen_bullet_one_text">به محض اینکه تلفن شما را شناسایی کند، قفل آن باز می‌شود</string>
+    <string name="end_screen_bullet_two_text">اگر چهره‌تان شناسایی نشد، به جای آن با الگو، پین یا گذرواژه قفل را باز کنید</string>
+    <string name="end_screen_tip_text">نکته: با نشان دادن چهره‌تان در موقعیت‌های مختلف، مطابقت چهره را بهبود بخشید</string>
+    <string name="end_screen_licenses_label">مجوزها</string>
+    <string name="end_screen_continue_label">تمام</string>
+    <string name="add_to_setup_intro_screen_title">بهبود مطابقت چهره</string>
+    <string name="add_to_setup_intro_screen_header">چهره‌تان را در موقعیت‌های مختلف نشان دهید</string>
+    <string name="add_to_setup_intro_screen_body">"مثال‌ها:
+
+"<li><ul>"در روشنایی متفاوت
+
+"<li>با عینک طبی یا بدون آن</li>"
+
+"<li>با ریش یا صورت اصلاح کرده</li>"
+
+"</ul></li>"
+ تلفن را در سطح چشم نگه دارید"</string>
+    <string name="add_to_setup_intro_screen_continue_label">بعدی</string>
+    <string name="license_screen_header">اعلامیه‌های منبع باز</string>
+    <string name="license_screen_continue_label">تأیید</string>
+    <string name="shared_cancel_label">لغو</string>
+</resources>

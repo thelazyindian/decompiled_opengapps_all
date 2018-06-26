@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="shutdown_countdown_text">
+        <item quantity="other">Искључивање за %d секунди...</item>
+        <item quantity="one">Искључивање за 1 секунду...</item>
+    </plurals>
+    <plurals name="sim_missing_title">
+        <item quantity="other">Уметните SIM картице</item>
+        <item quantity="one">Уметните SIM картицу</item>
+    </plurals>
+    <plurals name="sim_missing_text_tablet">
+        <item quantity="other">Да бисте уметнули SIM картице, прочитајте упутства која сте добили уз таблет.</item>
+        <item quantity="one">Да бисте уметнули SIM картицу, прочитајте упутства која сте добили уз таблет.</item>
+    </plurals>
+    <plurals name="sim_missing_text_device">
+        <item quantity="other">Да бисте уметнули SIM картице, прочитајте упутства која сте добили уз уређај.</item>
+        <item quantity="one">Да бисте уметнули SIM картицу, прочитајте упутства која сте добили уз уређај.</item>
+    </plurals>
+    <plurals name="sim_missing_text_default">
+        <item quantity="other">Да бисте уметнули SIM картице, прочитајте упутства која сте добили уз телефон.</item>
+        <item quantity="one">Да бисте уметнули SIM картицу, прочитајте упутства која сте добили уз телефон.</item>
+    </plurals>
+</resources>

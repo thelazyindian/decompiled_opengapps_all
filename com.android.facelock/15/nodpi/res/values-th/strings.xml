@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ใบหน้าที่เชื่อถือได้</string>
+    <string name="receiver_app_name">ตัวรับการกระจายข้อมูลใบหน้าที่เชื่อถือได้</string>
+    <string name="setup_app_name">เพิ่มใบหน้าที่เชื่อถือได้</string>
+    <string name="enrollment_continue_label">ถัดไป</string>
+    <string name="enrollment_done_label">เสร็จสิ้น</string>
+    <string name="enrollment_initializing">กำลังเริ่มต้น...</string>
+    <string name="enrollment_start_message">ให้ใบหน้าอยู่ภายในพื้นที่รอยประ</string>
+    <string name="gar_preview_description">แสดงตัวอย่างจากกล้องถ่ายรูป</string>
+    <string name="error_no_face">แสดงใบหน้าของคุณ</string>
+    <string name="enrollment_missing_landmarks">แสดงตา จมูก และปาก</string>
+    <string name="enrollment_missing_landmarks_status">ไม่เห็นลักษณะเด่นของคุณ</string>
+    <string name="enrollment_off_center_status">ไม่เห็นใบหน้าบางส่วนของคุณ</string>
+    <string name="gar_enrollment_face_added">เพิ่มใบหน้าแล้ว</string>
+    <string name="enrollment_done">รับทราบ</string>
+    <string name="tutorial_app_name">เกี่ยวกับใบหน้าที่เชื่อถือได้</string>
+    <string name="tutorial_header">ดูที่โทรศัพท์เพื่อปลดล็อก</string>
+    <string name="tutorial_info_text">"โปรดทราบว่า
+
+ "<li><ul>"การปลดล็อกด้วยใบหน้านั้นปลอดภัยน้อยกว่าการใช้รูปแบบ, PIN หรือรหัสผ่าน
+
+ "<li>ผู้ที่หน้าเหมือนคุณจะสามารถปลดล็อกโทรศัพท์ของคุณได้</li>"
+
+ "<li>ข้อมูลที่ใช้ระบุใบหน้าของคุณจะเก็บไว้เป็นส่วนตัวในโทรศัพท์</li>"
+
+ "</ul></li></string>
+    <string name="tutorial_continue_label">ตั้งค่า</string>
+    <string name="intro_header">เพื่อให้ได้ผลลัพธ์ที่ดีที่สุด:</string>
+    <string name="intro_info_text">" "<li><ul>"หาพื้นที่ในอาคารที่มีแสงปานกลาง ไม่สว่างหรือมืดเกินไป
+
+"<li>ถือโทรศัพท์ในระดับสายตา</li>"
+
+"</ul></li></string>
+    <string name="intro_continue_label">ถัดไป</string>
+    <string name="endscreen_header">ตั้งค่าเสร็จแล้ว!</string>
+    <string name="endscreen_info_text">เมื่อคุณต้องการปลดล็อก เพียงแค่เปิดหน้าจอและแสดงใบหน้าให้กล้องเห็น</string>
+    <string name="endscreen_bullet_one_text">โทรศัพท์จะปลดล็อกทันทีที่จำคุณได้</string>
+    <string name="endscreen_bullet_two_text">หากโทรศัพท์ไม่รู้จักใบหน้าของคุณ คุณสามารถปลดล็อกด้วยรูปแบบ, PIN หรือรหัสผ่าน</string>
+    <string name="endscreen_tip_text">เคล็ดลับ: ปรับปรุงการจับคู่ใบหน้าได้โดยการแสดงใบหน้าในรูปแบบต่างๆ</string>
+    <string name="endscreen_continue_label">ตกลง</string>
+    <string name="endscreen_license_label">ใบอนุญาต</string>
+    <string name="addtosetup_app_name">ปรับปรุงการจับคู่ใบหน้า</string>
+    <string name="addtosetup_header">แสดงใบหน้าในหลายๆ รูปแบบ</string>
+    <string name="addtosetup_info_text">"ตัวอย่าง:
+
+ "<li><ul>"ในสภาวะแสงต่างๆ
+
+ "<li>ใส่หรือไม่ใส่แว่นสายตา</li>"
+
+ "<li>มีหรือไม่มีเครา</li>"
+
+ "</ul></li>"
+ถือโทรศัพท์ในระดับสายตา"</string>
+    <string name="addtosetup_continue_label">ถัดไป</string>
+    <string name="license_screen_header">ประกาศโอเพนซอร์ส</string>
+    <string name="license_screen_continue_label">ตกลง</string>
+    <string name="face_unlock_service_app_name">บริการ Face Unlock</string>
+    <string name="trusted_face_service_app_name">บริการใบหน้าที่เชื่อถือได้</string>
+    <string name="service_face_not_found">ไม่พบใบหน้า</string>
+    <string name="service_not_a_match">ขอโทษที ฉันไม่รู้จักคุณ</string>
+    <string name="service_liveliness_start">กะพริบตาเลย</string>
+    <string name="service_liveliness_timeout">ไม่พบการกะพริบตาของคุณ</string>
+    <string name="service_low_ligthing">มืดเกินไป</string>
+    <string name="shared_initialize_error">ไม่สามารถเริ่มค้นหาใบหน้าของคุณ</string>
+    <string name="shared_camera_error">กล้องไม่พร้อมใช้งาน</string>
+    <string name="shared_read_gallery_error">โปรดทำการตั้งค่าอีกครั้ง</string>
+    <string name="shared_cancel_label">ยกเลิก</string>
+</resources>

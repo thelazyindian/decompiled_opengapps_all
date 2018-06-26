@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ишенимдүү бет</string>
+    <string name="receiver_app_name">Ишенимдүү Бет Жайылтуусун Кабыл Алгыч</string>
+    <string name="setup_app_name">Ишенимдүү жүз кошуу</string>
+    <string name="enrollment_continue_label">Кийинки</string>
+    <string name="enrollment_done_label">Аткарылды</string>
+    <string name="enrollment_initializing">Башталууда…</string>
+    <string name="enrollment_start_message">Жүзүңүздү чекиттүү аймактын ичинде кармаңыз</string>
+    <string name="gar_preview_description">Камеранын алдыртан көрүнүшү</string>
+    <string name="error_no_face">Жүзүңүздү көрсөтүңүз</string>
+    <string name="enrollment_missing_landmarks">Көздөрдү, мурунду жана оозду көрсөтүңүз</string>
+    <string name="enrollment_missing_landmarks_status">Жүзүңүз жакшы көрүнбөй жатат</string>
+    <string name="enrollment_off_center_status">Жүзүңүздүн бир бөлүгү көрүнбөй жатат</string>
+    <string name="gar_enrollment_face_added">Жүз кошулду</string>
+    <string name="enrollment_done">Түшүндүм</string>
+    <string name="tutorial_app_name">Ишенимдүү бет жөнүндө</string>
+    <string name="tutorial_header">Телефонуңуздун кулпусун ачуу үчүн, аны карап коюңуз.</string>
+    <string name="tutorial_info_text">"Төмөнкүлөрдү эске алып коюңуз:
+
+ "<li><ul>"Кулпуну жүз менен ачууга караганда, үлгү, PIN код же сырсөз менен ачуу кыйла коопсуз.
+
+ "<li>Тагыраак айтканда, сизге түспөлдөш адам телефонуңуздун кулпусун ачып алышы мүмкүн.</li>"
+
+ "<li>Жүзүңүздү далдаштыруу үчүн колдонулган дайындар телефонуңузда купуя шартта сакталат.</li>"
+
+ "</ul></li></string>
+    <string name="tutorial_continue_label">Орнотуу</string>
+    <string name="intro_header">Мыкты натыйжаларды алуу үчүн:</string>
+    <string name="intro_info_text">" "<li><ul>"Ичкериде өтө жарык же өтө караңгы эмес жай табыңыз.
+
+ "<li>Телефонду көзүңүздүн деңгээлинде кармаңыз.</li>"
+
+ "</ul></li></string>
+    <string name="intro_continue_label">Кийинки</string>
+    <string name="endscreen_header">Дапдаяр!</string>
+    <string name="endscreen_info_text">Кулпуну ачуу үчүн, жөн гана экраныңызды күйгүзүп, камераны жүзүңүзгө алып келиңиз.</string>
+    <string name="endscreen_bullet_one_text">Телефонуңуздун кулпусу сизди тааныр замат ачылат.</string>
+    <string name="endscreen_bullet_two_text">Эгер телефонуңуз жүзүңүздү тааныбаса, анын кулпусун үлгү ачкычы, PIN же сырсөзүңүз менен ача аласыз.</string>
+    <string name="endscreen_tip_text">Кеңеш: Жүзүңүздү ар кандай шартта тартcаңыз, ал жакшыраак таанылат.</string>
+    <string name="endscreen_continue_label">OK</string>
+    <string name="endscreen_license_label">Уруксаттамалар</string>
+    <string name="addtosetup_app_name">Жүз далдаштыргычын өркүндөтүү</string>
+    <string name="addtosetup_header">Ар кандай шарттарда кандай көрүнө турганыңызды көрсөтүңүз.</string>
+    <string name="addtosetup_info_text">"Мисалдар:
+
+ "<li><ul>"Жарык ар кайсы жактан түшүп турганда
+
+ "<li>Көз айнекчен же көз айнексиз</li>"
+
+ "<li>Сакалчан же сакалсыз</li>"
+
+ "</ul></li>"
+Телефонду көзүңүздүн деңгээлинде кармаңыз."</string>
+    <string name="addtosetup_continue_label">Кийинки</string>
+    <string name="license_screen_header">Ачык программалар жөнүндө эскертмелер</string>
+    <string name="license_screen_continue_label">OK</string>
+    <string name="face_unlock_service_app_name">Кулпуну жүз менен ачуу кызматы</string>
+    <string name="trusted_face_service_app_name">Ишенимдүү жүз кызматы</string>
+    <string name="service_face_not_found">Жүз табылган жок</string>
+    <string name="service_not_a_match">Кечиресиз, сизди тааныган жокмун</string>
+    <string name="service_liveliness_start">Көзүңүздү ирмеңиз</string>
+    <string name="service_liveliness_timeout">Көзүңүздүн ирмелиши тартылбай калды</string>
+    <string name="service_low_ligthing">Өтө караңгы</string>
+    <string name="shared_initialize_error">Бетиңизди издөөнү баштай алган жок</string>
+    <string name="shared_camera_error">Камера жеткиликтүү эмес</string>
+    <string name="shared_read_gallery_error">Дагы бир жолу орнотуп көрүңүз</string>
+    <string name="shared_cancel_label">Жокко чыгаруу</string>
+</resources>

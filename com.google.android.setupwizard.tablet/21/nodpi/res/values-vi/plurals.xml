@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="shutdown_countdown_text">
+        <item quantity="other">Sẽ tắt sau %d giây…</item>
+        <item quantity="one">Sẽ tắt sau 1 giây…</item>
+    </plurals>
+    <plurals name="sim_missing_title">
+        <item quantity="other">Lắp thẻ SIM</item>
+        <item quantity="one">Lắp thẻ SIM</item>
+    </plurals>
+    <plurals name="sim_missing_text_tablet">
+        <item quantity="other">Để lắp thẻ SIM, hãy đọc hướng dẫn đi kèm máy tính bảng.</item>
+        <item quantity="one">Để lắp thẻ SIM, hãy đọc hướng dẫn đi kèm máy tính bảng của bạn.</item>
+    </plurals>
+    <plurals name="sim_missing_text_device">
+        <item quantity="other">Để lắp thẻ SIM, hãy đọc hướng dẫn đi kèm thiết bị.</item>
+        <item quantity="one">Để lắp thẻ SIM, hãy đọc hướng dẫn đi kèm với thiết bị của bạn.</item>
+    </plurals>
+    <plurals name="sim_missing_text_default">
+        <item quantity="other">Để lắp thẻ SIM, hãy đọc hướng dẫn đi kèm điện thoại.</item>
+        <item quantity="one">Để lắp thẻ SIM, đọc hướng dẫn đi kèm điện thoại của bạn.</item>
+    </plurals>
+</resources>

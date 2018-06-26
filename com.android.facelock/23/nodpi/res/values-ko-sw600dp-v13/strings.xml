@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="intro_screen_header">얼굴 인식을 통해 태블릿을 잠금 해제합니다.</string>
+    <string name="intro_screen_body">"주의사항:
+
+ "<li><ul>"얼굴 인식 잠금 해제는 패턴, PIN 또는 비밀번호보다 안전하지 못합니다.
+
+ "<li>본인과 닮은 사람도 태블릿의 잠금을 해제할 수 있습니다.</li>"
+
+ "<li>얼굴을 인식하기 위해 사용한 데이터는 태블릿에서 비공개로 보관됩니다.</li> </ul></li></string>
+    <string name="instructions_screen_body">" "<li><ul>"너무 밝거나 어둡지 않은 적절한 조명이 있는 실내 장소를 찾습니다.
+
+ "<li>태블릿을 눈높이에 둡니다.</li> </ul></li></string>
+    <string name="end_screen_body">태블릿을 잠금 해제하려면 화면을 켜고 카메라를 바라보세요.</string>
+    <string name="end_screen_bullet_one_text">태블릿이 사용자를 인식하는 즉시 잠금 해제됩니다.</string>
+    <string name="add_to_setup_intro_screen_body">"예:
+
+ "<li><ul>"다양한 조명에서
+
+ "<li>안경을 쓰거나 벗고</li>"
+
+ "<li>수염을 기르거나 깔끔히 면도하고</li>"
+
+ "</ul></li>"
+ 태블릿을 눈높이에 둡니다."</string>
+</resources>

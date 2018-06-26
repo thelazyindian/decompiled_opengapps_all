@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WizardScript wizard:version="2"
+  xmlns:wizard="http://schemas.android.com/apk/res/com.google.android.setupwizard">
+    <WizardAction wizard:uri="intent:#Intent;action=com.android.setupwizard.SIM_MISSING;end" id="sim_missing" />
+    <WizardAction wizard:uri="intent:#Intent;action=com.android.setupwizard.CARRIER_SETUP;end" id="carrier_setup" />
+    <WizardAction wizard:uri="intent:#Intent;action=com.android.setupwizard.SIM_SETUP;end" id="sim_setup" />
+    <WizardAction wizard:uri="intent:#Intent;action=com.google.android.setupwizard.CHECK_FRP;end" id="check_frp" />
+    <WizardAction wizard:uri="intent:#Intent;action=com.android.setupwizard.NETWORK_SETTINGS;end" id="network_settings">
+        <result wizard:resultCode="101" wizard:action="activate_mobile_data" wizard:name="use_mobile" />
+        <result wizard:resultCode="102" wizard:action="wifi_settings" wizard:name="see_all_wifi" />
+        <result wizard:resultCode="1" wizard:action="date_time" wizard:name="skip" />
+        <result wizard:action="captive_portal" />
+    </WizardAction>
+    <WizardAction wizard:uri="intent:#Intent;action=com.android.setupwizard.ACTIVATE_MOBILE_DATA;end" id="activate_mobile_data">
+        <result wizard:action="captive_portal" />
+    </WizardAction>
+    <WizardAction wizard:uri="intent:#Intent;action=com.android.setupwizard.WIFI_SETTINGS;end" id="wifi_settings">
+        <result wizard:resultCode="101" wizard:action="activate_mobile_data" wizard:name="use_mobile" />
+        <result wizard:resultCode="1" wizard:action="date_time" wizard:name="skip" />
+    </WizardAction>
+    <WizardAction wizard:uri="intent:#Intent;action=com.android.setupwizard.CAPTIVE_PORTAL;end" id="captive_portal" />
+    <WizardAction wizard:uri="intent:#Intent;action=com.google.android.setupwizard.CHECK_FRP;end" id="check_frp_required">
+        <result wizard:resultCode="101" wizard:action="load_account_intent_frp" wizard:name="frp_required" />
+        <result wizard:action="date_time" />
+    </WizardAction>
+    <WizardAction wizard:uri="intent:#Intent;action=com.google.android.setupwizard.LOAD_ADD_ACCOUNT_INTENT;B.showTapAndGo=false;B.resolveFrpOnly=true;end" id="load_account_intent_frp" />
+    <WizardAction wizard:uri="intent:#Intent;action=com.google.android.setupwizard.ACCOUNT_SETUP;B.finishWhenDone=true;end" id="resolve_frp" />
+    <WizardAction wizard:uri="intent:#Intent;action=com.android.setupwizard.DATE_TIME;end" id="date_time" />
+    <WizardAction wizard:uri="intent:#Intent;action=com.android.setupwizard.START_RETAIL_MODE;end" id="retail_mode_warning" />
+</WizardScript>

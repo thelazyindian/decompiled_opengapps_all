@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="shutdown_countdown_text">
+        <item quantity="other">Magsa-shut down sa loob ng %d na segundo...</item>
+        <item quantity="one">Magsa-shut down sa loob ng %d segundo...</item>
+    </plurals>
+    <plurals name="sim_missing_title">
+        <item quantity="other">Maglagay ng mga SIM card</item>
+        <item quantity="one">Maglagay ng mga SIM card</item>
+    </plurals>
+    <plurals name="sim_missing_text_tablet">
+        <item quantity="other">Hindi mo ba sigurado kung paano? Tingnan ang mga tagubilin na kasama ng iyong tablet.</item>
+        <item quantity="one">Hindi mo ba sigurado kung paano? Tingnan ang mga tagubilin na kasama ng iyong tablet.</item>
+    </plurals>
+    <plurals name="sim_missing_text_device">
+        <item quantity="other">Hindi mo ba sigurado kung paano? Tingnan ang mga tagubilin na kasama ng iyong device.</item>
+        <item quantity="one">Hindi mo ba sigurado kung paano? Tingnan ang mga tagubilin na kasama ng iyong device.</item>
+    </plurals>
+    <plurals name="sim_missing_text_default">
+        <item quantity="other">Hindi mo ba sigurado kung paano? Tingnan ang mga tagubilin na kasama ng iyong telepono.</item>
+        <item quantity="one">Hindi mo ba sigurado kung paano? Tingnan ang mga tagubilin na kasama ng iyong telepono.</item>
+    </plurals>
+    <plurals name="walled_garden_check_timeout_text">
+        <item quantity="other">Maaari itong tumagal nang hanggang %d na minuto</item>
+        <item quantity="one">Maaari itong tumagal nang hanggang %d minuto</item>
+    </plurals>
+</resources>

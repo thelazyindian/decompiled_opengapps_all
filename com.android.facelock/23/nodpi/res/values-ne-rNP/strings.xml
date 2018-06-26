@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">विश्वसनीय अनुहार</string>
+    <string name="trusted_face_service_app_name">विश्वसनीय अनुहार सेवा</string>
+    <string name="receiver_app_name">विश्वसनीय अनुहार प्रसारण रिसिभर</string>
+    <string name="setup_app_name">विश्वसनीय अनुहार थप्नुहोस्</string>
+    <string name="add_to_setup_app_name">अनुहार पहिचान कार्यलाई सुधार गर्नुहोस्</string>
+    <string name="intro_screen_title">विश्वसनीय अनुहारको बारेमा</string>
+    <string name="intro_screen_header">फोनलाई हेरी अनलक गर्नुहोस्</string>
+    <string name="intro_screen_body">"सम्झनुहोस्: 
+
+"<li><ul>" ढाँचा, PIN, वा पासवर्डभन्दा अनुहार मिलाउनु कम सुरक्षित हुन्छ 
+
+"<li> तपाईँ जस्तै देखिने जो कोहीले पनि तपाईँको ट्याब्लेट अनलक गर्न सक्छ </li>"
+
+"<li> तपाईँको अनुहार चिन्न प्रयोग गरिने डेटालाई तपाईँको फोनमा निजी रूपमा राखिन्छ </li></ul></li></string>
+    <string name="intro_screen_continue_label">सेटअप गर्नुहोस्</string>
+    <string name="instructions_screen_title">विश्वसनीय अनुहार थप्नुहोस्</string>
+    <string name="instructions_screen_header">उत्तम परिणामहरूको लागि:</string>
+    <string name="instructions_screen_body">" "<li><ul>" धेरै मधुरो वा धेरै उज्यालो पनि नभएको भित्री स्थान पत्ता लगाउनुहोस् 
+
+"<li> फोनलाई आँखा तहमा होल्ड गर्नुहोस् </li></ul></li></string>
+    <string name="instructions_screen_continue_label">अर्को</string>
+    <string name="enrollment_screen_message_initializing">सुरु गरिँदै...</string>
+    <string name="enrollment_screen_message_initialization_error">तपाईँको अनुहार फेला पार्ने कार्य सुरू गर्न सकिएन</string>
+    <string name="enrollment_screen_message_camera_error">क्यामेरा उपलब्ध छैन</string>
+    <string name="enrollment_start_message">डट गरिएको क्षेत्र भित्र अनुहार राख्नुहोस्</string>
+    <string name="enrollment_screen_message_instructions">आफ्नो निधार र चिउँडो घेराको भित्र राख्नुहोस्</string>
+    <string name="enrollment_screen_message_missing_landmarks">आँखा, नाक र मुख देखाउनुहोस्</string>
+    <string name="enrollment_screen_message_done">अनुहार थपियो</string>
+    <string name="enrollment_screen_status_no_face">तपाईँको अनुहार देखाउनुहोस्</string>
+    <string name="enrollment_screen_status_face_off_center">तपाईँको अनुहारको केही भाग देखिदैन</string>
+    <string name="enrollment_screen_status_missing_landmarks">तपाईँको अनुहारका केही भाग देखिदैन</string>
+    <string name="enrollment_screen_continue_label">अर्को</string>
+    <string name="enrollment_screen_done_label">सम्पन्‍न भयो</string>
+    <string name="enrollment_screen_talkback_preview_description">क्यामेरा पूर्वावलोकन</string>
+    <string name="enrollment_screen_talkback_face_added">अनुहार थपियो</string>
+    <string name="end_screen_title">सबै तयार!</string>
+    <string name="end_screen_body">आफ्नो फोन अनलक गर्न, स्क्रिन खोली क्यामेरामा हेर्नुहोस्</string>
+    <string name="end_screen_bullet_one_text">तपाईँको फोनले तपाईँको पहिचान हुने बित्तिकै त्यो अनलक हुनेछ</string>
+    <string name="end_screen_bullet_two_text">यदि तपाईँको अनुहार पहिचान हुन सकेन भने, ढाँचा, PIN, वा पासवर्डद्वारा अनलक गर्नुहोस्।</string>
+    <string name="end_screen_tip_text">सुझाव: अनुहार पहिचान कार्यलाई सुधार गर्न विभिन्‍न अवस्थामा तपाईँका तस्बिरहरू देखाउनुहोस्।</string>
+    <string name="end_screen_licenses_label">इजाजत पत्रहरू</string>
+    <string name="end_screen_continue_label">सम्पन्‍न भयो</string>
+    <string name="add_to_setup_intro_screen_title">अनुहार पहिचान कार्यलाई सुधार गर्नुहोस्</string>
+    <string name="add_to_setup_intro_screen_header">"विभिन्‍न अवस्थामा तपाईँको  तस्बिर देखाउनुहोस्।"</string>
+    <string name="add_to_setup_intro_screen_body">"उदाहरणहरू:
+
+ "<li><ul>" विभिन्न प्रकाशमा 
+
+ "<li> निर्देशित चस्मासँग वा बिना</li>"
+
+ "<li> दाह्री भएको वा सफासँग काटेको</li>"
+
+ "</ul></li>"
+ फोनलाई आँखाको तहमा होल्ड गर्नुहोस्"</string>
+    <string name="add_to_setup_intro_screen_continue_label">अर्को</string>
+    <string name="license_screen_header">खुला स्रोत सुचनाहरू</string>
+    <string name="license_screen_continue_label">ठीक छ</string>
+    <string name="shared_cancel_label">रद्द गर्नुहोस्</string>
+</resources>

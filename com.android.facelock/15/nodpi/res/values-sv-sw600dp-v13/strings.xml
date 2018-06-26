@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="tutorial_header">Lås upp surfplattan genom att titta på den.</string>
+    <string name="tutorial_info_text">"Ha dessa saker i åtanke:
+
+ "<li><ul>"Ansiktsigenkänning är inte lika säkert som ett mönster, en pinkod eller ett lösenord.
+
+ "<li>Någon som liknar dig skulle kunna låsa upp surfplattan.</li>"
+
+ "<li>Den data som används för att känna igen ditt ansikte hålls i säkert förvar på surfplattan.</li>"
+
+ "</ul></li></string>
+    <string name="intro_info_text">" "<li><ul>"Hitta en plats inomhus med lagom belysning, inte för ljust eller för mörkt.
+
+ "<li>Håll surfplattan i ögonhöjd.</li>"
+
+ "</ul></li></string>
+    <string name="endscreen_bullet_one_text">Surfplattan låses upp så snart du har identifierats.</string>
+    <string name="endscreen_bullet_two_text">Om ditt ansikte inte kan identifieras kan du låsa upp surfplattan med ditt mönster, pinkoden eller lösenordet.</string>
+    <string name="addtosetup_info_text">"Exempel:
+
+ "<li><ul>"I olika belysning
+
+ "<li>Med eller utan glasögon</li>"
+
+ "<li>Med eller utan skägg</li>"
+
+ "</ul></li>"
+Håll surfplattan i ögonhöjd."</string>
+</resources>

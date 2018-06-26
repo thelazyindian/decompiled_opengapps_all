@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="passwordStrength">
+        <item>слаба</item>
+        <item>надеждна</item>
+        <item>добра</item>
+        <item>много добра</item>
+    </string-array>
+</resources>

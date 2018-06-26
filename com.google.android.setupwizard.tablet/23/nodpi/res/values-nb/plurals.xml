@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="shutdown_countdown_text">
+        <item quantity="other">Avslutter om %d sekunder …</item>
+        <item quantity="one">Avslutter om 1 sekund …</item>
+    </plurals>
+    <plurals name="sim_missing_title">
+        <item quantity="other">Sett inn SIM-kortene</item>
+        <item quantity="one">Sett inn SIM-kortet</item>
+    </plurals>
+    <plurals name="sim_missing_text_tablet">
+        <item quantity="other">Er du ikke sikker på hvordan? Les instruksjonene som fulgte med nettbrettet.</item>
+        <item quantity="one">Er du ikke sikker på hvordan? Les instruksjonene som fulgte med nettbrettet.</item>
+    </plurals>
+    <plurals name="sim_missing_text_device">
+        <item quantity="other">Er du ikke sikker på hvordan? Les instruksjonene som fulgte med enheten.</item>
+        <item quantity="one">Er du ikke sikker på hvordan? Les instruksjonene som fulgte med enheten.</item>
+    </plurals>
+    <plurals name="sim_missing_text_default">
+        <item quantity="other">Er du ikke sikker på hvordan? Les instruksjonene som fulgte med telefonen.</item>
+        <item quantity="one">Er du ikke sikker på hvordan? Les instruksjonene som fulgte med telefonen.</item>
+    </plurals>
+    <plurals name="walled_garden_check_timeout_text">
+        <item quantity="other">Dette kan ta opptil %d minutter</item>
+        <item quantity="one">Dette kan ta opptil %d minutt</item>
+    </plurals>
+</resources>

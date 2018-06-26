@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="intro_screen_header">Entsperren Sie Ihr Tablet, indem Sie es ansehen.</string>
+    <string name="intro_screen_body">"Beachten Sie bitte Folgendes:
+
+ "<li><ul>"Die Gesichtserkennung ist nicht so sicher wie ein Muster, eine PIN oder ein Passwort.
+
+ "<li>Jemand, der Ihnen ähnlich sieht, könnte Ihr Tablet entsperren.</li>"
+
+ "<li>Die zur Gesichtserkennung verwendeten Daten sind auf dem Tablet nicht für andere zugänglich.</li></ul></li></string>
+    <string name="instructions_screen_body">" "<li><ul>"Suchen Sie eine Stelle in einem Raum, die weder zu hell noch zu dunkel ist.
+
+ "<li>Halten Sie das Tablet auf Augenhöhe.</li></ul></li></string>
+    <string name="end_screen_body">Um Ihr Tablet zu entsperren, aktivieren Sie einfach den Bildschirm und sehen Sie in die Kamera.</string>
+    <string name="end_screen_bullet_one_text">Das Tablet wird entsperrt, sobald es Sie erkannt hat.</string>
+    <string name="add_to_setup_intro_screen_body">"Beispiele:
+
+ "<li><ul>"In verschiedenen Lichtverhältnissen
+
+ "<li>Mit oder ohne Brille</li>"
+
+ "<li>Mit Bart oder rasiert</li>"
+
+ "</ul></li>"
+Halten Sie das Tablet auf Augenhöhe."</string>
+</resources>

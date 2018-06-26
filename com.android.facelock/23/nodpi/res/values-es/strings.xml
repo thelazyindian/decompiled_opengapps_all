@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Cara de confianza</string>
+    <string name="trusted_face_service_app_name">Servicio de cara de confianza</string>
+    <string name="receiver_app_name">Receptor de emisión de la opción Cara de confianza</string>
+    <string name="setup_app_name">Añade una cara de confianza</string>
+    <string name="add_to_setup_app_name">Mejorar el reconocimiento facial</string>
+    <string name="intro_screen_title">Información sobre la cara de confianza</string>
+    <string name="intro_screen_header">Desbloquea el teléfono con solo mirarlo</string>
+    <string name="intro_screen_body">"Recuerda:
+
+ "<li><ul>"El reconocimiento facial es menos seguro que un patrón, un PIN o una contraseña.
+
+ "<li>Alguien que se parezca a ti podría desbloquear tu teléfono.</li>"
+
+ "<li>Los datos utilizados para reconocer tu cara se almacenan de forma privada en tu teléfono.</li> </ul></li></string>
+    <string name="intro_screen_continue_label">Configurar</string>
+    <string name="instructions_screen_title">Añadir una cara de confianza</string>
+    <string name="instructions_screen_header">Para obtener mejores resultados:</string>
+    <string name="instructions_screen_body">" "<li><ul>"Busca un espacio interior con una iluminación adecuada (que no sea ni demasiado intensa ni demasiado tenue).
+
+ "<li>Sitúa el teléfono a la altura de los ojos.</li> </ul></li></string>
+    <string name="instructions_screen_continue_label">Siguiente</string>
+    <string name="enrollment_screen_message_initializing">Iniciando...</string>
+    <string name="enrollment_screen_message_initialization_error">No se ha podido empezar a buscar tu cara</string>
+    <string name="enrollment_screen_message_camera_error">La cámara no está disponible</string>
+    <string name="enrollment_start_message">Mantén tu cara dentro del área de puntos</string>
+    <string name="enrollment_screen_message_instructions">Mantén la parte superior de la cabeza y la parte inferior de la barbilla dentro del círculo</string>
+    <string name="enrollment_screen_message_missing_landmarks">Muestra tus ojos, la nariz y la boca</string>
+    <string name="enrollment_screen_message_done">Cara añadida</string>
+    <string name="enrollment_screen_status_no_face">Muestra tu cara</string>
+    <string name="enrollment_screen_status_face_off_center">No se puede ver parte de tu cara</string>
+    <string name="enrollment_screen_status_missing_landmarks">No te puedo ver bien</string>
+    <string name="enrollment_screen_continue_label">Siguiente</string>
+    <string name="enrollment_screen_done_label">Listo</string>
+    <string name="enrollment_screen_talkback_preview_description">Vista previa de cámara</string>
+    <string name="enrollment_screen_talkback_face_added">Cara añadida</string>
+    <string name="end_screen_title">¡Has terminado!</string>
+    <string name="end_screen_body">Para desbloquear el teléfono, solo tienes que activar la pantalla y mirar a la cámara.</string>
+    <string name="end_screen_bullet_one_text">El teléfono se desbloquea cuando te reconoce.</string>
+    <string name="end_screen_bullet_two_text">Si el dispositivo no reconoce tu cara, puedes desbloquearlo con tu patrón, PIN o contraseña.</string>
+    <string name="end_screen_tip_text">Consejo: Para mejorar el reconocimiento facial, muestra tu aspecto en diferentes situaciones</string>
+    <string name="end_screen_licenses_label">Licencias</string>
+    <string name="end_screen_continue_label">Listo</string>
+    <string name="add_to_setup_intro_screen_title">Mejorar el reconocimiento facial</string>
+    <string name="add_to_setup_intro_screen_header">Muestra tu aspecto en diferentes situaciones</string>
+    <string name="add_to_setup_intro_screen_body">"Por ejemplo:
+
+ "<li><ul>"con distinta iluminación,
+
+ "<li>con o sin gafas graduadas,</li>"
+
+ "<li>con barba o afeitado.</li>"
+
+ "</ul></li>"
+ Sitúa el teléfono a la altura de los ojos."</string>
+    <string name="add_to_setup_intro_screen_continue_label">Siguiente</string>
+    <string name="license_screen_header">Avisos de código abierto</string>
+    <string name="license_screen_continue_label">Aceptar</string>
+    <string name="shared_cancel_label">Cancelar</string>
+</resources>

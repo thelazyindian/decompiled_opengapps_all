@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ishonchli yuz</string>
+    <string name="trusted_face_service_app_name">Ishonchli yuz xizmati</string>
+    <string name="receiver_app_name">Ishonchli yuz ma’lumotni qabul qilgich</string>
+    <string name="setup_app_name">Ishonchli yuz qo‘shish</string>
+    <string name="add_to_setup_app_name">Yuz tekshiruvini yaxshilash</string>
+    <string name="intro_screen_title">Ishonchli yuz haqida</string>
+    <string name="intro_screen_header">Telefoningizni yuz tekshiruvi yordamida qulfdan chiqaring</string>
+    <string name="intro_screen_body">"Esda tuting:
+
+ "<li><ul>"Yuz tekshiruvining himoya darajasi chizmali kalit, PIN-kod yoki parolnikidek emas
+
+ "<li>Sizga o‘xshaydigan biror kimsa telefoningizni qulfdan chiqara olishi mumkin</li>"
+
+ "<li>Yuzingizni tanish uchun ishlatiladigan ma’lumotlar faqat ushbu telefonda saqlanadi</li> </ul></li></string>
+    <string name="intro_screen_continue_label">Sozlash</string>
+    <string name="instructions_screen_title">Ishonchli yuz qo‘shish</string>
+    <string name="instructions_screen_header">Eng yaxshi natijaga erishish uchun:</string>
+    <string name="instructions_screen_body">" "<li><ul>"Ichkaridan juda yorug‘ ham, juda qorong‘i ham bo‘lmagan joy toping
+
+ "<li>Telefonni ko‘z balandligida tuting</li> </ul></li></string>
+    <string name="instructions_screen_continue_label">Keyingi</string>
+    <string name="enrollment_screen_message_initializing">Ishga tushirilmoqda…</string>
+    <string name="enrollment_screen_message_initialization_error">Yuzingizni topib bo‘lmayapti</string>
+    <string name="enrollment_screen_message_camera_error">Kamera tayyor emas</string>
+    <string name="enrollment_start_message">Yuzingizni nuqtalar bilan belgilangan hudud ichida tuting</string>
+    <string name="enrollment_screen_message_instructions">Yuzingiz to‘liq aylana ichiga tushsin</string>
+    <string name="enrollment_screen_message_missing_landmarks">Ko‘z, burun va og‘zingiz ko‘rinsin</string>
+    <string name="enrollment_screen_message_done">Yuz tekshiruvi tugadi</string>
+    <string name="enrollment_screen_status_no_face">Yuzingizni ko‘rsating</string>
+    <string name="enrollment_screen_status_face_off_center">Yuzingizning bir qismi ko‘rinmayapti</string>
+    <string name="enrollment_screen_status_missing_landmarks">Yuzingiz tuzilishi ko‘rinmayapti</string>
+    <string name="enrollment_screen_continue_label">Keyingi</string>
+    <string name="enrollment_screen_done_label">Tayyor</string>
+    <string name="enrollment_screen_talkback_preview_description">Kamera orqali ko‘rish</string>
+    <string name="enrollment_screen_talkback_face_added">Yuz tekshiruvi tugadi</string>
+    <string name="end_screen_title">Hammasi tayyor!</string>
+    <string name="end_screen_body">Telefonni qulfdan chiqarish uchun shunchaki ekranni yoqing va kameraga qarang</string>
+    <string name="end_screen_bullet_one_text">Telefon sizni tanishi bilanoq qulfdan chiqariladi</string>
+    <string name="end_screen_bullet_two_text">Agar qurilma yuzingizni taniy olmasa, uni chizmali kalit, PIN-kod yoki parol yordamida qulfdan chiqaring</string>
+    <string name="end_screen_tip_text">Maslahat: Yuzingizni turli holatlarda suratga tushirish orqali yuzni tanish aniqligini oshiring</string>
+    <string name="end_screen_licenses_label">Litsenziyalar</string>
+    <string name="end_screen_continue_label">Tayyor</string>
+    <string name="add_to_setup_intro_screen_title">Yuz tekshiruvini yaxshilash</string>
+    <string name="add_to_setup_intro_screen_header">Yuzingizni turli holatlarda suratga tushiring</string>
+    <string name="add_to_setup_intro_screen_body">"Misollar:
+
+ "<li><ul>"Turli yorug‘lik ostida
+
+ "<li>Ko‘zoynak bilan yoki ko‘zoynaksiz</li>"
+
+ "<li>Soqol bilan yoki soqol qirilgan holatda</li>"
+
+ "</ul></li>"
+ Telefonni ko‘z balandligida tuting"</string>
+    <string name="add_to_setup_intro_screen_continue_label">Keyingi</string>
+    <string name="license_screen_header">Ochiq kodli dasturiy ta’minot eslatmalari</string>
+    <string name="license_screen_continue_label">OK</string>
+    <string name="shared_cancel_label">Bekor qilish</string>
+</resources>

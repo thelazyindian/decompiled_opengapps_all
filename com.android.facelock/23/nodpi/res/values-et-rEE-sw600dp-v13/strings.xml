@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="intro_screen_header">Avage tahvelarvuti seda vaadates</string>
+    <string name="intro_screen_body">"Pidage meeles.
+
+ "<li><ul>"Näotuvastusega avamine ei ole nii turvaline kui muster, PIN-kood või parool
+
+ "<li>Teiega sarnane inimene võib teie tahvelarvuti avada</li>"
+
+ "<li>Teie näo tuvastamiseks kasutatavaid andmeid hoitakse tahvelarvutis privaatselt</li> </ul></li></string>
+    <string name="instructions_screen_body">" "<li><ul>"Leidke siseruumis koht, mis ei ole liiga valge ega liiga hämar
+
+ "<li>Hoidke tahvelarvutit silmade kõrgusel</li> </ul></li></string>
+    <string name="end_screen_body">Tahvelarvuti avamiseks pöörake ekraani ja vaadake kaamerasse</string>
+    <string name="end_screen_bullet_one_text">Tahvelarvuti avaneb kohe, kui teid ära tunneb</string>
+    <string name="add_to_setup_intro_screen_body">"Näited.
+
+ "<li><ul>"Erinevates valgustingimustes
+
+ "<li>Prillidega või ilma</li>"
+
+ "<li>Habemega või raseeritult</li>"
+
+ "</ul></li>"
+ Hoidke tahvelarvutit silmade kõrgusel"</string>
+</resources>

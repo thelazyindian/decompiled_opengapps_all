@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Rosto de confiança</string>
+    <string name="receiver_app_name">Receptor de transmissão do rosto de confiança</string>
+    <string name="setup_app_name">Adicionar um rosto confiável</string>
+    <string name="enrollment_continue_label">Próximo</string>
+    <string name="enrollment_done_label">Concluído</string>
+    <string name="enrollment_initializing">Iniciando...</string>
+    <string name="enrollment_start_message">Manter o rosto dentro da área pontilhada</string>
+    <string name="gar_preview_description">Visualização da câmera</string>
+    <string name="error_no_face">Mostre seu rosto</string>
+    <string name="enrollment_missing_landmarks">Mostrar olhos, nariz e boca</string>
+    <string name="enrollment_missing_landmarks_status">Não é possível ver suas características</string>
+    <string name="enrollment_off_center_status">Não é possível ver parte do seu rosto</string>
+    <string name="gar_enrollment_face_added">Rosto adicionado</string>
+    <string name="enrollment_done">Entendi</string>
+    <string name="tutorial_app_name">Sobre o rosto de confiança</string>
+    <string name="tutorial_header">Olhe para seu telefone para desbloqueá-lo.</string>
+    <string name="tutorial_info_text">"Tenha em mente os seguintes fatores:
+
+ "<li><ul>"O reconhecimento facial é menos preciso que um padrão, PIN ou senha.
+
+ "<li>Uma pessoa parecida com você pode desbloquear o smartphone.</li>"
+
+ "<li>Os dados usados no reconhecimento facial são mantidos em sigilo no smartphone.</li>"
+
+ "</ul></li></string>
+    <string name="tutorial_continue_label">Configurar</string>
+    <string name="intro_header">Para obter melhores resultados:</string>
+    <string name="intro_info_text">" "<li><ul>"Encontre um local fechado que não seja muito claro ou muito escuro.
+
+"<li>Segure o telefone no nível dos olhos.</li>"
+
+"</ul></li></string>
+    <string name="intro_continue_label">Próximo</string>
+    <string name="endscreen_header">Tudo pronto!</string>
+    <string name="endscreen_info_text">Quando quiser desbloquear, basta ativar a tela e mostrar o rosto para a câmera.</string>
+    <string name="endscreen_bullet_one_text">O smartphone será desbloqueado assim que reconhecer você.</string>
+    <string name="endscreen_bullet_two_text">Caso o smartphone não reconheça seu rosto, você poderá desbloqueá-lo usando seu padrão, PIN ou senha.</string>
+    <string name="endscreen_tip_text">Dica: melhore o reconhecimento facial mostrando seu rosto em diferentes condições.</string>
+    <string name="endscreen_continue_label">OK</string>
+    <string name="endscreen_license_label">Licenças</string>
+    <string name="addtosetup_app_name">Melhorar a correspondência de rosto</string>
+    <string name="addtosetup_header">Mostre seu rosto em diferentes condições.</string>
+    <string name="addtosetup_info_text">"Exemplos:
+
+"<li><ul>"Em diferentes condições de iluminação
+
+"<li>Com ou sem óculos</li>"
+
+"<li>Com ou sem barba</li>"
+
+"</ul></li>"
+Segure o telefone no nível dos olhos."</string>
+    <string name="addtosetup_continue_label">Próximo</string>
+    <string name="license_screen_header">Avisos de código aberto</string>
+    <string name="license_screen_continue_label">OK</string>
+    <string name="face_unlock_service_app_name">Serviço de Desbloqueio facial</string>
+    <string name="trusted_face_service_app_name">Serviço de Rosto de confiança</string>
+    <string name="service_face_not_found">Não foi possível encontrar um rosto</string>
+    <string name="service_not_a_match">Não foi possível reconhecê-lo</string>
+    <string name="service_liveliness_start">Pisque agora</string>
+    <string name="service_liveliness_timeout">Piscada não detectada</string>
+    <string name="service_low_ligthing">Há pouca iluminação</string>
+    <string name="shared_initialize_error">Não foi possível iniciar a pesquisa de rosto</string>
+    <string name="shared_camera_error">Câmera indisponível</string>
+    <string name="shared_read_gallery_error">Repita a configuração</string>
+    <string name="shared_cancel_label">Cancelar</string>
+</resources>

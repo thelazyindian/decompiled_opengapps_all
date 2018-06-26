@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="intro_screen_header">ጡባዊዎን በመመልከት ያስከፍቱት</string>
+    <string name="intro_screen_body">"ያስታውሱ፦
+
+ "<li><ul>"ፊት ማዛመድ ከስርዓተ ጥለት፣ ፒን ወይም የይለፍ ቃል ያነሰ ደህንነት ነው ያለው
+
+ "<li>እርስዎን የሚመስል ሰው ጡባዊዎን መክፈት ይችላል</li>"
+
+ "<li>መልክዎን ለማወቅ ጥቅም ላይ የሚውለው ውሂብ ጡባዊዎ ላይ የግል እንደሆነ ይቀመጣል</li> </ul></li></string>
+    <string name="instructions_screen_body">" "<li><ul>"በጣም ደማቅ ወይም ፈዛዛ ያልሆነ ቦታ ይፈልጉ
+
+ "<li>ጡባዊውን በአይን ትክክል ይያዙት</li> </ul></li></string>
+    <string name="end_screen_body">ጡባዊዎን ለማስከፈት በቀላሉ ማያ ገጽዎን ያብሩትና ካሜራው ላይ ይመልከቱ</string>
+    <string name="end_screen_bullet_one_text">ጡባዊዎ እርስዎን ልክ ሲያውቅ ይከፈታል</string>
+    <string name="add_to_setup_intro_screen_body">"ምሳሌዎች፦
+
+ "<li><ul>"በተለያዩ ብርሃኖች
+
+ "<li>በታዘዘ መነጽር ወይም ያለእሱ</li>"
+
+ "<li>ጺም ያለው ወይም ሙልጭ ብሎ የተላጨ</li>"
+
+ "</ul></li>"
+ ጡባዊውን በአይን ትክክል ይያዙት።"</string>
+</resources>

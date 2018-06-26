@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="shutdown_countdown_text">
+        <item quantity="other">Wyłączenie nastąpi w ciągu %d s…</item>
+        <item quantity="one">Wyłączenie nastąpi w ciągu 1 s…</item>
+    </plurals>
+    <plurals name="sim_missing_title">
+        <item quantity="other">Włóż karty SIM</item>
+        <item quantity="one">Włóż kartę SIM</item>
+    </plurals>
+    <plurals name="sim_missing_text_tablet">
+        <item quantity="other">Aby włożyć karty SIM, zapoznaj się z instrukcjami dołączonymi do tabletu.</item>
+        <item quantity="one">Aby włożyć kartę SIM, zapoznaj się z instrukcjami dołączonymi do tabletu.</item>
+    </plurals>
+    <plurals name="sim_missing_text_device">
+        <item quantity="other">Aby włożyć karty SIM, zapoznaj się z instrukcjami dołączonymi do urządzenia.</item>
+        <item quantity="one">Aby włożyć kartę SIM, zapoznaj się z instrukcjami dołączonymi do urządzenia.</item>
+    </plurals>
+    <plurals name="sim_missing_text_default">
+        <item quantity="other">Aby włożyć karty SIM, zapoznaj się z instrukcjami dołączonymi do telefonu.</item>
+        <item quantity="one">Aby włożyć kartę SIM, zapoznaj się z instrukcjami dołączonymi do telefonu.</item>
+    </plurals>
+</resources>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Uso Unaoaminika</string>
+    <string name="receiver_app_name">Kipokeaji Tangazo la Uso Unaoaminika</string>
+    <string name="setup_app_name">Ongeza uso unaouamini</string>
+    <string name="enrollment_continue_label">Inayofuata</string>
+    <string name="enrollment_done_label">Imemalizika</string>
+    <string name="enrollment_initializing">Inaanza...</string>
+    <string name="enrollment_start_message">Weka uso ndani ya eneo lenye alama za nukta</string>
+    <string name="gar_preview_description">Uhakiki wa kamera</string>
+    <string name="error_no_face">Onyesha sura yako</string>
+    <string name="enrollment_missing_landmarks">Onyesha macho, pua na mdomo</string>
+    <string name="enrollment_missing_landmarks_status">Haiwezi kuona vipengele vyako</string>
+    <string name="enrollment_off_center_status">Hawezi kuona sehemu ya uso wako</string>
+    <string name="gar_enrollment_face_added">Uchanganuzi wa uso umeongezwa</string>
+    <string name="enrollment_done">Nimeelewa</string>
+    <string name="tutorial_app_name">Kuhusu uso unaoaminika</string>
+    <string name="tutorial_header">Angalia katika simu yako ili kuifungua.</string>
+    <string name="tutorial_info_text">"Zingatia mambo haya akilini:
+
+ "<li><ul>"Ulinganishaji sura ina usalama mdogo kuliko mchoro, PIN au nenosiri.
+
+ "<li>Yeyote anayeonekana kama wewe anaweza kufungua simu yako.</li>"
+
+ "<li>Data inayotumika kutambua uso wako imewekwa faragha kwenye simu.</li>"
+
+ "</ul></li></string>
+    <string name="tutorial_continue_label">Sanidi</string>
+    <string name="intro_header">Kwa matokeo bora zaidi:</string>
+    <string name="intro_info_text">" "<li><ul>"Tafuta eneo lililo ndani - lisilo na mwangaza mwingi au uliofifia sana. 
+
+ "<li>Shikilia simu katika kiwango cha jicho.</li>"
+
+ "</ul></li></string>
+    <string name="intro_continue_label">Inayofuata</string>
+    <string name="endscreen_header">Tayari!</string>
+    <string name="endscreen_info_text">Unapotaka kufungua, washa tu skrini yako na uonyeshe kamera uso wako.</string>
+    <string name="endscreen_bullet_one_text">Simu yako hufunguka mara tu inapokutambua.</string>
+    <string name="endscreen_bullet_two_text">Simu yako isipotambua uso wako, unaweza kufungua kwa kutumia mchoro, PIN, au nenosiri lako.</string>
+    <string name="endscreen_tip_text">Kidokezo: Boresha ulinganishaji wa sura kwa kuonyesha unavyoonekana katika hali mbalimbali.</string>
+    <string name="endscreen_continue_label">SAWA</string>
+    <string name="endscreen_license_label">Leseni</string>
+    <string name="addtosetup_app_name">Boresha uliganishaji sura</string>
+    <string name="addtosetup_header">Onyesha unavyoonekana katika hali tofauti.</string>
+    <string name="addtosetup_info_text">"Mifano:
+
+ "<li><ul>"Katika viwango tofauti vya mwangaza
+
+ "<li>na au bila miwani iliyoagizwa na daktari </li>" 
+ 
+ "<li> Na ndevu au ukiwa umenyolewa kabisa </li>" 
+ 
+ "</ul></li>" 
+ Shika simu katika kiwango cha jicho."</string>
+    <string name="addtosetup_continue_label">Inayofuata</string>
+    <string name="license_screen_header">Ilani za Chanzo Huria</string>
+    <string name="license_screen_continue_label">SAWA</string>
+    <string name="face_unlock_service_app_name">Huduma ya Face Unlock</string>
+    <string name="trusted_face_service_app_name">Huduma ya Uso Unaoaminika</string>
+    <string name="service_face_not_found">Haikuweza kupata sura</string>
+    <string name="service_not_a_match">Samahani, haikutambui</string>
+    <string name="service_liveliness_start">Pepesa sasa</string>
+    <string name="service_liveliness_timeout">Haikuweza kunasa kupepesa kwako</string>
+    <string name="service_low_ligthing">Mwangaza ni kidogo sana</string>
+    <string name="shared_initialize_error">Haikuweza kuanza kutafuta uso wako</string>
+    <string name="shared_camera_error">Kamera haipatikani</string>
+    <string name="shared_read_gallery_error">Tafadhali rudia usanidi</string>
+    <string name="shared_cancel_label">Ghairi</string>
+</resources>

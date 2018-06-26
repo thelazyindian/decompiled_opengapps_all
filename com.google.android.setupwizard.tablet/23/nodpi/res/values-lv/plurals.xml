@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="shutdown_countdown_text">
+        <item quantity="other">Tiks izslēgts pēc %d sekundes…</item>
+        <item quantity="zero">Tiks izslēgts pēc %d sekundēm…</item>
+        <item quantity="one">Tiks izslēgts pēc %d sekundes…</item>
+    </plurals>
+    <plurals name="sim_missing_title">
+        <item quantity="other">Ievietojiet SIM kartes</item>
+        <item quantity="zero">Ievietojiet SIM kartes</item>
+        <item quantity="one">Ievietojiet SIM kartes</item>
+    </plurals>
+    <plurals name="sim_missing_text_tablet">
+        <item quantity="other">Vai nezināt, kā to izdarīt? Lasiet planšetdatora komplektācijā iekļautos norādījumus.</item>
+        <item quantity="zero">Vai nezināt, kā to izdarīt? Lasiet planšetdatora komplektācijā iekļautos norādījumus.</item>
+        <item quantity="one">Vai nezināt, kā to izdarīt? Lasiet planšetdatora komplektācijā iekļautos norādījumus.</item>
+    </plurals>
+    <plurals name="sim_missing_text_device">
+        <item quantity="other">Vai nezināt, kā to izdarīt? Lasiet ierīces komplektācijā iekļautos norādījumus.</item>
+        <item quantity="zero">Vai nezināt, kā to izdarīt? Lasiet ierīces komplektācijā iekļautos norādījumus.</item>
+        <item quantity="one">Vai nezināt, kā to izdarīt? Lasiet ierīces komplektācijā iekļautos norādījumus.</item>
+    </plurals>
+    <plurals name="sim_missing_text_default">
+        <item quantity="other">Vai nezināt, kā to izdarīt? Lasiet tālruņa komplektācijā iekļautos norādījumus.</item>
+        <item quantity="zero">Vai nezināt, kā to izdarīt? Lasiet tālruņa komplektācijā iekļautos norādījumus.</item>
+        <item quantity="one">Vai nezināt, kā to izdarīt? Lasiet tālruņa komplektācijā iekļautos norādījumus.</item>
+    </plurals>
+    <plurals name="walled_garden_check_timeout_text">
+        <item quantity="other">Tas var ilgt %d minūtes</item>
+        <item quantity="zero">Tas var ilgt %d minūtes</item>
+        <item quantity="one">Tas var ilgt %d minūti</item>
+    </plurals>
+</resources>

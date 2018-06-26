@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">የሚታመን መልክ</string>
+    <string name="trusted_face_service_app_name">የሚታመን መልክ አገልግሎት</string>
+    <string name="receiver_app_name">የሚታመን መልክ ስርጭት ተቀባይ</string>
+    <string name="setup_app_name">የሚታመን ፊት ያክሉ</string>
+    <string name="add_to_setup_app_name">የመልክ ማዛመድን አሻሽል</string>
+    <string name="intro_screen_title">ስለሚታመን መልክ</string>
+    <string name="intro_screen_header">ስልክዎን በመመልከት ያስከፍቱት</string>
+    <string name="intro_screen_body">"ያስታውሱ፦
+
+ "<li><ul>"ፊት ማዛመድ ከስርዓተ ጥለት፣ ፒን ወይም የይለፍ ቃል ያነሰ ደህንነት ነው ያለው
+
+ "<li>እርስዎን የሚመስል ሰው ጡባዊዎን ሊከፍተው ይችላል</li>"
+
+ "<li>መልክዎን ለመለየት ጥቅም ላይ የሚውለው ውሂብ ስልክዎ ላይ የግል እንደሆነ ይቀመጣል</li> </ul></li></string>
+    <string name="intro_screen_continue_label">አዋቅር</string>
+    <string name="instructions_screen_title">የሚታመን መልክ ያክሉ</string>
+    <string name="instructions_screen_header">ለተሻሉ ውጤቶች፦</string>
+    <string name="instructions_screen_body">" "<li><ul>"በጣም ደማቅ ወይም ፈዛዛ ያልሆነ ቦታ ይፈልጉ
+
+ "<li>ስልኩን በአይን ትክክል ይያዙት</li> </ul></li></string>
+    <string name="instructions_screen_continue_label">ቀጣይ</string>
+    <string name="enrollment_screen_message_initializing">በመጀመር ላይ…</string>
+    <string name="enrollment_screen_message_initialization_error">መልክዎን መፈለግ ማስጀመር አልተቻለም</string>
+    <string name="enrollment_screen_message_camera_error">ካሜራ አይገኝም</string>
+    <string name="enrollment_start_message">መልክዎን በነጥቦች በተከበበው አካባቢ ውስጥ ያድርጉት</string>
+    <string name="enrollment_screen_message_instructions">የጭንቅላትዎ ላይኛው ክፍል እና የአገጭዎ ታችኛው ክፍል በክቡ ውስጥ ያድርጓቸው</string>
+    <string name="enrollment_screen_message_missing_landmarks">አይኖች፣ አፍንጫ እና አፍ ያሳዩ</string>
+    <string name="enrollment_screen_message_done">መልክ ታክሏል</string>
+    <string name="enrollment_screen_status_no_face">መልክዎን ያሳዩ</string>
+    <string name="enrollment_screen_status_face_off_center">የተወሰነ የመልክዎን ክፍል ማየት አልተቻለም</string>
+    <string name="enrollment_screen_status_missing_landmarks">የእርስዎን ባህሪያት ማየት አልተቻለም</string>
+    <string name="enrollment_screen_continue_label">ቀጣይ</string>
+    <string name="enrollment_screen_done_label">ተከናውኗል</string>
+    <string name="enrollment_screen_talkback_preview_description">የካሜራ ቅድመ-እይታ</string>
+    <string name="enrollment_screen_talkback_face_added">መልክ ታክሏል</string>
+    <string name="end_screen_title">ሁሉም ተዘጋጅቷል!</string>
+    <string name="end_screen_body">ስልክዎን ለማስከፈት በቀላሉ ማያ ገጽዎን ያብሩትና ካሜራው ላይ ይመልከቱ</string>
+    <string name="end_screen_bullet_one_text">ስልክዎ እርስዎን ልክ ሲያውቅ ይከፈታል</string>
+    <string name="end_screen_bullet_two_text">መልክዎ ካልታወቀ በምትኩ በእርስዎ ስርዓተ-ጥለት፣ ፒን ወይም የይለፍ ቃል ያስከፍቱ</string>
+    <string name="end_screen_tip_text">ጠቃሚ ምክር፦ በተለያዩ ሁኔታዎች ላይ ምን እንደሚመስሉ በማሳየት የመልክ ማዛመድን ያሻሽሉ</string>
+    <string name="end_screen_licenses_label">ፍቃዶች</string>
+    <string name="end_screen_continue_label">ተከናውኗል</string>
+    <string name="add_to_setup_intro_screen_title">የመልክ ማዛመድን አሻሽል</string>
+    <string name="add_to_setup_intro_screen_header">በተለያዩ ሁኔታዎች ላይ ምን እንደሚመስሉ ያሳዩ</string>
+    <string name="add_to_setup_intro_screen_body">"ምሳሌዎች፦
+
+ "<li><ul>"በተለያዩ ብርሃናት
+
+ "<li>በታዘዘ መነጽር ወይም ያለእሱ</li>"
+
+ "<li>ጺም ያለው ወይም ሙልጭ ብሎ የተላጨ</li>"
+
+ "</ul></li>"
+ ስልክዎን በአይን ትክክል ይያዙት"</string>
+    <string name="add_to_setup_intro_screen_continue_label">ቀጣይ</string>
+    <string name="license_screen_header">የክፍት ምንጭ ማስታወቂያዎች</string>
+    <string name="license_screen_continue_label">እሺ</string>
+    <string name="shared_cancel_label">ይቅር</string>
+</resources>

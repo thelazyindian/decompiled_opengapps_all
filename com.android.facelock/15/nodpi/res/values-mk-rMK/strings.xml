@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Доверливо лице</string>
+    <string name="receiver_app_name">Приемник за емитување на доверливото лице</string>
+    <string name="setup_app_name">Додајте го доверливото лице</string>
+    <string name="enrollment_continue_label">Следно</string>
+    <string name="enrollment_done_label">Готово</string>
+    <string name="enrollment_initializing">Стартување…</string>
+    <string name="enrollment_start_message">Задржете го лицето во означената област</string>
+    <string name="gar_preview_description">Преглед на камерата</string>
+    <string name="error_no_face">Покажете го вашиот лик</string>
+    <string name="enrollment_missing_landmarks">Покажете очи, нос и уста</string>
+    <string name="enrollment_missing_landmarks_status">Не може да се видат вашите црти</string>
+    <string name="enrollment_off_center_status">Не се гледа дел од вашето лице</string>
+    <string name="gar_enrollment_face_added">Додаден е лик</string>
+    <string name="enrollment_done">Сфатив</string>
+    <string name="tutorial_app_name">За доверливо лице</string>
+    <string name="tutorial_header">Погледнете во телефонот за да го отклучите.</string>
+    <string name="tutorial_info_text">"Имајте на ум дека:
+
+ "<li><ul>"Совпаѓањето на лицето е помалку безбедно од шема, ПИН или лозинка.
+
+ "<li>Некој кој личи на вас може да го отклучи телефонот.</li>"
+
+ "<li>Податоците што се користат за препознавање на лицето се чуваат како приватни на телефонот.</li>"
+
+ "</ul></li></string>
+    <string name="tutorial_continue_label">Постави</string>
+    <string name="intro_header">За најдобри резултати:</string>
+    <string name="intro_info_text">" "<li><ul>"Најдете некое место внатре – не премногу осветлено или премногу затемнето.
+
+ "<li>Држете го телефонот во висина на очите.</li>"
+
+ "</ul></li></string>
+    <string name="intro_continue_label">Следно</string>
+    <string name="endscreen_header">Сè е спремно!</string>
+    <string name="endscreen_info_text">Кога ќе сакате да отклучите, само вклучете го екранот и покажете го лицето на камерата.</string>
+    <string name="endscreen_bullet_one_text">Телефонот ќе се отклучи штом ќе ве препознае.</string>
+    <string name="endscreen_bullet_two_text">Ако телефонот не ви го препознае лицето, може да отклучите со шемата, ПИН-кодот или лозинката.</string>
+    <string name="endscreen_tip_text">Совет: подобрете го усогласувањето лица со тоа што ќе покажете како изгледате во различни услови.</string>
+    <string name="endscreen_continue_label">Во ред</string>
+    <string name="endscreen_license_label">Лиценци</string>
+    <string name="addtosetup_app_name">Подобри го совпаѓањето на ликот</string>
+    <string name="addtosetup_header">Покажете како изгледате во различни услови.</string>
+    <string name="addtosetup_info_text">"Примери:
+
+ "<li><ul>"Во различно осветлување
+
+ "<li>Со или без очила</li>"
+
+ "<li>Со или без брада</li>"
+
+ "</ul></li>"
+Држете го телефонот во висина на очите."</string>
+    <string name="addtosetup_continue_label">Следно</string>
+    <string name="license_screen_header">Белешки со отворен код</string>
+    <string name="license_screen_continue_label">Во ред</string>
+    <string name="face_unlock_service_app_name">Услуга Отклучување со лик</string>
+    <string name="trusted_face_service_app_name">Услуга на доверливото лице</string>
+    <string name="service_face_not_found">Не можеше да се пронајде лик</string>
+    <string name="service_not_a_match">Не можам да ве препознаам</string>
+    <string name="service_liveliness_start">Трепни сега</string>
+    <string name="service_liveliness_timeout">Не го фатив трепнувањето</string>
+    <string name="service_low_ligthing">Осветлувањето е многу слабо</string>
+    <string name="shared_initialize_error">Не може да се започне со наоѓање на вашето лице</string>
+    <string name="shared_camera_error">Камерата не е достапна</string>
+    <string name="shared_read_gallery_error">Ве молиме повторете ги поставките</string>
+    <string name="shared_cancel_label">Откажи</string>
+</resources>

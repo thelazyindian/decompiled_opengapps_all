@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="shutdown_countdown_text">
+        <item quantity="other">Bus išjungta po %d sekundžių…</item>
+        <item quantity="one">Bus išjungta po %d sekundės…</item>
+        <item quantity="few">Bus išjungta po %d sekundžių…</item>
+        <item quantity="many">Bus išjungta po %d sekundės…</item>
+    </plurals>
+    <plurals name="sim_missing_title">
+        <item quantity="other">Įdėkite SIM korteles</item>
+        <item quantity="one">Įdėkite SIM korteles</item>
+        <item quantity="few">Įdėkite SIM korteles</item>
+        <item quantity="many">Įdėkite SIM korteles</item>
+    </plurals>
+    <plurals name="sim_missing_text_tablet">
+        <item quantity="other">Nežinote, kaip tai atlikti? Peržiūrėkite su planšetiniu kompiuteriu teikiamas instrukcijas.</item>
+        <item quantity="one">Nežinote, kaip tai atlikti? Peržiūrėkite su planšetiniu kompiuteriu teikiamas instrukcijas.</item>
+        <item quantity="few">Nežinote, kaip tai atlikti? Peržiūrėkite su planšetiniu kompiuteriu teikiamas instrukcijas.</item>
+        <item quantity="many">Nežinote, kaip tai atlikti? Peržiūrėkite su planšetiniu kompiuteriu teikiamas instrukcijas.</item>
+    </plurals>
+    <plurals name="sim_missing_text_device">
+        <item quantity="other">Nežinote, kaip tai atlikti? Peržiūrėkite su įrenginiu teikiamas instrukcijas.</item>
+        <item quantity="one">Nežinote, kaip tai atlikti? Peržiūrėkite su įrenginiu teikiamas instrukcijas.</item>
+        <item quantity="few">Nežinote, kaip tai atlikti? Peržiūrėkite su įrenginiu teikiamas instrukcijas.</item>
+        <item quantity="many">Nežinote, kaip tai atlikti? Peržiūrėkite su įrenginiu teikiamas instrukcijas.</item>
+    </plurals>
+    <plurals name="sim_missing_text_default">
+        <item quantity="other">Nežinote, kaip tai atlikti? Peržiūrėkite su telefonu teikiamas instrukcijas.</item>
+        <item quantity="one">Nežinote, kaip tai atlikti? Peržiūrėkite su telefonu teikiamas instrukcijas.</item>
+        <item quantity="few">Nežinote, kaip tai atlikti? Peržiūrėkite su telefonu teikiamas instrukcijas.</item>
+        <item quantity="many">Nežinote, kaip tai atlikti? Peržiūrėkite su telefonu teikiamas instrukcijas.</item>
+    </plurals>
+    <plurals name="walled_garden_check_timeout_text">
+        <item quantity="other">Tai gali užtrukti iki %d minučių</item>
+        <item quantity="one">Tai gali užtrukti iki %d minutės</item>
+        <item quantity="few">Tai gali užtrukti iki %d minučių</item>
+        <item quantity="many">Tai gali užtrukti iki %d minutės</item>
+    </plurals>
+</resources>

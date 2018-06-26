@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="intro_screen_header">面部对准平板电脑即可将其解锁</string>
+    <string name="intro_screen_body">"请注意：
+
+"<li><ul>"面部匹配解锁的安全性不及图案、PIN 码或密码
+
+"<li>与您长相接近的人可能也能解锁您的平板电脑</li>"
+
+"<li>用于识别面孔的数据会以私密方式保存在您的平板电脑上</li></ul></li></string>
+    <string name="instructions_screen_body">" "<li><ul>"找一个亮度适中的室内场所
+
+"<li>将平板电脑放在与视线平齐的高度</li></ul></li></string>
+    <string name="end_screen_body">要解锁您的平板电脑，您只需打开屏幕并平视摄像头</string>
+    <string name="end_screen_bullet_one_text">如果平板电脑识别出您的面孔，就会立即为您解锁屏幕</string>
+    <string name="add_to_setup_intro_screen_body">"例如：
+
+"<li><ul>"在不同的光线下
+
+"<li>带眼镜或不带眼镜</li>"
+
+"<li>留胡子或不留胡子</li>"
+
+"</ul></li>"
+将平板电脑放在与视线平齐的高度"</string>
+</resources>

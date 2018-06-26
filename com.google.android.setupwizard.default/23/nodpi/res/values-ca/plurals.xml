@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="shutdown_countdown_text">
+        <item quantity="other">"Es tancarà d'aquí a %d segons…"</item>
+        <item quantity="one">"Es tancarà d'aquí a 1 segon…"</item>
+    </plurals>
+    <plurals name="sim_missing_title">
+        <item quantity="other">Insereix les targetes SIM</item>
+        <item quantity="one">Insereix la targeta SIM</item>
+    </plurals>
+    <plurals name="sim_missing_text_tablet">
+        <item quantity="other">Tens cap dubte? Consulta les instruccions de la tauleta.</item>
+        <item quantity="one">Tens cap dubte? Consulta les instruccions de la tauleta.</item>
+    </plurals>
+    <plurals name="sim_missing_text_device">
+        <item quantity="other">Tens cap dubte? Consulta les instruccions del dispositiu.</item>
+        <item quantity="one">Tens cap dubte? Consulta les instruccions del dispositiu.</item>
+    </plurals>
+    <plurals name="sim_missing_text_default">
+        <item quantity="other">Tens cap dubte? Consulta les instruccions del telèfon.</item>
+        <item quantity="one">Tens cap dubte? Consulta les instruccions del telèfon.</item>
+    </plurals>
+    <plurals name="walled_garden_check_timeout_text">
+        <item quantity="other">Això pot durar fins a %d minuts</item>
+        <item quantity="one">Això pot durar fins a %d minut</item>
+    </plurals>
+</resources>

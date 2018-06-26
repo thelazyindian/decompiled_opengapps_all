@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ItemGroup
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <Item android:enabled="false" android:layout="@layout/item_layout_description_empty" />
+    <Item android:icon="@drawable/ic_wifi_scanning" android:enabled="false" android:id="@id/wifi_scanning" android:layout="@layout/items_greyed_out" android:title="@string/wifi_scanning" />
+    <com.google.android.setupwizard.network.WifiItemHierarchy android:id="@id/wifi_list" />
+    <Item android:icon="@drawable/ic_wifi_add_network" android:id="@id/wifi_add_another" android:title="@string/wifi_add_new_network" />
+    <Item android:enabled="false" android:id="@id/wifi_ip_address" android:title="@string/wifi_ip_address_title" />
+    <Item android:enabled="false" android:id="@id/wifi_mac_address" android:title="@string/wifi_mac_address_title" />
+</ItemGroup>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="shutdown_countdown_text">
+        <item quantity="other">A encerrar dentro de %d segundos...</item>
+        <item quantity="one">A encerrar dentro de um segundo...</item>
+    </plurals>
+    <plurals name="sim_missing_title">
+        <item quantity="other">Inserir os cartões SIM</item>
+        <item quantity="one">Inserir o cartão SIM</item>
+    </plurals>
+    <plurals name="sim_missing_text_tablet">
+        <item quantity="other">Para inserir os cartões SIM, leia as instruções incluídas com o seu tablet.</item>
+        <item quantity="one">Para inserir o cartão SIM, leia as instruções incluídas com o seu tablet.</item>
+    </plurals>
+    <plurals name="sim_missing_text_device">
+        <item quantity="other">Para inserir os cartões SIM, leia as instruções incluídas com o seu dispositivo.</item>
+        <item quantity="one">Para inserir o cartão SIM, leia as instruções incluídas com o seu dispositivo.</item>
+    </plurals>
+    <plurals name="sim_missing_text_default">
+        <item quantity="other">Para inserir os cartões SIM, leia as instruções incluídas com o seu telemóvel.</item>
+        <item quantity="one">Para inserir o cartão SIM, leia as instruções incluídas com o seu telemóvel.</item>
+    </plurals>
+</resources>

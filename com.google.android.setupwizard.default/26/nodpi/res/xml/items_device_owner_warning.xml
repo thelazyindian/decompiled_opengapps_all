@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ItemGroup
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <Item android:enabled="false" android:id="@id/device_owner_description" android:layout="@layout/suw_items_description" android:title="@string/device_owner_warning" />
+    <Item android:id="@id/device_owner_continue" android:title="@string/device_owner_continue" />
+    <Item android:id="@id/device_owner_reset" android:title="@string/device_owner_reset" />
+</ItemGroup>

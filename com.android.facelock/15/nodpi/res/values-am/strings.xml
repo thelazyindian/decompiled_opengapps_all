@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">የሚታመን መልክ</string>
+    <string name="receiver_app_name">የሚታመን መልክ ስርጭት ተቀባይ</string>
+    <string name="setup_app_name">የሚታመን ፊት ያክሉ</string>
+    <string name="enrollment_continue_label">ቀጣይ</string>
+    <string name="enrollment_done_label">ተከናውኗል</string>
+    <string name="enrollment_initializing">በመጀመር ላይ…</string>
+    <string name="enrollment_start_message">መልክዎን በነጥቦች በተከበበው አካባቢ ውስጥ ያድርጉት</string>
+    <string name="gar_preview_description">የካሜራ ቅድመ-እይታ</string>
+    <string name="error_no_face">ፊትህን አሳይ</string>
+    <string name="enrollment_missing_landmarks">አይኖች፣ አፍንጫ እና አፍ ያሳዩ</string>
+    <string name="enrollment_missing_landmarks_status">ባህሪያትህን ማየት አይቻልም</string>
+    <string name="enrollment_off_center_status">የፊትህን የተወሰነ ክፍል ማየት አይቻልም</string>
+    <string name="gar_enrollment_face_added">መልክ ታክሏል</string>
+    <string name="enrollment_done">ገባኝ</string>
+    <string name="tutorial_app_name">ስለሚታመን መልክ</string>
+    <string name="tutorial_header">እንዲከፈት ለማድረግ ስልክህን ተመልከት::</string>
+    <string name="tutorial_info_text">"እነዚህን ነገሮች ከግምት ውስጥ ያስገቡ፦
+
+ "<li><ul>"መልክ ማዛመድ ከስርዓተ-ጥለት፣ ፒን ወይም ይለፍ ቃል ያነሰ ደህንነት ነው ያለው።
+
+ "<li>እርስዎን የሚመስል ሰው ስልክዎን ሊያስከፍተው ይችላል።</li>"
+
+ "<li>መልክዎን ለማወቅ ስራ ላይ የሚውለው ውሂብ ስልኩ ላይ የግል እንደሆነ ይቀመጣል።</li>"
+
+ "</ul></li></string>
+    <string name="tutorial_continue_label">አዋቅር</string>
+    <string name="intro_header">ለተሻሉ ውጤቶች፡-</string>
+    <string name="intro_info_text">" "<li><ul>"የቤት ውስጥ ቦታ አግኝ—በጣም ብርሃንማ ወይም ደብዛዛ ያልሆነ፡፡
+
+ "<li>በአይን ትክክል ስልኩን ያዘው፡፡</li>"
+
+ "</ul></li></string>
+    <string name="intro_continue_label">ቀጣይ</string>
+    <string name="endscreen_header">ሁሉም ተዘጋጅቷል!</string>
+    <string name="endscreen_info_text">ማስከፈት ሲፈልጉ በቀላሉ ማያ ገጽዎን ያብሩትና መልክዎን ለካሜራው ያሳዩ።</string>
+    <string name="endscreen_bullet_one_text">ስልክዎ እርስዎን እንዳወቀ ይከፈታል።</string>
+    <string name="endscreen_bullet_two_text">ስልክዎ መልክዎን ካላወቀው በስርዓተ-ጥለት፣ ፒን ወይም የይለፍ ቃል ማስወገድ ይችላሉ።</string>
+    <string name="endscreen_tip_text">ጠቃሚ ምክር፦ በተለያዩ ሁኔታዎች ላይ ምን እንደሚመስሉ በማሳየት የመልክ ማዛመድን ያሻሽሉ።</string>
+    <string name="endscreen_continue_label">እሺ</string>
+    <string name="endscreen_license_label">ፍቃዶች</string>
+    <string name="addtosetup_app_name">የፊት ማመሳሰልን አሻሽል</string>
+    <string name="addtosetup_header">በተለያዩ ሁኔታዎች ላይ ምን እንደሚመስሉ ያሳዩ</string>
+    <string name="addtosetup_info_text">"ምሳሌዎች፡- 
+
+"<li><ul>"በተለያዩ ብርሃኖች
+
+"<li> ከ ወይም ያለ የታዘዙ መነፅሮች</li>"
+
+ ፂማም ወይም ሙልጭ ብሎ የተላጨ
+
+"</ul></li>"
+ በአይን ትክክል ስልኩን ያዘው፡፡"</string>
+    <string name="addtosetup_continue_label">ቀጣይ</string>
+    <string name="license_screen_header">የክፍት ምንጭ ማስታወቂያዎች</string>
+    <string name="license_screen_continue_label">እሺ</string>
+    <string name="face_unlock_service_app_name">በመልክ የማስከፈት አገልግሎት</string>
+    <string name="trusted_face_service_app_name">የሚታመን መልክ አገልግሎት</string>
+    <string name="service_face_not_found">ፊት ማግኘት አልተቻለም</string>
+    <string name="service_not_a_match">ይቅርታ አላወቅኩህም</string>
+    <string name="service_liveliness_start">አሁን አይን አርገብገብ</string>
+    <string name="service_liveliness_timeout">የአይን ማርገብገብ አልተያዘም</string>
+    <string name="service_low_ligthing">ብርሃን አሰጣጡ በጣም ደካማ ነው</string>
+    <string name="shared_initialize_error">መልክዎን መፈለግ ማስጀመር አልተቻለም</string>
+    <string name="shared_camera_error">ካሜራ አይገኝም</string>
+    <string name="shared_read_gallery_error">እባክህ ቅንብርን ድገም</string>
+    <string name="shared_cancel_label">ይቅር</string>
+</resources>

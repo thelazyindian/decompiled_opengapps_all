@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="google_play_services_version">10298000</integer>
+    <integer name="suwTransitionDuration">300</integer>
+    <integer name="abc_config_activityShortDur">150</integer>
+    <integer name="abc_config_activityDefaultDur">220</integer>
+    <integer name="cancel_button_image_alpha">127</integer>
+    <integer name="config_tooltipAnimTime">150</integer>
+    <item type="integer" name="floating_label_animation_duration">@android:integer/config_longAnimTime</item>
+    <integer name="final_hold_custom_layout_finish_after_ms">3500</integer>
+</resources>

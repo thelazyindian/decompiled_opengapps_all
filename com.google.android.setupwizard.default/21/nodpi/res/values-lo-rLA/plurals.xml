@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="shutdown_countdown_text">
+        <item quantity="other">ກຳລັງຈະຖືກປິດໃນອີກ %d ວິນາທີ...</item>
+        <item quantity="one">ກຳລັງຈະຖືກປິດໃນອີກ 1 ວິນາທີ...</item>
+    </plurals>
+    <plurals name="sim_missing_title">
+        <item quantity="other">ໃສ່ SIM ກາດ</item>
+        <item quantity="one">ໃສ່ SIM ກາດ</item>
+    </plurals>
+    <plurals name="sim_missing_text_tablet">
+        <item quantity="other">ເພື່ອ​ໃສ່ SIM ກາດ​ຂອງ​ທ່ານ, ໃຫ້​ອ່ານ​ຄຳ​ແນະ​ນຳ​ທີ່​ມາ​ພ້ອມ​ກັບ​ແທັບ​ເລັດ​ຂອງ​ທ່ານ.</item>
+        <item quantity="one">ເພື່ອ​ໃສ່ SIM ກາດ​ຂອງ​ທ່ານ, ໃຫ້​ອ່ານ​ຄຳ​ແນະ​ນຳ​ທີ່​ມາ​ພ້ອມ​ກັບ​ແທັບ​ເລັດ​ຂອງ​ທ່ານ.</item>
+    </plurals>
+    <plurals name="sim_missing_text_device">
+        <item quantity="other">ເພື່ອ​ໃສ່ SIM ກາດ​ຂອງ​ທ່ານ, ໃຫ້​ອ່ານ​ຄຳ​ແນະ​ນຳ​ທີ່​ມາ​ພ້ອມ​ກັບ​ອຸ​ປະ​ກອນ​ຂອງ​ທ່ານ.</item>
+        <item quantity="one">ເພື່ອ​ໃສ່ SIM ກາດ​ຂອງ​ທ່ານ, ໃຫ້​ອ່ານ​ຄຳ​ແນະ​ນຳ​ທີ່​ມາ​ພ້ອມ​ກັບ​ອຸ​ປະ​ກອນ​ຂອງ​ທ່ານ.</item>
+    </plurals>
+    <plurals name="sim_missing_text_default">
+        <item quantity="other">ເພື່ອ​ໃສ່ SIM ກາດ​ຂອງ​ທ່ານ, ໃຫ້​ອ່ານ​ຄຳ​ແນະ​ນຳ​ທີ່​ມາ​ພ້ອມ​ກັບ​ໂທ​ລະ​ສັບ​ຂອງ​ທ່ານ.</item>
+        <item quantity="one">ເພື່ອ​ໃສ່ SIM ກາດ​ຂອງ​ທ່ານ, ໃຫ້​ອ່ານ​ຄຳ​ແນະ​ນຳ​ທີ່​ມາ​ພ້ອມ​ກັບ​ໂທ​ລະ​ສັບ​ຂອງ​ທ່ານ.</item>
+    </plurals>
+</resources>

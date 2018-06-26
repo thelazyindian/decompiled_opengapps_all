@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_width="fill_parent" android:layout_height="fill_parent" android:minWidth="@dimen/web_dialog_min_width" android:minHeight="@dimen/web_dialog_min_height"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <WebView android:id="@id/web_dialog_fragment_web_view" android:focusable="true" android:focusableInTouchMode="true" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+    <ProgressBar android:layout_gravity="top" android:id="@id/web_dialog_fragment_progressbar" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/progress_bar_margin_top" android:max="100" android:indeterminate="false" style="?android:attr/progressBarStyleHorizontal" />
+    <TextView android:id="@id/web_dialog_fallback_textview" android:paddingTop="@dimen/web_dialog_text_padding_vertical" android:paddingBottom="@dimen/web_dialog_text_padding_vertical" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:paddingStart="?android:dialogPreferredPadding" android:paddingEnd="?android:dialogPreferredPadding" style="@android:style/TextAppearance.Material.Subhead" />
+</FrameLayout>

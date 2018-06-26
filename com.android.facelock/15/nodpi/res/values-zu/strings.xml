@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ubuso obuthembekile</string>
+    <string name="receiver_app_name">Isitholi sokusakaza ubuso esethembekile</string>
+    <string name="setup_app_name">Engeza ubuso obuthembekile</string>
+    <string name="enrollment_continue_label">Okulandelayo</string>
+    <string name="enrollment_done_label">Qedile</string>
+    <string name="enrollment_initializing">Iyaqalisa.</string>
+    <string name="enrollment_start_message">Gcina ubuso ngaphakathi kwendawo enamachashazi</string>
+    <string name="gar_preview_description">Ukubuka kuqala kwekhamela</string>
+    <string name="error_no_face">Khombisa ubuso bakho</string>
+    <string name="enrollment_missing_landmarks">Bonisa amehlo, impumulo, nomlomdo</string>
+    <string name="enrollment_missing_landmarks_status">Angikwazi ukubona izimpawu zakho</string>
+    <string name="enrollment_off_center_status">Ayikwazi ukubona enye ingxenye yobuso bakho</string>
+    <string name="gar_enrollment_face_added">Ubuso bungeziwe</string>
+    <string name="enrollment_done">Ngiyitholile</string>
+    <string name="tutorial_app_name">Mayelana nobuso obuthembekile</string>
+    <string name="tutorial_header">Bheka ifoni yakho ukuze uyivule.</string>
+    <string name="tutorial_info_text">"Okufanele uhlale ukukhumbula:
+
+ "<li><ul>"Ukufana kobuso kuvikeleke kancane kunephethini, iphinikhodi, noma iphasiwedi.
+
+ "<li>Omunye ofana nawe angavula ifoni yakho.</li>"
+
+ "<li>Idatha esetshenziswe ukubona ubuso bakho igcinwa iyimfihlo kufoni.</li>"
+
+ "</ul></li></string>
+    <string name="tutorial_continue_label">Lungisa</string>
+    <string name="intro_header">Kwemiphumela emihle:</string>
+    <string name="intro_info_text">" "<li><ul>"Thola indawo esendlini—engakhanyi kakhulu noma emnyama kakhulu.
+
+ "<li>Bamba ucingo elevelini yeso.</li>"
+
+ "</ul></li></string>
+    <string name="intro_continue_label">Okulandelayo</string>
+    <string name="endscreen_header">Konke kusethiwe!</string>
+    <string name="endscreen_info_text">Uma ufuna ukuvula, vele uvule isikrini sakho bese ubonise ubuso bakho kukhamera.</string>
+    <string name="endscreen_bullet_one_text">Ifoni yakho ivula ngokushesha uma ikubona.</string>
+    <string name="endscreen_bullet_two_text">Uma ifoni yakho ingaboni ubuso bakho, ungavuma ngephethini, iphinikhodi, noma iphasiwedi yakho.</string>
+    <string name="endscreen_tip_text">Ithiphu: Thuthukisa ukufana kobuso ngokukhombisa ukuthi ubukeka kanjani ezimeni ezahlukahlukene.</string>
+    <string name="endscreen_continue_label">KULUNGILE</string>
+    <string name="endscreen_license_label">Amalayisense</string>
+    <string name="addtosetup_app_name">Enza kangcono ukufana kobuso</string>
+    <string name="addtosetup_header">Bonisa ukuthi ubukeka kanjani ezimni ezahlukahlukene.</string>
+    <string name="addtosetup_info_text">"Izibonelo:
+
+ "<li><ul>"Ezibanini ezahlukahlukene
+
+ "<li>Ngezingilazi noma ngaphandle kwezingilazi ezichaziwe</li>"
+
+ "<li>Kunesilevu noma kusheviwe</li>"
+
+ "</ul></li>"
+Bamba ucingo elevelini yocingo."</string>
+    <string name="addtosetup_continue_label">Okulandelayo</string>
+    <string name="license_screen_header">Izaziso zomthombo ovulekile</string>
+    <string name="license_screen_continue_label">KULUNGILE</string>
+    <string name="face_unlock_service_app_name">Isevisi ye-Vula Ngobuso</string>
+    <string name="trusted_face_service_app_name">Isevisi Yobuso Obuthembekile</string>
+    <string name="service_face_not_found">Ayikwazanga ukuthola ubuso</string>
+    <string name="service_not_a_match">Ngiyaxolisa, asingakuboni</string>
+    <string name="service_liveliness_start">Cwayiza manje</string>
+    <string name="service_liveliness_timeout">Ayizange ikuthole ucwayiza kwakho</string>
+    <string name="service_low_ligthing">Ukukhanya kuncane</string>
+    <string name="shared_initialize_error">Ayikwazanga ukuthola ubuso bakho</string>
+    <string name="shared_camera_error">Ikhamera ayitholakali</string>
+    <string name="shared_read_gallery_error">Sicela uphinde ukusetha</string>
+    <string name="shared_cancel_label">Khansela</string>
+</resources>

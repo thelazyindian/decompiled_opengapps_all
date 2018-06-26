@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="shutdown_countdown_text">
+        <item quantity="other">Ќе се исклучи за %d секунди...</item>
+        <item quantity="one">Ќе се исклучи за %d секунда...</item>
+    </plurals>
+    <plurals name="sim_missing_title">
+        <item quantity="other">Вметни СИМ-картички</item>
+        <item quantity="one">Вметни СИМ-картички</item>
+    </plurals>
+    <plurals name="sim_missing_text_tablet">
+        <item quantity="other">Не сте сигурни како? Проверете во упатството што дојде со вашиот таблет.</item>
+        <item quantity="one">Не сте сигурни како? Проверете во упатството што дојде со вашиот таблет.</item>
+    </plurals>
+    <plurals name="sim_missing_text_device">
+        <item quantity="other">Не сте сигурни како? Проверете во упатството што дојде со вашиот уред.</item>
+        <item quantity="one">Не сте сигурни како? Проверете во упатството што дојде со вашиот уред.</item>
+    </plurals>
+    <plurals name="sim_missing_text_default">
+        <item quantity="other">Не сте сигурни како? Проверете во упатството што дојде со вашиот телефон.</item>
+        <item quantity="one">Не сте сигурни како? Проверете во упатството што дојде со вашиот телефон.</item>
+    </plurals>
+    <plurals name="walled_garden_check_timeout_text">
+        <item quantity="other">Ова може да потрае %d минути</item>
+        <item quantity="one">Ова може да потрае %d минута</item>
+    </plurals>
+</resources>

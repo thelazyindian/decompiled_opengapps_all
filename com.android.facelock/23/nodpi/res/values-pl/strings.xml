@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Zaufana twarz</string>
+    <string name="trusted_face_service_app_name">Usługa Zaufanej twarzy</string>
+    <string name="receiver_app_name">Odbiornik transmisji Zaufanej twarzy</string>
+    <string name="setup_app_name">Dodaj zaufaną twarz</string>
+    <string name="add_to_setup_app_name">Popraw rozpoznawanie twarzy</string>
+    <string name="intro_screen_title">Zaufana twarz – informacje</string>
+    <string name="intro_screen_header">Popatrz na ekran telefonu, by go odblokować.</string>
+    <string name="intro_screen_body">"Pamiętaj:
+
+ "<li><ul>"Rozpoznawanie twarzy jest mniej bezpieczne niż wzorzec, kod PIN czy hasło
+
+ "<li>Ktoś podobny do Ciebie także może odblokować Twój telefon</li>"
+
+ "<li>Dane używane do rozpoznawania twarzy są przechowywane prywatnie na telefonie</li> </ul></li></string>
+    <string name="intro_screen_continue_label">Skonfiguruj</string>
+    <string name="instructions_screen_title">Dodaj zaufaną twarz</string>
+    <string name="instructions_screen_header">Aby uzyskać najlepsze wyniki:</string>
+    <string name="instructions_screen_body">" "<li><ul>"Znajdź pomieszczenie, w którym nie jest za jasno ani za ciemno.
+
+ "<li>Podnieś telefon na wysokość oczu.</li> </ul></li></string>
+    <string name="instructions_screen_continue_label">Dalej</string>
+    <string name="enrollment_screen_message_initializing">Rozpoczynam…</string>
+    <string name="enrollment_screen_message_initialization_error">Nie udało się rozpocząć wyszukiwania twarzy</string>
+    <string name="enrollment_screen_message_camera_error">Aparat jest niedostępny</string>
+    <string name="enrollment_start_message">Umieść twarz wewnątrz obszaru oznaczonego kropkami</string>
+    <string name="enrollment_screen_message_instructions">Cała twarz – od podbródka po czubek głowy – powinna zmieścić się w kółku</string>
+    <string name="enrollment_screen_message_missing_landmarks">Pokaż oczy, nos i usta</string>
+    <string name="enrollment_screen_message_done">Twarz została dodana</string>
+    <string name="enrollment_screen_status_no_face">Pokaż swoją twarz</string>
+    <string name="enrollment_screen_status_face_off_center">Nie widać części twarzy</string>
+    <string name="enrollment_screen_status_missing_landmarks">Nie widać Cię dokładnie</string>
+    <string name="enrollment_screen_continue_label">Dalej</string>
+    <string name="enrollment_screen_done_label">Gotowe</string>
+    <string name="enrollment_screen_talkback_preview_description">Podgląd z aparatu</string>
+    <string name="enrollment_screen_talkback_face_added">Twarz została dodana</string>
+    <string name="end_screen_title">Wszystko gotowe</string>
+    <string name="end_screen_body">Aby odblokować telefon, po prostu włącz ekran i popatrz na aparat.</string>
+    <string name="end_screen_bullet_one_text">Telefon odblokuje się, gdy tylko Cię rozpozna.</string>
+    <string name="end_screen_bullet_two_text">Jeśli urządzenie nie rozpozna Twojej twarzy, możesz je odblokować, używając wzoru, kodu PIN lub hasła.</string>
+    <string name="end_screen_tip_text">Wskazówka: aby rozpoznawanie twarzy działało lepiej, pokaż się w różnych warunkach</string>
+    <string name="end_screen_licenses_label">Licencje</string>
+    <string name="end_screen_continue_label">Gotowe</string>
+    <string name="add_to_setup_intro_screen_title">Popraw rozpoznawanie twarzy</string>
+    <string name="add_to_setup_intro_screen_header">Pokaż, jak wyglądasz w różnych warunkach.</string>
+    <string name="add_to_setup_intro_screen_body">"Przykłady:
+
+ "<li><ul>"W różnych warunkach oświetleniowych
+
+ "<li>Z okularami i bez nich</li>"
+
+ "<li>Ogolony lub z brodą</li>"
+
+ "</ul></li>"
+Podnieś telefon na wysokość oczu."</string>
+    <string name="add_to_setup_intro_screen_continue_label">Dalej</string>
+    <string name="license_screen_header">Informacje o oprogramowaniu open source</string>
+    <string name="license_screen_continue_label">OK</string>
+    <string name="shared_cancel_label">Anuluj</string>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.android.setupwizardlib.GlifLayout android:icon="@drawable/ic_sim_card" android:id="@id/setup_wizard_layout" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" style="@style/SuwContentFrame">
+        <TextView android:id="@id/sim_missing_description" android:layout_width="fill_parent" android:layout_height="wrap_content" style="@style/SuwDescription.Glif" />
+        <Button android:layout_gravity="end" android:id="@id/sim_missing_skip_button" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/skip_button_label" style="@android:style/Widget.Material.Button.Colored" />
+    </LinearLayout>
+</com.android.setupwizardlib.GlifLayout>

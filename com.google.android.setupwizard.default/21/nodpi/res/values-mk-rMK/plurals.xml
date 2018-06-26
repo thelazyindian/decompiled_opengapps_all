@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="shutdown_countdown_text">
+        <item quantity="other">Ќе се исклучи за %d секунди...</item>
+        <item quantity="one">Ќе се исклучи за 1 секунда...</item>
+    </plurals>
+    <plurals name="sim_missing_title">
+        <item quantity="other">Вметни СИМ-картички</item>
+        <item quantity="one">Вметни СИМ-картичка</item>
+    </plurals>
+    <plurals name="sim_missing_text_tablet">
+        <item quantity="other">За да ја вметнете СИМ-картичката, прочитајте ги упатствата што ги добивте заедно со таблетот.</item>
+        <item quantity="one">За да ја вметнете СИМ-картичката, прочитајте ги упатствата што ги добивте заедно со таблетот.</item>
+    </plurals>
+    <plurals name="sim_missing_text_device">
+        <item quantity="other">За да ја вметнете СИМ-картичката, прочитајте ги упатствата што ги добивте заедно со уредот.</item>
+        <item quantity="one">За да ја вметнете СИМ-картичката, прочитајте ги упатствата што ги добивте заедно со уредот.</item>
+    </plurals>
+    <plurals name="sim_missing_text_default">
+        <item quantity="other">За да ја вметнете СИМ-картичката, прочитајте ги упатствата што ги добивте заедно со телефонот.</item>
+        <item quantity="one">За да ја вметнете СИМ-картичката, прочитајте ги упатствата што ги добивте заедно со телефонот.</item>
+    </plurals>
+</resources>

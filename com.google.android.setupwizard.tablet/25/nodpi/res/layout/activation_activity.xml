@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.android.setupwizardlib.SetupWizardLayout android:id="@id/setup_wizard_layout" android:layout_width="fill_parent" android:layout_height="fill_parent" setupwizard:suwHeaderText="@string/activation_title"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:setupwizard="http://schemas.android.com/apk/res-auto">
+    <FrameLayout android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <ProgressBar android:id="@id/progress_bar" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/progress_bar_margin_top" android:indeterminate="true" style="?android:attr/progressBarStyleHorizontal" />
+        <RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent" style="@style/SuwContentFrame">
+            <LinearLayout android:gravity="start|center|top" android:orientation="vertical" android:id="@id/activation_content" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_weight="1.0">
+                <TextView android:id="@id/activation_text" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/activation_text" style="@style/SuwDescription" />
+                <TextView android:id="@id/skip_confirmation" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/activation_skip_confirmation" style="@style/SuwDescription" />
+                <TextView android:id="@id/shutdown_countdown" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" style="@style/SuwDescription" />
+            </LinearLayout>
+            <LinearLayout android:gravity="end" android:orientation="horizontal" android:id="@id/buttons" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_below="@id/activation_content" android:layout_alignParentBottom="true">
+                <Button android:id="@id/try_again_button" android:visibility="gone" android:text="@string/try_again_button_label" android:layout_marginStart="@dimen/button_horizontal_margin" style="@style/setup_wizard_button" />
+            </LinearLayout>
+        </RelativeLayout>
+    </FrameLayout>
+</com.android.setupwizardlib.SetupWizardLayout>

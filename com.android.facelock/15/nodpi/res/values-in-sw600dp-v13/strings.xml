@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="tutorial_header">Lihat tablet Anda untuk membuka kuncinya.</string>
+    <string name="tutorial_info_text">"Ingatlah hal-hal berikut:
+
+ "<li><ul>"Pencocokan wajah kurang aman dibandingkan pola, PIN, atau sandi.
+
+ "<li>Seseorang yang mirip dengan Anda dapat membuka kunci tablet.</li>"
+
+ "<li>Data yang digunakan untuk mengenali wajah Anda dijaga agar tetap bersifat pribadi di tablet.</li>"
+
+ "</ul></li></string>
+    <string name="intro_info_text">" "<li><ul>"Cari lokasi dalam ruangan yang tidak terlalu terang atau terlalu redup.
+
+ "<li>Pegang tablet sejajar dengan mata.</li>"
+
+ "</ul></li></string>
+    <string name="endscreen_bullet_one_text">Tablet akan segera terbuka setelah mengenali wajah Anda.</string>
+    <string name="endscreen_bullet_two_text">Jika tablet tidak mengenali wajah Anda, buka dengan pola, PIN, atau sandi.</string>
+    <string name="addtosetup_info_text">"Contoh:
+
+ "<li><ul>"Dalam pencahayaan yang berbeda-beda
+
+ "<li>Dengan atau tanpa kacamata</li>"
+
+ "<li>Berjenggot atau dicukur bersih</li>"
+
+ "</ul></li>"
+Pegang ponsel sejajar dengan mata."</string>
+</resources>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="shutdown_countdown_text">
+        <item quantity="other">Sammutetaan %d sekunnin kuluttua…</item>
+        <item quantity="one">Sammutetaan 1 sekunnin kuluttua…</item>
+    </plurals>
+    <plurals name="sim_missing_title">
+        <item quantity="other">Aseta SIM-kortit</item>
+        <item quantity="one">Aseta SIM-kortti</item>
+    </plurals>
+    <plurals name="sim_missing_text_tablet">
+        <item quantity="other">Etkö tiedä miten? Tutustu tablettisi mukana toimitettuihin ohjeisiin.</item>
+        <item quantity="one">Etkö tiedä miten? Tutustu tablettisi mukana toimitettuihin ohjeisiin.</item>
+    </plurals>
+    <plurals name="sim_missing_text_device">
+        <item quantity="other">Etkö tiedä miten? Tutustu laitteesi mukana toimitettuihin ohjeisiin.</item>
+        <item quantity="one">Etkö tiedä miten? Tutustu laitteesi mukana toimitettuihin ohjeisiin.</item>
+    </plurals>
+    <plurals name="sim_missing_text_default">
+        <item quantity="other">Etkö tiedä miten? Tutustu puhelimesi mukana toimitettuihin ohjeisiin.</item>
+        <item quantity="one">Etkö tiedä miten? Tutustu puhelimesi mukana toimitettuihin ohjeisiin.</item>
+    </plurals>
+    <plurals name="walled_garden_check_timeout_text">
+        <item quantity="other">Tämä kestää korkeintaan %d minuuttia</item>
+        <item quantity="one">Tämä kestää korkeintaan %d minuutin</item>
+    </plurals>
+</resources>

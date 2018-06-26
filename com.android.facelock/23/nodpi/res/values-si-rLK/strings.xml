@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">විශ්වාස වන්ත මුහුණ</string>
+    <string name="trusted_face_service_app_name">විශ්වාසවන්ත මුහුණ සේවාව</string>
+    <string name="receiver_app_name">විශ්වාස වන්ත මුහුණ විකාශන ප්‍රතිග්‍රාහකය</string>
+    <string name="setup_app_name">විශ්වාසවන්ත මුහුණක් එකතු කරන්න</string>
+    <string name="add_to_setup_app_name">මුහුණු ගැළපුම දියුණු කරන්න</string>
+    <string name="intro_screen_title">විශ්වාසවන්ත මුහුණ පිළිබඳ</string>
+    <string name="intro_screen_header">ඔබගේ දුරකථනය දෙස බැලීමෙන් එහි අගුළු හරින්න</string>
+    <string name="intro_screen_body">"මතක තබා ගන්න:
+
+ "<li><ul>"මුහුණ ගැළපීම රටාව, PIN හෝ මුරපදයට වඩා ආරක්ෂාකාරී බව අඩුය
+
+ "<li>ඔබ වගේ පෙනෙන අයෙකුට ඔබගේ දුරකථනයේ අගුළු ඇරිය හැක</li>"
+
+ "<li>ඔබගේ මුහුණ හඳුනාගැනීමට යොදාගත් දත්ත දුරකථනයේ පුද්ගලිකව තබා ගැනේ</li> </ul></li></string>
+    <string name="intro_screen_continue_label">සකසන්න</string>
+    <string name="instructions_screen_title">විශ්වාසවන්ත මුහුණක් එකතු කරන්න</string>
+    <string name="instructions_screen_header">වඩා හොඳ ප්‍රතිඵල සඳහා:</string>
+    <string name="instructions_screen_body">" "<li><ul>"වඩා ආලෝකමත් හෝ අඳුරු නොවන ගෘහස්ථ තැනක් සොයන්න
+
+ "<li>දුරකථනය ඇස් මට්ටමෙන් තබා ගන්න</li> </ul></li></string>
+    <string name="instructions_screen_continue_label">මීළඟ</string>
+    <string name="enrollment_screen_message_initializing">අරඹමින්…</string>
+    <string name="enrollment_screen_message_initialization_error">ඔබගේ මුහුණ සොයාගැනීම ආරම්භ කළ නොහැක</string>
+    <string name="enrollment_screen_message_camera_error">කැමරාව නැත</string>
+    <string name="enrollment_start_message">තිත් සහිත ප්‍රදේශයේ මුහුණ තබා ගන්න</string>
+    <string name="enrollment_screen_message_instructions">ඔබේ හිසේ උඩ කොටස සහ ඔබේ නිකටේ පහළ කොටස රවුම ඇතුළත තබා ගන්න</string>
+    <string name="enrollment_screen_message_missing_landmarks">ඇස්, නාසය, සහ මුඛය පෙන්වන්න</string>
+    <string name="enrollment_screen_message_done">මුහුණ එකතු කරන ලදි</string>
+    <string name="enrollment_screen_status_no_face">ඔබගේ මුහුණ පෙන්වන්න</string>
+    <string name="enrollment_screen_status_face_off_center">ඔබගේ මුහුණේ කොටසක් දැකිය නොහැකිය</string>
+    <string name="enrollment_screen_status_missing_landmarks">ඔබගේ අංගයන් දැකිය නොහැකිය</string>
+    <string name="enrollment_screen_continue_label">මීළඟ</string>
+    <string name="enrollment_screen_done_label">අවසන්</string>
+    <string name="enrollment_screen_talkback_preview_description">කැමරා පෙරදසුන</string>
+    <string name="enrollment_screen_talkback_face_added">මුහුණ එකතු කරන ලදි</string>
+    <string name="end_screen_title">සියල්ල සකසා ඇත!</string>
+    <string name="end_screen_body">ඔබගේ දුරකථනය අගුලු ඇරීමට, ඔබගේ තිරය සබල කර කැමරාව වෙත බලන්න</string>
+    <string name="end_screen_bullet_one_text">ඔබගේ දුරකථනය ඔබව හඳුනාගත් විගසම අගුළු අරී</string>
+    <string name="end_screen_bullet_two_text">ඔබගේ මුහුණ හඳුනා ගත්තේ නැති නම්, ඔබගේ රටාව, PIN, හෝ මුරපදය සමගින් ඔබට අගුළු ඇරිය හැක.</string>
+    <string name="end_screen_tip_text">ඉඟිය: විවිධ තත්ත්ව තුළ ඔබගේ පෙනුම පෙන්වීම මඟින් මුහුණ ගැළපීම දියුණු කරන්න</string>
+    <string name="end_screen_licenses_label">බලපත්‍ර</string>
+    <string name="end_screen_continue_label">අවසන්</string>
+    <string name="add_to_setup_intro_screen_title">මුහුණු ගැළපුම දියුණු කරන්න</string>
+    <string name="add_to_setup_intro_screen_header">ඔබ වෙනස් තත්ත්වයන් හිදී කෙසේද යන්න පෙන්වන්න</string>
+    <string name="add_to_setup_intro_screen_body">"උදාහරණ:
+
+ "<li><ul>"වෙනස් ආලෝක තත්ත්වයන් යටතේ
+
+ "<li>ඇස් කණ්ණාඩි සහිතව හෝ රහිතව</li>"
+
+ "<li>රැවුල සහිත හෝ පිරිසිදුව මුඩු කළ</li>"
+
+ "</ul></li>"
+ දුරකථනය ඇස් මට්ටමෙන් තබා ගන්න"</string>
+    <string name="add_to_setup_intro_screen_continue_label">මීළඟ</string>
+    <string name="license_screen_header">විවෘත මූල දැනුම්දීම්</string>
+    <string name="license_screen_continue_label">හරි</string>
+    <string name="shared_cancel_label">අවලංගු කරන්න</string>
+</resources>

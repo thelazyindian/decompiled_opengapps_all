@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="intro_screen_header">Desbloqueie o tablet olhando para ele</string>
+    <string name="intro_screen_body">"Tenha em atenção:
+
+ "<li><ul>"A correspondência de rosto é menos segura do que uma sequência, um PIN ou uma palavra-passe
+
+ "<li>Alguém que se pareça consigo pode desbloquear o seu tablet</li>"
+
+ "<li>Os dados utilizados para reconhecer o seu rosto são mantidos de forma privada no seu tablet</li> </ul></li></string>
+    <string name="instructions_screen_body">" "<li><ul>"Procure um espaço interior com iluminação moderada, nem muito claro, nem muito escuro
+
+ "<li>Segure no tablet à altura dos olhos</li> </ul></li></string>
+    <string name="end_screen_body">Para desbloquear o tablet, basta ligar o ecrã e olhar para a câmara</string>
+    <string name="end_screen_bullet_one_text">O tablet é desbloqueado assim que o reconhecer</string>
+    <string name="add_to_setup_intro_screen_body">"Exemplos:
+
+ "<li><ul>"Em iluminações diferentes
+
+ "<li>Com ou sem óculos graduados</li>"
+
+ "<li>Com ou sem barba</li>"
+
+ "</ul></li>"
+ Segure no tablet à altura dos olhos"</string>
+</resources>

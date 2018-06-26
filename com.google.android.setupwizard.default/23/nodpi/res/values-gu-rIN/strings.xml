@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="setup_wizard_title">સેટઅપ વિઝાર્ડ</string>
+    <string name="setup_wizard_next_button_label">આગલું</string>
+    <string name="setup_wizard_back_button_label">પાછળ</string>
+    <string name="setup_wizard_services_activity_title">Google સેવાઓ</string>
+    <string name="setup_wizard_services_description">આ સેવાઓ Google ને તમારા માટે કાર્ય કરતું રાખે છે અને તમે તેને કોઈપણ સમયે ચાલુ અથવા બંધ કરી શકો છો. ડેટાનો ઉપયોગ Google ની <annotation id="google_privacy">ગોપનીયતા નીતિ</annotation> અનુસાર કરવામાં આવશે.</string>
+    <string name="setup_wizard_services_backup_restore_heading">બેકઅપ લો અને પુનર્સ્થાપિત કરો</string>
+    <string name="setup_wizard_services_location_heading">સ્થાન</string>
+    <string name="setup_wizard_services_communication_heading">સંચાર</string>
+    <string name="setup_wizard_services_backup">તમારા Google એકાઉન્ટનો ઉપયોગ કરીને <b>તમારા ફોનની એપ્લિકેશનો, એપ્લિકેશન ડેટા, સેટિંગ્સ, વ્યક્તિગત શબ્દકોશ અને Wi‑Fi પાસવર્ડ્સનો બેકઅપ લો</b> જેથી કરીને પછીથી સરળતાપૂર્વક તમે પુનર્સ્થાપિત કરી શકો. <annotation id="backup_details">વધુ જાણો</annotation></string>
+    <string name="setup_wizard_services_backup_restore">તમારા Google એકાઉન્ટનો ઉપયોગ કરીને <b>તમારી એપ્લિકેશનો, એપ્લિકેશન ડેટા, સેટિંગ્સ, વ્યક્તિગત શબ્દકોશ અને Wi‑Fi પાસવર્ડ્સનો બેકઅપ લો</b> જેથી કરીને પછીથી સરળતાપૂર્વક તમે પુનર્સ્થાપિત કરી શકો.</string>
+    <string name="setup_wizard_services_backup_restore_footnote">ડેટામાં એપ્લિકેશનો, એપ્લિકેશન ડેટા, સિસ્ટમ સેટિંગ્સ અને Wi‑Fi પાસવર્ડ્સનો સમાવેશ થાય છે.</string>
+    <string name="setup_wizard_services_backup_restore_dialog_text">જ્યારે તમે સ્વતઃ બૅકઅપને ચાલુ કરો છો, ત્યારે ઉપકરણનો ડેટા સમયાંતરે તમારા Google એકાઉન્ટમાં સાચવવામાં આવે છે. બેકઅપ્સમાં તમારા એપ્લિકેશન ડેટા ફોલ્ડર્સમાંની માહિતી, જેમ કે પસંદગીઓ, સેટિંગ્સ, સંદેશા, ફોટા અને અન્ય ફાઇલોનો સમાવેશ થઈ શકે છે.</string>
+    <string name="setup_wizard_services_location_sharing">સ્થાન નિર્ધારિત કરવામાં એપ્લિકેશનોની સહાય કરવા <b>Google ની સ્થાન સેવાનો ઉપયોગ કરો.</b> આનો અર્થ છે જ્યારે કોઈ એપ્લિકેશનો ચાલી ન રહી હોય ત્યારે પણ Google ને અનામ સ્થાન ડેટા મોકલવો.<annotation id="location_details">વધુ જાણો</annotation></string>
+    <string name="setup_wizard_services_location_sharing_dialog_text">Google ની સ્થાન સેવા તમારા ઉપકરણના સ્થાનને વધુ ઝડપથી અને સચોટપણે અનુમાન લેવામાં સહાય માટે Wi‑Fi અને સેલ્યુલર નેટવર્ક્સ જેવા સ્રોતોનો ઉપયોગ કરે છે. જ્યારે તમે Google ની સ્થાન સેવાઓને ચાલુ કરો છો, ત્યારે તમારું ઉપકરણ એક મોડમાં દાખલ થાય છે જે સ્થાન માહિતી પ્રદાન કરવા માટે Wi‑Fi અને સેલ્યુલર નેટવર્કનો ઉપયોગ કરે છે. તમે ફક્ત GPS નો કરે છે તે મોડ પસંદ કરીને સ્થાન સેટિંગ્સમાં આને બંધ કરી શકો છો, કેટલીકવાર તે ફક્ત ઉપકરણ મોડ કહેવાય છે.</string>
+    <string name="setup_wizard_services_location_wifi_scan">એપ્લિકેશનો અને સેવાઓને Wi‑Fi બંધ હોય ત્યારે પણ, તમારું ઉપકરણ Wi‑Fi નેટવર્ક્સ માટે સ્કૅન કરવા દઈને <b>સ્થાન સેવાઓને બહેતર બનાવવામાં સહાય કરો</b>.</string>
+    <string name="setup_wizard_services_location_footnote">Google ની સ્થાન સેવા સ્થાનને વધુ ચોક્કસપણે અને ઝડપથી નિર્ધારિત કરવા માટે Wi‑Fi અને અન્ય સિગ્નલ્સનો ઉપયોગ કરે છે, ઘણીવાર GPS કરતાં પણ ઓછા પાવર ઉપયોગ સાથે. કેટલોક ડેટા તમારા ઉપકરણ પર સંગ્રહિત થઈ શકે છે. ડેટા ત્યારે પણ એકત્રિત થઈ શકે છે જ્યારે કોઈ એપ્લિકેશનો ચાલી રહી ન હોય.</string>
+    <string name="setup_wizard_services_play">Google Play દ્વારા સમાચારો અને ઓફર્સ સાથે <b>મને અપ ટૂ ડેટ રાખો.</b></string>
+    <string name="setup_wizard_services_usage_reporting">Google ને આપમેળે નિદાન અને વપરાશ ડેટા મોકલીને <b>તમારા Android અનુભવને બહેતર બનાવવામાં સહાય કરો.</b> આ માહિતીનો ઉપયોગ તમને ઓળખવા માટે થશે નહીં અને બૅટરી આવરદા, એપ્લિકેશન પ્રદર્શન અને નવી Google સુવિધાઓ જેવી વસ્તુઓ પર કામ કરી રહેલી ટીમ્સને સહાય કરે છે.<annotation id="usage_reporting_details">વધુ જાણો</annotation></string>
+    <string name="setup_wizard_services_usage_reporting_dialog_text">"આ તમારા ઉપકરણ અને તમે કેવી રીતે તેનો ઉપયોગ કરો છો તેના વિશેની સામાન્ય માહિતી છે, જેમ કે બૅટરી સ્તર, તમે કેટલીવાર તમારી એપ્લિકેશનોનો ઉપયોગ કરો છો, તમારા નેટવર્ક કનેક્શન્સની ગુણવત્તા અને અવધિ (જેમ કે સેલ, Wi‑Fi, અને Bluetooth), અને જ્યારે વસ્તુઓ જે રીતે કામ કરવી જોઈએ તે રીતે ન કરે ત્યારની ક્રેશ રિપોર્ટ્સ. તેનો ઉપયોગ Google ના ઉત્પાદનો અને સેવાઓને દરેક જણ માટે બહેતર બનાવવા માટે થશે અને તેને તમારા Google એકાઉન્ટ સાથે સાંકળવામાં આવશે નહીં. કેટલીક એકીકૃત માહિતી ભાગીદારોને સહાય કરશે, જેમ કે Android વિકાસકર્તાઓ, તેઓની એપ્લિકેશનો અને ઉત્પાદનોને પણ સારા બનાવશે.
+
+તમે Google સેટિંગ્સ એપ્લિકેશનમાં કોઈપણ સમયે આને ચાલુ અથવા બંધ કરી શકો છો. આ સિસ્ટમ અપડેટ્સ અને સુરક્ષા જેવી આવશ્યક સેવાઓ પ્રાપ્ત કરવા માટે તેને જરૂરી છે તેવી માહિતી મોકલવા માટેની તમારા ઉપકરણની ક્ષમતાને પ્રભાવિત કરતું નથી."</string>
+    <string name="setup_wizard_services_agreement">આ ફોન, Google, તમારા કેરીઅર અને તમારા ફોનના નિર્માતા પાસેથી અપડેટ્સ અને એપ્લિકેશનો મેળવી અને ઇન્સ્ટોલ પણ કરી શકે છે. જો તમે ચાલુ રાખો છો તો કેટલીક એપ્લિકેશનો ડાઉનલોડ થઈ શકે છે અને ઇન્સ્ટોલ થઈ શકે છે અને તમે તેમને કોઈપણ સમયે દૂર કરી શકો છો.</string>
+    <string name="default_device_name">Android</string>
+    <string name="finish_button_label">સમાપ્ત</string>
+    <string name="skip_button_label">છોડો</string>
+    <string name="skip_anyway_button_label">કોઈપણ રીતે છોડો</string>
+    <string name="dont_skip_button_label">છોડશો નહીં</string>
+    <string name="down_button_label">વધુ</string>
+    <string name="cancel_button_label">રદ કરો</string>
+    <string name="restart_button_label">પુનઃપ્રારંભ કરો</string>
+    <string name="try_again_button_label">ફરી પ્રયાસ કરો</string>
+    <string name="close_button_label">બંધ કરો</string>
+    <string name="got_it_button_label">સમજાઈ ગયું</string>
+    <string name="ok_button_label">ઑકે</string>
+    <string name="google_legal_title">Google કાનૂની</string>
+    <string name="url_load_unsuccessful_message">તમારો ફોન મોબાઇલ ડેટા સેવા સાથે કનેક્ટ થયેલ નથી. આ માહિતી હમણાં જોવા માટે, વેબ બ્રાઉઝરમાં %s પર જાઓ.</string>
+    <string name="start">પ્રારંભ કરો</string>
+    <string name="wait_msg">બસ એક સેકંડ...</string>
+    <string name="skip_toast">સેટઅપ વિઝાર્ડ છોડ્યું</string>
+    <string name="terminate_toast">"સેટઅપ વિઝાર્ડ સમાપ્ત કર્યું
+ઉપકરણની જોગવાઈ કરેલ નથી"</string>
+    <string name="activation_title">સેલ્યુલર સેવાને સક્રિય કરી રહ્યું છે…</string>
+    <string name="activation_title_searching">સેવા શોધી રહ્યું છે…</string>
+    <string name="activation_title_activating">સેલ્યુલર સેવાને સક્રિય કરી રહ્યું છે…</string>
+    <string name="activation_default_network_name">મોબાઇલ નેટવર્ક</string>
+    <string name="activation_network_bars_template">સિગ્નલ સશક્તતા %d બાર</string>
+    <string name="activation_text">તમારી મોબાઇલ સેવાને હમણાં સક્રિય કરવા માટે <b>સક્રિય કરો</b>" પર ટચ કરો. (તેમાં થોડો સમય લાગી શકે છે.)
+
+અથવા તેના બદલે Wi-Fi કનેક્શનનો ઉપયોગ કરીને તમારા ફોનને સેટ કરવા માટે "<b>છોડો</b> પર ટચ કરો.</string>
+    <string name="activation_text_standalone">તમારી મોબાઇલ સેવાને હમણાં સક્રિય કરવા માટે <b>સક્રિય કરો</b> પર ટચ કરો. (તેમાં થોડો સમય લાગી શકે છે.)</string>
+    <string name="activation_skip_confirmation">"જ્યાં સુધી તમે તમારી મોબાઇલ ડેટા સેવાને સક્રિય કરશો નહીં, ત્યાં સુધી તમારા ફોનની મોટાભાગની સુવિધાઓ કામ કરશે નહીં.
+
+જો તમે હમણાં છોડી દેવાનું પસંદ કરો છો, તો તમે પછીથી સિસ્ટમ સેટિંગ્સમાં સક્રિય કરી શકો છો."</string>
+    <string name="activation_continue_skip_label">ચાલુ રાખો</string>
+    <string name="activation_button_label">સક્રિય કરો</string>
+    <string name="activation_progress_before_connect">તેના બદલે Wi-Fi કનેક્શનનો ઉપયોગ કરીને સેટઅપ પૂર્ણ કરવા માટે <b>છોડો</b> પર ટચ કરો.</string>
+    <string name="activation_progress">સક્રિયકરણમાં થોડો સમય લાગી શકે છે. તેના બદલે Wi-Fi કનેક્શનનો ઉપયોગ કરીને સેટઅપ પૂર્ણ કરવા માટે <b>છોડો</b> પર ટચ કરો.</string>
+    <string name="activation_progress_gen">આમાં 5 મિનિટ સુધીનો સમય લાગી શકે છે</string>
+    <string name="activation_progress_mobile_data">"ફોન તમારી મોબાઇલ ડેટા સેવાને સક્રિય કરી રહ્યું છે.
+
+આમાં 5 મિનિટ સુધીનો સમય લાગી શકે છે."</string>
+    <string name="activation_progress_before_connect_standalone">સક્રિયકરણમાં થોડો સમય લાગી શકે છે.</string>
+    <string name="activation_progress_standalone">સક્રિયકરણમાં થોડો સમય લાગી શકે છે.</string>
+    <string name="activation_success_title">સક્રિયકરણ પૂર્ણ થયું</string>
+    <string name="activation_success_text">સેટઅપ સાથે ચાલુ રાખવા માટે <b>આગલું</b> પર ટચ કરો.</string>
+    <string name="activation_success_text_gen">સક્રિયકરણ પૂર્ણ કરવા માટે તમારા ઉપકરણને પુનઃપ્રારંભ કરવાની જરૂર છે.</string>
+    <string name="activation_success_text_standalone">ચાલુ રાખવા માટે <b>આગલું</b>" પર ટચ કરો.
+
+સક્રિયકરણ સફળ થયું, પરંતુ મોબાઇલ ડેટા નેટવર્ક ઉપલબ્ધ થવામાં થોડો સમય લાગી શકે છે."</string>
+    <string name="activation_failure_title">સક્રિય કરી શકાયું નથી</string>
+    <string name="activation_failure_text">"જો આ થવાનું ચાલુ રહે છે તો એક મિનિટમાં ફરી પ્રયાસ કરો અથવા તમારા ફોનને પુનઃપ્રારંભ કરો.
+
+જો તમે હમણાં છોડી દેવાનું પસંદ કરો છો, તો પછીથી સિસ્ટમ સેટિંગ્સમાં યાદથી સક્રિય કરો. જ્યાં સુધી તમે સક્રિય કરશો નહીં, ત્યાં સુધી તમારા ફોનમાં સેલ્યુલર ડેટા કનેક્શન હશે નહીં."</string>
+    <string name="activation_failure_text_gen">તમારી મોબાઇલ ડેટા સેવા સક્રિય કરી શકાઈ નથી. આ કદાચ એક અસ્થાયી સમસ્યા છે અને ફોનને ફરીથી શરૂ કરીને ઉકેલી શકાય છે.</string>
+    <string name="activation_failure_text_standalone">મોબાઇલ ડેટા સેવા સક્રિય કરી શકાઈ નથી. સક્રિયકરણનો ફરી પ્રયાસ કરવા માટે <b>ફરી પ્રયાસ કરો</b>" પર ટચ કરો.
+
+તમે "<b>સિસ્ટમ સેટિંગ્સ > વાયરલેસ અને નેટવર્ક્સ > મોબાઇલ નેટવર્ક્સ</b>માં પછીથી તમારી મોબાઇલ ડેટા સેવાને સક્રિય કરી શકો છો.</string>
+    <string name="activation_cancel_title">રદ કરવાની વિનંતી કરી</string>
+    <string name="activation_cancel_text">સક્રિયકરણ રદ કરી રહ્યું છે…આમાં 5-10 સેકંડ લાગી શકે છે.</string>
+    <string name="activation_canceled_title">સક્રિયકરણ રદ કર્યું</string>
+    <string name="activation_canceled_text">"શું તમે સક્રિયકરણને રદ કરવા માગો છો? તમે તમારી મોબાઇલ નેટવર્ક સેવાનો ઉપયોગ ઇન્ટરનેટથી કનેક્ટ કરવા માટે કરી શકો તે પહેલાં તમારે તેને સક્રિય કરવી પડશે.
+
+Wi-Fi કનેક્શનનો ઉપયોગ કરીને સેટઅપ પૂર્ણ કરવા માટે "<b>આગલું</b>" પર ટચ કરો.
+
+તમે "<b>સિસ્ટમ સેટિંગ્સ > વાયરલેસ અને નેટવર્ક્સ > મોબાઇલ નેટવર્ક્સ</b>માં પછીથી તમારી મોબાઇલ નેટવર્ક સેવાને સક્રિય કરી શકો છો.</string>
+    <string name="activation_canceled_text_standalone">"સક્રિયકરણ રદ કર્યું.
+
+તમે "<b>સિસ્ટમ સેટિંગ્સ > વાયરલેસ અને નેટવર્ક્સ > સેલ્યુલર નેટવર્ક્સ</b>માં પછીથી તમારી મોબાઇલ ડેટા સેવાને સક્રિય કરી શકો છો.</string>
+    <string name="activation_spc_failure_text">એક ભૂલ આવી જેના માટે તમે કોઈ બીજા સક્રિયકરણનો પ્રયત્ન કરી શકો તે પહેલાં તમારા ફોનને શટ ડાઉન કરીને પુનઃપ્રારંભ કરવું જરૂરી છે. તમારો ફોન 60 સેકંડમાં આપમેળે શટ ડાઉન થશે અથવા તમે <b>હમણાં શટ ડાઉન કરો</b>" પર ટચ કરી શકો છો.
+
+એકવાર તમારો ફોન શટ ડાઉન થઈ જાય તે પછી, તેને પુનઃપ્રારંભ કરવા માટે પાવર બટનને દબાવો. સક્રિયકરણ આપમેળે પ્રારંભ થશે."</string>
+    <string name="shutdown_button_label">હમણાં શટ ડાઉન કરો</string>
+    <string name="reboot_button_label">પુનઃપ્રારંભ કરો</string>
+    <string name="activation_skip_text">જો તમે સક્રિયકરણ છોડી દો છો, તો પછીથી સિસ્ટમ સેટિંગ્સમાં યાદથી સક્રિય કરો. જ્યાં સુધી તમે સક્રિય કરશો નહીં, ત્યાં સુધી તમારા ફોનમાં સેલ્યુલર ડેટા કનેક્શન હશે નહીં.</string>
+    <string name="notification_update_title">તમારા એકાઉન્ટને અપડેટ કરવાની જરૂર છે</string>
+    <string name="notification_update_message">સેટઅપ વિઝાર્ડ ફરીથી ચલાવવા માટે અહીં ટચ કરો.</string>
+    <string name="account_exists_title">એકાઉન્ટ ઉમેર્યું</string>
+    <string name="account_exists_text">તમારું પ્રથમ એકાઉન્ટ ઉપયોગ માટે તૈયાર છે. તમે સેટિંગ્સમાં પછીથી એકાઉન્ટ્સ ઉમેરી અને દૂર કરી શકો છો.</string>
+    <string name="date_time_setup_title">તારીખ અને સમય</string>
+    <string name="date_time_message">જો જરૂરી હોય તો સમાયોજિત કરો.</string>
+    <string name="date_time_current_date">તારીખ</string>
+    <string name="date_time_current_time">સમય</string>
+    <string name="date_time_time_zone_full" formatted="false">%s (%s)</string>
+    <string name="sim_missing_title">SIM કાર્ડ શામેલ કરો</string>
+    <string name="sim_setup_title">SIM કાર્ડ્સ સેટ કરો</string>
+    <string name="sim_setup_select_data">સેલ્યુલર ડેટા માટે SIM પસંદ કરો</string>
+    <string name="sim_setup_select_voice">કૉલ્સ માટે SIM પસંદ કરો</string>
+    <string name="sim_setup_select_text">ટેક્સ્ટ સંદેશા માટે SIM પસંદ કરો</string>
+    <string name="sim_setup_ask_every_time">દર વખતે પૂછો</string>
+    <string name="walled_garden_title">કનેક્શન તપાસી રહ્યું છે…</string>
+    <string name="walled_garden_check_indefinite_text">આમાં થોડો સમય લાગી શકે છે</string>
+    <string name="walled_garden_skipped_message">"જો તમે આ છોડો છો તો:
+
+તમારા ફોન પર ઇન્ટરનેટ કનેક્શન નહીં હોય.
+
+જ્યાં સુધી તમે ઇન્ટરનેટથી કનેક્ટ કરશો નહીં ત્યાં સુધી તમને સોફ્ટવેર અપડેટ્સ મળશે નહીં.
+
+તમે આ સમયે ઉપકરણ સુરક્ષા સુવિધાઓને સક્રિય કરી શકતાં નથી."</string>
+    <string name="walled_garden_connection_failed">બહુ સમય લાગી રહ્યો છે? પાછળ જઈને ભિન્ન નેટવર્કથી કનેક્ટ કરવાનો પ્રયાસ કરો.</string>
+    <string name="walled_garden_connection_unsuccessful">ઇન્ટરનેટથી કનેક્ટ કરી શક્યાં નહીં</string>
+    <string name="ota_update_title">ફોનને અપડેટ કરો</string>
+    <string name="ota_info">તમારા ફોનને અપડેટ ડાઉનલોડ કરી અને પુનઃપ્રારંભ કરવાની જરૂર છે.</string>
+    <string name="ota_size">કદ: %s</string>
+    <string name="ota_agreement_text">આ સોફ્ટવેર અપડેટ ચાલુ રાખી અને પ્રાપ્ત કરીને, તમે <annotation id="tos">Googleની સેવાની શરતો</annotation> અને <annotation id="google_privacy">ગોપનીયતા નીતિ</annotation>થી સંમત થાઓ છો.</string>
+    <string name="early_update_title">સોફ્ટવેર અપડેટ</string>
+    <string name="early_update_text">અપડેટ્સ માટે તપાસી રહ્યું છે</string>
+    <string name="early_update_downloading_text">%s ને ડાઉનલોડ કરી રહ્યું છે</string>
+    <string name="early_update_installing_text">%s ને ઇન્સ્ટોલ કરી રહ્યું છે</string>
+    <string name="warm_sim_check_msg">નેટવર્કની રાહ જોઈ રહ્યાં છે…</string>
+    <string name="sign_in_agreement">સાઇન ઇન કરીને, તમે Google <annotation id="tos">સેવાની શરતો</annotation>, <annotation id="google_privacy">ગોપનીયતા નીતિ</annotation>, અને <annotation id="play_tos">Google Play ની સેવાની શરતો</annotation> થી સંમત થઈ રહ્યાં છો.</string>
+    <string name="android_privacy_policy_title">વધારાની ગોપનીયતા નીતિ</string>
+    <string name="google_terms_of_service_title">Googleની સેવાની શરતો</string>
+    <string name="google_privacy_policy_title">Google ગોપનીયતા નીતિ</string>
+    <string name="google_plus_privacy_policy_title">Google પ્લસ ગોપનીયતા નીતિ</string>
+    <string name="google_play_tos_title">Google Play સેવાની શરતો</string>
+    <string name="chrome_tos_title">Chrome સેવાની શરતો</string>
+    <string name="chrome_privacy_title">Chrome ગોપનીયતા સૂચના</string>
+    <string name="url_load_unsuccessful_message_wifi_only">તમારું Android ઉપકરણ Wi-Fi નેટવર્ક સાથે કનેક્ટ થયેલ નથી. આ માહિતી હમણાં જોવા માટે, વેબ બ્રાઉઝરમાં %s ની મુલાકાત લો.</string>
+    <string name="continue_for_a11y">ઍક્સેસિબિલિટી મોડને સક્ષમ કરવા માટે તમને જ્યાં સુધી બીપને સંભળાય ત્યાં સુધી સ્ક્રીનને ટચ કરવાનું ચાલુ રાખો.</string>
+    <string name="canceled_a11y">ઍક્સેસિબિલિટી મોડ રદ કર્યું.</string>
+    <string name="enabled_a11y">ઍક્સેસિબિલિટી મોડ સક્ષમ કર્યું.</string>
+    <string name="welcome_message">સ્વાગત છે</string>
+    <string name="emergency_dial">કટોકટી</string>
+    <string name="welcome_language_picker_dialog_title">તમારી ભાષા પસંદ કરો</string>
+    <string name="welcome_language_picker_section_suggested">સૂચવેલા</string>
+    <string name="welcome_language_picker_section_all">બધી ભાષાઓ</string>
+    <string name="welcome_language_picker_content_description">ભાષા: %s</string>
+    <string name="lock_screen_intro_title">તમારા ફોનને સુરક્ષિત કરો</string>
+    <string name="lock_screen_intro_text">ઉપકરણ સુરક્ષા સુવિધાઓને સક્રિય કરીને તમારી પરવાનગી વિના અન્ય લોકોને આ ફોનનો ઉપયોગ કરવાથી અટકાવો. <annotation id="learn_more">વધુ જાણો</annotation></string>
+    <string name="lock_screen_intro_text_secondary">જો તમે હા પસંદ કરો છો તો, તમારા સ્ક્રીન લૉકને સેટ કરવા માટે તમને માર્ગદર્શન આપવામાં આવશે.</string>
+    <string name="lock_screen_intro_check_box"><b>આ ઉપકરણને સુરક્ષિત કરો</b> અને સ્ક્રીનને અનલૉક કરવા માટે PIN, પેટર્ન અથવા પાસવર્ડ જરૂરી</string>
+    <string name="lock_screen_intro_radio_fingerprint">ફિંગરપ્રિન્ટ સેટ કરો</string>
+    <string name="lock_screen_intro_radio_generic">PIN, પેટર્ન અથવા પાસવર્ડ સેટ કરો</string>
+    <string name="lock_screen_intro_radio_no">નહીં, આભાર</string>
+    <string name="lock_screen_intro_success">"તમારું લૉક સ્ક્રીન સફળતાપૂર્વક સેટ કરવામાં આવ્યું છે.
+"<annotation id="learn_more">વધુ જાણો</annotation></string>
+    <string name="lock_screen_intro_dialog_text_frp">"જ્યારે તમે Google એકાઉન્ટ ઉમેરો છો અને સ્ક્રીન લૉક સેટ કરો છો, ત્યારે ઉપકરણ સુરક્ષા આપમેળે સક્રિય થઈ જાય છે. Android ઉપકરણ સંચાલકની સાથે, જો તમારો ફોન ગુમ થઈ ગયો હોય કે ચોરાઈ ગયો હોય તો આ તેને શોધવા અને કાઢી નાખવામાં તમારી સહાય કરે છે.
+
+જો તમારો ફોન વાઇપ થઈ ગયો હોય તો પણ, કોઈપણ આ ફોનનો ઉપયોગ કરી શકે તે પહેલાં તમારો Google એકાઉન્ટ પાસવર્ડ આવશ્યક હશે."</string>
+    <string name="lock_screen_intro_dialog_text">જ્યારે તમે Google એકાઉન્ટ ઉમેરો છો અને સ્ક્રીન લૉક સેટ કરો છો, ત્યારે ઉપકરણ સુરક્ષા આપમેળે સક્રિય થઈ જાય છે. Android ઉપકરણ સંચાલકની સાથે, જો તમારો ફોન ગુમ થઈ ગયો હોય કે ચોરાઈ ગયો હોય તો આ તેને શોધવા અને કાઢી નાખવામાં તમારી સહાય કરે છે.</string>
+    <string name="lock_screen_intro_skip_dialog_text_frp">ઉપકરણ સુરક્ષા સુવિધાઓ સક્રિય કરવામાં આવશે નહીં. તમે અન્ય લોકોને આ ફોનનો ઉપયોગ કરવાથી અટકાવી શકશો નહીં જો તે ગુમ થઈ ગયો હોય, ચોરાઈ ગયો હોય અથવા વાઇપ થઈ ગયો હોય.</string>
+    <string name="lock_screen_intro_skip_dialog_text">ઉપકરણ સુરક્ષા સુવિધાઓ સક્રિય કરવામાં આવશે નહીં. તમે અન્ય લોકોને આ ફોનનો ઉપયોગ કરવાથી અટકાવી શકશો નહીં જો તે ગુમ થઈ ગયો હોય અથવા ચોરાઈ ગયો હોય.</string>
+    <string name="services_activity_title">Google સેવાઓ</string>
+    <string name="services_backup_heading">બેકઅપ</string>
+    <string name="services_location_heading">સ્થાન</string>
+    <string name="services_security_heading">સુરક્ષા</string>
+    <string name="services_personalization_heading">વૈયક્તિકૃતતા</string>
+    <string name="services_communication_heading">સંચાર</string>
+    <string name="security_verify_apps_summary">Google ને તમારા ઉપકરણ અથવા ડેટાની સુરક્ષાને અસર કરી શકે તેવા સંભવિત નુકસાનકારક વર્તન માટે ઇન્સ્ટોલ કરેલી તમામ એપ્લિકેશન્સને તપાસવા દો.</string>
+    <string name="restore_title">પુનર્સ્થાપિત કરી રહ્યાં છે...</string>
+    <string name="restore_wallpaper_title">વૉલપેપર પુનર્સ્થાપિત કરી રહ્યાં છે…</string>
+    <string name="restore_device_settings_title">ઉપકરણ સેટિંગ્સ પુનર્સ્થાપિત કરે છે…</string>
+    <string name="restore_launcher_title">લોન્ચર પુનર્સ્થાપિત કરી રહ્યાં છે…</string>
+    <string name="restore_failed_message">બેકઅપમાંથી પુનર્સ્થાપિત કરી શકાયો નથી.</string>
+    <string name="restore_no_backup_message">સ્રોત ઉપકરણ માટે કોઈ બેકઅપ્સ ઉપલબ્ધ નથી.</string>
+    <string name="restore_stopped_message">કમનસીબે, ઉપકરણે બેકઅપમાંથી ડેટા પુનર્સ્થાપિત કરવાનું બંધ કર્યું.</string>
+    <string name="name_title">નામ</string>
+    <string name="name_text">તમારું નામ ઉમેરવું કેટલીક એપ્લિકેશન્સને વ્યક્તિગત કરવા માટે તમારા ફોનને મંજૂરી આપે છે.</string>
+    <string name="first_name">પ્રથમ</string>
+    <string name="last_name">છેલ્લું</string>
+    <string name="cant_be_blank">ફીલ્ડ ખાલી હોઈ શકતી નથી.</string>
+    <string name="device_owner_warning_title">ફોનનું નિરીક્ષણ થઇ શકે છે</string>
+    <string name="device_owner_warning">આ ફોન “%1$s”થી સંચાલિત થાય છે, જેનો અર્થ છે તમારી કેટલીક માહિતી અન્ય લોકો માટે દૃશ્યક્ષમ હોઈ શકે છે. નિરીક્ષણ અટકાવવા તમારો ફોન ફરીથી સેટ કરો.</string>
+    <string name="device_owner_continue">ચાલુ રાખો</string>
+    <string name="device_owner_reset">ફોન ફરીથી સેટ કરો</string>
+    <string name="factory_reset_title">ફોન ફરીથી સેટ કરો</string>
+    <string name="factory_reset_instructions">ચેતવણી: ફરીથી સેટ કરવાથી આ ફોનના આંતરિક સંગ્રહમાંના તમામ એકાઉન્ટ્સ અને ડેટાને કાઢી નાખવામાં આવશે.</string>
+    <string name="factory_reset_confirmation_title">ફરીથી સેટ કરીએ?</string>
+    <string name="factory_reset_confirmation">આ ફોન પરથી તમામ એકાઉન્ટ્સ અને ડેટા કાઢી નાખીએ? તમે આ ક્રિયાને પૂર્વવત્ કરી શકતા નથી!</string>
+    <string name="factory_reset_button">કાઢી નાખો અને ફરીથી સેટ કરો</string>
+    <string name="restart_setup_wizard_dialog_title">સાઇન ઇન કર્યુ નથી</string>
+    <string name="restart_setup_wizard_dialog_text">"આ ફોનનો ઉપયોગ કરવા માટે, તમારે આ ફોનને છેલ્લીવાર ફરીથી સેટ કરતી વખતે ઉપયોગમાં લેવાયેલા માલિકના આ ફોનના Google એકાઉન્ટમાં સાઇન ઇન કરવું પડશે.
+
+તમે તેમ કર્યું ન હોવાથી, તમારે ફોનને ફરીથી સેટ કરવો પડશે."</string>
+    <string name="restart_setup_wizard_button_label">ફોન સેટ કરો</string>
+    <string name="sec_user_continue">ચાલુ રાખો</string>
+    <string name="sec_user_quit">છોડી દો</string>
+    <string name="user_warning_title">નવો વપરાશકર્તા સેટ કરો</string>
+    <string name="welcome_secondary_user_added_text">%s એ તમને આ ફોન પર ઉમેર્યા છે.</string>
+    <string name="welcome_secondary_user_added_no_owner_name_text">તમને આ ફોનમાં ઉમેરવામાં આવ્યાં છે.</string>
+    <string name="welcome_secondary_user_info_text"><b>મહત્વપૂર્ણ:</b>"
+
+"<li><ul>ફોનના માલિક તમારી એપ્લિકેશનને અનઇન્સ્ટોલ કરી શકે છે અથવા તમારા સ્થાનને સંપૂર્ણપણે દૂર કરી શકે છે.</ul></li>"
+
+"<li><ul>કોઈપણ અન્ય વપરાશકર્તા તમારી વતી અપડેટ કરાયેલ એપ્લિકેશન પરવાનગીઓ સ્વીકારી શકે છે.</ul></li>"
+
+"<li><ul>કોઈપણ કમ્પ્યુટરની જેમ, તમે વિશ્વાસ કરતા હોવ તેવા લોકો સાથે જ તમારે આ ફોન શેર કરવો જોઈએ.</ul></li></string>
+    <string name="welcome_limited_user_info_text">" "<b>મહત્વપૂર્ણ:</b>"
+
+ "<li><ul>ફોનના માલિક એપ્લિકેશનો ઇન્સ્ટોલ કરી અને અનઇન્સ્ટોલ કરી શકે છે, સીમા સેટ કરી અથવા તમારા સ્થાનને સંપૂર્ણપણે દૂર કરી શકે છે.</ul></li>"
+
+ "<li><ul>કોઈપણ અન્ય વપરાશકર્તા તમારા વતી અપડેટ કરેલ એપ્લિકેશન પરવાનગીઓ સ્વીકારી શકે છે.</ul></li>"
+
+ "<li><ul>કોઈપણ કમ્પ્યુટરની જેમ, તમારે ફક્ત તમે વિશ્વાસ કરો છો તે જ લોકો સાથે આ ફોનને શેર કરવો જોઈએ. </ul></li></string>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="passwordStrength">
+        <item>Akukuhle</item>
+        <item>kulungile</item>
+        <item>kuhle</item>
+        <item>kunamandla</item>
+    </string-array>
+</resources>

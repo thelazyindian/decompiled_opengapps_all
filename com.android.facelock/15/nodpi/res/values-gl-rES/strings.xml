@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Rostro de confianza</string>
+    <string name="receiver_app_name">Receptor de emisión de rostro de confianza</string>
+    <string name="setup_app_name">Engadir unha cara de confianza</string>
+    <string name="enrollment_continue_label">Seguinte</string>
+    <string name="enrollment_done_label">Feito</string>
+    <string name="enrollment_initializing">Iniciando…</string>
+    <string name="enrollment_start_message">Mantén a cara dentro da área de puntos</string>
+    <string name="gar_preview_description">Vista previa da cámara</string>
+    <string name="error_no_face">Mostra a túa cara</string>
+    <string name="enrollment_missing_landmarks">Mostra os ollos, o nariz e a boca</string>
+    <string name="enrollment_missing_landmarks_status">Non se poden ver os teus trazos</string>
+    <string name="enrollment_off_center_status">Non se pode ver parte da túa cara</string>
+    <string name="gar_enrollment_face_added">Cara engadida</string>
+    <string name="enrollment_done">De acordo</string>
+    <string name="tutorial_app_name">Acerca do rostro de confianza</string>
+    <string name="tutorial_header">Mira o teléfono para desbloquealo.</string>
+    <string name="tutorial_info_text">"Ten en conta o seguinte:
+
+ "<li><ul>"O recoñecemento facial é menos seguro que un padrón, PIN ou contrasinal.
+
+ "<li>Se alguén ten un aspecto semellante ao teu, podería desbloquear o teléfono.</li>"
+
+ "<li>Os datos que se usan para identificar a túa cara gárdanse no teléfono de forma privada.</li>"
+
+ "</ul></li></string>
+    <string name="tutorial_continue_label">Configurar</string>
+    <string name="intro_header">Para obter os mellores resultados:</string>
+    <string name="intro_info_text">" "<li><ul>"Busca un lugar interior sen exceso de luz nin de escuridade.
+
+ "<li>Pon o teléfono á altura dos ollos.</li>"
+
+ "</ul></li></string>
+    <string name="intro_continue_label">Seguinte</string>
+    <string name="endscreen_header">Todo listo!</string>
+    <string name="endscreen_info_text">Cando queiras desbloquealo, só tes que acender a pantalla e mirar á cámara.</string>
+    <string name="endscreen_bullet_one_text">O teu teléfono desbloquearase tan pronto como te recoñeza.</string>
+    <string name="endscreen_bullet_two_text">Se o teléfono non recoñece o teu rostro, podes desbloquear a pantalla co teu padrón, PIN ou contrasinal.</string>
+    <string name="endscreen_tip_text">Consello: Mellora o recoñecemento facial capturando a túa aparencia en distintas condicións.</string>
+    <string name="endscreen_continue_label">Aceptar</string>
+    <string name="endscreen_license_label">Licenzas</string>
+    <string name="addtosetup_app_name">Mellorar a coincidencia facial</string>
+    <string name="addtosetup_header">Mostra a túa aparencia en distintas condicións.</string>
+    <string name="addtosetup_info_text">"Exemplos:
+
+ "<li><ul>"Cunha iluminación distinta
+
+ "<li>Con e sen lentes</li>"
+
+ "<li>Con e sen barba</li>"
+
+ "</ul></li>"
+Pon o teléfono á altura dos ollos."</string>
+    <string name="addtosetup_continue_label">Seguinte</string>
+    <string name="license_screen_header">Avisos de código aberto</string>
+    <string name="license_screen_continue_label">Aceptar</string>
+    <string name="face_unlock_service_app_name">Servizo de desbloqueo facial</string>
+    <string name="trusted_face_service_app_name">Servizo de rostro de confianza</string>
+    <string name="service_face_not_found">Non se puido encontrar unha cara</string>
+    <string name="service_not_a_match">O dispositivo non te recoñece</string>
+    <string name="service_liveliness_start">Pestanexa agora</string>
+    <string name="service_liveliness_timeout">Non se captou o pestanexo</string>
+    <string name="service_low_ligthing">Hai moi pouca luz</string>
+    <string name="shared_initialize_error">Non foi posible iniciar a busca do teu rostro</string>
+    <string name="shared_camera_error">A cámara non está dispoñible</string>
+    <string name="shared_read_gallery_error">Repite a configuración</string>
+    <string name="shared_cancel_label">Cancelar</string>
+</resources>

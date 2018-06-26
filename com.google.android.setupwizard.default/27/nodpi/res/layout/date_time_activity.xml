@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.android.setupwizardlib.GlifLayout android:icon="@drawable/ic_date_time" android:id="@id/setup_wizard_layout" android:layout_width="fill_parent" android:layout_height="fill_parent" app:suwFooter="@layout/footer_next_only" app:suwHeaderText="@string/date_time_setup_title"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <LinearLayout android:orientation="vertical" android:clipChildren="false" android:clipToPadding="false" android:layout_width="fill_parent" android:layout_height="wrap_content" style="@style/SuwContentFrame">
+        <TextView android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/date_time_message" style="@style/SuwDescription.Glif" />
+        <view android:textAppearance="?android:textAppearanceMedium" android:textSize="@dimen/date_time_spinner_text_size" android:id="@id/time_zone_picker" android:background="@drawable/spinner_bg" android:paddingLeft="@dimen/date_time_spinner_negative_padding_side" android:paddingRight="@dimen/date_time_spinner_negative_padding_side" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/date_time_vertical_spacing" android:minWidth="@dimen/date_time_spinner_min_width" android:dropDownWidth="fill_parent" android:paddingVertical="@dimen/date_time_spinner_vertical_spacing" class="com.google.android.setupwizard.time.DateTimeActivity$SpinnerUnderlined" />
+        <view android:orientation="vertical" android:id="@id/date_text_view_container" android:layout_width="fill_parent" android:layout_height="wrap_content" android:paddingVertical="@dimen/date_time_vertical_spacing" class="com.google.android.setupwizard.time.DateTimeActivity$DateTimeSelectorLayout" style="@style/DateTimeLayout">
+            <TextView android:textAppearance="@android:style/TextAppearance.Material.Caption" android:id="@id/date_text_view_label" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/date_time_current_date" />
+            <TextView android:textAppearance="@style/TextAppearance.DateTimeField" android:id="@id/date_text_view" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+        </view>
+        <view android:orientation="vertical" android:id="@id/time_text_view_container" android:layout_width="fill_parent" android:layout_height="wrap_content" android:paddingVertical="@dimen/date_time_vertical_spacing" class="com.google.android.setupwizard.time.DateTimeActivity$DateTimeSelectorLayout" style="@style/DateTimeLayout">
+            <TextView android:textAppearance="@android:style/TextAppearance.Material.Caption" android:id="@id/time_text_view_label" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/date_time_current_time" />
+            <TextView android:textAppearance="@style/TextAppearance.DateTimeField" android:id="@id/time_text_view" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+        </view>
+    </LinearLayout>
+</com.android.setupwizardlib.GlifLayout>

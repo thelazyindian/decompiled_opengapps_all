@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="common_google_play_services_notification_ticker">កំហុស​​សេវាកម្ម​ Google កម្សាន្ត</string>
+    <string name="common_google_play_services_notification_needs_installation_title">កម្មវិធី​ទាមទារ​ឲ្យ​ដំឡើង​សេវាកម្ម​ Google កម្សាន្ត។</string>
+    <string name="common_google_play_services_notification_needs_update_title">កម្មវិធី​ទាមទារ​​ធ្វើ​បច្ចុប្បន្នភាព​សេវាកម្ម ​Google កម្សាន្ត។</string>
+    <string name="common_android_wear_notification_needs_update_text">កម្មវិធី​ទាមទារ​បច្ចុប្បន្នភាព​ចំពោះ​កម្មវិធី Android Wear ។</string>
+    <string name="common_google_play_services_needs_enabling_title">កម្មវិធី​ទាមទារ​ឲ្យ​បើក​សេវាកម្ម​ Google កម្សាន្ត។</string>
+    <string name="common_google_play_services_error_notification_requested_by_msg">បាន​ស្នើ​ដោយ %1$s</string>
+    <string name="common_google_play_services_install_title">ទទួល​សេវាកម្ម​កម្សាន្ត Google</string>
+    <string name="common_google_play_services_install_text_phone">កម្មវិធី​នេះ​នឹង​មិន​ដំណើរការ​​ទេ​បើ​គ្មាន​​សេវាកម្ម​កម្សាន្ត​ Google ដែល​ទូរស័ព្ទ​របស់​​អ្នក​មិន​មាន។</string>
+    <string name="common_google_play_services_install_text_tablet">​​កម្មវិធី​នេះ​នឹង​មិន​ដំណើរការ​​ទេ​បើ​គ្មាន​​សេវាកម្ម​កម្សាន្ត​ Google ដែល​​កុំព្យូទ័រ​បន្ទះ​របស់​អ្នក​មិន​មាន។</string>
+    <string name="common_google_play_services_install_button">ទទួល​សេវាកម្ម​កម្សាន្ត Google</string>
+    <string name="common_google_play_services_enable_title">បើក​សេវាកម្ម​កម្សាន្ត Google</string>
+    <string name="common_google_play_services_enable_text">កម្ម​វិធី​នេះ​នឹង​មិន​ដំណើរការ​ទេ​ លុះត្រាតែ​អ្នក​បើក​សេវាកម្ម​​កម្សាន្ត​ Google ។</string>
+    <string name="common_google_play_services_enable_button">បើក​សេវាកម្ម​កម្សាន្ត Google</string>
+    <string name="common_google_play_services_update_title">ធ្វើ​បច្ចុប្បន្នភាព​សេវាកម្ម​កម្សាន្ត Google</string>
+    <string name="common_android_wear_update_title">ធ្វើ​បច្ចុប្បន្នភាព Android Wear</string>
+    <string name="common_google_play_services_update_text">កម្មវិធី​នេះ​នឹង​មិន​ដំណើរការ​ទេ​ លុះត្រាតែ​អ្នក​ធ្វើ​បច្ចុប្បន្នភាព​សេវាកម្ម​កម្សាន្ត Google ។</string>
+    <string name="common_android_wear_update_text">កម្មវិធី​នេះ​នឹង​មិន​ដំណើរការ​ទេ លុះ​ត្រា​តែ​អ្នក​ធ្វើ​បច្ចុប្បន្នភាព​​កម្មវិធី Android Wear ។</string>
+    <string name="common_google_play_services_network_error_title">កំហុស​​បណ្ដាញ</string>
+    <string name="common_google_play_services_network_error_text">បាន​ទាមទារ​ការ​តភ្ជាប់​ទិន្នន័យ ដើម្បី​ភ្ជាប់​សេវាកម្ម​ឃ្លាំង​កម្មវិធី។</string>
+    <string name="common_google_play_services_invalid_account_title">គណនី​មិន​ត្រឹមត្រូវ</string>
+    <string name="common_google_play_services_invalid_account_text">គណនី​ដែល​បាន​បញ្ជាក់​មិន​មាន​នៅ​លើ​ឧបករណ៍​នេះ​ទេ។ សូម​ជ្រើស​គណនី​ផ្សេង​។</string>
+    <string name="common_google_play_services_unknown_issue">មិន​ស្គាល់​បញ្ហា​ជាមួយ​សេវាកម្ម​កម្សាន្ត Google ។</string>
+    <string name="common_google_play_services_unsupported_title">សេវាកម្ម​កម្សាន្ត​ Google</string>
+    <string name="common_google_play_services_unsupported_text">សេវាកម្ម​កម្សាន្ត Google អាស្រ័យ​លើ​កម្មវិធី​របស់​អ្នក មិន​ត្រូវ​បាន​គាំទ្រ​ដោយ​ឧបករណ៍​របស់​អ្នក។ សូម​ទាក់ទង​ក្រុមហ៊ុន​ផលិត​សម្រាប់​ជំនួយ។</string>
+    <string name="common_google_play_services_update_button">ធ្វើ​បច្ចុប្បន្នភាព</string>
+    <string name="common_signin_button_text">ចូល</string>
+    <string name="common_signin_button_text_long">ចូល​ដោយ​ប្រើ​ Google</string>
+    <string name="common_open_on_phone">បើក​តាម​ទូរស័ព្ទ</string>
+    <string name="setup_wizard_next_button_label">បន្ទាប់</string>
+    <string name="setup_wizard_back_button_label">ថយក្រោយ</string>
+    <string name="setup_wizard_title">អ្នកជំនួយ​ការ​រៀបចំ</string>
+    <string name="setup_wizard_services_activity_title">សេវាកម្ម​ Google</string>
+    <string name="setup_wizard_services_description">សេវាកម្ម​ទាំង​នេះ​ដាក់ Google ដើម្បី​ធ្វើការ​ឲ្យ​អ្នក ហើយ​អ្នក​អាច​បើក ឬ​បិទ​វា​នៅ​ពេល​ណា​ក៏បាន។ ទិន្នន័យ​នឹង​ត្រូវ​បាន​ប្រើ​ដោយ​យោង​តាម <annotation id="google_privacy">គោលនយោបាយ​ភាព​ឯកជន</annotation> របស់ Google ។</string>
+    <string name="setup_wizard_services_backup_restore_heading">ការ​បម្រុង​ទុក &amp; ស្ដារ</string>
+    <string name="setup_wizard_services_location_heading">ទីតាំង</string>
+    <string name="setup_wizard_services_communication_heading">ទំនាក់ទំនង</string>
+    <string name="setup_wizard_services_backup"><b>បម្រុងកម្មវិធី ទិន្នន័យកម្មវិធី ការកំណត់ ថតផ្ទាល់ខ្លួន និងពាក្យសម្ងាត់ Wi-Fi ទូរស័ព្ទរបស់អ្នក</b> ដោយប្រើ គណនី Google របស់អ្នក ដូច្នេះអ្នកអាចស្តារវាបាននាពេលក្រោយយ៉ាងងាយស្រួល។ <annotation id="backup_details">ស្វែងយល់បន្ថែម</annotation></string>
+    <string name="setup_wizard_services_backup_restore"><b>បម្រុងកម្មវិធី ទិន្នន័យកម្មវិធី ការកំណត់ ថតផ្ទាល់ខ្លួន និងពាក្យសម្ងាត់ Wi-Fi</b> ដោយប្រើ គណនី Google របស់អ្នក ដូច្នេះអ្នកអាចស្តារវាបាននាពេលក្រោយយ៉ាងងាយស្រួល។</string>
+    <string name="setup_wizard_services_backup_restore_footnote">ទិន្នន័យ​រួម​​មាន ​កម្មវិធី​, ការ​កំណត់​កម្មវិធី​, ការ​កំណត់​ប្រព័ន្ធ​, និង​ពាក្យ​សម្ងាត់​វ៉ាយហ្វាយ។</string>
+    <string name="setup_wizard_services_backup_restore_dialog_text">ពេល​អ្នក​បើក​ការ​បម្រុង​ទុក​ស្វ័យ​ប្រវត្តិ ទិន្នន័យ​ក្នុង​ឧបករណ៍​របស់​អ្នក​ត្រូវ​បាន​រក្សាទុក​យ៉ាង​ទៀងទាត់​ក្នុង​គណនី Google របស់​អ្នក។ ការ​បម្រុងទុក​អាច​មាន​ព័ត៌មាន​ក្នុង​ថត​ទិន្នន័យ​កម្មវិធី​ដូច​ជា ចំណូលចិត្ត, ការ​កំណត់, សារ, រូបថត និង​ឯកសារ​ផ្សេង​ៗ​ទៀត។</string>
+    <string name="setup_wizard_services_location_sharing"><b> ប្រើ​សេវា​ទីតាំង​របស់ Google </b> ដើម្បី​ជួយ​កំណត់​ទីតាំង​។ នេះ​មាន​ន័យ​ថា​មាន​ការ​ផ្ញើ​ទិន្នន័យ​ទីតាំង​ជា​អនាមិក​ទៅ​ Google សូម្បី​តែ​នៅ​ពេល​មិន​មាន​កម្មវិធី​កំពុង​ដំណើរការ​ក៏​ដោយ​។ <annotation id="location_details"> ស្វែងយល់​បន្ថែម </annotation></string>
+    <string name="setup_wizard_services_location_sharing_dialog_text">សេវា​ទីតាំង​របស់ Google ប្រើប្រាស់​ប្រភព​ដូច​ជា​វ៉ាយហ្វាយ និង​​បណ្ដាញ​ចល័ត​ដើម្បី​ជួយ​ប៉ាន់ស្មាន​ទីតាំង​ឧបករណ៍​របស់​អ្នក​កាន់​តែ​បាន​​លឿន​ និង​កាន់​តែ​ត្រឹមត្រូវ​។ នៅ​ពេល​ដែល​អ្នក​បើក​សេវា​ទីតាំង​របស់ Google​, ឧបករណ៍​របស់​អ្នក​ចូល​ក្នុង​របៀប​ដែល​ប្រើ​វ៉ាយហ្វាយ និង​បណ្ដាញ​ចល័ត​​ដើម្បី​ផ្ដល់​ព័ត៌មាន​ទីតាំង​។ អ្នក​អាច​បិទ​វា​នៅ​ក្នុង​ការ​កំណត់​ទីតាំង​ដោយ​ជ្រើស​របៀប​ដែល​ប្រើ​ប្រព័ន្ធ​ជីភីអេស​តែ​ប៉ុណ្ណោះ ពេល​ខ្លះ​បាន​តែ​របៀប​ឧបករណ៍។</string>
+    <string name="setup_wizard_services_location_wifi_scan"><b> ជួយ​ធ្វើ​ឲ្យ​សេវា​ទីតាំង​ល្អ​ប្រសើរ</b> ដោយ​ឲ្យ​កម្មវិធី និង​សេវា​វិភាគ​រក​បណ្ដាញ​វ៉ាយហ្វាយ សូម្បីតែ​នៅ​ពេល​វ៉ាហ្វាយ​បិទ​ក៏​ដោយ។</string>
+    <string name="setup_wizard_services_location_footnote">សេវាកម្ម​ទីតាំង​របស់ Google ប្រើ​វ៉ាយហ្វាយ និង​សញ្ញា​ផ្សេង​ទៀត ដើម្បី​កំណត់​ទីតាំង​កាន់តែ​ច្បាស់ និង​លឿន ជា​ធម្មតា​ប្រើ​ថាមពល​ថ្ម​តិច​ជាង GPS ។ ទិន្នន័យ​មួយ​ចំនួន​អាច​ត្រូវ​​បាន​​រក្សាទុក​លើ​ឧបករណ៍​របស់​អ្នក។ ទិន្នន័យ​អាច​ត្រូវ​បាន​ប្រមូល​សូម្បី​តែ​គ្មាន​កម្មវិធី​កំពុង​ដំណើរការ​ក៏​ដោយ។</string>
+    <string name="setup_wizard_services_play"><b>ធ្វើ​បច្ចុប្បន្នភាព​ខ្ញុំ​រហូត</b> ជាមួយ​ព័ត៌មាន និង​ការ​ផ្ដល់​ពី Google កម្សាន្ត។</string>
+    <string name="setup_wizard_services_usage_reporting"><b> ជួយ​បង្កើន​បទ​ពិសោធ​ន៍ Android របស់​អ្នក </b> ដោយ​ការ​ផ្ញើ​​ទិន្នន័យ​កំណត់​រោគ​វិនិច្ឆ័យ ​និង​ទិន្នន័យ​​ប្រើ​ប្រាស់​ដោយ​ស្វ័យ​ប្រវត្តិ​ទៅ​ក្រុមហ៊ុន Google ។ ព័ត៌មាន​នេះ​នឹង​មិន​ត្រូវ​បាន​ប្រើ ​ដើម្បី​កំណត់​អត្តសញ្ញាណ​អ្នក​ និង​ផ្ដល់​ឲ្យ​​ក្រុម​ធ្វើ​ការ​លើ​​វត្ថុ​ដូច​ជា​អាយុកាល​ថ្ម​, ការ​ប្រតិបត្តិ​កម្មវិធី ​និង​លក្ខណៈ​ពិសេស​ថ្មី​របស់ Google ។ <annotation id="usage_reporting_details"> ស្វែងយល់​បន្ថែម </annotation></string>
+    <string name="setup_wizard_services_usage_reporting_dialog_text">"នេះ​ជា​ព័ត៌មាន​​ទូទៅ​អំពី​ឧបករណ៍​របស់​អ្នក ​និង​របៀប​ដែល​អ្នក​ប្រើ​វា ​ដូចជា​កម្រិត​ថ្ម​, ភាព​​ញឹកញាប់​​ដែល​អ្នក​ប្រើ​កម្មវិធី​​, ​គុណភាព​ និង​រយៈពេល​នៃ​ការ​តភ្ជាប់​បណ្ដាញ​របស់​អ្នក (ដូច​ជា​បណ្ដាញ​ចល័ត, វ៉ាយហ្វាយ និង​ប៊្លូធូស​) និង​របាយការណ៍​គាំង​ នៅ​ពេល​ឧបករណ៍​មិន​កំពុង​ដំណើរការ​​តាម​វិធី​ដែល​​ពួកគេ​​គួរ​ធ្វើ​។ វា​នឹង​ត្រូវ​បាន​ប្រើ ​ដើម្បី​​ធ្វើ​ឲ្យ​​ផលិតផល​ និង​សេវាកម្ម​របស់​ Google កាន់​តែ​ល្អ​ប្រសើរ​សម្រាប់​អ្នក​រាល់​គ្នា ​ហើយ​នឹង​មិន​ត្រូវ​បាន​ភ្ជាប់​​ជាមួយ​​ក្រុមហ៊ុន Google គណនី​របស់​អ្នក​។ ​ព័ត៌មាន​ដែល​បាន​ប្រមូល​មួយ​ចំនួន​​នឹង​ជួយ​​ដល់​​ដៃ​គូ ​ដូច​ជា​អ្នក​អភិវឌ្ឍន៍​ Android ធ្វើ​ឲ្យ​​កម្មវិធី​​និង​ផលិតផល​របស់​ពួក​គេ​កាន់​តែ​ល្អ​ប្រសើរ​។ 
+
+ អ្នក​អាច​បើក​ ឬ​បិទ​វា​​នៅ​ពេល​ណា​មួយ​នៅ​ក្នុង​កម្មវិធី​ការ​កំណត់​របស់ Google ។ នេះ​មិន​ប៉ះ​ពាល់​ដល់​សមត្ថភាព​ឧបករណ៍​របស់​អ្នក​​ក្នុង​ការ​ផ្ញើ​ព័ត៌មាន​​ឡើយ ​វា​ត្រូវ​ការ​ដើម្បី​ទទួល​បាន​សេវា​ចាំបាច់​ដូច​ជា​​បច្ចុប្បន្នភាព ​និង​សន្តិសុខ​ប្រព័ន្ធ​។"</string>
+    <string name="setup_wizard_services_agreement">ទូរស័ព្ទ​នេះ​ក៏​អាច​នឹង​ទទួល​បាន​ និង​​​ដំឡើង​បច្ចុប្បន្នភាព ​និង​កម្មវិធី​ពី Google​, ក្រុមហ៊ុន​បញ្ជូន​ ​និង​ក្រុមហ៊ុន​ផលិត​ទូរស័ព្ទ​របស់​អ្នក​។ កម្មវិធី​ខ្លះ​អាច​នឹង​ត្រូវ​បាន​ទាញ​យក​ហើយ​​ដំឡើង ​ប្រសិន​បើ​អ្នក​បន្ត ​អ្នក​អាច​លុប​​វា​ចេញ​នៅ​ពេល​ណា​មួយ​។</string>
+</resources>

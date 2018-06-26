@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Trusted Face</string>
+    <string name="receiver_app_name">Broadcast Receiver ng Trusted Face</string>
+    <string name="setup_app_name">Magdagdag ng pinagkakatiwalaang mukha</string>
+    <string name="enrollment_continue_label">Susunod</string>
+    <string name="enrollment_done_label">Tapos na</string>
+    <string name="enrollment_initializing">Nagsisimula...</string>
+    <string name="enrollment_start_message">Panatilihin ang mukha sa loob ng lugar na may tuldok</string>
+    <string name="gar_preview_description">Preview ng camera</string>
+    <string name="error_no_face">Ipakita ang iyong mukha</string>
+    <string name="enrollment_missing_landmarks">Ipakita ang mga mata, ilong at bibig.</string>
+    <string name="enrollment_missing_landmarks_status">Hindi makita ang iyong mga feature</string>
+    <string name="enrollment_off_center_status">Hindi makita ang bahagi ng iyong mukha</string>
+    <string name="gar_enrollment_face_added">Naidagdag ang mukha</string>
+    <string name="enrollment_done">Nakuha ko</string>
+    <string name="tutorial_app_name">Tungkol sa trusted face</string>
+    <string name="tutorial_header">Tumingin sa iyong telepono upang ma-unlock ito.</string>
+    <string name="tutorial_info_text">"Tandaan ang mga bagay na ito:
+
+ "<li><ul>"Ang pagtutugma ng mukha ay hindi kasing-secure ng isang pattern, PIN o password.
+
+ "<li>Maa-unlock ng isang taong kamukha mo ang iyong telepono.</li>"
+
+ "<li>Pinapanatiling pribado sa telepono ang data na ginamit upang kilalanin ang iyong mukha.</li>"
+
+ "</ul></li></string>
+    <string name="tutorial_continue_label">I-set up</string>
+    <string name="intro_header">Para sa pinakamahusay na mga resulta:</string>
+    <string name="intro_info_text">" "<li><ul>"Humanap ng lugar sa loob—na hindi masyadong maliwanag o masyadong madilim.
+
+ "<li>Pindutin nang matagal ang telepono nang kapantay ng mata.</li>"
+
+ "</ul></li></string>
+    <string name="intro_continue_label">Susunod</string>
+    <string name="endscreen_header">Handa na ang lahat!</string>
+    <string name="endscreen_info_text">Kapag gusto mong mag-unlock, i-on lang ang iyong screen at ipakita ang iyong mukha sa camera.</string>
+    <string name="endscreen_bullet_one_text">Agad na naa-unlock ang iyong telepono kapag nakilala ka na nito.</string>
+    <string name="endscreen_bullet_two_text">Kung hindi nakilala ng telepono mo ang iyong mukha, maaari kang mag-unlock gamit ang iyong pattern, PIN o password.</string>
+    <string name="endscreen_tip_text">"Tip: Pagbutihin ang pagtutugma ng mukha sa pamamagitan ng pagpapakita sa kung ano ang iyong hitsura sa iba't ibang kundisyon."</string>
+    <string name="endscreen_continue_label">OK</string>
+    <string name="endscreen_license_label">Mga Lisensya</string>
+    <string name="addtosetup_app_name">Pahusayin ang pagtutugma ng mukha</string>
+    <string name="addtosetup_header">"Ipakita kung ano ang iyong hitsura sa iba't ibang kundisyon."</string>
+    <string name="addtosetup_info_text">"Mga Halimbawa:
+
+ "<li><ul>"Sa ibang liwanag
+
+ "<li>Mayroon o walang mga prescription na salamin</li>"
+
+ "<li>May balbas o bagong ahit</li>"
+
+ "</ul></li>"
+Hawakan ang telepono nang kapantay ang mata."</string>
+    <string name="addtosetup_continue_label">Susunod</string>
+    <string name="license_screen_header">Ang Abiso ng Open Source</string>
+    <string name="license_screen_continue_label">OK</string>
+    <string name="face_unlock_service_app_name">Serbisyo ng Face Unlock</string>
+    <string name="trusted_face_service_app_name">Serbisyo ng Trusted Face</string>
+    <string name="service_face_not_found">Hindi makahanap ng mukha</string>
+    <string name="service_not_a_match">Paumanhin, hindi ka nakikilala</string>
+    <string name="service_liveliness_start">Kumurap ngayon</string>
+    <string name="service_liveliness_timeout">Hindi nahuli ang iyong pagkurap</string>
+    <string name="service_low_ligthing">Masyadong madilim ang pag-iilaw</string>
+    <string name="shared_initialize_error">Hindi masimulan ang paghahanap sa iyong mukha</string>
+    <string name="shared_camera_error">Hindi available ang camera</string>
+    <string name="shared_read_gallery_error">Mangyaring ulitin ang setup</string>
+    <string name="shared_cancel_label">Kanselahin</string>
+</resources>

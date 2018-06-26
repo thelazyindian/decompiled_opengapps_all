@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="intro_screen_header">Planshetingizni yuz tekshiruvi yordamida qulfdan chiqaring</string>
+    <string name="intro_screen_body">"Esda tuting:
+
+ "<li><ul>"Yuz tekshiruvining himoya darajasi chizmali kalit, PIN-kod yoki parolnikidek emas
+
+ "<li>Sizga o‘xshaydigan biror kimsa planshetingizni qulfdan chiqara olishi mumkin</li>"
+
+ "<li>Yuzingizni tanish uchun ishlatiladigan ma’lumotlar faqat ushbu planshetda saqlanadi</li> </ul></li></string>
+    <string name="instructions_screen_body">" "<li><ul>"Ichkaridan juda yorug‘ ham, juda qorong‘i ham bo‘lmagan joy toping
+
+ "<li>Planshetni ko‘z balandligida tuting</li> </ul></li></string>
+    <string name="end_screen_body">Planshetni qulfdan chiqarish uchun shunchaki ekranni yoqing va kameraga qarang</string>
+    <string name="end_screen_bullet_one_text">Planshet sizni tanishi bilanoq qulfdan chiqariladi</string>
+    <string name="add_to_setup_intro_screen_body">"Misollar:
+
+ "<li><ul>"Turli yorug‘lik ostida
+
+ "<li>Ko‘zoynak bilan yoki ko‘zoynaksiz</li>"
+
+ "<li>Soqol bilan yoki soqol qirilgan holatda</li>"
+
+ "</ul></li>"
+ Planshetni ko‘z balandligida tuting"</string>
+</resources>

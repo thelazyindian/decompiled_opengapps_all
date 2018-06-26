@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WizardScript wizard:firstAction="network_settings"
+  xmlns:wizard="http://schemas.android.com/apk/res/com.google.android.setupwizard">
+    <WizardAction wizard:uri="intent:#Intent;action=com.android.setupwizard.NETWORK_SETTINGS;end" id="network_settings">
+        <result wizard:resultCode="101" wizard:action="activate_mobile_data" wizard:name="use_mobile" />
+        <result wizard:resultCode="102" wizard:action="wifi_settings" wizard:name="see_all_wifi" />
+        <result wizard:resultCode="1" wizard:name="skip" />
+        <result wizard:action="captive_portal" />
+    </WizardAction>
+    <WizardAction wizard:uri="intent:#Intent;action=com.android.setupwizard.ACTIVATE_MOBILE_DATA;end" id="activate_mobile_data">
+        <result wizard:action="captive_portal" />
+    </WizardAction>
+    <WizardAction wizard:uri="intent:#Intent;action=com.android.setupwizard.WIFI_SETTINGS;end" id="wifi_settings">
+        <result wizard:resultCode="101" wizard:action="activate_mobile_data" wizard:name="use_mobile" />
+        <result wizard:resultCode="1" wizard:name="skip" />
+        <result wizard:action="captive_portal" />
+    </WizardAction>
+    <WizardAction wizard:uri="intent:#Intent;action=com.android.setupwizard.CAPTIVE_PORTAL;end" id="captive_portal">
+        <result wizard:action="gms_checkin" />
+    </WizardAction>
+    <WizardAction wizard:uri="intent:#Intent;action=com.google.android.setupwizard.GMS_CHECKIN;end" id="gms_checkin">
+        <result wizard:action="ota_update" />
+    </WizardAction>
+    <WizardAction wizard:uri="intent:#Intent;action=com.google.android.setupwizard.OTA_UPDATE;end" id="ota_update">
+        <result wizard:resultCode="1" wizard:action="early_update" wizard:name="skip" />
+        <result wizard:action="system_update" />
+    </WizardAction>
+    <WizardAction wizard:uri="intent:#Intent;action=android.settings.SYSTEM_UPDATE_SETTINGS;end" id="system_update">
+        <result wizard:action="early_update" />
+    </WizardAction>
+    <WizardAction wizard:uri="intent:#Intent;action=com.google.android.setupwizard.EARLY_UPDATE;end" id="early_update" />
+</WizardScript>

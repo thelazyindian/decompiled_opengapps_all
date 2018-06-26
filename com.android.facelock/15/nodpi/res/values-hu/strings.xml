@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Megbízható arc</string>
+    <string name="receiver_app_name">Megbízható arc – Műsorvevő</string>
+    <string name="setup_app_name">Megbízható arc hozzáadása</string>
+    <string name="enrollment_continue_label">Következő</string>
+    <string name="enrollment_done_label">Kész</string>
+    <string name="enrollment_initializing">Indítás...</string>
+    <string name="enrollment_start_message">Tartsa az arcát a pontozott területen belül</string>
+    <string name="gar_preview_description">Kamera előnézete</string>
+    <string name="error_no_face">Mutassa meg az arcát</string>
+    <string name="enrollment_missing_landmarks">Mutassa szemét, orrát és száját</string>
+    <string name="enrollment_missing_landmarks_status">Nem láthatók a jellegzetes arcvonásai</string>
+    <string name="enrollment_off_center_status">Az arc egy része nem látszik</string>
+    <string name="gar_enrollment_face_added">Arc hozzáadva</string>
+    <string name="enrollment_done">Értem</string>
+    <string name="tutorial_app_name">A megbízható arc funkcióról</string>
+    <string name="tutorial_header">A feloldáshoz nézzen rá a telefonjára.</string>
+    <string name="tutorial_info_text">"Tartsa észben ezeket a dolgokat:
+
+ "<li><ul>"az arcalapú feloldás kevésbé biztonságos, mint a minta, a PIN kód vagy a jelszó.
+
+ "<li>Aki hasonlít Önre, az is fel tudja oldani a telefon zárolását.</li>"
+
+ "<li>Az arca azonosítására használt adatokat a rendszer titkosítva tárolja a telefonon.</li>"
+
+ "</ul></li></string>
+    <string name="tutorial_continue_label">Beállítás</string>
+    <string name="intro_header">A legjobb eredmény eléréséhez:</string>
+    <string name="intro_info_text">" "<li><ul>"Keressen egy fedett helyet mérsékelt világítással -- ne túl világosat vagy túl sötétet.
+
+"<li>Tartsa a telefont szemmagasságban.</li>"
+
+"</ul></li></string>
+    <string name="intro_continue_label">Következő</string>
+    <string name="endscreen_header">Kész is!</string>
+    <string name="endscreen_info_text">Ha fel szeretné oldani a zárolást, csak kapcsolja be a képernyőt, és nézzen arccal a kamera felé.</string>
+    <string name="endscreen_bullet_one_text">Telefonja azonnal feloldja a zárolást, amint felismeri Önt.</string>
+    <string name="endscreen_bullet_two_text">Ha a telefon nem ismeri fel az Ön arcát, feloldhatja a zárolást mintával, PIN kóddal vagy jelszóval is.</string>
+    <string name="endscreen_tip_text">Tipp: az arcfelismerést javíthatja, ha megmutatja az eszköznek, hogyan fest különböző körülmények között.</string>
+    <string name="endscreen_continue_label">OK</string>
+    <string name="endscreen_license_label">Licencek</string>
+    <string name="addtosetup_app_name">Arcfelismerés javítása</string>
+    <string name="addtosetup_header">Mutassa meg, hogy néz ki különböző körülmények között.</string>
+    <string name="addtosetup_info_text">"Példák:
+ 
+ "<ul> <li>Különböző fényviszonyok között</li>" 
+ 
+ "<li>Szemüvegben vagy anélkül</li>" 
+ 
+ "<li>Szakállasan vagy frissen borotválva</li>" 
+ 
+ "</ul>" 
+Tartsa a telefont szemmagasságban."</string>
+    <string name="addtosetup_continue_label">Következő</string>
+    <string name="license_screen_header">Nyílt forráskóddal kapcsolatos megjegyzések</string>
+    <string name="license_screen_continue_label">OK</string>
+    <string name="face_unlock_service_app_name">Arcalapú feloldás</string>
+    <string name="trusted_face_service_app_name">Megbízható arc szolgáltatás</string>
+    <string name="service_face_not_found">Nem található arc</string>
+    <string name="service_not_a_match">Sajnos nem ismerem fel</string>
+    <string name="service_liveliness_start">Most pislogjon</string>
+    <string name="service_liveliness_timeout">Nem láttam a pislogást</string>
+    <string name="service_low_ligthing">Túl kevés a fény</string>
+    <string name="shared_initialize_error">Nem sikerült megkezdeni az arckeresést</string>
+    <string name="shared_camera_error">A kamera nem érhető el</string>
+    <string name="shared_read_gallery_error">Kérjük, ismételje meg a beállítást</string>
+    <string name="shared_cancel_label">Mégse</string>
+</resources>

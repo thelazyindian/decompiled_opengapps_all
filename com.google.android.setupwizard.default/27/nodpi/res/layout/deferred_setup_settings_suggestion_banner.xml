@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="horizontal" android:paddingTop="16.0dip" android:paddingBottom="20.0dip" android:clipChildren="false" android:clipToPadding="false" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginStart="16.0dip" android:layout_marginEnd="12.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:layout_width="@dimen/deferred_suggestion_icon_size" android:layout_height="@dimen/deferred_suggestion_icon_size" android:src="@drawable/ic_deferred_setup_suggestion_icon" android:contentDescription="@null" />
+    <LinearLayout android:layout_gravity="start" android:orientation="vertical" android:clipChildren="false" android:clipToPadding="false" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="2.0dip" android:layout_marginStart="18.0dip">
+        <TextView android:id="@android:id/title" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/deferred_setup_wizard_title" android:layout_marginStart="6.0dip" style="@android:style/TextAppearance.Material.Subhead" />
+        <TextView android:textAppearance="@android:style/TextAppearance.Material.Small" android:id="@android:id/summary" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="12.0dip" android:text="@string/deferred_setup_wizard_reason_default_high_priority" android:layout_marginStart="6.0dip" android:layout_marginEnd="50.0dip" />
+        <Button android:id="@android:id/primary" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="12.0dip" android:text="@string/deferred_setup_button_label" style="@style/SuwGlifButton.Primary" />
+    </LinearLayout>
+</LinearLayout>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">بھروسہ مند چہرہ</string>
+    <string name="trusted_face_service_app_name">بھروسہ مند چہرے کی سروس</string>
+    <string name="receiver_app_name">بھروسہ مند چہرے کے براڈکاسٹ کا وصول کنندہ</string>
+    <string name="setup_app_name">ایک بھروسہ مند چہرہ شامل کریں</string>
+    <string name="add_to_setup_app_name">چہرے کی مماثلت کو بہتر بنائیں</string>
+    <string name="intro_screen_title">بھروسہ مند چہرے کے بارے میں</string>
+    <string name="intro_screen_header">اپنے فون کی طرف دیکھ کر اسے غیر مقفل کریں</string>
+    <string name="intro_screen_body">"‏یاد رکھیں:
+
+ "<li><ul>"چہرے کی مماثلت ایک پیٹرن، PIN یا پاس ورڈ سے کم محفوظ ہے
+
+ "<li>آپ جیسا نظر آنے والا کوئی شخص آپ کا فون غیر مقفل کر سکتا ہے</li>"
+
+ "<li>آپ کا چہرہ پہچاننے کیلئے مستعمل ڈیٹا فون پر نجی رکھا جاتا ہے</li></ul></li></string>
+    <string name="intro_screen_continue_label">ترتیب دیں</string>
+    <string name="instructions_screen_title">ایک بھروسہ مند چہرہ شامل کریں</string>
+    <string name="instructions_screen_header">بہترین نتائج کیلئے:</string>
+    <string name="instructions_screen_body">" "<li><ul>"ایک انڈور اسپاٹ تلاش کریں جو بہت روشن یا بہت مدہم نہ ہو
+
+ "<li>فون کو آنکھ کی سطح کے برابر رکھیں</li> </ul></li></string>
+    <string name="instructions_screen_continue_label">آگے</string>
+    <string name="enrollment_screen_message_initializing">شروع ہو رہا ہے…</string>
+    <string name="enrollment_screen_message_initialization_error">آپ کے چہرے کی تلاش شروع نہیں ہوسکی</string>
+    <string name="enrollment_screen_message_camera_error">کیمرا دستیاب نہیں ہے</string>
+    <string name="enrollment_start_message">چہرے کو نکتہ دار حصے کے اندر رکھیں</string>
+    <string name="enrollment_screen_message_instructions">اپنے سر کا بالائی حصہ اور ٹھوڑی کا نچلا حصہ دائرے کے اندر رکھیں</string>
+    <string name="enrollment_screen_message_missing_landmarks">آنکھیں، ناک اور منہ دکھائیں</string>
+    <string name="enrollment_screen_message_done">چہرہ شامل کر دیا گیا</string>
+    <string name="enrollment_screen_status_no_face">اپنا چہرہ دکھائیں</string>
+    <string name="enrollment_screen_status_face_off_center">آپ کے چہرے کا کچھ حصہ نظر نہیں آ رہا</string>
+    <string name="enrollment_screen_status_missing_landmarks">آپ کے نقوش نہیں دیکھ سکتا ہے</string>
+    <string name="enrollment_screen_continue_label">آگے</string>
+    <string name="enrollment_screen_done_label">ہوگیا</string>
+    <string name="enrollment_screen_talkback_preview_description">کیمرا کا پیش منظر</string>
+    <string name="enrollment_screen_talkback_face_added">چہرہ شامل کر دیا گیا</string>
+    <string name="end_screen_title">سب کچھ تیار ہے!</string>
+    <string name="end_screen_body">اپنے فون کو غیر مقفل کرنے کیلئے صرف اپنی اسکرین آن کریں اور کیمرے کی طرف دیکھیں</string>
+    <string name="end_screen_bullet_one_text">آپ کی شناخت کرتے ہی آپ کا فون غیر مقفل ہو جائے گا</string>
+    <string name="end_screen_bullet_two_text">‏اگر آپ کے چہرے کی شناخت نہیں ہو پاتی تو آپ اپنے پیٹرن، PIN یا پاس ورڈ کے ساتھ غیر مقفل کریں</string>
+    <string name="end_screen_tip_text">تجویز: آپ مختلف حالات میں جس طرح نظر آتے ہیں، دکھا کر چہرے کی مماثلت کو بہتر بنائیں</string>
+    <string name="end_screen_licenses_label">لائسنسز</string>
+    <string name="end_screen_continue_label">ہوگیا</string>
+    <string name="add_to_setup_intro_screen_title">چہرے کی مماثلت کو بہتر بنائیں</string>
+    <string name="add_to_setup_intro_screen_header">آپ مختلف حالات میں جس طرح نظرآتے ہیں، دکھائیں</string>
+    <string name="add_to_setup_intro_screen_body">"مثالیں:
+
+ "<li><ul>"مختلف روشنی میں
+
+ "<li>نسخہ والی نظر کی عینک کے ساتھ یا اس کے بغیر</li>"
+
+ "<li>داڑھی والا یا کلین شیو کیا ہوا</li>"
+
+"</ul></li>"
+فون کو آنکھ کی سطح کے برابر رکھیں"</string>
+    <string name="add_to_setup_intro_screen_continue_label">آگے</string>
+    <string name="license_screen_header">اوپن سورس نوٹسز</string>
+    <string name="license_screen_continue_label">ٹھیک ہے</string>
+    <string name="shared_cancel_label">منسوخ کریں</string>
+</resources>

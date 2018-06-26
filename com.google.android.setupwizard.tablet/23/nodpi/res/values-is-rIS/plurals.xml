@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="shutdown_countdown_text">
+        <item quantity="other">Slekkur eftir %d sekúndur…</item>
+        <item quantity="one">Slekkur eftir %d sekúndu…</item>
+    </plurals>
+    <plurals name="sim_missing_title">
+        <item quantity="other">Settu SIM-kort í</item>
+        <item quantity="one">Settu SIM-kort í</item>
+    </plurals>
+    <plurals name="sim_missing_text_tablet">
+        <item quantity="other">Kanntu það ekki? Skoðaðu leiðbeiningarnar sem fylgdu með spjaldtölvunni.</item>
+        <item quantity="one">Kanntu það ekki? Skoðaðu leiðbeiningarnar sem fylgdu með spjaldtölvunni.</item>
+    </plurals>
+    <plurals name="sim_missing_text_device">
+        <item quantity="other">Kanntu það ekki? Skoðaðu leiðbeiningarnar sem fylgdu með tækinu.</item>
+        <item quantity="one">Kanntu það ekki? Skoðaðu leiðbeiningarnar sem fylgdu með tækinu.</item>
+    </plurals>
+    <plurals name="sim_missing_text_default">
+        <item quantity="other">Kanntu það ekki? Skoðaðu leiðbeiningarnar sem fylgdu með símanum.</item>
+        <item quantity="one">Kanntu það ekki? Skoðaðu leiðbeiningarnar sem fylgdu með símanum.</item>
+    </plurals>
+    <plurals name="walled_garden_check_timeout_text">
+        <item quantity="other">Þetta getur tekið allt að %d mínútur</item>
+        <item quantity="one">Þetta getur tekið allt að %d mínútu</item>
+    </plurals>
+</resources>

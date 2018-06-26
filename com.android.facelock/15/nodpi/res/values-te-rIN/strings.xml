@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">విశ్వసనీయ ముఖం</string>
+    <string name="receiver_app_name">విశ్వసనీయ ముఖం ప్రసార స్వీకర్త</string>
+    <string name="setup_app_name">విశ్వసనీయ ముఖాన్ని జోడించండి</string>
+    <string name="enrollment_continue_label">తదుపరి</string>
+    <string name="enrollment_done_label">పూర్తయింది</string>
+    <string name="enrollment_initializing">ప్రారంభించబడుతోంది…</string>
+    <string name="enrollment_start_message">చుక్కల ప్రదేశం లోపల ముఖాన్ని ఉంచండి</string>
+    <string name="gar_preview_description">కెమెరా పరిదృశ్యం</string>
+    <string name="error_no_face">మీ ముఖాన్ని చూపండి</string>
+    <string name="enrollment_missing_landmarks">కళ్లు, ముక్కు మరియు నోరుని చూపండి</string>
+    <string name="enrollment_missing_landmarks_status">మీ ముఖకవళికలను చూడటం సాధ్యపడలేదు</string>
+    <string name="enrollment_off_center_status">మీ ముఖంలో కొంత భాగం కనిపించలేదు</string>
+    <string name="gar_enrollment_face_added">ముఖం జోడించబడింది</string>
+    <string name="enrollment_done">అర్థమైంది</string>
+    <string name="tutorial_app_name">విశ్వసనీయ ముఖం గురించి</string>
+    <string name="tutorial_header">మీ ఫోన్‌ను అన్‌లాక్ చేయడానికి దాని వంక చూడండి.</string>
+    <string name="tutorial_info_text">"ఈ విషయాలను దృష్టిలో ఉంచుకోండి:
+
+ "<li><ul>"ముఖం సరిపోలిక అనేది నమూనా, పిన్‌ లేదా పాస్‌వర్డ్ కంటే తక్కువ సురక్షితమైనది.
+
+ "<li>చూడటానికి మీ వలె ఉన్నవారు మీ ఫోన్‌ని అన్‌లాక్ చేయగలరు.</li>"
+
+ "<li>మీ ముఖాన్ని గుర్తించడానికి ఉపయోగించబడే డేటా ఫోన్‌లో ప్రైవేట్‌గా ఉంచబడుతుంది.</li>"
+
+ "</ul></li></string>
+    <string name="tutorial_continue_label">సెటప్ చేయి</string>
+    <string name="intro_header">ఉత్తమ ఫలితాల కోసం:</string>
+    <string name="intro_info_text">" "<li><ul>"ఇండోర్ స్పాట్‌ను ప్రయత్నించండి—అంత ప్రకాశవంతంగా కానీ లేదా అంత మసకగా కానీ ఉండకూడదు.
+
+ "<li>ఫోన్‌ను కంటికి సమాంతరంగా పట్టుకోండి.</li>"
+
+ "</ul></li></string>
+    <string name="intro_continue_label">తదుపరి</string>
+    <string name="endscreen_header">అంతా సెట్ చేయబడింది!</string>
+    <string name="endscreen_info_text">మీరు అన్‌లాక్ చేయాలనుకున్నప్పుడు, మీ స్క్రీన్‍ను ఆన్ చేసి, ఆపై మీ ముఖాన్ని కెమెరాకు చూపితే సరిపోతుంది.</string>
+    <string name="endscreen_bullet_one_text">మీ ఫోన్ మిమ్మల్ని గుర్తించిన వెంటనే అన్‌లాక్ అవుతుంది.</string>
+    <string name="endscreen_bullet_two_text">మీ ఫోన్‌లో మీ ముఖం గుర్తించబడకపోతే, మీరు మీ నమూనా, పిన్‌ లేదా పాస్‌వర్డ్‌తో అన్‌లాక్ చేయవచ్చు.</string>
+    <string name="endscreen_tip_text">చిట్కా: మీ ముఖాన్ని వివిధ పరిస్థితుల్లో చూపడం ద్వారా ముఖం సరిపోలికను మెరుగుపరచుకోండి.</string>
+    <string name="endscreen_continue_label">సరే</string>
+    <string name="endscreen_license_label">లైసెన్స్‌లు</string>
+    <string name="addtosetup_app_name">ముఖం సరిపోలికను మెరుగుపరచండి</string>
+    <string name="addtosetup_header">మీ ముఖాన్ని వివిధ పరిస్థితుల్లో చూపండి.</string>
+    <string name="addtosetup_info_text">"ఉదాహరణలు:
+
+ "<li><ul>"విభిన్న రకాల కాంతుల్లో
+
+ "<li>ప్రిస్క్రిప్షన్ అద్దాలు ధరించినప్పుడు లేదా ధరించనప్పుడు</li>"
+
+ "<li>గడ్డము ఉన్నప్పుడు లేదా శుభ్రంగా షేవ్ చేసుకున్నప్పుడు</li>"
+
+ "</ul></li>"
+కంటికి సమాంతరంగా ఫోన్‌ను పట్టుకోండి."</string>
+    <string name="addtosetup_continue_label">తదుపరి</string>
+    <string name="license_screen_header">ఓపెన్ సోర్స్ నోటీసులు</string>
+    <string name="license_screen_continue_label">సరే</string>
+    <string name="face_unlock_service_app_name">ముఖంతో అన్‌లాక్ సేవ</string>
+    <string name="trusted_face_service_app_name">విశ్వసనీయ ముఖం సేవ</string>
+    <string name="service_face_not_found">ముఖాన్ని గుర్తించడం సాధ్యపడలేదు</string>
+    <string name="service_not_a_match">క్షమించండి, మిమ్మల్ని గుర్తించలేదు</string>
+    <string name="service_liveliness_start">ఇప్పుడు కళ్లు మినకరించండి</string>
+    <string name="service_liveliness_timeout">మీ కళ్ల మినకరింపుని గుర్తించలేకపోయింది</string>
+    <string name="service_low_ligthing">కాంతి చాలా తక్కువగా ఉంది</string>
+    <string name="shared_initialize_error">మీ ముఖాన్ని గుర్తించడాన్ని ప్రారంభించలేకపోయింది</string>
+    <string name="shared_camera_error">కెమెరా అందుబాటులో లేదు</string>
+    <string name="shared_read_gallery_error">దయచేసి సెటప్‌ను పునరావృతం చేయండి</string>
+    <string name="shared_cancel_label">రద్దు చేయి</string>
+</resources>

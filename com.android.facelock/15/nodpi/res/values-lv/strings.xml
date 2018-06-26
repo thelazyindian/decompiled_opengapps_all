@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Uzticamā seja</string>
+    <string name="receiver_app_name">Uzticamās sejas uztvērējs</string>
+    <string name="setup_app_name">Pievienojiet uzticamo seju</string>
+    <string name="enrollment_continue_label">Tālāk</string>
+    <string name="enrollment_done_label">Gatavs</string>
+    <string name="enrollment_initializing">Notiek palaišana...</string>
+    <string name="enrollment_start_message">Turiet seju punktotajā apgabalā.</string>
+    <string name="gar_preview_description">Kameras priekšskatījums</string>
+    <string name="error_no_face">Parādiet savu seju.</string>
+    <string name="enrollment_missing_landmarks">Parādiet acis, degunu un muti.</string>
+    <string name="enrollment_missing_landmarks_status">Nevar noteikt jūsu sejas vaibstus.</string>
+    <string name="enrollment_off_center_status">Nevar redzēt daļu jūsu sejas.</string>
+    <string name="gar_enrollment_face_added">Seja pievienota</string>
+    <string name="enrollment_done">Sapratu!</string>
+    <string name="tutorial_app_name">Par uzticamās sejas funkciju</string>
+    <string name="tutorial_header">Paskatieties uz tālruni, lai to atbloķētu.</string>
+    <string name="tutorial_info_text">"Svarīga informācija:
+
+ "<li><ul>"Sejas atbilstības funkcija nav tik droša kā atbloķēšanas kombinācija, PIN kods vai parole.
+
+ "<li>Kāds, kurš izskatās jums līdzīgs, var atbloķēt jūsu tālruni.</li>"
+
+ "<li>Sejas atpazīšanai izmantotie dati tiek konfidenciāli glabāti tālrunī.</li>"
+
+ "</ul></li></string>
+    <string name="tutorial_continue_label">Iestatīt</string>
+    <string name="intro_header">Lai iegūtu vislabākos rezultātus:</string>
+    <string name="intro_info_text">" "<li><ul>"Atrodiet iekštelpās vietu, kur ir ne pārāk spilgts un ne pārāk vājš apgaismojums.
+
+"<li>Turiet tālruni acu līmenī.</li>"
+
+"</ul></li></string>
+    <string name="intro_continue_label">Tālāk</string>
+    <string name="endscreen_header">Gatavs!</string>
+    <string name="endscreen_info_text">Ja vēlaties atbloķēt, vienkārši ieslēdziet ekrānu un pagrieziet seju pret kameru.</string>
+    <string name="endscreen_bullet_one_text">Tālrunis tiek atbloķēts, tiklīdz tiekat atpazīts.</string>
+    <string name="endscreen_bullet_two_text">Ja tālrunis neatpazīst jūsu seju, varat atbloķēt to, izmantojot grafisko atslēgu, PIN kodu vai paroli.</string>
+    <string name="endscreen_tip_text">Padoms: uzlabojiet sejas atbilstības noteikšanu, parādot, kā izskatāties dažādos apstākļos.</string>
+    <string name="endscreen_continue_label">Labi</string>
+    <string name="endscreen_license_label">Licences</string>
+    <string name="addtosetup_app_name">Uzlabot sejas atbilstību</string>
+    <string name="addtosetup_header">Parādiet, kā jūs izskatāties dažādā apgaismojumā.</string>
+    <string name="addtosetup_info_text">"Piemēri
+
+"<li><ul>"Dažādos apgaismojumos
+
+"<li>Ar brillēm vai bez tām</li>"
+
+"<li>Ar bārdu vai gludi skūts</li>"
+
+"</ul></li>"
+Turiet tālruni acu līmenī."</string>
+    <string name="addtosetup_continue_label">Tālāk</string>
+    <string name="license_screen_header">Paziņojumi par atklāto pirmkodu</string>
+    <string name="license_screen_continue_label">Labi</string>
+    <string name="face_unlock_service_app_name">Pakalpojums Autorizācija pēc sejas</string>
+    <string name="trusted_face_service_app_name">Pakalpojums Uzticamā seja</string>
+    <string name="service_face_not_found">Nevar noteikt seju.</string>
+    <string name="service_not_a_match">Diemžēl jūsu seja netika atpazīta.</string>
+    <string name="service_liveliness_start">Pamirkšķiniet tagad</string>
+    <string name="service_liveliness_timeout">Acu mirkšķināšana netika fiksēta</string>
+    <string name="service_low_ligthing">Apgaismojums ir pārāk vājš.</string>
+    <string name="shared_initialize_error">Nevarēja sākt meklēt jūsu seju.</string>
+    <string name="shared_camera_error">Kamera nav pieejama.</string>
+    <string name="shared_read_gallery_error">Lūdzu, atkārtojiet iestatīšanu.</string>
+    <string name="shared_cancel_label">Atcelt</string>
+</resources>

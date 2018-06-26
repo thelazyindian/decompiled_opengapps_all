@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:height="@dimen/glif_icon_size" android:width="@dimen/glif_icon_size" android:viewportWidth="32.0" android:viewportHeight="32.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:fillColor="?android:colorPrimary" android:pathData="M12,21.6l-4.67,-4.67c-0.51,-0.52 -1.34,-0.52 -1.86,-0.01c0,0 -0.01,0.01 -0.01,0.01c-0.52,0.51 -0.52,1.34 -0.01,1.86c0,0 0.01,0.01 0.01,0.01l5.59,5.59c0.52,0.52 1.36,0.52 1.88,0l14.13,-14.12c0.52,-0.51 0.52,-1.34 0.01,-1.86c0,0 -0.01,-0.01 -0.01,-0.01c-0.51,-0.52 -1.34,-0.52 -1.86,-0.01c0,0 -0.01,0.01 -0.01,0.01L12,21.6z" />
+</vector>

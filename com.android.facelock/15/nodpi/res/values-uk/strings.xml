@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Розпізнавання облич</string>
+    <string name="receiver_app_name">Trusted Face Broadcast Receiver</string>
+    <string name="setup_app_name">Додати знімок обличчя</string>
+    <string name="enrollment_continue_label">Далі</string>
+    <string name="enrollment_done_label">Готово</string>
+    <string name="enrollment_initializing">Запуск...</string>
+    <string name="enrollment_start_message">Ваше обличчя має бути в області, позначеній пунктирною лінією</string>
+    <string name="gar_preview_description">Попередній перегляд зображення з камери</string>
+    <string name="error_no_face">Покажіть обличчя</string>
+    <string name="enrollment_missing_landmarks">Покажіть очі, ніс і рот</string>
+    <string name="enrollment_missing_landmarks_status">Неможливо роздивитися ваші риси</string>
+    <string name="enrollment_off_center_status">Не видно частину обличчя</string>
+    <string name="gar_enrollment_face_added">Обличчя додано</string>
+    <string name="enrollment_done">Зрозуміло</string>
+    <string name="tutorial_app_name">Про функцію розпізнавання облич</string>
+    <string name="tutorial_header">Подивіться на свій телефон, щоб розблокувати його.</string>
+    <string name="tutorial_info_text">"Пам’ятайте:
+
+ "<li><ul>"функція \"Фейсконтроль\" менш безпечна, ніж ключ, PIN-код чи пароль;
+
+ "<li>схожа на вас людина зможе розблокувати ваш телефон;</li>"
+
+ "<li>дані, які використовуються для розпізнавання вашого обличчя, зберігаються в таємниці у вашому телефоні.</li>"
+
+ "</ul></li></string>
+    <string name="tutorial_continue_label">Налаштувати</string>
+    <string name="intro_header">Щоб отримати кращі результати:</string>
+    <string name="intro_info_text">" "<li><ul>"Знайдіть у приміщенні місце з не надто яскравим і не надто тьмяним освітленням.
+
+ "<li>Тримайте телефон на рівні очей.</li>"
+
+ "</ul></li></string>
+    <string name="intro_continue_label">Далі</string>
+    <string name="endscreen_header">Готово.</string>
+    <string name="endscreen_info_text">Щоб розблокувати пристрій, просто ввімкніть екран і покажіть обличчя в камеру.</string>
+    <string name="endscreen_bullet_one_text">Телефон розблокується, коли розпізнає вас.</string>
+    <string name="endscreen_bullet_two_text">Якщо телефон не розпізнає ваше обличчя, його можна розблокувати за допомогою ключа, PIN-коду або пароля.</string>
+    <string name="endscreen_tip_text">Порада: покажіть своє обличчя в різних ракурсах, щоб воно краще розпізнавалось.</string>
+    <string name="endscreen_continue_label">ОК</string>
+    <string name="endscreen_license_label">Ліцензії</string>
+    <string name="addtosetup_app_name">Покращити порівнювання облич</string>
+    <string name="addtosetup_header">Зробіть знімки свого обличчя в різних умовах.</string>
+    <string name="addtosetup_info_text">"Приклади:
+
+"<ul> <li>у різному освітленні</li>"
+
+ "<li>у коригувальних окулярах чи без них</li>"
+
+ "<li>з бородою чи без бороди</li>"
+
+ "</ul>"
+Тримайте телефон на рівні очей."</string>
+    <string name="addtosetup_continue_label">Далі</string>
+    <string name="license_screen_header">Сповіщення про відкритий код</string>
+    <string name="license_screen_continue_label">ОК</string>
+    <string name="face_unlock_service_app_name">Сервіс Фейсконтроль</string>
+    <string name="trusted_face_service_app_name">Сервіс Розпізнавання облич</string>
+    <string name="service_face_not_found">Не вдалося знайти обличчя</string>
+    <string name="service_not_a_match">Вибачте, не впізнаю вас</string>
+    <string name="service_liveliness_start">Кліпніть зараз</string>
+    <string name="service_liveliness_timeout">Не вдалося зафіксувати ваше кліпання</string>
+    <string name="service_low_ligthing">Освітлення надто слабке</string>
+    <string name="shared_initialize_error">Не вдалося почати пошук вашого обличчя</string>
+    <string name="shared_camera_error">Камера недоступна</string>
+    <string name="shared_read_gallery_error">Повторіть налаштування</string>
+    <string name="shared_cancel_label">Скасувати</string>
+</resources>

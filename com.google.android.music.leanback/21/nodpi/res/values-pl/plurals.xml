@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="NNNtrackstolibrary">
+        <item quantity="other">Dodano %d utworu do biblioteki.</item>
+        <item quantity="one">Dodano %d utwór do biblioteki.</item>
+        <item quantity="few">Dodano %d utwory do biblioteki.</item>
+        <item quantity="many">Dodano %d utworów do biblioteki.</item>
+    </plurals>
+    <plurals name="Nsongs">
+        <item quantity="other">%d utworu</item>
+        <item quantity="one">%d utwór</item>
+        <item quantity="few">%d utwory</item>
+        <item quantity="many">%d utworów</item>
+    </plurals>
+</resources>

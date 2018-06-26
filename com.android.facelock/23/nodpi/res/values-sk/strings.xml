@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Dôveryhodná tvár</string>
+    <string name="trusted_face_service_app_name">Služba Dôveryhodná tvár</string>
+    <string name="receiver_app_name">Prijímač vysielania dôveryhodnej tváre</string>
+    <string name="setup_app_name">Pridať dôveryhodnú tvár</string>
+    <string name="add_to_setup_app_name">Zlepšenie rozpoznávania tváre</string>
+    <string name="intro_screen_title">O funkcii Dôveryhodná tvár</string>
+    <string name="intro_screen_header">Telefón odomknete tým, že sa naň pozriete.</string>
+    <string name="intro_screen_body">"Pamätajte si:
+
+ "<li><ul>"Rozpoznávanie tváre je menej bezpečné ako zadanie bezpečnostného vzoru, kódu PIN alebo hesla
+
+ "<li>Váš telefón môže odomknúť človek, ktorý sa na vás podobá</li>"
+
+ "<li>Dáta umožňujúce rozpoznávanie vašej tváre sú uchované v súkromí vo vašom telefóne</li> </ul></li></string>
+    <string name="intro_screen_continue_label">Nastaviť</string>
+    <string name="instructions_screen_title">Pridanie dôveryhodnej tváre</string>
+    <string name="instructions_screen_header">Najlepšie výsledky dosiahnete takto:</string>
+    <string name="instructions_screen_body">" "<li><ul>"Nájdite primerane osvetlené miesto v interiéri, nie príliš svetlé ani tmavé
+
+ "<li>Podržte telefón na úrovni očí</li> </ul></li></string>
+    <string name="instructions_screen_continue_label">Ďalej</string>
+    <string name="enrollment_screen_message_initializing">Spúšťa sa…</string>
+    <string name="enrollment_screen_message_initialization_error">Hľadanie tváre nie je možné spustiť</string>
+    <string name="enrollment_screen_message_camera_error">Fotoaparát nie je k dispozícii</string>
+    <string name="enrollment_start_message">Tvár udržiavajte vnútri vybodkovanej oblasti</string>
+    <string name="enrollment_screen_message_instructions">Udržte hornú časť hlavy aj dolnú časť brady v kruhu</string>
+    <string name="enrollment_screen_message_missing_landmarks">Ukážte oči, nos a ústa</string>
+    <string name="enrollment_screen_message_done">Tvár bola pridaná</string>
+    <string name="enrollment_screen_status_no_face">Ukážte svoju tvár</string>
+    <string name="enrollment_screen_status_face_off_center">Nie je vidieť časť vašej tváre</string>
+    <string name="enrollment_screen_status_missing_landmarks">Nie je vidieť vaše črty</string>
+    <string name="enrollment_screen_continue_label">Ďalej</string>
+    <string name="enrollment_screen_done_label">Hotovo</string>
+    <string name="enrollment_screen_talkback_preview_description">Ukážka fotoaparátu</string>
+    <string name="enrollment_screen_talkback_face_added">Tvár bola pridaná</string>
+    <string name="end_screen_title">Hotovo!</string>
+    <string name="end_screen_body">Ak chcete telefón odomknúť, stačí zapnúť obrazovku a pozrieť sa do fotoaparátu</string>
+    <string name="end_screen_bullet_one_text">Keď vás telefón rozpozná, odomkne sa</string>
+    <string name="end_screen_bullet_two_text">Ak nerozpozná vašu tvár, môžete ho odomknúť pomocou vzoru, kódu PIN alebo hesla</string>
+    <string name="end_screen_tip_text">Tip: Rozpoznávanie tváre môžete zlepšiť tým, že zariadeniu ukážete, ako vyzeráte v rôznych podmienkach</string>
+    <string name="end_screen_licenses_label">Licencie</string>
+    <string name="end_screen_continue_label">Hotovo</string>
+    <string name="add_to_setup_intro_screen_title">Zlepšenie rozpoznávania tváre</string>
+    <string name="add_to_setup_intro_screen_header">Ukážte, ako vyzeráte v rôznych podmienkach</string>
+    <string name="add_to_setup_intro_screen_body">"Príklady:
+
+ "<li><ul>"Pri rôznom osvetlení
+
+ "<li>S okuliarmi alebo bez nich</li>"
+
+ "<li>S bradou alebo bez nej</li>"
+
+ "</ul></li>"
+ Podržte telefón na úrovni očí"</string>
+    <string name="add_to_setup_intro_screen_continue_label">Ďalej</string>
+    <string name="license_screen_header">Oznámenia z otvoreného zdroja</string>
+    <string name="license_screen_continue_label">OK</string>
+    <string name="shared_cancel_label">Zrušiť</string>
+</resources>

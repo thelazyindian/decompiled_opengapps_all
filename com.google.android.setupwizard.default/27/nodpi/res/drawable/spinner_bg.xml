@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list android:paddingStart="0.0dip" android:paddingEnd="48.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:gravity="end|center" android:height="24.0dip" android:width="24.0dip" android:drawable="@drawable/ic_date_time_arrow" android:end="12.0dip" />
+</layer-list>

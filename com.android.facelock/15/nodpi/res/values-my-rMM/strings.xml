@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ယုံကြည်ရသော မျက်နှာ</string>
+    <string name="receiver_app_name">ယုံကြည်ရသော မျက်နှာ ထုတ်လွှင့်မှု ဖမ်းစက်</string>
+    <string name="setup_app_name">စိတ်ချရသည့် မျက်နှာကို ထည့်ပေးရန်</string>
+    <string name="enrollment_continue_label">ရှေ့သို့</string>
+    <string name="enrollment_done_label">လုပ်ပြီး</string>
+    <string name="enrollment_initializing">စတင်ပါတော့မည်…</string>
+    <string name="enrollment_start_message">အစက်ချထား နေရာ အတွင်းမှာ မျက်နှာကို ထားရှိပါ</string>
+    <string name="gar_preview_description">ကင်မရာ အစမ်းကြည့်ခြင်း</string>
+    <string name="error_no_face">သင်၏ မျက်နှာကို ပြပါ</string>
+    <string name="enrollment_missing_landmarks">မျက်လုံးများ၊ နှာခေါင်း၊ နှင့် ပါးစပ်ကို ပြပါ</string>
+    <string name="enrollment_missing_landmarks_status">သင်၏ အင်္ဂါရပ်များကို မမြင်နိုင်ပါ</string>
+    <string name="enrollment_off_center_status">သင့် မျက်နှာ၏ အပိုင်းကို မမြင်နိုင်ပါ</string>
+    <string name="gar_enrollment_face_added">မျက်နှာ ထည့်သွင်းပြီး</string>
+    <string name="enrollment_done">အဲဒါ ရပြီ</string>
+    <string name="tutorial_app_name">ယုံကြည်ရသော မျက်နှာအကြောင်း</string>
+    <string name="tutorial_header">သင်၏ ဖုန်းကို သော့ဖွင့်ရန် ၎င်းဆီကို ကြည့်ပါ။</string>
+    <string name="tutorial_info_text">"စဉ်းစားရန် လိုသည့် အချက်များ:
+
+ "<li><ul>"မျက်နှာကို တိုက်ဆိုင်ကြည့်မှုမှာ ရေးဆွဲမှုပုံစံ၊ PIN၊ သို့မဟုတ် စကားဝှက် တို့ထက် နည်းပြီး စိတ်ချရသည်။
+
+ "<li>သင်နှင့် ရုပ်ချင်း ဆင်တူသူသည့် သင့် ဖုန်းကို သော့ဖွင့်နိုင်သည်။</li>"
+
+ "<li>သင်၏ မျက်နှာကို သိမှတ်ရန် အသုံးပြုသည့် ဒေတာကို ဖုန်း ထဲတွင် သီးသန့် သိမ်းထားပေးသည်။</li>"
+
+ "</ul></li></string>
+    <string name="tutorial_continue_label">စဖွင့်သတ်မှတ်ရန်</string>
+    <string name="intro_header">အကောင်းဆုံး ရလဒ်များအတွက်:</string>
+    <string name="intro_info_text">" "<li><ul>"အိမ်တွင်းရှိ သိပ်မလင်း၊ သိပ်မမှိုင်းသော နေရာ တစ်ခုကို ရှာယူပါ။
+
+ "<li>တဲဗလက်ကို မျက်စီအဆင့်မှာ ကိုင်ထားပါ။</li>"
+
+ "</ul></li></string>
+    <string name="intro_continue_label">ရှေ့သို့</string>
+    <string name="endscreen_header">အားလုံးကို သတ်မှတ်ပြီးပြီ!</string>
+    <string name="endscreen_info_text">သင်သော့ဖွင့်လိုပါက၊ သင့်ဖုန်းမျက်နှာပြင်ကို ဖွင့်ပြီး ဖုန်းကင်မရာအား သင့်မျက်နှာကိုပြပါ။</string>
+    <string name="endscreen_bullet_one_text">သင့်ကိုမှတ်မိသည်နှင့် သင့်ဖုန်းက သ​ော့ဖွင့်ပေးမည်။</string>
+    <string name="endscreen_bullet_two_text">သင့်မျက်နှာကို သင့်ဖုန်း မမှတ်မိပါက၊ သင့်သော့ဖွင့်ပုံစံ၊ PIN သို့မဟုတ် စကားဝှက်ဖြင့် ဖွင့်ပါ။</string>
+    <string name="endscreen_tip_text">အကြံပြုချက်− အခြ​​ေအနေအမျိုးမျိုးရှိ သင့်ပုံကို ပြပြီး မျက်နှာပြင် တွဲဖက်မှု ပိုကောင်းအောင်လုပ်ပါ။</string>
+    <string name="endscreen_continue_label">အိုကေ</string>
+    <string name="endscreen_license_label">လိုင်စင်များ</string>
+    <string name="addtosetup_app_name">မျက်နှာ တိုက်ကြည့်မှုကို မြှင့်တင်ပါ</string>
+    <string name="addtosetup_header">အခြေအနေ အမျိုးမျိုးထဲမှာ သင်အား မြင်တွေ့ရပုံကို ပြသပေးထားပါ။</string>
+    <string name="addtosetup_info_text">"ဥပမာများ:
+
+ "<li><ul>"အလင်းရောင် အမျိုးမျိုးထဲမှာ
+
+ "<li>ဆရာဝန်ညွှန်း မျက်မှန် တပ်ထား သို့မဟုတ် တပ်မထား</li>"
+
+ "<li>မုတ်ဆိတ်မွှေးရှိ သို့မဟုတ် အပြောင်ရိတ်ထား</li>"
+
+ "</ul></li>"
+တက်ဘလက်ကို မျက်စီအဆင့်မှာ ကိုင်ထားပါ။"</string>
+    <string name="addtosetup_continue_label">ရှေ့သို့</string>
+    <string name="license_screen_header">အခမဲ့ ရင်းမြစ် အကြောင်းကြားချက်များ</string>
+    <string name="license_screen_continue_label">အိုကေ</string>
+    <string name="face_unlock_service_app_name">မျက်နှာမှတ် သော့ဖွင့် ဝန်ဆောင်မှု</string>
+    <string name="trusted_face_service_app_name">စိတ်ချရသော မျက်နှာသုံး ဝန်ဆောင်မှု</string>
+    <string name="service_face_not_found">မျက်နှာကို မတွေ့ရပါ</string>
+    <string name="service_not_a_match">ဝမ်းနည်းပါသည်၊ သင့်ကို မမှတ်မိပါ</string>
+    <string name="service_liveliness_start">ယခု မျက်တောင် ခတ်ပါ</string>
+    <string name="service_liveliness_timeout">သင်၏ မျက်တောင်ခတ်မှု မဖမ်းမိပါ</string>
+    <string name="service_low_ligthing">အလင်းရောင် သိပ်နည်းနေ</string>
+    <string name="shared_initialize_error">သင့်မျက်နှာကို ရှာမတွေ့ပါ</string>
+    <string name="shared_camera_error">ကင်မရာ မရှိပါ</string>
+    <string name="shared_read_gallery_error">ကျေးဇူးပြုပြီး စတင်သတ်မှတ်မှု ထပ်လုပ်ပါ</string>
+    <string name="shared_cancel_label">ပယ်ဖျက်</string>
+</resources>

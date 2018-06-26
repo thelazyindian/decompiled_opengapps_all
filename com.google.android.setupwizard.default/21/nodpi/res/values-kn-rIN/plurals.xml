@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="shutdown_countdown_text">
+        <item quantity="other">%d ಸೆಕೆಂಡುಗಳಲ್ಲಿ ಸ್ಥಗಿತಗೊಳ್ಳಲಿದೆ…</item>
+        <item quantity="one">1 ಸೆಕೆಂಡ್‌ನಲ್ಲಿ ಸ್ಥಗಿತಗೊಳ್ಳಲಿದೆ…</item>
+    </plurals>
+    <plurals name="sim_missing_title">
+        <item quantity="other">SIM ಕಾರ್ಡ್‌ಗಳನ್ನು ಅಳವಡಿಸಿ</item>
+        <item quantity="one">SIM ಕಾರ್ಡ್ ಅಳವಡಿಸಿ</item>
+    </plurals>
+    <plurals name="sim_missing_text_tablet">
+        <item quantity="other">ನಿಮ್ಮ SIM ಕಾರ್ಡ್‌ಗಳನ್ನು ಅಳವಡಿಸಲು, ನಿಮ್ಮ ಟ್ಯಾಬ್ಲೆಟ್ ಜೊತೆಗೆ ಒದಗಿಸಿರುವ ಸೂಚನೆಗಳನ್ನು ಓದಿ.</item>
+        <item quantity="one">ನಿಮ್ಮ SIM ಕಾರ್ಡ್ ಸೇರಿಸಲು, ನಿಮ್ಮ ಟ್ಯಾಬ್ಲೆಟ್‌ ಜೊತೆ ಬಂದಿರುವ ಸೂಚನೆಗಳನ್ನು ಓದಿ.</item>
+    </plurals>
+    <plurals name="sim_missing_text_device">
+        <item quantity="other">ನಿಮ್ಮ SIM ಕಾರ್ಡ್‌ಗಳನ್ನು ಅಳವಡಿಸಲು, ನಿಮ್ಮ ಸಾಧನದ ಜೊತೆಗೆ ಒದಗಿಸಿರುವ ಸೂಚನೆಗಳನ್ನು ಓದಿ.</item>
+        <item quantity="one">ನಿಮ್ಮ SIM ಕಾರ್ಡ್ ಸೇರಿಸಲು, ನಿಮ್ಮ ಸಾಧನದೊಂದಿಗೆ ಬಂದಿರುವ ಸೂಚನೆಗಳನ್ನು ಓದಿ.</item>
+    </plurals>
+    <plurals name="sim_missing_text_default">
+        <item quantity="other">ನಿಮ್ಮ SIM ಕಾರ್ಡ್‌ಗಳನ್ನು ಅಳವಡಿಸಲು, ನಿಮ್ಮ ಫೋನ್ ಜೊತೆಗೆ ಒದಗಿಸಿರುವ ಸೂಚನೆಗಳನ್ನು ಓದಿ.</item>
+        <item quantity="one">ನಿಮ್ಮ SIM ಕಾರ್ಡ್ ಸೇರಿಸಲು, ನಿಮ್ಮ ಫೋನ್‌ ಜೊತೆ ಬಂದಿರುವ ಸೂಚನೆಗಳನ್ನು ಓದಿ.</item>
+    </plurals>
+</resources>

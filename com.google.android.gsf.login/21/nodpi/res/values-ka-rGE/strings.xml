@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="common_google_play_services_notification_ticker">Google Play Services-ის შეცდომა</string>
+    <string name="common_google_play_services_notification_needs_installation_title">აპლიკაცია საჭიროება Google Play Services-ის ინსტალაციას.</string>
+    <string name="common_google_play_services_notification_needs_update_title">აპლიკაცია საჭიროებს Google Play Services-ის განახლებას.</string>
+    <string name="common_android_wear_notification_needs_update_text">აპლიკაცია საჭიროებს Android Wear აპის განახლებას.</string>
+    <string name="common_google_play_services_needs_enabling_title">აპლიკაცია საჭიროებს გააქტიურებულ Google Play Services.</string>
+    <string name="common_google_play_services_error_notification_requested_by_msg">მომთხოვნი: %1$s</string>
+    <string name="common_google_play_services_install_title">Google Play სერვისების მიღება</string>
+    <string name="common_google_play_services_install_text_phone">ეს აპი ვერ გაეშვება Google Play სერვისების გარეშე, რაც თქვენს ტელეფონზე ვერ იძებნება.</string>
+    <string name="common_google_play_services_install_text_tablet">ეს აპი ვერ გაეშვება Google Play სერვისების გარეშე, რაც თქვენს ტელეფონზე ვერ იძებნება.</string>
+    <string name="common_google_play_services_install_button">Google Play სერვისების მიღება</string>
+    <string name="common_google_play_services_enable_title">Google Play სერვისების გააქტიურება</string>
+    <string name="common_google_play_services_enable_text">ეს აპი არ იმუშავებს, თუ არ გაააქტიურებთ Google Play სერვისებს.</string>
+    <string name="common_google_play_services_enable_button">Google Play სერვისების გააქტიურება</string>
+    <string name="common_google_play_services_update_title">Google Play სერვისების განახლება</string>
+    <string name="common_android_wear_update_title">Android Wear-ის განახლება</string>
+    <string name="common_google_play_services_update_text">ეს აპი ვერ გაეშვება, თუ Google Play სერვისებს არ განაახლებთ.</string>
+    <string name="common_android_wear_update_text">ეს აპი ვერ გაეშვება, თუ Android Wear აპს არ განაახლებთ.</string>
+    <string name="common_google_play_services_network_error_title">ქსელის შეცდომა</string>
+    <string name="common_google_play_services_network_error_text">Google Play Services-თან დასაკავშირებლად მონაცემთა გადაცემა აუცილებელია.</string>
+    <string name="common_google_play_services_invalid_account_title">ანგარიში არასწორია</string>
+    <string name="common_google_play_services_invalid_account_text">მითითებული ანგარიში ამ მოწყობილობაზე არ არსებობს. გთხოვთ, აირჩიოთ სხვა ანგარიში.</string>
+    <string name="common_google_play_services_unknown_issue">Google Play სერვისებთან დაკავშირებით უცნობი შეფერხება წარმოიშვა.</string>
+    <string name="common_google_play_services_unsupported_title">Google Play სერვისები</string>
+    <string name="common_google_play_services_unsupported_text">Google Play სერვისები, რაც თქვენს ზოგიერთ აპს ჭირდება, თქვენს მოწყობილობაზე მხარდაჭერილი არ არის. გთხოვთ, დაუკავშირდეთ მწარმოებელს დახმარებისათვის.</string>
+    <string name="common_google_play_services_update_button">განახლება</string>
+    <string name="common_signin_button_text">შესვლა</string>
+    <string name="common_signin_button_text_long">Google-ით შესვლა</string>
+    <string name="common_open_on_phone">ტელეფონზე გახსნა</string>
+    <string name="setup_wizard_next_button_label">შემდეგი</string>
+    <string name="setup_wizard_back_button_label">უკან</string>
+    <string name="setup_wizard_title">პარამეტრების დაყენების ოსტატი</string>
+    <string name="setup_wizard_services_activity_title">Google სერვისები</string>
+    <string name="setup_wizard_services_description">ამ სერვისებით Google თქვენს სამსახურში ჩადგება და მათი ჩართვა ან გამორთვა ნებისმიერ დროს შეგიძლიათ. მონაცემები გამოიყენება Google-ის <annotation id="google_privacy">კონფიდენციალურობის დებულების</annotation> მიხედვით.</string>
+    <string name="setup_wizard_services_backup_restore_heading">დამარქაფება და აღდგენა</string>
+    <string name="setup_wizard_services_location_heading">მდებარეობა</string>
+    <string name="setup_wizard_services_communication_heading">კომუნიკაცია</string>
+    <string name="setup_wizard_services_backup"><b> შექმენით თქვენი ტელეფონის აპლიკაციების, აპლიკაციათა მონაცემების, პარამეტრების, პირადი ლექსიკონებისა და Wi-Fi პაროლების სარეზერვო ასლები </b> Google ანგარიშის გამოყენებით, თქვენ მარტივათ შეგიძლიათ მოგვიანებით მათი აღდგენა. <annotation id="backup_details"> შეიტყვეთ უფრო მეტი </annotation></string>
+    <string name="setup_wizard_services_backup_restore"><b> შექმენით თქვენი აპლიკაციების, აპლიკაციათა მონაცემების, პარამეტრების, პირადი ლექსიკონებისა და Wi-Fi პაროლების სარეზერვო ასლები </b> Google ანგარიშის გამოყენებით, თქვენ მარტივათ შეგიძლიათ მოგვიანებით მათი აღდგენა.</string>
+    <string name="setup_wizard_services_backup_restore_footnote">მონაცემები შეიცავს აპებს, აპის პარამეტრებს და Wi‑Fi პაროლებს.</string>
+    <string name="setup_wizard_services_backup_restore_dialog_text">როდესაც ავტომატურ დამარქაფებას ჩართავთ, თქვენი მოწყობილობის მონაცემები პერიოდულად შეინახება თქვენს Google ანგარიშში. მარქაფებში შესაძლოა შევიდეს თქვენი აპის მონაცემების საქაღალდეების ინფორმაცია, როგორიც არის ვარიანტები, პარამეტრები, შეტყობინებები, ფოტოები და სხვა ფაილები.</string>
+    <string name="setup_wizard_services_location_sharing"><b>გამოიყენეთ Google-ის მდებარეობის სერვისი</b> თქვენი მდებარეობის დასადგენად. ამით Google-ში თქვენი მდებარეობის ანონიმური მონაცემები გაიგზავნება, მაშინაც კი, როდესაც აპები გაშვებული არ არის. <annotation id="location_details">შეიტყვეთ მეტი</annotation></string>
+    <string name="setup_wizard_services_location_sharing_dialog_text">Google-ის მდებარეობის სერვისი იყენებს ისეთ წყაროებს, როგორიც არის Wi‑Fi და ფიჭური ქსელები, რათა უფრო სწრაფად და ზუსტად ივარაუდოს თქვენი მოწყობილობის მდებარეობა. როდესაც Google-ის მდებარეობის სერვისებს ჩართავთ, თქვენი მოწყობილობა ისეთ რეჟიმში გადავა, რაც მდებარეობის ინფორმაციის დასადგეგნად Wi‑Fi და ფიჭურ ქსელებს იყენებს. ამის გამორთვა მდებარეობის პარამეტრებში შეგიძლიათ, თუ მხოლოდ GPS-ის გამოყენების რეჟიმს აირჩევთ. ამას ზოგჯერ მხოლოდ მოწყობილობის რეჟიმი ეწოდება.</string>
+    <string name="setup_wizard_services_location_wifi_scan"><b>დაგვეხმარეთ გავაუმჯობესოთ მდებარეობის სერვისები</b> და დართეთ აპებს Wi‑Fi ქსელების სკანირების ნება, მაშინაც კი, როდესაც Wi‑Fi გამორთულია.</string>
+    <string name="setup_wizard_services_location_footnote">Google-ის მდებარეობის განსაზღვრის სერვისი იყენებს Wi‑Fi და სხვა სიგნალებს, რათა უკეთ და უფრო სწრაფად დაადგინოს მდებარეობა, ხშირად GPS-ზე ნაკლები ენერგიის გამოყენებით. ზოგიერთი მონაცემი შესაძლოა თქვენს მოწყობილობაზე იქნეს შენახული. მონაცემები შესაძლოა მაშინაც იქნეს შეგროვებული, როდესაც აპები გაშვებული არ არის.</string>
+    <string name="setup_wizard_services_play">Google Play-დან <b>სიახლეებისა და შეთავაზებების</b> მიღება.</string>
+    <string name="setup_wizard_services_usage_reporting"><b>დაგვეხმარეთ გავაუმჯობესოთ Android-ის ფუნქციონალობა</b> დიაგნოსტიკისა და გამოყენების მონაცემების Google-ში ავტომატურად გამოგზავნით. ეს ინფორმაცია თქვენი იდენტიფიცირებისათვის არ გამოიყენება და დაეხმარება გუნდებს, რომლებიც მუშაობს ბატარეის წარმადობაზე, აპის ფუნქციონალობაზე და Google-ის ახალ ფუნქციებზე. <annotation id="usage_reporting_details">შეიტყვეთ მეტი</annotation></string>
+    <string name="setup_wizard_services_usage_reporting_dialog_text">"ეს არის თქვენი მოწყობილობის და თქვენ მიერ მისი გამოყენების შესახებ ზოგადი ინფორმაცია, მაგ. ბატარეის დონე, თქვენ მიერ აპების გამოყენების სიხშირე, თქვენი ქსელის კავშირების (მაგ. ფიჭური, Wi-Fi და Bluetooth) ხარისხი და ხანგრძლივობა, ასევე ავარიულად გათიშვის ანგარიშები, როდესაც შეფერხება წარმოიშვება. ეს Google-ის პროდუქტების ყველასთვის გასაუმჯობესებლად გამოიყენება და არ ასოცირდება თქვენს Google-ის ანგარიშთან. ზოგიერთი დაჯამებული ინფორმაცია ასევე დაეხმარება პარტნიორებს, მაგ. Android-ის დეველოპერებს, უკეთ შექმნან საკუთარი აპები და პროდუქტები.
+
+ამის ჩართვა ან გამორთვა ნებისმიერ დროს შეგიძლიათ Google პარამეტრების აპში. ეს არ ეხება თქვენი მოწყობილობის შესაძლებლობას გააგზავნოს ის ინფორმაცია, რომელიც მას აუცილებელი სერვისების მისაღებად სჭირდება, მაგ. სისტემური განახლებები ან უსაფრთხოება."</string>
+    <string name="setup_wizard_services_agreement">ამ ტელეფონმა შესაძლოა ასევე მიიღოს და დააყენოს განახლებები და აპები Google-ისგან, თქვენი ოპერატორისგან და თქვენი ტელეფონის მწარმოებლისგან. გაგრძელების შემთხვევაში, შესაძლოა ჩამოიტვირთოს და დაყენდეს ზოგიერთი აპი, თუმცა მათი ამოშლა ნებისმიერ დროს შეგიძლიათ.</string>
+</resources>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">信任的臉孔</string>
+    <string name="receiver_app_name">信任的臉孔廣播接收器</string>
+    <string name="setup_app_name">新增可信任臉孔</string>
+    <string name="enrollment_continue_label">下一步</string>
+    <string name="enrollment_done_label">完成</string>
+    <string name="enrollment_initializing">正在啟動...</string>
+    <string name="enrollment_start_message">將臉部置於虛線範圍內</string>
+    <string name="gar_preview_description">相機預覽</string>
+    <string name="error_no_face">展示您的臉</string>
+    <string name="enrollment_missing_landmarks">露出眼睛、鼻子和嘴巴</string>
+    <string name="enrollment_missing_landmarks_status">看不清楚您的五官</string>
+    <string name="enrollment_off_center_status">看不到整張臉</string>
+    <string name="gar_enrollment_face_added">已加入臉孔</string>
+    <string name="enrollment_done">知道了</string>
+    <string name="tutorial_app_name">關於信任的臉孔</string>
+    <string name="tutorial_header">請直望您的手機以解鎖。</string>
+    <string name="tutorial_info_text">"注意事項：
+
+ "<li><ul>"臉容解鎖的安全性低於圖形、PIN 或密碼等其他解鎖方式。
+
+ "<li>任何與您臉容相似的人都可能會讓您的手機解鎖。</li>"
+
+ "<li>用來識別您臉部的資料會安全地儲存在您的手機中。</li>"
+
+ "</ul></li></string>
+    <string name="tutorial_continue_label">設定</string>
+    <string name="intro_header">如何獲得最佳拍攝效果：</string>
+    <string name="intro_info_text">" "<li><ul>"在光線適中的室內場所拍攝，不要過亮或過暗。
+
+"<li>將手機保持在視線水平的位置。</li>"
+
+"</ul></li></string>
+    <string name="intro_continue_label">下一步</string>
+    <string name="endscreen_header">設定完成！</string>
+    <string name="endscreen_info_text">需要解鎖時，直接開啟螢幕並讓臉孔面向鏡頭即可。</string>
+    <string name="endscreen_bullet_one_text">手機辨識出您的臉孔後，就會為您解鎖。</string>
+    <string name="endscreen_bullet_two_text">如果手機無法辨識您的臉孔，您可以使用圖案、PIN 或密碼解鎖。</string>
+    <string name="endscreen_tip_text">提示：在不同環境下拍攝臉部影像，可提升臉部辨識精準度。</string>
+    <string name="endscreen_continue_label">確定</string>
+    <string name="endscreen_license_label">授權</string>
+    <string name="addtosetup_app_name">提高臉容配對精準度</string>
+    <string name="addtosetup_header">顯示您在不同環境下的臉部影像。</string>
+    <string name="addtosetup_info_text">"例子：
+
+"<li><ul>"不同光源
+
+"<li>是否配戴正確眼鏡</li>"
+
+"<li>是否蓄鬚</li>"
+
+"</ul></li>"
+將手機保持在視線水平的位置。"</string>
+    <string name="addtosetup_continue_label">下一步</string>
+    <string name="license_screen_header">共享資源聲明</string>
+    <string name="license_screen_continue_label">確定</string>
+    <string name="face_unlock_service_app_name">臉容解鎖服務</string>
+    <string name="trusted_face_service_app_name">信任的臉孔服務</string>
+    <string name="service_face_not_found">找不到臉容</string>
+    <string name="service_not_a_match">抱歉，認不到您</string>
+    <string name="service_liveliness_start">請眨眼</string>
+    <string name="service_liveliness_timeout">未能捕捉到您的眨眼</string>
+    <string name="service_low_ligthing">照明太暗</string>
+    <string name="shared_initialize_error">無法開始尋找您的臉孔</string>
+    <string name="shared_camera_error">無法使用相機</string>
+    <string name="shared_read_gallery_error">請重複執行設定程序</string>
+    <string name="shared_cancel_label">取消</string>
+</resources>

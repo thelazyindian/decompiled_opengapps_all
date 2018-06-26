@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">විශ්වාස වන්ත මුහුණ</string>
+    <string name="receiver_app_name">විශ්වාස වන්ත මුහුණ විකාශන ප්‍රතිග්‍රාහකය</string>
+    <string name="setup_app_name">විශ්වාසවන්ත මුහුණක් එකතු කරන්න</string>
+    <string name="enrollment_continue_label">මීළඟ</string>
+    <string name="enrollment_done_label">හරි</string>
+    <string name="enrollment_initializing">අරඹමින්…</string>
+    <string name="enrollment_start_message">තිත් සහිත ප්‍රදේශයේ මුහුණ තබා ගන්න</string>
+    <string name="gar_preview_description">කැමරා පෙරදසුන</string>
+    <string name="error_no_face">ඔබගේ මුහුණ පෙන්වන්න</string>
+    <string name="enrollment_missing_landmarks">ඇස්, නාසය, සහ මුඛය පෙන්වන්න.</string>
+    <string name="enrollment_missing_landmarks_status">ඔබගේ අංගයන් දැකිය නොහැකිය</string>
+    <string name="enrollment_off_center_status">ඔබගේ මුහුණේ කොටසක් දැකිය නොහැකිය</string>
+    <string name="gar_enrollment_face_added">මුහුණ එකතු කරන ලදි</string>
+    <string name="enrollment_done">හරි, තේරුණා</string>
+    <string name="tutorial_app_name">විශ්වාස වන්ත මුහුණ</string>
+    <string name="tutorial_header">අගුලු ඇරීමට ඔබගේ දුරකථනය දෙස බලන්න.</string>
+    <string name="tutorial_info_text">"මෙම දේවල් මතක තබා ගන්න:
+
+"<li><ul>" මුහුණ ගැළපීම ,රටාව ,PIN හෝ මුරපදයට වඩා ආරක්ෂාකාරීබව අඩුය.
+
+"<li> ඔබ වගේ අයෙකුට ඔබගේ දුරකථනයේ අගුළු අරිය හැක. </li>"
+
+"<li> ඔබගේ මුහුණ හඳුනාගැනීමට යොදාගත් දත්ත දුරකථනයේ පෞද්ගලිකව තබාගන්න.</li>"
+
+"</ul></li></string>
+    <string name="tutorial_continue_label">සකසන්න</string>
+    <string name="intro_header">හොඳ ප්‍රතිඵල සඳහා:</string>
+    <string name="intro_info_text">" "<li><ul>"ගෘහස්ථ තැනක් සොයන්න-- වඩා ආලෝකමත් හෝ අඳුරු නොවන.
+
+ "<li>දුරකථනය ඇස් මට්ටමෙන් තබා ගන්න.</li>"
+
+ "</ul></li></string>
+    <string name="intro_continue_label">මීළඟ</string>
+    <string name="endscreen_header">සියල්ල සකසා ඇත!</string>
+    <string name="endscreen_info_text">ඔබට අගුළු ඇරීමට අවශ්‍ය වූ විට, ඔබගේ තීරය විවෘත කර කැමරාවට ඔබගේ මුහුණ පෙන්වන්න.</string>
+    <string name="endscreen_bullet_one_text">ඔබගේ දුරකථනය ඔබව හඳුනාගත් විගසම එය අගුළු අරී.</string>
+    <string name="endscreen_bullet_two_text">ඔබගේ දුරකථනය ඔබගේ මුහුණ හඳුනා ගත්තේ නැති නම්, ඔබගේ රටාව, PIN, හෝ මුරපදය සමගින් ඔබට අගුළු ඇරිය හැක.</string>
+    <string name="endscreen_tip_text">ඉඟිය: විවිධ තත්ත්ව තුළ ඔබගේ පෙනුම පෙන් වීම මඟින් මුහුණ ගැළපීම දියුණු කරන්න.</string>
+    <string name="endscreen_continue_label">හරි</string>
+    <string name="endscreen_license_label">බලපත්‍ර</string>
+    <string name="addtosetup_app_name">මුහුණු ගැළපුම දියුණු කරන්න</string>
+    <string name="addtosetup_header">ඔබ වෙනස් තත්ත්වයන් හිදී කෙසේද යන්න පෙන්වන්න.</string>
+    <string name="addtosetup_info_text">"උදාහරණ:
+
+ "<li><ul>"වෙනස් ආලෝක තත්ත්වයන් යටතේ
+
+ "<li>නියම කළ කණ්ණාඩි සහිතව හෝ රහිතව</li>"
+
+ "<li> රැවුල සහිත හෝ පිරිසුදුව මුඩු කළ</li>"
+
+ "</ul></li>"
+දුරකථනය ඇස් මට්ටමෙන් තබා ගන්න."</string>
+    <string name="addtosetup_continue_label">මීළඟ</string>
+    <string name="license_screen_header">විවෘත මූල දැනුම්දීම්</string>
+    <string name="license_screen_continue_label">හරි</string>
+    <string name="face_unlock_service_app_name">මුහුණු අගුලු හැරීමේ සේවාව</string>
+    <string name="trusted_face_service_app_name">විශ්වාසවන්ත මුහුණ සේවාව</string>
+    <string name="service_face_not_found">මුහුණක් සොයා ගත නොහැකිය</string>
+    <string name="service_not_a_match">සමාවන්න, ඔබව හඳුනා ගත්තේ නැත</string>
+    <string name="service_liveliness_start">දැන් ඇසිපිය භෙළන්න</string>
+    <string name="service_liveliness_timeout">ඔබගේ ඇසිපිය භෙළීම හඳුනා ගත්තේ නැත</string>
+    <string name="service_low_ligthing">ආලෝකය ඉතා පහළ මට්ටමෙය</string>
+    <string name="shared_initialize_error">ඔබගේ මුහුණ සොයාගැනීම ආරම්භ කළ නොහැක</string>
+    <string name="shared_camera_error">කැමරාව නැත</string>
+    <string name="shared_read_gallery_error">කරුණාකර සැකසුම නැවත කරන්න</string>
+    <string name="shared_cancel_label">අවලංගු කරන්න</string>
+</resources>

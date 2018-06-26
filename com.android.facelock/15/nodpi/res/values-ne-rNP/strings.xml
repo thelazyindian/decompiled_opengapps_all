@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">विश्वसनीय अनुहार</string>
+    <string name="receiver_app_name">विश्वसनीय अनुहार प्रसारण रिसिभर</string>
+    <string name="setup_app_name">विश्वसनीय अनुहार थप्नुहोस्</string>
+    <string name="enrollment_continue_label">अर्को</string>
+    <string name="enrollment_done_label">भयो</string>
+    <string name="enrollment_initializing">सुरु गरिँदै...</string>
+    <string name="enrollment_start_message">डट गरिएको क्षेत्र भित्र अनुहार राख्नुहोस्</string>
+    <string name="gar_preview_description">क्यामेरा पूर्वावलोकन</string>
+    <string name="error_no_face">तपाईँको अनुहार देखाउनुहोस्</string>
+    <string name="enrollment_missing_landmarks">आँखा, नाक र मुख देखाउनुहोस्</string>
+    <string name="enrollment_missing_landmarks_status">तपाईँको विशेषताहरू देख्न सकिँदैन</string>
+    <string name="enrollment_off_center_status">तपाईँको अनुहारको अंश हेर्न सकिँदैन</string>
+    <string name="gar_enrollment_face_added">अनुहार जोडियो</string>
+    <string name="enrollment_done">बुझेँ</string>
+    <string name="tutorial_app_name">विश्वसनीय अनुहारको बारेमा</string>
+    <string name="tutorial_header">अनलक गर्न तपाईँको फोनमा हेर्नुहोस्।</string>
+    <string name="tutorial_info_text">"यी कुराहरू दिमागमा राख्नुहोस्: 
+
+ "<li><ul>"अनुहार मिल्दो ढाँचा, PIN, वा पासवर्ड भन्दा कम सुरक्षित छ।
+
+ "<li>तपाँ जस्तो देखिने कसैले पनि तपाईँको फोन अनलक गर्न सक्नेछन्।</li>"
+
+ "<li>आफ्नो अनुहार चिन्न गर्न प्रयोग गरिने डेटा फोनमा गोप्य राखिएको छ।</li>"
+
+ "</ul></li></string>
+    <string name="tutorial_continue_label">सेटअप गर्नुहोस्</string>
+    <string name="intro_header">उत्तम परिणामहरूको लागि:</string>
+    <string name="intro_info_text">" "<li><ul>"भित्री स्पट खोज्नुहोस्—एकदम धेरै चम्किलो वा एकदम धेरै मधुरो होइन।
+
+ "<li>ट्याब्लेटलाई आँखाको स्तरमा होल्ड गर्नुहोस्।</li>"
+
+ "</ul></li></string>
+    <string name="intro_continue_label">अर्को</string>
+    <string name="endscreen_header">सबै सेट!</string>
+    <string name="endscreen_info_text">तपाईं बन्द खोल्न चाहनुहुन्छ भने, केवल तपाईँको स्क्रीन खोल्नुहोस् र क्यामेरामा आफ्नो अनुहार देखाउनुहोस्।</string>
+    <string name="endscreen_bullet_one_text">तपाईंको फोनले तपाईंलाई चिनेपछि सक्दो छिटो बन्द खोल्छ।</string>
+    <string name="endscreen_bullet_two_text">यदि तपाईंको फोनले तपाईंलाई चिनेन भने, तपाईंले आफ्नो ढाँचा, PIN, वा पासवर्ड साथ बन्द खोल्न सक्नुहुन्छ।</string>
+    <string name="endscreen_tip_text">सुझाव: तपाईँ विभिन्न अवस्थामा कस्तो देखिनुहुन्छ देखाएर अनुहार मिलान सुधार गर्नुहोस्।</string>
+    <string name="endscreen_continue_label">ठीक छ</string>
+    <string name="endscreen_license_label">इजाजत पत्रहरू</string>
+    <string name="addtosetup_app_name">अनुहार मेल गर्ने सुधार गर्नुहोस्</string>
+    <string name="addtosetup_header">तपाईँ विभिन्न अवस्थामा जस्तो देखिन्छ देखाउनुहोस्।</string>
+    <string name="addtosetup_info_text">"उदाहरणहरू:
+
+ "<li><ul>"विभिन्न प्रकाशमा
+
+ "<li>भनिएको जस्तो चस्मा सहित र बिना </li>"
+
+ "<li>दाह्री भएको वा सफासँग काटेको</li>"
+
+ "</ul></li>"
+ट्याब्लेटलाई आँखाको स्तरमा होल्ड गर्नुहोस्।"</string>
+    <string name="addtosetup_continue_label">अर्को</string>
+    <string name="license_screen_header">खुला स्रोत सुचनाहरू</string>
+    <string name="license_screen_continue_label">ठीक छ</string>
+    <string name="face_unlock_service_app_name">फेस अनलक सेवा</string>
+    <string name="trusted_face_service_app_name">विश्वसनीय अनुहार सेवा</string>
+    <string name="service_face_not_found">एक अनुहार फेला पार्न सकेन</string>
+    <string name="service_not_a_match">माफ गर्नुहोस्, तपाईँलाई पहिचान गर्न सकिएन</string>
+    <string name="service_liveliness_start">अब झिम्काउनुहोस्</string>
+    <string name="service_liveliness_timeout">तपाईँको झिम्काइ समात्न सकेन</string>
+    <string name="service_low_ligthing">प्रकाश एकदमै कम छ</string>
+    <string name="shared_initialize_error">तपाईँको अनुहारको खोजी गर्न सकिएन</string>
+    <string name="shared_camera_error">क्यामेरा उपलब्ध छैन</string>
+    <string name="shared_read_gallery_error">कृपया सेटअप दोहोर्‍याउनुहोस्</string>
+    <string name="shared_cancel_label">रद्द गर्नुहोस्</string>
+</resources>

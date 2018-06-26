@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="shutdown_countdown_text">
+        <item quantity="other">%d секундын дараа унтрах болно…</item>
+        <item quantity="one">1 секундын дараа унтрах болно…</item>
+    </plurals>
+    <plurals name="sim_missing_title">
+        <item quantity="other">SIM карт хийх</item>
+        <item quantity="one">SIM карт хийх</item>
+    </plurals>
+    <plurals name="sim_missing_text_tablet">
+        <item quantity="other">SIM картаа хийх бол таблетыг дагалдаж ирсэн зааврыг уншина уу.</item>
+        <item quantity="one">SIM картаа хийх бол таблетыг дагалдаж ирсэн зааврыг уншина уу.</item>
+    </plurals>
+    <plurals name="sim_missing_text_device">
+        <item quantity="other">SIM картаа хийх бол төхөөрөмжтэй дагалдаж ирсэн зааврыг уншина уу.</item>
+        <item quantity="one">SIM картаа хийх бол төхөөрөмжтэй дагалдаж ирсэн зааврыг уншина уу.</item>
+    </plurals>
+    <plurals name="sim_missing_text_default">
+        <item quantity="other">SIM картаа хийх бол утастай дагалдаж ирсэн зааврыг уншина уу.</item>
+        <item quantity="one">SIM картаа хийх бол төхөөрөмжтэй дагалдаж ирсэн зааврыг уншина уу.</item>
+    </plurals>
+</resources>

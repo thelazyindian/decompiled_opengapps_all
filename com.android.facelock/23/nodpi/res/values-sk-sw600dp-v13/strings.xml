@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="intro_screen_header">Odomknite tablet tým, že sa naň pozriete</string>
+    <string name="intro_screen_body">"Pamätajte si:
+
+ "<li><ul>"Rozpoznávanie tváre je menej bezpečné ako zadanie bezpečnostného vzoru, kódu PIN alebo hesla
+
+ "<li>Váš tablet môže odomknúť človek, ktorý sa na vás podobá</li>"
+
+ "<li>Dáta umožňujúce rozpoznávanie vašej tváre sú uchované v súkromí vo vašom tablete</li> </ul></li></string>
+    <string name="instructions_screen_body">" "<li><ul>"Nájdite primerane osvetlené miesto v interiéri, nie príliš svetlé ani tmavé
+
+ "<li>Podržte tablet na úrovni očí</li> </ul></li></string>
+    <string name="end_screen_body">Ak chcete tablet odomknúť, stačí zapnúť obrazovku a pozrieť sa do fotoaparátu</string>
+    <string name="end_screen_bullet_one_text">Keď vás tablet rozpozná, odomkne sa</string>
+    <string name="add_to_setup_intro_screen_body">"Príklady:
+
+ "<li><ul>"Pri rôznom osvetlení
+
+ "<li>S okuliarmi alebo bez nich</li>"
+
+ "<li>S bradou alebo bez nej</li>"
+
+ "</ul></li>"
+ Podržte tablet na úrovni očí"</string>
+</resources>

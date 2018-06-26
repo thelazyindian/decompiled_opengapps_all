@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="tutorial_header">הסתכל על הטאבלט כדי לבטל את הנעילה.</string>
+    <string name="tutorial_info_text">"‏זכור:
+
+ "<li><ul>"התאמת פנים היא פחות מאובטחת מקו ביטול נעילה, PIN או סיסמה.
+
+ "<li>אדם שדומה לך יכול לבטל את הנעילה של הטאבלט.</li>"
+
+ "<li>הנתונים המשמשים לזיהוי הפנים שלך נשמרים באופן פרטי בטאבלט.</li>"
+
+ "</ul></li></string>
+    <string name="intro_info_text">" "<li><ul>"מצא מקום שאינו מואר מדי או חשוך מדי.
+
+ "<li>החזק את הטאבלט בגובה העיניים.</li>"
+
+ "</ul></li></string>
+    <string name="endscreen_bullet_one_text">נעילת הטאבלט תבוטל ברגע שהטאבלט יזהה אותך.</string>
+    <string name="endscreen_bullet_two_text">‏אם הטאבלט אינו מזהה את פניך, תוכל לבטל את נעילתו באמצעות קו ביטול נעילה, מספר PIN או סיסמה.</string>
+    <string name="addtosetup_info_text">"דוגמאות:
+
+ "<li><ul>"בתנאי תאורה שונים
+
+ "<li>עם או ללא משקפי ראייה</li>"
+
+ "<li>מזוקן או מגולח</li>"
+
+ "</ul></li>"
+החזק את הטאבלט בגובה העיניים."</string>
+</resources>

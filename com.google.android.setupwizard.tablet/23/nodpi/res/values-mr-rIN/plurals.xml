@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="shutdown_countdown_text">
+        <item quantity="other">%d सेकंदांमध्ये बंद होत आहे…</item>
+        <item quantity="one">%d सेकंदात बंद होत आहे…</item>
+    </plurals>
+    <plurals name="sim_missing_title">
+        <item quantity="other">सिम कार्ड घाला</item>
+        <item quantity="one">सिम कार्ड घाला</item>
+    </plurals>
+    <plurals name="sim_missing_text_tablet">
+        <item quantity="other">कसे हे माहित नाही? आपल्‍या टॅब्लेटसह आलेल्‍या सूचना तपासा.</item>
+        <item quantity="one">कसे हे माहित नाही? आपल्‍या टॅब्लेटसह आलेल्‍या सूचना तपासा.</item>
+    </plurals>
+    <plurals name="sim_missing_text_device">
+        <item quantity="other">कसे हे माहित नाही? आपल्‍या डिव्‍हाइससह आलेल्‍या सूचना तपासा.</item>
+        <item quantity="one">कसे हे माहित नाही? आपल्‍या डिव्‍हाइससह आलेल्‍या सूचना तपासा.</item>
+    </plurals>
+    <plurals name="sim_missing_text_default">
+        <item quantity="other">कसे हे माहित नाही? आपल्‍या फोनसह आलेल्‍या सूचना तपासा.</item>
+        <item quantity="one">कसे हे माहित नाही? आपल्‍या फोनसह आलेल्‍या सूचना तपासा.</item>
+    </plurals>
+    <plurals name="walled_garden_check_timeout_text">
+        <item quantity="other">यास सुमारे %d मिनिटे लागू शकतात</item>
+        <item quantity="one">यास सुमारे %d मिनिट लागू शकतो</item>
+    </plurals>
+</resources>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">פנים מוכרים</string>
+    <string name="trusted_face_service_app_name">שירות פנים מוכרות</string>
+    <string name="receiver_app_name">קולט השידור של פנים מוכרים</string>
+    <string name="setup_app_name">הוסף פנים מוכרים</string>
+    <string name="add_to_setup_app_name">שפר את התאמת הפנים</string>
+    <string name="intro_screen_title">מידע על פנים מוכרים</string>
+    <string name="intro_screen_header">בטל את נעילת הטלפון על ידי מבט אל המצלמה</string>
+    <string name="intro_screen_body">"‏זכור:
+
+ "<li><ul>"התאמת פנים היא שיטה פחות בטוחה מקו ביטול נעילה, PIN או סיסמה
+
+ "<li>מישהו דומה לך יכול לבטל את נעילת הטלפון</li>"
+
+ "<li>הנתונים המשמשים לזיהוי הפנים נשמרים באופן פרטי בטלפון</li> </ul></li></string>
+    <string name="intro_screen_continue_label">הגדר</string>
+    <string name="instructions_screen_title">הוסף פנים מוכרים</string>
+    <string name="instructions_screen_header">לקבלת התוצאות הטובות ביותר:</string>
+    <string name="instructions_screen_body">" "<li><ul>"חפש מקום מקורה שאינו מואר מדי או חשוך מדי
+
+ "<li>החזק את הטלפון בגובה העיניים</li> </ul></li></string>
+    <string name="instructions_screen_continue_label">הבא</string>
+    <string name="enrollment_screen_message_initializing">מתחיל...</string>
+    <string name="enrollment_screen_message_initialization_error">לא ניתן להתחיל בחיפוש הפנים שלך</string>
+    <string name="enrollment_screen_message_camera_error">המצלמה אינה זמינה</string>
+    <string name="enrollment_start_message">הקפד שהפנים יופיעו בתוך האזור המנוקד</string>
+    <string name="enrollment_screen_message_instructions">מקם את החלק העליון של הראש ואת קצה הסנטר בתוך העיגול</string>
+    <string name="enrollment_screen_message_missing_landmarks">הצג את העיניים, האף והפה</string>
+    <string name="enrollment_screen_message_done">הפנים נוספו</string>
+    <string name="enrollment_screen_status_no_face">הצג את הפנים שלך</string>
+    <string name="enrollment_screen_status_face_off_center">לא ניתן לראות חלק מהפנים שלך</string>
+    <string name="enrollment_screen_status_missing_landmarks">אני לא מזהה את תווי הפנים שלך</string>
+    <string name="enrollment_screen_continue_label">הבא</string>
+    <string name="enrollment_screen_done_label">סיום</string>
+    <string name="enrollment_screen_talkback_preview_description">תצוגה מקדימה של מצלמה</string>
+    <string name="enrollment_screen_talkback_face_added">הפנים נוספו</string>
+    <string name="end_screen_title">הכל מוכן!</string>
+    <string name="end_screen_body">כדי לבטל את נעילת הטלפון, הפעל את המסך והבט אל המצלמה</string>
+    <string name="end_screen_bullet_one_text">נעילת הטלפון תבוטל מיד כשהפנים שלך יזוהו</string>
+    <string name="end_screen_bullet_two_text">‏אם הפנים לא יזוהו, בטל את הנעילה באמצעות קו ביטול נעילה, PIN או סיסמה</string>
+    <string name="end_screen_tip_text">טיפ: שפר את התאמת הפנים על ידי הצגת המראה שלך בתנאים שונים</string>
+    <string name="end_screen_licenses_label">רישיונות</string>
+    <string name="end_screen_continue_label">סיום</string>
+    <string name="add_to_setup_intro_screen_title">שפר את התאמת הפנים</string>
+    <string name="add_to_setup_intro_screen_header">בתנאים שונים אני נראה שונה</string>
+    <string name="add_to_setup_intro_screen_body">"דוגמאות:
+
+ "<li><ul>"בתאורה שונה
+
+ "<li>עם או בלי משקפי ראייה</li>"
+
+ "<li>עם זקן או בפנים מגולחים</li>"
+
+ "</ul></li>"
+ החזק את הטלפון בגובה העיניים"</string>
+    <string name="add_to_setup_intro_screen_continue_label">הבא</string>
+    <string name="license_screen_header">הודעות עבור מקור פתוח</string>
+    <string name="license_screen_continue_label">אישור</string>
+    <string name="shared_cancel_label">ביטול</string>
+</resources>

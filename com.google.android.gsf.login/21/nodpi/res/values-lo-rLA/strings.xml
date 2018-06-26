@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="common_google_play_services_notification_ticker">Google Play Services ​ເກີດ​ຄວາມ​ຜິດ​ພາດ</string>
+    <string name="common_google_play_services_notification_needs_installation_title">​ແອັບ​ພ​ລິ​ເຄ​ຊັນ​ຕ້ອງ​ການ​ໃຫ້​ຕິດ​ຕັ້ງ​ບໍ​ລິ​ການ Google Play ກ່ອນ.</string>
+    <string name="common_google_play_services_notification_needs_update_title">​ແອັບ​ພ​ລິ​ເຄ​ຊັນ​ຕ້ອງ​ການ​ໃຫ້​ອັບ​ເດດບໍ​ລິ​ການ Google Play ກ່ອນ.</string>
+    <string name="common_android_wear_notification_needs_update_text">ແອັບະ​ລິ​ເຄ​ຊັນ​ຕ້ອງ​ການ​ໃຫ້​ອັບ​ເດດ​ແອັບຯ Android Wear.</string>
+    <string name="common_google_play_services_needs_enabling_title">ແອັບພລິເຄຊັນຕ້ອງ​ການນຳໃຊ້ Google Play Services.</string>
+    <string name="common_google_play_services_error_notification_requested_by_msg">ຮ້ອງຂໍໂດຍ %1$s</string>
+    <string name="common_google_play_services_install_title">ຕິດຕັ້ງບໍລິການ Google Play</string>
+    <string name="common_google_play_services_install_text_phone">ແອັບຯນີ້ຈະບໍ່ສາມາດເຮັດວຽກໄດ້ໂດຍທີ່ບໍ່ມີບໍລິການ Google Play ເຊິ່ງຂາດຫາຍໄປໃນໂທລະສັບຂອງທ່ານ.</string>
+    <string name="common_google_play_services_install_text_tablet">ແອັບຯນີ້ຈະບໍ່ສາມາດເຮັດວຽກໄດ້ໂດຍທີ່ບໍ່ມີບໍລິການ Google Play ເຊິ່ງຂາດຫາຍໄປໃນແທັບເລັດຂອງທ່ານ.</string>
+    <string name="common_google_play_services_install_button">ຕິດຕັ້ງບໍລິການ Google Play</string>
+    <string name="common_google_play_services_enable_title">ເປີດໃຊ້ບໍລິການ Google Play</string>
+    <string name="common_google_play_services_enable_text">ແອັບຯນີ້ຈະບໍ່ສາມາດເຮັດວຽກໄດ້ຈົນກວ່າທ່ານຈະເປີດໃຊ້ບໍລິການ Google Play</string>
+    <string name="common_google_play_services_enable_button">ເປີດໃຊ້ບໍລິການ Google Play</string>
+    <string name="common_google_play_services_update_title">ອັບເດດບໍລິການ Google Play</string>
+    <string name="common_android_wear_update_title">​ອັບ​ເດດ Android Wear</string>
+    <string name="common_google_play_services_update_text">ແອັບຯນີ້ຈະບໍ່ສາມາດເຮັດວຽກໄດ້ຈົນກວ່າທ່ານຈະອັບເດດບໍລິການ Google Play.</string>
+    <string name="common_android_wear_update_text">ແອັບຯ​ນີ້​ຈະ​ບໍ່​ສາ​ມາດ​ໃຊ້​ໄດ້​ຈົນ​ກວ່າ​ທ່ານ​ຈະ​ອັບ​ເດດ​ແອັບຯ Android Wear.</string>
+    <string name="common_google_play_services_network_error_title">ເຄືອຂ່າຍຜິດພາດ</string>
+    <string name="common_google_play_services_network_error_text">ຕ້ອງໃຊ້ການເຊື່ອມຕໍ່ອິນເຕີເນັດເພື່ອໃຊ້ Google Play Services.</string>
+    <string name="common_google_play_services_invalid_account_title">ບັນຊີບໍ່ຖືກຕ້ອງ</string>
+    <string name="common_google_play_services_invalid_account_text">ບັນຊີທີ່ເລືອກບໍ່ມີໃນອຸປະກອນນີ້. ກະລຸນາເລືອກບັນຊີອື່ນ.</string>
+    <string name="common_google_play_services_unknown_issue">ມີປັນຫາທີ່ບໍ່ຄາດຄິດໃນບໍລິການ Google Play.</string>
+    <string name="common_google_play_services_unsupported_title">ບໍລິການ Google Play</string>
+    <string name="common_google_play_services_unsupported_text">ບໍລິການ Google Play ທີ່ບາງແອັບພລິເຄຊັນຂອງທ່ານຕ້ອງອາໄສນັ້ນ ບໍ່ຖືກຮອງຮັບໃນອຸປະກອນຂອງທ່ານ. ກະລຸນາຕິດຕໍ່ຜູ້ຜະລິດສຳລັບການແນະນຳ.</string>
+    <string name="common_google_play_services_update_button">ອັບເດດ</string>
+    <string name="common_signin_button_text">ເຂົ້າສູ່ລະບົບ</string>
+    <string name="common_signin_button_text_long">ເຂົ້າສູ່ລະບົບດ້ວຍ Google</string>
+    <string name="common_open_on_phone">​ເປີດ​ໃນ​ໂທ​ລະ​ສັບ</string>
+    <string name="setup_wizard_next_button_label">ຖັດໄປ</string>
+    <string name="setup_wizard_back_button_label">ກັບຄືນ</string>
+    <string name="setup_wizard_title">ໂຕຊ່ວຍການຕິດຕັ້ງ</string>
+    <string name="setup_wizard_services_activity_title">ບໍລິການ Google</string>
+    <string name="setup_wizard_services_description">ບໍລິການ​ເຫຼົ່ານີ້​ຈະເຮັດໃຫ້ Google ເຮັດວຽກ​ໃຫ້ກັບ​ທ່ານ ແລະທ່ານຍັງສາມາດ​ເປີດ ຫຼືປິດ​ການນຳ​ໃຊ້​ໄດ້ຕະ​ຫຼອດ​ເວລາ. ຂໍ້ມູນ​ຂອງທ່ານ​ຈະຖືກ​ນຳໃຊ້​ໂດຍ​ສອດ​ຄ່ອງ​ກັບ <annotation id="google_privacy">ເງື່ອນ​ໄຂຄວາມ​ເປັນສ່ວນ​ຕົວ</annotation> ຂອງ Google.</string>
+    <string name="setup_wizard_services_backup_restore_heading">ການສຳຮອງ &amp; ການກູ້ຂໍ້ມູນ</string>
+    <string name="setup_wizard_services_location_heading">ສະຖານທີ່</string>
+    <string name="setup_wizard_services_communication_heading">ການ​ສື່​ສານ</string>
+    <string name="setup_wizard_services_backup"><b>ແບັກ​ອັບ​ແອັບຯ​ຂອງ​ໂທ​ລະ​ສັບຂອງ​ທ່ານ, ຂໍ້​ມູນ​ແອັບ, ການ​ຕັ້ງ​ຄ່າ, ວັດ​ຈະ​ນາ​ນຸ​ກົມ​ສ່ວນ​ຕົວ, ແລະ​ລະ​ຫັດ​ຜ່ານ ແບັກ​ອັບ​ແອັບຯ​ຂອງ​ໂທ​ລະ​ສັບຂອງ​ທ່ານ, ຂໍ້​ມູນ​ແອັບ, ການ​ຕັ້ງ​ຄ່າ, ວັດ​ຈະ​ນາ​ນຸ​ກົມ​ສ່ວນ​ຕົວ, ແລະ​ລະ​ຫັດ​ຜ່ານ</b> ດ້ວຍ​ການ​ໃຊ້ບັນ​ຊີ Google ຂອງ​ທ່ານ ເພື່ອ​ໃຫ້​ທ່ານ​ສາ​ມາດ​ກູ້​ຄືນ​ມາ​ພາຍ​ຫຼັງ​ໄດ້​ງ່າຍ. <annotation id="backup_details">ຮຽນ​ຮູ້​ເພີ່ມ​ເຕີມ</annotation></string>
+    <string name="setup_wizard_services_backup_restore"><b>ແບັກ​ອັບ​ແອັບຯ​ຂອງ​ທ່ານ, ຂໍ້​ມູນ​ແອັບ, ການ​ຕັ້ງ​ຄ່າ, ວັດ​ຈະ​ນາ​ນຸ​ກົມ​ສ່ວນ​ຕົວ, ແລະ​ລະ​ຫັດ​ຜ່ານ Wi‑Fi </b> ດ້ວຍ​ການ​ໃຊ້ບັນ​ຊີ Google ຂອງ​ທ່ານ ເພື່ອ​ໃຫ້​ທ່ານ​ສາ​ມາດ​ກູ້​ຄືນ​ມາ​ພາຍ​ຫຼັງ​ໄດ້​ງ່າຍ.</string>
+    <string name="setup_wizard_services_backup_restore_footnote">ຂໍ້ມູນຮວມມີ ແອັບຯ, ການຕັ້ງຄ່າແອັບຯ, ການຕັ້ງຄ່າລະບົບ ແລະ ລະຫັດ Wi-Fi.</string>
+    <string name="setup_wizard_services_backup_restore_dialog_text">ເມື່ອ​ທ່ານ​ເປີດ​ນຳ​ໃຊ​້​ການ​ສຳ​ຮອງ​ຂໍ້​ມູນ​ອັດ​ຕະ​ໂນ​ມັດ​ແລ້ວ, ຂໍ້​ມູນ​ຂອງ​ອຸ​ປະ​ກອນ​ທ່ານ​ຈະ​ຖືກ​ບັນ​ທຶກ​ໄປ​ໃສ່​ບັນ​ຊີ Google ຂອງ​ທ່ານ​ເປັນ​ໄລ​ຍະໆ. ​ການ​ສຳ​ຮອງ​ຂໍ້​ມູນ​ອາດ​ຮວມ​ມີ​ຂໍ້​ມູນ​ທີ່​ຢູ່​ໃນ​​ໂຟນ​ເດີ​ຂໍ້​ມູນ​ແອັບຯ​ຂອງ​ທ່ານ ເຊັ່ນ: ການ​ຕັ້ງ​ຄ່າ, ຂໍ້​ຄວາມ, ຮູບ​ພາບ ແລະ​ໄຟລ໌​ອື່ນໆ​ນຳ.</string>
+    <string name="setup_wizard_services_location_sharing"><b>ໃຊ້​ບໍ​ລິ​ການ​ສະ​ຖານ​ທີ່​ຂອງ Google</b> ເພື່ອ​ຊ່ວຍ​ລະ​ບຸ​ສະ​ຖານ​ທີ່. ນີ້​ໝາຍ​ເຖິງ​ການ​ສົ່ງ​ຂໍ້​ມູນ​ສະ​ຖານ​ທີ່​ທີ່ບໍ່​ລະ​ບຸ​ໂຕ​ຕົນ​ໄປ​ໃຫ້​ກັບ Google ເຖິງ​ແມ່ນ​ວ່າບໍ່​ມີ​ແອັບຯ​ໃດ​ເປີດ​ຢູ່​ກໍ​ຕາມ. <annotation id="location_details">ສຶກ​ສາ​ເພີ່ມ​ເຕີມ</annotation></string>
+    <string name="setup_wizard_services_location_sharing_dialog_text">ບໍ​ລິ​ການ​ສະ​ຖານ​ທີ່​ຂອງ Google ໃຊ້​ແຫລ່ງ​ຂໍ້​ມູນ​ຕ່າງໆ ເຊັ່ນ: Wi‑Fi ແລະ​ເຄືອ​ຂ່າຍ​ມື​ຖື​ໃນ​ການ​ຊ່ວຍ​ຄາດ​ຄະ​ເນ​ສະ​ຖານ​ທີ່​ຂອງ​ອຸ​ປະ​ກອນ​ທ່ານ​ໃຫ້​ໄວ​ຂຶ້ນ ແລະ​​ຖືກ​ຕ້ອງຫຼາຍ​ຂຶ້ນ. ເມື່ອ​ທ່ານ​ເປີດ​ໃຊ້​ບໍ​ລິ​ການ​ສະ​ຖານ​ທີ່​ຂອງ Google, ອຸ​ປະ​ກອນ​ຂອງ​ທ່ານ​ຈະ​ເຂົ້າ​ສູ່​ໂໝດ​ການ​ນຳ​ໃຊ້ Wi‑Fi ແລະ​ເຄືອ​ຂ່າຍ​ໂທ​ລະ​ສັບ​ເພື່ອ​ລະ​ບຸ​ຕຳ​ແໜ່ງ​ສະ​ຖານ​ທີ່. ທ່ານ​ສາ​ມາດ​ປິດ​​ຄຸນ​ສົມ​ບັດ​ນີ້​ໄດ້​ໃນ​ການ​ຕັ້ງ​ຄ່າ​ສະ​ຖານ​ທີ່ ໂດຍ​ການ​ເລືອກ​ໂໝດ​ທີ່​ໃຊ້ GPS ເທົ່າ​ນັ້ນ. ບາງ​ຄັ້ງ​ໂໝດ​ດັ່ງ​ກ່າວ​ອາດ​ມີ​ຊື່​ວ່າ ໂໝດ​ອຸ​ປະ​ກອນ​ເທົ່າ​ນັ້ນ.</string>
+    <string name="setup_wizard_services_location_wifi_scan"><b>ຊ່ວຍ​ປັບ​ປຸງ​ບໍ​ລິ​ການ​ສະ​ຖານ​ທີ່</b> ໂດຍ​ການ​ອະ​ນຸ​ຍາດ​ໃຫ້​ແອັບຯ ແລະ​ບໍ​ລິ​ການ​ຕ່າງໆ ສະ​ແກນ​ຫາ​ເຄືອ​ຂ່າຍ​ໄດ້​ເຖິງ​ແມ່ນ​ວ່າ​ຈະ​ປິດ Wi‑Fi ຢູ່​ກໍ​ຕາມ.</string>
+    <string name="setup_wizard_services_location_footnote">ບໍລິການ​ສະຖານທີ່ຂອງ Google ແມ່ນ​ໃຊ້ Wi​-Fi ແລະສັນຍານ​ອື່ນໆ​ເພື່ອລະບຸ​ຕຳແໜ່ງ​ໃຫ້​ຖືກຕ້ອງ​ແລະວ່ອງໄວ ເຊິ່ງສ່ວນໃຫຍ່​ແມ່ນໃຊ້​ພະລັງງານ​ໜ້ອຍ​ກວ່າ GPS. ຂໍ້ມູນ​ບາງອັນ​ອາດ​ຖືກ​ເກັບໄວ້​ໃນ​ອຸປະກອນ​ຂອງທ່ານ​ແລະ​ອາດ​ມີ​ການເກັບ​ຂໍ້ມູນ​ເຖິງ​ແມ່ນວ່າ​ແອັບຯ​ບໍ່ໄດ້​ເປີດນຳໃຊ້​ຢູ່​ກໍຕາມ.</string>
+    <string name="setup_wizard_services_play"><b>ບອກ​ໃຫ້​ຂ້ອຍ​ຮູ້ຕະ​ຫລອດ​ກ່ຽວກັບ</b> ຂ່າວ ແລະ ຂໍ້​ສະເໜີ​ຕ່າງໆ​ຈາກ Google Play.</string>
+    <string name="setup_wizard_services_usage_reporting"><b>ຊ່ວຍ​ປັບ​ປຸງ​ປະ​ສົບ​ການ Android ຂອ​ງ​ທ່ານ</b> ​ໂດ​ຍ​ການ​ສົ່ງ​ຂໍ້​ມູນ​ການ​ນຳ​ໃຊ້ ແລະ​ຂໍ້​ມູນ​ວິ​ເຄາະ​ໄປ​ໃຫ້ Google.​ ຂໍ້​ມູນ​ນີ້​ຈະ​ບໍ່​ຖືກ​ນຳ​ໃຊ້​​ເພື່ອ​ລະ​ບຸ​ໂຕ​ຕົນ​ຂອງ​ທ່ານ ແຕ່​ຈະ​ຖືກ​ສົ່ງ​ໃຫ້​ທີມ​ງານ​ທີ່​ເຮັດ​ວຽກ​ກ່ຽວ​ກັບແບັດ​ເຕີ​ຣີ, ປະ​ສິດ​ທິ​ພາບ​ແອັບຯ ແລະ​ຄຸນ​ສົມ​ບັດ​ໃໝ່ໆ ຂອງ Google. <annotation id="usage_reporting_details">ສຶກ​ສາ​ເພີ່ມ​ເຕີມ</annotation></string>
+    <string name="setup_wizard_services_usage_reporting_dialog_text">"ຂໍ້​ມູນ​ທົ່ວ​ໄປ​ນີ້​ແມ່ນ​ກ່ຽວ​ກັບ​ອຸ​ປະ​ກອນ​ຂອງ​ທ່ານ​ແລະ​ວິ​ທີ​ທີ່​ທ່ານ​ນຳ​ໃຊ້​ມັນ ເຊັ່ນ: ລະ​ດັບ​ແບັດ​ເຕີ​ຣີ, ຄວາມ​ຖີ່​ການ​ນຳ​ໃຊ້​ແອັບຯ​ຂອງ​ທ່ານ, ຄຸນ​ນະ​ພາບ ແລະ​ໄລ​ຍະ​ເວ​ລາ​ການ​ເຊື່ອມ​ຕໍ່​ເຄືອ​ຂ່າຍ​ຂອງ​ທ່ານ (ເຊັ່ນ: ໂທ​ລະ​ສັບ, Wi‑Fi ແລະ Bluetooth) ຮວມ​ເຖິງ​ລາຍ​ງານ​ໂປຣ​ແກຣມ​ຄ້າງ​ເມື່ອ​ລະ​ບົບ​ບໍ່​ສາ​ມາດ​ເຮັດ​ວຽກ​ໄດ້​ຕາມ​ທີ່​ຄວນ​ເປັນ. ມັນ​ຈະ​ຖືກ​ນຳ​ໃຊ້​ເພື່ອ​ປັບ​ປຸງ​ຜະ​ລິດ​ຕະ​ພັນ​ ແລະ​ບໍ​ລິ​ການ​ຂອງ Google ເພື່ອ​ທຸກ​ຄົນ ແລະ​ຈະ​ບໍ່​ຖືກ​ເຊື່ອມ​ໂຍງ​ກັບ​ບັນ​ຊີ Google ຂອງ​ທ່ານ. ບາງ​ຂໍ້​ມູນ​ທີ່​ເກັບ​ກຳ​ມາ​ຈະ​ຊ່ວຍ​ໃຫ້​ພາດ​ເນີ ເຊັ່ນ: ນັກ​ພັດ​ທະ​ນາ Android ເຮັດ​ໃຫ້​ແອັບຯ ແລະ​ຜະ​ລິດ​​ຕະ​ພັນ​ຂອງ​ພວກ​ເຂົາ​ດີ​ຂຶ້ນ​ນຳ.
+
+ທ່ານ​ສາ​ມາດ​ປິດ ຫຼື​ເປີດ​ຄຸນ​ສົມ​ບັດ​ນີ້​ໄດ້​ທຸກ​ເວ​ລາ​ໃນ​ແອັບຯ​ການ​ຕັ້ງ​ຄ່າ Google. ນີ້​ຈະ​ບໍ່​​ມີ​ຜົນ​ກັບ​ຄວາມ​ສາ​ມາດ​ຂອງ​ອຸ​ປະ​ກອນ​ທ່ານ​ໃນ​ການ​ສົ່ງ​ຂໍ້​ມູນ​ທີ່​ມັນ​ຕ້ອງ​ໃຊ້​ເພື່ອ​ຮັບ​ບໍ​ລິ​ການ​ສຳ​ຄັນ​ຕ່າງໆ ເຊັ່ນ: ການ​ອັບ​ເດດ​ ແລະ​ຄວາມ​ປອດ​ໄພລະ​ບົບ."</string>
+    <string name="setup_wizard_services_agreement">ໂທ​ລະ​ສັບ​ໜ່ວຍນີ້​ອາດ​ຮັບ​ແລະ​ຕິດ​ຕັ້ງ​ການ​ອັບ​ເດດ ແລະ​ແອັບຯ​ຈາກ Google, ​ຜູ່​ໃຫ້​ບໍ​ລິ​ການ​ເຄືອ​ຂ່າຍ​ຂອງ​ທ່ານ ແລະ​ຜູ່​ຜະ​ລິດ​ໂທ​ລະ​ສັບ​ຂອງ​ທ່ານ. ບາງ​ແອັບຯ​ອາດ​ຖືກ​ດາວ​ໂຫລດ​ແລະ​ຕິດ​ຕັ້ງ​ຫາກ​ທ່ານ​ດຳ​ເນີນ​ການ​ຕໍ່ ແລະ​ທ່ານ​ສາ​ມາດ​ລຶບ​ພວກ​ມັນ​ອອກ​ໄດ້​ທຸກ​ເວ​ລາ.</string>
+</resources>

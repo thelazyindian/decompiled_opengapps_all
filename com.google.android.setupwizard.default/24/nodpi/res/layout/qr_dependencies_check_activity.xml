@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.android.setupwizardlib.SetupWizardLayout android:id="@id/setup_wizard_layout" android:layout_width="fill_parent" android:layout_height="fill_parent" setupwizard:suwHeaderText="@string/qr_dependencies_check_title"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:setupwizard="http://schemas.android.com/apk/res-auto">
+    <FrameLayout android:layout_width="fill_parent" android:layout_height="fill_parent" style="@style/SuwContentFrame">
+        <TextView android:id="@id/qr_dependencies_check_content" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/qr_dependencies_check_timeout_text" style="@style/SuwDescription" />
+    </FrameLayout>
+</com.android.setupwizardlib.SetupWizardLayout>

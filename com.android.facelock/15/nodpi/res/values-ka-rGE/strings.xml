@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">სანდო სახე</string>
+    <string name="receiver_app_name">სახის გადაცემის სანდო მიმღები</string>
+    <string name="setup_app_name">სანდო სახის დამატება</string>
+    <string name="enrollment_continue_label">შემდეგი</string>
+    <string name="enrollment_done_label">დასრულდა</string>
+    <string name="enrollment_initializing">იწყებს…</string>
+    <string name="enrollment_start_message">სახე მოაქციეთ წერტილიან არეში</string>
+    <string name="gar_preview_description">კამერის დათვალიერება</string>
+    <string name="error_no_face">აჩვენეთ სახე</string>
+    <string name="enrollment_missing_landmarks">აჩვენეთ თვალები, ცხვირი და პირი</string>
+    <string name="enrollment_missing_landmarks_status">თქვენი ნაკვთები არ ჩანს</string>
+    <string name="enrollment_off_center_status">თქვენი სახის ნაწილი არ ჩანს</string>
+    <string name="gar_enrollment_face_added">სახე დაემატა</string>
+    <string name="enrollment_done">გასაგებია</string>
+    <string name="tutorial_app_name">სანდო სახის შესახებ</string>
+    <string name="tutorial_header">შეხედეთ ტელეფონს გასახსნელად.</string>
+    <string name="tutorial_info_text">"გაითვალისწინეთ შემდეგი:
+
+ "<li><ul>"სახის დამთხვევა უფრო ნაკლებად უსაფრთხოა, ვიდრე შაბლონი, PIN ან პაროლი.
+
+ "<li>თქვენი მსგავსი იერსახის მქონე პირმე შესაძლოა თქვენი ტელეფონის გახსნა მოახერხოს.</li>"
+
+ "<li>მონაცემები, რომელიც თქვენი სახის ამოსაცნობად გამოიყენება, ტელეფონზე დაცულად ინახება.</li>"
+
+ "</ul></li></string>
+    <string name="tutorial_continue_label">დაყენება</string>
+    <string name="intro_header">საუკეთესო შედეგებისათვის:</string>
+    <string name="intro_info_text">" "<li><ul>"იპოვეთ შენობაში განლაგებული ადგილი—არც ზედმეტად ნათელი და არც ძალიან დაბინდული.
+
+ "<li>დაიჭირეთ ტელეფონი თვალის სიმაღლეზე.</li>"
+
+ "</ul></li></string>
+    <string name="intro_continue_label">შემდეგი</string>
+    <string name="endscreen_header">ყველაფერი დაყენებულია!</string>
+    <string name="endscreen_info_text">როდესაც გსურთ განბლოკვა, უბრალოდ ჩართეთ ეკრანი და დაანახეთ თქვენი სახე კამერას.</string>
+    <string name="endscreen_bullet_one_text">თქვენი ტელეფონი განიბლოკება, როგორც კი გიცნობთ თქვენ.</string>
+    <string name="endscreen_bullet_two_text">თუ თქვენი ტელეფონი ვერ სცნობს თქვენს სახეს, შეგიძლიათ განბლოკოთ ის თქვენი ნიმუშით, PIN-ით ან პაროლით.</string>
+    <string name="endscreen_tip_text">რჩევა: სახის შესაბამისობის გასაუმჯობესებლად უჩვენეთ, როგორ გამოიყურებით სხვადასხვა პირობებში.</string>
+    <string name="endscreen_continue_label">კარგი</string>
+    <string name="endscreen_license_label">ლიცენზიები</string>
+    <string name="addtosetup_app_name">სახეების შესატყვისობის გაუმჯობესება</string>
+    <string name="addtosetup_header">აჩვენეთ, თუ როგორ გამოიყურებით სხვადასხვა პირობებში.</string>
+    <string name="addtosetup_info_text">"მაგალითები:
+
+ "<li><ul>"სხვადასხვა განათების პირობებში
+
+ "<li>}ექიმის მიერ გამოწერილი სათვალეებით ან სათვალეების გარეშე</li>"
+
+ "<li>წვერებიანი ან გაპარსული</li>"
+
+ "</ul></li>"
+ტაბლეტი თვალების დონეზე დაიკავეთ."</string>
+    <string name="addtosetup_continue_label">შემდეგი</string>
+    <string name="license_screen_header">Open Source Notices</string>
+    <string name="license_screen_continue_label">კარგი</string>
+    <string name="face_unlock_service_app_name">Face Unlock სერვისი</string>
+    <string name="trusted_face_service_app_name">სანდო სახის სერვისი</string>
+    <string name="service_face_not_found">სახე ვერ მოიძებნა</string>
+    <string name="service_not_a_match">უკაცრავად, ვერ გცნობთ</string>
+    <string name="service_liveliness_start">ახლა დაახამხამეთ</string>
+    <string name="service_liveliness_timeout">დახამხამების გარეშე</string>
+    <string name="service_low_ligthing">ძალზე ცუდი განათებაა</string>
+    <string name="shared_initialize_error">თქვენი სახის ამოცნობა ვერ მოხერხდა</string>
+    <string name="shared_camera_error">კამერა მიუწვდომელია</string>
+    <string name="shared_read_gallery_error">გთხოვთ, ხელმეორედ დააყენოთ პარამეტრები</string>
+    <string name="shared_cancel_label">გაუქმება</string>
+</resources>

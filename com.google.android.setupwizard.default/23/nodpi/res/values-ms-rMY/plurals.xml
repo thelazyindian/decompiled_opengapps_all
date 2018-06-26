@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="shutdown_countdown_text">
+        <item quantity="other">Menutup dalam masa %d saat…</item>
+        <item quantity="one">Menutup dalam masa 1 saat…</item>
+    </plurals>
+    <plurals name="sim_missing_title">
+        <item quantity="other">Masukkan kad SIM</item>
+        <item quantity="one">Masukkan kad SIM</item>
+    </plurals>
+    <plurals name="sim_missing_text_tablet">
+        <item quantity="other">Tidak pasti caranya? Semak arahan yang disertakan dengan tablet anda.</item>
+        <item quantity="one">Tidak pasti caranya? Semak arahan yang disertakan dengan tablet anda.</item>
+    </plurals>
+    <plurals name="sim_missing_text_device">
+        <item quantity="other">Tidak pasti caranya? Semak arahan yang disertakan dengan peranti anda.</item>
+        <item quantity="one">Tidak pasti caranya? Semak arahan yang disertakan dengan peranti anda.</item>
+    </plurals>
+    <plurals name="sim_missing_text_default">
+        <item quantity="other">Tidak pasti caranya? Semak arahan yang disertakan dengan telefon anda.</item>
+        <item quantity="one">Tidak pasti caranya? Semak arahan yang disertakan dengan telefon anda.</item>
+    </plurals>
+    <plurals name="walled_garden_check_timeout_text">
+        <item quantity="other">Ini boleh mengambil masa sehingga %d minit</item>
+        <item quantity="one">Proses ini boleh mengambil masa sehingga %d minit</item>
+    </plurals>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="notif_card_img_height">156.0dip</dimen>
+    <dimen name="notif_card_img_max_width">313.0dip</dimen>
+    <dimen name="notif_card_img_min_width">108.0dip</dimen>
+    <dimen name="banner_width">142.0dip</dimen>
+    <dimen name="banner_height">80.0dip</dimen>
+</resources>

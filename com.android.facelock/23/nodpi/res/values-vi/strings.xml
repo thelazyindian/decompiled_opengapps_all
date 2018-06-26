@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Khuôn mặt tin cậy</string>
+    <string name="trusted_face_service_app_name">Dịch vụ khuôn mặt đáng tin cậy</string>
+    <string name="receiver_app_name">Bộ thu phát sóng khuôn mặt đáng tin cậy</string>
+    <string name="setup_app_name">Thêm khuôn mặt đáng tin cậy</string>
+    <string name="add_to_setup_app_name">Cải tiến đối sánh khuôn mặt</string>
+    <string name="intro_screen_title">Giới thiệu về khuôn mặt đáng tin cậy</string>
+    <string name="intro_screen_header">Mở khóa điện thoại của bạn bằng cách nhìn vào thiết bị</string>
+    <string name="intro_screen_body">"Hãy nhớ rằng:
+
+ "<li><ul>"Tính năng đối sánh khuôn mặt kém an toàn hơn hình, mã PIN hoặc mật khẩu
+
+ "<li>Ai đó có diện mạo giống bạn có thể mở khóa điện thoại của bạn</li>"
+
+ "<li>Dữ liệu sử dụng để nhận dạng khuôn mặt của bạn được bảo mật trên điện thoại của bạn</li> </ul></li></string>
+    <string name="intro_screen_continue_label">Thiết lập</string>
+    <string name="instructions_screen_title">Thêm khuôn mặt đáng tin cậy</string>
+    <string name="instructions_screen_header">Để có kết quả tốt nhất:</string>
+    <string name="instructions_screen_body">" "<li><ul>"Tìm một vị trí trong nhà không quá sáng hoặc quá tối
+
+ "<li>Cầm điện thoại ngang tầm mắt</li> </ul></li></string>
+    <string name="instructions_screen_continue_label">Tiếp theo</string>
+    <string name="enrollment_screen_message_initializing">Đang khởi động…</string>
+    <string name="enrollment_screen_message_initialization_error">Không thể bắt đầu tìm khuôn mặt của bạn</string>
+    <string name="enrollment_screen_message_camera_error">Máy ảnh hiện không khả dụng</string>
+    <string name="enrollment_start_message">Giữ khuôn mặt ở trong khu vực nét đứt</string>
+    <string name="enrollment_screen_message_instructions">Giữ đỉnh đầu và phía dưới cằm của bạn trong vòng tròn</string>
+    <string name="enrollment_screen_message_missing_landmarks">Hiển thị mắt, mũi và miệng</string>
+    <string name="enrollment_screen_message_done">Đã thêm khuôn mặt</string>
+    <string name="enrollment_screen_status_no_face">Hiển thị khuôn mặt của bạn</string>
+    <string name="enrollment_screen_status_face_off_center">Không thể thấy một phần của khuôn mặt bạn</string>
+    <string name="enrollment_screen_status_missing_landmarks">Không thể nhìn thấy các đặc điểm của bạn</string>
+    <string name="enrollment_screen_continue_label">Tiếp theo</string>
+    <string name="enrollment_screen_done_label">Xong</string>
+    <string name="enrollment_screen_talkback_preview_description">Xem trước máy ảnh</string>
+    <string name="enrollment_screen_talkback_face_added">Đã thêm khuôn mặt</string>
+    <string name="end_screen_title">Đã hoàn tất!</string>
+    <string name="end_screen_body">Để mở khóa điện thoại của bạn, chỉ cần bật màn hình và nhìn vào máy ảnh</string>
+    <string name="end_screen_bullet_one_text">Điện thoại của bạn sẽ mở khóa ngay sau khi nhận ra bạn</string>
+    <string name="end_screen_bullet_two_text">Nếu khuôn mặt của bạn không được nhận dạng, bạn có thể mở khóa bằng hình, mã PIN hoặc mật khẩu</string>
+    <string name="end_screen_tip_text">Mẹo: Cải thiện đối sánh khuôn mặt bằng cách hiển thị diện mạo của bạn ở các trạng thái khác nhau</string>
+    <string name="end_screen_licenses_label">Giấy phép</string>
+    <string name="end_screen_continue_label">Xong</string>
+    <string name="add_to_setup_intro_screen_title">Cải tiến đối sánh khuôn mặt</string>
+    <string name="add_to_setup_intro_screen_header">Hiển thị diện mạo của bạn ở các trạng thái khác nhau</string>
+    <string name="add_to_setup_intro_screen_body">"Ví dụ:
+
+ "<li><ul>"Trong điều kiện ánh sáng khác nhau
+
+ "<li>Đeo hoặc không đeo kính thuốc</li>"
+
+ "<li>Để râu hoặc cạo râu</li>"
+
+ "</ul></li>"
+ Cầm điện thoại ngang tầm mắt"</string>
+    <string name="add_to_setup_intro_screen_continue_label">Tiếp theo</string>
+    <string name="license_screen_header">Thông báo nguồn mở</string>
+    <string name="license_screen_continue_label">OK</string>
+    <string name="shared_cancel_label">Hủy</string>
+</resources>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Zaupanja vreden obraz</string>
+    <string name="receiver_app_name">Sprejemnik oddaje za zaupanja vreden obraz</string>
+    <string name="setup_app_name">Dodajte zaupanja vreden obraz</string>
+    <string name="enrollment_continue_label">Naprej</string>
+    <string name="enrollment_done_label">Končano</string>
+    <string name="enrollment_initializing">Zagon ...</string>
+    <string name="enrollment_start_message">Obraz naj bo znotraj območja, označenega s pikami</string>
+    <string name="gar_preview_description">Predogled fotoaparata</string>
+    <string name="error_no_face">Pokaži svoj obraz</string>
+    <string name="enrollment_missing_landmarks">Pokažite oči, nos in usta</string>
+    <string name="enrollment_missing_landmarks_status">Vaših značilnosti ni mogoče videti</string>
+    <string name="enrollment_off_center_status">Del obraza ni viden</string>
+    <string name="gar_enrollment_face_added">Obraz je dodan</string>
+    <string name="enrollment_done">Razumem</string>
+    <string name="tutorial_app_name">O zaupanja vrednem obrazu</string>
+    <string name="tutorial_header">Poglejte telefon, da ga odklenete.</string>
+    <string name="tutorial_info_text">"Upoštevajte naslednje:
+
+ "<li><ul>"Prepoznavanje obraza je manj varno kot vzorec, koda PIN ali geslo.
+
+ "<li>Telefon lahko odklene kdo, ki vam je podoben.</li>"
+
+ "<li>Podatki, ki se uporabljajo za prepoznavo obraza, so varno shranjeni v telefonu.</li>"
+
+ "</ul></li></string>
+    <string name="tutorial_continue_label">Nastavitev</string>
+    <string name="intro_header">Za najboljše rezultate:</string>
+    <string name="intro_info_text">" "<li><ul>"Poiščite notranje mesto − ne presvetlo in ne pretemno.
+
+ "<li>Držite telefon v višini oči.</li>"
+
+ "</ul></li></string>
+    <string name="intro_continue_label">Naprej</string>
+    <string name="endscreen_header">Končano.</string>
+    <string name="endscreen_info_text">Ko želite odkleniti, vklopite zaslon in usmerite obraz v kamero.</string>
+    <string name="endscreen_bullet_one_text">Telefon se odklene, takoj ko vas prepozna.</string>
+    <string name="endscreen_bullet_two_text">Če telefon ne prepozna vašega obraza, ga lahko odklenete z vzorcem, kodo PIN ali geslom.</string>
+    <string name="endscreen_tip_text">Nasvet: Izboljšajte prepoznavanje obraza tako, da pokažete, kako ste videti v različnih razmerah.</string>
+    <string name="endscreen_continue_label">V redu</string>
+    <string name="endscreen_license_label">Licence</string>
+    <string name="addtosetup_app_name">Izboljšanje ujemanja obraza</string>
+    <string name="addtosetup_header">Pokažite, kakšni ste v različnih okoliščinah.</string>
+    <string name="addtosetup_info_text">"Primeri:
+
+ "<li><ul>"Pri različni svetlobi
+
+ "<li>Z očali, ki jih uporabljate, ali brez njih</li>"
+
+ "<li>Z brado ali obriti</li>"
+
+ "</ul></li>"
+Držite telefon v višini oči."</string>
+    <string name="addtosetup_continue_label">Naprej</string>
+    <string name="license_screen_header">Odprtokodna obvestila</string>
+    <string name="license_screen_continue_label">V redu</string>
+    <string name="face_unlock_service_app_name">Storitev za odklepanje z obrazom</string>
+    <string name="trusted_face_service_app_name">Storitev zaupanja vrednega obraza</string>
+    <string name="service_face_not_found">Obraza ni bilo mogoče najti</string>
+    <string name="service_not_a_match">Žal vas ni mogoče prepoznati</string>
+    <string name="service_liveliness_start">Pomežiknite</string>
+    <string name="service_liveliness_timeout">Pomežika ni bilo mogoče ujeti</string>
+    <string name="service_low_ligthing">Osvetlitev je prešibka</string>
+    <string name="shared_initialize_error">Ni bilo mogoče začeti iskati vašega obraza</string>
+    <string name="shared_camera_error">Fotoaparat ni na voljo</string>
+    <string name="shared_read_gallery_error">Ponovite namestitev</string>
+    <string name="shared_cancel_label">Prekliči</string>
+</resources>

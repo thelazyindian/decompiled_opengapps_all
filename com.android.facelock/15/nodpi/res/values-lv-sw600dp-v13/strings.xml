@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="tutorial_header">Skatieties planšetdatora ekrānā, lai to atbloķētu.</string>
+    <string name="tutorial_info_text">"Svarīga informācija:
+
+ "<li><ul>"Sejas atbilstības funkcija nav tik droša kā atbloķēšanas kombinācija, PIN kods vai parole.
+
+ "<li>Kāds, kurš izskatās jums līdzīgs, var atbloķēt jūsu planšetdatoru.</li>"
+
+ "<li>Sejas atpazīšanai izmantotie dati tiek konfidenciāli glabāti planšetdatorā.</li>"
+
+ "</ul></li></string>
+    <string name="intro_info_text">" "<li><ul>"Atrodiet vietu iekštelpās, kur ir ne pārāk spilgts un ne pārāk vājš apgaismojums.
+
+ "<li>Turiet planšetdatoru acu līmenī.</li>"
+
+ "</ul></li></string>
+    <string name="endscreen_bullet_one_text">Planšetdators tiek atbloķēts, tiklīdz tiekat atpazīts.</string>
+    <string name="endscreen_bullet_two_text">Ja planšetdators neatpazīst jūsu seju, varat atbloķēt to, izmantojot grafisko atslēgu, PIN kodu vai paroli.</string>
+    <string name="addtosetup_info_text">"Piemēri:
+
+ "<li><ul>"Dažādos apgaismojumos
+
+ "<li>Ar brillēm vai bez tām</li>"
+
+ "<li>Ar bārdu vai gludi skūts</li>"
+
+ "</ul></li>"
+Turiet planšetdatoru acu līmenī."</string>
+</resources>

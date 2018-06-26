@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Patikimas veidas</string>
+    <string name="trusted_face_service_app_name">Patikimo veido paslauga</string>
+    <string name="receiver_app_name">Patikimo veido transliavimo imtuvas</string>
+    <string name="setup_app_name">Pridėti patikimą veidą</string>
+    <string name="add_to_setup_app_name">Patobulinkite veido atitikimo funkciją</string>
+    <string name="intro_screen_title">Apie patikimo veido funkciją</string>
+    <string name="intro_screen_header">Atrakinkite telefoną pažiūrėję į jį</string>
+    <string name="intro_screen_body">"Atminkite:
+
+ "<li><ul>"Veido atitikimo funkcija mažiau saugi nei atrakinimo piešinys, PIN kodas ar slaptažodis
+
+ "<li>Į jus panašus asmuo gali atrakinti telefoną</li>"
+
+ "<li>Veidui atpažinti naudojami duomenys privačiai saugomi telefone</li> </ul></li></string>
+    <string name="intro_screen_continue_label">Nustatyti</string>
+    <string name="instructions_screen_title">Pridėkite patikimą veidą</string>
+    <string name="instructions_screen_header">Kad užtikrintumėte geriausius rezultatus:</string>
+    <string name="instructions_screen_body">" "<li><ul>"Raskite vietą viduje, kur ne per daug šviesu ar tamsu
+
+ "<li>Laikykite telefoną akių lygyje</li> </ul></li></string>
+    <string name="instructions_screen_continue_label">Kitas</string>
+    <string name="enrollment_screen_message_initializing">Paleidžiama...</string>
+    <string name="enrollment_screen_message_initialization_error">Nepavyko pradėti veido paieškos</string>
+    <string name="enrollment_screen_message_camera_error">Fotoaparatas nepasiekiamas</string>
+    <string name="enrollment_start_message">Laikykite veidą taškais pažymėtoje srityje</string>
+    <string name="enrollment_screen_message_instructions">Galvos viršus ir smakro apačia turi būti apskritimo viduje</string>
+    <string name="enrollment_screen_message_missing_landmarks">Parodykite akis, nosį ir burną</string>
+    <string name="enrollment_screen_message_done">Veidas pridėtas</string>
+    <string name="enrollment_screen_status_no_face">Parodykite veidą</string>
+    <string name="enrollment_screen_status_face_off_center">Nesimato dalies veido</string>
+    <string name="enrollment_screen_status_missing_landmarks">Nepavyksta atpažinti veido bruožų</string>
+    <string name="enrollment_screen_continue_label">Kitas</string>
+    <string name="enrollment_screen_done_label">Atlikta</string>
+    <string name="enrollment_screen_talkback_preview_description">Fotoaparato peržiūra</string>
+    <string name="enrollment_screen_talkback_face_added">Veidas pridėtas</string>
+    <string name="end_screen_title">Viskas nustatyta!</string>
+    <string name="end_screen_body">Kad atrakintumėte telefoną, tiesiog įjunkite ekraną ir žiūrėkite į fotoaparatą</string>
+    <string name="end_screen_bullet_one_text">Telefonas bus atrakintas iškart, kai jus atpažins</string>
+    <string name="end_screen_bullet_two_text">Jei veidas nebus atpažintas, atrakinkite naudodami atrakinimo priešinį, PIN kodą ar slaptažodį</string>
+    <string name="end_screen_tip_text">Patarimas: patobulinkite veido atitikimo funkciją parodydami, kaip atrodote skirtingomis sąlygomis</string>
+    <string name="end_screen_licenses_label">Licencijos</string>
+    <string name="end_screen_continue_label">Atlikta</string>
+    <string name="add_to_setup_intro_screen_title">Patobulinkite veido atitikimo funkciją</string>
+    <string name="add_to_setup_intro_screen_header">Parodykite, kaip atrodote skirtingomis sąlygomis</string>
+    <string name="add_to_setup_intro_screen_body">"Pavyzdžiai:
+
+ "<li><ul>"Esant skirtingam apšvietimui
+
+ "<li>Su akiniais ar be jų</li>"
+
+ "<li>Su barzda ar nusiskutus</li>"
+
+ "</ul></li>"
+ Laikykite telefoną akių lygyje"</string>
+    <string name="add_to_setup_intro_screen_continue_label">Kitas</string>
+    <string name="license_screen_header">Atvirojo šaltinio pranešimai</string>
+    <string name="license_screen_continue_label">Gerai</string>
+    <string name="shared_cancel_label">Atšaukti</string>
+</resources>

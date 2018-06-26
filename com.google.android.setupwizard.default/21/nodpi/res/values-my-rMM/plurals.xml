@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="shutdown_countdown_text">
+        <item quantity="other">%dစက္ကန့်အကြာတွင် ပိတ်ပါမည်…</item>
+        <item quantity="one">၁ စက္ကန့်အကြာတွင် ပိတ်ပါမည်…</item>
+    </plurals>
+    <plurals name="sim_missing_title">
+        <item quantity="other">ဆင်းမ်ကဒ် ထည့်ပါ</item>
+        <item quantity="one">ဆင်းမ်ကဒ်ကို ထည့်ပါ</item>
+    </plurals>
+    <plurals name="sim_missing_text_tablet">
+        <item quantity="other">သင့်ဆင်းမ်ကဒ်များ ထည့်သွင်းရန်၊ သင့်တက်ဘလက်နှင့် ပါလာသည့် ညွှန်ကြားချက်ကို ဖတ်ပါ။</item>
+        <item quantity="one">သင့်ဆင်းမ်ကဒ် ထည့်သွင်းရန်၊ သင့်တက်ဘလက်နှင့် ပါလာသည့် ညွှန်ကြားချက်ကို ဖတ်ပါ။</item>
+    </plurals>
+    <plurals name="sim_missing_text_device">
+        <item quantity="other">သင့်ဆင်းမ်ကဒ်များ ထည့်သွင်းရန်၊ သင့်စက်ပစ္စည်းနှင့် ပါလာသည့် ညွှန်ကြားချက်ကို ဖတ်ပါ။</item>
+        <item quantity="one">သင့်ဆင်းမ်ကဒ် ထည့်သွင်းရန်၊ သင့်စက်ပစ္စည်းနှင့် ပါလာသည့် ညွှန်ကြားချက်ကို ဖတ်ပါ။</item>
+    </plurals>
+    <plurals name="sim_missing_text_default">
+        <item quantity="other">သင့်ဆင်းမ်ကဒ်များ ထည့်သွင်းရန်၊ သင့်ဖုန်းနှင့် ပါလာသည့် ညွှန်ကြားချက်ကို ဖတ်ပါ။</item>
+        <item quantity="one">သင့်ဆင်းမ်ကဒ် ထည့်သွင်းရန်၊ သင့်ဖုန်းနှင့် ပါလာသည့် ညွှန်ကြားချက်ကို ဖတ်ပါ။</item>
+    </plurals>
+</resources>

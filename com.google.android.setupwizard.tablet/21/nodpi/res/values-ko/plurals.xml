@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="shutdown_countdown_text">
+        <item quantity="other">%d초 후에 종료됩니다...</item>
+        <item quantity="one">1초 후에 종료됩니다...</item>
+    </plurals>
+    <plurals name="sim_missing_title">
+        <item quantity="other">SIM 카드 삽입</item>
+        <item quantity="one">SIM 카드 삽입</item>
+    </plurals>
+    <plurals name="sim_missing_text_tablet">
+        <item quantity="other">SIM 카드를 삽입하려면 태블릿과 함께 제공된 안내를 참조하세요.</item>
+        <item quantity="one">SIM 카드를 삽입하려면 태블릿과 함께 제공된 안내를 참조하세요.</item>
+    </plurals>
+    <plurals name="sim_missing_text_device">
+        <item quantity="other">SIM 카드를 삽입하려면 기기 사용 설명서를 참조하세요.</item>
+        <item quantity="one">SIM 카드를 삽입하려면 기기와 함께 제공된 안내를 참조하세요.</item>
+    </plurals>
+    <plurals name="sim_missing_text_default">
+        <item quantity="other">SIM 카드를 삽입하려면 휴대전화와 함께 제공된 안내를 참조하세요.</item>
+        <item quantity="one">SIM 카드를 삽입하려면 휴대전화와 함께 제공된 안내를 참조하세요.</item>
+    </plurals>
+</resources>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="intro_screen_header">Otključajte tablet gledajući u njega</string>
+    <string name="intro_screen_body">"Zapamtite:
+
+ "<li><ul>"podudaranje lica manje je sigurno od uzorka, PIN-a ili zaporke.
+
+ "<li>Netko tko izgleda kao vi mogao bi otključati vaš tablet.</li>"
+
+ "<li>Podaci koji se upotrebljavaju za prepoznavanje vašeg lica spremljeni su kao privatni na tabletu.</li> </ul></li></string>
+    <string name="instructions_screen_body">" "<li><ul>"Pronađite mjesto u zatvorenom prostoru koje nije pretamno ni presvijetlo.
+
+ "<li>Držite tablet u razini očiju.</li> </ul></li></string>
+    <string name="end_screen_body">Da biste otključali tablet, samo uključite zaslon i pogledajte fotoaparat</string>
+    <string name="end_screen_bullet_one_text">Tablet će se otključati čim vas prepozna</string>
+    <string name="add_to_setup_intro_screen_body">"Primjeri:
+
+ "<li><ul>"pri različitom osvjetljenju
+
+ "<li>s dioptrijskim naočalama ili bez njih</li>"
+
+ "<li>s bradom ili obrijan.</li>"
+
+ "</ul></li>"
+ Tablet držite u razini očiju."</string>
+</resources>

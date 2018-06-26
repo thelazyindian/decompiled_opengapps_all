@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="common_google_play_services_notification_ticker">‏Google Play سروسز کی خرابی</string>
+    <string name="common_google_play_services_notification_needs_installation_title">‏ایک ایپلیکیشن کیلئے Google Play سروسز کا انسٹال ہونا ضروری ہے۔</string>
+    <string name="common_google_play_services_notification_needs_update_title">‏ایک ایپلیکیشن کیلئے Google Play سروسز کیلئے ایک اپ ڈیٹ ضروری ہے۔</string>
+    <string name="common_android_wear_notification_needs_update_text">‏ایک اپیلیکیشن کو Android Wear ایپ کیلئے ایک اپ ڈیٹ درکار ہے۔</string>
+    <string name="common_google_play_services_needs_enabling_title">‏ایک ایپلیکیشن کیلئے Google Play سروسز کا فعال ہونا ضروری ہے۔</string>
+    <string name="common_google_play_services_error_notification_requested_by_msg">%1$s کے ذریعے درخواست کی گئی</string>
+    <string name="common_google_play_services_install_title">‏Google Play سروسز حاصل کریں</string>
+    <string name="common_google_play_services_install_text_phone">‏یہ ایپ Google Play سروسز کے بغیر نہیں چلے گی، جو آپ کے فون سے غائب ہے۔</string>
+    <string name="common_google_play_services_install_text_tablet">‏یہ ایپ Google Play سروسز کے بغیر نہیں چلے گی، جو آپ کے ٹیبلیٹ سے غائب ہے۔</string>
+    <string name="common_google_play_services_install_button">‏Google Play سروسز حاصل کریں</string>
+    <string name="common_google_play_services_enable_title">‏Google Play سروسز فعال کریں</string>
+    <string name="common_google_play_services_enable_text">‏یہ ایپ تب تک کام نہیں کرے گی جب تک کہ آپ Google Play سروسز فعال نہیں کر لیتے ہیں۔</string>
+    <string name="common_google_play_services_enable_button">‏Google Play سروسز فعال کریں</string>
+    <string name="common_google_play_services_update_title">‏Google Play سروسز اپ ڈیٹ کریں</string>
+    <string name="common_android_wear_update_title">‏Android Wear کو اپ ڈیٹ کریں</string>
+    <string name="common_google_play_services_update_text">‏یہ ایپ تب تک نہیں چلے گی جب تک کہ آپ Google Play سروسز اپ ڈیٹ نہیں کر لیتے ہیں۔</string>
+    <string name="common_android_wear_update_text">‏جب تک آپ Android Wear ایپ کو اپ ڈیٹ نہیں کر لیتے یہ ایپ نہیں چلے گی۔</string>
+    <string name="common_google_play_services_network_error_title">نیٹ ورک میں خرابی</string>
+    <string name="common_google_play_services_network_error_text">‏Google Play سروسز سے مربوط ہونے کیلئے ایک ڈیٹا کنکشن کی ضرورت ہے۔</string>
+    <string name="common_google_play_services_invalid_account_title">غلط اکاؤنٹ</string>
+    <string name="common_google_play_services_invalid_account_text">متعین اکاؤنٹ اس آلہ پر موجود نہیں ہے۔ براہ کرم ایک مختلف اکاؤنٹ منتخب کریں۔</string>
+    <string name="common_google_play_services_unknown_issue">‏Google Play سروسز کے ساتھ نامعلوم مسئلہ۔</string>
+    <string name="common_google_play_services_unsupported_title">‏Google Play سروسز</string>
+    <string name="common_google_play_services_unsupported_text">‏Google Play سروسز، جن پر آپ کی کچھ ایپلیکیشنز انحصار کرتی ہیں، آپ کے آلہ کے ذریعے تعاون یافتہ نہیں ہے۔ براہ کرم مدد کیلئے مینوفیکچرر سے رابطہ کریں۔</string>
+    <string name="common_google_play_services_update_button">اپ ڈیٹ کریں</string>
+    <string name="common_signin_button_text">سائن ان کریں</string>
+    <string name="common_signin_button_text_long">‏Google کے ساتھ سائن ان کریں</string>
+    <string name="common_open_on_phone">فون پر کھولیں</string>
+    <string name="suw_next_button_label">آگے</string>
+    <string name="suw_back_button_label">پیچھے</string>
+    <string name="suw_more_button_label">مزید</string>
+    <string name="setup_wizard_title">سیٹ اپ ویزرڈ</string>
+    <string name="setup_wizard_next_button_label">آگے</string>
+    <string name="setup_wizard_back_button_label">پیچھے</string>
+    <string name="setup_wizard_services_activity_title">‏Google سروسز</string>
+    <string name="setup_wizard_services_description">‏یہ سروسز Google سے آپ کیلئے کام کراتی ہیں اور آپ انہیں کسی بھی وقت آن یا آف کر سکتے ہیں۔ ڈیٹا کا استعمال Google کی <annotation id="google_privacy">رازداری کی پالیسی</annotation> کے مطابق کیا جائے گا۔</string>
+    <string name="setup_wizard_services_backup_restore_heading">بیک اپ لیں اور بحال کریں</string>
+    <string name="setup_wizard_services_location_heading">مقام</string>
+    <string name="setup_wizard_services_communication_heading">مواصلت</string>
+    <string name="setup_wizard_services_backup">‏اپنے Google اکاؤنٹ کا استعمال کر کے <b>اپنے فون کی ایپس، ایپ ڈیٹا، ترتیبات ذاتی لغات اور Wi‑Fi پاس ورڈز کا بیک اپ لیں</b> تاکہ آپ آسانی سے بعد میں بحالی کر سکیں۔ <annotation id="backup_details">مزید جانیں</annotation></string>
+    <string name="setup_wizard_services_backup_restore">‏اپنے Google اکاؤنٹ کا استعمال کر کے <b>اپنی ایپس، ایپ ڈیٹا، ترتیبات ذاتی لغات اور Wi‑Fi پاس ورڈز کا بیک اپ لیں</b> تاکہ آپ آسانی سے بعد میں بحالی کر سکیں۔</string>
+    <string name="setup_wizard_services_backup_restore_footnote">‏ڈیٹا میں ایپس، ایپ کی ترتیبات، سسٹم کی ترتیبات اور Wi‑Fi پاس ورڈز شامل ہوتے ہیں۔</string>
+    <string name="setup_wizard_services_backup_restore_dialog_text">‏جب آپ خود کار بیک اپ آن کرتے ہیں تو آپ کے آلہ کا ڈیٹا وقفہ وقفہ پر آپ کے Google اکاؤنٹ میں محفوظ کیا جاتا ہے۔ بیک اپس میں آپ کی ایپ کے ڈیٹا فولڈرز میں موجود معلومات، جیسے کہ ترجیحات، ترتیبات، پیغامات، تصاویر اور دیگر فائلیں شامل ہو سکتی ہیں۔</string>
+    <string name="setup_wizard_services_location_sharing">‏مقام کا تعین کرنے میں ایپس کی مدد کرنے کیلئے <b>Google کی مقام کی سروس استعمال کریں</b>۔ اس کا مطلب ہے مقام کا گمنام ڈیٹا Google کو بھیجنا، اس وقت بھی جب کوئی ایپس نہ چل رہی ہوں۔ <annotation id="location_details">مزید جانیں</annotation></string>
+    <string name="setup_wizard_services_location_sharing_dialog_text">‏آپ کے آلہ کے مقام کا تیزی اور مزید درستگی کے ساتھ اندازہ لگانے میں مدد کرنے کیلئے Google کی مقام کی سروس Wi‑Fi اور سیلولر نیٹ ورکس جیسے ذرائع کا استعمال کرتی ہے۔ جب آپ Google کی مقام کی سروسز آن کرتے ہیں تو مقام کی معلومات فراہم کرنے کیلئے آپ کا آلہ ایسی وضع میں چلا جاتا ہے جو Wi‑Fi اور سیلولر نیٹ ورکس استعمال کرتی ہے۔ آپ صرف GPS استعمال کرنے والی ایک وضع، جسے کبھی کبھی صرف آلہ وضع کہا جاتا ہے، منتخب کر کے اسے مقام کی ترتیبات میں آف کر سکتے ہیں۔</string>
+    <string name="setup_wizard_services_location_wifi_scan">‏Wi‑Fi آف ہونے پر بھی ایپس اور سروسز کو Wi‑Fi نیٹ ورکس کو اسکین کرنے کی اجازت دے کر<b>مقام کی سروسز کو بہتر بنانے میں مدد کریں</b>۔</string>
+    <string name="setup_wizard_services_location_footnote">‏Google کی مقام کی سروس مزید درست طریقے اور تیزی کے ساتھ مقام کا تعین کرنے کیلئے Wi‑Fi اور دیگر سگنلز استعمال کرتی ہے، اکثر GPS کی نسبت کم پاور کے استعمال کے ساتھ۔ کچھ ڈیٹا کو آپ کے آلہ پر اسٹور کیا جا سکتا ہے۔ ڈیٹا کو اس وقت بھی جمع کیا جا سکتا ہے جب کوئی ایپس نہ چل رہی ہوں۔</string>
+    <string name="setup_wizard_services_play">‏Google Play کی جانب سے خبروں اور پیشکشوں کے ساتھ <b>مجھے اپ ٹو ڈیٹ رکھیں</b>۔</string>
+    <string name="setup_wizard_services_usage_reporting">‏Google کو خود کار طور پر ڈائیگناسٹک اور استعمال کا ڈیٹا بھیج کر <b>اپنے Android تجربہ کو بہتر بنانے میں مدد کریں</b>۔ اس معلومات کا استعمال آپ کی شناخت کیلئے نہیں کیا جائے گا اور یہ بیٹری کی میعاد، ایپ کی کارکردگی اور Google کی نئی خصوصیات جیسی چیزوں پر کام کرنے والی ٹیموں کی مدد کرتی ہے۔ <annotation id="usage_reporting_details">مزید جانیں</annotation></string>
+    <string name="setup_wizard_services_usage_reporting_dialog_text">"‏یہ آپ کے آلہ اور آپ کے اس کو استعمال کرنے کا طریقہ، جیسے بیٹری کی سطح، آپ اپنی ایپس کو کتنی بار استعمال کرتے ہیں، آپ کے نیٹ ورک کنکشنز کے معیار اور دورانیہ (مثلاً سیل، Wi-Fi اور بلوٹوتھ)، اور جب چیزیں اس طریقے سے کام نہ کر رہی ہوں جس طریقے سے انہیں کرنا چاہیے تو کریش رپورٹوں کے بارے میں عمومی معلومات ہوتی ہے۔ اسے ہر کسی کیلئے Google کے پروڈکٹس اور سروسز کو بہتر بنانے کیلئے استعمال کیا جائے گا اور آپ کے Google اکاؤنٹ سے وابستہ نہیں کیا جائے گا۔ کچھ مجموعی معلومات سے پارٹنرز، جیسے Android ڈیولپرز، کو اپنے پروڈکٹس کو بہتر بنانے میں بھی مدد ملے گی۔
+
+آپ کسی بھی وقت Google ترتیبات ایپ میں اسے آن یا آف کر سکتے ہیں۔ اس سے سسٹم اپ ڈیٹس اور سیکیورٹی جیسی لازمی سروسز حاصل کرنے کیلئے درکار معلومات بھیجنے کی آپ کے آلہ کی اہلیت پر اثر نہیں پڑتا ہے۔"</string>
+    <string name="setup_wizard_services_agreement">‏یہ فون Google، آپ کے کیریئر اور آپ کے آلہ کے مینوفیکچرر سے اپ ڈیٹس اور ایپس بھی موصول اور انسٹال کر سکتا ہے۔ اگر آپ جاری رکھتے ہیں تو کچھ ایپس کو ڈاؤن لوڈ اور انسٹال کیا جا سکتا ہے، اور آپ کسی بھی وقت انہیں ہٹا سکتے ہیں۔</string>
+    <string name="default_device_name">Android</string>
+    <string name="finish_button_label">مکمل کریں</string>
+    <string name="skip_button_label">نظر انداز کریں</string>
+    <string name="skip_anyway_button_label">بہرحال نظر انداز کریں</string>
+    <string name="dont_skip_button_label">نظر انداز نہ کریں</string>
+    <string name="down_button_label">مزید</string>
+    <string name="cancel_button_label">منسوخ کریں</string>
+    <string name="restart_button_label">دوبارہ شروع کریں</string>
+    <string name="try_again_button_label">دوبارہ کوشش کریں</string>
+    <string name="close_button_label">بند کریں</string>
+    <string name="got_it_button_label">سمجھ آ گئی</string>
+    <string name="ok_button_label">ٹھیک ہے</string>
+    <string name="google_legal_title">‏Google قانونی</string>
+    <string name="url_load_unsuccessful_message">آپ کا فون کسی موبائل ڈیٹا سروس سے مربوط نہیں ہے۔ اس معلومات کو ابھی دیکھنے کیلئے، کسی ویب براؤزر میں %s پر جائیں۔</string>
+    <string name="start">شروع کریں</string>
+    <string name="wait_msg">بس ایک سیکنڈ…</string>
+    <string name="skip_toast">سیٹ اپ ویزرڈ کو نظر انداز کر دیا گیا</string>
+    <string name="terminate_toast">"سیٹ اپ ویزرڈ کر معطل کر دیا گیا
+آلہ فراہم نہیں کیا گیا"</string>
+    <string name="activation_title">سیلولر سروس کو فعال کیا جا رہا ہے…</string>
+    <string name="activation_title_searching">سروس کی تلاش کی جا رہی ہے…</string>
+    <string name="activation_title_activating">سیلولر سروس کو فعال کیا جا رہا ہے…</string>
+    <string name="activation_default_network_name">موبائل نیٹ ورک</string>
+    <string name="activation_network_bars_template">سگنل کی قوت %d بارز</string>
+    <string name="activation_text">‏اپنی موبائل سروس ابھی فعال کرنے کیلئے <b>فعال کریں</b>" کو ٹچ کریں۔ (اس میں کئی منٹ لگ سکتے ہیں۔)
+
+یا اس کے بجائے Wi-Fi کنکشن استعمال کر کے اپنا فون ترتیب دینے کیلئے "<b>نظر انداز کریں</b> کو ٹچ کریں۔</string>
+    <string name="activation_text_standalone">اپنی موبائل سروس ابھی فعال کرنے کیلئے <b>فعال کریں</b> کو ٹچ کریں۔ (اس میں کچھ منٹ لگ سکتے ہیں۔)</string>
+    <string name="activation_skip_confirmation">"جب تک آپ اپنی موبائل ڈیٹا سروس کو فعال نہیں کرتے ہیں، آپ کے فون کی زیادہ تر خصوصیات کام نہیں کریں گی۔
+
+اگر آپ ابھی نظر انداز کرنے کو ترجیح دیتے ہیں تو آپ سسٹم کی ترتیبات میں بعد میں فعال کر سکتے ہیں۔"</string>
+    <string name="activation_continue_skip_label">جاری رکھیں</string>
+    <string name="activation_button_label">فعال کریں</string>
+    <string name="activation_progress_before_connect">‏اس کے بجائے Wi-Fi کنکشن استعمال کر کے ترتیب کو مکمل کرنے کیلئے <b>نظر انداز کریں</b> کو ٹچ کریں۔</string>
+    <string name="activation_progress">‏فعالیت میں کچھ منٹ لگ سکتے ہيں۔ اس کے بجائے Wi-Fi کنکشن استعمال کر کے ترتیب کو مکمل کرنے کیلئے <b>نظر انداز کریں</b> کو ٹچ کریں۔</string>
+    <string name="activation_progress_gen">اس میں 5 منٹ لگ سکتے ہیں</string>
+    <string name="activation_progress_mobile_data">"فون آپ کی موبائل ڈیٹا سروس کو فعال کر رہا ہے۔
+
+اس میں 5 منٹ تک لگ سکتے ہیں۔"</string>
+    <string name="activation_progress_before_connect_standalone">فعالیت میں کچھ منٹ لگ سکتے ہیں۔</string>
+    <string name="activation_progress_standalone">فعالیت میں کچھ منٹ لگ سکتے ہیں۔</string>
+    <string name="activation_success_title">فعالیت مکمل ہو گئی</string>
+    <string name="activation_success_text">سیٹ اپ کے ساتھ جاری رکھنے کیلئے <b>اگلا</b> کو ٹچ کریں۔</string>
+    <string name="activation_success_text_gen">فعالیت کو مکمل کرنے کیلئے آپ کے آلہ کو دوبارہ سٹارٹ کرنے کی ضرورت ہے۔</string>
+    <string name="activation_success_text_standalone">جاری رکھنے کیلئے <b>اگلا</b>" کو ٹچ کریں۔
+
+فعالیت کامیاب ہو گئی، لیکن موبائل ڈیٹا نیٹ ورک دستیاب ہونے میں کچھ منٹ لگ سکتے ہیں۔"</string>
+    <string name="activation_failure_title">فعال نہیں ہو سکی</string>
+    <string name="activation_failure_text">"ایک منٹ میں دوبارہ کوشش کریں یا اگر یہ جاری رہتا ہے تو اپنا فون دوبارہ سٹارٹ کریں۔
+
+اگر آپ ابھی نظر انداز کرنے کو ترجیح دیتے ہیں تو بعد میں سسٹم ترتیبات میں فعال کرنے کو یقینی بنائیں۔ جب تک آپ فعال نہیں کر لیتے، آپ کے فون کو ایک سیلولر ڈیٹا کنکشن نہیں ملے گا۔"</string>
+    <string name="activation_failure_text_gen">آپ کی موبائل ڈیٹا سروس فعال نہیں ہو سکی۔ یہ ایک عارضی مسئلہ ہو سکتا ہے اور فون کو ری اسٹارٹ کر کے حل کیا جا سکتا ہے۔</string>
+    <string name="activation_failure_text_standalone">‏موبائل ڈیٹا سروس فعال نہیں ہو سکی۔ فعالیت کو دوبارہ آزمانے کیلئے <b>دوبارہ کوشش کریں</b>" کو ٹچ کریں۔
+
+آپ اپنی موبائل ڈیٹا سروس بعد میں "<b>سسٹم ترتیبات ‎&lt;‎ وائرلیس اور نیٹ ورکس ‎&lt;‎ موبائل نیٹ ورکس</b> میں فعال کر سکتے ہیں</string>
+    <string name="activation_cancel_title">منسوخ کرنے کی درخواست کی گئی</string>
+    <string name="activation_cancel_text">‏فعالیت منسوخ ہو رہی ہے…اس میں ‎5-10 سیکنڈ لگ سکتے ہیں۔</string>
+    <string name="activation_canceled_title">فعالیت منسوخ کر دی گئی</string>
+    <string name="activation_canceled_text">"‏کیا آپ فعالیت کو منسوخ کرنا چاہتے ہیں؟ انٹرنیٹ سے منسلک ہونے کیلئے اپنے موبائل نیٹ ورک سروس کو استعمال کرنے سے پہلے آپ کو اسے فعال کرنا ہوتا ہے۔‎
+
+Wi-Fi‎ کنکشن استعمال کر کے سیٹ اپ مکمل کرنے کیلئے "<b>اگلا</b>" کو ٹچ کریں۔
+
+آپ بعد میں "<b>سسٹم کی ترتیبات ‎&lt;‎ وائر لیس اور نیٹ ورکس ‎&lt;‎ موبائل نیٹ ورکس</b> میں اپنی موبائل نیٹ ورک سروس فعال کر سکتے ہیں۔</string>
+    <string name="activation_canceled_text_standalone">"‏فعالیت منسوخ ہو گئی۔
+
+آپ بعد میں اپنے موبائل ڈیٹا سروس کو "<b>سسٹم کی ترتیبات ‎&lt;‎ وائرلیس اور نیٹ ورکس ‎&lt;‎ سیلولر نیٹ ورکس</b> میں فعال کر سکتے ہیں۔</string>
+    <string name="activation_spc_failure_text">ایک خرابی پیش آگئی جو فعالیت کی دوسری کوشش کرنے سے پہلے آپ کے فون کو بند کر کے دوبارہ شروع کرنے کا تقاضہ کرتی ہے۔ آپ کا فون 60 سیکنڈز میں خود بخود بند ہو جائے گا، یا آپ <b>ابھی بند کریں</b>" کو ٹچ کر سکتے ہیں۔
+
+اپنا فون بند ہو جانے پر، اسے دوبارہ شروع کرنے کیلئے پاور بٹن کو دبائیں۔ فعالیت خود بخود شروع ہو جائے گی۔"</string>
+    <string name="shutdown_button_label">ابھی بند کریں</string>
+    <string name="reboot_button_label">دوبارہ شروع کریں</string>
+    <string name="activation_skip_text">اگر آپ فعالیت کو نظر انداز کر دیتے ہیں تو بعد میں ترتیبات میں فعال کرنے کو یقینی بنائیں۔ جب تک آپ فعال نہیں کریں گے، آپ کے فون میں ایک سیلولر ڈیٹا کنکشن نہیں ہوگا۔</string>
+    <string name="notification_update_title">آپ کے اکاؤنٹ کو اپ ڈیٹ کرنے کی ضرورت ہے</string>
+    <string name="notification_update_message">سیٹ اپ ویزرڈ دوبارہ چلانے کیلئے یہاں ٹچ کریں۔</string>
+    <string name="account_exists_title">اکاؤنٹ شامل کر دیا گیا</string>
+    <string name="account_exists_text">آپ کا پہلا اکاؤنٹ استعمال کیلئے تیار ہے۔ آپ بعد میں ترتیبات میں اکاؤنٹس شامل کر سکتے اور ہٹا سکتے ہیں۔</string>
+    <string name="date_time_setup_title">تاریخ اور وقت</string>
+    <string name="date_time_message">ضرورت پڑنے پر ایڈجسٹ کریں۔</string>
+    <string name="date_time_current_date">تاریخ</string>
+    <string name="date_time_current_time">وقت</string>
+    <string name="date_time_time_zone_full" formatted="false">‎%s (%s)‎</string>
+    <string name="sim_missing_title">‏SIM کارڈ داخل کریں</string>
+    <string name="sim_setup_title">‏SIM کارڈز کو ترتیب دیں</string>
+    <string name="sim_setup_select_data">‏سیلولر ڈیٹا کیلئے ایک SIM منتخب کریں</string>
+    <string name="sim_setup_select_voice">‏کالز کیلئے ایک SIM منتخب کریں</string>
+    <string name="sim_setup_select_text">‏متنی پیغامات کیلئے ایک SIM منتخب کریں</string>
+    <string name="sim_setup_ask_every_time">ہر بار پوچھیں</string>
+    <string name="walled_garden_title">کنکشن کو چیک کیا جا رہا ہے…</string>
+    <string name="walled_garden_check_indefinite_text">اس میں تھوڑا وقت لگ سکتا ہے</string>
+    <string name="walled_garden_skipped_message">"اگر آپ نظر انداز کر دیتے ہیں تو:
+
+آپ کے فون میں ایک انٹرنیٹ کنکشن نہیں ہوگا۔
+
+آپ کو اس وقت تک سافٹ ویئر سے متعلق اپ ڈیٹس موصول نہیں ہونگی جب تک آپ انٹرنیٹ سے منسلک نہیں ہو جاتے ہیں۔
+
+آپ اس وقت آلہ کی تحفظ سے متعلق خصوصیات فعال نہیں کر سکتے ہیں۔"</string>
+    <string name="walled_garden_connection_failed">کافی زیادہ وقت لگ رہا ہے؟ واپس جانے اور کسی دوسرے نیٹ ورک سے منسلک ہونے کی کوشش کریں۔</string>
+    <string name="walled_garden_connection_unsuccessful">انٹرنیٹ سے منسلک نہیں کیا جا سکا</string>
+    <string name="ota_update_title">فون کو اپ ڈیٹ کریں</string>
+    <string name="ota_info">آپ کے فون کو ایک اپ ڈیٹ ڈاؤن لوڈ کرنے اور دوبارہ سٹارٹ ہونے کی ضرورت ہے۔</string>
+    <string name="ota_size">سائز: %s</string>
+    <string name="ota_agreement_text">‏اس سافٹ ویئر اپ ڈیٹ کو جاری رکھ کر اور موصول کر کے، آپ <annotation id="tos">Google کی سروس کی شرائط</annotation> اور <annotation id="google_privacy">رازداری کی پالیسی</annotation> سے متفق ہیں۔</string>
+    <string name="early_update_title">سافٹ ویئر اپ ڈیٹ</string>
+    <string name="early_update_text">اپ ڈیٹس کو چیک کیا جا رہا ہے</string>
+    <string name="early_update_downloading_text">%s کو ڈاؤن لوڈ کیا جا رہا ہے</string>
+    <string name="early_update_installing_text">%s کو انسٹال کیا جا رہا ہے</string>
+    <string name="warm_sim_check_msg">نیٹ ورک کا انتظار کر رہا ہے…</string>
+    <string name="sign_in_agreement">‏سائن ان کر کے، آپ Google <annotation id="tos">سروس کی شرائط</annotation>، <annotation id="google_privacy">رازداری کی پالیسی</annotation> اور <annotation id="play_tos">Google Play سروس کی شرائط</annotation> سے متفق ہو رہے ہیں۔</string>
+    <string name="android_privacy_policy_title">اضافی رازداری کی پالیسی</string>
+    <string name="google_terms_of_service_title">‏Google سروس کی شرائط</string>
+    <string name="google_privacy_policy_title">‏Google کی رازداری کی پالیسی</string>
+    <string name="google_plus_privacy_policy_title">‏Google Plus رازداری کی پالیسی</string>
+    <string name="google_play_tos_title">‏Google Play سروس کی شرائط</string>
+    <string name="chrome_tos_title">‏Chrome سروس کی شرائط</string>
+    <string name="chrome_privacy_title">‏Chrome رازداری کا نوٹس</string>
+    <string name="url_load_unsuccessful_message_wifi_only">"‏آپ کا Android آلہ کسی Wi-Fi نیٹ ورک سے مربوط نہیں ہے۔ اس معلومات کو ابھی دیکھنے کیلئے،  ایک ویب براؤزر کے ساتھ %s کو ملاحظہ کریں۔"</string>
+    <string name="continue_for_a11y">‏Accessibility وضع کو فعال کرنے کیلئے اسکرین کو اس وقت تک دباتے رہیں جب تک آپ کو بیپ سنائی نہ دے۔</string>
+    <string name="canceled_a11y">‏Accessibility وضع منسوخ کر دی گئی۔</string>
+    <string name="enabled_a11y">‏Accessibility وضع فعال ہے۔</string>
+    <string name="welcome_message">خوش آمدید</string>
+    <string name="emergency_dial">ہنگامی</string>
+    <string name="welcome_language_picker_dialog_title">اپنی زبان منتخب کریں</string>
+    <string name="welcome_language_picker_section_suggested">تجویز کردہ</string>
+    <string name="welcome_language_picker_section_all">سبھی زبانیں</string>
+    <string name="welcome_language_picker_content_description">زبان: %s</string>
+    <string name="lock_screen_intro_title">اپنے فون کا تحفظ کریں</string>
+    <string name="lock_screen_intro_text">آلہ کے تحفظ کی خصوصیات فعال کر کے اپنی اجازت کے بغیر دوسروں کو یہ فون استعمال کرنے سے روکیں۔ <annotation id="learn_more">مزید جانیں</annotation></string>
+    <string name="lock_screen_intro_text_secondary">اگر آپ ہاں کا انتخاب کرتے ہیں تو آپ کی مقفل اسکرین ترتیب دینے میں آپ کی رہنمائی کی جائے گی۔</string>
+    <string name="lock_screen_intro_check_box">‏<b>اس آلہ کا تحفظ کریں</b> اور اسکرین کو غیر مقفل کرنے کیلئے ایک PIN، پیٹرن یا پاس ورڈ کا تقاضہ کریں۔</string>
+    <string name="lock_screen_intro_radio_fingerprint">فنگر پرنٹ سیٹ اپ کریں</string>
+    <string name="lock_screen_intro_radio_generic">‏PIN، پیٹرن یا پاسورڈ سیٹ اپ کریں</string>
+    <string name="lock_screen_intro_radio_no">نہیں، شکریہ</string>
+    <string name="lock_screen_intro_success">"آپ کے اسکرین لاک کو کامیابی سے ترتیب دے دیا گیا ہے۔
+"<annotation id="learn_more">مزید جانیں</annotation></string>
+    <string name="lock_screen_intro_dialog_text_frp">"‏جب آپ کوئی Google اکاؤنٹ شامل کرتے ہیں اور کوئی اسکرین لاک سیٹ کرتے ہیں تو آلہ کا تحفظ خود بخود فعال ہو جاتا ہے۔ Android Device Manager کے ساتھ، یہ آپ کا فون غائب یا چوری ہو جانے کی صورت میں اس کا پتا لگانے اور اسے صاف کرنے میں آپ کی مدد کرتا ہے۔
+
+اگر آپ کا فون صاف کر دیا جاتا ہے تب بھی کسی شخص کی جانب سے اس فون کا استعمال کیے جا سکنے سے پہلے آپ کے Google اکاؤنٹ کا پاس ورڈ درکار ہوگا۔"</string>
+    <string name="lock_screen_intro_dialog_text">‏جب آپ کوئی Google اکاؤنٹ شامل کرتے ہیں اور کوئی اسکرین لاک سیٹ کرتے ہیں تو آلہ کا تحفظ خود بخود فعال ہو جاتا ہے۔ Android Device Manager کے ساتھ، یہ آپ کا فون غائب یا چوری ہو جانے کی صورت میں اس کا پتا لگانے اور اسے صاف کرنے میں آپ کی مدد کرتا ہے۔</string>
+    <string name="lock_screen_intro_skip_dialog_text_frp">آلہ کے تحفظ کی خصوصیات فعال نہیں ہونگی۔ غائب، چوری یا صاف کر دیے جانے کی صورت میں آپ دوسروں کو یہ فون استعمال کرنے سے نہیں روک سکیں گے۔</string>
+    <string name="lock_screen_intro_skip_dialog_text">آلہ کے تحفظ کی خصوصیات فعال نہیں ہونگی۔ غائب یا چوری ہو جانے کی صورت میں آپ دوسروں کو یہ فون استعمال کرنے سے نہیں روک سکیں گے۔</string>
+    <string name="services_activity_title">‏Google سروسز</string>
+    <string name="services_backup_heading">بیک اپ</string>
+    <string name="services_location_heading">مقام</string>
+    <string name="services_security_heading">سیکیورٹی</string>
+    <string name="services_personalization_heading">ذاتی نوعیت کا بنانا</string>
+    <string name="services_communication_heading">مواصلت</string>
+    <string name="security_verify_apps_summary">‏Google کو ایسے ممکنہ نقصان دہ برتاؤ کیلئے سبھی انسٹال کردہ ایپس کو چیک کرنے کی اجازت دیں جس سے آپ کا آلہ یا ڈیٹا متاثر ہو سکتا ہے۔</string>
+    <string name="restore_title">بحال کیا جا رہا ہے…</string>
+    <string name="restore_wallpaper_title">وال پیپر کو بحال کیا جا رہا ہے…</string>
+    <string name="restore_device_settings_title">آلہ کی ترتیبات کو بحال کیا جا رہا ہے…</string>
+    <string name="restore_launcher_title">لانچر کو بحال کیا جا رہا ہے…</string>
+    <string name="restore_failed_message">بیک اپ سے بحال نہیں کیا جا سکا۔</string>
+    <string name="restore_no_backup_message">آلہِ ماخذ کیلئے کوئی بیک اپ دستیاب نہیں ہیں۔</string>
+    <string name="restore_stopped_message">بدقسمتی سے، آلہ نے بیک اپ سے ڈیٹا بحال کرنا بند کر دیا۔</string>
+    <string name="name_title">نام</string>
+    <string name="name_text">آپ کا نام شامل کرنا آپ کے فون کو کچھ ایپس کو ذاتی نوعیت کا بنانے کی اجازت دیتا ہے۔</string>
+    <string name="first_name">پہلا</string>
+    <string name="last_name">آخری</string>
+    <string name="cant_be_blank">فیلڈ خالی نہیں رہ سکتی۔</string>
+    <string name="device_owner_warning_title">فون مانیٹر کیا جا سکتا ہے</string>
+    <string name="device_owner_warning">یہ فون \"%1$s\" کے زیر انتظام ہے، جس کا مطلب ہے کہ آپ کی کچھ معلومات دیگر لوگ دیکھ سکتے ہیں۔ مانیٹرنگ سے بچنے کیلئے اپنا فون دوبارہ ترتیب دیں۔</string>
+    <string name="device_owner_continue">جاری رکھیں</string>
+    <string name="device_owner_reset">فون دوبارہ ترتیب دیں</string>
+    <string name="factory_reset_title">فون دوبارہ ترتیب دیں</string>
+    <string name="factory_reset_instructions">وارننگ: دوبارہ ترتیب دینے سے اس فون کے داخلی اسٹوریج پر موجود سبھی اکاؤنٹس اور ڈیٹا مٹ جائیں گے۔</string>
+    <string name="factory_reset_confirmation_title">دوبارہ ترتیب دیں؟</string>
+    <string name="factory_reset_confirmation">اس فون پر موجود سبھی اکاؤنٹس اور ڈیٹا مٹا دیں؟ آپ اس کارروائی کو کالعدم نہیں کر سکتے ہیں!</string>
+    <string name="factory_reset_button">مٹائیں اور دوبارہ ترتیب دیں</string>
+    <string name="restart_setup_wizard_dialog_title">سائن ان نہیں ہیں</string>
+    <string name="restart_setup_wizard_dialog_text">"‏یہ فون استعمال کرنے کیلئے، آپ کو پہلے یہ فون آخری بار دوبارہ ترتیب دیے جانے کے بعد اس پر مالک کے زیر استعمال Google اکاؤنٹ میں سائن ان کرنا ہوگا۔
+
+چونکہ آپ نے ایسا نہیں کیا ہے لہذا آپ کو فون دوبارہ ترتیب دینا ہوگا۔"</string>
+    <string name="restart_setup_wizard_button_label">فون کو ترتیب دیں</string>
+    <string name="sec_user_continue">جاری رکھیں</string>
+    <string name="sec_user_quit">ترک کریں</string>
+    <string name="user_warning_title">نیا صارف سیٹ کریں</string>
+    <string name="welcome_secondary_user_added_text">%s نے آپ کو اس فون میں شامل کیا ہے۔</string>
+    <string name="welcome_secondary_user_added_no_owner_name_text">آپ کو اس فون میں شامل کر لیا گیا ہے۔</string>
+    <string name="welcome_secondary_user_info_text"><b>اہم:</b>"
+
+"<li><ul>فون کا مالک آپ کی ایپس کو اَن انسٹال کر سکتا ہے یا آپ کی جگہ مکمل طور پر ہٹا سکتا ہے۔</ul></li>"
+
+"<li><ul>کوئی بھی دوسرا صارف آپ کی جانب سے اپ ڈیٹ کردہ ایپ کی اجازتیں قبول کر سکتا ہے۔</ul></li>"
+
+"<li><ul>کسی بھی کمپیوٹر کی طرح ہی، آپ کو اس فون کا اشتراک صرف ان لوگوں کے ساتھ کرنا چاہیے جن پر آپ بھروسہ کرتے ہیں۔</ul></li></string>
+    <string name="welcome_limited_user_info_text">" "<b>اہم:</b>"
+
+ "<li><ul>فون کا مالک ایپس کو انسٹال اور اَن انسٹال کر سکتا ہے، حدود سیٹ کر سکتا ہے یا آپ کی جگہ مکمل طور پر ہٹا سکتا ہے۔</ul></li>"
+
+ "<li><ul>کوئی بھی دوسرا صارف آپ کی جانب سے اپ ڈیٹ کردہ ایپ کی اجازتیں قبول کر سکتا ہے۔</ul></li>"
+
+ "<li><ul>کسی بھی کمپیوٹر کی طرح ہی، آپ کو اس فون کا اشتراک صرف ان لوگوں کے ساتھ کرنا چاہیے جن پر آپ بھروسہ کرتے ہیں۔ </ul></li></string>
+</resources>

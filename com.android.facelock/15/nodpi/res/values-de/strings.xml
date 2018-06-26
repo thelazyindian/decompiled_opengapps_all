@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Trusted Face</string>
+    <string name="receiver_app_name">Empfänger der \"Trusted Face\"-Übertragung</string>
+    <string name="setup_app_name">Trusted Face hinzufügen</string>
+    <string name="enrollment_continue_label">Weiter</string>
+    <string name="enrollment_done_label">Fertig</string>
+    <string name="enrollment_initializing">Startvorgang läuft...</string>
+    <string name="enrollment_start_message">Ihr Gesicht sollte sich innerhalb des gepunkteten Bereichs befinden.</string>
+    <string name="gar_preview_description">Kameravorschau</string>
+    <string name="error_no_face">Zeigen Sie Ihr Gesicht.</string>
+    <string name="enrollment_missing_landmarks">Augen, Nase und Mund sollten zu sehen sein.</string>
+    <string name="enrollment_missing_landmarks_status">Ihre Gesichtszüge wurden nicht erkannt.</string>
+    <string name="enrollment_off_center_status">Ein Teil Ihres Gesichts ist nicht sichtbar.</string>
+    <string name="gar_enrollment_face_added">Gesicht hinzugefügt</string>
+    <string name="enrollment_done">OK</string>
+    <string name="tutorial_app_name">Über \"Trusted Face\"</string>
+    <string name="tutorial_header">Blicken Sie zum Entsperren des Telefons auf das Display.</string>
+    <string name="tutorial_info_text">"Beachten Sie bitte Folgendes:
+
+ "<li><ul>"Die Gesichtserkennung ist nicht so sicher wie ein Muster, eine PIN oder ein Passwort.
+
+ "<li>Jemand, der Ihnen ähnlich sieht, könnte möglicherweise Ihr Telefon entsperren.</li>"
+
+ "<li>Die zur Gesichtserkennung verwendeten Daten sind auf dem Telefon nicht für andere zugänglich.</li>"
+
+ "</ul></li></string>
+    <string name="tutorial_continue_label">Einrichten</string>
+    <string name="intro_header">Für optimale Ergebnisse:</string>
+    <string name="intro_info_text">" "<li><ul>"Suchen Sie einen Ort in einem Gebäude mit ausgewogener Beleuchtung, nicht zu hell oder zu dunkel.
+
+"<li>Halten Sie das Telefon auf Augenhöhe.</li>"
+
+"</ul></li></string>
+    <string name="intro_continue_label">Weiter</string>
+    <string name="endscreen_header">Fertig!</string>
+    <string name="endscreen_info_text">Zum Entsperren des Geräts können Sie einfach das Display einschalten und Ihr Gesicht in die Kamera halten.</string>
+    <string name="endscreen_bullet_one_text">Das Telefon wird entsperrt, sobald es Sie erkannt hat.</string>
+    <string name="endscreen_bullet_two_text">Wenn das Telefon Ihr Gesicht nicht erkennt, können Sie es mit Ihrem Muster, Passwort oder Ihrer PIN entsperren.</string>
+    <string name="endscreen_tip_text">Tipp: Sie können die Gesichtserkennung verbessern, indem Sie Ihr Gesicht unter verschiedenen Bedingungen zeigen.</string>
+    <string name="endscreen_continue_label">OK</string>
+    <string name="endscreen_license_label">Lizenzen</string>
+    <string name="addtosetup_app_name">Gesichtserkennung verbessern</string>
+    <string name="addtosetup_header">Machen Sie verschiedene Bilder von sich.</string>
+    <string name="addtosetup_info_text">"Beispiele:
+
+"<li><ul>"In verschiedenen Lichtverhältnissen
+
+"<li>Mit oder ohne Brille</li>"
+
+"<li>Mit Bart oder rasiert</li>"
+
+"</ul></li>"
+Halten Sie das Telefon auf Augenhöhe."</string>
+    <string name="addtosetup_continue_label">Weiter</string>
+    <string name="license_screen_header">Open-Source-Hinweise</string>
+    <string name="license_screen_continue_label">OK</string>
+    <string name="face_unlock_service_app_name">Dienst \"Face Unlock\"</string>
+    <string name="trusted_face_service_app_name">Dienst \"Trusted Face\"</string>
+    <string name="service_face_not_found">Kein Gesicht gefunden</string>
+    <string name="service_not_a_match">Ihr Gesicht wurde nicht erkannt.</string>
+    <string name="service_liveliness_start">Jetzt zwinkern</string>
+    <string name="service_liveliness_timeout">Ihr Zwinkern konnte nicht erfasst werden.</string>
+    <string name="service_low_ligthing">Beleuchtung zu schwach</string>
+    <string name="shared_initialize_error">Die Gesichtssuche konnte nicht gestartet werden.</string>
+    <string name="shared_camera_error">Die Kamera ist nicht verfügbar.</string>
+    <string name="shared_read_gallery_error">Einrichtung wiederholen</string>
+    <string name="shared_cancel_label">Abbrechen</string>
+</resources>

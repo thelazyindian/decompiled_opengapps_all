@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="topLayout">false</item>
+    <item type="id" name="headerText">false</item>
+    <item type="id" name="infoText">false</item>
+    <item type="id" name="bulletOneIcon">false</item>
+    <item type="id" name="bulletOneText">false</item>
+    <item type="id" name="bulletTwoIcon">false</item>
+    <item type="id" name="bulletTwoText">false</item>
+    <item type="id" name="tipText">false</item>
+    <item type="id" name="footerLeftButton">false</item>
+    <item type="id" name="footerRightButton">false</item>
+    <item type="id" name="licenseText">false</item>
+    <item type="id" name="preview">false</item>
+    <item type="id" name="background">false</item>
+    <item type="id" name="spotlight">false</item>
+    <item type="id" name="cancel_button">false</item>
+    <item type="id" name="info_text">false</item>
+    <item type="id" name="oval">false</item>
+    <item type="id" name="statusText">false</item>
+</resources>

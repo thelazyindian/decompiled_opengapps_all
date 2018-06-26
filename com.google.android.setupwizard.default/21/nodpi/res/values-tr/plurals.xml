@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="shutdown_countdown_text">
+        <item quantity="other">%d saniye içinde kapatılıyor...</item>
+        <item quantity="one">1 saniye içinde kapatılıyor...</item>
+    </plurals>
+    <plurals name="sim_missing_title">
+        <item quantity="other">SIM kartları takın</item>
+        <item quantity="one">SIM kartı takın</item>
+    </plurals>
+    <plurals name="sim_missing_text_tablet">
+        <item quantity="other">SIM kartlarınızı takmak için, tabletinizle birlikte verilen talimatları okuyun.</item>
+        <item quantity="one">SIM kartınızı takmak için, tabletinizle birlikte verilen talimatları okuyun.</item>
+    </plurals>
+    <plurals name="sim_missing_text_device">
+        <item quantity="other">SIM kartlarınızı takmak için, cihazınızla birlikte verilen talimatları okuyun.</item>
+        <item quantity="one">SIM kartınızı takmak için, cihazınızla birlikte verilen talimatları okuyun.</item>
+    </plurals>
+    <plurals name="sim_missing_text_default">
+        <item quantity="other">SIM kartlarınızı takmak için, telefonunuzla birlikte verilen talimatları okuyun.</item>
+        <item quantity="one">SIM kartınızı takmak için, telefonunuzla birlikte verilen talimatları okuyun.</item>
+    </plurals>
+</resources>

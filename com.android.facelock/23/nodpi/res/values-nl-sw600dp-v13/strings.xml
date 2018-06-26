@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="intro_screen_header">Je tablet ontgrendelen door deze aan te kijken</string>
+    <string name="intro_screen_body">"Houd rekening met het volgende:
+
+ "<li><ul>"Ontgrendelen via gezichtsherkenning is minder veilig dan een patroon, pincode of wachtwoord.
+
+ "<li>Iemand die op jou lijkt, kan je tablet ontgrendelen.</li>"
+
+ "<li>De gegevens die worden gebruikt om je gezicht te herkennen, worden privé opgeslagen op je tablet.</li> </ul></li></string>
+    <string name="instructions_screen_body">" "<li><ul>"Zoek een plek binnenshuis met normale verlichting (niet te licht of te donker).
+
+ "<li>Houd de tablet op ooghoogte.</li> </ul></li></string>
+    <string name="end_screen_body">Als je de tablet wilt ontgrendelen, schakel je het scherm in en kijk je in de camera.</string>
+    <string name="end_screen_bullet_one_text">Zodra je wordt herkend, wordt de tablet ontgrendeld.</string>
+    <string name="add_to_setup_intro_screen_body">"Voorbeelden:
+
+ "<li><ul>"Bij verschillende belichting
+
+ "<li>Met of zonder bril</li>"
+
+ "<li>Met of zonder baard</li>"
+
+ "</ul></li>"
+ Houd de tablet op ooghoogte"</string>
+</resources>

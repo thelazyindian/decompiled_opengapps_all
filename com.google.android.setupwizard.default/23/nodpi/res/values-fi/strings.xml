@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="common_google_play_services_notification_ticker">Virhe Google Play -palveluissa</string>
+    <string name="common_google_play_services_notification_needs_installation_title">Asenna Google Play -palvelut, jotta sovellus toimii.</string>
+    <string name="common_google_play_services_notification_needs_update_title">Päivitä Google Play -palvelut, jotta sovellus toimii.</string>
+    <string name="common_android_wear_notification_needs_update_text">Android Wear -sovellus täytyy päivittää toisen sovelluksen takia.</string>
+    <string name="common_google_play_services_needs_enabling_title">Ota käyttöön Google Play -palvelut, jotta sovellus toimii.</string>
+    <string name="common_google_play_services_error_notification_requested_by_msg">Pyynnön teki %1$s</string>
+    <string name="common_google_play_services_install_title">Asenna Google Play -palvelut</string>
+    <string name="common_google_play_services_install_text_phone">Tämä sovellus ei toimi ilman Google Play -palveluita, jotka puuttuvat puhelimesta.</string>
+    <string name="common_google_play_services_install_text_tablet">Tämä sovellus ei toimi ilman Google Play -palveluita, jotka puuttuvat tablet-laitteesta.</string>
+    <string name="common_google_play_services_install_button">Asenna Google Play -palvelut</string>
+    <string name="common_google_play_services_enable_title">Ota Google Play -palvelut käyttöön</string>
+    <string name="common_google_play_services_enable_text">Tämä sovellus ei toimi, ellet ota Google Play -palveluita käyttöön.</string>
+    <string name="common_google_play_services_enable_button">Ota Google Play -palv. käyttöön</string>
+    <string name="common_google_play_services_update_title">Päivitä Google Play -palvelut</string>
+    <string name="common_android_wear_update_title">Päivitä Android Wear</string>
+    <string name="common_google_play_services_update_text">Tämä sovellus ei toimi, ellet päivitä Google Play -palveluita.</string>
+    <string name="common_android_wear_update_text">Tämä sovellus ei toimi, ellet päivitä Android Wear -sovellusta.</string>
+    <string name="common_google_play_services_network_error_title">Verkkovirhe</string>
+    <string name="common_google_play_services_network_error_text">Google Play -palveluiden käyttöön tarvitaan tietoliikenneyhteys.</string>
+    <string name="common_google_play_services_invalid_account_title">Tili ei kelpaa</string>
+    <string name="common_google_play_services_invalid_account_text">Kyseistä tiliä ei ole tällä laitteella. Valitse toinen tili.</string>
+    <string name="common_google_play_services_unknown_issue">Tuntematon ongelma käytettäessä Google Play -palveluita.</string>
+    <string name="common_google_play_services_unsupported_title">Google Play -palvelut</string>
+    <string name="common_google_play_services_unsupported_text">Google Play -palveluita, joita osa sovelluksistasi käyttää, ei tueta laitteellasi. Pyydä ohjeita laitteen valmistajalta.</string>
+    <string name="common_google_play_services_update_button">Päivitä</string>
+    <string name="common_signin_button_text">Kirjaudu</string>
+    <string name="common_signin_button_text_long">Kirjaudu Google-tiliin</string>
+    <string name="common_open_on_phone">Avaa puhelimessa</string>
+    <string name="suw_next_button_label">Seuraava</string>
+    <string name="suw_back_button_label">Takaisin</string>
+    <string name="suw_more_button_label">Lisää</string>
+    <string name="setup_wizard_title">Ohjattu asennustoiminto</string>
+    <string name="setup_wizard_next_button_label">Seuraava</string>
+    <string name="setup_wizard_back_button_label">Edellinen</string>
+    <string name="setup_wizard_services_activity_title">Googlen palvelut</string>
+    <string name="setup_wizard_services_description">Palvelut auttavat sinua hyödyntämään Googlea tehokkaasti. Voit ottaa ne käyttöön ja poistaa ne käytöstä milloin tahansa. Tietoja käytetään Googlen <annotation id="google_privacy">tietosuojakäytännön</annotation> mukaisesti.</string>
+    <string name="setup_wizard_services_backup_restore_heading">Varmuuskopiointi ja palautus</string>
+    <string name="setup_wizard_services_location_heading">Sijainti</string>
+    <string name="setup_wizard_services_communication_heading">Viestintä</string>
+    <string name="setup_wizard_services_backup"><b>Varmuuskopioi puhelimesi sovellukset, sovelluksien tiedot, asetukset, omat sanakirjat ja Wi-Fi-salasanat</b> Google-tiliisi, jotta voit palauttaa ne myöhemmin helposti. <annotation id="backup_details">Lisätietoja</annotation></string>
+    <string name="setup_wizard_services_backup_restore"><b>Varmuuskopioi sovellukset, sovelluksien tiedot, asetukset, omat sanakirjat ja Wi-Fi-salasanat</b> Google-tiliisi, jotta voit palauttaa ne myöhemmin helposti.</string>
+    <string name="setup_wizard_services_backup_restore_footnote">Tallennettavia tietoja ovat sovellukset, sovellus- ja järjestelmäasetukset sekä Wi-Fi-salasanat.</string>
+    <string name="setup_wizard_services_backup_restore_dialog_text">Kun kytket automaattisen varmuuskopioinnin, laitteesi tiedot tallentuvat määräajoin Google-tilillesi. Varmuuskopiot voivat sisältää sovellustietokansioissa olevia tietoja, kuten oletuksia, asetuksia, viestejä, valokuvia ja muita tiedostoja.</string>
+    <string name="setup_wizard_services_location_sharing"><b>Käytä Googlen sijaintipalvelua</b>, niin autat sovelluksia määrittämän sijainnin. Googlelle lähetetään anonyymejä sijaintitietoja – myös kun sovelluksia ei ole käytössä. <annotation id="location_details">Lisätietoja</annotation></string>
+    <string name="setup_wizard_services_location_sharing_dialog_text">Googlen sijaintipalvelu auttaa arvioimaan laitteesi sijainnin nopeammin ja tarkemmin käyttämällä lähteitä, kuten Wi-Fi- ja mobiiliverkkoja. Kun otat palvelun käyttöön, laite siirtyy tilaan, jossa sijaintitietoja hankitaan Wi‑Fi- ja mobiiliverkkojen avulla. Voit poistaa tilan käytöstä sijaintiasetuksissa valitsemalla tilan, jossa käytössä on vain GPS. Siihen voidaan viitata nimellä Vain laite -tila.</string>
+    <string name="setup_wizard_services_location_wifi_scan"><b>Auta parantamaan sijaintipalveluita</b> antamalla sovellusten ja palveluiden etsiä verkkoja myös kun Wi‑Fi ei ole käytössä.</string>
+    <string name="setup_wizard_services_location_footnote">Googlen sijaintipalvelu määrittää sijainnin tarkemmin ja nopeammin Wi-Fi- ja muiden signaalien avulla ja usein alhaisemmalla virrankulutuksella kuin GPS. Laitteeseesi saatetaan tallentaa joitakin tietoja. Tietoja saatetaan kerätä myös silloin, kun sovellukset eivät ole käytössä.</string>
+    <string name="setup_wizard_services_play"><b>Lähettäkää minulle</b> tarjouksia ja uutisia Google Playsta.</string>
+    <string name="setup_wizard_services_usage_reporting"><b>Auta parantamaan Androidin käyttökokemusta</b> lähettämällä laitteen diagnostiikka- ja käyttötietoja automaattisesti Googlelle. Tietojen avulla parannetaan esimerkiksi akun kestoa, sovellusten suorituskykyä ja Googlen uusia ominaisuuksia. Tietoja ei käytetä henkilöllisyytesi selvittämiseen. <annotation id="usage_reporting_details">Lisätietoja</annotation></string>
+    <string name="setup_wizard_services_usage_reporting_dialog_text">"Tiedot ovat yleisiä laitteeseen ja sen käyttöön liittyviä tietoja, kuten tietoja akun varaustasosta ja sovellusten käyttötiheydestä sekä verkkoyhteyksien laadusta ja kestosta (esim. matkapuhelinverkko, Wi-Fi ja Bluetooth). Googlelle lähetään myös virheraportteja, jos kaikki ei toimi kuten pitäisi. Tietoja ei liitetä Google-tiliisi, vaan niiden avulla parannetaan Googlen tuotteita ja palveluita kaikkien käyttäjien iloksi ja hyödyksi. Kumppaneille, kuten Android-kehittäjille, toimitetaan koottuja tietoja, jotta he voivat parantaa omia sovelluksiaan ja tuotteitaan.
+
+Voit poistaa tietojen lähettämisen käytöstä milloin tahansa Google-asetukset-sovelluksella. Laitteesi voi sen jälkeenkin lähettää esimerkiksi järjestelmä- ja tietoturvapäivitysten vastaanottamista varten tarvittavia tietoja."</string>
+    <string name="setup_wizard_services_agreement">Puhelin saattaa myös vastaanottaa päivityksiä ja sovelluksia Googlelta, operaattorilta ja laitteen valmistajalta. Joitakin sovelluksia saatetaan ladata ja asentaa, jos jatkat. Voit poistaa ne milloin tahansa.</string>
+    <string name="default_device_name">Android</string>
+    <string name="finish_button_label">Valmis</string>
+    <string name="skip_button_label">Ohita</string>
+    <string name="skip_anyway_button_label">Ohita kuitenkin</string>
+    <string name="dont_skip_button_label">Älä ohita</string>
+    <string name="down_button_label">Lisää</string>
+    <string name="cancel_button_label">Peruuta</string>
+    <string name="restart_button_label">Käynnistä uudelleen</string>
+    <string name="try_again_button_label">Yritä uudelleen</string>
+    <string name="close_button_label">Sulje</string>
+    <string name="got_it_button_label">Selvä</string>
+    <string name="ok_button_label">OK</string>
+    <string name="google_legal_title">Googlen lakiasiat</string>
+    <string name="url_load_unsuccessful_message">Puhelintasi ei ole yhdistetty mobiilitiedonsiirtopalveluun. Voit tarkastella tietoja nyt siirtymällä osoitteeseen %s verkkoselaimella.</string>
+    <string name="start">Käynnistä</string>
+    <string name="wait_msg">Hetki vain...</string>
+    <string name="skip_toast">Ohjattu asetustoiminto ohitetaan</string>
+    <string name="terminate_toast">"Ohjattu asetustoiminto lopetettiin
+Laitteen asetuksia ei määritetty"</string>
+    <string name="activation_title">Mobiilipalveluita aktivoidaan…</string>
+    <string name="activation_title_searching">Etsitään signaalia...</string>
+    <string name="activation_title_activating">Mobiilipalveluita aktivoidaan…</string>
+    <string name="activation_default_network_name">mob.verkko</string>
+    <string name="activation_network_bars_template">Signaalin voimakkuus %d palkkia</string>
+    <string name="activation_text">Voit aktivoida mobiilitiedonsiirtopalvelun nyt koskettamalla <b>Aktivoi </b>". (Tässä voi kestää muutama minuutti).
+
+Voit myös koskettaa "<b>Ohita</b>, ja määrittää puhelimen asetukset Wi-Fi-yhteyden kautta.</string>
+    <string name="activation_text_standalone">Aktivoi mobiilitiedonsiirtopalvelu nyt koskettamalla <b>Aktivoi</b>. (Tässä voi kestää muutama minuutti.)</string>
+    <string name="activation_skip_confirmation">"Useimmat puhelimesi ominaisuuksista eivät toimi, ennen kuin aktivoit mobiilitiedonsiirtopalvelun.
+
+Jos haluat ohittaa tämän vaiheen, voit aktivoida palvelun myöhemmin järjestelmäasetuksissa."</string>
+    <string name="activation_continue_skip_label">Jatka</string>
+    <string name="activation_button_label">Aktivoi</string>
+    <string name="activation_progress_before_connect">Määritä asetukset Wi-Fi-yhteyden kautta koskettamalla <b>Ohita</b>.</string>
+    <string name="activation_progress">Aktivointi voi kestää muutaman minuutin. Kosketa <b>Ohita</b>, jos haluat viimeistellä asetukset Wi-Fi-yhteyden kautta.</string>
+    <string name="activation_progress_gen">Tämä voi kestää jopa 5 minuuttia</string>
+    <string name="activation_progress_mobile_data">"Puhelimen mobiilitiedonsiirtopalvelua aktivoidaan.
+
+Aktivointi voi kestää viisi minuuttia."</string>
+    <string name="activation_progress_before_connect_standalone">Aktivointi voi kestää muutaman minuutin.</string>
+    <string name="activation_progress_standalone">Aktivointi voi kestää muutaman minuutin.</string>
+    <string name="activation_success_title">Aktivointi valmis</string>
+    <string name="activation_success_text">Jatka asetuksien määrittämistä koskettamalla <b>Seuraava</b>.</string>
+    <string name="activation_success_text_gen">Laite on käynnistettävä uudelleen aktivoinnin lopuksi.</string>
+    <string name="activation_success_text_standalone">Jatka koskettamalla <b>Seuraava</b>".
+
+Aktivointi onnistui, mutta mobiiliverkon käyttöönotto voi kestää muutamia minuutteja."</string>
+    <string name="activation_failure_title">Aktivointi ei onnistunut</string>
+    <string name="activation_failure_text">"Yritä uudelleen minuutin kuluttua tai käynnistä puhelin uudelleen, jos ongelma toistuu.
+
+Jos haluat ohittaa tämän vaiheen, muista tehdä aktivointi myöhemmin järjestelmäasetuksista. Puhelimella ei ole mobiilitiedonsiirtoyhteyttä ilman aktivointia."</string>
+    <string name="activation_failure_text_gen">Mobiilitiedonsiirtopalveluasi ei voitu aktivoida. Tämä saattaa olla väliaikainen ongelma, joka voi ratketa, jos käynnistät puhelimen uudelleen.</string>
+    <string name="activation_failure_text_standalone">Mobiilidatapalvelun aktivointi epäonnistui. Voit yrittää aktivointia uudelleen valitsemalla <b>Yritä uudelleen</b>".
+
+Voit aktivoida mobiilidatapalvelun myöhemmin valitsemalla "<b>Järjestelmäasetukset > Langaton ja verkot > Mobiiliverkot</b></string>
+    <string name="activation_cancel_title">Peruuta pyyntö</string>
+    <string name="activation_cancel_text">Peruutetaan aktivointia... Tässä saattaa kestää 5–10 sekuntia.</string>
+    <string name="activation_canceled_title">Aktivointi peruutettu</string>
+    <string name="activation_canceled_text">"Haluatko peruuttaa aktivoinnin? Mobiiliverkkopalvelu on aktivoitava, ennen kuin voit muodostaa internetyhteyden sen kautta.
+
+Valitse "<b>Seuraava</b>", jos haluat määrittää asetukset Wi-Fi-yhteyden kautta.
+
+Voit aktivoida mobiiliverkkopalvelun myöhemmin valitsemalla "<b>Järjestelmäasetukset > Langaton verkko ja verkot > Mobiiliverkot</b>.</string>
+    <string name="activation_canceled_text_standalone">"Aktivointi peruutettu.
+
+Voit aktivoida mobiilitiedonsiirtopalvelun myöhemmin valitsemalla "<b>Järjestelmän asetukset > Langaton verkko ja verkot > Matkapuhelinverkot</b>.</string>
+    <string name="activation_spc_failure_text">Tapahtui virhe, joka vaatii puhelimen sammutuksen ja uudelleenkäynnistyksen, ennen kuin aktivointia voidaan yrittää uudelleen. Puhelin sammuu automaattisesti 60 sekunnin kuluttua. Voit myös valita vaihtoehdon <b>Sammuta nyt</b>".
+
+Kun puhelin on sammunut, käynnistä se uudelleen virtapainikkeella. Aktivointi alkaa automaattisesti."</string>
+    <string name="shutdown_button_label">Sammuta nyt</string>
+    <string name="reboot_button_label">Käynnistä uudelleen</string>
+    <string name="activation_skip_text">Jos ohitat aktivoinnin, muista tehdä aktivointi myöhemmin asetuksista. Puhelimella ei ole mobiilitiedonsiirtoyhteyttä ilman aktivointia.</string>
+    <string name="notification_update_title">Tilisi on päivitettävä</string>
+    <string name="notification_update_message">Suorita ohjattu asennustoiminto uudelleen koskettamalla tätä.</string>
+    <string name="account_exists_title">Tili lisättiin</string>
+    <string name="account_exists_text">Ensimmäinen tilisi on käyttövalmis. Voit lisätä ja poistaa tilejä myöhemmin asetuksissa.</string>
+    <string name="date_time_setup_title">Päivämäärä ja aika</string>
+    <string name="date_time_message">Muokkaa tarvittaessa.</string>
+    <string name="date_time_current_date">Pvm</string>
+    <string name="date_time_current_time">Aika</string>
+    <string name="date_time_time_zone_full" formatted="false">%s (%s)</string>
+    <string name="sim_missing_title">Aseta SIM-kortti</string>
+    <string name="sim_setup_title">SIM-korttien määritys</string>
+    <string name="sim_setup_select_data">Valitse SIM-kortti mobiilitiedonsiirrolle</string>
+    <string name="sim_setup_select_voice">Valitse SIM-kortti puheluille</string>
+    <string name="sim_setup_select_text">Valitse SIM-kortti tekstiviesteille</string>
+    <string name="sim_setup_ask_every_time">Kysy aina</string>
+    <string name="walled_garden_title">Tarkistetaan yhteyttä…</string>
+    <string name="walled_garden_check_indefinite_text">Tämä voi kestää jonkin aikaa</string>
+    <string name="walled_garden_skipped_message">"Jos et määritä asetuksia
+
+puhelimellasi ei voi muodostaa internetyhteyttä
+
+et voi ladata ohjelmistopäivityksiä ennen kuin muodostat internetyhteyden
+
+et voi ottaa laitteen suojausominaisuuksia käyttöön tällä hetkellä."</string>
+    <string name="walled_garden_connection_failed">Kestääkö toiminto liian kauan? Palaa takaisin ja kokeile muodostaa yhteys toiseen verkkoon.</string>
+    <string name="walled_garden_connection_unsuccessful">Internetyhteyden muodostaminen epäonnistui.</string>
+    <string name="ota_update_title">Päivitä puhelin</string>
+    <string name="ota_info">Puhelimeen täytyy ladata päivitys, ja puhelin täytyy käynnistää uudelleen</string>
+    <string name="ota_size">Koko: %s</string>
+    <string name="ota_agreement_text">Jatkamalla ohjelmistopäivityksen lataamista hyväksyt <annotation id="tos">Googlen käyttöehdot</annotation> ja <annotation id="google_privacy">tietosuojakäytännön</annotation>.</string>
+    <string name="early_update_title">Ohjelmistopäivitys</string>
+    <string name="early_update_text">Tarkistetaan päivityksiä</string>
+    <string name="early_update_downloading_text">Ladataan %s</string>
+    <string name="early_update_installing_text">Asennetaan %s</string>
+    <string name="warm_sim_check_msg">Odotetaan verkkoyhteyttä...</string>
+    <string name="sign_in_agreement">Kirjautumalla sisään hyväksyt Googlen <annotation id="tos">käyttöehdot</annotation>, <annotation id="google_privacy">tietosuojakäytännön</annotation> ja <annotation id="play_tos">Google Playn käyttöehdot</annotation>.</string>
+    <string name="android_privacy_policy_title">Tietosuojakäytännön lisäosa</string>
+    <string name="google_terms_of_service_title">Googlen käyttöehdot</string>
+    <string name="google_privacy_policy_title">Googlen tietosuojakäytäntö</string>
+    <string name="google_plus_privacy_policy_title">Google Plus -palvelun tietosuojakäytäntö</string>
+    <string name="google_play_tos_title">Google Playn käyttöehdot</string>
+    <string name="chrome_tos_title">Chromen käyttöehdot</string>
+    <string name="chrome_privacy_title">Chromen tietosuojailmoitus</string>
+    <string name="url_load_unsuccessful_message_wifi_only">Android-laitetta ei ole yhdistetty Wi-Fi-verkkoon. Voit tarkastella näitä tietoja käymällä osoitteessa %s verkkoselaimella.</string>
+    <string name="continue_for_a11y">Ota esteettömyystila käyttöön koskettamalla näyttöä, kunnes kuulet äänimerkin.</string>
+    <string name="canceled_a11y">Esteettömyystila peruutettu.</string>
+    <string name="enabled_a11y">Esteettömyystila käytössä.</string>
+    <string name="welcome_message">Tervetuloa</string>
+    <string name="emergency_dial">Hätätilanne</string>
+    <string name="welcome_language_picker_dialog_title">Valitse kieli</string>
+    <string name="welcome_language_picker_section_suggested">Ehdotettu</string>
+    <string name="welcome_language_picker_section_all">Kaikki kielet</string>
+    <string name="welcome_language_picker_content_description">Kieli: %s</string>
+    <string name="lock_screen_intro_title">Suojaa puhelintasi</string>
+    <string name="lock_screen_intro_text">Estä puhelimesi luvaton käyttö ottamalla laitteen suojausominaisuudet käyttöön. <annotation id="learn_more">Lisätietoja</annotation></string>
+    <string name="lock_screen_intro_text_secondary">Saat ohjeet lukitusruudun asetuksien määrittämiseen, jos valitset ”kyllä”.</string>
+    <string name="lock_screen_intro_check_box"><b>Suojaa laitetta</b> avaamalla näytön lukitus PIN-koodin, kuvion tai salasanan avulla</string>
+    <string name="lock_screen_intro_radio_fingerprint">Aseta sormenjälki</string>
+    <string name="lock_screen_intro_radio_generic">Aseta PIN-koodi, kuvio tai salasana</string>
+    <string name="lock_screen_intro_radio_no">Ei kiitos</string>
+    <string name="lock_screen_intro_success">"Lukitusruutu on nyt käytössä.
+"<annotation id="learn_more">Lisätietoja</annotation></string>
+    <string name="lock_screen_intro_dialog_text_frp">"Laitteen suojaus aktivoidaan automaattisesti, kun lisäät Google-tilin ja otat käyttöön näytön lukituksen. Yhdessä Android Device Managerin kanssa se auttaa sinua paikantamaan kadonneen tai varastetun puhelimen ja tyhjentämään sen tiedot.
+
+Vaikka puhelimesi tiedot poistettaisiin, sen käyttö edellyttää yhä Google-tilisi salasanaa."</string>
+    <string name="lock_screen_intro_dialog_text">Laitteen suojaus aktivoidaan automaattisesti, kun lisäät Google-tilin ja otat käyttöön näytön lukituksen. Yhdessä Android Device Managerin kanssa se auttaa sinua paikantamaan kadonneen tai varastetun puhelimen ja tyhjentämään sen tiedot.</string>
+    <string name="lock_screen_intro_skip_dialog_text_frp">Laitteen suojausominaisuuksia ei oteta käyttöön. Et voi estää puhelimesi käyttöä, jos se varastetaan, katoaa tai sen tiedot tyhjennetään.</string>
+    <string name="lock_screen_intro_skip_dialog_text">Laitteen suojausominaisuuksia ei oteta käyttöön. Et voi estää puhelimesi käyttöä, jos se varastetaan tai katoaa.</string>
+    <string name="services_activity_title">Googlen palvelut</string>
+    <string name="services_backup_heading">Varmuuskopio</string>
+    <string name="services_location_heading">Sijainti</string>
+    <string name="services_security_heading">Suojaus</string>
+    <string name="services_personalization_heading">Muokkaaminen</string>
+    <string name="services_communication_heading">Viestintä</string>
+    <string name="security_verify_apps_summary">Anna Googlen tarkistaa kaikki asennetut sovellukset mahdollisesti haitallisen toiminnan varalta, joka voi vaikuttaa laitteen tai tietojen suojaukseen.</string>
+    <string name="restore_title">Palautetaan…</string>
+    <string name="restore_wallpaper_title">Palautetaan taustakuva…</string>
+    <string name="restore_device_settings_title">Laitteen asetuksia palautetaan…</string>
+    <string name="restore_launcher_title">Palautetaan käynnistysohjelma…</string>
+    <string name="restore_failed_message">Palauttaminen varmuuskopiosta epäonnistui.</string>
+    <string name="restore_no_backup_message">Lähdelaitteelle ei ole saatavilla varmuuskopioita.</string>
+    <string name="restore_stopped_message">Laite keskeytti tietojen palauttamisen varmuuskopiosta.</string>
+    <string name="name_title">Nimi</string>
+    <string name="name_text">Jos lisäät nimesi, puhelin voi räätälöidä joitakin sovelluksia.</string>
+    <string name="first_name">Etunimi</string>
+    <string name="last_name">Sukunimi</string>
+    <string name="cant_be_blank">Kenttä ei voi olla tyhjä.</string>
+    <string name="device_owner_warning_title">Puhelinta voidaan valvoa</string>
+    <string name="device_owner_warning">Tätä puhelinta hallinnoi %1$s, joten osa tiedoistasi voi olla muiden nähtävissä. Voit turvata tietosi palauttamalla tehdasasetukset.</string>
+    <string name="device_owner_continue">Jatka</string>
+    <string name="device_owner_reset">Palauta puhelimen asetukset</string>
+    <string name="factory_reset_title">Palauta puhelimen tehdasasetukset</string>
+    <string name="factory_reset_instructions">Varoitus: tehdasasetusten palauttaminen poistaa kaikki tilit ja tiedot puhelimen muistista.</string>
+    <string name="factory_reset_confirmation_title">Palautetaanko tehdasasetukset?</string>
+    <string name="factory_reset_confirmation">Poistetaanko kaikki puhelimen tilit ja tiedot? Toimenpidettä ei voi kumota.</string>
+    <string name="factory_reset_button">Tyhjennä ja palauta tehdasasetukset</string>
+    <string name="restart_setup_wizard_dialog_title">Ei kirjautunut</string>
+    <string name="restart_setup_wizard_dialog_text">"Jotta voit käyttää puhelinta, sinun täytyy kirjautua omistajan Google-tilille, joka oli käytössä viimeisen tehdasasetusten palautuksen yhteydessä.
+
+Koska et ole tehnyt niin, puhelin täytyy määrittää uudelleen."</string>
+    <string name="restart_setup_wizard_button_label">Määritä puhelin</string>
+    <string name="sec_user_continue">Jatka</string>
+    <string name="sec_user_quit">Lopeta</string>
+    <string name="user_warning_title">Määritä uusi käyttäjä</string>
+    <string name="welcome_secondary_user_added_text">%s on lisännyt sinut tähän puhelimeen.</string>
+    <string name="welcome_secondary_user_added_no_owner_name_text">Sinut on lisätty tähän puhelimeen.</string>
+    <string name="welcome_secondary_user_info_text"><b>Tärkeää:</b>"
+
+"<li><ul>Puhelimen omistaja voi asentaa ja poistaa sovelluksia, määrittää rajoituksia tai poistaa tilasi kokonaan.</ul></li>"
+
+"<li><ul>Kaikki muut käyttäjät voivat hyväksyä sovellusten päivitettyjä käyttöoikeuksia puolestasi.</ul></li>"
+
+"<li><ul>Kuten aina, jaa puhelimesi vain luotettavien henkilöiden kanssa.</ul></li></string>
+    <string name="welcome_limited_user_info_text">" "<b>Tärkeää:</b>"
+
+ "<li><ul>Puhelimen omistaja voi asentaa ja poistaa sovelluksia, määrittää rajoituksia tai poistaa tilasi kokonaan.</ul></li>"
+
+ "<li><ul>Kaikki muut käyttäjät voivat hyväksyä sovellusten päivitettyjä käyttöoikeuksia puolestasi.</ul></li>"
+
+ "<li><ul>Kuten aina, jaa puhelimesi vain luotettavien henkilöiden kanssa. </ul></li></string>
+</resources>

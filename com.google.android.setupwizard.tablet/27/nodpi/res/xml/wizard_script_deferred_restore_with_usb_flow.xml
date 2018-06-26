@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WizardScript wizard:version="2"
+  xmlns:wizard="http://schemas.android.com/apk/res/com.google.android.setupwizard">
+    <WizardAction wizard:uri="intent:#Intent;action=com.google.android.setupwizard.ACCOUNT_CHECK;end" id="mfm_check" />
+    <WizardAction wizard:uri="intent:#Intent;action=com.google.android.setupwizard.FINGERPRINT;end" id="fingerprint" />
+    <WizardAction wizard:uri="intent:#Intent;action=com.google.android.setupwizard.LOCK_SCREEN;end" id="lock_screen" />
+    <WizardAction wizard:uri="intent:#Intent;action=com.google.android.setupwizard.OPA_OPT_IN;B.valuePropSkippable=true;end" id="opa" />
+    <WizardAction wizard:uri="intent:#Intent;action=com.google.android.setupwizard.ASSIST_GESTURE;end" id="assist_gesture" />
+    <WizardAction wizard:uri="intent:#Intent;action=com.google.android.setupwizard.BACKUP_OPT_IN;end" id="backup_opt_in" />
+    <WizardAction wizard:uri="intent:#Intent;action=com.google.android.setupwizard.SUGGESTED_ACTIONS;end" id="suggested_actions" />
+    <WizardAction wizard:uri="intent:#Intent;action=com.google.android.setupwizard.USB_MIGRATION_FINAL_HOLD;end" id="usb_migration_final_hold" />
+    <WizardAction wizard:uri="intent:#Intent;action=com.google.android.setupwizard.FINAL_HOLD;end" id="final_hold" />
+</WizardScript>

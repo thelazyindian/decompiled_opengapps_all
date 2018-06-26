@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="shutdown_countdown_text">
+        <item quantity="other">%d సెకన్లలో షట్ డౌన్ చేయబడుతుంది…</item>
+        <item quantity="one">1 సెకనులో షట్ డౌన్ చేయబడుతుంది…</item>
+    </plurals>
+    <plurals name="sim_missing_title">
+        <item quantity="other">SIM కార్డులను చొప్పించండి</item>
+        <item quantity="one">SIM కార్డును చొప్పించండి</item>
+    </plurals>
+    <plurals name="sim_missing_text_tablet">
+        <item quantity="other">మీ SIM కార్డులను చొప్పించడానికి, మీ టాబ్లెట్‌తో పాటు అందించిన సూచనలను చదవండి.</item>
+        <item quantity="one">మీ SIM కార్డును చొప్పించడానికి, మీ టాబ్లెట్‌తో పాటు అందించిన సూచనలను చదవండి.</item>
+    </plurals>
+    <plurals name="sim_missing_text_device">
+        <item quantity="other">మీ SIM కార్డులను చొప్పించడానికి, మీ పరికరంతో పాటు అందించిన సూచనలను చదవండి.</item>
+        <item quantity="one">మీ SIM కార్డును చొప్పించడానికి, మీ పరికరంతో పాటు అందించిన సూచనలను చదవండి.</item>
+    </plurals>
+    <plurals name="sim_missing_text_default">
+        <item quantity="other">మీ SIM కార్డులను చొప్పించడానికి, మీ ఫోన్‌తో పాటు అందించిన సూచనలను చదవండి.</item>
+        <item quantity="one">మీ SIM కార్డును చొప్పించడానికి, మీ ఫోన్‌తో పాటు అందించిన సూచనలను చదవండి.</item>
+    </plurals>
+</resources>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="shutdown_countdown_text">
+        <item quantity="other">כיבוי תוך %d שניות…</item>
+        <item quantity="one">יבצע כיבוי בעוד שנייה אחת…</item>
+    </plurals>
+    <plurals name="sim_missing_title">
+        <item quantity="other">‏הכנסת כרטיסי SIM</item>
+        <item quantity="one">‏הכנסת כרטיס SIM</item>
+    </plurals>
+    <plurals name="sim_missing_text_tablet">
+        <item quantity="other">‏כדי להכניס את כרטיסי ה-SIM, קרא את ההנחיות שקיבלת יחד עם הטאבלט.</item>
+        <item quantity="one">‏כדי להכניס את כרטיס ה-SIM, קרא את ההנחיות שקיבלת יחד עם הטאבלט.</item>
+    </plurals>
+    <plurals name="sim_missing_text_device">
+        <item quantity="other">‏כדי להכניס את כרטיסי ה-SIM, קרא את ההנחיות שקיבלת יחד עם המכשיר.</item>
+        <item quantity="one">‏כדי להכניס את כרטיס ה-SIM, קרא את ההנחיות שקיבלת יחד עם המכשיר.</item>
+    </plurals>
+    <plurals name="sim_missing_text_default">
+        <item quantity="other">‏כדי להכניס את כרטיסי ה-SIM, קרא את ההנחיות שקיבלת יחד עם הטלפון.</item>
+        <item quantity="one">‏כדי להכניס את כרטיס ה-SIM, קרא את ההנחיות שקיבלת יחד עם הטלפון.</item>
+    </plurals>
+</resources>

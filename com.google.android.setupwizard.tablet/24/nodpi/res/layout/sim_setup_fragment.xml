@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.setupwizard.util.FractionalLinearLayout android:orientation="vertical" android:clipChildren="false" android:layout_width="fill_parent" android:layout_height="wrap_content" style="@style/SuwContentFrame"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:id="@id/description_text" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/sim_setup_select_data" android:accessibilityLiveRegion="polite" style="@style/SuwDescription" />
+    <RadioGroup android:id="@id/sim_setup_radio_group" android:paddingBottom="@dimen/sim_setup_radio_group_padding_bottom" android:clipChildren="false" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+</com.google.android.setupwizard.util.FractionalLinearLayout>

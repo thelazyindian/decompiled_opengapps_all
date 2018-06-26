@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="intro_screen_header">Feloldhatja a zárolást úgy, hogy ránéz a táblagépre</string>
+    <string name="intro_screen_body">"Ne feledje:
+
+ "<li><ul>"Az arcalapú feloldás kevésbé biztonságos, mint a minta, a PIN kód vagy a jelszó
+
+ "<li>Aki hasonlít Önre, szintén feloldhatja a táblagép zárolását</li>"
+
+ "<li>Az arca azonosítására használt adatokat a rendszer titkosítva tárolja a táblagépen</li> </ul></li></string>
+    <string name="instructions_screen_body">" "<li><ul>"Keressen egy fedett helyet – ne túl világosat vagy túl sötétet
+
+ "<li>Tartsa a táblagépet szemmagasságban</li> </ul></li></string>
+    <string name="end_screen_body">A táblagép feloldásához kapcsolja be a képernyőt, majd nézzen a kamerába.</string>
+    <string name="end_screen_bullet_one_text">Táblagépe azonnal feloldja a zárolást, amint felismeri Önt</string>
+    <string name="add_to_setup_intro_screen_body">"Példák:
+
+ "<li><ul>"Különböző fényviszonyok között
+
+ "<li>Dioptriás szemüvegben vagy anélkül</li>"
+
+ "<li>Szakállasan vagy frissen borotválva</li>"
+
+ "</ul></li>"
+ Tartsa a táblagépet szemmagasságban"</string>
+</resources>

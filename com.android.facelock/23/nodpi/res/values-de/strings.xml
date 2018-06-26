@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Trusted Face</string>
+    <string name="trusted_face_service_app_name">Dienst \"Trusted Face\"</string>
+    <string name="receiver_app_name">Empfänger der \"Trusted Face\"-Übertragung</string>
+    <string name="setup_app_name">Trusted Face hinzufügen</string>
+    <string name="add_to_setup_app_name">Gesichtserkennung verbessern</string>
+    <string name="intro_screen_title">Über \"Trusted Face\"</string>
+    <string name="intro_screen_header">Entsperren Sie Ihr Smartphone, indem Sie es ansehen</string>
+    <string name="intro_screen_body">"Beachten Sie bitte Folgendes:
+
+ "<li><ul>"Die Gesichtserkennung ist nicht so sicher wie ein Muster, eine PIN oder ein Passwort.
+
+ "<li>Jemand, der Ihnen ähnlich sieht, könnte Ihr Smartphone entsperren.</li>"
+
+ "<li>Die zur Gesichtserkennung verwendeten Daten sind auf dem Smartphone nicht für andere zugänglich.</li></ul></li></string>
+    <string name="intro_screen_continue_label">Einrichten</string>
+    <string name="instructions_screen_title">Trusted Face hinzufügen</string>
+    <string name="instructions_screen_header">Für optimale Ergebnisse:</string>
+    <string name="instructions_screen_body">" "<li><ul>"Suchen Sie eine Stelle in einem Raum, die weder zu hell noch zu dunkel ist.
+
+ "<li>Halten Sie das Smartphone auf Augenhöhe.</li></ul></li></string>
+    <string name="instructions_screen_continue_label">Weiter</string>
+    <string name="enrollment_screen_message_initializing">Startvorgang...</string>
+    <string name="enrollment_screen_message_initialization_error">Die Gesichtssuche konnte nicht gestartet werden.</string>
+    <string name="enrollment_screen_message_camera_error">Die Kamera ist nicht verfügbar.</string>
+    <string name="enrollment_start_message">Ihr Gesicht sollte sich innerhalb des gepunkteten Bereichs befinden.</string>
+    <string name="enrollment_screen_message_instructions">Achten Sie darauf, dass die Spitze Ihres Kopfes und die Unterseite Ihres Kinns innerhalb des Kreises verbleiben.</string>
+    <string name="enrollment_screen_message_missing_landmarks">Augen, Nase und Mund sollten zu sehen sein.</string>
+    <string name="enrollment_screen_message_done">Gesicht hinzugefügt</string>
+    <string name="enrollment_screen_status_no_face">Zeigen Sie Ihr Gesicht.</string>
+    <string name="enrollment_screen_status_face_off_center">Ein Teil Ihres Gesichts ist nicht sichtbar.</string>
+    <string name="enrollment_screen_status_missing_landmarks">Ihre Gesichtszüge wurden nicht erkannt.</string>
+    <string name="enrollment_screen_continue_label">Weiter</string>
+    <string name="enrollment_screen_done_label">Fertig</string>
+    <string name="enrollment_screen_talkback_preview_description">Kameravorschau</string>
+    <string name="enrollment_screen_talkback_face_added">Gesicht hinzugefügt</string>
+    <string name="end_screen_title">Fertig!</string>
+    <string name="end_screen_body">Um Ihr Smartphone zu entsperren, aktivieren Sie einfach das Display und sehen Sie in die Kamera.</string>
+    <string name="end_screen_bullet_one_text">Das Smartphone wird entsperrt, sobald es Sie erkannt hat.</string>
+    <string name="end_screen_bullet_two_text">Falls Ihr Gesicht nicht erkannt wird, entsperren Sie das Gerät stattdessen mit Ihrem Muster, Ihrer PIN oder Ihrem Passwort.</string>
+    <string name="end_screen_tip_text">Tipp: Sie können die Gesichtserkennung verbessern, indem Sie Ihr Gesicht unter verschiedenen Bedingungen zeigen.</string>
+    <string name="end_screen_licenses_label">Lizenzen</string>
+    <string name="end_screen_continue_label">Fertig</string>
+    <string name="add_to_setup_intro_screen_title">Gesichtserkennung verbessern</string>
+    <string name="add_to_setup_intro_screen_header">Machen Sie verschiedene Bilder von sich</string>
+    <string name="add_to_setup_intro_screen_body">"Beispiele:
+
+ "<li><ul>"In verschiedenen Lichtverhältnissen
+
+ "<li>Mit oder ohne Brille</li>"
+
+ "<li>Mit Bart oder rasiert</li>"
+
+ "</ul></li>"
+Halten Sie das Smartphone auf Augenhöhe."</string>
+    <string name="add_to_setup_intro_screen_continue_label">Weiter</string>
+    <string name="license_screen_header">Open-Source-Hinweise</string>
+    <string name="license_screen_continue_label">OK</string>
+    <string name="shared_cancel_label">Abbrechen</string>
+</resources>

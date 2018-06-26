@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.android.setupwizardlib.SetupWizardLayout android:id="@id/setup_wizard_layout" android:layout_width="fill_parent" android:layout_height="fill_parent" setupwizard:suwHeaderText="@string/wait_msg"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:setupwizard="http://schemas.android.com/apk/res-auto">
+    <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <ProgressBar android:id="@id/progress_bar" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/progress_bar_margin_top" android:indeterminate="true" style="?android:attr/progressBarStyleHorizontal" />
+        <FrameLayout android:layout_width="fill_parent" android:layout_height="wrap_content" style="@style/SuwContentFrame">
+            <TextView android:id="@id/description_text" android:layout_width="fill_parent" android:layout_height="wrap_content" style="@style/SuwDescription" />
+        </FrameLayout>
+    </LinearLayout>
+</com.android.setupwizardlib.SetupWizardLayout>

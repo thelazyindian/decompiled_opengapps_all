@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Aurpegi fidagarria</string>
+    <string name="receiver_app_name">Aurpegi fidagarrien igorpen-hargailua</string>
+    <string name="setup_app_name">Gehitu aurpegi fidagarri bat</string>
+    <string name="enrollment_continue_label">Hurrengoa</string>
+    <string name="enrollment_done_label">Eginda</string>
+    <string name="enrollment_initializing">Lehen urratsak</string>
+    <string name="enrollment_start_message">Mantendu aurpegia puntudun eremuaren barruan</string>
+    <string name="gar_preview_description">Kameraren aurrebista</string>
+    <string name="error_no_face">Erakutsi aurpegia</string>
+    <string name="enrollment_missing_landmarks">Erakutsi begiak, sudurra eta ahoa</string>
+    <string name="enrollment_missing_landmarks_status">Ezin dira aurpegiaren ezaugarriak ikusi</string>
+    <string name="enrollment_off_center_status">Ezin da aurpegiaren zati bat ikusi</string>
+    <string name="gar_enrollment_face_added">Aurpegia gehitu da</string>
+    <string name="enrollment_done">Ados</string>
+    <string name="tutorial_app_name">Aurpegi fidagarriei buruz</string>
+    <string name="tutorial_header">Desblokeatzeko, begiratu telefonoari.</string>
+    <string name="tutorial_info_text">"Gogoan izan hauek:
+
+ "<li><ul>"Aurpegia hautemateko eginbidea ez da eredua, PIN kodea edo pasahitza bezain segurua.
+
+ "<li>Zure antza duen batek ere desblokea lezake telefonoa.</li>"
+
+ "<li>Aurpegia hautemateko erabilitako datuak telefonoko eremu pribatuan gordeta egongo dira.</li>"
+
+ "</ul></li></string>
+    <string name="tutorial_continue_label">Konfiguratu</string>
+    <string name="intro_header">Emaitza hobeak lortzeko:</string>
+    <string name="intro_info_text">" "<li><ul>"Bilatu barruko leku bat; ez dadila argiegia izan, ezta ilunegia ere.
+
+ "<li>Eutsi tabletari begien parean.</li>"
+
+ "</ul></li></string>
+    <string name="intro_continue_label">Hurrengoa</string>
+    <string name="endscreen_header">Dena prest!</string>
+    <string name="endscreen_info_text">Desblokeatu nahi duzunean, piztu pantaila eta erakutsi aurpegia kamerari.</string>
+    <string name="endscreen_bullet_one_text">Zu ezagutu bezain laster desblokeatuko da telefonoa.</string>
+    <string name="endscreen_bullet_two_text">Telefonoak aurpegia ikusita ezagutzen ez bazaitu, eredua, PIN kodea edo pasahitza erabilita desblokea dezakezu.</string>
+    <string name="endscreen_tip_text">Aholkua: hobetu aurpegia hautemateko eginbidea hainbat egoeratan zer itxura duzun erakutsita.</string>
+    <string name="endscreen_continue_label">Ados</string>
+    <string name="endscreen_license_label">Lizentziak</string>
+    <string name="addtosetup_app_name">Hobetu aurpegia hautemateko eginbidea</string>
+    <string name="addtosetup_header">Erakutsi zer itxura duzun hainbat egoeratan.</string>
+    <string name="addtosetup_info_text">"Adibidez,
+
+ "<li><ul>"argiztapen-baldintza desberdinetan,
+
+ "<li>betaurreko graduatuekin ala gabe,</li>"
+
+ "<li>bizarrarekin edo bizarra kenduta.</li>"
+
+ "</ul></li>"
+Eutsi tabletari begien parean."</string>
+    <string name="addtosetup_continue_label">Hurrengoa</string>
+    <string name="license_screen_header">Kode irekiaren oharrak</string>
+    <string name="license_screen_continue_label">Ados</string>
+    <string name="face_unlock_service_app_name">Aurpegiaren bidez desblokeatzeko zerbitzua</string>
+    <string name="trusted_face_service_app_name">Aurpegi fidagarrien zerbitzua</string>
+    <string name="service_face_not_found">Ezin izan da aurpegirik hauteman</string>
+    <string name="service_not_a_match">Ez zaitugu ezagutzen</string>
+    <string name="service_liveliness_start">Egin kliska</string>
+    <string name="service_liveliness_timeout">Ez dugu kliska ikusi</string>
+    <string name="service_low_ligthing">Argi gutxiegi dago</string>
+    <string name="shared_initialize_error">Ezin izan da hasi zure aurpegia bilatzen</string>
+    <string name="shared_camera_error">Kamera ez dago erabilgarri</string>
+    <string name="shared_read_gallery_error">Errepikatu konfigurazioa</string>
+    <string name="shared_cancel_label">Utzi</string>
+</resources>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Zaupanja vreden obraz</string>
+    <string name="trusted_face_service_app_name">Storitev zaupanja vrednega obraza</string>
+    <string name="receiver_app_name">Sprejemnik oddaje za zaupanja vreden obraz</string>
+    <string name="setup_app_name">Dodajte zaupanja vreden obraz</string>
+    <string name="add_to_setup_app_name">Izboljšano ujemanje obraza</string>
+    <string name="intro_screen_title">O zaupanja vrednem obrazu</string>
+    <string name="intro_screen_header">Odklenite telefon tako, da ga pogledate</string>
+    <string name="intro_screen_body">"Opomba:
+
+ "<li><ul>"Ujemanje obraza je manj varno od vzorca, kode PIN ali gesla
+
+ "<li>Telefon lahko odklene nekdo, ki vam je podoben</li>"
+
+ "<li>Podatki za prepoznavanje vašega obraza so v telefonu zasebni.</li> </ul></li></string>
+    <string name="intro_screen_continue_label">Nastavi</string>
+    <string name="instructions_screen_title">Dodajanje zaupanja vrednega obraza</string>
+    <string name="instructions_screen_header">Za najboljše rezultate:</string>
+    <string name="instructions_screen_body">" "<li><ul>"Poiščite mesto v zaprtem prostoru, ki ni ne presvetlo in ne pretemno
+
+ "<li>Držite telefon v višini oči</li> </ul></li></string>
+    <string name="instructions_screen_continue_label">Naprej</string>
+    <string name="enrollment_screen_message_initializing">Zagon ...</string>
+    <string name="enrollment_screen_message_initialization_error">Ni bilo mogoče začeti iskati vašega obraza</string>
+    <string name="enrollment_screen_message_camera_error">Fotoaparat ni na voljo</string>
+    <string name="enrollment_start_message">Obraz naj bo znotraj območja, označenega s pikami</string>
+    <string name="enrollment_screen_message_instructions">Poskrbite, da bosta vrh glave in dno brade v krogu</string>
+    <string name="enrollment_screen_message_missing_landmarks">Pokažite oči, nos in usta</string>
+    <string name="enrollment_screen_message_done">Obraz je dodan</string>
+    <string name="enrollment_screen_status_no_face">Pokažite svoj obraz</string>
+    <string name="enrollment_screen_status_face_off_center">Del obraza ni viden</string>
+    <string name="enrollment_screen_status_missing_landmarks">Vaših potez ni mogoče videti</string>
+    <string name="enrollment_screen_continue_label">Naprej</string>
+    <string name="enrollment_screen_done_label">Končano</string>
+    <string name="enrollment_screen_talkback_preview_description">Predogled fotoaparata</string>
+    <string name="enrollment_screen_talkback_face_added">Obraz je dodan</string>
+    <string name="end_screen_title">Končano.</string>
+    <string name="end_screen_body">Če želite odkleniti telefon, vklopite zaslon in poglejte v fotoaparat</string>
+    <string name="end_screen_bullet_one_text">Telefon se bo odklenil, takoj ko vas prepozna.</string>
+    <string name="end_screen_bullet_two_text">Če ne prepozna vašega obraza, napravo odklenite z vzorcem, kodo PIN ali geslom.</string>
+    <string name="end_screen_tip_text">Nasvet: izboljšajte prepoznavanje obraza tako, da pokažete, kako ste videti v različnih razmerah</string>
+    <string name="end_screen_licenses_label">Licence</string>
+    <string name="end_screen_continue_label">Končano</string>
+    <string name="add_to_setup_intro_screen_title">Izboljšano ujemanje obraza</string>
+    <string name="add_to_setup_intro_screen_header">Pokažite, kakšni ste v različnih okoliščinah</string>
+    <string name="add_to_setup_intro_screen_body">"Primeri:
+
+ "<li><ul>"Pri različni svetlobi
+
+ "<li>Z očali z dioptrijo ali brez njih</li>"
+
+ "<li>Z brado ali obriti</li>"
+
+ "</ul></li>"
+ Držite telefon v višini oči."</string>
+    <string name="add_to_setup_intro_screen_continue_label">Naprej</string>
+    <string name="license_screen_header">Odprtokodna obvestila</string>
+    <string name="license_screen_continue_label">V redu</string>
+    <string name="shared_cancel_label">Prekliči</string>
+</resources>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="shutdown_countdown_text">
+        <item quantity="other">Fiket për %d sekonda…</item>
+        <item quantity="one">Fiket për 1 sekondë…</item>
+    </plurals>
+    <plurals name="sim_missing_title">
+        <item quantity="other">Fut kartat SIM</item>
+        <item quantity="one">Fut kartën SIM</item>
+    </plurals>
+    <plurals name="sim_missing_text_tablet">
+        <item quantity="other">Nuk di si të veprosh? Kontrollo udhëzimet që ke marrë me tabletin tënd.</item>
+        <item quantity="one">Nuk di si të veprosh? Kontrollo udhëzimet që ke marrë me tabletin tënd.</item>
+    </plurals>
+    <plurals name="sim_missing_text_device">
+        <item quantity="other">Nuk di si të veprosh? Kontrollo udhëzimet që ke marrë me pajisjen tënde.</item>
+        <item quantity="one">Nuk di si të veprosh? Kontrollo udhëzimet që ke marrë me pajisjen tënde.</item>
+    </plurals>
+    <plurals name="sim_missing_text_default">
+        <item quantity="other">Nuk di si të veprosh? Kontrollo udhëzimet që ke marrë me telefonin tënd.</item>
+        <item quantity="one">Nuk di si të veprosh? Kontrollo udhëzimet që ke marrë me telefonin tënd.</item>
+    </plurals>
+    <plurals name="walled_garden_check_timeout_text">
+        <item quantity="other">Kjo mund të zgjasë deri në %d minuta</item>
+        <item quantity="one">Kjo mund të zgjasë deri në %d minutë</item>
+    </plurals>
+</resources>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="shutdown_countdown_text">
+        <item quantity="other">جارٍ إيقاف التشغيل في خلال %d ثانية...</item>
+        <item quantity="one">جارٍ إيقاف التشغيل في خلال ثانية واحدة...</item>
+    </plurals>
+    <plurals name="sim_missing_title">
+        <item quantity="other">‏إدخال بطاقتي SIM</item>
+        <item quantity="one">‏إدخال بطاقة SIM</item>
+    </plurals>
+    <plurals name="sim_missing_text_tablet">
+        <item quantity="other">‏لإدخال بطاقات SIM، اقرأ الإرشادات المرفقة مع جهازك اللوحي.</item>
+        <item quantity="one">‏لإدخال بطاقة SIM، اقرأ الإرشادات المرفقة مع جهازك اللوحي.</item>
+    </plurals>
+    <plurals name="sim_missing_text_device">
+        <item quantity="other">‏لإدخال بطاقات SIM، اقرأ الإرشادات المرفقة مع جهازك.</item>
+        <item quantity="one">‏لإدخال بطاقة SIM، اقرأ الإرشادات المرفقة مع جهازك.</item>
+    </plurals>
+    <plurals name="sim_missing_text_default">
+        <item quantity="other">‏لإدخال بطاقات SIM، اقرأ الإرشادات المرفقة مع هاتفك.</item>
+        <item quantity="one">‏لإدخال بطاقة SIM، اقرأ الإرشادات المرفقة مع هاتفك.</item>
+    </plurals>
+</resources>

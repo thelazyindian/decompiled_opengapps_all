@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="NNNtrackstolibrary">
+        <item quantity="other">У бібліотеку додано %d пісні.</item>
+        <item quantity="one">У бібліотеку додано %d пісню.</item>
+        <item quantity="few">У бібліотеку додано %d пісні.</item>
+        <item quantity="many">У бібліотеку додано %d пісень.</item>
+    </plurals>
+    <plurals name="Nsongs">
+        <item quantity="other">%d пісні</item>
+        <item quantity="one">%d пісня</item>
+        <item quantity="few">%d пісні</item>
+        <item quantity="many">%d пісень</item>
+    </plurals>
+</resources>

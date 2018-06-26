@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ယုံကြည်ရသော မျက်နှာ</string>
+    <string name="trusted_face_service_app_name">စိတ်ချရသော မျက်နှာသုံး ဝန်ဆောင်မှု</string>
+    <string name="receiver_app_name">ယုံကြည်ရသော မျက်နှာ ထုတ်လွှင့်မှု ဖမ်းစက်</string>
+    <string name="setup_app_name">စိတ်ချရသည့် မျက်နှာကို ထည့်ပေးရန်</string>
+    <string name="add_to_setup_app_name">မျက်နှာ တွဲဖက်နိုင်မှု တိုးတက်ကောင်းမွန်ရန်</string>
+    <string name="intro_screen_title">ယုံကြည်ရသော မျက်နှာအကြောင်း</string>
+    <string name="intro_screen_header">သင့်ဖုန်းကို ကြည့်ခြင်းအားဖြင့် သော့ဖွင့်ပါ</string>
+    <string name="intro_screen_body">"သတိပေးချက်:
+
+ "<li><ul>"မျက်နှာ ထပ်တူပြုခြင်းသည် ပုံစံဆွဲခြင်း၊ ပင်ကုဒ် သို့မဟုတ် စကားဝှက်ထက် လုံခြုံမှုအားနည်းပါသည်
+
+ "<li>သင်နှင့် ရုပ်ဆင်တူသည့် တစ်စုံတစ်ယောက်သည် ဖုန်းကို သော့ဖွင့်နိုင်ပါသည်</li>"
+
+ "<li>သင့်မျက်နှာကို မှတ်မိစေသည့် ဒေတာများကို ဖုန်းအတွင်း လုံခြုံစွာ သိမ်းဆည်းထားပါသည်</li> </ul></li></string>
+    <string name="intro_screen_continue_label">စဖွင့်သတ်မှတ်</string>
+    <string name="instructions_screen_title">စိတ်ချရသည့် မျက်နှာကို ထည့်ပေးရန်</string>
+    <string name="instructions_screen_header">အကောင်းဆုံး ရလဒ်များအတွက်:</string>
+    <string name="instructions_screen_body">" "<li><ul>"အရမ်းမလင်း အရမ်းမမှောင်သော နေရာကိုသင့်အခန်းတွင်းတွင် ရှာပါ
+
+ "<li>တပ်ဘလက်ကို မျက်လုံးနှင့် တစ်တန်းတည်းတွင် ကိုင်ပါ</li> </ul></li></string>
+    <string name="instructions_screen_continue_label">နောက်တစ်ခု</string>
+    <string name="enrollment_screen_message_initializing">စတင်ပါတော့မည်…</string>
+    <string name="enrollment_screen_message_initialization_error">သင့်မျက်နှာကို ရှာမတွေ့ပါ</string>
+    <string name="enrollment_screen_message_camera_error">ကင်မရာ မရှိပါ</string>
+    <string name="enrollment_start_message">အစက်ချထား နေရာ အတွင်းမှာ မျက်နှာကို ထားရှိပါ</string>
+    <string name="enrollment_screen_message_instructions">သင့်ဦးခေါင်းထိပ်ပိုင်းနှင့် မေးစေ့အောက်ပိုင်းကို စက်ဝိုင်းအတွင်း ထားပါ</string>
+    <string name="enrollment_screen_message_missing_landmarks">မျက်လုံးများ၊ နှာခေါင်း၊ နှင့် ပါးစပ်ကို ပြပါ</string>
+    <string name="enrollment_screen_message_done">မျက်နှာ ထည့်သွင်းပြီး</string>
+    <string name="enrollment_screen_status_no_face">သင်၏ မျက်နှာကို ပြပါ</string>
+    <string name="enrollment_screen_status_face_off_center">သင့် မျက်နှာ၏ အပိုင်းကို မမြင်နိုင်ပါ</string>
+    <string name="enrollment_screen_status_missing_landmarks">သင်၏ အင်္ဂါရပ်များကို မမြင်နိုင်ပါ</string>
+    <string name="enrollment_screen_continue_label">နောက်တစ်ခု</string>
+    <string name="enrollment_screen_done_label">ပြီးပါပြီ</string>
+    <string name="enrollment_screen_talkback_preview_description">ကင်မရာ အစမ်းကြည့်ခြင်း</string>
+    <string name="enrollment_screen_talkback_face_added">မျက်နှာ ထည့်သွင်းပြီး</string>
+    <string name="end_screen_title">အားလုံးကို သတ်မှတ်ပြီးပြီ!</string>
+    <string name="end_screen_body">သင့်ဖုန်းကို သော့ဖွင့်ရန်၊ မျက်နှာပြင်ကိုဖွင့်ပြီး ကင်မရာကို ကြည့်ပါ</string>
+    <string name="end_screen_bullet_one_text">သင့်ကိုမှတ်မိသည်နှင့် သင့်ဖုန်းသော့ပွင့်သွားပါမည်။</string>
+    <string name="end_screen_bullet_two_text">သင့်မျက်နှာကို မမှတ်မိလျှင်၊ ပုံစံဆွဲခြင်း၊ ပင်ကုဒ် သို့မဟုတ် စကားဝှက်ကို အသုံးပြု၍ သော့ဖွင့်ပါ</string>
+    <string name="end_screen_tip_text">အကြံပြုချက်− အခြ​​အနေအမျိုးမျိုးရှိ သင့်ပုံကို ပြပြီး မျက်နှာပြင် တွဲဖက်မှု ပိုကောင်းအောင်လုပ်ပါ။</string>
+    <string name="end_screen_licenses_label">လိုင်စင်များ</string>
+    <string name="end_screen_continue_label">ပြီးပါပြီ</string>
+    <string name="add_to_setup_intro_screen_title">မျက်နှာ တွဲဖက်နိုင်မှု တိုးတက်ကောင်းမွန်ရန်</string>
+    <string name="add_to_setup_intro_screen_header">အခြေအနေ အမျိုးမျိုးထဲမှာ သင်အား မြင်တွေ့ရပုံကို ပြသပေးထားပါ။</string>
+    <string name="add_to_setup_intro_screen_body">"ဥပမာ:
+
+ "<li><ul>"မတူညီသည့် အလင်းရောင်တွင်
+
+ "<li>ကြိုတင်သတ်မှတ်ထားသည့် မျက်မှန် ပါသည်ဖြစ်စေ သို့မဟုတ် မပါသည်ဖြစ်စေ</li>"
+
+ "<li>မှုတ်ဆိတ်နှင့် ဖြစ်စေ မှုတ်ဆိတ်ရိတ်ပြီး ဖြစ်စေ</li>"
+
+ "</ul></li>"
+ တပ်ဘလက်ကို သင့်မျက်လုံးနှင့် တစ်တန်းတည်းတွင် ကိုင်ပါ"</string>
+    <string name="add_to_setup_intro_screen_continue_label">နောက်တစ်ခု</string>
+    <string name="license_screen_header">အခမဲ့ ရင်းမြစ် အကြောင်းကြားချက်များ</string>
+    <string name="license_screen_continue_label">အိုကေ</string>
+    <string name="shared_cancel_label">ပယ်ဖျက်</string>
+</resources>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Güvənli Üz</string>
+    <string name="trusted_face_service_app_name">Güvənli Üz Xidməti</string>
+    <string name="receiver_app_name">Güvənli Üz Yayımı Qəbuledicisi</string>
+    <string name="setup_app_name">Güvənli üz əlavə edin</string>
+    <string name="add_to_setup_app_name">Üz uyğunluğunu təkmilləşdirin</string>
+    <string name="intro_screen_title">Güvənli üz haqqında</string>
+    <string name="intro_screen_header">Telefona baxaraq blok kilidini açın</string>
+    <string name="intro_screen_body">"Yadda saxlayın:
+
+ "<li><ul>"Üz uyğunluğu model, PIN kod və ya paroldan daha az güvənlidir.
+
+ "<li>Sizə oxşayan kimsə telefonunuzu kiliddən çıxara bilər.</li>"
+
+ "<li>Üzünüzü müəyyən etmək üçün data telefonda gizli saxlanılır</li> </ul></li></string>
+    <string name="intro_screen_continue_label">Quraşdırın</string>
+    <string name="instructions_screen_title">Güvənli üz əlavə edin</string>
+    <string name="instructions_screen_header">Ən yaxşı nəticələr üçün:</string>
+    <string name="instructions_screen_body">" "<li><ul>"İçəridə yer tapın—çox işıqlı və ya çox qaranlıq olmasın.
+
+ "<li>Planşeti göz səviyyəsində tutun</li> </ul></li></string>
+    <string name="instructions_screen_continue_label">Növbəti</string>
+    <string name="enrollment_screen_message_initializing">Başlayır...</string>
+    <string name="enrollment_screen_message_initialization_error">Üzünüzü tapmağa başlaya bilmədi</string>
+    <string name="enrollment_screen_message_camera_error">Kamera əlçatmazdır</string>
+    <string name="enrollment_start_message">Üzü nöqtəli sahədə saxlayın</string>
+    <string name="enrollment_screen_message_instructions">Başınız yuxarısı və çənənizin aşağısını dairə daxilində saxlayın</string>
+    <string name="enrollment_screen_message_missing_landmarks">Gözləri, burunu və ağzı göstərin</string>
+    <string name="enrollment_screen_message_done">Üz əlavə edildi</string>
+    <string name="enrollment_screen_status_no_face">Üzünüzü göstərin</string>
+    <string name="enrollment_screen_status_face_off_center">Üzünüzün bir hissəsini görmək olmur</string>
+    <string name="enrollment_screen_status_missing_landmarks">Özəlliklərinizi görmək olmur</string>
+    <string name="enrollment_screen_continue_label">Növbəti</string>
+    <string name="enrollment_screen_done_label">Hazırdır</string>
+    <string name="enrollment_screen_talkback_preview_description">Kamera önizləməsi</string>
+    <string name="enrollment_screen_talkback_face_added">Üz əlavə edildi</string>
+    <string name="end_screen_title">Tam hazır!</string>
+    <string name="end_screen_body">Telefonunuzu kiliddən çıxarmaq üçün sadəcə ekranı yandırın və kameraya baxın</string>
+    <string name="end_screen_bullet_one_text">Telefonunuz Sizi tanıyan kimi kiliddən çıxacaq</string>
+    <string name="end_screen_bullet_two_text">Üzünüz tanınmasa, nümunə kod, PIN kod və ya parol ilə kiliddən çıxarın</string>
+    <string name="end_screen_tip_text">İpucu: Müxtəlif istiqamətlərdən üzünüzü göstərməklə tanınmanı inkişaf etdirin və asanlaşdırın</string>
+    <string name="end_screen_licenses_label">Lisenziyalar</string>
+    <string name="end_screen_continue_label">Hazırdır</string>
+    <string name="add_to_setup_intro_screen_title">Üz uyğunluğunu təkmilləşdirin</string>
+    <string name="add_to_setup_intro_screen_header">Müxtəlif istiqamətlərdən özünüzü göstərin</string>
+    <string name="add_to_setup_intro_screen_body">"Nümunələr:
+
+"<li><ul>"Fərqli işıqlanmada
+
+ "<li>Eynəkli və ya eynəksiz</li>"
+
+"<li>Saqqallı və ya saqqalsız</li>"
+
+"</ul></li>"
+ Planşeti göz səviyyəsində tutun"</string>
+    <string name="add_to_setup_intro_screen_continue_label">Növbəti</string>
+    <string name="license_screen_header">Açıq Mənbə Bildirişləri</string>
+    <string name="license_screen_continue_label">Ok</string>
+    <string name="shared_cancel_label">Ləğv et</string>
+</resources>

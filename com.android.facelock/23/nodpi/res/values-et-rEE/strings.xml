@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Usaldusväärne nägu</string>
+    <string name="trusted_face_service_app_name">Teenus Usaldusväärne nägu</string>
+    <string name="receiver_app_name">Funktsiooni Usaldusväärne nägu ülekande vastuvõtja</string>
+    <string name="setup_app_name">Lisage usaldusväärne nägu</string>
+    <string name="add_to_setup_app_name">Näotuvastuse täiustamine</string>
+    <string name="intro_screen_title">Teave funktsiooni Usaldusväärne nägu kohta</string>
+    <string name="intro_screen_header">Avage telefon seda vaadates</string>
+    <string name="intro_screen_body">"Pidage meeles.
+
+ "<li><ul>"Näotuvastusega avamine ei ole nii turvaline kui muster, PIN-kood või parool
+
+ "<li>Teiega sarnane inimene võib teie telefoni avada</li>"
+
+ "<li>Teie näo tuvastamiseks kasutatavaid andmeid hoitakse telefonis privaatselt</li> </ul></li></string>
+    <string name="intro_screen_continue_label">Seadista</string>
+    <string name="instructions_screen_title">Lisage usaldusväärne nägu</string>
+    <string name="instructions_screen_header">Parimate tulemuste saavutamiseks:</string>
+    <string name="instructions_screen_body">" "<li><ul>"Leidke siseruumis koht, mis ei ole liiga valge ega liiga hämar
+
+ "<li>Hoidke telefoni silmade kõrgusel</li> </ul></li></string>
+    <string name="instructions_screen_continue_label">Järgmine</string>
+    <string name="enrollment_screen_message_initializing">Käivitamine ...</string>
+    <string name="enrollment_screen_message_initialization_error">Näo otsimist ei õnnestunud alustada</string>
+    <string name="enrollment_screen_message_camera_error">Kaamera ei ole saadaval</string>
+    <string name="enrollment_start_message">Hoidke nägu punktidega märgistatud alas</string>
+    <string name="enrollment_screen_message_instructions">Hoidke pealagi ja lõua alaosa ringi sees</string>
+    <string name="enrollment_screen_message_missing_landmarks">Näidake silmi, nina ja suud</string>
+    <string name="enrollment_screen_message_done">Nägu on lisatud</string>
+    <string name="enrollment_screen_status_no_face">Näidake oma nägu</string>
+    <string name="enrollment_screen_status_face_off_center">Ei näe tervet nägu</string>
+    <string name="enrollment_screen_status_missing_landmarks">Ei näe näojooni</string>
+    <string name="enrollment_screen_continue_label">Järgmine</string>
+    <string name="enrollment_screen_done_label">Valmis</string>
+    <string name="enrollment_screen_talkback_preview_description">Kaamera eelvaade</string>
+    <string name="enrollment_screen_talkback_face_added">Nägu on lisatud</string>
+    <string name="end_screen_title">Kõik on valmis</string>
+    <string name="end_screen_body">Telefoni avamiseks pöörake ekraani ja vaadake kaamerasse</string>
+    <string name="end_screen_bullet_one_text">Telefon avaneb kohe, kui teid ära tunneb</string>
+    <string name="end_screen_bullet_two_text">Kui teie nägu ei tuvastata, avage telefon mustri, PIN-koodi või parooliga</string>
+    <string name="end_screen_tip_text">Nõuanne. Näotuvastuse täiustamiseks näidake oma nägu erinevates oludes</string>
+    <string name="end_screen_licenses_label">Litsentsid</string>
+    <string name="end_screen_continue_label">Valmis</string>
+    <string name="add_to_setup_intro_screen_title">Näotuvastuse täiustamine</string>
+    <string name="add_to_setup_intro_screen_header">Näidake oma välimust erinevates tingimustes</string>
+    <string name="add_to_setup_intro_screen_body">"Näited.
+
+ "<li><ul>"Erinevates valgustingimustes
+
+ "<li>Prillidega või ilma</li>"
+
+ "<li>Habemega või raseeritult</li>"
+
+ "</ul></li>"
+ Hoidke telefoni silmade kõrgusel"</string>
+    <string name="add_to_setup_intro_screen_continue_label">Järgmine</string>
+    <string name="license_screen_header">Avatud lähtekoodi teatised</string>
+    <string name="license_screen_continue_label">OK</string>
+    <string name="shared_cancel_label">Tühista</string>
+</resources>

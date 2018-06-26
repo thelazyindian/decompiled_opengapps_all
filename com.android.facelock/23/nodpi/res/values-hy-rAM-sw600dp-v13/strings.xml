@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="intro_screen_header">Ապակողպեք գրասալիկը դրան նայելու միջոցով</string>
+    <string name="intro_screen_body">"Հիշեք.
+
+ "<li><ul>"Նախշով, PIN կոդով կամ գաղտնաբառով ապակողպումն ավելի անվտանգ է, քան դիմային ապակողպումը
+
+ "<li>Ձեզ նման անձը կարող է ապակողպել ձեր պլանշետը</li>"
+
+ "<li>Ձեր դեմքի նույնականացման տվյալները գաղտնի են պահվում պլանշետում</li> </ul></li></string>
+    <string name="instructions_screen_body">" "<li><ul>"Գտեք փակ տարածք՝ ոչ շատ լուսավոր և ոչ շատ մութ
+
+ "<li>Պահեք պլանշետը աչքերի բարձրությանը</li> </ul></li></string>
+    <string name="end_screen_body">Գրասալիկն ապակողպելու համար պարզապես միացրեք էկրանը և նայեք ֆոտոխցիկին</string>
+    <string name="end_screen_bullet_one_text">Գրասալիկը կապակողպվի, հենց որ այն ճանաչի ձեզ</string>
+    <string name="add_to_setup_intro_screen_body">"Օրինակներ.
+
+ "<li><ul>"Տարբեր լուսավորության պայմաններում
+
+ "<li>Ակնոցով կամ առանց դրա</li>"
+
+ "<li>Մորուքով կամ սափրված</li>"
+
+ "</ul></li>"
+ Պահեք պլանշետը աչքերի բարձրությանը"</string>
+</resources>

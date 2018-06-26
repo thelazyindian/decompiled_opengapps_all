@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="shutdown_countdown_text">
+        <item quantity="other">%d секундтан кейін өшіріледі…</item>
+        <item quantity="one">1 секундтан кейін өшіріледі…</item>
+    </plurals>
+    <plurals name="sim_missing_title">
+        <item quantity="other">SIM карталарын салу</item>
+        <item quantity="one">SIM картасын салу</item>
+    </plurals>
+    <plurals name="sim_missing_text_tablet">
+        <item quantity="other">Қалай екенін білмейсіз бе? Планшетпен бірге келген нұсқауларды қараңыз.</item>
+        <item quantity="one">Қалай екенін білмейсіз бе? Планшетпен бірге келген нұсқауларды қараңыз.</item>
+    </plurals>
+    <plurals name="sim_missing_text_device">
+        <item quantity="other">Қалай екенін білмейсіз бе? Құрылғымен бірге келген нұсқауларды қараңыз.</item>
+        <item quantity="one">Қалай екенін білмейсіз бе? Құрылғымен бірге келген нұсқауларды қараңыз.</item>
+    </plurals>
+    <plurals name="sim_missing_text_default">
+        <item quantity="other">Қалай екенін білмейсіз бе? Телефонмен бірге берілген нұсқауларды қараңыз.</item>
+        <item quantity="one">Қалай екенін білмейсіз бе? Телефонмен бірге берілген нұсқауларды қараңыз.</item>
+    </plurals>
+    <plurals name="walled_garden_check_timeout_text">
+        <item quantity="other">Бұл %d минутқа дейін алуы мүмкін</item>
+        <item quantity="one">Бұл %d минутқа дейін алуы мүмкін</item>
+    </plurals>
+</resources>

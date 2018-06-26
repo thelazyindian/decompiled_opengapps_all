@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="shutdown_countdown_text">
+        <item quantity="other">Выключэнне праз %d секунды…</item>
+        <item quantity="one">Выключэнне праз %d секунду…</item>
+        <item quantity="few">Выключэнне праз %d секунды…</item>
+        <item quantity="many">Выключэнне праз %d секунд…</item>
+    </plurals>
+    <plurals name="account_exists_text_multiple">
+        <item quantity="other">"Наступныя ўліковыя запісы гатовыя: 
+
+"&lt;annotation textAppearance="TextAppearance.SuwDescription.Medium">^1&lt;/annotation></item>
+        <item quantity="one">"Наступныя ўліковыя запісы гатовыя: 
+
+"&lt;annotation textAppearance="TextAppearance.SuwDescription.Medium">^1&lt;/annotation></item>
+        <item quantity="few">"Наступныя ўліковыя запісы гатовыя: 
+
+"&lt;annotation textAppearance="TextAppearance.SuwDescription.Medium">^1&lt;/annotation></item>
+        <item quantity="many">"Наступныя ўліковыя запісы гатовыя: 
+
+"&lt;annotation textAppearance="TextAppearance.SuwDescription.Medium">^1&lt;/annotation></item>
+    </plurals>
+    <plurals name="qr_provision_toast">
+        <item quantity="other">Дакраніцеся яшчэ %d разу, каб пачаць наладжванне праграмы чытання QR-кодаў</item>
+        <item quantity="one">Дакраніцеся яшчэ %d раз, каб пачаць наладжванне праграмы чытання QR-кодаў</item>
+        <item quantity="few">Дакраніцеся яшчэ %d разы, каб пачаць наладжванне праграмы чытання QR-кодаў</item>
+        <item quantity="many">Дакраніцеся яшчэ %d разоў, каб пачаць наладжванне праграмы чытання QR-кодаў</item>
+    </plurals>
+</resources>

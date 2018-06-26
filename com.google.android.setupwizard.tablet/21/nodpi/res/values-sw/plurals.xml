@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="shutdown_countdown_text">
+        <item quantity="other">Inazima baada ya sekunde %d...</item>
+        <item quantity="one">Inazima kati ya sekunde 1...</item>
+    </plurals>
+    <plurals name="sim_missing_title">
+        <item quantity="other">Weka SIM kadi</item>
+        <item quantity="one">Weka SIM kadi</item>
+    </plurals>
+    <plurals name="sim_missing_text_tablet">
+        <item quantity="other">Ili uweke SIM kadi zako, soma maagizo yaliyokuja na kompyuta kibao yako.</item>
+        <item quantity="one">Ili uweke SIM kadi yako, soma maagizo yaliyokuja na kompyuta kibao yako.</item>
+    </plurals>
+    <plurals name="sim_missing_text_device">
+        <item quantity="other">Ili uingize SIM kadi zako, soma maagizo yaliyokuja na kifaa chako.</item>
+        <item quantity="one">Ili uweke SIM kadi yako, soma maagizo yaliyokuja na kifaa chako.</item>
+    </plurals>
+    <plurals name="sim_missing_text_default">
+        <item quantity="other">Ili uweke SIM kadi zako, soma maagizo yaliyokuja na simu yako.</item>
+        <item quantity="one">Ili uweke SIM kadi yako, soma maagizo yaliyokuja na simu yako.</item>
+    </plurals>
+</resources>

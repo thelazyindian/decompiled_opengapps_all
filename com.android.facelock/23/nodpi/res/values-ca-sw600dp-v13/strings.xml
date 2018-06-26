@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="intro_screen_header">Per desbloquejar la tauleta, mira-la</string>
+    <string name="intro_screen_body">"Recordatori:
+
+ "<li><ul>"El reconeixement facial és menys segur que un patró, un PIN o una contrasenya
+
+ "<li>"Una persona que s'assembli a tu podria desbloquejar-te la tauleta"</li>"
+
+ "<li>"Les dades que s'han fet servir per reconèixer la teva cara es desen de manera privada a la teva tauleta"</li> </ul></li></string>
+    <string name="instructions_screen_body">" "<li><ul>"Cerca un lloc interior que no estigui massa il·luminat i que no sigui massa fosc
+
+ "<li>Col·loca la tauleta al nivell dels ulls</li> </ul></li></string>
+    <string name="end_screen_body">"Per desbloquejar la tauleta, només has d'engegar la pantalla i mirar a la càmera"</string>
+    <string name="end_screen_bullet_one_text">La tauleta es desbloquejarà tan bon punt et reconegui</string>
+    <string name="add_to_setup_intro_screen_body">"Exemples:
+
+ "<li><ul>"En condicions d'il·luminació diferents
+
+ "<li>Amb o sense ulleres de vista</li>"
+
+ "<li>Amb barba o afaitat</li>"
+
+ "</ul></li>"
+ Col·loca la tauleta al nivell dels ulls"</string>
+</resources>

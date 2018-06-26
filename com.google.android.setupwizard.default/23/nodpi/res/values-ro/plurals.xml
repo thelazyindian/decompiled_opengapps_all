@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="shutdown_countdown_text">
+        <item quantity="other">Se închide în %d de secunde…</item>
+        <item quantity="one">Se închide într-o secundă...</item>
+        <item quantity="few">Se închide în %d secunde…</item>
+    </plurals>
+    <plurals name="sim_missing_title">
+        <item quantity="other">Introduceți cardurile SIM</item>
+        <item quantity="one">Introduceți cardul SIM</item>
+        <item quantity="few">Introduceți cardurile SIM</item>
+    </plurals>
+    <plurals name="sim_missing_text_tablet">
+        <item quantity="other">Nu știți sigur cum? Consultați instrucțiunile primite împreună cu tableta.</item>
+        <item quantity="one">Nu știți sigur cum? Consultați instrucțiunile primite împreună cu tableta.</item>
+        <item quantity="few">Nu știți sigur cum? Consultați instrucțiunile primite împreună cu tableta.</item>
+    </plurals>
+    <plurals name="sim_missing_text_device">
+        <item quantity="other">Nu știți sigur cum? Consultați instrucțiunile primite împreună cu dispozitivul.</item>
+        <item quantity="one">Nu știți sigur cum? Consultați instrucțiunile primite împreună cu dispozitivul.</item>
+        <item quantity="few">Nu știți sigur cum? Consultați instrucțiunile primite împreună cu dispozitivul.</item>
+    </plurals>
+    <plurals name="sim_missing_text_default">
+        <item quantity="other">Nu știți sigur cum? Consultați instrucțiunile primite împreună cu telefonul.</item>
+        <item quantity="one">Nu știți sigur cum? Consultați instrucțiunile primite împreună cu telefonul.</item>
+        <item quantity="few">Nu știți sigur cum? Consultați instrucțiunile primite împreună cu telefonul.</item>
+    </plurals>
+    <plurals name="walled_garden_check_timeout_text">
+        <item quantity="other">Poate dura maximum %d de minute</item>
+        <item quantity="one">Poate dura maximum %d minut</item>
+        <item quantity="few">Poate dura maximum %d minute</item>
+    </plurals>
+</resources>

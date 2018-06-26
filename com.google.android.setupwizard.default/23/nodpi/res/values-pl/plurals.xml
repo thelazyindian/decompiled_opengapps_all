@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="shutdown_countdown_text">
+        <item quantity="other">Wyłączenie za %d sekundy…</item>
+        <item quantity="one">Wyłączenie za sekundę…</item>
+        <item quantity="few">Wyłączenie za %d sekundy…</item>
+        <item quantity="many">Wyłączenie za %d sekund…</item>
+    </plurals>
+    <plurals name="sim_missing_title">
+        <item quantity="other">Włóż karty SIM</item>
+        <item quantity="one">Włóż kartę SIM</item>
+        <item quantity="few">Włóż karty SIM</item>
+        <item quantity="many">Włóż karty SIM</item>
+    </plurals>
+    <plurals name="sim_missing_text_tablet">
+        <item quantity="other">Nie wiesz jak? Przeczytaj instrukcję dołączoną do tabletu.</item>
+        <item quantity="one">Nie wiesz jak? Przeczytaj instrukcję dołączoną do tabletu.</item>
+        <item quantity="few">Nie wiesz jak? Przeczytaj instrukcję dołączoną do tabletu.</item>
+        <item quantity="many">Nie wiesz jak? Przeczytaj instrukcję dołączoną do tabletu.</item>
+    </plurals>
+    <plurals name="sim_missing_text_device">
+        <item quantity="other">Nie wiesz jak? Przeczytaj instrukcję dołączoną do urządzenia.</item>
+        <item quantity="one">Nie wiesz jak? Przeczytaj instrukcję dołączoną do urządzenia.</item>
+        <item quantity="few">Nie wiesz jak? Przeczytaj instrukcję dołączoną do urządzenia.</item>
+        <item quantity="many">Nie wiesz jak? Przeczytaj instrukcję dołączoną do urządzenia.</item>
+    </plurals>
+    <plurals name="sim_missing_text_default">
+        <item quantity="other">Nie wiesz jak? Przeczytaj instrukcję dołączoną do telefonu.</item>
+        <item quantity="one">Nie wiesz jak? Przeczytaj instrukcję dołączoną do telefonu.</item>
+        <item quantity="few">Nie wiesz jak? Przeczytaj instrukcję dołączoną do telefonu.</item>
+        <item quantity="many">Nie wiesz jak? Przeczytaj instrukcję dołączoną do telefonu.</item>
+    </plurals>
+    <plurals name="walled_garden_check_timeout_text">
+        <item quantity="other">Może to potrwać do %d minuty</item>
+        <item quantity="one">Może to potrwać do %d minuty</item>
+        <item quantity="few">Może to potrwać do %d minut</item>
+        <item quantity="many">Może to potrwać do %d minut</item>
+    </plurals>
+</resources>

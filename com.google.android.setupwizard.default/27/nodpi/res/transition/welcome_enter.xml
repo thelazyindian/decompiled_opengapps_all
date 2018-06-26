@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<transitionSet
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <fade android:duration="1267" android:startDelay="2700">
+        <targets>
+            <target android:targetClass="android.widget.Button" />
+            <target android:targetId="@id/welcome_title" />
+        </targets>
+    </fade>
+</transitionSet>

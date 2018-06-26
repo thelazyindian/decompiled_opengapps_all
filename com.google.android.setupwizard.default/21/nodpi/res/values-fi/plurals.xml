@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="shutdown_countdown_text">
+        <item quantity="other">Sammutetaan %d sek kuluttua...</item>
+        <item quantity="one">Sammutetaan 1 sek kuluttua...</item>
+    </plurals>
+    <plurals name="sim_missing_title">
+        <item quantity="other">Asenna SIM-kortit</item>
+        <item quantity="one">SIM-kortin asettaminen</item>
+    </plurals>
+    <plurals name="sim_missing_text_tablet">
+        <item quantity="other">Aseta SIM-kortit tablet-laitteesi mukana tulleiden ohjeiden mukaan.</item>
+        <item quantity="one">Aseta SIM-kortti tablet-laitteesi mukana tulleiden ohjeiden mukaan.</item>
+    </plurals>
+    <plurals name="sim_missing_text_device">
+        <item quantity="other">Aseta SIM-kortit laitteesi mukana tulleiden ohjeiden mukaan.</item>
+        <item quantity="one">Aseta SIM-kortti laitteesi mukana tulleiden ohjeiden mukaan.</item>
+    </plurals>
+    <plurals name="sim_missing_text_default">
+        <item quantity="other">Aseta SIM-kortit puhelimesi mukana tulleiden ohjeiden mukaan.</item>
+        <item quantity="one">Aseta SIM-kortti puhelimesi mukana tulleiden ohjeiden mukaan.</item>
+    </plurals>
+</resources>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="intro_screen_header">Lås upp surfplattan genom att titta på den</string>
+    <string name="intro_screen_body">"Kom ihåg:
+
+ "<li><ul>"Ansiktsmatchningen är inte lika säker som mönster, pinkoder och lösenord
+
+ "<li>Någon som är lik dig kan låsa upp surfplattan</li>"
+
+ "<li>Den data som används för att känna igen ditt ansikte är privat och finns på din surfplatta</li> </ul></li></string>
+    <string name="instructions_screen_body">" "<li><ul>"Hitta en plats inomhus med lagom belysning – varken för ljus eller för mörk
+
+ "<li>Håll surfplattan i ögonhöjd</li> </ul></li></string>
+    <string name="end_screen_body">Om du vill låsa upp surfplattan aktiverar du skärmen och tittar på kameran</string>
+    <string name="end_screen_bullet_one_text">När surfplattan känner igen ditt ansikte låses den upp</string>
+    <string name="add_to_setup_intro_screen_body">"Exempel:
+
+ "<li><ul>"I olika belysning
+
+ "<li>Med eller utan glasögon</li>"
+
+ "<li>Med eller utan skägg</li>"
+
+ "</ul></li>"
+ Håll surfplattan i ögonhöjd"</string>
+</resources>

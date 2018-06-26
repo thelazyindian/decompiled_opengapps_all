@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">विश्वसनीय चेहरा</string>
+    <string name="receiver_app_name">विश्वसनीय चेहरा प्रसारण प्राप्तकर्ता</string>
+    <string name="setup_app_name">एक विश्वसनीय चेहरा जोडा</string>
+    <string name="enrollment_continue_label">पुढील</string>
+    <string name="enrollment_done_label">पूर्ण झाले</string>
+    <string name="enrollment_initializing">प्रारंभ करत आहे...</string>
+    <string name="enrollment_start_message">ठिपके असलेल्या क्षेत्रात चेहरा ठेवा</string>
+    <string name="gar_preview_description">कॅमेरा पूर्वावलोकन</string>
+    <string name="error_no_face">आपला चेहरा दर्शवा</string>
+    <string name="enrollment_missing_landmarks">डोळे, नाक आणि तोंड दर्शवा</string>
+    <string name="enrollment_missing_landmarks_status">आपली वैशिष्ट्ये पाहू शकत नाही</string>
+    <string name="enrollment_off_center_status">आपल्या चेहर्‍याचा भाग पाहू शकत नाही</string>
+    <string name="gar_enrollment_face_added">चेहरा जोडला</string>
+    <string name="enrollment_done">सापडले</string>
+    <string name="tutorial_app_name">विश्वसनीय चेहर्‍याविषयी</string>
+    <string name="tutorial_header">आपला फोन अनलॉक करण्यासाठी त्याच्याकडे पहा.</string>
+    <string name="tutorial_info_text">"या गोष्टी लक्षात ठेवा:
+
+ "<li><ul>"चेहरा जुळणी ही एका नमुन्यापेक्षा, पिन पेक्षा किंवा संकेतशब्दापेक्षा कमी सुरक्षित आहे.
+
+ "<li>आपल्या समान दिसणारी एखादी व्यक्ती आपला फोन अनलॉक करू शकते.</li>"
+
+ "<li>आपला चेहरा ओळखण्यासाठी वापरला जाणारा डेटा फोनवर खाजगी ठेवला जातो.</li>"
+
+ "</ul></li></string>
+    <string name="tutorial_continue_label">सेट अप</string>
+    <string name="intro_header">उत्कृष्ट परिणामांसाठी:</string>
+    <string name="intro_info_text">" "<li><ul>"घरातील एक स्थान शोधा—खूप प्रकाशमान किंवा खूप मंद प्रकाश नसलेले.
+
+ "<li>फोन डोळ्याच्या स्तरावर धरुन ठेवा.</li>"
+
+ "</ul></li></string>
+    <string name="intro_continue_label">पुढील</string>
+    <string name="endscreen_header">सर्व सेट झाले!</string>
+    <string name="endscreen_info_text">आपण अनलॉक करू इच्छिता, तेव्हा फक्त आपली स्क्रीन चालू करा आणि कॅमेर्‍याला आपला चेहरा दर्शवा.</string>
+    <string name="endscreen_bullet_one_text">आपल्या फोनने आपल्याला ओळखताच तो अनलॉक होतो.</string>
+    <string name="endscreen_bullet_two_text">आपला फोन आपला चेहरा ओळखत नसल्यास, आपण आपल्या नमुना, पिन किंवा संकेतशब्दासह अनलॉक करू शकता.</string>
+    <string name="endscreen_tip_text">टीप: आपण भिन्न परिस्थितींमध्ये कसे दिसता हे दर्शवून आपला चेहरा जुळणी सुधारित करा.</string>
+    <string name="endscreen_continue_label">ठीक आहे</string>
+    <string name="endscreen_license_label">परवाने</string>
+    <string name="addtosetup_app_name">चेहरा जुळविणे सुधारा</string>
+    <string name="addtosetup_header">भिन्न परिस्थितीत आपण कसे दिसता हे दर्शवा.</string>
+    <string name="addtosetup_info_text">"उदाहरणे:
+
+ "<li><ul>"भिन्न प्रकाशामध्ये
+
+ "<li>चिकित्सकीय चष्म्यासह किंवा त्याशिवाय</li>"
+
+ "<li>दाढी असलेला किंवा हजामत केलेला</li>"
+
+ "</ul></li>"
+टॅब्लेट डोळ्याच्या स्तरावर धरुन ठेवा."</string>
+    <string name="addtosetup_continue_label">पुढील</string>
+    <string name="license_screen_header">मुक्त स्रोत सूचना</string>
+    <string name="license_screen_continue_label">ठीक आहे</string>
+    <string name="face_unlock_service_app_name">चेहरा अनलॉक सेवा</string>
+    <string name="trusted_face_service_app_name">विश्वसनीय चेहरा सेवा</string>
+    <string name="service_face_not_found">चेहरा शोधणे शक्य झाले नाही</string>
+    <string name="service_not_a_match">क्षमस्व, आपल्याला ओळखत नाही</string>
+    <string name="service_liveliness_start">आता पापण्यांची उघडझाप करा</string>
+    <string name="service_liveliness_timeout">आपल्या पापण्यांची उघडझाप कॅच झाली नाही</string>
+    <string name="service_low_ligthing">प्रकाश खूप कमी आहे</string>
+    <string name="shared_initialize_error">आपला चेहरा शोधणे प्रारंभ करू शकले नाही</string>
+    <string name="shared_camera_error">कॅमेरा उपलब्ध नाही</string>
+    <string name="shared_read_gallery_error">कृपया सेटअप पुन्हा करा</string>
+    <string name="shared_cancel_label">रद्द करा</string>
+</resources>

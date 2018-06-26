@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="shutdown_countdown_text">
+        <item quantity="other">Կանջատվի %d վայրկյանից…</item>
+        <item quantity="one">Կանջատվի %d վայրկյանից…</item>
+    </plurals>
+    <plurals name="sim_missing_title">
+        <item quantity="other">Տեղադրեք SIM քարտերը</item>
+        <item quantity="one">Տեղադրեք SIM քարտերը</item>
+    </plurals>
+    <plurals name="sim_missing_text_tablet">
+        <item quantity="other">Չգիտե՞ք ինչպես: Ծանոթացեք պլանշետի հետ տրամադրված հրահանգներին:</item>
+        <item quantity="one">Չգիտե՞ք ինչպես: Ծանոթացեք պլանշետի հետ տրամադրված հրահանգներին:</item>
+    </plurals>
+    <plurals name="sim_missing_text_device">
+        <item quantity="other">Չգիտե՞ք ինչպես: Ծանոթացեք սարքի հետ տրամադրված հրահանգներին:</item>
+        <item quantity="one">Չգիտե՞ք ինչպես: Ծանոթացեք սարքի հետ տրամադրված հրահանգներին:</item>
+    </plurals>
+    <plurals name="sim_missing_text_default">
+        <item quantity="other">Չգիտե՞ք ինչպես: Ծանոթացեք հեռախոսի հետ տրամադրված հրահանգներին:</item>
+        <item quantity="one">Չգիտե՞ք ինչպես: Ծանոթացեք հեռախոսի հետ տրամադրված հրահանգներին:</item>
+    </plurals>
+    <plurals name="walled_garden_check_timeout_text">
+        <item quantity="other">Սա կարող է տևել մինչև %d րոպե</item>
+        <item quantity="one">Սա կարող է տևել մինչև %d րոպե</item>
+    </plurals>
+</resources>

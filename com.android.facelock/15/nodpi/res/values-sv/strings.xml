@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Trusted Face</string>
+    <string name="receiver_app_name">Sändningsmottagare för Trusted Face</string>
+    <string name="setup_app_name">Lägg till ett betrott ansikte</string>
+    <string name="enrollment_continue_label">Nästa</string>
+    <string name="enrollment_done_label">Klar</string>
+    <string name="enrollment_initializing">Startar ...</string>
+    <string name="enrollment_start_message">Håll ansiktet innanför det streckade området</string>
+    <string name="gar_preview_description">Förhandsgranska i kameran</string>
+    <string name="error_no_face">Visa ditt ansikte</string>
+    <string name="enrollment_missing_landmarks">Visa ögon, näsa och mun</string>
+    <string name="enrollment_missing_landmarks_status">Det går inte att läsa av ditt ansikte</string>
+    <string name="enrollment_off_center_status">Det går inte att se hela ditt ansikte</string>
+    <string name="gar_enrollment_face_added">Ansiktet har lagts till</string>
+    <string name="enrollment_done">OK</string>
+    <string name="tutorial_app_name">Om betrodda ansikten</string>
+    <string name="tutorial_header">Lås upp mobilen genom att titta på den.</string>
+    <string name="tutorial_info_text">"Ha dessa saker i åtanke:
+
+ "<li><ul>"Ansiktsigenkänning är inte lika säkert som ett mönster, en pinkod eller ett lösenord.
+
+ "<li>Någon som liknar dig skulle kunna låsa upp telefonen.</li>"
+
+ "<li>Den data som används för att känna igen ditt ansikte hålls i säkert förvar på telefonen.</li>"
+
+ "</ul></li></string>
+    <string name="tutorial_continue_label">Konfigurera</string>
+    <string name="intro_header">För bästa resultat:</string>
+    <string name="intro_info_text">" "<li><ul>"Hitta en plats inomhus med lagom belysning, inte för ljust eller för mörkt.
+
+ "<li>Håll mobilen i ögonhöjd.</li>"
+
+ "</ul></li></string>
+    <string name="intro_continue_label">Nästa</string>
+    <string name="endscreen_header">Klart!</string>
+    <string name="endscreen_info_text">När du vill låsa upp den startar du bara skärmen och visar ansiktet för kameran.</string>
+    <string name="endscreen_bullet_one_text">Mobilen låses upp så snart du har identifierats.</string>
+    <string name="endscreen_bullet_two_text">Om ditt ansikte inte kan identifieras kan du låsa upp mobilen med ditt mönster, pinkoden eller lösenordet.</string>
+    <string name="endscreen_tip_text">Tips: Förbättra ansiktsmatchningen genom att visa hur du ser ut under olika omständigheter.</string>
+    <string name="endscreen_continue_label">OK</string>
+    <string name="endscreen_license_label">Licenser</string>
+    <string name="addtosetup_app_name">Förbättra ansiktsmatchningen</string>
+    <string name="addtosetup_header">Visa hur du ser ut under olika betingelser.</string>
+    <string name="addtosetup_info_text">"Exempel:
+
+ "<li><ul>"I olika belysning
+
+ "<li>Med eller utan glasögon</li>"
+
+ "<li>Med eller utan skägg</li>"
+
+ "</ul></li>"
+Håll mobilen i ögonhöjd."</string>
+    <string name="addtosetup_continue_label">Nästa</string>
+    <string name="license_screen_header">Meddelanden om öppen källkod</string>
+    <string name="license_screen_continue_label">OK</string>
+    <string name="face_unlock_service_app_name">Tjänsten Ansiktslås</string>
+    <string name="trusted_face_service_app_name">Trusted Face-tjänsten</string>
+    <string name="service_face_not_found">Det gick inte att hitta något ansikte</string>
+    <string name="service_not_a_match">Du ser tyvärr inte bekant ut</string>
+    <string name="service_liveliness_start">Blinka nu</string>
+    <string name="service_liveliness_timeout">Missade blinkningen</string>
+    <string name="service_low_ligthing">Ljusstyrkan är för dålig</string>
+    <string name="shared_initialize_error">Det gick inte att börja leta efter ditt ansikte</string>
+    <string name="shared_camera_error">Kameran är inte tillgänglig</string>
+    <string name="shared_read_gallery_error">Försök igen</string>
+    <string name="shared_cancel_label">Avbryt</string>
+</resources>

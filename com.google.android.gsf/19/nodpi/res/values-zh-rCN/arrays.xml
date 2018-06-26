@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="passwordStrength">
+        <item>弱</item>
+        <item>中</item>
+        <item>强</item>
+        <item>强</item>
+    </string-array>
+</resources>

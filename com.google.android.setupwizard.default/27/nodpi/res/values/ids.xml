@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="suw_original_weight" />
+    <item type="id" name="item_touch_helper_previous_elevation" />
+    <item type="id" name="home" />
+    <item type="id" name="up" />
+    <item type="id" name="action_bar_spinner" />
+    <item type="id" name="action_bar_activity_content" />
+    <item type="id" name="split_action_bar" />
+    <item type="id" name="action_menu_divider" />
+    <item type="id" name="action_menu_presenter" />
+    <item type="id" name="progress_circular" />
+    <item type="id" name="progress_horizontal" />
+    <item type="id" name="wifi_item" />
+    <item type="id" name="suggested_item" />
+    <item type="id" name="next_button" />
+    <item type="id" name="skip_button" />
+    <item type="id" name="reset_button" />
+    <item type="id" name="continue_button" />
+    <item type="id" name="final_hold_animation_view" />
+    <item type="id" name="action_bar_title">false</item>
+    <item type="id" name="action_bar_subtitle">false</item>
+    <item type="id" name="action_mode_close_button">false</item>
+    <item type="id" name="activity_chooser_view_content">false</item>
+    <item type="id" name="expand_activities_button">false</item>
+    <item type="id" name="image">false</item>
+    <item type="id" name="default_activity_button">false</item>
+    <item type="id" name="list_item">false</item>
+    <item type="id" name="icon">false</item>
+    <item type="id" name="title">false</item>
+    <item type="id" name="buttonPanel">false</item>
+    <item type="id" name="spacer">false</item>
+    <item type="id" name="parentPanel">false</item>
+    <item type="id" name="contentPanel">false</item>
+    <item type="id" name="scrollIndicatorUp">false</item>
+    <item type="id" name="scrollView">false</item>
+    <item type="id" name="textSpacerNoTitle">false</item>
+    <item type="id" name="textSpacerNoButtons">false</item>
+    <item type="id" name="scrollIndicatorDown">false</item>
+    <item type="id" name="customPanel">false</item>
+    <item type="id" name="custom">false</item>
+    <item type="id" name="topPanel">false</item>
+    <item type="id" name="title_template">false</item>
+    <item type="id" name="alertTitle">false</item>
+    <item type="id" name="titleDividerNoCustom">false</item>
+    <item type="id" name="expanded_menu">false</item>
+    <item type="id" name="checkbox">false</item>
+    <item type="id" name="shortcut">false</item>
+    <item type="id" name="radio">false</item>
+    <item type="id" name="submenuarrow">false</item>
+    <item type="id" name="action_bar_root">false</item>
+    <item type="id" name="action_mode_bar_stub">false</item>
+    <item type="id" name="action_mode_bar">false</item>
+    <item type="id" name="decor_content_parent">false</item>
+    <item type="id" name="action_bar_container">false</item>
+    <item type="id" name="action_bar">false</item>
+    <item type="id" name="action_context_bar">false</item>
+    <item type="id" name="edit_query">false</item>
+    <item type="id" name="search_bar">false</item>
+    <item type="id" name="search_badge">false</item>
+    <item type="id" name="search_button">false</item>
+    <item type="id" name="search_edit_frame">false</item>
+    <item type="id" name="search_mag_icon">false</item>
+    <item type="id" name="search_plate">false</item>
+    <item type="id" name="search_src_text">false</item>
+    <item type="id" name="search_close_btn">false</item>
+    <item type="id" name="submit_area">false</item>
+    <item type="id" name="search_go_btn">false</item>
+    <item type="id" name="search_voice_btn">false</item>
+    <item type="id" name="select_dialog_listview">false</item>
+    <item type="id" name="friction_icon">false</item>
+    <item type="id" name="setup_wizard_layout">false</item>
+    <item type="id" name="account_exists_description">false</item>
+    <item type="id" name="time_zone_picker">false</item>
+    <item type="id" name="date_text_view_container">false</item>
+    <item type="id" name="date_text_view_label">false</item>
+    <item type="id" name="date_text_view">false</item>
+    <item type="id" name="time_text_view_container">false</item>
+    <item type="id" name="time_text_view_label">false</item>
+    <item type="id" name="time_text_view">false</item>
+    <item type="id" name="closing_message">false</item>
+    <item type="id" name="deferred_setup_closing_offer_container">false</item>
+    <item type="id" name="closing_support_button">false</item>
+    <item type="id" name="closing_next_button">false</item>
+    <item type="id" name="deferred_snooze_item">false</item>
+    <item type="id" name="welcome_message">false</item>
+    <item type="id" name="welcome_cancel_button">false</item>
+    <item type="id" name="welcome_next_button">false</item>
+    <item type="id" name="device_owner_description">false</item>
+    <item type="id" name="esim_intro_description">false</item>
+    <item type="id" name="background">false</item>
+    <item type="id" name="footer">false</item>
+    <item type="id" name="suw_items_icon_container">false</item>
+    <item type="id" name="suw_items_icon">false</item>
+    <item type="id" name="suw_items_title">false</item>
+    <item type="id" name="suw_items_summary">false</item>
+    <item type="id" name="language_picker_title_view">false</item>
+    <item type="id" name="activation_text">false</item>
+    <item type="id" name="description_text">false</item>
+    <item type="id" name="display_name_label">false</item>
+    <item type="id" name="display_name_edit">false</item>
+    <item type="id" name="ota_update_description">false</item>
+    <item type="id" name="pixel_email_switch">false</item>
+    <item type="id" name="icon_frame">false</item>
+    <item type="id" name="two_target_divider">false</item>
+    <item type="id" name="icon_container">false</item>
+    <item type="id" name="spinner">false</item>
+    <item type="id" name="list">false</item>
+    <item type="id" name="seekbar">false</item>
+    <item type="id" name="seekbar_value">false</item>
+    <item type="id" name="switchWidget">false</item>
+    <item type="id" name="description_text_container">false</item>
+    <item type="id" name="custom_layout_container">false</item>
+    <item type="id" name="qr_dependencies_check_content">false</item>
+    <item type="id" name="qr_provision_user_consent_content">false</item>
+    <item type="id" name="camera_source_preview">false</item>
+    <item type="id" name="switch_camera_button">false</item>
+    <item type="id" name="restore_choice_footer_container">false</item>
+    <item type="id" name="dont_copy_button">false</item>
+    <item type="id" name="restricted_icon">false</item>
+    <item type="id" name="additional_summary">false</item>
+    <item type="id" name="drawer_layout">false</item>
+    <item type="id" name="content_parent">false</item>
+    <item type="id" name="content_header_container">false</item>
+    <item type="id" name="content_frame">false</item>
+    <item type="id" name="sim_missing_description">false</item>
+    <item type="id" name="esim_layout">false</item>
+    <item type="id" name="suw_pattern_bg">false</item>
+    <item type="id" name="suw_scroll_view">false</item>
+    <item type="id" name="suw_layout_content">false</item>
+    <item type="id" name="suggestion_description">false</item>
+    <item type="id" name="suw_recycler_view">false</item>
+    <item type="id" name="suw_layout_footer">false</item>
+    <item type="id" name="suw_footer_button_bar">false</item>
+    <item type="id" name="suw_layout_icon">false</item>
+    <item type="id" name="suw_layout_title">false</item>
+    <item type="id" name="suw_layout_progress_stub">false</item>
+    <item type="id" name="suw_layout_progress">false</item>
+    <item type="id" name="suw_layout_navigation_bar">false</item>
+    <item type="id" name="suw_items_expandable_switch_content">false</item>
+    <item type="id" name="suw_items_switch">false</item>
+    <item type="id" name="suw_items_switch_divider">false</item>
+    <item type="id" name="suw_layout_decor">false</item>
+    <item type="id" name="suw_navbar_back">false</item>
+    <item type="id" name="suw_navbar_more">false</item>
+    <item type="id" name="suw_navbar_next">false</item>
+    <item type="id" name="progress_bar">false</item>
+    <item type="id" name="suw_bottom_scroll_view">false</item>
+    <item type="id" name="suw_layout_header">false</item>
+    <item type="id" name="message">false</item>
+    <item type="id" name="web_dialog_fragment_web_view">false</item>
+    <item type="id" name="web_dialog_fragment_progressbar">false</item>
+    <item type="id" name="web_dialog_fallback_textview">false</item>
+    <item type="id" name="welcome_title">false</item>
+    <item type="id" name="language_picker">false</item>
+    <item type="id" name="welcome_accessibility">false</item>
+    <item type="id" name="welcome_emergency_dial">false</item>
+    <item type="id" name="anchor">false</item>
+    <item type="id" name="welcome_land_start_frame">false</item>
+    <item type="id" name="welcome_land_end_frame">false</item>
+    <item type="id" name="connecting">false</item>
+    <item type="id" name="connecting_text">false</item>
+    <item type="id" name="cancel_button">false</item>
+    <item type="id" name="flow_choice_restore">false</item>
+    <item type="id" name="flow_choice_new">false</item>
+    <item type="id" name="network_description">false</item>
+    <item type="id" name="network_scanning">false</item>
+    <item type="id" name="network_wifi_list">false</item>
+    <item type="id" name="network_see_all_wifi">false</item>
+    <item type="id" name="network_use_mobile">false</item>
+    <item type="id" name="restore_choice_android_device">false</item>
+    <item type="id" name="restore_choice_google_account">false</item>
+    <item type="id" name="restore_choice_ios_device">false</item>
+    <item type="id" name="user_warning_description">false</item>
+    <item type="id" name="user_warning_accessibility">false</item>
+    <item type="id" name="wifi_scanning">false</item>
+    <item type="id" name="wifi_list">false</item>
+    <item type="id" name="wifi_add_another">false</item>
+    <item type="id" name="wifi_ip_address">false</item>
+    <item type="id" name="wifi_mac_address">false</item>
+</resources>

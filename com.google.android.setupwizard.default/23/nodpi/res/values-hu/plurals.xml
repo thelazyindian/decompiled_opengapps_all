@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="shutdown_countdown_text">
+        <item quantity="other">Leállítás %d másodpercen belül…</item>
+        <item quantity="one">Leállítás 1 másodpercen belül…</item>
+    </plurals>
+    <plurals name="sim_missing_title">
+        <item quantity="other">Helyezze be a SIM kártyákat</item>
+        <item quantity="one">Helyezze be a SIM kártyát</item>
+    </plurals>
+    <plurals name="sim_missing_text_tablet">
+        <item quantity="other">Nem tudja, hogyan? Nézze meg a táblagéphez kapott utasításokat.</item>
+        <item quantity="one">Nem tudja, hogyan? Nézze meg a táblagéphez kapott utasításokat.</item>
+    </plurals>
+    <plurals name="sim_missing_text_device">
+        <item quantity="other">Nem tudja, hogyan? Nézze meg az eszközhöz kapott utasításokat.</item>
+        <item quantity="one">Nem tudja, hogyan? Nézze meg az eszközhöz kapott utasításokat.</item>
+    </plurals>
+    <plurals name="sim_missing_text_default">
+        <item quantity="other">Nem tudja, hogyan? Nézze meg a telefonhoz kapott utasításokat.</item>
+        <item quantity="one">Nem tudja, hogyan? Nézze meg a telefonhoz kapott utasításokat.</item>
+    </plurals>
+    <plurals name="walled_garden_check_timeout_text">
+        <item quantity="other">Ez akár %d percet is igénybe vehet</item>
+        <item quantity="one">Ez akár %d percet is igénybe vehet</item>
+    </plurals>
+</resources>

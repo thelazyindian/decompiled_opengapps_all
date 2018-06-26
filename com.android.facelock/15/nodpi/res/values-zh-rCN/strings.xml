@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">信任的面孔</string>
+    <string name="receiver_app_name">信任的面孔广播接收器</string>
+    <string name="setup_app_name">添加信任的面孔</string>
+    <string name="enrollment_continue_label">下一步</string>
+    <string name="enrollment_done_label">完成</string>
+    <string name="enrollment_initializing">正在启动...</string>
+    <string name="enrollment_start_message">请确保面部在虚线区域内</string>
+    <string name="gar_preview_description">相机预览</string>
+    <string name="error_no_face">请确保面部清晰可见</string>
+    <string name="enrollment_missing_landmarks">请确保眼睛、鼻子和嘴巴清晰可见</string>
+    <string name="enrollment_missing_landmarks_status">无法完全识别您的面部特征</string>
+    <string name="enrollment_off_center_status">您的面部未完全显示在屏幕中</string>
+    <string name="gar_enrollment_face_added">已添加面孔</string>
+    <string name="enrollment_done">知道了</string>
+    <string name="tutorial_app_name">信任的面孔简介</string>
+    <string name="tutorial_header">看着您的手机即可解锁。</string>
+    <string name="tutorial_info_text">"请注意：
+
+"<li><ul>"面部匹配解锁的安全强度要低于图案、PIN码或密码解锁。
+
+"<li>与您长相相似的人可能也能解锁您的手机。</li>"
+
+"<li>用于识别面孔的数据会以私密方式存储在手机上。</li>"
+
+"</ul></li></string>
+    <string name="tutorial_continue_label">设置</string>
+    <string name="intro_header">为了达到最佳效果，请注意以下事项：</string>
+    <string name="intro_info_text">" "<li><ul>"找一个亮度适中的室内场所。
+
+"<li>将手机放在与视线平齐的高度。</li>"
+
+"</ul></li></string>
+    <string name="intro_continue_label">下一步</string>
+    <string name="endscreen_header">设置完毕！</string>
+    <string name="endscreen_info_text">当您想要解锁时，只需打开屏幕，然后将您的面孔对着摄像头即可。</string>
+    <string name="endscreen_bullet_one_text">如果手机识别出您的面孔，就会立即为您解锁屏幕。</string>
+    <string name="endscreen_bullet_two_text">如果手机未能识别出您的面孔，您可以使用图案、PIN码或密码来解锁。</string>
+    <string name="endscreen_tip_text">提示：让设备在不同条件下捕捉您的面部图像可提高面部匹配准确度。</string>
+    <string name="endscreen_continue_label">确定</string>
+    <string name="endscreen_license_label">许可</string>
+    <string name="addtosetup_app_name">改善面部匹配</string>
+    <string name="addtosetup_header">在不同的条件下捕捉您的面部图像。</string>
+    <string name="addtosetup_info_text">"例如：
+
+"<li><ul>"在不同的光线下
+
+"<li>带眼镜或不带眼镜</li>"
+
+"<li>蓄胡子或不蓄胡子</li>"
+
+"</ul></li>"
+将手机放在与视线平齐的高度。"</string>
+    <string name="addtosetup_continue_label">下一步</string>
+    <string name="license_screen_header">开放源代码声明</string>
+    <string name="license_screen_continue_label">确定</string>
+    <string name="face_unlock_service_app_name">人脸解锁服务</string>
+    <string name="trusted_face_service_app_name">信任的面孔服务</string>
+    <string name="service_face_not_found">未找到面部</string>
+    <string name="service_not_a_match">很抱歉，不认识您</string>
+    <string name="service_liveliness_start">请眨眼</string>
+    <string name="service_liveliness_timeout">未检测到眨眼</string>
+    <string name="service_low_ligthing">亮度过低</string>
+    <string name="shared_initialize_error">无法开始寻找您的面孔</string>
+    <string name="shared_camera_error">摄像头不可用</string>
+    <string name="shared_read_gallery_error">请重复执行设置步骤</string>
+    <string name="shared_cancel_label">取消</string>
+</resources>

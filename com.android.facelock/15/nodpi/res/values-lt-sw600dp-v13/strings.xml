@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="tutorial_header">Žiūrėkite į planšetinį kompiuterį, kad jį atrakintumėte.</string>
+    <string name="tutorial_info_text">"Atminkite šiuos du dalykus:
+
+ "<li><ul>"veido atitikimas nėra toks saugus būdas kaip šablonas, PIN kodas ar slaptažodis.
+
+ "<li>Į jus panašus žmogus gali atrakinti planšetinį kompiuterį.</li>"
+
+ "<li>Jūsų veidui atpažinti naudojami duomenys saugomi planšetiniame kompiuteryje.</li>"
+
+ "</ul></li></string>
+    <string name="intro_info_text">" "<li><ul>"Suraskite vietą viduje, kad būtų ne per daug šviesu ar tamsu.
+
+ "<li>Laikykite telefoną akių lygyje.</li>"
+
+ "</ul></li></string>
+    <string name="endscreen_bullet_one_text">Planšetinis kompiuteris atrakinamas iškart, kai jus atpažįsta.</string>
+    <string name="endscreen_bullet_two_text">Jei planšetinis kompiuteris neatpažįsta jūsų veido, galite jį atrakinti naudodami šabloną, PIN kodą ar slaptažodį.</string>
+    <string name="addtosetup_info_text">"Pavyzdžiai:
+
+ "<li><ul>"Esant skirtingam apšvietimui
+
+ "<li>Su akiniais ar be jų</li>"
+
+ "<li>Su barzda ar visiškai nusiskutus</li>"
+
+ "</ul></li>"
+Laikykite planšetinį kompiuterį akių lygyje."</string>
+</resources>

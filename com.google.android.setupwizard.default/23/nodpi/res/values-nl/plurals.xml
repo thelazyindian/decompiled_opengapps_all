@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="shutdown_countdown_text">
+        <item quantity="other">Afsluiten over %d seconden…</item>
+        <item quantity="one">Afsluiten over 1 seconde…</item>
+    </plurals>
+    <plurals name="sim_missing_title">
+        <item quantity="other">Simkaarten plaatsen</item>
+        <item quantity="one">Simkaart plaatsen</item>
+    </plurals>
+    <plurals name="sim_missing_text_tablet">
+        <item quantity="other">Weet je niet zeker hoe je dit moet doen? Lees de instructies voor je tablet.</item>
+        <item quantity="one">Weet je niet zeker hoe je dit moet doen? Lees de instructies voor je tablet.</item>
+    </plurals>
+    <plurals name="sim_missing_text_device">
+        <item quantity="other">Weet je niet zeker hoe je dit moet doen? Lees de instructies voor je apparaat.</item>
+        <item quantity="one">Weet je niet zeker hoe je dit moet doen? Lees de instructies voor je apparaat.</item>
+    </plurals>
+    <plurals name="sim_missing_text_default">
+        <item quantity="other">Weet je niet zeker hoe je dit moet doen? Lees de instructies voor je telefoon.</item>
+        <item quantity="one">Weet je niet zeker hoe je dit moet doen? Lees de instructies voor je telefoon.</item>
+    </plurals>
+    <plurals name="walled_garden_check_timeout_text">
+        <item quantity="other">Dit kan %d minuten duren</item>
+        <item quantity="one">Dit kan %d minuut duren</item>
+    </plurals>
+</resources>

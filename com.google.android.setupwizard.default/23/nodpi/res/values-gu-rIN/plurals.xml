@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="shutdown_countdown_text">
+        <item quantity="other">%d સેકંડમાં શટ ડાઉન થઈ રહ્યું છે…</item>
+        <item quantity="one">%d સેકંડમાં શટ ડાઉન થઈ રહ્યું છે…</item>
+    </plurals>
+    <plurals name="sim_missing_title">
+        <item quantity="other">SIM કાર્ડ્સ શામેલ કરો</item>
+        <item quantity="one">SIM કાર્ડ્સ શામેલ કરો</item>
+    </plurals>
+    <plurals name="sim_missing_text_tablet">
+        <item quantity="other">કેવી રીતે કરવું તે અંગે સુનિશ્ચિત નથી? તમારા ટેબ્લેટની સાથે આવતાં સૂચનોને તપાસો.</item>
+        <item quantity="one">કેવી રીતે કરવું તે અંગે સુનિશ્ચિત નથી? તમારા ટેબ્લેટની સાથે આવતાં સૂચનોને તપાસો.</item>
+    </plurals>
+    <plurals name="sim_missing_text_device">
+        <item quantity="other">કેવી રીતે કરવું તે અંગે સુનિશ્ચિત નથી? તમારા ઉપકરણની સાથે આવતાં સૂચનોને તપાસો.</item>
+        <item quantity="one">કેવી રીતે કરવું તે અંગે સુનિશ્ચિત નથી? તમારા ઉપકરણની સાથે આવતાં સૂચનોને તપાસો.</item>
+    </plurals>
+    <plurals name="sim_missing_text_default">
+        <item quantity="other">કેવી રીતે કરવું તે અંગે સુનિશ્ચિત નથી? તમારા ફોનની સાથે આવતાં સૂચનોને તપાસો.</item>
+        <item quantity="one">કેવી રીતે કરવું તે અંગે સુનિશ્ચિત નથી? તમારા ફોનની સાથે આવતાં સૂચનોને તપાસો.</item>
+    </plurals>
+    <plurals name="walled_garden_check_timeout_text">
+        <item quantity="other">આમાં %d મિનિટ સુધીનો સમય લાગી શકે છે</item>
+        <item quantity="one">આમાં %d મિનિટ સુધીનો સમય લાગી શકે છે</item>
+    </plurals>
+</resources>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Trusted Face</string>
+    <string name="trusted_face_service_app_name">Servizio Viso attendibile</string>
+    <string name="receiver_app_name">Trusted Face Broadcast Receiver</string>
+    <string name="setup_app_name">Aggiunta di un viso attendibile</string>
+    <string name="add_to_setup_app_name">Migliora riconoscimento viso</string>
+    <string name="intro_screen_title">Informazioni su Viso attendibile</string>
+    <string name="intro_screen_header">Sblocca il telefono guardandolo</string>
+    <string name="intro_screen_body">"Tieni presente quanto segue:
+
+ "<li><ul>"La funzione di riconoscimento del viso è meno efficace di una sequenza, un PIN o una password
+
+ "<li>Il telefono può essere sbloccato da chiunque ti somigli</li>"
+
+ "<li>I dati sul telefono utilizzati per riconoscere il tuo viso sono riservati</li> </ul></li></string>
+    <string name="intro_screen_continue_label">Configura</string>
+    <string name="instructions_screen_title">Aggiunta di un viso attendibile</string>
+    <string name="instructions_screen_header">Per ottenere risultati ottimali:</string>
+    <string name="instructions_screen_body">" "<li><ul>"Trova un posto al coperto con un'illuminazione moderata, né troppo forte né troppo debole
+
+ "<li>Tieni il telefono a livello degli occhi</li> </ul></li></string>
+    <string name="instructions_screen_continue_label">Avanti</string>
+    <string name="enrollment_screen_message_initializing">Avvio in corso...</string>
+    <string name="enrollment_screen_message_initialization_error">Impossibile iniziare a trovare il viso</string>
+    <string name="enrollment_screen_message_camera_error">Fotocamera non disponibile</string>
+    <string name="enrollment_start_message">"Mantieni il viso nell'area tratteggiata"</string>
+    <string name="enrollment_screen_message_instructions">"Posiziona la parte superiore della testa e la parte inferiore del mento all'interno del cerchio"</string>
+    <string name="enrollment_screen_message_missing_landmarks">Mostra occhi, naso e bocca</string>
+    <string name="enrollment_screen_message_done">Viso aggiunto</string>
+    <string name="enrollment_screen_status_no_face">Mostra il viso</string>
+    <string name="enrollment_screen_status_face_off_center">Impossibile vedere parte del tuo viso</string>
+    <string name="enrollment_screen_status_missing_landmarks">Non riesco a vederti bene</string>
+    <string name="enrollment_screen_continue_label">Avanti</string>
+    <string name="enrollment_screen_done_label">Fine</string>
+    <string name="enrollment_screen_talkback_preview_description">Anteprima fotocamera</string>
+    <string name="enrollment_screen_talkback_face_added">Viso aggiunto</string>
+    <string name="end_screen_title">Finito.</string>
+    <string name="end_screen_body">Per sbloccare il telefono, è sufficiente accendere lo schermo e guardare la fotocamera.</string>
+    <string name="end_screen_bullet_one_text">Il telefono si sblocca appena ti riconosce.</string>
+    <string name="end_screen_bullet_two_text">Se il dispositivo non riconosce il tuo viso, puoi sbloccarlo con la sequenza, il PIN o la password.</string>
+    <string name="end_screen_tip_text">Suggerimento. Migliora il riconoscimento del viso riprendendoti in diverse condizioni</string>
+    <string name="end_screen_licenses_label">Licenze</string>
+    <string name="end_screen_continue_label">Fine</string>
+    <string name="add_to_setup_intro_screen_title">Migliora riconoscimento viso</string>
+    <string name="add_to_setup_intro_screen_header">Mostra il tuo aspetto in condizioni diverse</string>
+    <string name="add_to_setup_intro_screen_body">"Esempi:
+
+ "<li><ul>"In diverse condizioni di luce
+
+ "<li>Con o senza occhiali da vista</li>"
+
+ "<li>Con la barba o rasato</li>"
+
+ "</ul></li>"
+ Tieni il telefono a livello degli occhi"</string>
+    <string name="add_to_setup_intro_screen_continue_label">Avanti</string>
+    <string name="license_screen_header">"Comunicazioni relative all'open source"</string>
+    <string name="license_screen_continue_label">OK</string>
+    <string name="shared_cancel_label">Annulla</string>
+</resources>

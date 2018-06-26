@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">認識済みの顔</string>
+    <string name="trusted_face_service_app_name">認識済みの顔サービス</string>
+    <string name="receiver_app_name">認識済みの顔ブロードキャストレシーバ</string>
+    <string name="setup_app_name">認識済みの顔として追加</string>
+    <string name="add_to_setup_app_name">顔認識の精度を改善</string>
+    <string name="intro_screen_title">認識済みの顔について</string>
+    <string name="intro_screen_header">スマートフォンに顔を向けるとロックが解除されます</string>
+    <string name="intro_screen_body">"以下の点にご注意ください。
+
+ "<li><ul>"顔認識は、パターン、PIN、パスワードよりも安全面で劣ります
+
+ "<li>あなたによく似た誰かがスマートフォンのロックを解除できる場合があります</li>"
+
+ "<li>顔認識に使用されるデータはスマートフォン上にのみ保持されます</li> </ul></li></string>
+    <string name="intro_screen_continue_label">設定</string>
+    <string name="instructions_screen_title">認識済みの顔として追加</string>
+    <string name="instructions_screen_header">おすすめの方法:</string>
+    <string name="instructions_screen_body">" "<li><ul>"屋内で明るすぎず暗すぎない場所を選びます
+
+ "<li>スマートフォンを目の高さに持ちます</li> </ul></li></string>
+    <string name="instructions_screen_continue_label">次へ</string>
+    <string name="enrollment_screen_message_initializing">起動しています...</string>
+    <string name="enrollment_screen_message_initialization_error">顔の検出を開始できませんでした</string>
+    <string name="enrollment_screen_message_camera_error">カメラを使用できません</string>
+    <string name="enrollment_start_message">顔を点で示された領域に収めてください</string>
+    <string name="enrollment_screen_message_instructions">頭頂部と顎の先が円の中に収まるようにしてください</string>
+    <string name="enrollment_screen_message_missing_landmarks">目、鼻、口を写してください</string>
+    <string name="enrollment_screen_message_done">顔を追加しました</string>
+    <string name="enrollment_screen_status_no_face">顔を写してください</string>
+    <string name="enrollment_screen_status_face_off_center">顔の一部を検出できません</string>
+    <string name="enrollment_screen_status_missing_landmarks">顔のパーツを認識できません</string>
+    <string name="enrollment_screen_continue_label">次へ</string>
+    <string name="enrollment_screen_done_label">完了</string>
+    <string name="enrollment_screen_talkback_preview_description">カメラプレビュー</string>
+    <string name="enrollment_screen_talkback_face_added">顔を追加しました</string>
+    <string name="end_screen_title">設定が完了しました。</string>
+    <string name="end_screen_body">スマートフォンのロックを解除するには、画面をオンにしてカメラに顔を向けます</string>
+    <string name="end_screen_bullet_one_text">顔を認識するとスマートフォンのロックがすぐに解除されます</string>
+    <string name="end_screen_bullet_two_text">顔が認識されない場合は、パターン、PIN、パスワードでロックを解除してください</string>
+    <string name="end_screen_tip_text">おすすめ: さまざまな状態で顔を撮影して顔認識の精度を高めることができます</string>
+    <string name="end_screen_licenses_label">ライセンス</string>
+    <string name="end_screen_continue_label">完了</string>
+    <string name="add_to_setup_intro_screen_title">顔認識の精度を改善</string>
+    <string name="add_to_setup_intro_screen_header">さまざまな状態で顔を撮影してください</string>
+    <string name="add_to_setup_intro_screen_body">"例:
+
+ "<li><ul>"明るさの違う場所
+
+ "<li>眼鏡をかけた顔とかけない顔</li>"
+
+ "<li>髭を生やした顔と剃った顔</li>"
+
+ "</ul></li>"
+ スマートフォンを目の高さに持ちます"</string>
+    <string name="add_to_setup_intro_screen_continue_label">次へ</string>
+    <string name="license_screen_header">オープンソース通知</string>
+    <string name="license_screen_continue_label">OK</string>
+    <string name="shared_cancel_label">キャンセル</string>
+</resources>

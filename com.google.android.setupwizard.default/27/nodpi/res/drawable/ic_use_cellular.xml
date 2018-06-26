@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:height="24.0dip" android:width="24.0dip" android:viewportWidth="24.0" android:viewportHeight="24.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:fillColor="?suwListItemIconColor" android:pathData="M3.8,22h17.19c0.55,0 1.01,-0.45 1.01,-1.01V3.8c0,-0.71 -0.87,-1.08 -1.38,-0.57L3.24,20.62c-0.51,0.51 -0.15,1.38 0.56,1.38z" android:fillAlpha="0.3" />
+    <path android:fillColor="?suwListItemIconColor" android:pathData="M16.97,6.9L3.24,20.62c-0.51,0.51 -0.15,1.38 0.56,1.38h13.16V6.9z" />
+</vector>

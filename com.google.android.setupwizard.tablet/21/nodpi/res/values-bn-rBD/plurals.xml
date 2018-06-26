@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="shutdown_countdown_text">
+        <item quantity="other">%d সেকেন্ডের মধ্যে বন্ধ করা হবে…</item>
+        <item quantity="one">১ সেকেন্ডের মধ্যে বন্ধ করা হবে…</item>
+    </plurals>
+    <plurals name="sim_missing_title">
+        <item quantity="other">সিম কার্ডগুলি ঢোকান</item>
+        <item quantity="one">সিম কার্ড ঢোকান</item>
+    </plurals>
+    <plurals name="sim_missing_text_tablet">
+        <item quantity="other">আপনার সিম কার্ডগুলি ঢোকানোর জন্য, আপনার ট্যাবলেটের সাথে আসা নির্দেশাবলী পড়ে নিন৷</item>
+        <item quantity="one">আপনার সিম কার্ডটি ঢোকানোর জন্য, আপনার ট্যাবলেটের সাথে আসা নির্দেশাবলী পড়ে নিন।</item>
+    </plurals>
+    <plurals name="sim_missing_text_device">
+        <item quantity="other">আপনার সিম কার্ডগুলি ঢোকানোর জন্য, আপনার ডিভাইসের সাথে আসা নির্দেশাবলী পড়ে নিন৷</item>
+        <item quantity="one">আপনার সিম কার্ডটি ঢোকানোর জন্য, আপনার ডিভাইসের সাথে আসা নির্দেশাবলী পড়ে নিন৷</item>
+    </plurals>
+    <plurals name="sim_missing_text_default">
+        <item quantity="other">আপনার সিম কার্ডগুলি ঢোকানোর জন্য, আপনার ফোনের সাথে আসা নির্দেশাবলী পড়ে নিন৷</item>
+        <item quantity="one">আপনার সিম কার্ডটি ঢোকানোর জন্য, আপনার ফোনের সাথে আসা নির্দেশাবলী পড়ে নিন৷</item>
+    </plurals>
+</resources>

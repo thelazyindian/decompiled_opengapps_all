@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="shutdown_countdown_text">
+        <item quantity="other">Skakel oor %d sekondes af …</item>
+        <item quantity="one">Skakel oor 1 sekonde af …</item>
+    </plurals>
+    <plurals name="sim_missing_title">
+        <item quantity="other">Sit SIM-kaarte in</item>
+        <item quantity="one">Sit SIM-kaart in</item>
+    </plurals>
+    <plurals name="sim_missing_text_tablet">
+        <item quantity="other">Nie seker hoe nie? Gaan die instruksies na wat saam met jou tablet gekom het.</item>
+        <item quantity="one">Nie seker hoe nie? Gaan die instruksies na wat saam met jou tablet gekom het.</item>
+    </plurals>
+    <plurals name="sim_missing_text_device">
+        <item quantity="other">Nie seker hoe nie? Gaan die instruksies na wat saam met jou toestel gekom het.</item>
+        <item quantity="one">Nie seker hoe nie? Gaan die instruksies na wat saam met jou toestel gekom het.</item>
+    </plurals>
+    <plurals name="sim_missing_text_default">
+        <item quantity="other">Nie seker hoe nie? Gaan die instruksies na wat saam met jou foon gekom het.</item>
+        <item quantity="one">Nie seker hoe nie? Gaan die instruksies na wat saam met jou foon gekom het.</item>
+    </plurals>
+    <plurals name="walled_garden_check_timeout_text">
+        <item quantity="other">Dit kan tot %d minute neem</item>
+        <item quantity="one">Dit kan tot %d minuut neem</item>
+    </plurals>
+</resources>

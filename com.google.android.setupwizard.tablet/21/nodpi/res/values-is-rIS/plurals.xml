@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="shutdown_countdown_text">
+        <item quantity="other">Slekkur eftir %d sekúndur…</item>
+        <item quantity="one">Slekkur eftir 1 sekúndu…</item>
+    </plurals>
+    <plurals name="sim_missing_title">
+        <item quantity="other">Settu SIM-kort í</item>
+        <item quantity="one">Settu SIM-kort í</item>
+    </plurals>
+    <plurals name="sim_missing_text_tablet">
+        <item quantity="other">Lestu leiðbeiningarnar sem fylgdu spjaldtölvunni til að setja SIM-kort í.</item>
+        <item quantity="one">Lestu leiðbeiningarnar sem fylgdu spjaldtölvunni til að setja SIM-kortið í.</item>
+    </plurals>
+    <plurals name="sim_missing_text_device">
+        <item quantity="other">Lestu leiðbeiningarnar sem fylgdu tækinu til að setja SIM-kort í.</item>
+        <item quantity="one">Lestu leiðbeiningarnar sem fylgdu tækinu til að setja SIM-kortið í.</item>
+    </plurals>
+    <plurals name="sim_missing_text_default">
+        <item quantity="other">Lestu leiðbeiningarnar sem fylgdu símanum til að setja SIM-kort í.</item>
+        <item quantity="one">Lestu leiðbeiningarnar sem fylgdu símanum til að setja SIM-kortið í.</item>
+    </plurals>
+</resources>

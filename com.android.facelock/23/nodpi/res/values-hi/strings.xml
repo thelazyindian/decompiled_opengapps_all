@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">विश्वसनीय चेहरा</string>
+    <string name="trusted_face_service_app_name">विश्वसनीय चेहरा सेवा</string>
+    <string name="receiver_app_name">विश्वसनीय चेहरा प्रसारण प्राप्‍तकर्ता</string>
+    <string name="setup_app_name">विश्‍वसनीय चेहरा जोड़ें</string>
+    <string name="add_to_setup_app_name">चेहरे का मिलान बेहतर बनाएं</string>
+    <string name="intro_screen_title">विश्‍वसनीय चेहरे के बारे में</string>
+    <string name="intro_screen_header">अपने फ़ोन की ओर देखकर उसे अनलॉक करें</string>
+    <string name="intro_screen_body">"याद रखें:
+
+ "<li><ul>"चेहरा मिलान किसी पैटर्न, पिन या पासवर्ड की अपेक्षा कम सुरक्षित है
+
+ "<li>आपके जैसा दिखने वाला कोई व्‍यक्‍ति आपके फ़ोन को अनलॉक कर सकता है</li>"
+
+ "<li>आपके चेहरे की पहचान के लिए उपयोग किया जाने वाला डेटा आपके फ़ोन में निजी बनाए रखा जाता है</li> </ul></li></string>
+    <string name="intro_screen_continue_label">सेट करें</string>
+    <string name="instructions_screen_title">विश्‍वसनीय चेहरा जोड़ें</string>
+    <string name="instructions_screen_header">सर्वोत्तम परिणामों के लिएः</string>
+    <string name="instructions_screen_body">" "<li><ul>"ऐसा इनडोर स्‍थान ढूंढें जहां ना तो बहुत अधिक प्रकाश हो ना ही बहुत कम
+
+ "<li>फ़ोन को आंखों के स्‍तर पर रखें</li> </ul></li></string>
+    <string name="instructions_screen_continue_label">अगला</string>
+    <string name="enrollment_screen_message_initializing">प्रारंभ हो रहा है...</string>
+    <string name="enrollment_screen_message_initialization_error">आपका चेहरा ढूंढना प्रारंभ नहीं कर सका</string>
+    <string name="enrollment_screen_message_camera_error">कैमरा उपलब्‍ध नहीं है</string>
+    <string name="enrollment_start_message">चेहरे को बिंदुदार क्षेत्र के अंदर रखें</string>
+    <string name="enrollment_screen_message_instructions">अपने सिर के शीर्ष और ठोड़ी के निचले हिस्से को घेरे के अंदर रखें</string>
+    <string name="enrollment_screen_message_missing_landmarks">आंखें, नाक और मुंह दिखाएं</string>
+    <string name="enrollment_screen_message_done">चेहरा जोड़ा गया</string>
+    <string name="enrollment_screen_status_no_face">अपना चेहरा दिखाएं</string>
+    <string name="enrollment_screen_status_face_off_center">आपके चेहरे का कुछ भाग दिखाई नहीं दे रहा है</string>
+    <string name="enrollment_screen_status_missing_landmarks">आपकी मुखाकृति नहीं देख पा रहा</string>
+    <string name="enrollment_screen_continue_label">अगला</string>
+    <string name="enrollment_screen_done_label">हो गया</string>
+    <string name="enrollment_screen_talkback_preview_description">कैमरा पूर्वावलोकन</string>
+    <string name="enrollment_screen_talkback_face_added">चेहरा जोड़ा गया</string>
+    <string name="end_screen_title">सब कुछ तैयार!</string>
+    <string name="end_screen_body">अपना फ़ोन अनलॉक करने के लिए, बस अपनी स्क्रीन को चालू करें और कैमरे की ओर देखें</string>
+    <string name="end_screen_bullet_one_text">आपका फ़ोन, आपकी पहचान करते ही अनलॉक हो जाएगा</string>
+    <string name="end_screen_bullet_two_text">यदि आपके चेहरे का मिलान नहीं होता है, तो उसके बजाय अपने पैटर्न, पिन या पासवर्ड से अनलॉक करें</string>
+    <string name="end_screen_tip_text">टिप्स: आप अलग-अलग स्थितियों में कैसे दिखाई देते हैं यह दिखाते हुए चेहरे के मिलान को बेहतर बनाएं</string>
+    <string name="end_screen_licenses_label">लाइसेंस</string>
+    <string name="end_screen_continue_label">हो गया</string>
+    <string name="add_to_setup_intro_screen_title">चेहरे का मिलान बेहतर बनाएं</string>
+    <string name="add_to_setup_intro_screen_header">यह दिखाएं कि आप अलग-अलग स्थितियों में कैसे दिखाई देते हैं</string>
+    <string name="add_to_setup_intro_screen_body">"उदाहरण:
+
+ "<li><ul>"अलग-अलग प्रकाश में
+
+ "<li>निर्दिष्‍ट चश्‍मे के साथ या उसके बिना</li>"
+
+ "<li>दाढ़ी में या साफ़ चेहरे के साथ</li>"
+
+ "</ul></li>"
+ फ़ोन को आंखों के स्तर पर रखें"</string>
+    <string name="add_to_setup_intro_screen_continue_label">अगला</string>
+    <string name="license_screen_header">ओपन सोर्स नोटिस</string>
+    <string name="license_screen_continue_label">ठीक</string>
+    <string name="shared_cancel_label">अभी नहीं</string>
+</resources>

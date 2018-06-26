@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WizardScript wizard:firstAction="mfm_check"
+  xmlns:wizard="http://schemas.android.com/apk/res/com.google.android.setupwizard">
+    <WizardAction wizard:uri="intent:#Intent;action=com.google.android.setupwizard.ACCOUNT_CHECK;end" id="mfm_check">
+        <result wizard:resultCode="1" wizard:action="date_time_check" wizard:name="skip" />
+        <result wizard:action="start_vpa" />
+    </WizardAction>
+    <WizardAction wizard:uri="intent:#Intent;action=com.google.android.setupwizard.START_VPA;end" id="start_vpa">
+        <result wizard:action="date_time_check" />
+    </WizardAction>
+    <WizardAction wizard:uri="intent:#Intent;action=com.google.android.setupwizard.DATE_TIME_CHECK;end" id="date_time_check">
+        <result wizard:resultCode="1" wizard:action="user_name_check" wizard:name="skip" />
+        <result wizard:action="date_time" />
+    </WizardAction>
+    <WizardAction wizard:uri="intent:#Intent;action=com.android.setupwizard.DATE_TIME;end" id="date_time">
+        <result wizard:action="user_name_check" />
+    </WizardAction>
+    <WizardAction wizard:uri="intent:#Intent;action=com.google.android.setupwizard.NAME_CHECK;end" id="user_name_check">
+        <result wizard:resultCode="1" wizard:action="lock_screen" wizard:name="skip" />
+        <result wizard:action="user_name" />
+    </WizardAction>
+    <WizardAction wizard:uri="intent:#Intent;action=com.google.android.setupwizard.USER_NAME;end" id="user_name">
+        <result wizard:action="lock_screen" />
+    </WizardAction>
+    <WizardAction wizard:uri="intent:#Intent;action=com.google.android.setupwizard.LOCK_SCREEN;end" id="lock_screen">
+        <result wizard:action="drive_backup_optin" />
+    </WizardAction>
+    <WizardAction wizard:uri="intent:#Intent;action=com.google.android.setupwizard.DRIVE_BACKUP_OPT_IN;end" id="drive_backup_optin">
+        <result wizard:action="account_google_services" />
+    </WizardAction>
+    <WizardAction wizard:uri="intent:#Intent;action=com.google.android.setupwizard.GOOGLE_SERVICES;end" id="account_google_services">
+        <result wizard:action="opa" />
+    </WizardAction>
+    <WizardAction wizard:uri="intent:#Intent;action=com.google.android.setupwizard.OPA_OPT_IN;end" id="opa">
+        <result wizard:action="suggested_actions" />
+    </WizardAction>
+    <WizardAction wizard:uri="intent:#Intent;action=com.google.android.setupwizard.SUGGESTED_ACTIONS;end" id="suggested_actions">
+        <result wizard:action="usb_migration_final_hold" />
+    </WizardAction>
+    <WizardAction wizard:uri="intent:#Intent;action=com.google.android.setupwizard.USB_MIGRATION_FINAL_HOLD;end" id="usb_migration_final_hold">
+        <result wizard:action="final_hold" />
+    </WizardAction>
+    <WizardAction wizard:uri="intent:#Intent;action=com.google.android.setupwizard.FINAL_HOLD;end" id="final_hold" />
+</WizardScript>

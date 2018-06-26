@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="tutorial_header">[Ļööķ åţ ýöûŕ ţåɓļéţ ţö ûñļöçķ îţ. one two three four five six seven eight]</string>
+    <string name="tutorial_info_text">"[Ķééþ ţĥéšé ţĥîñĝš îñ ḿîñð:
+
+ "<li><ul>"Fåçé ḿåţçĥîñĝ îš ļéšš šéçûŕé ţĥåñ å þåţţéŕñ, ÞÎÑ, öŕ þåššŵöŕð.
+
+ "<li>Šöḿéöñé ŵĥö ļööķš ļîķé ýöû çöûļð ûñļöçķ ýöûŕ ţåɓļéţ.</li>"
+
+ "<li>Ţĥé ðåţå ûšéð ţö ŕéçöĝñîžé ýöûŕ ƒåçé îš ķéþţ þŕîVåţé öñ ţĥé ţåɓļéţ.</li>"
+
+ "</ul></li> one two three four five six seven eight nine ten eleven twelve thirteen fourteen fiveteen sixteen seventeen nineteen twenty one two three four five six seven eight nine ten eleven twelve thirteen fourteen fiveteen sixteen]</string>
+    <string name="intro_info_text">[ <li><ul>"Fîñð åñ îñðööŕ šþöţ—ñöţ ţöö ɓŕîĝĥţ öŕ ţöö ðîḿ.
+
+ "<li>Ĥöļð ţĥé ţåɓļéţ åţ éýé ļéVéļ.</li>"
+
+ "</ul></li> one two three four five six seven eight nine ten eleven twelve thirteen fourteen fiveteen]</string>
+    <string name="endscreen_bullet_one_text">[ Ýöûŕ ţåɓļéţ ûñļöçķš åš šööñ åš îţ ŕéçöĝñîžéš ýöû. one two three four five six seven eight nine ten eleven]</string>
+    <string name="endscreen_bullet_two_text">"[ Îƒ ýöûŕ ţåɓļéţ ðöéšñ'ţ ŕéçöĝñîžé ýöûŕ ƒåçé, ýöû çåñ ûñļöçķ ŵîţĥ ýöûŕ þåţţéŕñ, ÞÎÑ, öŕ þåššŵöŕð. one two three four five six seven eight nine ten eleven twelve thirteen fourteen fiveteen sixteen seventeen]"</string>
+    <string name="addtosetup_info_text">"[Éхåḿþļéš:
+
+ "<li><ul>"Îñ ðîƒƒéŕéñţ ļîĝĥţîñĝ
+
+ "<li>Ŵîţĥ öŕ ŵîţĥöûţ þŕéšçŕîþţîöñ ĝļåššéš</li>"
+
+ "<li>βéåŕðéð öŕ çļéåñ-šĥåVéñ</li>"
+
+ "</ul></li>"
+Ĥöļð ţĥé ţåɓļéţ åţ éýé ļéVéļ.  one two three four five six seven eight nine ten eleven twelve thirteen fourteen fiveteen sixteen seventeen nineteen twenty one two three]"</string>
+</resources>

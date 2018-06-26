@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">خدمة الوجه الموثوق</string>
+    <string name="receiver_app_name">جهاز استقبال البث لخدمة الوجه الموثوق</string>
+    <string name="setup_app_name">إضافة وجه موثوق به</string>
+    <string name="enrollment_continue_label">التالي</string>
+    <string name="enrollment_done_label">تم</string>
+    <string name="enrollment_initializing">جارٍ التشغيل...</string>
+    <string name="enrollment_start_message">يجب توسيط الوجه داخل المنطقة المنقطة</string>
+    <string name="gar_preview_description">معاينة الكاميرا</string>
+    <string name="error_no_face">أظهر وجهك</string>
+    <string name="enrollment_missing_landmarks">أظهر العينين والأنف والفم</string>
+    <string name="enrollment_missing_landmarks_status">لا يمكن الاطلاع على ملامحك</string>
+    <string name="enrollment_off_center_status">لا يمكن مشاهدة جزء من وجهك</string>
+    <string name="gar_enrollment_face_added">تمت إضافة الوجه</string>
+    <string name="enrollment_done">حسنًا</string>
+    <string name="tutorial_app_name">حول خدمة الوجه الموثوق</string>
+    <string name="tutorial_header">يرجى النظر إلى الهاتف لإلغاء تأمينه.</string>
+    <string name="tutorial_info_text">"ضع الأشياء التالية في الاعتبار:
+
+ "<li><ul>"مطابقة الوجوه أقل أمانًا من استخدام النقش أو رقم التعريف الشخصي أو كلمة المرور.
+
+ "<li>يمكن لشخص يشبهك إلغاء قفل هاتفك.</li>"
+
+ "<li>البيانات المستخدمة للتعرف على وجهك على الجهاز اللوحي يتم التعامل معها كبيانات خاصة.</li>"
+
+ "</ul></li></string>
+    <string name="tutorial_continue_label">إعداد</string>
+    <string name="intro_header">للحصول على أفضل النتائج:</string>
+    <string name="intro_info_text">" "<li><ul>"حدد موضعًا داخل المنزل—مزودًا بإضاءة معتدلة.
+
+ "<li>امسك الهاتف على مستوى العين.</li>"
+
+ "</ul></li></string>
+    <string name="intro_continue_label">التالي</string>
+    <string name="endscreen_header">انتهى الإعداد.</string>
+    <string name="endscreen_info_text">عندما تريد إلغاء القفل، ما عليك سوى تشغيل الشاشة وإظهار وجهك للكاميرا.</string>
+    <string name="endscreen_bullet_one_text">يتم إلغاء قفل الهاتف فور تعرفه عليك.</string>
+    <string name="endscreen_bullet_two_text">في حالة عدم تعرف الهاتف على وجهك، يمكنك إلغاء القفل باستخدام النمط أو رقم التعريف الشخصي أو كلمة المرور.</string>
+    <string name="endscreen_tip_text">نصيحة: يمكنك تحسين مطابقة الوجه من خلال إظهار ما تبدو عليه في حالات أخرى.</string>
+    <string name="endscreen_continue_label">موافق</string>
+    <string name="endscreen_license_label">التراخيص</string>
+    <string name="addtosetup_app_name">تحسين مطابقة الوجه</string>
+    <string name="addtosetup_header">اعرض مظهرك في أحوال مختلفة.</string>
+    <string name="addtosetup_info_text">"أمثلة:
+
+ "<li><ul>"في إضاءة مختلفة
+
+ "<li>بنظارات طبية أو بدونها</li>"
+
+ "<li>بلحية أو بدون</li>"
+
+ "</ul></li>"
+امسك الهاتف على مستوى العين."</string>
+    <string name="addtosetup_continue_label">التالي</string>
+    <string name="license_screen_header">إشعارات مفتوحة المصدر</string>
+    <string name="license_screen_continue_label">موافق</string>
+    <string name="face_unlock_service_app_name">خدمة تأمين الجهاز بالوجه</string>
+    <string name="trusted_face_service_app_name">خدمة الوجه الموثوق</string>
+    <string name="service_face_not_found">تعذر العثور على وجه</string>
+    <string name="service_not_a_match">عذرًا، لا يمكن التعرف عليك</string>
+    <string name="service_liveliness_start">طرف العين الآن</string>
+    <string name="service_liveliness_timeout">لم يتم التقاط طرف العين</string>
+    <string name="service_low_ligthing">الإضاءة منخفضة جدًا</string>
+    <string name="shared_initialize_error">تعذر بدء البحث عن وجهك</string>
+    <string name="shared_camera_error">الكاميرا ليست متاحة</string>
+    <string name="shared_read_gallery_error">الرجاء تكرار الإعداد</string>
+    <string name="shared_cancel_label">إلغاء</string>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="passwordStrength">
+        <item>médiocre</item>
+        <item>satisfaisant</item>
+        <item>bon</item>
+        <item>excellent</item>
+    </string-array>
+</resources>

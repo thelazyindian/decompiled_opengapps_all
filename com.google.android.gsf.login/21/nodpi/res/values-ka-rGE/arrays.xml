@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="security_questions">
+        <item>აირჩიეთ უსაფრთხოების შეკითხვა</item>
+        <item>თქვენი პირველი ტელეფონის ნომერი?</item>
+        <item>ბავშვობის საუკეთესო მეგობრის სახელი?</item>
+        <item>პირველი მასწავლებლის სახელი?</item>
+        <item>პირველი სამსახურის ხელმძღვანელის სახელი?</item>
+        <item>ავტომობილის სარეგისტრაციო ნომერი?</item>
+    </string-array>
+</resources>

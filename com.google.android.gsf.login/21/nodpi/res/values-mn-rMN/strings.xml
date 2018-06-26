@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="common_google_play_services_notification_ticker">Google Наадаан үйлчилгээний алдаа</string>
+    <string name="common_google_play_services_notification_needs_installation_title">Аппликешн Google Наадаан Үйлчилгээг суулгахыг шаардана.</string>
+    <string name="common_google_play_services_notification_needs_update_title">Аппликешн Google Наадаан Үйлчилгээг шинэчлэхийг шаардана.</string>
+    <string name="common_android_wear_notification_needs_update_text">Аппликешнийг Андройд Зүүсгэл апп болгон шинэчлэх шаардлагатай.</string>
+    <string name="common_google_play_services_needs_enabling_title">Аппликешн Google Наадаан Үйлчилгээг идэвхжүүлсэн байхыг шаардана.</string>
+    <string name="common_google_play_services_error_notification_requested_by_msg">%1$s хүсэлт гаргасан</string>
+    <string name="common_google_play_services_install_title">Google Play үйлчилгээ авах</string>
+    <string name="common_google_play_services_install_text_phone">Таны утсанд байхгүй байгаа Google Play үйлчилгээг идэвхжүүлж байж энэ апп-г ажиллуулах боломжтой.</string>
+    <string name="common_google_play_services_install_text_tablet">Таны таблетэд байхгүй Google Play үйлчилгээг идэвхжүүлж байж энэ апп-г ажиллуулах боломжтой.</string>
+    <string name="common_google_play_services_install_button">Google Play үйлчилгээ авах</string>
+    <string name="common_google_play_services_enable_title">Google Play үйлчилгээг идэвхжүүлэх</string>
+    <string name="common_google_play_services_enable_text">Та Google Play үйлчилгээг идэвхжүүлж байж энэ апп-г ажиллуулах боломжтой.</string>
+    <string name="common_google_play_services_enable_button">Google Play үйлчилгээг идэвхжүүлэх</string>
+    <string name="common_google_play_services_update_title">Google Play үйлчилгээг шинэчлэх</string>
+    <string name="common_android_wear_update_title">Андройд Зүүсгэлийг шинэчлэх</string>
+    <string name="common_google_play_services_update_text">Та Google Play үйлчилгээг шинэчлэхгүй бол энэ апп ажиллах боломжгүй.</string>
+    <string name="common_android_wear_update_text">Андройд Зүүсгэл апп-г шинэчлэхээс нааш энэ апп ажиллахгүй.</string>
+    <string name="common_google_play_services_network_error_title">Сүлжээний алдаа</string>
+    <string name="common_google_play_services_network_error_text">Google Play үйлчилгээнд холбогдохын тулд дата холболт шаардлагатай.</string>
+    <string name="common_google_play_services_invalid_account_title">Буруу акаунт</string>
+    <string name="common_google_play_services_invalid_account_text">Заасан акаунт энэ төхөөрөмж дээр байхгүй байна. Өөр акаунт сонгоно уу.</string>
+    <string name="common_google_play_services_unknown_issue">Google Play үйлчилгээтэй холбоотой тодорхойгүй алдаа.</string>
+    <string name="common_google_play_services_unsupported_title">Google Play үйлчилгээ</string>
+    <string name="common_google_play_services_unsupported_text">Таны зарим аппликешнүүдийн хамаардаг Google Play үйлчилгээ таны төхөөрөмжид дэмжигдэхгүй байна. Тусламж авахын тулд үйлдвэрлэгчтэй холбоо барина уу.</string>
+    <string name="common_google_play_services_update_button">Шинэчлэх</string>
+    <string name="common_signin_button_text">Нэвтрэх</string>
+    <string name="common_signin_button_text_long">Google-р нэвтрэх:</string>
+    <string name="common_open_on_phone">Утсан дээр нээх</string>
+    <string name="setup_wizard_next_button_label">Дараах</string>
+    <string name="setup_wizard_back_button_label">Буцах</string>
+    <string name="setup_wizard_title">Тохируулгын Туслагч</string>
+    <string name="setup_wizard_services_activity_title">Google үйлчилгээ</string>
+    <string name="setup_wizard_services_description">Эдгээр үйлчилгээ нь Google-д таны төлөө ажиллах боломж олгох бөгөөд та дуртай үедээ тэдгээрийг асааж, унтрааж болно. Датаг Google-н <annotation id="google_privacy">Нууцлалын бодлогын</annotation> дагуу ашиглана</string>
+    <string name="setup_wizard_services_backup_restore_heading">Нөөшлөх &amp; сэргээх</string>
+    <string name="setup_wizard_services_location_heading">Байршил</string>
+    <string name="setup_wizard_services_communication_heading">Холбоо</string>
+    <string name="setup_wizard_services_backup"><b>Та утасныхаа апликейшнүүд, апликейшний өгөгдлүүд, тохиргоонууд, хувийн толь бичгүүд болон Wi-Fi нууц үгнүүдээ</b> Google Акаунтыг ашиглан нөөцөлж, дараа нь илүү хялбар аргаар хуучин мэдээллээ сэргээх болно. <annotation id="backup_details">Илүү мэдээлэл авах</annotation></string>
+    <string name="setup_wizard_services_backup_restore"><b>Та апликейшнүүд, апликейшний өгөгдлүүд, тохиргоонууд, хувийн толь бичгүүд болон Wi-Fi нууц үгнүүдээ</b> Google Акаунтыг ашиглан нөөцөлж, дараа нь илүү хялбар аргаар хуучин мэдээллээ сэргээх болно.</string>
+    <string name="setup_wizard_services_backup_restore_footnote">Датанд апп-ууд, апп тохиргоо, системийн тохиргоо болон Wi‑Fi нууц үгс орно.</string>
+    <string name="setup_wizard_services_backup_restore_dialog_text">Та автомат нөөшлөлтийг асаавал таны төхөөрөмжийн дата үе үе таны Google акаунтад хадгалагдана. Нөөшинд таны апп дата фолдер доторх сонголт, тохиргоо, зурвас, зураг, бусад файлууд зэрэг мэдээлэл орж болно.</string>
+    <string name="setup_wizard_services_location_sharing">Апп-уудад байршил тодорхойлоход нь <b>Google-н байршлын үйлчилгээг</b> ашиглан туслаарай. Ингэснээр ямар нэг апп ажиллаагүй байсан ч байршлын датаг нэргүйгээр Google рүү илгээх болно. <annotation id="location_details">Дэлгэрэнгүй үзэх</annotation></string>
+    <string name="setup_wizard_services_location_sharing_dialog_text">"Google-н байршлын үйлчилгээ нь Wi‑Fi, үүрэн сүлжээг ашиглан таны байршлыг илүү хурдан, нарийвчлалтай тодорхойлоход ашиглана. Та Google-н байршлын үйлчилгээг асаамагц таны төхөөрөмж байршлын үйлчилгээг үзүүлэхийн тулд  Wi‑Fi болон үүрэн сүлжээг ашиглах горимд шилжинэ. Та үүнийг байршлын тохиргоо дотроос зөвхөн GPS ашиглах горимыг сонгох замаар унтрааж болно."</string>
+    <string name="setup_wizard_services_location_wifi_scan"><b>Байршлын үйлчилгээг сайжруулахад</b> туслахын тулд апп-ууд болон үйлчилгээнүүдээр Wi‑Fi унтраатай үед ч гэсэн Wi‑Fi сүлжээг хайлгаарай.</string>
+    <string name="setup_wizard_services_location_footnote">Google байршлын үйлчилгээ нь Wi‑Fi болон бусад сигналууд ашиглан байршлыг илүү нарийн, шуурхай тодорхойлдог бөгөөд ихэвчлэн GPS-с бага цэнэг зарцуулдаг. Зарим дата таны төхөөрөмж дээр хадгалагдаж болно. Дата нь апп-ууд ажиллахгүй байгаа үед ч цуглуулагдаж болно.</string>
+    <string name="setup_wizard_services_play">Намайг Google Play-н <b>шинэ мэдээллээр хангах</b>.</string>
+    <string name="setup_wizard_services_usage_reporting"><b>Андройд ашиглалтаа сайжруулахад</b> туслахын тулд диагностик болон ашиглалтын датаг Google рүү автоматаар илгээгээрэй. Энэ мэдээллийг таныг танихад ашиглахгүй бөгөөд батерейны ашиглалт, апп-ын ажиллагаа, бусад Google -н шинэ функцууд дээр ажиллаж буй багуудад тус болох юм. <annotation id="usage_reporting_details">Дэлгэрэнгүй үзэх</annotation></string>
+    <string name="setup_wizard_services_usage_reporting_dialog_text">"Энд таны төхөөрөмжийн тухай болон хэрхэн ашиглах тухай ерөнхий мэдээллүүд тухайлбал батерейны түвшин, апп-уудыг хэр их ашиглах, сүлжээний  (үүрэн, Wi-Fi, Блютүүт гэх мэт) холболтын чанар болон хугацаа, зохих байдлаар ажиллахгүй үед гацалтын репортыг илгээх зэрэг орно. Үүнийг Google бүтээгдэхүүн, үйлчилгээнүүдийг сайжруулахад ашиглах бөгөөд таны Google акаунтад бүртгэгдэхгүй. Зарим нэгтгэсэн мэдээлэл нь Андройд хөгжүүлэгчид зэрэг бусад түншүүд апп болон бүтээгдэхүүнүүдээ сайжруулахад тус болно.
+
+Та үүнийг дуртай үедээ асаах, унтраах боломжтой. Энэ нь системийн шинэчлэлт, аюулгүй байдлын мэдээллийг хүлээн авахад нөлөөлөхгүй."</string>
+    <string name="setup_wizard_services_agreement">Энэ утас Google, таны оператор, эсхүл төхөөрөмжийн үйлдвэрлэгчээс шинэчлэлтүүд, апп-ууд хүлээн авч суулгах боломжтой. Хэрэв үргэлжлүүлбэл зарим апп-ууд татагдаж, суух боломжтой бөгөөд та хүссэн үедээ тэдгээрийг устгаж болно.</string>
+</resources>

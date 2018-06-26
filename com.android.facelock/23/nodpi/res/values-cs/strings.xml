@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Důvěryhodný obličej</string>
+    <string name="trusted_face_service_app_name">Služba Důvěryhodný obličej</string>
+    <string name="receiver_app_name">Přijímač vysílání důvěryhodného obličeje</string>
+    <string name="setup_app_name">Přidat důvěryhodný obličej</string>
+    <string name="add_to_setup_app_name">Zlepšení rozpoznávání obličeje</string>
+    <string name="intro_screen_title">O důvěryhodném obličeji</string>
+    <string name="intro_screen_header">Telefon odemknete pohledem.</string>
+    <string name="intro_screen_body">"Mějte na paměti následující skutečnosti:
+
+ "<li><ul>"Rozpoznávání obličeje není tak bezpečné jako použití bezpečnostního gesta, kódu PIN nebo hesla.
+
+ "<li>Telefon by mohl odemknout někdo vám podobný.</li>"
+
+ "<li>Data, s jejichž pomocí je obličej identifikován, jsou v telefonu uchovávána jako soukromá.</li> </ul></li></string>
+    <string name="intro_screen_continue_label">Nastavit</string>
+    <string name="instructions_screen_title">Přidat důvěryhodný obličej</string>
+    <string name="instructions_screen_header">Jak dosáhnout nejlepších výsledků:</string>
+    <string name="instructions_screen_body">" "<li><ul>"Najděte v interiéru přiměřeně osvětlené místo – ani moc světlé, ani moc tmavé.
+
+ "<li>Podržte telefon v úrovni očí.</li> </ul></li></string>
+    <string name="instructions_screen_continue_label">Další</string>
+    <string name="enrollment_screen_message_initializing">Spouštění…</string>
+    <string name="enrollment_screen_message_initialization_error">Hledání obličeje nelze zahájit</string>
+    <string name="enrollment_screen_message_camera_error">Fotoaparát není k dispozici</string>
+    <string name="enrollment_start_message">Obličej držte uvnitř vytečkované oblasti</string>
+    <string name="enrollment_screen_message_instructions">Horní okraj hlavy a spodní okraj brady nesmí zasahovat mimo kruh.</string>
+    <string name="enrollment_screen_message_missing_landmarks">Ukažte oči, nos a ústa.</string>
+    <string name="enrollment_screen_message_done">Obličej přidán</string>
+    <string name="enrollment_screen_status_no_face">Ukažte svůj obličej</string>
+    <string name="enrollment_screen_status_face_off_center">Některé části obličeje nejsou vidět</string>
+    <string name="enrollment_screen_status_missing_landmarks">Vaše rysy se nepodařilo určit</string>
+    <string name="enrollment_screen_continue_label">Další</string>
+    <string name="enrollment_screen_done_label">OK</string>
+    <string name="enrollment_screen_talkback_preview_description">Náhled fotoaparátu</string>
+    <string name="enrollment_screen_talkback_face_added">Obličej přidán</string>
+    <string name="end_screen_title">Vše je nastaveno.</string>
+    <string name="end_screen_body">Chcete-li telefon odemknout, stačí zapnout jeho obrazovku a podívat se do fotoaparátu.</string>
+    <string name="end_screen_bullet_one_text">Telefon se odemkne, jakmile vás rozpozná.</string>
+    <string name="end_screen_bullet_two_text">Pokud zařízení váš obličej nerozpozná, odemkněte jej pomocí gesta, kódu PIN nebo hesla.</string>
+    <string name="end_screen_tip_text">Tip: Zlepšete rozpoznávání obličeje tím, že ukážete, jak vypadáte za různých podmínek.</string>
+    <string name="end_screen_licenses_label">Licence</string>
+    <string name="end_screen_continue_label">OK</string>
+    <string name="add_to_setup_intro_screen_title">Zlepšení rozpoznávání obličeje</string>
+    <string name="add_to_setup_intro_screen_header">Ukažte, jak vypadáte za různých podmínek.</string>
+    <string name="add_to_setup_intro_screen_body">"Příklady:
+
+ "<li><ul>"Za různého osvětlení
+
+ "<li>S brýlemi a bez brýlí</li>"
+
+ "<li>S vousy a bez vousů</li>"
+
+ "</ul></li>"
+ Podržte telefon v úrovni očí."</string>
+    <string name="add_to_setup_intro_screen_continue_label">Další</string>
+    <string name="license_screen_header">Sdělení k softwaru s otevřeným zdrojovým kódem</string>
+    <string name="license_screen_continue_label">OK</string>
+    <string name="shared_cancel_label">Zrušit</string>
+</resources>

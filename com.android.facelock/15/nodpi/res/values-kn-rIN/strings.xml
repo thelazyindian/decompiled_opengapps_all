@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ಟ್ರಸ್ಟೆಡ್ ಫೇಸ್</string>
+    <string name="receiver_app_name">ಟ್ರಸ್ಟೆಡ್ ಫೇಸ್ ಪ್ರಸಾರ ರಿಸೀವರ್</string>
+    <string name="setup_app_name">ವಿಶ್ವಾಸಾರ್ಹ ಮುಖ ಸೇರಿಸಿ</string>
+    <string name="enrollment_continue_label">ಮುಂದೆ</string>
+    <string name="enrollment_done_label">ಮುಗಿದಿದೆ</string>
+    <string name="enrollment_initializing">ಪ್ರಾರಂಭಿಸಲಾಗುತ್ತಿದೆ...</string>
+    <string name="enrollment_start_message">ಡಾಟ್‌‌ ಮಾಡಲಾದ ಸ್ಥಳದೊಳಗೆ ನಿಮ್ಮ ಮುಖವನ್ನಿಡಿ</string>
+    <string name="gar_preview_description">ಕ್ಯಾಮೆರಾ ಪೂರ್ವವೀಕ್ಷಣೆ</string>
+    <string name="error_no_face">ನಿಮ್ಮ ಮುಖ ತೋರಿಸಿ</string>
+    <string name="enrollment_missing_landmarks">ಕಣ್ಣು, ಮೂಗು ಹಾಗೂ ಬಾಯಿ ತೋರಿಸಿ</string>
+    <string name="enrollment_missing_landmarks_status">ನಿಮ್ಮ ಲಕ್ಷಣಗಳನ್ನು ನೋಡಲು ಸಾಧ್ಯವಾಗುತ್ತಿಲ್ಲ</string>
+    <string name="enrollment_off_center_status">ನಿಮ್ಮ ಮುಖದ ಒಂದು ಭಾಗ ಕಾಣಿಸುತ್ತಿಲ್ಲ</string>
+    <string name="gar_enrollment_face_added">ಮುಖ ಸೇರಿಸಲಾಗಿದೆ</string>
+    <string name="enrollment_done">ಅರ್ಥವಾಯಿತು</string>
+    <string name="tutorial_app_name">ಟ್ರಸ್ಟೆಡ್ ಫೇಸ್ ಕುರಿತು</string>
+    <string name="tutorial_header">ಫೋನ್ ಅನ್‌ಲಾಕ್ ಮಾಡಲು ಅದನ್ನು ನೋಡಿ.</string>
+    <string name="tutorial_info_text">"ಈ ಸಂಗತಿಗಳು ನಿಮ್ಮ ಗಮನದಲ್ಲಿರಲಿ:
+
+ "<li><ul>"ನಿಮ್ಮ ಇತರ ಪ್ಯಾಟರ್ನ್, ಪಿನ್‌ ಅಥವಾ ಪಾಸ್‌ವರ್ಡ್‌ಗಳಿಗೆ ಹೋಲಿಸಿದರೆ ಮುಖ ಹೊಂದಾಣಿಕೆ ಅಷ್ಟು ಸುರಕ್ಷಿತವೇನಲ್ಲ.
+
+ "<li>ನಿಮ್ಮ ಹೋಲಿಕೆ ಇರುವ ಯಾರಾದರೂ ನಿಮ್ಮ ಫೋನ್‌ ಅನ್‌ಲಾಕ್‌ ಮಾಡಬಹುದು..</li>"
+
+ "<li>ನಿಮ್ಮ ಮುಖ ಗುರುತು ಹಿಡಿಯಲು ಬಳಸುವ ಡೇಟಾವನ್ನು ನಿಮ್ಮ ಫೋನ್‌ನಲ್ಲಿ ವೈಯಕ್ತಿಕವಾಗಿ ಇರಿಸಲಾಗಿರುತ್ತದೆ.</li>"
+
+ "</ul></li></string>
+    <string name="tutorial_continue_label">ಹೊಂದಿಸು</string>
+    <string name="intro_header">ಉತ್ತಮ ಫಲಿತಾಂಶಗಳಿಗಾಗಿ:</string>
+    <string name="intro_info_text">" "<li><ul>"ಒಳಾಂಗಣ ಸ್ಥಳವೊಂದನ್ನು ಹುಡುಕಿ—ತೀರಾ ಪ್ರಕಾಶಮಾನ ಅಥವಾ ತೀರಾ ಮಂದ ಬೆಳಕು ಇಲ್ಲದಿರಲಿ.
+
+ "<li>ಕಣ್ಣಿನ ಮಟ್ಟದಲ್ಲಿ ಫೋನ್ ಹಿಡಿದುಕೊಳ್ಳಿ.</li>"
+
+ "</ul></li></string>
+    <string name="intro_continue_label">ಮುಂದೆ</string>
+    <string name="endscreen_header">ಎಲ್ಲಾ ಸಿದ್ಧವಾಗಿದೆ!</string>
+    <string name="endscreen_info_text">ಅನ್‌ಲಾಕ್‌ ಮಾಡಲು ನೀವು ಬಯಸಿದಾಗ, ನಿಮ್ಮ ಪರದೆಯನ್ನು ಆನ್‌ ಮಾಡಿ ಮತ್ತು ಕ್ಯಾಮರಾಗೆ ನಿಮ್ಮ ಮುಖವನ್ನು ತೋರಿಸಿ.</string>
+    <string name="endscreen_bullet_one_text">ನಿಮ್ಮ ಫೋನ್ ನಿಮ್ಮನ್ನು ಗುರುತಿಸಿದ ತಕ್ಷಣವೇ ಅನ್‌ಲಾಕ್‌ ಮಾಡುತ್ತದೆ.</string>
+    <string name="endscreen_bullet_two_text">ನಿಮ್ಮ ಫೋನ್‌ ನಿಮ್ಮ ಮುಖವನ್ನು ಗುರುತಿಸದೆ ಇದ್ದಲ್ಲಿ, ನಿಮ್ಮ ನಮೂನೆ, ಪಿನ್‌, ಅಥವಾ ಪಾಸ್‌ವರ್ಡ್‌ನೊಂದಿಗೆ ನೀವು ಅನ್‌ಲಾಕ್‌ ಮಾಡಬಹುದು.</string>
+    <string name="endscreen_tip_text">ಸಲಹೆ: ವಿವಿಧ ಸಂದರ್ಭಗಳಲ್ಲಿ ನೀವು ಹೇಗೆ ತೋರುತ್ತೀರಿ ಎಂಬುದನ್ನು ತೋರಿಸುವ ಮೂಲಕ ಮುಖ ಹೊಂದಾಣಿಕೆಯನ್ನು ಸುಧಾರಿಸಿ.</string>
+    <string name="endscreen_continue_label">ಸರಿ</string>
+    <string name="endscreen_license_label">ಪರವಾನಗಿಗಳು</string>
+    <string name="addtosetup_app_name">ಮುಖ ಹೊಂದಾಣಿಕೆಯನ್ನು ಸುಧಾರಿಸಿ</string>
+    <string name="addtosetup_header">ವಿಭಿನ್ನ ಸಂದರ್ಭಗಳಲ್ಲಿ ನೀವು ಹೇಗೆ ಕಾಣುತ್ತೀರಿ ಎಂಬುದನ್ನು ತೋರಿಸಿ</string>
+    <string name="addtosetup_info_text">"ಉದಾಹರಣೆಗಳು:
+
+ "<li><ul>"ವಿಭಿನ್ನ ಬೆಳಕಿನಲ್ಲಿ
+
+ "<li>ಸೂಚಿತ ಕನ್ನಡಕದೊಂದಿಗೆ ಅಥವಾ ಇಲ್ಲದೆಯೇ</li>"
+
+"<li>ಗಡ್ಡಧಾರಿಯಾಗಿ ಅಥವಾ ಶೇವ್ ಮಾಡಿಕೊಂಡು</li>"
+
+ "</ul></li>"
+ಕಣ್ಣಿನ ಮಟ್ಟದಲ್ಲಿ ಫೋನ್ ಹಿಡಿದುಕೊಳ್ಳಿ."</string>
+    <string name="addtosetup_continue_label">ಮುಂದೆ</string>
+    <string name="license_screen_header">ಮುಕ್ತ ಮೂಲ ಪ್ರಕಟಣೆಗಳು</string>
+    <string name="license_screen_continue_label">ಸರಿ</string>
+    <string name="face_unlock_service_app_name">ಫೇಸ್ ಅನ್‌ಲಾಕ್ ಸೇವೆ</string>
+    <string name="trusted_face_service_app_name">ಟ್ರಸ್ಟೆಡ್ ಫೇಸ್ ಸೇವೆ</string>
+    <string name="service_face_not_found">ಮುಖವನ್ನು ಹುಡುಕಲು ಸಾಧ್ಯವಾಗಲಿಲ್ಲ</string>
+    <string name="service_not_a_match">ಕ್ಷಮಿಸಿ, ನಿಮ್ಮನ್ನು ಗುರುತಿಸಲಾಗಲಿಲ್ಲ</string>
+    <string name="service_liveliness_start">ಈಗ ಕಣ್ಣು ಮಿಟುಕಿಸಿ</string>
+    <string name="service_liveliness_timeout">ನಿಮ್ಮ ಕಣ್ಣು ಮಿಟುಕನ್ನು ಹಿಡಿಯಲಾಗಲಿಲ್ಲ</string>
+    <string name="service_low_ligthing">ಬೆಳಕು ತೀರಾ ಕಡಿಮೆಯಿದೆ</string>
+    <string name="shared_initialize_error">ನಿಮ್ಮ ಮುಖ ಕಂಡುಹಿಡಿಯುವುದನ್ನು ಪ್ರಾರಂಭಿಸಲು ಸಾಧ್ಯವಾಗಲಿಲ್ಲ</string>
+    <string name="shared_camera_error">ಕ್ಯಾಮೆರಾ ಲಭ್ಯವಿಲ್ಲ</string>
+    <string name="shared_read_gallery_error">ದಯವಿಟ್ಟು ಸೆಟಪ್ ಅನ್ನು ಪುನರಾವರ್ತನೆ ಮಾಡಿ</string>
+    <string name="shared_cancel_label">ರದ್ದುಮಾಡು</string>
+</resources>

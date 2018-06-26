@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="NNNtrackstolibrary">
+        <item quantity="other">%d sange blev føjet til samlingen.</item>
+        <item quantity="one">%d sang blev føjet til samlingen.</item>
+    </plurals>
+    <plurals name="Nsongs">
+        <item quantity="other">%d sange</item>
+        <item quantity="one">%d sang</item>
+    </plurals>
+</resources>

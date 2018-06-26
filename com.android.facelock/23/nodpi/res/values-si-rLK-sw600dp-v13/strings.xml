@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="intro_screen_header">ඔබගේ ටැබ්ලටය දෙස බැලීමෙන් එහි අගුළු හරින්න</string>
+    <string name="intro_screen_body">"මතක තබා ගන්න:
+
+ "<li><ul>"මුහුණ ගැළපීම රටාව, PIN හෝ මුරපදයට වඩා ආරක්ෂාකාරී බව අඩුය
+
+ "<li>ඔබ වගේ පෙනෙන අයෙකුට ඔබගේ ටැබ්ලටයේ අගුළු ඇරිය හැක</li>"
+
+ "<li>ඔබගේ මුහුණ හඳුනාගැනීමට යොදාගත් දත්ත ටැබ්ලටයේ පුද්ගලිකව තබා ගැනේ</li> </ul></li></string>
+    <string name="instructions_screen_body">" "<li><ul>"වඩා ආලෝකමත් හෝ අඳුරු නොවන ගෘහස්ථ තැනක් සොයන්න
+
+ "<li>ටැබ්ලටය ඇස් මට්ටමෙන් තබා ගන්න</li> </ul></li></string>
+    <string name="end_screen_body">ඔබගේ ටැබ්ලටය අගුලු ඇරීමට, ඔබගේ තිරය සබල කර කැමරාව වෙත බලන්න</string>
+    <string name="end_screen_bullet_one_text">ඔබගේ ටැබ්ලටය ඔබව හඳුනාගත් විගසම අගුළු අරී</string>
+    <string name="add_to_setup_intro_screen_body">"උදාහරණ:
+
+ "<li><ul>"වෙනස් ආලෝක තත්ත්වයන් යටතේ
+
+ "<li>නියම කළ කණ්ණාඩි සහිතව හෝ රහිතව</li>"
+
+ "<li>රැවුල සහිත හෝ පිරිසුදුව මුඩු කළ</li>"
+
+ "</ul></li>"
+ ටැබ්ලටය ඇස් මට්ටමෙන් තබා ගන්න"</string>
+</resources>

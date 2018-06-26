@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pinagkakatiwalaang mukha</string>
+    <string name="trusted_face_service_app_name">Serbisyo ng Trusted Face</string>
+    <string name="receiver_app_name">Broadcast Receiver ng Trusted Face</string>
+    <string name="setup_app_name">Magdagdag ng pinagkakatiwalaang mukha</string>
+    <string name="add_to_setup_app_name">Pahusayin ang pagtutugma ng mukha</string>
+    <string name="intro_screen_title">Tungkol sa pinagkakatiwalaang mukha</string>
+    <string name="intro_screen_header">I-unlock ang iyong telepono sa pamamagitan ng pagtingin dito</string>
+    <string name="intro_screen_body">"Tandaan:
+
+ "<li><ul>"Hindi masyadong secure ang pagtutugma ng mukha kumpara sa isang pattern, PIN o password
+
+ "<li>Maaaring ma-unlock ng isang taong kamukha mo ang iyong telepono</li>"
+
+ "<li>Pinapanatiling pribado sa iyong telepono ang data na ginamit upang kilalanin ang iyong mukha</li> </ul></li></string>
+    <string name="intro_screen_continue_label">I-set up</string>
+    <string name="instructions_screen_title">Magdagdag ng pinagkakatiwalaang mukha</string>
+    <string name="instructions_screen_header">Para sa pinakamahusay na mga resulta:</string>
+    <string name="instructions_screen_body">" "<li><ul>"Maghanap ng lugar sa loob na hindi masyadong maliwanag o hindi masyadong madilim
+
+ "<li>Hawakan ang telepono kapantay ng mata</li> </ul></li></string>
+    <string name="instructions_screen_continue_label">Susunod</string>
+    <string name="enrollment_screen_message_initializing">Nagsisimula…</string>
+    <string name="enrollment_screen_message_initialization_error">Hindi masimulan ang paghahanap sa iyong mukha</string>
+    <string name="enrollment_screen_message_camera_error">Hindi available ang camera</string>
+    <string name="enrollment_start_message">Panatilihin ang mukha sa loob ng lugar na may tuldok</string>
+    <string name="enrollment_screen_message_instructions">Panatilihing nasa bilog ang itaas ng iyong ulo at dulo ng iyong baba</string>
+    <string name="enrollment_screen_message_missing_landmarks">Ipakita ang mga mata, ilong at bibig</string>
+    <string name="enrollment_screen_message_done">Naidagdag ang mukha</string>
+    <string name="enrollment_screen_status_no_face">Ipakita ang iyong mukha</string>
+    <string name="enrollment_screen_status_face_off_center">Hindi makita ang bahagi ng iyong mukha</string>
+    <string name="enrollment_screen_status_missing_landmarks">Hindi makita ang iyong mga bahagi</string>
+    <string name="enrollment_screen_continue_label">Susunod</string>
+    <string name="enrollment_screen_done_label">Tapos na</string>
+    <string name="enrollment_screen_talkback_preview_description">Preview ng camera</string>
+    <string name="enrollment_screen_talkback_face_added">Naidagdag ang mukha</string>
+    <string name="end_screen_title">Handa na ang lahat!</string>
+    <string name="end_screen_body">Upang i-unlock ang iyong telepono, i-on lang ang iyong screen at tumingin sa camera</string>
+    <string name="end_screen_bullet_one_text">Maa-unlock ang iyong telepono kapag natukoy ka na nito</string>
+    <string name="end_screen_bullet_two_text">Kung hindi natukoy ang iyong mukha, gamitin na lang ang iyong pattern, PIN o password sa pag-unlock</string>
+    <string name="end_screen_tip_text">"Tip: Pahusayin ang pagtutugma ng mukha sa pamamagitan ng pagpapakita ng iyong hitsura sa iba't ibang kundisyon"</string>
+    <string name="end_screen_licenses_label">Mga Lisensya</string>
+    <string name="end_screen_continue_label">Tapos na</string>
+    <string name="add_to_setup_intro_screen_title">Pahusayin ang pagtutugma ng mukha</string>
+    <string name="add_to_setup_intro_screen_header">"Ipakita kung ano ang iyong hitsura sa iba't ibang kundisyon"</string>
+    <string name="add_to_setup_intro_screen_body">"Mga halimbawa:
+
+ "<li><ul>"Sa ibang liwanag
+
+ "<li>May iniatas mang salamin o wala</li>"
+
+ "<li>May balbas o bagong ahit</li>"
+
+ "</ul></li>"
+ Hawakan ang telepono kapantay ng mata"</string>
+    <string name="add_to_setup_intro_screen_continue_label">Susunod</string>
+    <string name="license_screen_header">Ang Abiso ng Open Source</string>
+    <string name="license_screen_continue_label">OK</string>
+    <string name="shared_cancel_label">Kanselahin</string>
+</resources>

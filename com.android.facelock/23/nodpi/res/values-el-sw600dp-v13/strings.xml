@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="intro_screen_header">Ξεκλειδώστε το tablet σας απλώς κοιτώντας το</string>
+    <string name="intro_screen_body">"Μην ξεχνάτε:
+
+ "<li><ul>"Η αντιστοίχιση προσώπου είναι λιγότερο ασφαλής από ό,τι ένα μοτίβο, ένας κωδικός PIN ή ένας κωδικός πρόσβασης
+
+ "<li>Κάποιος που σας μοιάζει μπορεί να ξεκλειδώσει το tablet σαςCLOSE</li>"
+
+ "<li>Τα δεδομένα που χρησιμοποιούνται για την αναγνώριση του προσώπου σας διατηρούνται ιδιωτικά στο tablet σας</li> </ul></li></string>
+    <string name="instructions_screen_body">" "<li><ul>"Βρείτε κάποιο σημείο σε έναν εσωτερικό χώρο που να μην είναι πολύ φωτεινό ή πολύ σκοτεινό
+
+ "<li>Κρατήστε το tablet στο ύψος των ματιών</li> </ul></li></string>
+    <string name="end_screen_body">Για να ξεκλειδώσετε το tablet σας, γείρετε απλώς την οθόνη και κοιτάξτε την κάμερα.</string>
+    <string name="end_screen_bullet_one_text">Το tablet σας ξεκλειδώνει μόλις σας αναγνωρίσει.</string>
+    <string name="add_to_setup_intro_screen_body">"Παραδείγματα:
+
+ "<li><ul>"Σε διαφορετικό φωτισμό
+
+ "<li>Με ή χωρίς γυαλιά</li>"
+
+ "<li>Με ή χωρίς γένια</li>"
+
+ "</ul></li>"
+ Κρατήστε το tablet στο ύψος των ματιών σας."</string>
+</resources>

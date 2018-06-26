@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="tutorial_header">Olhe para seu tablet para desbloqueá-lo.</string>
+    <string name="tutorial_info_text">"Tenha em mente os seguintes fatores:
+
+ "<li><ul>"O reconhecimento facial é menos preciso que um padrão, PIN ou senha.
+
+ "<li>Uma pessoa parecida com você pode desbloquear o tablet.</li>"
+
+ "<li>Os dados usados no reconhecimento facial são mantidos em sigilo no tablet.</li>"
+
+ "</ul></li></string>
+    <string name="intro_info_text">" "<li><ul>"Encontre um local fechado que não seja muito claro nem muito escuro.
+
+ "<li>Segure o tablet no nível dos olhos.</li>"
+
+ "</ul></li></string>
+    <string name="endscreen_bullet_one_text">O tablet será desbloqueado assim que reconhecer você.</string>
+    <string name="endscreen_bullet_two_text">Caso o tablet não reconheça seu rosto, você poderá desbloqueá-lo usando seu padrão, PIN ou senha.</string>
+    <string name="addtosetup_info_text">"Exemplos:
+
+"<li><ul>"Em diferentes condições de iluminação
+
+"<li>Com ou sem óculos</li>"
+
+"<li>Com ou sem barba</li>"
+
+"</ul></li>"
+Segure o tablet no nível dos olhos."</string>
+</resources>

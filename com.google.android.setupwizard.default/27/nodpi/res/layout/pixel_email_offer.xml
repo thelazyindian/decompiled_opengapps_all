@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:background="?android:selectableItemBackground" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <View android:background="?android:listDivider" android:layout_width="fill_parent" android:layout_height="1.0dip" />
+    <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content" style="@style/SuwItemContainer.Verbose">
+        <FrameLayout android:gravity="start" android:layout_gravity="top" android:layout_width="@dimen/suw_items_icon_container_width" android:layout_height="wrap_content">
+            <ImageView android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/ic_mail" android:contentDescription="@null" />
+        </FrameLayout>
+        <LinearLayout android:orientation="vertical" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/suw_items_verbose_padding_bottom_extra" android:layout_weight="1.0">
+            <com.android.setupwizardlib.view.RichTextView android:gravity="start" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/pixel_email_opt_in_summary" android:textAlignment="viewStart" style="@style/SuwItemSummary" />
+        </LinearLayout>
+        <Switch android:layout_gravity="center_vertical" android:id="@id/pixel_email_switch" android:layout_width="wrap_content" android:layout_height="fill_parent" style="@style/SuwSwitchStyle" />
+    </LinearLayout>
+    <View android:background="?android:listDivider" android:layout_width="fill_parent" android:layout_height="1.0dip" />
+</LinearLayout>

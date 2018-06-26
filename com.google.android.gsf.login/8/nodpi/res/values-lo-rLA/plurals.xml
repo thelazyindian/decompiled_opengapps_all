@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="error_missing_apps_plurals">
+        <item quantity="other">" ບັນຊີນີ້ບໍ່ສາມາດໃຊ້ໄດ້ເພາະວ່າມັນບໍ່ມີແອັບຯ: ^1. ຕິດຕໍ່ຫາຜູ່ເບິ່ງແຍງລະບົບໂດເມນ "&lt;b>^2&lt;/b> ຫຼື ເຂົ້າສູ່ລະບົບດ້ວຍບັນຊີອື່ນ.</item>
+        <item quantity="one">" ບັນຊີນີ້ບໍ່ສາມາດໃຊ້ໄດ້ເພາະວ່າມັນບໍ່ມີແອັບຯ: ^1. ຕິດຕໍ່ຫາຜູ່ເບິ່ງແຍງລະບົບໂດເມນ "&lt;b>^2&lt;/b> ຫຼື ເຂົ້າສູ່ລະບົບດ້ວຍບັນຊີອື່ນ.</item>
+    </plurals>
+</resources>

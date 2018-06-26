@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="shutdown_countdown_text">
+        <item quantity="other">%d సెకన్లలో షట్ డౌన్ అవుతుంది…</item>
+        <item quantity="one">1 సెకనులో షట్ డౌన్ అవుతుంది…</item>
+    </plurals>
+    <plurals name="sim_missing_title">
+        <item quantity="other">SIM కార్డ్‌లను చేర్చండి</item>
+        <item quantity="one">SIM కార్డ్‌ను చేర్చండి</item>
+    </plurals>
+    <plurals name="sim_missing_text_tablet">
+        <item quantity="other">ఎలా చేయాలో రూఢీగా తెలియదా? మీ టాబ్లెట్‌తో పాటు అందించిన సూచనలను చూడండి.</item>
+        <item quantity="one">ఎలా చేయాలో రూఢీగా తెలియదా? మీ టాబ్లెట్‌తో పాటు అందించిన సూచనలను చూడండి.</item>
+    </plurals>
+    <plurals name="sim_missing_text_device">
+        <item quantity="other">ఎలా చేయాలో రూఢీగా తెలియదా? మీ పరికరంతో పాటు అందించిన సూచనలను చూడండి.</item>
+        <item quantity="one">ఎలా చేయాలో రూఢీగా తెలియదా? మీ పరికరంతో పాటు అందించిన సూచనలను చూడండి.</item>
+    </plurals>
+    <plurals name="sim_missing_text_default">
+        <item quantity="other">ఎలా చేయాలో రూఢీగా తెలియదా? మీ ఫోన్‌తో పాటు అందించిన సూచనలను చూడండి.</item>
+        <item quantity="one">ఎలా చేయాలో రూఢీగా తెలియదా? మీ ఫోన్‌తో పాటు అందించిన సూచనలను చూడండి.</item>
+    </plurals>
+    <plurals name="walled_garden_check_timeout_text">
+        <item quantity="other">దీనికి గరిష్టంగా %d నిమిషాలు పట్టవచ్చు</item>
+        <item quantity="one">దీనికి గరిష్టంగా %d నిమిషం పట్టవచ్చు</item>
+    </plurals>
+</resources>

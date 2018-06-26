@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Trusted Face</string>
+    <string name="receiver_app_name">Trusted Face -lähetyksen vastaanotto</string>
+    <string name="setup_app_name">Lisää luotettava kasvokuva</string>
+    <string name="enrollment_continue_label">Seuraava</string>
+    <string name="enrollment_done_label">Valmis</string>
+    <string name="enrollment_initializing">Käynnistyy...</string>
+    <string name="enrollment_start_message">Pidä kasvot pisteillä merkityn alueen sisäpuolella</string>
+    <string name="gar_preview_description">Kameran esikatselu</string>
+    <string name="error_no_face">Näytä kasvosi</string>
+    <string name="enrollment_missing_landmarks">Silmien, nenän ja suun pitää näkyä</string>
+    <string name="enrollment_missing_landmarks_status">Emme tunnistaneet piirteitäsi</string>
+    <string name="enrollment_off_center_status">Osa kasvoistasi ei ole näkyvissä</string>
+    <string name="gar_enrollment_face_added">Kasvot lisätty</string>
+    <string name="enrollment_done">Selvä</string>
+    <string name="tutorial_app_name">Tietoja luotettavasta kasvokuvasta</string>
+    <string name="tutorial_header">Avaa puhelin katsomalla ruutua.</string>
+    <string name="tutorial_info_text">"Muista seuraavat asiat:
+
+ "<li><ul>"Kasvojen tunnistus ei ole yhtä turvallinen kuin kuvio, PIN-koodi tai salasana.
+
+ "<li>Sinua muistuttava henkilö voi ehkä avata puhelimen lukituksen.</li>"
+
+ "<li>Kasvojen tunnistukseen käytettävät tiedot on tallennettu yksityisesti puhelimeen.</li>"
+
+ "</ul></li></string>
+    <string name="tutorial_continue_label">Määritä asetukset</string>
+    <string name="intro_header">Näin saat parhaat tulokset:</string>
+    <string name="intro_info_text">" "<li><ul>"Etsi sisätiloista paikka, jonka valaistus ei ole liian kirkas eikä liian pimeä.
+
+ "<li>Pidä puhelinta silmiesi tasossa.</li>"
+
+ "</ul></li></string>
+    <string name="intro_continue_label">Seuraava</string>
+    <string name="endscreen_header">Valmista tuli!</string>
+    <string name="endscreen_info_text">Kun haluat avata lukituksen, avaa näyttö ja katso kameraan.</string>
+    <string name="endscreen_bullet_one_text">Puhelimen lukitus avataan heti, kun laite tunnistaa sinut.</string>
+    <string name="endscreen_bullet_two_text">Jos puhelin ei tunnista kasvojasi, voit avata lukituksen kuviolla, PIN-koodilla tai salasanalla.</string>
+    <string name="endscreen_tip_text">Vinkki: paranna kasvojen tunnistusta kuvaamalla kasvot erilaisissa olosuhteissa.</string>
+    <string name="endscreen_continue_label">OK</string>
+    <string name="endscreen_license_label">Käyttöoikeudet</string>
+    <string name="addtosetup_app_name">Paranna kasvojen tunnistusta</string>
+    <string name="addtosetup_header">Kuvaa kasvosi eri olosuhteissa.</string>
+    <string name="addtosetup_info_text">"Esimerkkejä:
+
+ "<li><ul>"Erilaisissa valo-olosuhteissa
+
+ "<li>Silmälaseilla tai ilman</li>"
+
+ "<li>Parta tai ei partaa</li>"
+
+ "</ul></li>"
+Pidä puhelinta silmiesi tasossa."</string>
+    <string name="addtosetup_continue_label">Seuraava</string>
+    <string name="license_screen_header">Avointa lähdekoodia koskevat ilmoitukset</string>
+    <string name="license_screen_continue_label">OK</string>
+    <string name="face_unlock_service_app_name">Face Unlock -palvelu</string>
+    <string name="trusted_face_service_app_name">Trusted Face -palvelu</string>
+    <string name="service_face_not_found">Kasvoja ei löydy</string>
+    <string name="service_not_a_match">Emme valitettavasti tunnista sinua</string>
+    <string name="service_liveliness_start">Räpäytä silmiä nyt</string>
+    <string name="service_liveliness_timeout">Emme havainneet silmänräpäytystä</string>
+    <string name="service_low_ligthing">Valaistus on liian heikko</string>
+    <string name="shared_initialize_error">Kasvojen etsimisen aloitus epäonnistui</string>
+    <string name="shared_camera_error">Kamera ei ole käytettävissä</string>
+    <string name="shared_read_gallery_error">Toista asennus</string>
+    <string name="shared_cancel_label">Peruuta</string>
+</resources>

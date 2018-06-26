@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ubuso obuthembekile</string>
+    <string name="trusted_face_service_app_name">Isevisi Yobuso Obuthembekile</string>
+    <string name="receiver_app_name">Isitholi sokusakaza ubuso esethembekile</string>
+    <string name="setup_app_name">Engeza ubuso obuthembekile</string>
+    <string name="add_to_setup_app_name">Thuthukisa ukufanisa ubuso</string>
+    <string name="intro_screen_title">Mayelana nobuso obuthembekile</string>
+    <string name="intro_screen_header">Vula ifoni yakho ngokuyibheka</string>
+    <string name="intro_screen_body">"Khumbula:
+
+ "<li><ul>"Ukufanisa kobuso kuphephe kancane kunephethini, iphinikhodi, noma iphasiwedi
+
+ "<li>Omunye ofana nawe angakwazi ukuvula ithebhuleti yakho</li>"
+
+ "<li>Idatha esetshenziselwa ukubona ubuso bakho igcinwa iyimfihlo efonini yakho</li> </ul></li></string>
+    <string name="intro_screen_continue_label">Setha</string>
+    <string name="instructions_screen_title">Engeza ubuso obuthembekile</string>
+    <string name="instructions_screen_header">Ngemiphumela ehamba phambili:</string>
+    <string name="instructions_screen_body">" "<li><ul>"Thola indawo endlini engakhanyi kakhulu noma emnyama kakhulu
+
+ "<li>Bamba ifoni kuleveli yeso</li> </ul></li></string>
+    <string name="instructions_screen_continue_label">Okulandelayo</string>
+    <string name="enrollment_screen_message_initializing">Iyaqalisa...</string>
+    <string name="enrollment_screen_message_initialization_error">Ayikwazanga ukuqala ukuthola ubuso bakho</string>
+    <string name="enrollment_screen_message_camera_error">Ikhamera ayitholakali</string>
+    <string name="enrollment_start_message">Gcina ubuso ngaphakathi kwendawo enamachashazi</string>
+    <string name="enrollment_screen_message_instructions">Gcina okungaphezulu kwekhanda lakho nokungaphansi kwesilevu sakho kungaphakathi kombuthano</string>
+    <string name="enrollment_screen_message_missing_landmarks">Bonisa amehlo, ikhala, nomlomo</string>
+    <string name="enrollment_screen_message_done">Ubuso bungeziwe</string>
+    <string name="enrollment_screen_status_no_face">Khombisa ubuso bakho</string>
+    <string name="enrollment_screen_status_face_off_center">Ayikwazi ukubona enye ingxenye yobuso bakho</string>
+    <string name="enrollment_screen_status_missing_landmarks">Ayikwazi ukubona izici zakho</string>
+    <string name="enrollment_screen_continue_label">Okulandelayo</string>
+    <string name="enrollment_screen_done_label">Kwenziwe</string>
+    <string name="enrollment_screen_talkback_preview_description">Ukuhlola kuqala kwekhamera</string>
+    <string name="enrollment_screen_talkback_face_added">Ubuso bungeziwe</string>
+    <string name="end_screen_title">Konke kusethiwe!</string>
+    <string name="end_screen_body">Ukuze uvule ifoni yakho, vele uvule isikrini sakho uphinde ubheke ikhamera</string>
+    <string name="end_screen_bullet_one_text">Ifoni yakho izovula ngemuva nje kokuthi ibone ukuthi nguwe</string>
+    <string name="end_screen_bullet_two_text">Uma ngabe ubuso bakho bungabonwa, vula ngephethini yakho, iphinikhodi, noma iphasiwedi esikhundleni salokho</string>
+    <string name="end_screen_tip_text">Ithiphu: Thuthukisa ukufanisa kobuso ngokubonisa ukuthi ubukeka kanjani kuzimo ezihlukile</string>
+    <string name="end_screen_licenses_label">Amalayisense</string>
+    <string name="end_screen_continue_label">Kwenziwe</string>
+    <string name="add_to_setup_intro_screen_title">Thuthukisa ukufanisa ubuso</string>
+    <string name="add_to_setup_intro_screen_header">Bonisa ukuthi ubonakala kanjani kuzimo ezihlukile</string>
+    <string name="add_to_setup_intro_screen_body">"Izibonelo:
+
+ "<li><ul>"Emkhanyweni owehlukile
+
+ "<li>Ngezibuko ezichaziwe noma ngaphandle kwazo</li>"
+
+ "<li>Ngentshebe noma okusheviwe</li>"
+
+ "</ul></li>"
+ Bamba ifoni kuleveli yeso"</string>
+    <string name="add_to_setup_intro_screen_continue_label">Okulandelayo</string>
+    <string name="license_screen_header">Izaziso zomthombo ovulekile</string>
+    <string name="license_screen_continue_label">KULUNGILE</string>
+    <string name="shared_cancel_label">Khansela</string>
+</resources>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Итгэмжлэгдсэн царай</string>
+    <string name="receiver_app_name">Итгэмжлэгдсэн царайгаар нэвтрүүлэг хүлээн авагч</string>
+    <string name="setup_app_name">Итгэмжлэгдсэн царай нэмэх</string>
+    <string name="enrollment_continue_label">Дараах</string>
+    <string name="enrollment_done_label">Дууссан</string>
+    <string name="enrollment_initializing">Эхлүүлж байна…</string>
+    <string name="enrollment_start_message">Царайгаа цэгтэй хэсэг дотор тааруулж байлгана уу</string>
+    <string name="gar_preview_description">Камерын урьдчилан харах</string>
+    <string name="error_no_face">Царайгаа харуулна уу</string>
+    <string name="enrollment_missing_landmarks">Нүд, хамар, амаа харуулна уу</string>
+    <string name="enrollment_missing_landmarks_status">Таны онцлогуудыг харж чадахгүй байна</string>
+    <string name="enrollment_off_center_status">Таны царайны хэсгийг харж чадахгүй байна</string>
+    <string name="gar_enrollment_face_added">Царай нэмэгдсэн</string>
+    <string name="enrollment_done">Ойлголоо</string>
+    <string name="tutorial_app_name">Итгэмжлэгдсэн царайн тухай</string>
+    <string name="tutorial_header">Өөрийнхөө утасны түгжээг тайлахын тулд утсаа ширтээрэй.</string>
+    <string name="tutorial_info_text">"Эдгээр зүйлсийг тогтооно уу:
+
+"<li><ul>"Царайгаар түгжээ тайлагч нь хээ, PIN, буюу нууц үг ашигласнаас найдвар муутай.
+
+"<li>Тантай төстэй царайтай хэн нэгэн таны утсыг нээж чадна.</li>"
+
+"<li>Таны царайг танихад ашигладаг датаг утсан дээр нууцлаж хадгалдаг.</li>"
+
+"</ul></li></string>
+    <string name="tutorial_continue_label">Тохируулах</string>
+    <string name="intro_header">Сайн илэрц гаргахын тулд:</string>
+    <string name="intro_info_text">" "<li><ul>"Хэт гэрэлтэй буюу хэт харанхуй биш —байшин доторх газар очих.
+
+ "<li>Утсыг нүдний түвшинд барих.</li>"
+
+ "</ul></li></string>
+    <string name="intro_continue_label">Дараах</string>
+    <string name="endscreen_header">Бүгдийг тохируулсан!</string>
+    <string name="endscreen_info_text">Түгжээг тайлахыг хүссэн үед та дэлгэцээ асаагаад нүүрнийхээ өмнө камерыг аваачихад хангалттай.</string>
+    <string name="endscreen_bullet_one_text">Таны утас таныг танимагц түгжээ нь тайлагдана.</string>
+    <string name="endscreen_bullet_two_text">Хэрэв таны утас таны царайг танихгүй бол та өөрийн хээ, PIN, эсвэл нууц үгээр онгойлгож болно.</string>
+    <string name="endscreen_tip_text">Зөвлөмж: Өөрийнхөө царайг өөр өөр нөхцөлд зургийг нь авснаар царай танилтыг сайжруулна.</string>
+    <string name="endscreen_continue_label">Тийм</string>
+    <string name="endscreen_license_label">Лицензүүд</string>
+    <string name="addtosetup_app_name">Царайгаар таниулахыг сайжруулах</string>
+    <string name="addtosetup_header">Өөр өөр нөхцөлд хэрхэн харагддагаа оруулна уу.</string>
+    <string name="addtosetup_info_text">"Жишээнүүд:
+
+ "<li><ul>"Өөр өөр гэрэлтүүлэгт
+
+ "<li>Харааны шилтэй буюу шилгүй</li>"
+
+ "<li>Сахалтай буюу сахалгүй</li>"
+
+ "</ul></li>"
+Утсаа нүдний түвшинд барих."</string>
+    <string name="addtosetup_continue_label">Дараах</string>
+    <string name="license_screen_header">Нээлттэй Эхийн Сануулга</string>
+    <string name="license_screen_continue_label">ТИЙМ</string>
+    <string name="face_unlock_service_app_name">Царайгаар Тайлагч Үйлчилгээ</string>
+    <string name="trusted_face_service_app_name">Итгэмжлэгдсэн царай үйлчилгээ</string>
+    <string name="service_face_not_found">Царай олж чадсангүй</string>
+    <string name="service_not_a_match">Уучлаарай, таныг танихгүй байна</string>
+    <string name="service_liveliness_start">Одоо анивчина уу</string>
+    <string name="service_liveliness_timeout">Таны нүд анивчихыг авч чадсангүй</string>
+    <string name="service_low_ligthing">Гэрэл хэт бага байна</string>
+    <string name="shared_initialize_error">Таны царайг хайлгаж чадсангүй</string>
+    <string name="shared_camera_error">Камер ашиглах боломжгүй</string>
+    <string name="shared_read_gallery_error">Тохируулгыг давтана уу</string>
+    <string name="shared_cancel_label">Цуцлах</string>
+</resources>

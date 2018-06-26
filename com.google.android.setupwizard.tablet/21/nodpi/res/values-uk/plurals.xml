@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="shutdown_countdown_text">
+        <item quantity="other">Вимкнення через %d сек...</item>
+        <item quantity="one">Вимкнення через 1 секунду…</item>
+    </plurals>
+    <plurals name="sim_missing_title">
+        <item quantity="other">Вставте SIM-карти</item>
+        <item quantity="one">Вставте SIM-карту</item>
+    </plurals>
+    <plurals name="sim_missing_text_tablet">
+        <item quantity="other">Щоб вставити SIM-карти, прочитайте інструкції, які входять у комплект планшета.</item>
+        <item quantity="one">Щоб вставити SIM-карту, прочитайте інструкції, які входять у комплект планшета.</item>
+    </plurals>
+    <plurals name="sim_missing_text_device">
+        <item quantity="other">Щоб вставити SIM-карти, прочитайте інструкції, які входять у комплект пристрою.</item>
+        <item quantity="one">Щоб вставити SIM-карту, прочитайте інструкції, які входять у комплект пристрою.</item>
+    </plurals>
+    <plurals name="sim_missing_text_default">
+        <item quantity="other">Щоб вставити SIM-карти, прочитайте інструкції, які входять у комплект телефона.</item>
+        <item quantity="one">Щоб вставити SIM-карту, прочитайте інструкції, які входять у комплект телефона.</item>
+    </plurals>
+</resources>

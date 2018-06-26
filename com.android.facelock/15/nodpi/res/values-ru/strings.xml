@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Распознавание лиц</string>
+    <string name="receiver_app_name">Распознавание лиц</string>
+    <string name="setup_app_name">Добавьте снимок лица</string>
+    <string name="enrollment_continue_label">Далее</string>
+    <string name="enrollment_done_label">Готово</string>
+    <string name="enrollment_initializing">Подготовка к работе...</string>
+    <string name="enrollment_start_message">Лицо должно находиться в пределах области, отмеченной точками</string>
+    <string name="gar_preview_description">Камера готова.</string>
+    <string name="error_no_face">Лица не видно</string>
+    <string name="enrollment_missing_landmarks">Черты лица не видны</string>
+    <string name="enrollment_missing_landmarks_status">Не удалось распознать черты лица</string>
+    <string name="enrollment_off_center_status">Часть лица не видна</string>
+    <string name="gar_enrollment_face_added">Сканирование завершено.</string>
+    <string name="enrollment_done">ОК</string>
+    <string name="tutorial_app_name">О распознавании лиц</string>
+    <string name="tutorial_header">Чтобы разблокировать экран, посмотрите в камеру телефона.</string>
+    <string name="tutorial_info_text">"Важно!
+
+"<li><ul>"Распознавание лица дает менее надежную защиту, чем графический ключ, PIN-код или пароль.
+
+"<li>Разблокировать телефон смогут похожие на вас люди.</li>"
+
+"<li>Данные, используемые для распознавания вашего лица, хранятся только на этом устройстве.</li>"
+
+"</ul></li></string>
+    <string name="tutorial_continue_label">Настроить</string>
+    <string name="intro_header">Как добиться оптимальных результатов</string>
+    <string name="intro_info_text">" "<li><ul>"Найдите в помещении место, где не слишком светло, но и не слишком темно.
+
+ "<li>Держите телефон на уровне глаз.</li>"
+
+ "</ul></li></string>
+    <string name="intro_continue_label">Далее</string>
+    <string name="endscreen_header">Готово!</string>
+    <string name="endscreen_info_text">Чтобы разблокировать устройство, включите экран и посмотрите в камеру.</string>
+    <string name="endscreen_bullet_one_text">Если телефон распознает ваше лицо, он будет разблокирован.</string>
+    <string name="endscreen_bullet_two_text">Если телефон не распознает ваше лицо, необходимо будет ввести графический ключ, PIN-код или пароль.</string>
+    <string name="endscreen_tip_text">Совет. Распознавание будет работать точнее, если вы сделаете снимки своего лица при разном освещении.</string>
+    <string name="endscreen_continue_label">ОК</string>
+    <string name="endscreen_license_label">Лицензии</string>
+    <string name="addtosetup_app_name">Настройка распознавания</string>
+    <string name="addtosetup_header">Сфотографируйтесь при разном освещении</string>
+    <string name="addtosetup_info_text">"Примеры
+
+ "<li><ul>"При разном освещении
+
+ "<li>В очках и без</li>"
+
+ "<li>В шляпе и без</li>"
+
+ "</ul></li>"
+Держите телефон на уровне глаз."</string>
+    <string name="addtosetup_continue_label">Далее</string>
+    <string name="license_screen_header">Уведомления о лицензионных соглашениях для ПО с открытым исходным кодом</string>
+    <string name="license_screen_continue_label">ОК</string>
+    <string name="face_unlock_service_app_name">Фейсконтроль</string>
+    <string name="trusted_face_service_app_name">Распознавание лиц</string>
+    <string name="service_face_not_found">Лицо не распознано</string>
+    <string name="service_not_a_match">Я не узнаю вас в гриме</string>
+    <string name="service_liveliness_start">Моргните</string>
+    <string name="service_liveliness_timeout">Моргание не зарегистрировано</string>
+    <string name="service_low_ligthing">Плохое освещение</string>
+    <string name="shared_initialize_error">Не удается распознать ваше лицо</string>
+    <string name="shared_camera_error">Камера недоступна</string>
+    <string name="shared_read_gallery_error">Повторите настройку</string>
+    <string name="shared_cancel_label">Отмена</string>
+</resources>

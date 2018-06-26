@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="common_google_play_services_notification_ticker">Google Play ծառայությունների սխալ կա</string>
+    <string name="common_google_play_services_notification_needs_installation_title">Ինչ-որ հավելված պահանջում է տեղադրել Google Play ծառայությունները:</string>
+    <string name="common_google_play_services_notification_needs_update_title">Ինչ-որ հավելված պահանջում է թարմացնել Google Play ծառայությունները:</string>
+    <string name="common_android_wear_notification_needs_update_text">Ծրագիրը պահանջում է թարմացնել Android Wear-ը:</string>
+    <string name="common_google_play_services_needs_enabling_title">Ինչ-որ հավելված պահանջում է միացնել Google Play ծառայությունները:</string>
+    <string name="common_google_play_services_error_notification_requested_by_msg">%1$s-ի հարցմամբ</string>
+    <string name="common_google_play_services_install_title">Տեղադրեք Google Play ծառայությունները</string>
+    <string name="common_google_play_services_install_text_phone">Այս հավելվածը չի գործարկվի առանց Google Play ծառայությունների, որոնք բացակայում են ձեր հեռախոսում:</string>
+    <string name="common_google_play_services_install_text_tablet">Այս հավելվածը չի գործարկվի առանց Google Play ծառայությունների, որոնք բացակայում են ձեր գրասալիկում:</string>
+    <string name="common_google_play_services_install_button">Տեղադրել Google Play ծառայությունները</string>
+    <string name="common_google_play_services_enable_title">Միացնել Google Play ծառայությունները</string>
+    <string name="common_google_play_services_enable_text">Այս ծրագիրը չի աշխատի, եթե դուք չմիացնեք Google Play ծառայությունները:</string>
+    <string name="common_google_play_services_enable_button">Միացնել Google Play ծառայությունները</string>
+    <string name="common_google_play_services_update_title">Նորացրեք Google Play ծառայությունները</string>
+    <string name="common_android_wear_update_title">Թարմացնել Android Wear-ը</string>
+    <string name="common_google_play_services_update_text">Այս ծրագիրը չի գործարկվի, եթե դուք չնորացնեք Google Play ծառայությունները:</string>
+    <string name="common_android_wear_update_text">Այս ծրագիրը չի գործարկվի, եթե չթարմացնեք Android Wear-ը:</string>
+    <string name="common_google_play_services_network_error_title">Ցանցի սխալ կա</string>
+    <string name="common_google_play_services_network_error_text">Պահանջվում է տվյալների կապ` Google Play ծառայություններին միանալու համար:</string>
+    <string name="common_google_play_services_invalid_account_title">Հաշիվն անվավեր է</string>
+    <string name="common_google_play_services_invalid_account_text">Նշված հաշիվը գոյություն չունի այս սարքում: Ընտրեք այլ հաշիվ:</string>
+    <string name="common_google_play_services_unknown_issue">Անհայտ խնդիր՝ Google Play ծառայություններում:</string>
+    <string name="common_google_play_services_unsupported_title">Google Play ծառայություններ</string>
+    <string name="common_google_play_services_unsupported_text">Google Play ծառայությունները, որոնց ապավինում են ձեր ծրագրերից որոշները, չեն աջակցվում ձեր սարքի կողմից: Խնդրում ենք կապվել արտադրողի հետ օգնության համար:</string>
+    <string name="common_google_play_services_update_button">Նորացնել</string>
+    <string name="common_signin_button_text">Մուտք գործել</string>
+    <string name="common_signin_button_text_long">Մուտք գործեք Google-ով</string>
+    <string name="common_open_on_phone">Բացել հեռախոսում</string>
+    <string name="setup_wizard_next_button_label">Հաջորդը</string>
+    <string name="setup_wizard_back_button_label">Հետ</string>
+    <string name="setup_wizard_title">Կարգավորման օգնական</string>
+    <string name="setup_wizard_services_activity_title">Google ծառայություններ</string>
+    <string name="setup_wizard_services_description">Դուք կարող եք ցանկացած ժամանակ միացնել կամ անջատել այս ծառայությունները: Տվյալները կօգտագործվեն Google-ի <annotation id="google_privacy">Գաղտնիության քաղաքականությանը</annotation> համապատասխան:</string>
+    <string name="setup_wizard_services_backup_restore_heading">Պահուստավորում և վերականգնում</string>
+    <string name="setup_wizard_services_location_heading">Տեղադրություն</string>
+    <string name="setup_wizard_services_communication_heading">Հաղորդակցում</string>
+    <string name="setup_wizard_services_backup"><b>Պահեք ձեր հեռախոսի հավելվածների, դրանց տվյալների, կարգավորումների, անձնական բառարանների և Wi-Fi գաղտնաբառերի պահուստային պատճենները</b> ձեր Google հաշվի օգնությամբ, որպեսզի հետագայում կարողանաք հեշտությամբ վերականգնել դրանք: <annotation id="backup_details">Մանրամասն</annotation></string>
+    <string name="setup_wizard_services_backup_restore"><b>Պահեք ձեր հավելվածների, դրանց տվյալների, կարգավորումների, անձնական բառարանների և Wi-Fi գաղտնաբառերի պահուստային պատճենները</b> ձեր Google հաշվի օգնությամբ, որպեսզի հետագայում կարողանաք հեշտությամբ վերականգնել դրանք:</string>
+    <string name="setup_wizard_services_backup_restore_footnote">Տվյալները ներառում են ծրագրերը, ծրագրերի կարգավորումները, համակարգային կարգավորումները և Wi-Fi գաղտնաբառերը:</string>
+    <string name="setup_wizard_services_backup_restore_dialog_text">Երբ միացնեք ավտոմատ պահուստավորումը, ձեր սարքի տվյալները պարբերաբար կպահվեն ձեր Google հաշվում: Պահուստավորումը կարող է ներառել տեղեկություններ ձեր ծրագրերի տվյալների արկղերից, ինչպիսիք են՝ նախընտրանքները, կարգավորումները, հաղորդագրությունները, լուսանկարները և այլ ֆայլեր:</string>
+    <string name="setup_wizard_services_location_sharing"><b>Օգտագործեք Google-ի տեղադրության ծառայությունը</b>՝ ծրագրերին օգնելով որոշել ձեր տեղադրությունը: Դա նշանակում է անանուն ուղարկել տեղադրության մասին տվյալները Google-ին նույնիսկ այն ժամանակ, երբ ոչ մի ծրագիր միացված չէ: <annotation id="location_details">Իմացեք ավելին</annotation></string>
+    <string name="setup_wizard_services_location_sharing_dialog_text">Google-ի տեղադրության ծառայությունն օգտագործում է այնպիսի աղբյուրներ, ինչպիսիք են Wi-Fi-ը և բջջային ցանցերը՝ ձեր սարքի տեղադրության որոշումն ավելի արագ և ճշգրիտ կատարելու համար: Միացնելով Google-ի տեղադրության ծառայությունը, ձեր սարքը մտցնում եք այնպիսի ռեժիմ, որտեղ օգտագործվում են Wi-Fi-ը և բջջային ցանցերը՝ տեղադրությունը որոշելու համար: Դուք կարող եք սա անջատել տեղադրության կարգավորումներից՝ ընտրելով այնպիսի ռեժիմ, որը օգտագործում է միայն GPS: Այն երբեմն կոչվում է Միայն սարքի ռեժիմ:</string>
+    <string name="setup_wizard_services_location_wifi_scan"><b>Օգնեք բարելավել տեղադրության ծառայությունները</b>՝ ծրագրերին և ծառայություններին թույլ տալով սկանավորել ցանցերը՝ նույնիսկ Wi-Fi-ն անջատած վիճակում:</string>
+    <string name="setup_wizard_services_location_footnote">Google-ի տեղադրության ծառայությունը տեղադրությունն ավելի հստակ ու արագ որոշելու համար օգտագործում է Wi-Fi և այլ ազդակներ՝ հաճախ ավելի քիչ էներգիայի օգտագործմամբ, քան GPS-ը: Որոշ տվյալներ կարող են պահվել ձեր սարքում: Տվյալները կարող են հավաքվել նույնիսկ այն ժամանակ, երբ ոչ մի հավելված չի աշխատում:</string>
+    <string name="setup_wizard_services_play"><b>Պարբերաբար տեղեկացրեք ինձ</b>՝ Google Play-ի նորությունների և առաջարկների մասին:</string>
+    <string name="setup_wizard_services_usage_reporting"><b>Օգնեք բարելավել Android-ի աշխատանքը</b>՝ ավտոմատ ուղարկելով ախտորոշիչ և օգտագործման տվյալները Google-ին: Այս տեղեկատվությունը չի կարող օգտագործվել՝ ձեզ բացահայտելու համար և օգնության ձեռք է մեկնում այն թիմերին, ովքեր աշխատում են կատարելագործել մարտկոցի աշխատանքը, ծրագրերի կատարողականը և նոր Google գործառույթները: <annotation id="usage_reporting_details">Իմացեք ավելին</annotation></string>
+    <string name="setup_wizard_services_usage_reporting_dialog_text">"Սա պարունակում է ընդհանուր տեղեկություններ ձեր սարքի մասին, և թե ինչպես եք այն օգտագործել, օրինակ՝ մարտկոցի մակարդակը, ինչքան հաճախ եք դուք օգտագործում ձեր ծրագրերը, ցանցային կապերի որակը և տևողությունը (բջջային, Wi-Fi և Bluetooth), և սխալների զեկույցներ, երբ ինչ-որ բան չի աշխատում այնպես, ինչպես պետք է: Այն կօգտագործվի Google-ի արտադրանքները և ծառայությունները բարելավելու համար և կապված չի լինի ձեր Google հաշվի հետ: Որոշ ամփոփ տեղեկություններ կօգնեն գործընկերներին, ինչպիսիք են Android մշակողները՝ իրենց ծրագրերը և արտադրանքը կատարելագործելու համար:
+
+Դուք կարող եք սա միացնել կամ անջատել «Google կարգավորումներ» ծրագրից ցանկացած ժամանակ: Այն չի ազդում ձեր սարքի հնարավորությունների վրա՝ տեղեկություններ ուղարկելիս, որոնք անհրաժեշտ են այնպիսի հիմնական ծառայություններ ստանալու համար, ինչպիսիք են համակարգի թարմացումները և անվտանգությունը:"</string>
+    <string name="setup_wizard_services_agreement">Այս հեռախոսը կարող է նաև ստանալ և տեղադրել թարմացումներ ու ծրագրեր Google-ից, ձեր օպերատորից և սարքի արտադրողից: Որոշ ծրագրեր կարող են ներբեռնվել և տեղադրվել, եթե դուք շարունակեք: Բայց ցանկացած պահի դուք կարող եք հեռացնել դրանք:</string>
+</resources>

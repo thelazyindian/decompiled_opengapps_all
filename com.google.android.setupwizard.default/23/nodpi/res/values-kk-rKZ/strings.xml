@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="common_google_play_services_notification_ticker">Google Play қызметтерінің қатесі</string>
+    <string name="common_google_play_services_notification_needs_installation_title">Қолданба Google Play қызметтерін орнатуды талап етеді.</string>
+    <string name="common_google_play_services_notification_needs_update_title">Қолданба Google Play қызметтерін жаңартуды талап етеді.</string>
+    <string name="common_android_wear_notification_needs_update_text">Қолданба Android Wear қолданбасын жаңартуды қажет етеді.</string>
+    <string name="common_google_play_services_needs_enabling_title">Қолданба Google Play қызметтерін қосуды қажет етеді.</string>
+    <string name="common_google_play_services_error_notification_requested_by_msg">%1$s арқылы сұралған</string>
+    <string name="common_google_play_services_install_title">Google Play қызметтерін алу</string>
+    <string name="common_google_play_services_install_text_phone">Телефоныңызда жоқ Google Play қызметтерінсіз бұл қолданба іске қосылмайды.</string>
+    <string name="common_google_play_services_install_text_tablet">Планшетіңізде жоқ Google Play қызметтерінсіз бұл қолданба іске қосылмайды.</string>
+    <string name="common_google_play_services_install_button">Google Play қызметтерін алу</string>
+    <string name="common_google_play_services_enable_title">Google Play қызметтерін қосу</string>
+    <string name="common_google_play_services_enable_text">Бұл қолданба Google Play қызметтерін қосқанша жұмыс істемейді.</string>
+    <string name="common_google_play_services_enable_button">Google Play қызметтерін қосу</string>
+    <string name="common_google_play_services_update_title">Google Play қызметтерін жаңарту</string>
+    <string name="common_android_wear_update_title">Android Wear қолданбасын жаңарту</string>
+    <string name="common_google_play_services_update_text">Бұл қолданба Google Play қызметтерін жаңартқанша іске қосылмайды.</string>
+    <string name="common_android_wear_update_text">Бұл қолданба Android Wear қолданбасын жаңартқанша іске қосылмайды.</string>
+    <string name="common_google_play_services_network_error_title">Желі қатесі</string>
+    <string name="common_google_play_services_network_error_text">Google Play қызметтеріне қосылу үшін деректер байланысы талап етіледі.</string>
+    <string name="common_google_play_services_invalid_account_title">Жарамсыз тіркелгі</string>
+    <string name="common_google_play_services_invalid_account_text">Бұл құрылғыда көрсетілген тіркелгі жоқ. Басқа тіркелгіні таңдаңыз.</string>
+    <string name="common_google_play_services_unknown_issue">Google Play қызметтерімен белгісіз мәселе.</string>
+    <string name="common_google_play_services_unsupported_title">Google Play қызметтері</string>
+    <string name="common_google_play_services_unsupported_text">Кейбір қолданбаларыңыз үшін қажет Google Play қызметтеріне құрылғыңыз қолдау көрсетпейді. Көмек алу үшін өндірушіге хабарласыңыз.</string>
+    <string name="common_google_play_services_update_button">Жаңарту</string>
+    <string name="common_signin_button_text">Кіру</string>
+    <string name="common_signin_button_text_long">Google арқылы кіру</string>
+    <string name="common_open_on_phone">Телефонда ашу</string>
+    <string name="suw_next_button_label">Келесі</string>
+    <string name="suw_back_button_label">Артқа</string>
+    <string name="suw_more_button_label">Тағы</string>
+    <string name="setup_wizard_title">Шебер бағдарламасын орнату</string>
+    <string name="setup_wizard_next_button_label">Келесі</string>
+    <string name="setup_wizard_back_button_label">Артқа</string>
+    <string name="setup_wizard_services_activity_title">Google қызметтері</string>
+    <string name="setup_wizard_services_description">Бұл қызметтердің арқасында Google кейбір әрекеттерді сіздің орныңызға орындайтын болады, оларды кез келген уақытта қосып немесе өшіріп қоюға болады. Деректер Google <annotation id="google_privacy">Құпиялық саясатына</annotation> сай пайдаланылады.</string>
+    <string name="setup_wizard_services_backup_restore_heading">Сақтық көшірмесін жасау және қалпына келтіру</string>
+    <string name="setup_wizard_services_location_heading">Орын</string>
+    <string name="setup_wizard_services_communication_heading">Байланыс</string>
+    <string name="setup_wizard_services_backup">Кейінірек оңай қалпына келтіре алу үшін <b>телефоныңыздың қолданбаларының, қолданба деректерінің, параметрлерінің, жеке сөздіктерінің және Wi‑Fi құпия сөздерінің сақтық көшірмесін</b> Google есептік жазбаңызды пайдаланып жасаңыз. <annotation id="backup_details">Қосымша мәліметтер</annotation></string>
+    <string name="setup_wizard_services_backup_restore">Кейінірек оңай қалпына келтіре алу үшін <b>қолданбалардың, қолданба деректерінің, параметрлердің, жеке сөздіктердің және Wi‑Fi құпия сөздерінің сақтық көшірмесін</b> Google есептік жазбаңызды пайдаланып жасаңыз.</string>
+    <string name="setup_wizard_services_backup_restore_footnote">Деректерге қолданбалар, қолданба параметрлері, жүйе параметрлері және Wi‑Fi кілтсөздері жатады.</string>
+    <string name="setup_wizard_services_backup_restore_dialog_text">Автоматты түрде сақтық көшірме жасауды қосқанда құрылғы деректері Google есептік жазбасына кезеңді түрде сақталады. Сақтық көшірмелер қолданба деректері қалталарындағы таңдаулы параметрлер, параметрлер, хабарлар, фотосуреттер және басқа файлдар сияққты ақпаратты қамтуы мүмкін.</string>
+    <string name="setup_wizard_services_location_sharing">Қолданбаларға орынды анықтауға көмектесу үшін <b>Google орынды анықтау қызметін пайдалану</b>. Қолданбалар іске қосылмаған кезде де Google жүйесіне анонимді орын деректері жіберіліп тұрады. <annotation id="location_details">Толығырақ</annotation></string>
+    <string name="setup_wizard_services_location_sharing_dialog_text">Google орынды анықтау қызметі Wi‑Fi және ұялы желілер сияқты көздерді пайдаланып, құрылғының орнын тезірек және дәлірек анықтайды. Google орынды анықтау қызметтерін қосқанда, құрылғы орын туралы ақпаратты қамтамасыз ету үшін Wi‑Fi және ұялы желілерді пайдаланатын режимге кіреді. Мұны орын параметрлерінде кейде «Тек құрылғы режимі» деп аталатын тек GPS функциясын пайдаланатын режимді таңдау арқылы өшіруге болады.</string>
+    <string name="setup_wizard_services_location_wifi_scan">Қолданбаларға тіпті Wi‑Fi өшірулі кезде де Wi‑Fi желілерін іздеуге мүмкіндік беру арқылы <b>орынды анықтау қызметтерін жақсартуға көмектесу</b>.</string>
+    <string name="setup_wizard_services_location_footnote">Google аймақ қызметі Wi‑Fi және басқа сигналдарды қолданып, аймақты нақтырақ және жылдамырақ анықтайды және GPS жүйесіне қарағанда қуатты азырақ жұмсайды. Кейбір деректер сіздің құрылғыңызда сақталуы мүмкін. Деректер қолданбалар қосылып тұрмағанда да жинақталуы мүмкін.</string>
+    <string name="setup_wizard_services_play">Google Play жаңалықтары және ұсыныстары <b>туралы хабарлап отыру</b>.</string>
+    <string name="setup_wizard_services_usage_reporting">Диагностикалық және пайдалану туралы деректерді Google жүйесіне автоматты түрде жіберу функциясына рұқсат беру арқылы <b>Android құрылғысын жақсартуға</b> көмектесіңіз. Бұл ақпарат жеке басыңызды анықтау үшін емес, батареяның қызмет мерзімі, қолданба өнімділігі және жаңа Google мүмкіндіктері сияқты функцияларды дамытатын ұжымдарға көмектесу үшін пайдаланылады. <annotation id="usage_reporting_details">Толығырақ</annotation></string>
+    <string name="setup_wizard_services_usage_reporting_dialog_text">"Бұл — құрылғы және оны пайдалану жолыңыз туралы жалпы ақпарат, мысалы, батарея деңгейі, қолданбаларды пайдалану жиілігі, желілік байланыстардың (мысалы, Wi‑Fi және Bluetooth) сапасы мен ұзақтығы, әрі функциялар дұрыс жұмыс істемей жатқандағы жаңылыс туралы есептер. Ол Google өнімдерін және қызметтерін жақсарту үшін пайдаланылады және Google есептік жазбаңызбен байланыстырылмайды. Біраз жинақталған ақпарат Android әзірлеушілері сияқты серіктестерге де қолданбаларын және өнімдерін жетілдіруге көмектеседі.
+
+Мұны кез келген уақытта «Google параметрлері» қолданбасында қосуға немесе өшіруге болады. Бұл құрылғының жүйелік жаңартулар және қауіпсіздік сияқты маңызды қызметтер алу үшін қажетті ақпаратты жіберу мүмкіндігіне әсер етпейді."</string>
+    <string name="setup_wizard_services_agreement">Сондай-ақ, бұл телефон Google, оператор және құрылғы өндірушісінің жаңартуларын және қолданбаларын алуы және орнатуы мүмкін. Жалғастырсаңыз кейбір қолданбалар жүктелуі және орнатылуы мүмкін, оларды кез келген уақытта жоя аласыз.</string>
+    <string name="default_device_name">Android</string>
+    <string name="finish_button_label">Аяқтау</string>
+    <string name="skip_button_label">Аттап өту</string>
+    <string name="skip_anyway_button_label">Бәрібір аттап өтіңіз</string>
+    <string name="dont_skip_button_label">Өткізіп жібермеу</string>
+    <string name="down_button_label">Көбірек</string>
+    <string name="cancel_button_label">Өшіру</string>
+    <string name="restart_button_label">Қайта бастау</string>
+    <string name="try_again_button_label">Қайта әрекеттену</string>
+    <string name="close_button_label">Жабу</string>
+    <string name="got_it_button_label">Түсіндім</string>
+    <string name="ok_button_label">Жарайды</string>
+    <string name="google_legal_title">Google заңнамалық құжаттары</string>
+    <string name="url_load_unsuccessful_message">Телефоныңыз ұялы дерек қызметіне жалғанбаған. Бұл ақпаратты қазір көру үшін веб браузердегі %s мекенжайына кіріңіз.</string>
+    <string name="start">Бастау</string>
+    <string name="wait_msg">Күте тұрыңыз…</string>
+    <string name="skip_toast">Орнату шебері өткізіп жіберілді</string>
+    <string name="terminate_toast">"Орнату шебері тоқтатылды
+Құрылғы дайындалмады"</string>
+    <string name="activation_title">Ұялы қызмет белсендірілуде…</string>
+    <string name="activation_title_searching">Қызметті іздеуде...</string>
+    <string name="activation_title_activating">Ұялы қызмет белсендірілуде…</string>
+    <string name="activation_default_network_name">ұялы желілер</string>
+    <string name="activation_network_bars_template">Сигнал қуаты %d жолақ</string>
+    <string name="activation_text">Ұялы дерек қызметін қазір қосу үшін <b>Іске қосу</b>" пәрменін түртіңіз. (Оған бір-екі минут қажет болуы мүмкін.)
+
+Немесе, телефонды Wi-Fi байланысы арқылы орнату үшін "<b>Аттап өту</b> пәрменін түртіңіз.</string>
+    <string name="activation_text_standalone">Ұялы дерек қызметін қазір қосу үшін <b>Іске қосу</b> пәрменін түртіңіз. (Оған бір-екі минут қажет болуы мүмкін.)</string>
+    <string name="activation_skip_confirmation">"Ұялы дерек қызметі іске қосылғанша телефоныңыздың көптеген функциялары жұмыс істемейді.
+
+Егер қазір орындауды қаламасаңыз, кейінірек Жүйе параметрлері арқылы қосуға болады."</string>
+    <string name="activation_continue_skip_label">Жалғастыру</string>
+    <string name="activation_button_label">Іске қосу</string>
+    <string name="activation_progress_before_connect">Wi-Fi байланысын қолданып орнатуды аяқтау үшін <b>Аттап өту</b> пәрменін түртіңіз.</string>
+    <string name="activation_progress">Іске қосу үшін бірнеше минут қажет болуы мүмкін. Wi-Fi байланысын қолданып орнатуды аяқтау үшін <b>Аттап өту</b> пәрменін түртіңіз.</string>
+    <string name="activation_progress_gen">Бұған 5 минутқа дейін кетуі мүмкін</string>
+    <string name="activation_progress_mobile_data">"Телефон сіздің ұялы дерек қызметіңізді іске қосуда.
+
+Бұған 5 минуттай қажет болуы мүмкін."</string>
+    <string name="activation_progress_before_connect_standalone">Іске қосу үшін бірнеше минут қажет болуы мүмкін.</string>
+    <string name="activation_progress_standalone">Іске қосу үшін біраз минуттай қажет болуы мүмкін.</string>
+    <string name="activation_success_title">Іске қосу аяқталды</string>
+    <string name="activation_success_text">Орнатуды жалғастыру үшін <b>Келесі</b> пәрменін түртіңіз.</string>
+    <string name="activation_success_text_gen">Іске қосуды аяқтау үшін құрылғыны қайта бастау қажет болады.</string>
+    <string name="activation_success_text_standalone">Жалғастыру үшін <b>Келесі</b>" пәрменін түртіңіз.
+
+Іске қосу сәтті орындалды, бірақ ұялы дерек желісі қол жетімді болуы үшін бірнеше минут қажет болуы мүмкін."</string>
+    <string name="activation_failure_title">Қоса алмады</string>
+    <string name="activation_failure_text">"Әрекетті бір минуттан кейін қайталаңыз немесе бұл жалғаса берсе, телефонды қайта іске қосыңыз.
+
+Егер қазір өткізіп жіберуді жөн көрсеңіз, кейінірек «Жүйелік параметрлер» тармағында белсендіріңіз. Белсендіргенше телефонда ұялы деректер байланысы болмайды."</string>
+    <string name="activation_failure_text_gen">Сіздің ұялы дерек қызметіңізді іске қосу мүмкін болмады. Бұл уақытша мәселе болуы мүмкін және телефонды қайта бастау арқылы шешілуі мүмкін.</string>
+    <string name="activation_failure_text_standalone">Ұялы дерек қызметін іске қосу мүмкін болмады. Қайта әрекеттену үшін <b>Қайта әрекеттену</b>" пәрменін түртіңіз.
+
+Ұялы дерек қызметіңізді кейінірек "<b>Жүйе параметрлері > Сымсыз және желілер > Ұялы желілер</b> арқылы қосуыңызға болады.</string>
+    <string name="activation_cancel_title">Тоқтатуға өтініш жасалды</string>
+    <string name="activation_cancel_text">Іске қосу тоқтатылуда…бұған 5-10 секунд қажет болуы мүмкін.</string>
+    <string name="activation_canceled_title">Іске қосу өшірілді</string>
+    <string name="activation_canceled_text">"Белсендіруден бас тарту керек пе? Интернетке қосылу үшін пайдалану алдында мобильді желіні белсендіру керек.
+
+Реттеуді Wi-Fi байланысын пайдаланып аяқтау үшін "<b>Келесі</b>" түймесін түртіңіз.
+
+Мобильді желі қызметін кейінірек "<b>Жүйе параметрлері > Сымсыз желілер және желілер > Мобильді желілер</b> тармағында белсендіруге болады.</string>
+    <string name="activation_canceled_text_standalone">"Белсендіруден бас тартылды.
+
+Мобильді деректер қызметін кейінірек "<b>Жүйе параметрлері > Сымсыз желілер және желілер > Ұялы желілер</b> тармағында белсендіруге болады.</string>
+    <string name="activation_spc_failure_text">Қателік орын алды және қосуға тағы бір рет әрекеттеніп көру үшін телефоныңызды өшіріп, қайта бастау қажет болады. Телефон 60 секунд ішінде автоматты түрде өшеді немесе <b>Қазір өшіру</b>" пәрменін түртуіңізге болады.
+
+Телефон өшірілгенде, оны қайта бастау үшін қуат түймесін басыңыз. Іске қосу автоматты түрде қосылады."</string>
+    <string name="shutdown_button_label">Қазір жабу</string>
+    <string name="reboot_button_label">Қайта бастау</string>
+    <string name="activation_skip_text">Егер белсендіруді өткізіп жіберсеңіз, кейінірек «Параметрлер» тармағында белсендіріңіз. Белсендіргенше телефоныңызда ұялы деректер байланысы болмайды.</string>
+    <string name="notification_update_title">Есептік жазбаңыз жаңартуды қажет етеді</string>
+    <string name="notification_update_message">Орнату шеберін қайта қосу үшін мына жерді түртіңіз.</string>
+    <string name="account_exists_title">Есептік жазба қосылды</string>
+    <string name="account_exists_text">Бірінші есептік жазбаңыз пайдалануға дайын. Кейінірек «Параметрлер» ішінде есептік жазбаларды қосуға және жоюға болады.</string>
+    <string name="date_time_setup_title">Күн және уақыт</string>
+    <string name="date_time_message">Қажет болса, реттеңіз.</string>
+    <string name="date_time_current_date">Күні</string>
+    <string name="date_time_current_time">Уақыт</string>
+    <string name="date_time_time_zone_full" formatted="false">%s (%s)</string>
+    <string name="sim_missing_title">SIM картасын енгізу</string>
+    <string name="sim_setup_title">SIM карталарын реттеу</string>
+    <string name="sim_setup_select_data">Ұялы деректер үшін SIM картасын таңдаңыз</string>
+    <string name="sim_setup_select_voice">Қоңыраулар үшін SIM картасын таңдаңыз</string>
+    <string name="sim_setup_select_text">Мәтіндік хабарлар үшін SIM картасын таңдаңыз</string>
+    <string name="sim_setup_ask_every_time">Әр қоңырау үшін сұрау</string>
+    <string name="walled_garden_title">Байланыс тексерілуде…</string>
+    <string name="walled_garden_check_indefinite_text">Бұл біраз уақыт алуы мүмкін</string>
+    <string name="walled_garden_skipped_message">"Реттемесе:
+
+Телефоныңызда интернет байланысы болмайды.
+
+Интернетке қосылмайынша бағдарламалық құрал жаңартуларын алмайсыз.
+
+Қазір құрылғыны қорғау мүмкіндіктерін іске қоса алмайсыз."</string>
+    <string name="walled_garden_connection_failed">Тым ұзақ болып жатыр ма? Оралып, басқа желіге қосылып көріңіз.</string>
+    <string name="walled_garden_connection_unsuccessful">Интернетке қосылу мүмкін болмады</string>
+    <string name="ota_update_title">Телефонды жаңарту</string>
+    <string name="ota_info">Телефон жаңартуды жүктеуі және қайта іске қосылуы қажет.</string>
+    <string name="ota_size">Өлшемі: %s</string>
+    <string name="ota_agreement_text">"Бұл бағдарлама жаңартуларын жалғастыру және алу арқылы сіз  "<annotation id="tos">Google қызмет көрсету шарттары</annotation> және <annotation id="google_privacy">Құпиялық саясаты</annotation> шарттарын қабылдайсыз.</string>
+    <string name="early_update_title">Бағдарламалық құралды жаңарту</string>
+    <string name="early_update_text">Жаңартуларды тексеру</string>
+    <string name="early_update_downloading_text">%s жүктелуде</string>
+    <string name="early_update_installing_text">%s орнатылуда</string>
+    <string name="warm_sim_check_msg">Желіні күтуде…</string>
+    <string name="sign_in_agreement">Тіркелу арқылы сіз Google <annotation id="tos">Қызмет көрсету шарттары</annotation>, <annotation id="google_privacy">Құпиялық саясаты</annotation> және <annotation id="play_tos">Google Play қызмет көрсету шарттарымен</annotation> келісесіз.</string>
+    <string name="android_privacy_policy_title">Қосымша Құпиялық саясаты</string>
+    <string name="google_terms_of_service_title">Google қызмет көрсету шарттары</string>
+    <string name="google_privacy_policy_title">Google құпиялық саясаты</string>
+    <string name="google_plus_privacy_policy_title">Google Plus құпиялық саясаты</string>
+    <string name="google_play_tos_title">Google Play қызмет көрсету шарттары</string>
+    <string name="chrome_tos_title">Chrome қызмет көрсету шарттары</string>
+    <string name="chrome_privacy_title">Chrome құпиялық туралы ескертулері</string>
+    <string name="url_load_unsuccessful_message_wifi_only">Android құрылғыңыз Wi-Fi желісіне жалғанбаған. Бұл ақпаратты қазір көру үшін веб браузердегі %s мекенжайына кіріңіз.</string>
+    <string name="continue_for_a11y">Қол жетімділік режимін қосу үшін экранды бипілдеген дыбыс естілгенше түрте беріңіз.</string>
+    <string name="canceled_a11y">Өшірілген Қол жетімділік режимі.</string>
+    <string name="enabled_a11y">Қол жетімділік режимі қосылды.</string>
+    <string name="welcome_message">Қош келдіңіз</string>
+    <string name="emergency_dial">Төтенше жағдай</string>
+    <string name="welcome_language_picker_dialog_title">Тілді таңдау</string>
+    <string name="welcome_language_picker_section_suggested">Ұсынылған</string>
+    <string name="welcome_language_picker_section_all">Барлық тілдер</string>
+    <string name="welcome_language_picker_content_description">Тіл: %s</string>
+    <string name="lock_screen_intro_title">Телефонды қорғау</string>
+    <string name="lock_screen_intro_text">Құрылғыны қорғау мүмкіндіктерін іске қосу арқылы телефонды сіздің рұқсатыңызсыз басқалардың пайдалануына жол бермеңіз. <annotation id="learn_more">Толығырақ</annotation></string>
+    <string name="lock_screen_intro_text_secondary">«Иә» жауабын таңдасаңыз, экран бекітпесін орнатудан өтесіз.</string>
+    <string name="lock_screen_intro_check_box"><b>Құрылғыны қорғау</b> және ашу үшін PIN, өрнек не құпия сөз талап ету</string>
+    <string name="lock_screen_intro_radio_fingerprint">Саусақ ізін орнату</string>
+    <string name="lock_screen_intro_radio_generic">PIN кодын, өрнекті немесе құпия сөзді орнату</string>
+    <string name="lock_screen_intro_radio_no">Жоқ, рақмет</string>
+    <string name="lock_screen_intro_success">"Экран бекітпесі сәтті орнатылды.
+"<annotation id="learn_more">Қосымша мәліметтер</annotation></string>
+    <string name="lock_screen_intro_dialog_text_frp">"Google есептік жазбасын қосқанда және экран құлпын орнатқанда құрылғыны қорғау автоматты түрде белсендіріледі. Android Device Manager қолданбасымен бірге бұл жоғалса немесе ұрланса, телефон орнын анықтауға және деректерін өшіруге көмектеседі.
+
+Тіпті телефон деректері өшірілсе де, кез келген адам осы телефонды пайдалана алуы алдында Google есептік жазбаңыздың құпия сөзі қажет болады."</string>
+    <string name="lock_screen_intro_dialog_text">Google есептік жазбасын қосқанда және экран құлпын орнатқанда құрылғыны қорғау автоматты түрде белсендіріледі. Android Device Manager қолданбасымен бірге бұл жоғалса немесе ұрланса, телефон орнын анықтауға және деректерін өшіруге көмектеседі.</string>
+    <string name="lock_screen_intro_skip_dialog_text_frp">Құрылғыны қорғау мүмкіндіктері белсендірілмейді. Жоғалса, ұрланса немесе деректері өшірілсе, осы телефонды басқалардың пайдалануын болдырмау мүмкін болмайды.</string>
+    <string name="lock_screen_intro_skip_dialog_text">Құрылғыны қорғау мүмкіндіктері белсендірілмейді. Жоғалса немесе ұрланса, басқалардың осы телефонды пайдалануын болдырмау мүмкін болмайды.</string>
+    <string name="services_activity_title">Google қызметтері</string>
+    <string name="services_backup_heading">Сақтық көшірме</string>
+    <string name="services_location_heading">Орын</string>
+    <string name="services_security_heading">Қауіпсіздік</string>
+    <string name="services_personalization_heading">Жекелендіру</string>
+    <string name="services_communication_heading">Байланыс</string>
+    <string name="security_verify_apps_summary">Google қызметіне орнатылған қолданбалардың құрылғы немесе деректер қауіпсіздігіне әсер етуі мүмкін залалды әрекеттерге қабілетін тексеруге рұқсат беріңіз.</string>
+    <string name="restore_title">Қалпына келтіру…</string>
+    <string name="restore_wallpaper_title">Тұсқағазды қалпына келтіру…</string>
+    <string name="restore_device_settings_title">Құрылғы параметрлерін қалпына келтіру…</string>
+    <string name="restore_launcher_title">Қосқышты қалпына келтіру…</string>
+    <string name="restore_failed_message">Сақтық көшірмеден қалпына келтіру мүмкін болмады.</string>
+    <string name="restore_no_backup_message">Бастапқы құрылғы үшін сақтық көшірмелер жоқ</string>
+    <string name="restore_stopped_message">Өкінішке орай, құрылғы сақтық көшірмеден деректерді қалпына келтіруді тоқтатты.</string>
+    <string name="name_title">Атыңыз</string>
+    <string name="name_text">Атыңызды пайдаланып телефон кейбір қолданбаларды жекелендіреді.</string>
+    <string name="first_name">Атыңыз</string>
+    <string name="last_name">Тегіңіз</string>
+    <string name="cant_be_blank">Өріс бос болмауы керек.</string>
+    <string name="device_owner_warning_title">Телефонды басқа біреу бақылай алады</string>
+    <string name="device_owner_warning">Бұл телефонды «%1$s» басқарады, яғни кейбір ақпаратыңызды басқа адамдар көре алуы мүмкін. Көрмесін десеңіз, телефонды қалпына келтіріңіз.</string>
+    <string name="device_owner_continue">Жалғастыру</string>
+    <string name="device_owner_reset">Телефонды қалпына келтіру</string>
+    <string name="factory_reset_title">Телефонды қалпына келтіру</string>
+    <string name="factory_reset_instructions">Ескерту: қалпына келтірсеңіз, осы телефонның ішкі жадындағы барлық есептік жазбалар мен деректер өшеді.</string>
+    <string name="factory_reset_confirmation_title">Қалпына келтіру қажет пе?</string>
+    <string name="factory_reset_confirmation">Осы телефондағы барлық есептік жазбалар мен деректерді өшіру керек пе? Бұл әрекетті кері қайтара алмайсыз!</string>
+    <string name="factory_reset_button">Өшіру және қалпына келтіру</string>
+    <string name="restart_setup_wizard_dialog_title">Жүйеге кірмегенсіз</string>
+    <string name="restart_setup_wizard_dialog_text">"Бұл телефонды пайдалану үшін, алдымен, иеленушінің соңғы қалпына келтіру кезінде құрылғыда қолданған Google есептік жазбасына кіруіңіз қажет.
+
+Олай істемегендіктен, құрылғыны қайтадан орнатуыңыз керек."</string>
+    <string name="restart_setup_wizard_button_label">Телефонды орнату</string>
+    <string name="sec_user_continue">Жалғастыру</string>
+    <string name="sec_user_quit">Шығу</string>
+    <string name="user_warning_title">Жаңа пайдаланушыны орнату</string>
+    <string name="welcome_secondary_user_added_text">%sсізді осы телефонға қосты.</string>
+    <string name="welcome_secondary_user_added_no_owner_name_text">Сіз осы телефонға қосылдыңыз.</string>
+    <string name="welcome_secondary_user_info_text"><b>Маңызды:</b>"
+
+"<li><ul>Телефон иесі бағдарламаларды жойып, сіздің кеңістігіңізді толығымен алып тастай алады.</ul></li>"
+
+"<li><ul>Кез келген басқа пайдаланушы сіздің атыңыздан жаңартылған қолданба рұқсаттарын қабылдай алады.</ul></li>"
+
+"<li><ul>Кез келген компьютер сияқты осы телефонды тек сенім артатын адамдармен ғана бөліскеніңіз жөн.</ul></li></string>
+    <string name="welcome_limited_user_info_text">" "<b>Маңызды:</b>"
+
+"<li><ul>Телефон иесі бағдарламаларды орната және жоя алады, шектеулер орната немесе сіздің кеңістігіңізді толығымен алып тастай алады.</ul></li>"
+
+"<li><ul>Кез келген басқа пайдаланушы сіздің атыңыздан жаңартылған қолданба рұқсаттарын қабылдай алады.</ul></li>"
+
+"<li><ul>Кез келген компьютер сияқты осы телефонды тек сенім артатын адамдармен ғана бөліскеніңіз жөн.</ul></li></string>
+</resources>

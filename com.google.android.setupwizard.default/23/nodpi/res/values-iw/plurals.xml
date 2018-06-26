@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="shutdown_countdown_text">
+        <item quantity="other">כיבוי יתבצע בעוד %d שניות…</item>
+        <item quantity="one">כיבוי יתבצע בעוד שנייה אחת…</item>
+        <item quantity="two">כיבוי יתבצע בעוד %d שניות…</item>
+        <item quantity="many">כיבוי יתבצע בעוד %d שניות…</item>
+    </plurals>
+    <plurals name="sim_missing_title">
+        <item quantity="other">‏הכנסת כרטיסי SIM</item>
+        <item quantity="one">‏הכנסת כרטיס SIM</item>
+        <item quantity="two">‏הכנסת כרטיסי SIM</item>
+        <item quantity="many">‏הכנסת כרטיסי SIM</item>
+    </plurals>
+    <plurals name="sim_missing_text_tablet">
+        <item quantity="other">לא בטוח איך עושים זאת? קרא את ההוראות המצורפות לטאבלט שלך.</item>
+        <item quantity="one">לא בטוח איך עושים זאת? קרא את ההוראות המצורפות לטאבלט שלך.</item>
+        <item quantity="two">לא בטוח איך עושים זאת? קרא את ההוראות המצורפות לטאבלט שלך.</item>
+        <item quantity="many">לא בטוח איך עושים זאת? קרא את ההוראות המצורפות לטאבלט שלך.</item>
+    </plurals>
+    <plurals name="sim_missing_text_device">
+        <item quantity="other">לא בטוח איך עושים זאת? קרא את ההוראות המצורפות למכשיר.</item>
+        <item quantity="one">לא בטוח איך עושים זאת? קרא את ההוראות המצורפות למכשיר.</item>
+        <item quantity="two">לא בטוח איך עושים זאת? קרא את ההוראות המצורפות למכשיר.</item>
+        <item quantity="many">לא בטוח איך עושים זאת? קרא את ההוראות המצורפות למכשיר.</item>
+    </plurals>
+    <plurals name="sim_missing_text_default">
+        <item quantity="other">לא בטוח איך עושים זאת? קרא את ההוראות המצורפות לטלפון שלך.</item>
+        <item quantity="one">לא בטוח איך עושים זאת? קרא את ההוראות המצורפות לטלפון שלך.</item>
+        <item quantity="two">לא בטוח איך עושים זאת? קרא את ההוראות המצורפות לטלפון שלך.</item>
+        <item quantity="many">לא בטוח איך עושים זאת? קרא את ההוראות המצורפות לטלפון שלך.</item>
+    </plurals>
+    <plurals name="walled_garden_check_timeout_text">
+        <item quantity="other">‏הבדיקה עשויה להימשך עד %d דקות</item>
+        <item quantity="one">‏הבדיקה עשויה להימשך עד דקה %d</item>
+        <item quantity="two">‏הבדיקה עשויה להימשך עד %d דקות</item>
+        <item quantity="many">‏הבדיקה עשויה להימשך עד %d דקות</item>
+    </plurals>
+</resources>

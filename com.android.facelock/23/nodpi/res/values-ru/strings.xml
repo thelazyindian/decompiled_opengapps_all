@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Распознавание лиц</string>
+    <string name="trusted_face_service_app_name">Распознавание лиц</string>
+    <string name="receiver_app_name">Распознавание лиц</string>
+    <string name="setup_app_name">Добавьте снимок лица</string>
+    <string name="add_to_setup_app_name">Настройка распознавания</string>
+    <string name="intro_screen_title">О распознавании лиц</string>
+    <string name="intro_screen_header">Чтобы разблокировать телефон, просто посмотрите на него</string>
+    <string name="intro_screen_body">"Важно!
+
+ "<li><ul>"Распознавание лица дает менее надежную защиту, чем графический ключ, PIN-код или пароль.
+
+ "<li>Люди, похожие на вас, смогут разблокировать ваш телефон.</li>"
+
+ "<li>Данные, используемые для распознавания лица, хранятся только на этом устройстве.</li> </ul></li></string>
+    <string name="intro_screen_continue_label">Настроить</string>
+    <string name="instructions_screen_title">Добавьте снимок лица</string>
+    <string name="instructions_screen_header">Как добиться оптимальных результатов:</string>
+    <string name="instructions_screen_body">" "<li><ul>"Найдите место, где не слишком светло, но и не слишком темно.
+
+ "<li>Держите телефон на уровне глаз.</li> </ul></li></string>
+    <string name="instructions_screen_continue_label">Далее</string>
+    <string name="enrollment_screen_message_initializing">Подготовка к работе…</string>
+    <string name="enrollment_screen_message_initialization_error">Не удается распознать ваше лицо</string>
+    <string name="enrollment_screen_message_camera_error">Камера недоступна</string>
+    <string name="enrollment_start_message">Лицо должно находиться в пределах области, отмеченной точками</string>
+    <string name="enrollment_screen_message_instructions">Держите голову так, чтобы лицо не выходило за пределы круга.</string>
+    <string name="enrollment_screen_message_missing_landmarks">Черты лица не видны</string>
+    <string name="enrollment_screen_message_done">Сканирование завершено</string>
+    <string name="enrollment_screen_status_no_face">Лица не видно</string>
+    <string name="enrollment_screen_status_face_off_center">Часть лица не видна</string>
+    <string name="enrollment_screen_status_missing_landmarks">Не удалось распознать черты лица</string>
+    <string name="enrollment_screen_continue_label">Далее</string>
+    <string name="enrollment_screen_done_label">Готово</string>
+    <string name="enrollment_screen_talkback_preview_description">Камера готова</string>
+    <string name="enrollment_screen_talkback_face_added">Сканирование завершено</string>
+    <string name="end_screen_title">Готово!</string>
+    <string name="end_screen_body">Чтобы разблокировать устройство, включите экран и посмотрите в камеру.</string>
+    <string name="end_screen_bullet_one_text">Если телефон распознает ваше лицо, он будет разблокирован.</string>
+    <string name="end_screen_bullet_two_text">Если устройство не распознает ваше лицо, необходимо будет ввести графический ключ, PIN-код или пароль.</string>
+    <string name="end_screen_tip_text">Совет. Распознавание будет работать точнее, если вы сделаете несколько снимков при разном освещении.</string>
+    <string name="end_screen_licenses_label">Лицензии</string>
+    <string name="end_screen_continue_label">Готово</string>
+    <string name="add_to_setup_intro_screen_title">Настройка распознавания</string>
+    <string name="add_to_setup_intro_screen_header">Сфотографируйтесь при разном освещении</string>
+    <string name="add_to_setup_intro_screen_body">"Примеры:
+
+ "<li><ul>"При разном освещении.
+
+ "<li>В очках и без.</li>"
+
+ "<li>С бородой и без.</li>"
+
+ "</ul></li>"
+ Держите телефон на уровне глаз."</string>
+    <string name="add_to_setup_intro_screen_continue_label">Далее</string>
+    <string name="license_screen_header">Уведомления о лицензионных соглашениях для ПО с открытым исходным кодом</string>
+    <string name="license_screen_continue_label">ОК</string>
+    <string name="shared_cancel_label">Отмена</string>
+</resources>

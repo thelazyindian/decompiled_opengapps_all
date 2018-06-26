@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WizardScript wizard:version="2"
+  xmlns:wizard="http://schemas.android.com/apk/res/com.google.android.setupwizard">
+    <WizardAction wizard:uri="intent:#Intent;action=com.android.setupwizard.OEM_PRE_SETUP;end" id="oem_pre_setup" />
+    <WizardAction wizard:uri="intent:#Intent;action=com.android.setupwizard.WELCOME;end" id="welcome" />
+    <WizardAction wizard:script="android.resource://com.google.android.setupwizard/xml/wizard_script_zero_touch_flow" id="zero_touch">
+        <result wizard:resultCode="111" wizard:action="END_OF_SCRIPT" wizard:name="dpm_user_complete" />
+    </WizardAction>
+    <WizardAction wizard:uri="intent:#Intent;action=com.google.android.setupwizard.LOAD_ADD_ACCOUNT_INTENT;B.showTapAndGo=false;end" id="load_account_intent" />
+    <WizardAction wizard:uri="intent:#Intent;action=com.google.android.setupwizard.ACCOUNT_SETUP;end" id="account_setup">
+        <result wizard:resultCode="1" wizard:action="oem_post_setup" wizard:name="skip" />
+        <result wizard:resultCode="111" wizard:action="END_OF_SCRIPT" wizard:name="dpm_user_complete" />
+    </WizardAction>
+    <WizardAction wizard:uri="intent:#Intent;action=com.google.android.setupwizard.GMS_ACCOUNT_CHECKIN;end" id="gms_account_checkin" />
+    <WizardAction wizard:uri="intent:#Intent;action=com.google.android.setupwizard.ACCOUNT_CHECK;end" id="mfm_check">
+        <result wizard:resultCode="1" wizard:action="oem_post_setup" wizard:name="skip" />
+    </WizardAction>
+    <WizardAction wizard:uri="intent:#Intent;action=com.google.android.setupwizard.NAME_CHECK;end" id="user_name_check" />
+    <WizardAction wizard:uri="intent:#Intent;action=com.google.android.setupwizard.USER_NAME;end" id="user_name" />
+    <WizardAction wizard:uri="intent:#Intent;action=com.google.android.setupwizard.GOOGLE_SERVICES;end" id="account_google_services" />
+    <WizardAction wizard:uri="intent:#Intent;action=com.google.android.setupwizard.OPA_OPT_IN;end" id="opa" />
+    <WizardAction wizard:uri="intent:#Intent;action=com.google.android.setupwizard.SUGGESTED_ACTIONS;end" id="suggested_actions" />
+    <WizardAction wizard:uri="intent:#Intent;action=com.android.setupwizard.OEM_POST_SETUP;end" id="oem_post_setup" />
+    <WizardAction wizard:uri="intent:#Intent;action=com.android.setupwizard.EXIT;end" id="exit" />
+    <WizardAction id="END_OF_SCRIPT" />
+</WizardScript>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="intro_screen_header">اپنے ٹیبلٹ کی طرف دیکھ کر اسے غیر مقفل کریں</string>
+    <string name="intro_screen_body">"‏یاد رکھیں: 
+
+ "<li><ul>"چہرے کی مماثلت ایک پیٹرن، PIN یا پاس ورڈ سے کم محفوظ ہے
+
+ "<li>آپ جیسا نظر آنے والا کوئی شخص آپ کا ٹیبلٹ غیر مقفل کر سکتا ہے</li>"
+
+ "<li>آپ کا چہرہ پہچاننے کیلئے مستعمل ڈیٹا ٹیبلٹ پر نجی رکھا جاتا ہے</li></ul></li></string>
+    <string name="instructions_screen_body">" "<li><ul>"ایک انڈور اسپاٹ تلاش کریں جو بہت روشن یا بہت مدہم نہ ہو
+
+"<li>ٹیبلٹ کو آنکھ کی سطح کے برابر رکھیں</li></ul></li></string>
+    <string name="end_screen_body">اپنے ٹیبلٹ کو غیر مقفل کرنے کیلئے صرف اپنی اسکرین آن کریں اور کیمرے کی طرف دیکھیں</string>
+    <string name="end_screen_bullet_one_text">آپ کا ٹیبلٹ آپ کی شناخت کرتے ہی غیر مقفل ہو جائے گا</string>
+    <string name="add_to_setup_intro_screen_body">"مثالیں:
+
+"<li><ul>"مختلف روشنی میں
+
+ "<li>نسخے والی نظر کی عینک کے ساتھ یا اس کے بغیر</li>"
+
+"<li>داڑھی والا یا کلین شیو کیا ہوا</li>"
+
+"</ul></li>"
+ ٹیبلٹ کو آنکھ کی سطح کے برابر رکھیں"</string>
+</resources>

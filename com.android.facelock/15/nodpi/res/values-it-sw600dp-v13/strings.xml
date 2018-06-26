@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="tutorial_header">Guarda il tuo tablet per sbloccarlo.</string>
+    <string name="tutorial_info_text">"Tieni presente quanto segue:
+
+ "<li><ul>"La funzione di riconoscimento viso protegge meno di una sequenza, un PIN o una password.
+
+ "<li>Il tablet può essere sbloccato da chiunque ti somigli.</li>"
+
+ "<li>I dati utilizzati per riconoscere il tuo viso sono tenuti riservati sul tablet.</li>"
+
+ "</ul></li></string>
+    <string name="intro_info_text">" "<li><ul>"Trova un posto al coperto con un'illuminazione moderata, né troppo forte né troppo debole.
+
+"<li>Tieni il tablet a livello degli occhi.</li>"
+
+ "</ul></li></string>
+    <string name="endscreen_bullet_one_text">Il tablet si sblocca appena ti riconosce.</string>
+    <string name="endscreen_bullet_two_text">Se il tablet non riconosce il tuo viso, puoi sbloccarlo con la sequenza, il PIN o la password.</string>
+    <string name="addtosetup_info_text">"Esempi:
+
+ "<li><ul>"In diverse condizioni di luce
+
+ "<li>Con o senza occhiali da vista</li>"
+
+ "<li>Con la barba o rasato</li>"
+
+ "</ul></li>"
+Tieni il tablet a livello degli occhi."</string>
+</resources>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Cara de confiança</string>
+    <string name="trusted_face_service_app_name">Servei Cara de confiança</string>
+    <string name="receiver_app_name">"Receptor de l'emissió de la cara de confiança"</string>
+    <string name="setup_app_name">Afegeix una cara de confiança</string>
+    <string name="add_to_setup_app_name">Millora el reconeixement facial</string>
+    <string name="intro_screen_title">Quant a la cara de confiança</string>
+    <string name="intro_screen_header">"Per desbloquejar el telèfon, mira'l"</string>
+    <string name="intro_screen_body">"Recordatori:
+
+ "<li><ul>"El reconeixement facial és menys segur que un patró, un PIN o una contrasenya
+
+ "<li>"Una persona que s'assembli a tu podria desbloquejar-te el telèfon"</li>"
+
+ "<li>"Les dades que s'han fet servir per reconèixer la teva cara es desen de manera privada al teu telèfon"</li> </ul></li></string>
+    <string name="intro_screen_continue_label">Configura</string>
+    <string name="instructions_screen_title">Afegeix una cara de confiança</string>
+    <string name="instructions_screen_header">Per millorar els resultats:</string>
+    <string name="instructions_screen_body">" "<li><ul>"Cerca un lloc interior que no estigui massa il·luminat i que no sigui massa fosc
+
+ "<li>Col·loca el telèfon al nivell dels ulls</li> </ul></li></string>
+    <string name="instructions_screen_continue_label">Següent</string>
+    <string name="enrollment_screen_message_initializing">"S'està iniciant..."</string>
+    <string name="enrollment_screen_message_initialization_error">"No s'ha pogut començar a cercar la cara"</string>
+    <string name="enrollment_screen_message_camera_error">La càmera no està disponible</string>
+    <string name="enrollment_start_message">"Mantén la cara dins de l'àrea de punts."</string>
+    <string name="enrollment_screen_message_instructions">Mantén la part superior del cap i la part inferior de la barbeta dins del cercle</string>
+    <string name="enrollment_screen_message_missing_landmarks">Mostra els ulls, el nas i la boca</string>
+    <string name="enrollment_screen_message_done">Cara afegida</string>
+    <string name="enrollment_screen_status_no_face">Mostra la cara</string>
+    <string name="enrollment_screen_status_face_off_center">"No se't veu una part de la cara"</string>
+    <string name="enrollment_screen_status_missing_landmarks">"No se't veuen els trets"</string>
+    <string name="enrollment_screen_continue_label">Següent</string>
+    <string name="enrollment_screen_done_label">Fet</string>
+    <string name="enrollment_screen_talkback_preview_description">Previsualització de la càmera</string>
+    <string name="enrollment_screen_talkback_face_added">Cara afegida</string>
+    <string name="end_screen_title">Tot a punt</string>
+    <string name="end_screen_body">"Per desbloquejar el telèfon, només has d'engegar la pantalla i mirar a la càmera"</string>
+    <string name="end_screen_bullet_one_text">El telèfon es desbloquejarà tan bon punt et reconegui</string>
+    <string name="end_screen_bullet_two_text">Si no es reconeix la teva cara, pots desbloquejar el dispositiu mitjançant un patró, un PIN o una contrasenya</string>
+    <string name="end_screen_tip_text">Consell: pots millorar el reconeixement facial si mostres la teva aparença en condicions diferents</string>
+    <string name="end_screen_licenses_label">Llicències</string>
+    <string name="end_screen_continue_label">Fet</string>
+    <string name="add_to_setup_intro_screen_title">Millora el reconeixement facial</string>
+    <string name="add_to_setup_intro_screen_header">Mostra la teva aparença en condicions diferents</string>
+    <string name="add_to_setup_intro_screen_body">"Exemples:
+
+ "<li><ul>"En condicions d'il·luminació diferents
+
+ "<li>Amb o sense ulleres</li>"
+
+ "<li>Amb barba o afaitat</li>"
+
+ "</ul></li>"
+ Col·loca el telèfon al nivell dels ulls"</string>
+    <string name="add_to_setup_intro_screen_continue_label">Següent</string>
+    <string name="license_screen_header">Avisos de codi obert</string>
+    <string name="license_screen_continue_label">"D'acord"</string>
+    <string name="shared_cancel_label">Cancel·la</string>
+</resources>

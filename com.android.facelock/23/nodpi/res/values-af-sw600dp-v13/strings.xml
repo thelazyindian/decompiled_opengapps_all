@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="intro_screen_header">Ontsluit jou tablet deur daarna te kyk</string>
+    <string name="intro_screen_body">"Onthou:
+
+ "<li><ul>"Gesigherkenning is minder veilig as 'n patroon, PIN of wagwoord
+
+ "<li>Iemand wat soos jy lyk, kan jou tablet ontsluit</li>"
+
+ "<li>Die data wat gebruik word om jou gesig te herken, word privaat op jou tablet gehou</li> </ul></li></string>
+    <string name="instructions_screen_body">" "<li><ul>"Kry 'n plek binnenshuis wat nie te helder of te donker is nie
+
+ "<li>Hou die tablet op ooghoogte</li> </ul></li></string>
+    <string name="end_screen_body">Om jou tablet te ontsluit, skakel eenvoudig jou skerm aan en kyk na die kamera</string>
+    <string name="end_screen_bullet_one_text">Jou tablet sal ontsluit sodra dit jou herken</string>
+    <string name="add_to_setup_intro_screen_body">"Voorbeelde:
+
+ "<li><ul>"Met ander beligting
+
+ "<li>"Met of sonder 'n voorskrifbril"</li>"
+
+ "<li>Bebaard of glad geskeer</li>"
+
+ "</ul></li>"
+ Hou die tablet op ooghoogte"</string>
+</resources>

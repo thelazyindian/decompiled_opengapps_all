@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<array
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <action android:category="com.android.settings.suggested.category.DISPLAY_SETTINGS" />
+    <action android:category="com.android.settings.suggested.category.MUSIC_RECOGNITION" />
+    <action android:category="com.android.settings.suggested.category.FINGERPRINT_ENROLL" />
+    <action android:isRepeatable="true" android:category="com.android.settings.suggested.category.PERSONALIZE" />
+</array>

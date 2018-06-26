@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="shutdown_countdown_text">
+        <item quantity="other">در عرض %d ثانیه خاموش می‌شود...</item>
+        <item quantity="one">در عرض %d ثانیه خاموش می‌شود...</item>
+    </plurals>
+    <plurals name="sim_missing_title">
+        <item quantity="other">جاگذاری سیم‌کارت‌ها</item>
+        <item quantity="one">جاگذاری سیم‌کارت</item>
+    </plurals>
+    <plurals name="sim_missing_text_tablet">
+        <item quantity="other">کمک لازم دارید؟ دستورالعمل‌هایی را که با رایانه لوحی‌تان ارائه شده بخوانید.</item>
+        <item quantity="one">کمک لازم دارید؟ دستورالعمل‌هایی را که با رایانه لوحی‌تان ارائه شده بخوانید.</item>
+    </plurals>
+    <plurals name="sim_missing_text_device">
+        <item quantity="other">کمک لازم دارید؟ دستورالعمل‌هایی را که با دستگاهتان ارائه شده بخوانید.</item>
+        <item quantity="one">کمک لازم دارید؟ دستورالعمل‌هایی را که با دستگاهتان ارائه شده بخوانید.</item>
+    </plurals>
+    <plurals name="sim_missing_text_default">
+        <item quantity="other">کمک لازم دارید؟ دستورالعمل‌هایی را که با تلفنتان ارائه شده بخوانید.</item>
+        <item quantity="one">کمک لازم دارید؟ دستورالعمل‌هایی را که با تلفنتان ارائه شده بخوانید.</item>
+    </plurals>
+    <plurals name="walled_garden_check_timeout_text">
+        <item quantity="other">‏احتمال دارد تا %d دقیقه طول بکشد</item>
+        <item quantity="one">‏احتمال دارد تا %d دقیقه طول بکشد</item>
+    </plurals>
+</resources>

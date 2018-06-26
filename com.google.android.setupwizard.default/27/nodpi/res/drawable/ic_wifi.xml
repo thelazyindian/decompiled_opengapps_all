@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:height="@dimen/glif_icon_size" android:width="@dimen/glif_icon_size" android:viewportWidth="24.0" android:viewportHeight="24.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:fillColor="?android:colorPrimary" android:pathData="M2.4,10.41L2.4,10.41c0.5,0.5 1.28,0.53 1.82,0.09C6.48,8.65 9.24,7.73 12,7.73c2.76,0 5.52,0.92 7.78,2.77c0.54,0.44 1.33,0.41 1.82,-0.09l0,0c0.57,-0.57 0.53,-1.51 -0.1,-2.02c-5.51,-4.51 -13.49,-4.51 -19,0C1.88,8.9 1.83,9.84 2.4,10.41z" />
+    <path android:fillColor="?android:colorPrimary" android:pathData="M9.1,17.09l2.21,2.21c0.38,0.38 0.99,0.38 1.36,0l2.21,-2.21C13.3,15.49 10.71,15.49 9.1,17.09z" />
+    <path android:fillColor="?android:colorPrimary" android:pathData="M6.29,14.28L6.29,14.28c0.48,0.48 1.22,0.52 1.77,0.13c1.17,-0.83 2.55,-1.24 3.93,-1.24c1.38,0 2.76,0.41 3.93,1.24c0.55,0.39 1.3,0.35 1.78,-0.13l0,0c0.58,-0.58 0.54,-1.57 -0.12,-2.05c-3.32,-2.39 -7.84,-2.39 -11.16,0C5.75,12.71 5.71,13.7 6.29,14.28z" />
+</vector>

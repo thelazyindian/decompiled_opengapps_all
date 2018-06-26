@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="error_missing_apps_plurals">
+        <item quantity="other">" ‏לא ניתן להשתמש בחשבון זה משום שחסרות בו האפליקציות הבאות: ‎^1. פנה למנהל המערכת של הדומיין של "&lt;b>^2&lt;/b> או היכנס באמצעות חשבון אחר.</item>
+        <item quantity="one">" ‏ לא ניתן להשתמש בחשבון זה משום שחסר בו האפליקציה הבא: ‎^1. פנה למנהל המערכת של הדומיין של "&lt;b>^2&lt;/b> או היכנס באמצעות חשבון אחר.</item>
+    </plurals>
+</resources>

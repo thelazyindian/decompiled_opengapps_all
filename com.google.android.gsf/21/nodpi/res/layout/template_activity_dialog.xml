@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <FrameLayout android:id="@id/description" android:background="#88ff0000" android:layout_width="@dimen/width_description" android:layout_height="fill_parent" android:layout_marginLeft="@dimen/pad_left_unsafe_description" android:layout_alignParentLeft="true" android:layout_alignParentTop="true" />
+    <FrameLayout android:id="@id/action" android:background="#8800ff00" android:layout_width="@dimen/width_action" android:layout_height="fill_parent" android:layout_marginLeft="@dimen/pad_left_unsafe_action" android:layout_toRightOf="@id/description" android:layout_alignParentTop="true" />
+    <FrameLayout android:id="@id/progress_bar" android:background="#880000ff" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/pad_top_unsafe_progress" android:layout_centerHorizontal="true" />
+</RelativeLayout>

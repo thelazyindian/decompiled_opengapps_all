@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="shutdown_countdown_text">
+        <item quantity="other">Se închide în %d (de) secunde...</item>
+        <item quantity="one">Se închide într-o secundă...</item>
+    </plurals>
+    <plurals name="sim_missing_title">
+        <item quantity="other">Introduceți cardurile SIM</item>
+        <item quantity="one">Introduceți un card SIM</item>
+    </plurals>
+    <plurals name="sim_missing_text_tablet">
+        <item quantity="other">Pentru a introduce cardurile SIM, citiți instrucțiunile livrate împreună cu tableta.</item>
+        <item quantity="one">Pentru a introduce cardul SIM, citiți instrucțiunile livrate împreună cu tableta.</item>
+    </plurals>
+    <plurals name="sim_missing_text_device">
+        <item quantity="other">Pentru a introduce cardurile SIM, citiți instrucțiunile livrate împreună cu dispozitivul.</item>
+        <item quantity="one">Pentru a introduce cardul SIM, citiți instrucțiunile livrate împreună cu dispozitivul.</item>
+    </plurals>
+    <plurals name="sim_missing_text_default">
+        <item quantity="other">Pentru a introduce cardurile SIM, citiți instrucțiunile livrate împreună cu telefonul.</item>
+        <item quantity="one">Pentru a introduce cardul SIM, citiți instrucțiunile livrate împreună cu telefonul.</item>
+    </plurals>
+</resources>

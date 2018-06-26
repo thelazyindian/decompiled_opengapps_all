@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:background="@drawable/placeholder" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <com.google.android.setupwizard.view.WelcomeVideoView android:layout_gravity="center" android:id="@id/background" android:layout_width="fill_parent" android:layout_height="wrap_content" app:suwVideo="@raw/welcome_bg" app:loopStartMs="4600" />
+    <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent" android:weightSum="1.0">
+        <TextView android:textColor="?android:textColorPrimary" android:gravity="center" android:id="@id/welcome_title" android:paddingBottom="8.0dip" android:layout_width="fill_parent" android:layout_height="0.0dip" android:text="@string/welcome_message" android:layout_weight="0.226" style="@style/WelcomeTitle" />
+        <Space android:layout_width="0.0dip" android:layout_height="0.0dip" android:layout_weight="0.361" />
+        <LinearLayout android:gravity="center_horizontal" android:orientation="vertical" android:clipChildren="false" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="0.412">
+            <Space android:layout_width="0.0dip" android:layout_height="0.0dip" android:layout_weight="1.0" />
+            <com.google.android.setupwizard.util.LanguagePicker android:id="@id/language_picker" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/welcome_language_picker_margin_bottom" android:drawableStart="@drawable/ic_language" style="@style/WelcomeBottomButton" />
+            <com.google.android.setupwizard.util.BlinkButton android:id="@id/welcome_accessibility" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/welcome_accessibility_button" android:drawableStart="@drawable/ic_accessibility" style="@style/WelcomeBottomButton" />
+            <Space android:layout_width="0.0dip" android:layout_height="0.0dip" android:layout_weight="1.3" />
+            <com.android.setupwizardlib.view.ButtonBarLayout android:layout_width="fill_parent" android:layout_height="wrap_content" style="@style/SuwGlifButtonBar.Stackable">
+                <Button android:id="@id/welcome_emergency_dial" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/emergency_dial" style="@style/SuwGlifButton.Secondary" />
+                <Space android:layout_width="0.0dip" android:layout_height="0.0dip" android:layout_weight="1.0" />
+                <Button android:id="@id/start" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/welcome_start_button_label" style="@style/SuwGlifButton.Primary" />
+            </com.android.setupwizardlib.view.ButtonBarLayout>
+        </LinearLayout>
+    </LinearLayout>
+</FrameLayout>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<array
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <action android:category="com.android.settings.suggested.category.EMAIL" />
+    <action android:category="com.android.settings.suggested.category.PAYMENT" />
+    <action android:isRepeatable="true" android:category="com.android.settings.suggested.category.PARTNER_ACCOUNT" />
+    <action android:category="com.android.settings.suggested.category.PAI" />
+    <action android:category="com.android.settings.suggested.category.HOTWORD" />
+    <action android:isRepeatable="true" android:category="com.android.settings.suggested.category.DEFAULT" />
+    <action android:isRepeatable="true" android:category="com.android.settings.suggested.category.DEFAULT_SETUP_WIZARD_ONLY" />
+</array>

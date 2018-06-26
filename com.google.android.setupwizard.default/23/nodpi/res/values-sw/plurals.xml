@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="shutdown_countdown_text">
+        <item quantity="other">Itazima baada ya sekunde %d…</item>
+        <item quantity="one">Itazima baada ya sekunde 1...</item>
+    </plurals>
+    <plurals name="sim_missing_title">
+        <item quantity="other">Weka SIM kadi</item>
+        <item quantity="one">Weka SIM kadi</item>
+    </plurals>
+    <plurals name="sim_missing_text_tablet">
+        <item quantity="other">Huna hakika? Soma maelekezo yaliyokuja na kompyuta kibao yako.</item>
+        <item quantity="one">Huna hakika? Soma maelekezo yaliyokuja na kompyuta kibao yako.</item>
+    </plurals>
+    <plurals name="sim_missing_text_device">
+        <item quantity="other">Huna hakika? Soma maelekezo yaliyokuja na kifaa chako.</item>
+        <item quantity="one">Huna hakika? Soma maelekezo yaliyokuja na kifaa chako.</item>
+    </plurals>
+    <plurals name="sim_missing_text_default">
+        <item quantity="other">Huna hakika? Soma maelekezo yaliyokuja na simu yako.</item>
+        <item quantity="one">Huna hakika? Soma maelekezo yaliyokuja na simu yako.</item>
+    </plurals>
+    <plurals name="walled_garden_check_timeout_text">
+        <item quantity="other">Inaweza kuchukua hadi dakika %d</item>
+        <item quantity="one">Inaweza kuchukua hadi dakika %d</item>
+    </plurals>
+</resources>

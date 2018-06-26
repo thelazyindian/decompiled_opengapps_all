@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="tutorial_header">Kig på din tablet for at låse den op.</string>
+    <string name="tutorial_info_text">"Vær opmærksom på følgende:
+
+ "<li><ul>"Ansigtsmatchning er mindre sikkert end et mønster, en pinkode eller en adgangskode.
+
+ "<li>En person, der ligner dig, kan låse din tablet op.</li>"
+
+ "<li>De data, der anvendes til at genkende dit ansigt, holdes private på din tablet.</li>"
+
+ "</ul></li></string>
+    <string name="intro_info_text">" "<li><ul>"Find et sted inden døre med moderat belysning – hverken for lyst eller mørkt.
+
+"<li>Hold tabletten i øjenhøjde.</li>"
+
+ "</ul></li></string>
+    <string name="endscreen_bullet_one_text">Din tablet låses op, så snart den genkender dig.</string>
+    <string name="endscreen_bullet_two_text">Hvis din tablet ikke genkender dit ansigt, kan du låse den op ved hjælp af dit mønster, din pinkode eller din adgangskode.</string>
+    <string name="addtosetup_info_text">"Eksempler:
+
+"<li><ul>"I forskellig belysning
+
+"<li>Med eller uden briller</li>"
+
+"<li>Med skæg eller glatbarberet</li>"
+
+"</ul></li>"
+Hold tabletten i øjenhøjde."</string>
+</resources>

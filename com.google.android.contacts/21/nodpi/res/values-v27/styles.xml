@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="ContactsTheme" parent="@style/BaseContactsTheme">
+        <item name="android:navigationBarColor">#ffffffff</item>
+        <item name="android:windowLightNavigationBar">true</item>
+        <item name="android:navigationBarDividerColor">#ffe0e0e0</item>
+    </style>
+    <style name="ContactsTheme.NoActionBar" parent="@style/BaseContactsTheme.NoActionBar">
+        <item name="android:navigationBarColor">#ffffffff</item>
+        <item name="android:windowLightNavigationBar">true</item>
+        <item name="android:navigationBarDividerColor">#ffe0e0e0</item>
+    </style>
+</resources>

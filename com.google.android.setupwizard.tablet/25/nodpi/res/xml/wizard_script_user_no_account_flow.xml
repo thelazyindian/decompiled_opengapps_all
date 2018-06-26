@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WizardScript wizard:firstAction="no_account_user_name_check"
+  xmlns:wizard="http://schemas.android.com/apk/res/com.google.android.setupwizard">
+    <WizardAction wizard:uri="intent:#Intent;action=com.google.android.setupwizard.NAME_CHECK;end" id="no_account_user_name_check">
+        <result wizard:resultCode="1" wizard:action="no_account_google_services" wizard:name="skip" />
+        <result wizard:action="no_account_user_name" />
+    </WizardAction>
+    <WizardAction wizard:uri="intent:#Intent;action=com.google.android.setupwizard.USER_NAME;end" id="no_account_user_name">
+        <result wizard:action="no_account_google_services" />
+    </WizardAction>
+    <WizardAction wizard:uri="intent:#Intent;action=com.google.android.setupwizard.GOOGLE_SERVICES;end" id="no_account_google_services">
+        <result wizard:action="no_account_suggested_actions" />
+    </WizardAction>
+    <WizardAction wizard:uri="intent:#Intent;action=com.google.android.setupwizard.SUGGESTED_ACTIONS;end" id="no_account_suggested_actions" />
+</WizardScript>

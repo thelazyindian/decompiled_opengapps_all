@@ -1,0 +1,118 @@
+40:10695 Android Annotations Support Library
+10771:11344 Android Architecture Components
+22164:11344 Android Architecture Components Core Library
+33562:11344 Android Architecture Components Lifecycle Library
+44968:11344 Android Architecture Components Lifecycle Runtime Library
+56347:10695 Android Compat Support Library
+67079:10695 Android Compatibility Library v4
+77811:10695 Android Compatibility Library v7
+88552:10694 Android Constraint Layout Support Library
+99282:10695 Android Core UI Support Library
+110016:10691 Android Core Utils Support Library
+120747:10695 Android Custom Tabs Support Library
+131484:10695 Android Data Binding Adapters Library
+142220:10695 Android Data Binding Runtime Library
+152950:10695 Android Design Support Library
+163683:10695 Android Fragments Support Library
+174415:10695 Android Graphics Support Library
+185151:10691 Android Media Compat Support Library
+195879:10695 Android Multidex Support Library
+206613:10691 Android Transition Support Library
+217323:11357 ComingSoon.ttf
+228741:10693 Compatibility Libraries for Android asynclayoutinflater.
+239487:10693 Compatibility Libraries for Android collections.
+250239:10693 Compatibility Libraries for Android coordinatorlayout.
+260987:10693 Compatibility Libraries for Android cursoradapter.
+271732:10693 Compatibility Libraries for Android customview.
+282479:10693 Compatibility Libraries for Android documentfile.
+293226:10693 Compatibility Libraries for Android drawerlayout.
+303973:10693 Compatibility Libraries for Android interpolator.
+314714:10693 Compatibility Libraries for Android loader.
+325470:10693 Compatibility Libraries for Android localbroadcastmanager.
+336210:10693 Compatibility Libraries for Android print.
+346962:10693 Compatibility Libraries for Android slidingpanelayout.
+357715:10693 Compatibility Libraries for Android swiperefreshlayout.
+368459:10693 Compatibility Libraries for Android viewpager.
+379163:11358 Dagger
+390537:11357 Error Prone
+401908:11358 ExoPlayer
+413282:11358 Google Auto
+424655:11358 Guava JDK5
+436028:11362 Guava JDK7
+447401:11358 J2ObjC
+458771:11358 JSR 250
+470141:11365 JSR 330
+481542:11358 Material Components for Android
+492924:12992 Play Common Library
+505940:9138 SADIE_hrtf_database
+515089:11358 Volley
+526478:11343 YouTube Android Player API
+537830:11365 absl
+549205:11358 agera
+560587:10695 android_databinding
+571297:11361 androidsvg
+582680:11357 auto_value_parcel
+594058:10141 customtabsclient
+604215:11342 flatbuffers
+615568:11342 flatui
+626922:11358 flexbox
+638292:11342 fplbase
+649658:11358 gtm_session_fetcher
+661026:11357 gumbo
+672398:11358 libfplutil
+683768:11357 lullaby
+695136:11358 mathfu
+706505:11358 motive
+717878:11357 pcg_random
+729251:11358 swiftshader
+740621:11341 xmpmeta
+751978:16013 Android SDK
+768013:22655 Checker Framework
+790680:87697 Eigen 3
+878384:30206 GL
+908600:4771 Glide
+913379:4155 PNG
+917560:4648 SIL Open Font License
+922222:7207 freetype2
+929443:4959 googleurl
+934421:1096 Animal Sniffer
+935529:5416 Libxml2
+940961:1337 XCB library
+942307:47018 Xorg
+989334:1044 curl
+990390:1606 jquery2
+992010:1107 jquery_ui
+993133:1091 libtxc_dxtn
+994232:1528 lua
+995769:1084 mesa
+996866:1062 mongoose
+997942:12517 BoringSSL
+1010469:19442 ICU4J
+1029923:1602 JSR 305
+1031559:1487 Ogg Opus audio parser/decoder
+1033057:1946 OpenCV
+1035024:1928 Opus audio codec
+1036961:3182 PCRE
+1040161:1732 Protobuf Nano
+1041914:1732 Protocol Buffers
+1043654:1558 RE2
+1045219:3332 V8
+1048570:1559 chromium_audio
+1050140:1466 libogg
+1051620:1470 libvorbis
+1053102:4535 libxsmm
+1057647:1919 pffft
+1059588:1475 tracing_framework
+1061077:1313 vectorial
+1062398:680 STL
+1063086:731 UTF
+1063826:694 ares
+1064533:1690 harfbuzz
+1066239:1008 libunibreak
+1067259:890 lodepng
+1068161:1996 minizip
+1070169:881 openctm
+1071061:201 stblib
+1071275:808 tinyxml2
+1072099:843 unicode_org
+1072951:2500 zlib

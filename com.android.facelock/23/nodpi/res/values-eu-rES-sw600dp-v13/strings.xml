@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="intro_screen_header">Tableta desblokeatzeko, begira iezaiozu</string>
+    <string name="intro_screen_body">"Gogoan izan:
+
+ "<li><ul>"Aurpegia hautemateko eginbidea ez da eredua, PIN kodea edo pasahitza bezain segurua.
+
+ "<li>Zure antza duen batek ere desblokea lezake tableta.</li>"
+
+ "<li>Aurpegia ezagutzeko erabilitako datuak tabletako eremu pribatu batean gordeta egongo dira.</li> </ul></li></string>
+    <string name="instructions_screen_body">" "<li><ul>"Bilatu barnealdeko toki bat; ez dadila argiegia izan, ezta ilunegia ere.
+
+ "<li>Eutsi tabletari begien parean.</li> </ul></li></string>
+    <string name="end_screen_body">Tableta desblokeatzeko, piztu pantaila eta begiratu kamerari</string>
+    <string name="end_screen_bullet_one_text">Tableta desblokeatu egingo da ezagutzen zaituenean</string>
+    <string name="add_to_setup_intro_screen_body">"Adibideak:
+
+ "<li><ul>"Argiztapen-baldintza desberdinetan.
+
+ "<li>Betaurreko graduatuekin ala gabe.</li>"
+
+ "<li>Bizarrarekin edo bizarra kenduta.</li>"
+
+ "</ul></li>"
+ Eutsi tabletari begien parean."</string>
+</resources>

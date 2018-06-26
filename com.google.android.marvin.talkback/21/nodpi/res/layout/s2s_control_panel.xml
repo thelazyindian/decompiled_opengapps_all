@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="horizontal" android:id="@id/panel" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageButton android:layout_gravity="center" android:id="@id/restart_button" android:background="@drawable/control_button_background" android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_weight="1.0" />
+    <ImageButton android:layout_gravity="center" android:id="@id/reduce_speed_button" android:background="@drawable/control_button_background" android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_weight="1.0" />
+    <ImageButton android:layout_gravity="center" android:id="@id/previous_item_button" android:background="@drawable/control_button_background" android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_weight="1.0" />
+    <FrameLayout android:id="@id/placeholder" android:layout_width="56.0dip" android:layout_height="fill_parent" android:importantForAccessibility="no" />
+    <ImageButton android:layout_gravity="center" android:id="@id/next_item_button" android:background="@drawable/control_button_background" android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_weight="1.0" />
+    <ImageButton android:layout_gravity="center" android:id="@id/increase_speed_button" android:background="@drawable/control_button_background" android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_weight="1.0" />
+    <ImageButton android:layout_gravity="center" android:id="@id/stop_button" android:background="@drawable/control_button_background" android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_weight="1.0" />
+</LinearLayout>

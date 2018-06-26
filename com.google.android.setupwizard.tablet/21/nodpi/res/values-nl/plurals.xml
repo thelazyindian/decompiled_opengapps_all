@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="shutdown_countdown_text">
+        <item quantity="other">Afsluiten over %d seconden...</item>
+        <item quantity="one">Afsluiten over 1 seconde...</item>
+    </plurals>
+    <plurals name="sim_missing_title">
+        <item quantity="other">Simkaarten plaatsen</item>
+        <item quantity="one">Simkaart plaatsen</item>
+    </plurals>
+    <plurals name="sim_missing_text_tablet">
+        <item quantity="other">Lees de instructies die bij uw tablet zijn geleverd voor informatie over het plaatsen van de simkaarten.</item>
+        <item quantity="one">Lees de instructies die bij uw tablet zijn geleverd voor informatie over het plaatsen van de simkaart.</item>
+    </plurals>
+    <plurals name="sim_missing_text_device">
+        <item quantity="other">Lees de instructies die bij uw apparaat zijn geleverd voor informatie over het plaatsen van de simkaarten.</item>
+        <item quantity="one">Lees de instructies die bij uw apparaat zijn geleverd voor informatie over het plaatsen van de simkaart.</item>
+    </plurals>
+    <plurals name="sim_missing_text_default">
+        <item quantity="other">Lees de instructies die bij uw telefoon zijn geleverd voor informatie over het plaatsen van de simkaarten.</item>
+        <item quantity="one">Lees de instructies die bij uw telefoon zijn geleverd voor informatie over het plaatsen van de simkaart.</item>
+    </plurals>
+</resources>

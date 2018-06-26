@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="shutdown_countdown_text">
+        <item quantity="other">በ%d ሰከንዶች ውስጥ በመዝጋት ላይ...</item>
+        <item quantity="one">በ%d ሰከንዶች ውስጥ በመዝጋት ላይ...</item>
+    </plurals>
+    <plurals name="sim_missing_title">
+        <item quantity="other">ሲም ካርዶች ያስገቡ</item>
+        <item quantity="one">ሲም ካርዶች ያስገቡ</item>
+    </plurals>
+    <plurals name="sim_missing_text_tablet">
+        <item quantity="other">እንዴት እንደሆነ እርግጠኛ አይደሉም? ከጡባዊዎ ጋር አብረው የመጡትን መመሪያዎችን ይመልከቱ።</item>
+        <item quantity="one">እንዴት እንደሆነ እርግጠኛ አይደሉም? ከጡባዊዎ ጋር አብረው የመጡትን መመሪያዎችን ይመልከቱ።</item>
+    </plurals>
+    <plurals name="sim_missing_text_device">
+        <item quantity="other">እንዴት እንደሆነ እርግጠኛ አይደሉም? ከመሣሪያዎ ጋር አብረው የመጡትን መመሪያዎችን ይመልከቱ።</item>
+        <item quantity="one">እንዴት እንደሆነ እርግጠኛ አይደሉም? ከመሣሪያዎ ጋር አብረው የመጡትን መመሪያዎችን ይመልከቱ።</item>
+    </plurals>
+    <plurals name="sim_missing_text_default">
+        <item quantity="other">እንዴት እንደሆነ እርግጠኛ አይደሉም? ከስልክዎ ጋር አብረው የመጡትን መመሪያዎችን ይመልከቱ።</item>
+        <item quantity="one">እንዴት እንደሆነ እርግጠኛ አይደሉም? ከስልክዎ ጋር አብረው የመጡትን መመሪያዎችን ይመልከቱ።</item>
+    </plurals>
+    <plurals name="walled_garden_check_timeout_text">
+        <item quantity="other">ይሄ እስከ %d ደቂቃዎች ድረስ ሊወስድ ይችላል</item>
+        <item quantity="one">ይሄ እስከ %d ደቂቃዎች ድረስ ሊወስድ ይችላል</item>
+    </plurals>
+</resources>

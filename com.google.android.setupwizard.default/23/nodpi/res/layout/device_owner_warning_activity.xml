@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.android.setupwizardlib.SetupWizardLayout android:id="@id/setup_wizard_layout" android:layout_width="fill_parent" android:layout_height="fill_parent" setupwizard:suwHeaderText="@string/device_owner_warning_title"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:setupwizard="http://schemas.android.com/apk/res-auto">
+    <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" style="@style/SuwContentFrame">
+        <TextView android:id="@id/device_owner_warning" android:paddingBottom="@dimen/do_warning_description_padding_bottom" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/device_owner_warning" style="@style/SuwDescription" />
+        <RadioGroup android:id="@id/device_owner_radio_group" android:layout_width="wrap_content" android:layout_height="wrap_content">
+            <RadioButton android:id="@id/radio_continue" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/device_owner_continue" style="@style/SuwRadioButton" />
+            <RadioButton android:id="@id/radio_reset" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/device_owner_reset" style="@style/SuwRadioButton" />
+        </RadioGroup>
+    </LinearLayout>
+</com.android.setupwizardlib.SetupWizardLayout>

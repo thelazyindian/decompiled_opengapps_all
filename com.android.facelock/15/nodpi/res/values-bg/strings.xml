@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Надеждно лице</string>
+    <string name="receiver_app_name">Приемник на излъчвания за Надеждно лице</string>
+    <string name="setup_app_name">Добавяне на функцията „Надеждно лице“</string>
+    <string name="enrollment_continue_label">Напред</string>
+    <string name="enrollment_done_label">Готово</string>
+    <string name="enrollment_initializing">Стартира се...</string>
+    <string name="enrollment_start_message">Дръжте лицето си в оградената с точки област</string>
+    <string name="gar_preview_description">Визуализация от камерата</string>
+    <string name="error_no_face">Покажете лицето си</string>
+    <string name="enrollment_missing_landmarks">Покажете очите, носа и устата си</string>
+    <string name="enrollment_missing_landmarks_status">Чертите на лицето ви не могат да бъдат видени</string>
+    <string name="enrollment_off_center_status">Част от лицето ви не може да се види</string>
+    <string name="gar_enrollment_face_added">Добавено е лице</string>
+    <string name="enrollment_done">Разбрах</string>
+    <string name="tutorial_app_name">Всичко за Надеждно лице</string>
+    <string name="tutorial_header">Погледнете към телефона си, за да го отключите.</string>
+    <string name="tutorial_info_text">"Не забравяйте следното:
+
+ "<li><ul>"Лицевото разпознаване е по-малко надеждно в сравнение с използването на фигура, ПИН код или парола.
+
+ "<li>Някой, който прилича на вас, може да отключи телефона ви.</li>"
+
+ "<li>Използваните данни за разпознаване на лицето ви се съхраняват поверително на устройството.</li>"
+
+ "</ul></li></string>
+    <string name="tutorial_continue_label">Настройване</string>
+    <string name="intro_header">За най-добри резултати:</string>
+    <string name="intro_info_text">" "<li><ul>"Намерете закрито място с умерено осветление – не твърде ярко или затъмнено.
+
+ "<li>Задръжте телефона на нивото на очите си.</li>"
+
+ "</ul></li></string>
+    <string name="intro_continue_label">Напред</string>
+    <string name="endscreen_header">Готови сте!</string>
+    <string name="endscreen_info_text">Когато искате да го отключите, трябва само да включите екрана си и да покажете лицето си пред камерата.</string>
+    <string name="endscreen_bullet_one_text">Телефонът ви се отключва веднага щом ви разпознае.</string>
+    <string name="endscreen_bullet_two_text">Ако телефонът ви не разпознае лицето ви, можете да го отключите с фигурата, ПИН кода или паролата си.</string>
+    <string name="endscreen_tip_text">Съвет: Подобрете лицевото разпознаване, като покажете как изглеждате в различни условия.</string>
+    <string name="endscreen_continue_label">OK</string>
+    <string name="endscreen_license_label">Лицензи</string>
+    <string name="addtosetup_app_name">Подобряване на съответствието на лицето</string>
+    <string name="addtosetup_header">Покажете как изглеждате при различни условия.</string>
+    <string name="addtosetup_info_text">"Примери:
+
+ "<li><ul>"При различно осветление
+
+ "<li>Със или без очила с диоптър</li>"
+
+ "<li>С брада или с гладко избръснато лице</li>"
+
+ "</ul></li>"
+Задръжте телефона на нивото на очите си."</string>
+    <string name="addtosetup_continue_label">Напред</string>
+    <string name="license_screen_header">Съобщения за отворен код</string>
+    <string name="license_screen_continue_label">ОK</string>
+    <string name="face_unlock_service_app_name">Услуга Отключване с лице</string>
+    <string name="trusted_face_service_app_name">Услуга Надеждно лице</string>
+    <string name="service_face_not_found">Лицето не можа да се намери</string>
+    <string name="service_not_a_match">За съжаление не ви разпознаваме</string>
+    <string name="service_liveliness_start">Премигнете сега</string>
+    <string name="service_liveliness_timeout">Не уловихме премигването ви</string>
+    <string name="service_low_ligthing">Осветлението е твърде слабо</string>
+    <string name="shared_initialize_error">Намирането на лицето ви не можа да се стартира</string>
+    <string name="shared_camera_error">Камерата не е достъпна</string>
+    <string name="shared_read_gallery_error">Моля, повторете настройката</string>
+    <string name="shared_cancel_label">Отказ</string>
+</resources>

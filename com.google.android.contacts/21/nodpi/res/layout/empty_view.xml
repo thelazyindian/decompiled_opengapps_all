@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center" android:layout_gravity="center" android:orientation="vertical" android:id="@id/empty_view" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent" android:minHeight="@dimen/empty_view_min_height"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:id="@id/empty_view_image" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/label_empty" android:scaleType="centerInside" android:adjustViewBounds="true" android:contentDescription="@null" />
+    <TextView android:textAppearance="@style/TextAppearance.AppCompat.Headline" android:gravity="center_horizontal" android:id="@id/empty_view_text" android:paddingTop="@dimen/empty_view_text_padding_top" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/no_starred_contacts" />
+    <Button android:layout_gravity="center_horizontal" android:id="@id/add_contacts_button" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/add_starred_contacts" style="?borderlessButtonStyle" />
+</LinearLayout>

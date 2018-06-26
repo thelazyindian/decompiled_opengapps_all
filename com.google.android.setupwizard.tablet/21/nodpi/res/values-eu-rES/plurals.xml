@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="shutdown_countdown_text">
+        <item quantity="other">%d segundo barru itzaliko da…</item>
+        <item quantity="one">1 segundo barru itzaliko da…</item>
+    </plurals>
+    <plurals name="sim_missing_title">
+        <item quantity="other">Sartu SIM txartelak</item>
+        <item quantity="one">Sartu SIM txartela</item>
+    </plurals>
+    <plurals name="sim_missing_text_tablet">
+        <item quantity="other">SIM txartelak nola sartu jakiteko, irakurri tabletaren argibideak.</item>
+        <item quantity="one">SIM txartela nola sartu jakiteko, irakurri tabletaren argibideak.</item>
+    </plurals>
+    <plurals name="sim_missing_text_device">
+        <item quantity="other">SIM txartelak nola sartu jakiteko, irakurri gailuaren argibideak.</item>
+        <item quantity="one">SIM txartela nola sartu jakiteko, irakurri gailuaren argibideak.</item>
+    </plurals>
+    <plurals name="sim_missing_text_default">
+        <item quantity="other">SIM txartelak nola sartu jakiteko, irakurri telefonoaren argibideak.</item>
+        <item quantity="one">SIM txartela nola sartu jakiteko, irakurri telefonoaren argibideak.</item>
+    </plurals>
+</resources>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Поуздано лице</string>
+    <string name="receiver_app_name">Пријемник за емитовање поузданог лица</string>
+    <string name="setup_app_name">Додај поуздано лице</string>
+    <string name="enrollment_continue_label">Даље</string>
+    <string name="enrollment_done_label">Готово</string>
+    <string name="enrollment_initializing">Покретање...</string>
+    <string name="enrollment_start_message">Нека вам лице буде у простору оивиченом тачкама</string>
+    <string name="gar_preview_description">Преглед камере</string>
+    <string name="error_no_face">Покажите лице</string>
+    <string name="enrollment_missing_landmarks">Покажите очи, нос и уста</string>
+    <string name="enrollment_missing_landmarks_status">Не виде се црте лица</string>
+    <string name="enrollment_off_center_status">Није могуће видети део лица</string>
+    <string name="gar_enrollment_face_added">Лице је додато</string>
+    <string name="enrollment_done">Важи</string>
+    <string name="tutorial_app_name">О поузданом лицу</string>
+    <string name="tutorial_header">Погледајте у телефон да бисте га откључали.</string>
+    <string name="tutorial_info_text">"Имајте следеће у виду:
+
+ "<li><ul>"Подударање лица је мање безбедно од шаблона, PIN-а или лозинке.
+
+ "<li>Неко ко личи на вас може да откључа телефон.</li>"
+
+ "<li>Подаци који се користе да вас препознају чувају се у тајности на телефону.</li>"
+
+ "</ul></li></string>
+    <string name="tutorial_continue_label">Подеси</string>
+    <string name="intro_header">За најбоље резултате:</string>
+    <string name="intro_info_text">" "<li><ul>"Пронађите место на затвореном које није ни превише светло ни превише тамно.
+
+ "<li>Држите телефон у нивоу очију.</li>"
+
+ "</ul></li></string>
+    <string name="intro_continue_label">Даље</string>
+    <string name="endscreen_header">Све је спремно!</string>
+    <string name="endscreen_info_text">Када желите да откључате, само укључите екран и ставите лице испред камере.</string>
+    <string name="endscreen_bullet_one_text">Телефон се откључава чим вас препозна.</string>
+    <string name="endscreen_bullet_two_text">Ако телефон не препозна ваше лице, можете да га откључате помоћу шаблона, PIN-а или лозинке.</string>
+    <string name="endscreen_tip_text">Савет: Побољшајте подударање лица тако што ћете показати како изгледате у различитим условима.</string>
+    <string name="endscreen_continue_label">Потврди</string>
+    <string name="endscreen_license_label">Лиценце</string>
+    <string name="addtosetup_app_name">Побољшање подударања лица</string>
+    <string name="addtosetup_header">Покажите како изгледате у различитим условима.</string>
+    <string name="addtosetup_info_text">"Примери:
+
+ "<li><ul>"Под различитим осветљењем
+
+ "<li>Са наочарима за вид или без њих</li>"
+
+ "<li>Са брадом или без ње</li>"
+
+ "</ul></li>"
+Држите телефон у нивоу очију."</string>
+    <string name="addtosetup_continue_label">Даље</string>
+    <string name="license_screen_header">Обавештења о лиценцама отвореног кода</string>
+    <string name="license_screen_continue_label">Потврди</string>
+    <string name="face_unlock_service_app_name">Услуга Откључавање лицем</string>
+    <string name="trusted_face_service_app_name">Услуга поузданог лица</string>
+    <string name="service_face_not_found">Није могуће пронаћи лице</string>
+    <string name="service_not_a_match">Жао ми је, не знам ко сте</string>
+    <string name="service_liveliness_start">Сад трепните</string>
+    <string name="service_liveliness_timeout">Трептај није регистрован</string>
+    <string name="service_low_ligthing">Осветљење је преслабо</string>
+    <string name="shared_initialize_error">Нисмо успели да започнемо проналажење лица</string>
+    <string name="shared_camera_error">Камера није доступна</string>
+    <string name="shared_read_gallery_error">Поновите подешавање</string>
+    <string name="shared_cancel_label">Откажи</string>
+</resources>

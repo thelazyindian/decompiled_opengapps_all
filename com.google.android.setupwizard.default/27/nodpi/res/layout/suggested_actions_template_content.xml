@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <android.support.v4.widget.NestedScrollView android:id="@id/suw_scroll_view" android:layout_width="fill_parent" android:layout_height="0.0dip" android:fillViewport="true" android:layout_weight="1.0" android:scrollIndicators="?suwScrollIndicators">
+        <LinearLayout android:orientation="vertical" android:id="@id/suw_layout_content" android:focusableInTouchMode="true" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <include layout="@layout/suw_glif_header" />
+            <com.android.setupwizardlib.view.RichTextView android:textAppearance="@style/TextAppearance.SuwDescription" android:id="@id/suggestion_description" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="?suwMarginSides" android:layout_marginRight="?suwMarginSides" android:text="@string/suggested_actions_description" android:lineSpacingExtra="@dimen/suw_description_line_spacing_extra" style="?attr/suwItemDescriptionTitleStyle" />
+            <android.support.v7.widget.RecyclerView android:id="@id/suw_recycler_view" android:layout_width="fill_parent" android:layout_height="wrap_content" android:nestedScrollingEnabled="false" android:layout_marginHorizontal="?suwMarginSides" android:layout_marginVertical="@dimen/suggested_actions_grid_margin_vertical" />
+        </LinearLayout>
+    </android.support.v4.widget.NestedScrollView>
+    <ViewStub android:id="@id/suw_layout_footer" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+</LinearLayout>

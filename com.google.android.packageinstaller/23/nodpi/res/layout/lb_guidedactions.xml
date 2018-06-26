@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout style="?attr/guidedActionsContainerStyle">
+        <FrameLayout android:id="@id/guidedactions_selector" style="?attr/guidedActionsSelectorStyle" />
+        <android.support.v17.leanback.widget.VerticalGridView android:id="@id/guidedactions_list" style="?attr/guidedActionsListStyle" />
+    </RelativeLayout>
+</RelativeLayout>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Kalibrator ivice ekrana</string>
+    <string name="instructions_text">Pomerajte strelice pomoću kontrolera da bi se poklopile sa slikom iznad.</string>
+    <string name="confirm_text">Kliknite da biste potvrdili</string>
+</resources>

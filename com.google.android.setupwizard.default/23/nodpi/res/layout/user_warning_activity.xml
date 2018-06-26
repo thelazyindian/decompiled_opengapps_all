@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.android.setupwizardlib.SetupWizardLayout android:id="@id/setup_wizard_layout" android:layout_width="fill_parent" android:layout_height="fill_parent" setupwizard:suwHeaderText="@string/user_warning_title"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:setupwizard="http://schemas.android.com/apk/res-auto">
+    <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent" style="@style/SuwContentFrame">
+        <TextView android:id="@id/user_added" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/welcome_secondary_user_added_no_owner_name_text" style="@style/SuwDescription" />
+        <TextView android:id="@id/info_text" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/setup_wizard_vertical_spacing" android:text="@string/welcome_secondary_user_info_text" style="@style/SuwDescription" />
+        <RadioGroup android:id="@id/sec_user_radio_group" android:layout_width="wrap_content" android:layout_height="wrap_content">
+            <RadioButton android:id="@id/radio_continue" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/sec_user_continue" style="@style/SuwRadioButton" />
+            <RadioButton android:id="@id/radio_quit" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/sec_user_quit" style="@style/SuwRadioButton" />
+        </RadioGroup>
+    </LinearLayout>
+</com.android.setupwizardlib.SetupWizardLayout>

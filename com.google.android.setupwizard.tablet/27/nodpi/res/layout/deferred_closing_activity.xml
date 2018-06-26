@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.android.setupwizardlib.GlifLayout android:icon="@drawable/ic_checkmark_googleblue" android:layout_width="fill_parent" android:layout_height="fill_parent" app:suwFooter="@layout/deferred_closing_footer" app:suwHeaderText="@string/closing_deferred_title"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent" style="@style/SuwContentFrame">
+        <TextView android:id="@id/closing_message" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/closing_deferred_message" style="@style/SuwDescription.Glif" />
+        <com.android.setupwizardlib.view.FillContentLayout android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_weight="1.0">
+            <ImageView android:layout_width="fill_parent" android:layout_height="fill_parent" android:src="@drawable/deferred_setup_closing_img" android:contentDescription="@null" style="@style/SuwContentIllustration" />
+        </com.android.setupwizardlib.view.FillContentLayout>
+        <ViewStub android:id="@id/deferred_setup_closing_offer_container" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+    </LinearLayout>
+</com.android.setupwizardlib.GlifLayout>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.calendar.newapi.segment.ooo.OooEditSegment style="@style/NewEditSegmentLayout"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <FrameLayout android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <ImageView android:layout_gravity="start|center" android:src="@drawable/quantum_ic_event_busy_grey600_24" style="@style/Edit.Icon" />
+            <android.support.design.textfield.TextInputLayout android:gravity="start" android:id="@id/auto_decline_message_input_layout" android:paddingTop="@dimen/edit_segment_list_top_padding" android:paddingBottom="@dimen/edit_segment_list_bottom_padding" android:layout_width="fill_parent" android:layout_height="wrap_content" android:hint="@string/ooo_auto_decline_message_label" android:textAlignment="viewStart" android:paddingStart="@dimen/edit_segment_keyline_2">
+                <EditText android:gravity="start" android:id="@id/auto_decline_message_text" android:layout_width="fill_parent" android:layout_height="wrap_content" android:inputType="textCapSentences|textMultiLine" android:textAlignment="viewStart" style="@style/Edit.Text.Edit" />
+            </android.support.design.textfield.TextInputLayout>
+        </FrameLayout>
+        <com.google.android.calendar.tiles.view.TextTileView android:id="@id/auto_decline_warning_text" android:layout_width="fill_parent" android:layout_height="wrap_content" app:tile_icon="@drawable/quantum_ic_warning_grey600_24" app:tile_primary_text="@string/ooo_auto_decline_explanation" />
+    </LinearLayout>
+</com.google.android.calendar.newapi.segment.ooo.OooEditSegment>

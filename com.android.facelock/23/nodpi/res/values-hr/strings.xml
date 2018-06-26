@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pouzdano lice</string>
+    <string name="trusted_face_service_app_name">Usluga Pouzdano lice</string>
+    <string name="receiver_app_name">Prijemnik za Pouzdano lice</string>
+    <string name="setup_app_name">Dodavanje pouzdanog lica</string>
+    <string name="add_to_setup_app_name">Poboljšajte podudaranje lica</string>
+    <string name="intro_screen_title">O Pouzdanom licu</string>
+    <string name="intro_screen_header">Otključajte telefon gledajući u njega</string>
+    <string name="intro_screen_body">"Zapamtite:
+
+ "<li><ul>"podudaranje lica manje je sigurno od uzorka, PIN-a ili zaporke.
+
+ "<li>Netko tko izgleda kao vi mogao bi otključati vaš telefon.</li>"
+
+ "<li>Podaci koji se upotrebljavaju za prepoznavanje vašeg lica spremljeni su kao privatni na telefonu.</li> </ul></li></string>
+    <string name="intro_screen_continue_label">Postavi</string>
+    <string name="instructions_screen_title">Dodavanje pouzdanog lica</string>
+    <string name="instructions_screen_header">Za najbolje rezultate:</string>
+    <string name="instructions_screen_body">" "<li><ul>"Pronađite mjesto u zatvorenom prostoru koje nije pretamno ni presvijetlo.
+
+ "<li>Držite telefon u razini očiju.</li> </ul></li></string>
+    <string name="instructions_screen_continue_label">Dalje</string>
+    <string name="enrollment_screen_message_initializing">Pokretanje...</string>
+    <string name="enrollment_screen_message_initialization_error">Nije moguće pokrenuti traženje lica</string>
+    <string name="enrollment_screen_message_camera_error">Fotoaparat nije dostupan</string>
+    <string name="enrollment_start_message">Držite lice unutar područja označenog točkicama.</string>
+    <string name="enrollment_screen_message_instructions">Čitava glava mora biti u krugu</string>
+    <string name="enrollment_screen_message_missing_landmarks">Pokažite oči, nos i usta</string>
+    <string name="enrollment_screen_message_done">Lice dodano</string>
+    <string name="enrollment_screen_status_no_face">Pokažite svoje lice</string>
+    <string name="enrollment_screen_status_face_off_center">Dio vašeg lica nije vidljiv</string>
+    <string name="enrollment_screen_status_missing_landmarks">Crte vašeg lica nisu vidljive</string>
+    <string name="enrollment_screen_continue_label">Dalje</string>
+    <string name="enrollment_screen_done_label">Gotovo</string>
+    <string name="enrollment_screen_talkback_preview_description">Pregled fotoaparata</string>
+    <string name="enrollment_screen_talkback_face_added">Lice dodano</string>
+    <string name="end_screen_title">Sve je spremno!</string>
+    <string name="end_screen_body">Da biste otključali telefon, samo uključite zaslon i pogledajte fotoaparat</string>
+    <string name="end_screen_bullet_one_text">Telefon će se otključati čim vas prepozna</string>
+    <string name="end_screen_bullet_two_text">Ako prepoznavanje lica ne uspije, otključajte obrascem, PIN-om ili zaporkom</string>
+    <string name="end_screen_tip_text">Savjet: poboljšajte prepoznavanje lica tako što ćete pokazati kako izgledate u različitim uvjetima</string>
+    <string name="end_screen_licenses_label">Licence</string>
+    <string name="end_screen_continue_label">Gotovo</string>
+    <string name="add_to_setup_intro_screen_title">Poboljšajte podudaranje lica</string>
+    <string name="add_to_setup_intro_screen_header">Pokažite kako izgledate u različitim uvjetima</string>
+    <string name="add_to_setup_intro_screen_body">"Primjeri:
+
+ "<li><ul>"pri različitom osvjetljenju
+
+ "<li>s dioptrijskim naočalama ili bez njih</li>"
+
+ "<li>s bradom ili obrijan.</li>"
+
+ "</ul></li>"
+ Držite telefon u razini očiju."</string>
+    <string name="add_to_setup_intro_screen_continue_label">Dalje</string>
+    <string name="license_screen_header">Obavijesti o otvorenom izvornom kodu</string>
+    <string name="license_screen_continue_label">U redu</string>
+    <string name="shared_cancel_label">Odustani</string>
+</resources>

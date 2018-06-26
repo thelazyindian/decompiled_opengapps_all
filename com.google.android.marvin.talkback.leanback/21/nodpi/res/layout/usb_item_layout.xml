@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="fill_parent" android:minHeight="?android:listPreferredItemHeightSmall"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:layout_gravity="center_vertical" android:id="@id/usb_device_icon" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/quantum_ic_usb_vd_theme_24" android:tint="@color/setup_wizard_device_icon_tint" android:contentDescription="@null" />
+    <TextView android:textAppearance="?android:textAppearanceListItemSmall" android:layout_gravity="center_vertical" android:id="@id/usb_device_name" android:layout_width="wrap_content" android:layout_height="wrap_content" android:paddingStart="?android:listPreferredItemPaddingStart" android:paddingEnd="?android:listPreferredItemPaddingEnd" />
+</LinearLayout>

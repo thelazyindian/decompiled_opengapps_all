@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="tutorial_header">ロック解除するにはフェイスアンロックを行ってください。</string>
+    <string name="tutorial_info_text">"次の点にご注意ください。
+
+ "<li><ul>"顔認識は、パターン、PIN、パスワードよりも安全面で劣ります。
+
+"<li>あなたによく似た誰かがタブレットのロックを解除できる場合があります。</li>"
+
+"<li>顔認識に使用されるデータはタブレット上にのみ保持されます。</li>"
+
+ "</ul></li></string>
+    <string name="intro_info_text">" "<li><ul>"屋内で明るすぎず暗すぎない場所を選びます。
+
+ "<li>タブレットを目の高さに持ちます。</li>"
+
+ "</ul></li></string>
+    <string name="endscreen_bullet_one_text">顔を認識するとタブレットのロックがすぐに解除されます。</string>
+    <string name="endscreen_bullet_two_text">タブレットが顔を認識しない場合は、パターン、PIN、パスワードでロックを解除できます。</string>
+    <string name="addtosetup_info_text">"例:
+
+ "<li><ul>"明るさの違う場所
+
+ "<li>眼鏡をかけた顔/かけない顔</li>"
+
+ "<li>髭を生やした顔/剃った顔</li>"
+
+ "</ul></li>"
+タブレットを目の高さに持ちます。"</string>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.android.setupwizardlib.GlifLayout android:icon="@drawable/ic_system_update" android:id="@id/setup_wizard_layout" android:layout_width="fill_parent" android:layout_height="fill_parent" app:suwHeaderText="@string/ota_update_title"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" style="@style/SuwContentFrame">
+        <com.android.setupwizardlib.view.RichTextView android:id="@id/ota_update_description" android:layout_width="wrap_content" android:layout_height="wrap_content" style="@style/SuwDescription.Glif" />
+        <Button android:layout_gravity="end" android:id="@id/ota_update_next_button" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/suw_next_button_label" style="@android:style/Widget.Material.Button.Colored" />
+    </LinearLayout>
+</com.android.setupwizardlib.GlifLayout>

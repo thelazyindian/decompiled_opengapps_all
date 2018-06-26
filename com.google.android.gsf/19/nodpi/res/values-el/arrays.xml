@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="passwordStrength">
+        <item>κακή</item>
+        <item>μέτρια</item>
+        <item>καλή</item>
+        <item>ισχυρή</item>
+    </string-array>
+</resources>

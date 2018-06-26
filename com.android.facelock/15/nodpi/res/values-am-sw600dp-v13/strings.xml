@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="tutorial_header">ለመክፈት ጡባዊ ተኮዎን ይመልከቱ።</string>
+    <string name="tutorial_info_text">"እነዚህን ነገሮች ከግምት ውስጥ ያስገቡ፦
+
+ "<li><ul>"መልክ ማዛመድ ከስርዓተ-ጥለት፣ ፒን ወይም ይለፍ ቃል ያነሰ ደህንነት ነው ያለው።
+
+ "<li>እርስዎን የሚመስል ሰው ጡባዊዎን ሊያስከፍተው ይችላል።</li>"
+
+ "<li>መልክዎን ለማወቅ ስራ ላይ የሚውለው ውሂብ ጡባዊው ላይ የግል እንደሆነ ይቀመጣል።</li>"
+
+ "</ul></li></string>
+    <string name="intro_info_text">" "<li><ul>"የቤት ውስጥ ቦታ አግኝ—በጣም ብርሃንማ ወይም ደብዛዛ ያልሆነ።
+
+ "<li>በአይን ትክክል ጡባዊ ተኮን ያዘው።</li>"
+
+ "</ul></li></string>
+    <string name="endscreen_bullet_one_text">ጡባዊዎ እርስዎን እንዳወቀ ይከፈታል።</string>
+    <string name="endscreen_bullet_two_text">ጡባዊዎ መልክዎን ካላወቀው በስርዓተ-ጥለት፣ ፒን ወይም የይለፍ ቃል ማስወገድ ይችላሉ።</string>
+    <string name="addtosetup_info_text">"ምሳሌዎች፦ 
+
+"<li><ul>"በተለያዩ ብርሃኖች
+
+"<li>በታዘዙ መነፅሮች ወይም ከዛ ውጪ</li>"
+
+ ፂማም ወይም ሙልጭ ብሎ የተላጨ
+
+"</ul></li>"
+በአይን ትክክል ጡባዊ ተኮን ያዘው።"</string>
+</resources>

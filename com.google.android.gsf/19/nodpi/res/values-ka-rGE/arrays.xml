@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="passwordStrength">
+        <item>სუსტი</item>
+        <item>შედარებით საიმედო</item>
+        <item>კარგი</item>
+        <item>საიმედო</item>
+    </string-array>
+</resources>

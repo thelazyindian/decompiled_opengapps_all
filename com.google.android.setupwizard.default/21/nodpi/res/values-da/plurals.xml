@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="shutdown_countdown_text">
+        <item quantity="other">Slukker om %d sekunder...</item>
+        <item quantity="one">Lukker ned om 1 sekund...</item>
+    </plurals>
+    <plurals name="sim_missing_title">
+        <item quantity="other">Isæt SIM-kort</item>
+        <item quantity="one">Indsæt SIM-kort</item>
+    </plurals>
+    <plurals name="sim_missing_text_tablet">
+        <item quantity="other">Hvis du vil isætte dine SIM-kort, skal du læse den vejledning, som fulgte med din tablet.</item>
+        <item quantity="one">Hvis du vil isætte dit SIM-kort, skal du læse den vejledning, som fulgte med din tablet.</item>
+    </plurals>
+    <plurals name="sim_missing_text_device">
+        <item quantity="other">Hvis du vil isætte dine SIM-kort, skal du læse den vejledning, som fulgte med din enhed.</item>
+        <item quantity="one">Hvis du vil isætte dit SIM-kort, skal du læse den vejledning, som fulgte med din enhed.</item>
+    </plurals>
+    <plurals name="sim_missing_text_default">
+        <item quantity="other">Hvis du vil isætte dine SIM-kort, skal du læse den vejledning, der fulgte med din telefon.</item>
+        <item quantity="one">Hvis du vil isætte dit SIM-kort, skal du læse den vejledning, der fulgte med din telefon.</item>
+    </plurals>
+</resources>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><manifest xmlns:android="http://schemas.android.com/apk/res/android" package="com.google.android.configupdater" platformBuildVersionCode="27" platformBuildVersionName="8.1.0">
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED"/>
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.DOWNLOAD_WITHOUT_NOTIFICATION"/>
+    <uses-permission android:name="com.google.android.providers.gsf.permission.READ_GSERVICES"/>
+    <uses-permission android:name="android.permission.UPDATE_CONFIG"/>
+    <application android:allowBackup="false" android:label="ConfigUpdater">
+        <receiver android:name=".MainReceiver">
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED"/>
+            </intent-filter>
+        </receiver>
+        <service android:exported="true" android:name=".MainJobService" android:permission="android.permission.BIND_JOB_SERVICE"/>
+        <receiver android:name=".CertPin.CertPinUpdateRequestReceiver">
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED"/>
+                <action android:name="android.intent.action.DOWNLOAD_COMPLETE"/>
+                <action android:name="com.google.android.configupdater.GSERVICES_CHANGED"/>
+                <action android:name="com.google.android.configupdater.CertPin.UPDATE_CERT_PINS"/>
+            </intent-filter>
+        </receiver>
+        <receiver android:name=".IntentFirewall.IntentFirewallUpdateRequestReceiver">
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED"/>
+                <action android:name="android.intent.action.DOWNLOAD_COMPLETE"/>
+                <action android:name="com.google.android.configupdater.GSERVICES_CHANGED"/>
+                <action android:name="com.google.android.configupdater.IntentFirewall.UPDATE_INTENT_FIREWALL"/>
+            </intent-filter>
+        </receiver>
+        <receiver android:name=".SmsShortCodes.SmsShortCodesUpdateRequestReceiver">
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED"/>
+                <action android:name="android.intent.action.DOWNLOAD_COMPLETE"/>
+                <action android:name="com.google.android.configupdater.GSERVICES_CHANGED"/>
+                <action android:name="com.google.android.configupdater.SmsShortCodes.UPDATE_SMS_SHORT_CODES"/>
+            </intent-filter>
+        </receiver>
+        <receiver android:exported="true" android:name=".ApnDb.ApnDbUpdateRequestReceiver">
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED"/>
+                <action android:name="android.intent.action.DOWNLOAD_COMPLETE"/>
+                <action android:name="com.google.android.configupdater.GSERVICES_CHANGED"/>
+                <action android:name="com.google.android.configupdater.ApnDb.UPDATE_APN_DB"/>
+            </intent-filter>
+        </receiver>
+        <receiver android:name=".TzData.TzDataUpdateRequestReceiver">
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED"/>
+                <action android:name="android.intent.action.DOWNLOAD_COMPLETE"/>
+                <action android:name="com.google.android.configupdater.GSERVICES_CHANGED"/>
+                <action android:name="com.google.android.configupdater.TzData.UPDATE_TZDATA"/>
+            </intent-filter>
+        </receiver>
+        <receiver android:name=".CarrierProvisioningUrls.CarrierProvisioningUrlsUpdateRequestReceiver">
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED"/>
+                <action android:name="android.intent.action.DOWNLOAD_COMPLETE"/>
+                <action android:name="com.google.android.configupdater.GSERVICES_CHANGED"/>
+                <action android:name="com.google.android.configupdater.CarrierProvisioningUrls.UPDATE_CARRIER_PROVISIONING_URLS"/>
+            </intent-filter>
+        </receiver>
+        <receiver android:name=".CTLogs.CTLogsUpdateRequestReceiver">
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED"/>
+                <action android:name="android.intent.action.DOWNLOAD_COMPLETE"/>
+                <action android:name="com.google.android.configupdater.GSERVICES_CHANGED"/>
+                <action android:name="com.google.android.configupdater.CTLogs.UPDATE_CT_LOGS"/>
+            </intent-filter>
+        </receiver>
+        <receiver android:name=".LangId.LangIdUpdateRequestReceiver">
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED"/>
+                <action android:name="android.intent.action.DOWNLOAD_COMPLETE"/>
+                <action android:name="com.google.android.configupdater.GSERVICES_CHANGED"/>
+                <action android:name="com.google.android.configupdater.LangId.UPDATE_LANG_ID"/>
+            </intent-filter>
+        </receiver>
+        <receiver android:name=".SmartSelection.SmartSelectionUpdateRequestReceiver">
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED"/>
+                <action android:name="android.intent.action.DOWNLOAD_COMPLETE"/>
+                <action android:name="com.google.android.configupdater.GSERVICES_CHANGED"/>
+                <action android:name="com.google.android.configupdater.SmartSelection.UPDATE_SMART_SELECTION"/>
+            </intent-filter>
+        </receiver>
+        <provider android:authorities="com.google.android.configupdater.fileprovider" android:exported="false" android:grantUriPermissions="true" android:name="android.support.v4.content.FileProvider">
+            <meta-data android:name="android.support.FILE_PROVIDER_PATHS" android:resource="@xml/filepaths"/>
+        </provider>
+    </application>
+</manifest>

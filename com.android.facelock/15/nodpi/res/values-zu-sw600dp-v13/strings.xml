@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="tutorial_header">Bheka ithebhulethi yakho ukuze uyivule.</string>
+    <string name="tutorial_info_text">"Okufanele uhlale ukukhumbula:
+
+ "<li><ul>"Ukufana kobuso kuvikeleke kancane kunephethini, iphinikhodi, noma iphasiwedi.
+
+ "<li>Omunye ofana nawe angavula ithebhulethi yakho.</li>"
+
+ "<li>Idatha esetshenziswe ukubona ubuso bakho igcinwa iyimfihlo kuthebhulethi.</li>"
+
+ "</ul></li></string>
+    <string name="intro_info_text">" "<li><ul>"Thola indawo esendlini—engakhanyi kakhulu noma engemnyama kakhulu.
+
+ "<li>Bamba ucingo luqondane nehlo.</li>"
+
+ "</ul></li></string>
+    <string name="endscreen_bullet_one_text">Ithebhulethi yakho ivula ngokushesha uma ikubona.</string>
+    <string name="endscreen_bullet_two_text">Uma ithebhulethi yakho ingaboni ubuso bakho, ungavuma ngephethini, iphinikhodi, noma iphasiwedi yakho.</string>
+    <string name="addtosetup_info_text">"Izibonelo:
+
+ "<li><ul>"Ezibanini ezahlukene
+
+ "<li>Ngezibuko noma ngaphandle kwazibuko ezichasisiwe</li>"
+
+ "<li>Kunentshebe noma kushefiwe</li>"
+
+ "</ul></li>"
+Bamba ithebhulethi iqondane nehlo."</string>
+</resources>

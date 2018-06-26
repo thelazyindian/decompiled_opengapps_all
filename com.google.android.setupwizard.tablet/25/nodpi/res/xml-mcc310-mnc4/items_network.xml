@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ItemGroup
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <Item android:enabled="false" android:id="@id/network_description" android:layout="@layout/item_layout_description" />
+    <Item android:icon="@drawable/ic_wifi_scanning" android:enabled="false" android:id="@id/network_scanning" android:layout="@layout/items_greyed_out" android:title="@string/wifi_scanning" />
+    <com.google.android.setupwizard.network.WifiItemHierarchy android:id="@id/network_wifi_list" />
+    <Item android:icon="@drawable/ic_wifi_see_all" android:id="@id/network_see_all_wifi" android:title="@string/network_see_all_wifi" />
+    <Item android:icon="@drawable/ic_skip" android:id="@id/network_use_cellular" android:title="@string/network_use_cellular" />
+    <Item android:icon="@drawable/ic_skip" android:id="@id/network_dont_connect" android:visible="false" android:title="@string/network_dont_connect" />
+</ItemGroup>

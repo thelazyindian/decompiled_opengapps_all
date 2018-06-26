@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:paddingLeft="@dimen/tos_webview_padding_without_progress_bar" android:paddingTop="@dimen/tos_webview_padding_with_progress_bar" android:paddingRight="@dimen/tos_webview_padding_without_progress_bar" android:paddingBottom="@dimen/tos_webview_padding_without_progress_bar" android:fitsSystemWindows="true" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <WebView android:id="@id/webview" android:focusable="true" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+</FrameLayout>

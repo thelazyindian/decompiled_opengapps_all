@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="tutorial_header">Mira la teva tauleta per desbloquejar-la.</string>
+    <string name="tutorial_info_text">"Tingues en compte el següent:
+
+ "<li><ul>"La coincidència facial és menys segura que un patró, un PIN o una contrasenya.
+
+ "<li>"Una persona que s'assembli a tu podria desbloquejar la teva tauleta."</li>"
+
+ "<li>"Les dades que s'han fet servir per reconèixer la teva cara es mantenen privades a la tauleta."</li>"
+
+ "</ul></li></string>
+    <string name="intro_info_text">" "<li><ul>"Cerca un lloc interior que no estigui massa il·luminat i que no sigui massa fosc.
+
+ "<li>Mantén la tauleta al nivell dels ulls.</li>"
+
+ "</ul></li></string>
+    <string name="endscreen_bullet_one_text">La tauleta es desbloqueja tan bon punt et reconeix.</string>
+    <string name="endscreen_bullet_two_text">Si la tauleta no reconeix la teva cara, també pots desbloquejar-la amb el patró de desbloqueig, el codi PIN o la contrasenya.</string>
+    <string name="addtosetup_info_text">"Exemples:
+
+ "<li><ul>"En condicions d'il·luminació diferents
+
+ "<li>Amb o sense ulleres de vista</li>"
+
+ "<li>Amb barba o afaitat</li>"
+
+ "</ul></li>"
+Mantén la tauleta al nivell dels ulls."</string>
+</resources>

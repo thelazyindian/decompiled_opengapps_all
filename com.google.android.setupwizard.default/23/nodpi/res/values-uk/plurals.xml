@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="shutdown_countdown_text">
+        <item quantity="other">Вимкнення через %d секунди…</item>
+        <item quantity="one">Вимкнення через %d секунду…</item>
+        <item quantity="few">Вимкнення через %d секунди…</item>
+        <item quantity="many">Вимкнення через %d секунд…</item>
+    </plurals>
+    <plurals name="sim_missing_title">
+        <item quantity="other">Вставте SIM-карти</item>
+        <item quantity="one">Вставте SIM-карти</item>
+        <item quantity="few">Вставте SIM-карти</item>
+        <item quantity="many">Вставте SIM-карти</item>
+    </plurals>
+    <plurals name="sim_missing_text_tablet">
+        <item quantity="other">Не знаєте, як? Перегляньте інструкцію до свого планшета.</item>
+        <item quantity="one">Не знаєте, як? Перегляньте інструкцію до свого планшета.</item>
+        <item quantity="few">Не знаєте, як? Перегляньте інструкцію до свого планшета.</item>
+        <item quantity="many">Не знаєте, як? Перегляньте інструкцію до свого планшета.</item>
+    </plurals>
+    <plurals name="sim_missing_text_device">
+        <item quantity="other">Не знаєте, як? Перегляньте інструкцію до свого пристрою.</item>
+        <item quantity="one">Не знаєте, як? Перегляньте інструкцію до свого пристрою.</item>
+        <item quantity="few">Не знаєте, як? Перегляньте інструкцію до свого пристрою.</item>
+        <item quantity="many">Не знаєте, як? Перегляньте інструкцію до свого пристрою.</item>
+    </plurals>
+    <plurals name="sim_missing_text_default">
+        <item quantity="other">Не знаєте, як? Перегляньте інструкцію до свого телефона.</item>
+        <item quantity="one">Не знаєте, як? Перегляньте інструкцію до свого телефона.</item>
+        <item quantity="few">Не знаєте, як? Перегляньте інструкцію до свого телефона.</item>
+        <item quantity="many">Не знаєте, як? Перегляньте інструкцію до свого телефона.</item>
+    </plurals>
+    <plurals name="walled_garden_check_timeout_text">
+        <item quantity="other">Це може зайняти до %d хвилини</item>
+        <item quantity="one">Це може зайняти до %d хвилини</item>
+        <item quantity="few">Це може зайняти до %d хвилин</item>
+        <item quantity="many">Це може зайняти до %d хвилин</item>
+    </plurals>
+</resources>

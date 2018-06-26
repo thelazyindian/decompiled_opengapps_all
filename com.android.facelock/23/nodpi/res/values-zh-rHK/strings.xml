@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">信任的臉孔</string>
+    <string name="trusted_face_service_app_name">信任的臉孔服務</string>
+    <string name="receiver_app_name">信任的臉孔廣播接收器</string>
+    <string name="setup_app_name">新增可信任臉孔</string>
+    <string name="add_to_setup_app_name">提高臉孔配對精準度</string>
+    <string name="intro_screen_title">關於可信任臉孔</string>
+    <string name="intro_screen_header">直望手機即可解鎖</string>
+    <string name="intro_screen_body">"注意事項：
+
+ "<li><ul>"相比圖形、PIN 或密碼，臉孔解鎖的安全性較低
+
+ "<li>任何與您外貌相似的人都能夠將您的手機解鎖</li>"
+
+ "<li>用來辨識您臉孔的資料會安全地儲存在您的手機中</li> </ul></li></string>
+    <string name="intro_screen_continue_label">設定</string>
+    <string name="instructions_screen_title">新增可信任臉孔</string>
+    <string name="instructions_screen_header">如何獲得最佳效果：</string>
+    <string name="instructions_screen_body">" "<li><ul>"找一個光線適中的室內位置，不宜太光或太暗
+
+ "<li>手機放在視線水平</li> </ul></li></string>
+    <string name="instructions_screen_continue_label">下一步</string>
+    <string name="enrollment_screen_message_initializing">正在啟動...</string>
+    <string name="enrollment_screen_message_initialization_error">無法開始尋找您的臉孔</string>
+    <string name="enrollment_screen_message_camera_error">無法使用相機</string>
+    <string name="enrollment_start_message">將臉部置於虛線範圍內</string>
+    <string name="enrollment_screen_message_instructions">將您的頭頂及下巴底部保持在圓圈內</string>
+    <string name="enrollment_screen_message_missing_landmarks">露出眼睛、鼻子和嘴巴</string>
+    <string name="enrollment_screen_message_done">已加入臉孔</string>
+    <string name="enrollment_screen_status_no_face">展示您的臉</string>
+    <string name="enrollment_screen_status_face_off_center">看不到整張臉</string>
+    <string name="enrollment_screen_status_missing_landmarks">看不清楚您的五官</string>
+    <string name="enrollment_screen_continue_label">下一步</string>
+    <string name="enrollment_screen_done_label">完成</string>
+    <string name="enrollment_screen_talkback_preview_description">相機預覽</string>
+    <string name="enrollment_screen_talkback_face_added">已加入臉孔</string>
+    <string name="end_screen_title">設定完成！</string>
+    <string name="end_screen_body">如要將手機解鎖，請開啟螢幕並直望相機</string>
+    <string name="end_screen_bullet_one_text">手機辨識出您的臉孔後便會解鎖</string>
+    <string name="end_screen_bullet_two_text">如果手機無法辨識您的臉孔，您可以使用圖案、PIN 或密碼解鎖</string>
+    <string name="end_screen_tip_text">提示：在不同環境下拍攝臉部影像，可提升臉孔配對精準度</string>
+    <string name="end_screen_licenses_label">授權</string>
+    <string name="end_screen_continue_label">完成</string>
+    <string name="add_to_setup_intro_screen_title">提高臉孔配對精準度</string>
+    <string name="add_to_setup_intro_screen_header">顯示您在不同環境下的臉部影像</string>
+    <string name="add_to_setup_intro_screen_body">"例如：
+
+ "<li><ul>"光線不同
+
+ "<li>有否配戴眼鏡</li>"
+
+ "<li>有否留鬚</li>"
+
+ "</ul></li>"
+手機放在視線水平"</string>
+    <string name="add_to_setup_intro_screen_continue_label">下一步</string>
+    <string name="license_screen_header">共享資源聲明</string>
+    <string name="license_screen_continue_label">確定</string>
+    <string name="shared_cancel_label">取消</string>
+</resources>

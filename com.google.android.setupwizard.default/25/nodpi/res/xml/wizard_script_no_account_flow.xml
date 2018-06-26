@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WizardScript wizard:firstAction="no_account_start_vpa"
+  xmlns:wizard="http://schemas.android.com/apk/res/com.google.android.setupwizard">
+    <WizardAction wizard:uri="intent:#Intent;action=com.google.android.setupwizard.START_VPA;end" id="no_account_start_vpa">
+        <result wizard:action="no_account_date_time_check" />
+    </WizardAction>
+    <WizardAction wizard:uri="intent:#Intent;action=com.google.android.setupwizard.DATE_TIME_CHECK;end" id="no_account_date_time_check">
+        <result wizard:resultCode="1" wizard:action="no_account_user_name_check" wizard:name="skip" />
+        <result wizard:action="no_account_date_time" />
+    </WizardAction>
+    <WizardAction wizard:uri="intent:#Intent;action=com.android.setupwizard.DATE_TIME;end" id="no_account_date_time">
+        <result wizard:action="no_account_user_name_check" />
+    </WizardAction>
+    <WizardAction wizard:uri="intent:#Intent;action=com.google.android.setupwizard.NAME_CHECK;end" id="no_account_user_name_check">
+        <result wizard:resultCode="1" wizard:action="no_account_lock_screen" wizard:name="skip" />
+        <result wizard:action="no_account_user_name" />
+    </WizardAction>
+    <WizardAction wizard:uri="intent:#Intent;action=com.google.android.setupwizard.USER_NAME;end" id="no_account_user_name">
+        <result wizard:action="no_account_lock_screen" />
+    </WizardAction>
+    <WizardAction wizard:uri="intent:#Intent;action=com.google.android.setupwizard.LOCK_SCREEN;end" id="no_account_lock_screen">
+        <result wizard:action="no_account_google_services" />
+    </WizardAction>
+    <WizardAction wizard:uri="intent:#Intent;action=com.google.android.setupwizard.GOOGLE_SERVICES;end" id="no_account_google_services">
+        <result wizard:action="no_account_start_downloads" />
+    </WizardAction>
+    <WizardAction wizard:uri="intent:#Intent;action=com.google.android.setupwizard.START_DOWNLOADS;end" id="no_account_start_downloads">
+        <result wizard:action="no_account_suggested_actions" />
+    </WizardAction>
+    <WizardAction wizard:uri="intent:#Intent;action=com.google.android.setupwizard.SUGGESTED_ACTIONS;end" id="no_account_suggested_actions">
+        <result wizard:action="no_account_final_hold" />
+    </WizardAction>
+    <WizardAction wizard:uri="intent:#Intent;action=com.google.android.setupwizard.FINAL_HOLD;end" id="no_account_final_hold" />
+</WizardScript>

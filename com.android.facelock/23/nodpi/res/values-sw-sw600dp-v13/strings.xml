@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="intro_screen_header">Fungua kompyuta kibao yako kwa kuiangalia</string>
+    <string name="intro_screen_body">"Kumbuka:
+
+ "<li><ul>"Ulinganishaji uso una usalama mdogo kuliko mchoro, PIN au nenosiri.
+
+ "<li>Mtu yeyote anayeonekana kama wewe anaweza kufungua kompyuta yako kibao</li>"
+
+ "<li>Data inayotumika kutambua uso wako imewekwa faragha kwenye kompyuta yako kibao</li> </ul></li></string>
+    <string name="instructions_screen_body">" "<li><ul>"Tafuta eneo lililo ndani lisilo na mwangaza mwingi au uliofifia sana
+
+"<li>Shikilia kompyuta yako kibao katika kimo cha macho</li></ul></li></string>
+    <string name="end_screen_body">Ili uweze kufungua kompyuta kibao yako, washa skrini yako kisha uangalie kamera</string>
+    <string name="end_screen_bullet_one_text">Kompyuta kibao yako itafunguka punde itakapokutambua</string>
+    <string name="add_to_setup_intro_screen_body">"Mifano:
+
+ "<li><ul>"Katika viwango tofauti vya mwangaza
+
+ "<li>Ukiwa na miwani iliyoagizwa na daktari au bila miwani</li>"
+
+ "<li>Ukiwa na ndevu au umenyolewa kabisa</li>"
+
+ "</ul></li>"
+ Shikilia kompyuta yako kibao katika kimo cha macho"</string>
+</resources>

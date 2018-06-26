@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="shutdown_countdown_text">
+        <item quantity="other">Išjungiama po %d sek...</item>
+        <item quantity="one">Išjungiama po 1 sekundės...</item>
+    </plurals>
+    <plurals name="sim_missing_title">
+        <item quantity="other">SIM kortelių įdėjimas</item>
+        <item quantity="one">Įdėkite SIM kortelę</item>
+    </plurals>
+    <plurals name="sim_missing_text_tablet">
+        <item quantity="other">Jei norite įdėti SIM korteles, perskaitykite prie planšetinio kompiuterio pridėtas instrukcijas.</item>
+        <item quantity="one">Jei norite įdėti SIM kortelę, perskaitykite prie planšetinio kompiuterio pridėtas instrukcijas.</item>
+    </plurals>
+    <plurals name="sim_missing_text_device">
+        <item quantity="other">Jei norite įdėti SIM korteles, perskaitykite prie įrenginio pridėtas instrukcijas.</item>
+        <item quantity="one">Jei norite įdėti SIM kortelę, perskaitykite prie įrenginio pridėtas instrukcijas.</item>
+    </plurals>
+    <plurals name="sim_missing_text_default">
+        <item quantity="other">Jei norite įdėti SIM korteles, perskaitykite prie telefono pridėtas instrukcijas.</item>
+        <item quantity="one">Jei norite įdėti SIM kortelę, perskaitykite prie telefono pridėtas instrukcijas.</item>
+    </plurals>
+</resources>

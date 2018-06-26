@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="tutorial_header">Nhìn vào máy tính bảng của bạn để mở khóa.</string>
+    <string name="tutorial_info_text">"Xin lưu ý những điều sau:
+
+ "<li><ul>"Khả năng đối sánh khuôn mặt kém an toàn hơn hình, mã PIN hoặc mật khẩu.
+
+ "<li>Ai đó có diện mạo giống bạn có thể mở khóa máy tính bảng của bạn.</li>"
+
+ "<li>Dữ liệu sử dụng để nhận dạng khuôn mặt của bạn được bảo mật trên máy tính bảng.</li>"
+
+ "</ul></li></string>
+    <string name="intro_info_text">" "<li><ul>"Tìm một vị trí trong nhà—không quá sáng hoặc quá tối.
+
+ "<li>Để máy tính bảng ngang tầm mắt.</li>"
+
+ "</ul></li></string>
+    <string name="endscreen_bullet_one_text">Máy tính bảng của bạn sẽ mở khóa ngay sau khi nhận ra bạn.</string>
+    <string name="endscreen_bullet_two_text">Nếu máy tính bảng không nhận ra khuôn mặt bạn, bạn có thể mở khóa bằng hình, mã PIN hoặc mật khẩu.</string>
+    <string name="addtosetup_info_text">"Ví dụ:
+
+ "<li><ul>"Trong điều kiện ánh sáng khác nhau
+
+ "<li>Đeo hoặc không đeo kính thuốc</li>"
+
+ "<li>Để râu hoặc cạo râu</li>"
+
+ "</ul></li>"
+Để máy tính bảng ngang tầm mắt."</string>
+</resources>

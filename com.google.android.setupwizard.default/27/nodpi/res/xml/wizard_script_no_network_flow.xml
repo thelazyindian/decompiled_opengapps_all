@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WizardScript wizard:version="2"
+  xmlns:wizard="http://schemas.android.com/apk/res/com.google.android.setupwizard">
+    <WizardAction wizard:uri="intent:#Intent;action=com.google.android.setupwizard.DATE_TIME_CHECK;end" id="no_network_date_time_check">
+        <result wizard:resultCode="1" wizard:action="no_network_user_name_check" wizard:name="skip" />
+    </WizardAction>
+    <WizardAction wizard:uri="intent:#Intent;action=com.android.setupwizard.DATE_TIME;end" id="no_network_date_time" />
+    <WizardAction wizard:uri="intent:#Intent;action=com.google.android.setupwizard.NAME_CHECK;end" id="no_network_user_name_check">
+        <result wizard:resultCode="1" wizard:action="no_network_fingerprint" wizard:name="skip" />
+    </WizardAction>
+    <WizardAction wizard:uri="intent:#Intent;action=com.google.android.setupwizard.USER_NAME;end" id="no_network_user_name" />
+    <WizardAction wizard:uri="intent:#Intent;action=com.google.android.setupwizard.FINGERPRINT;end" id="no_network_fingerprint" />
+    <WizardAction wizard:uri="intent:#Intent;action=com.google.android.setupwizard.LOCK_SCREEN;end" id="no_network_lock_screen" />
+    <WizardAction wizard:uri="intent:#Intent;action=com.google.android.setupwizard.GOOGLE_SERVICES;end" id="no_network_google_services" />
+    <WizardAction wizard:uri="intent:#Intent;action=com.google.android.setupwizard.ALWAYS_ON_DISPLAY;end" id="no_network_always_on_display_opt_in" />
+    <WizardAction wizard:uri="intent:#Intent;action=com.google.android.setupwizard.SUGGESTED_ACTIONS;end" id="no_network_suggested_actions" />
+    <WizardAction wizard:uri="intent:#Intent;action=com.google.android.setupwizard.LOAD_LAUNCHER_LAYOUT;end" id="load_launcher_layout" />
+</WizardScript>

@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.android.setupwizardlib.SetupWizardRecyclerLayout android:entries="@xml/items_wifi" android:id="@id/setup_wizard_layout" android:layout_width="fill_parent" android:layout_height="fill_parent" app:suwHasStableIds="true" app:suwHeaderText="@string/wifi_title" app:suwDividerInset="@dimen/suw_items_icon_divider_inset" app:suwIllustrationImage="@drawable/illustration_wifi"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" />

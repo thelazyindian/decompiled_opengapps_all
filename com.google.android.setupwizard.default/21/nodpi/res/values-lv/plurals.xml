@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="shutdown_countdown_text">
+        <item quantity="other">Tiks izslēgts pēc %d sekundēm...</item>
+        <item quantity="one">Tiks izslēgts pēc 1 sekundes...</item>
+    </plurals>
+    <plurals name="sim_missing_title">
+        <item quantity="other">SIM karšu ievietošana</item>
+        <item quantity="one">SIM kartes ievietošana</item>
+    </plurals>
+    <plurals name="sim_missing_text_tablet">
+        <item quantity="other">Lai ievietotu SIM kartes, skatiet planšetdatora komplektācijā iekļauto instrukciju.</item>
+        <item quantity="one">Lai ievietotu SIM karti, skatiet planšetdatora komplektācijā iekļauto instrukciju.</item>
+    </plurals>
+    <plurals name="sim_missing_text_device">
+        <item quantity="other">Lai ievietotu SIM kartes, skatiet ierīces komplektācijā iekļauto instrukciju.</item>
+        <item quantity="one">Lai ievietotu SIM karti, skatiet ierīces komplektācijā iekļauto instrukciju.</item>
+    </plurals>
+    <plurals name="sim_missing_text_default">
+        <item quantity="other">Lai ievietotu SIM kartes, skatiet tālruņa komplektācijā iekļauto instrukciju.</item>
+        <item quantity="one">Lai ievietotu SIM karti, skatiet tālruņa komplektācijā iekļauto instrukciju.</item>
+    </plurals>
+</resources>

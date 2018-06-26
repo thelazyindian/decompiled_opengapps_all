@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Chip de încredere</string>
+    <string name="trusted_face_service_app_name">Serviciul Chip de încredere</string>
+    <string name="receiver_app_name">Receptor difuzare pentru Chip de încredere</string>
+    <string name="setup_app_name">Adăugați un chip de încredere</string>
+    <string name="add_to_setup_app_name">Îmbunătățiți recunoașterea chipului</string>
+    <string name="intro_screen_title">Despre chipul de încredere</string>
+    <string name="intro_screen_header">Deblocați-vă telefonul uitându-vă la acesta</string>
+    <string name="intro_screen_body">"Rețineți:
+
+ "<li><ul>"recunoașterea chipului este mai puțin sigură decât folosirea unui model, a unui cod PIN sau a unei parole;
+
+ "<li>cineva care seamănă cu dvs. poate debloca telefonul;</li>"
+
+ "<li>datele folosite pentru a vă recunoaște chipul sunt păstrate în siguranță pe telefon.</li> </ul></li></string>
+    <string name="intro_screen_continue_label">Configurați</string>
+    <string name="instructions_screen_title">Adăugați un chip de încredere</string>
+    <string name="instructions_screen_header">Pentru rezultate optime:</string>
+    <string name="instructions_screen_body">" "<li><ul>"Găsiți un loc în interior unde lumina nu este nici prea puternică, nici prea slabă
+
+ "<li>Țineți telefonul la nivelul ochilor</li> </ul></li></string>
+    <string name="instructions_screen_continue_label">Înainte</string>
+    <string name="enrollment_screen_message_initializing">Se pornește...</string>
+    <string name="enrollment_screen_message_initialization_error">Nu s-a putut iniția detectarea feței</string>
+    <string name="enrollment_screen_message_camera_error">Camera foto nu este disponibilă</string>
+    <string name="enrollment_start_message">Încadrați-vă fața în zona punctată</string>
+    <string name="enrollment_screen_message_instructions">Încadrați partea de sus a capului și partea de jos a bărbiei în cerc</string>
+    <string name="enrollment_screen_message_missing_landmarks">Asigurați-vă că se văd ochii, nasul și gura</string>
+    <string name="enrollment_screen_message_done">Față adăugată</string>
+    <string name="enrollment_screen_status_no_face">Expuneți-vă fața</string>
+    <string name="enrollment_screen_status_face_off_center">O parte a feței dvs. nu este vizibilă</string>
+    <string name="enrollment_screen_status_missing_landmarks">Nu vi se văd trăsăturile</string>
+    <string name="enrollment_screen_continue_label">Înainte</string>
+    <string name="enrollment_screen_done_label">Terminat</string>
+    <string name="enrollment_screen_talkback_preview_description">Previzualizare pe camera foto</string>
+    <string name="enrollment_screen_talkback_face_added">Față adăugată</string>
+    <string name="end_screen_title">Gata!</string>
+    <string name="end_screen_body">Pentru a debloca telefonul, este suficient să activați ecranul și să priviți spre camera foto</string>
+    <string name="end_screen_bullet_one_text">Telefonul se va debloca imediat ce vă recunoaște</string>
+    <string name="end_screen_bullet_two_text">Dacă dispozitivul nu vă recunoaște fața, deblocați-l folosind modelul, codul PIN sau parola</string>
+    <string name="end_screen_tip_text">Sfat: îmbunătățiți recunoașterea chipului arătându-vă în diferite condiții</string>
+    <string name="end_screen_licenses_label">Licențe</string>
+    <string name="end_screen_continue_label">Terminat</string>
+    <string name="add_to_setup_intro_screen_title">Îmbunătățiți recunoașterea chipului</string>
+    <string name="add_to_setup_intro_screen_header">Arătați-vă în diferite condiții</string>
+    <string name="add_to_setup_intro_screen_body">"Exemple:
+
+ "<li><ul>"în diferite condiții de iluminare;
+
+ "<li>cu sau fără ochelari cu dioptrii;</li>"
+
+ "<li>cu barbă sau proaspăt bărbierit.</li>"
+
+ "</ul></li>"
+ Țineți telefonul la nivelul ochilor"</string>
+    <string name="add_to_setup_intro_screen_continue_label">Înainte</string>
+    <string name="license_screen_header">Note Open Source</string>
+    <string name="license_screen_continue_label">OK</string>
+    <string name="shared_cancel_label">Anulați</string>
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="NNNtrackstolibrary">
+        <item quantity="other">%d dziesmas pievienotas bibliotēkai.</item>
+        <item quantity="zero">%d dziesmas pievienotas bibliotēkai.</item>
+        <item quantity="one">%d dziesma pievienota bibliotēkai.</item>
+    </plurals>
+    <plurals name="Nsongs">
+        <item quantity="other">%d dziesmas</item>
+        <item quantity="zero">%d dziesmas</item>
+        <item quantity="one">%d dziesma</item>
+    </plurals>
+</resources>

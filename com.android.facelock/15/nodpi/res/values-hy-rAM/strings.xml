@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Վստահելի դեմք</string>
+    <string name="receiver_app_name">Վստահելի դեմքի ընդունիչ</string>
+    <string name="setup_app_name">Ավելացնել վստահելի դեմք</string>
+    <string name="enrollment_continue_label">Հաջորդը</string>
+    <string name="enrollment_done_label">Պատրաստ է</string>
+    <string name="enrollment_initializing">Մեկնարկում է...</string>
+    <string name="enrollment_start_message">Պահպանեք դեմքը կետավոր տարածքի ներսում</string>
+    <string name="gar_preview_description">Խցիկի նախադիտում</string>
+    <string name="error_no_face">Ցույց տվեք ձեր դեմքը</string>
+    <string name="enrollment_missing_landmarks">Ցույց տալ աչքերը, քիթը և բերանը</string>
+    <string name="enrollment_missing_landmarks_status">Հնարավոր չէ տեսնել ձեր հատկանիշները</string>
+    <string name="enrollment_off_center_status">Հնարավոր չէ տեսնել ձեր դեմքի մի մասը</string>
+    <string name="gar_enrollment_face_added">Դեմքն ավելացվեց</string>
+    <string name="enrollment_done">Հասկանալի է</string>
+    <string name="tutorial_app_name">Վստահելի դեմքի մասին</string>
+    <string name="tutorial_header">Նայեք ձեր հեռախոսին՝ այն ապակողպելու համար:</string>
+    <string name="tutorial_info_text">"Մտապահեք այսամենը.
+
+"<li><ul>"Ձևանմուշը, PIN-ը կամ գաղտնաբառը ավելի անվտանգ են, քան դիմային ճանաչումը:
+
+"<li>Ձեզ նմամ մեկը կարող է ապակողպել ձեր հեռախոսը:</li>"
+
+"<li>Դիմային նույնականացման համար օգտագործվող տվյալները գաղտնի են պահվում հեռախոսում:</li>"
+
+"</ul></li></string>
+    <string name="tutorial_continue_label">Ստեղծել</string>
+    <string name="intro_header">Լավագույն արդյունքների համար՝</string>
+    <string name="intro_info_text">" "<li><ul>"Գտեք փակ տարածք՝ ոչ շատ պայծառ և ոչ շատ մութ:
+
+ "<li>Պահեք հեռախոսը աչքերի մոտ:</li>"
+
+ "</ul></li></string>
+    <string name="intro_continue_label">Հաջորդը</string>
+    <string name="endscreen_header">Պատրաստ է:</string>
+    <string name="endscreen_info_text">Ապակողպելու համար պարզապես միացրեք սարքի էկրանը և ուղիղ նայեք ֆոտոխցիկին:</string>
+    <string name="endscreen_bullet_one_text">Ձեր հեռախոսը կապակողպվի, հենց որ այն ճանաչի ձեզ:</string>
+    <string name="endscreen_bullet_two_text">Եթե ​​ձեր հեռախոսը չի ճանաչում ձեր դեմքը, ապա կարող եք ապակողպել այն ձեր ապակողպման նախշի, PIN-կոդի կամ գաղտնաբառի միջոցով:</string>
+    <string name="endscreen_tip_text">Հուշում. Հեշտացրեք դիմաճանաչման գործընթացը՝ ցուցադրելով, թե ինչպիսի տեսք ունեք տարբեր իրադրություններում:</string>
+    <string name="endscreen_continue_label">Լավ</string>
+    <string name="endscreen_license_label">Արտոնագրեր</string>
+    <string name="addtosetup_app_name">Կտարելագործել դիմային համապատասխանեցումը</string>
+    <string name="addtosetup_header">Ցույց տալ, թե ինչ տեսք ունեք տարբեր պայմաններում:</string>
+    <string name="addtosetup_info_text">"Օրինակներ՝
+
+ "<li><ul>"Տարբեր լուսավորության պայմաններում
+
+ "<li>Ակնոցով կամ առանց դրա</li>"
+
+ "<li>Մորուքով կամ սափրված</li>"
+
+ "</ul></li>"
+Պահեք հեռախոսը աչքերի մասում:"</string>
+    <string name="addtosetup_continue_label">Հաջորդը</string>
+    <string name="license_screen_header">Բաց կոդով զգուշացումներ</string>
+    <string name="license_screen_continue_label">Լավ</string>
+    <string name="face_unlock_service_app_name">Դեմքով ապակողպման ծառայություն</string>
+    <string name="trusted_face_service_app_name">Դեմքերի ճանաչում</string>
+    <string name="service_face_not_found">Հնարավոր չէ դեմք գտնել</string>
+    <string name="service_not_a_match">Ներեցեք, չեմ ճանաչում ձեզ</string>
+    <string name="service_liveliness_start">Թարթեք հիմա</string>
+    <string name="service_liveliness_timeout">Չտեսա ձեր թարթումը</string>
+    <string name="service_low_ligthing">Լուսավորությունը շատ թույլ է</string>
+    <string name="shared_initialize_error">Չկարողացանք սկսել դեմքի որոնումը</string>
+    <string name="shared_camera_error">Ֆոտոխցիկը հասանելի չէ</string>
+    <string name="shared_read_gallery_error">Կրկնեք կարգավորումը</string>
+    <string name="shared_cancel_label">Չեղարկել</string>
+</resources>

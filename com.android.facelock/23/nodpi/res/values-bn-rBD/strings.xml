@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">বিশ্বস্ত মুখ</string>
+    <string name="trusted_face_service_app_name">মুখের সাহায্যে আনলক করার বিশ্বস্ত পরিষেবা</string>
+    <string name="receiver_app_name">বিশ্বস্ত মুখ সম্প্রচারের রিসিভার</string>
+    <string name="setup_app_name">একটি বিশ্বস্ত মুখের ছবি লাগান</string>
+    <string name="add_to_setup_app_name">মুখ মিলে যাওয়া উন্নত করুন</string>
+    <string name="intro_screen_title">বিশ্বস্ত মুখ সম্পর্কে</string>
+    <string name="intro_screen_header">আপনার ফোনের দিকে তাকিয়ে এটিকে আনলক করুন</string>
+    <string name="intro_screen_body">"মনে রাখবেন:
+
+ "<li><ul>"মুখের সাহায্যে আনলক করা প্যাটার্ন, পিন বা পাসওয়ার্ডের থেকে কম সুরক্ষিত
+
+ "<li>আপনার মতো দেখতে কেউ আপনার ফোন আনলক করতে পারে</li>"
+
+ "<li>আপনার মুখ শনাক্ত করার জন্য ব্যবহৃত ডেটা ফোনে ব্যক্তিগত হিসেবে রাখা থাকে</li> </ul></li></string>
+    <string name="intro_screen_continue_label">সেট আপ করুন</string>
+    <string name="instructions_screen_title">একটি বিশ্বস্ত মুখের ছবি লাগান</string>
+    <string name="instructions_screen_header">সেরা ফলাফলের জন্য:</string>
+    <string name="instructions_screen_body">" "<li><ul>"একটি অভ্যন্তরীণ জায়গা খুঁজুন সেটি যেন খুব উজ্জ্বল বা অস্পষ্ট না হয়
+
+ "<li>চোখের সমান উচ্চতায় ফোনটি ধরুন</li> </ul></li></string>
+    <string name="instructions_screen_continue_label">পরবর্তী</string>
+    <string name="enrollment_screen_message_initializing">শুরু হচ্ছে…</string>
+    <string name="enrollment_screen_message_initialization_error">আপনার মুখ খোঁজার কাজটি শুরু করা যায়নি</string>
+    <string name="enrollment_screen_message_camera_error">ক্যামেরা উপলব্ধ নয়</string>
+    <string name="enrollment_start_message">ডটযুক্ত এলাকার ভিতরে মুখ রাখুন</string>
+    <string name="enrollment_screen_message_instructions">বৃত্তের মধ্যে উপরে আপনার মাথা রাখুন এবং নীচের অংশে আপনার চিবুক রাখুন</string>
+    <string name="enrollment_screen_message_missing_landmarks">চোখ, নাক ও মুখ দেখান</string>
+    <string name="enrollment_screen_message_done">মুখ যোগ করা হয়েছে</string>
+    <string name="enrollment_screen_status_no_face">আপনার মুখ দেখান</string>
+    <string name="enrollment_screen_status_face_off_center">আপনার মুখের কিছু অংশ দেখা যাচ্ছে না</string>
+    <string name="enrollment_screen_status_missing_landmarks">আপনার বৈশিষ্ট্যগুলি দেখতে পাওয়া যাবে না</string>
+    <string name="enrollment_screen_continue_label">পরবর্তী</string>
+    <string name="enrollment_screen_done_label">সম্পন্ন</string>
+    <string name="enrollment_screen_talkback_preview_description">ক্যামেরা পূর্বরূপ</string>
+    <string name="enrollment_screen_talkback_face_added">মুখ যোগ করা হয়েছে</string>
+    <string name="end_screen_title">সবকিছু প্রস্তুত!</string>
+    <string name="end_screen_body">আপনার ফোন আনলক করতে, আপনার স্ক্রীন চালু করুন এবং ক্যামেরার দিকে তাকান</string>
+    <string name="end_screen_bullet_one_text">আপনার ফোন আপনাকে সনাক্ত করার সাথে সাথে আনলক হয়ে যাবে</string>
+    <string name="end_screen_bullet_two_text">আপনার মুখ সনাক্ত করতে না পারলে, এর পরিবর্তে আপনার প্যাটার্ন, পিন, বা পাসওয়ার্ড দিয়ে আনলক করুন</string>
+    <string name="end_screen_tip_text">টিপ: বিভিন্ন পরিস্থিতিতে আপনাকে কেমন দেখায় তা দেখানোর মাধ্যমে মুখ মেলানোর কাজটি উন্নত করুন</string>
+    <string name="end_screen_licenses_label">লাইসেন্সসমূহ</string>
+    <string name="end_screen_continue_label">সম্পন্ন</string>
+    <string name="add_to_setup_intro_screen_title">মুখ মিলে যাওয়া উন্নত করুন</string>
+    <string name="add_to_setup_intro_screen_header">বিভিন্ন অবস্থায় আপনাকে দেখতে কেমন দেখায় তা দেখান</string>
+    <string name="add_to_setup_intro_screen_body">"উদাহরণ:
+
+ "<li><ul>"বিভিন্ন আলোয়
+
+ "<li>চশমা বা চশমা ছাড়া</li>"
+
+ "<li>দাড়ি সহ বা দাড়ি কামিয়ে</li>"
+
+ "</ul></li>"
+ চোখের উচ্চতায় ফোনটি ধরুন"</string>
+    <string name="add_to_setup_intro_screen_continue_label">পরবর্তী</string>
+    <string name="license_screen_header">মুক্ত উৎসের বিজ্ঞপ্তি</string>
+    <string name="license_screen_continue_label">ঠিক আছে</string>
+    <string name="shared_cancel_label">বাতিল করুন</string>
+</resources>

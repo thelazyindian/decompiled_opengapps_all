@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:id="@id/background" android:src="@drawable/welcome_bg" android:contentDescription="@null" style="@style/BackgroundImage" />
+    <RelativeLayout android:clipChildren="false" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <View android:id="@id/anchor" android:visibility="invisible" android:layout_width="0.0dip" android:layout_height="0.0dip" android:layout_centerInParent="true" />
+        <LinearLayout android:gravity="start" android:orientation="vertical" android:id="@id/welcome_land_start_frame" android:clipChildren="false" android:clipToPadding="false" android:layout_width="wrap_content" android:layout_height="fill_parent" android:layoutDirection="locale" android:paddingStart="@dimen/welcome_land_padding_start" android:paddingEnd="@dimen/welcome_land_start_frame_padding_end" android:layout_toStartOf="@id/anchor" android:layout_alignParentStart="true">
+            <Space android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="1.0" />
+            <TextView android:gravity="start" android:id="@id/welcome_title" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/welcome_message" style="@style/WelcomeTitle" />
+            <Space android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="1.0" />
+            <LinearLayout android:orientation="vertical" android:clipToPadding="false" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/welcome_bottom_button_margin_bottom" android:baselineAligned="false">
+                <Button android:id="@id/welcome_emergency_dial" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/emergency_dial" android:drawableStart="@drawable/ic_emergency_dial" style="@style/WelcomeBottomButton" />
+                <com.google.android.setupwizard.util.BlinkButton android:id="@id/welcome_accessibility" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/welcome_accessibility_button" android:drawableStart="@drawable/ic_accessibility" style="@style/WelcomeBottomButton" />
+            </LinearLayout>
+        </LinearLayout>
+        <LinearLayout android:gravity="center" android:orientation="vertical" android:id="@id/welcome_land_end_frame" android:clipToPadding="false" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_centerVertical="true" android:paddingStart="@dimen/welcome_land_end_frame_padding_start" android:paddingEnd="0.0dip" android:layout_toEndOf="@id/anchor">
+            <com.google.android.setupwizard.util.LanguagePicker android:id="@id/language_picker" android:layout_width="wrap_content" android:layout_height="wrap_content" android:minWidth="@dimen/welcome_language_picker_min_width" android:drawableEnd="@drawable/ic_arrow_drop_down" />
+            <Button android:id="@id/start" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/welcome_start_button_label" style="@style/WelcomeStartButton" />
+        </LinearLayout>
+    </RelativeLayout>
+</FrameLayout>

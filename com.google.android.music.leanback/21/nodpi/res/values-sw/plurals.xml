@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="NNNtrackstolibrary">
+        <item quantity="other">Imeongeza nyimbo %d kwenye maktaba.</item>
+        <item quantity="one">Imeongeza wimbo %d kwenye maktaba.</item>
+    </plurals>
+    <plurals name="Nsongs">
+        <item quantity="other">Nyimbo %d</item>
+        <item quantity="one">Wimbo %d</item>
+    </plurals>
+</resources>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Aurpegi fidagarria</string>
+    <string name="trusted_face_service_app_name">Aurpegi fidagarrien zerbitzua</string>
+    <string name="receiver_app_name">Aurpegi fidagarrien igorpen-hargailua</string>
+    <string name="setup_app_name">Gehitu aurpegi fidagarri bat</string>
+    <string name="add_to_setup_app_name">Hobetu aurpegia hautemateko eginbidea</string>
+    <string name="intro_screen_title">Aurpegi fidagarriei buruz</string>
+    <string name="intro_screen_header">Telefonoa desblokeatzeko, begira iezaiozu</string>
+    <string name="intro_screen_body">"Gogoan izan:
+
+ "<li><ul>"Aurpegia hautemateko eginbidea ez da eredua, PIN kodea edo pasahitza bezain segurua.
+
+ "<li>Zure antza duen batek ere desblokea lezake telefonoa.</li>"
+
+ "<li>Aurpegia ezagutzeko erabilitako datuak telefonoko eremu pribatu batean gordeta egongo dira.</li> </ul></li></string>
+    <string name="intro_screen_continue_label">Konfiguratu</string>
+    <string name="instructions_screen_title">Gehitu aurpegi fidagarri bat</string>
+    <string name="instructions_screen_header">Emaitza hobeak lortzeko:</string>
+    <string name="instructions_screen_body">" "<li><ul>"Bilatu barnealdeko toki bat; ez dadila argiegia izan, ezta ilunegia ere.
+
+ "<li>Eutsi telefonoari begien parean.</li> </ul></li></string>
+    <string name="instructions_screen_continue_label">Hurrengoa</string>
+    <string name="enrollment_screen_message_initializing">Abiarazten…</string>
+    <string name="enrollment_screen_message_initialization_error">Ezin izan da hasi zure aurpegia bilatzen</string>
+    <string name="enrollment_screen_message_camera_error">Kamera ez dago erabilgarri</string>
+    <string name="enrollment_start_message">Mantendu aurpegia puntudun eremuaren barruan</string>
+    <string name="enrollment_screen_message_instructions">Jarri buruaren goialdea eta kokotsaren behealdea zirkuluaren barruan</string>
+    <string name="enrollment_screen_message_missing_landmarks">Erakutsi begiak, sudurra eta ahoa</string>
+    <string name="enrollment_screen_message_done">Gehitu da aurpegia</string>
+    <string name="enrollment_screen_status_no_face">Erakutsi aurpegia</string>
+    <string name="enrollment_screen_status_face_off_center">Ezin da ikusi aurpegiaren zati bat</string>
+    <string name="enrollment_screen_status_missing_landmarks">Ezin dira ikusi aurpegiaren ezaugarriak</string>
+    <string name="enrollment_screen_continue_label">Hurrengoa</string>
+    <string name="enrollment_screen_done_label">Eginda</string>
+    <string name="enrollment_screen_talkback_preview_description">Kameraren aurrebista</string>
+    <string name="enrollment_screen_talkback_face_added">Gehitu da aurpegia</string>
+    <string name="end_screen_title">Dena prest!</string>
+    <string name="end_screen_body">Telefonoa desblokeatzeko, piztu pantaila eta begiratu kamerari</string>
+    <string name="end_screen_bullet_one_text">Telefonoa desblokeatu egingo da ezagutzen zaituenean</string>
+    <string name="end_screen_bullet_two_text">Aurpegia ikusita ezagutzen ez bazaitu, desblokeatzeko, erabili eredua, PIN kodea edo pasahitza</string>
+    <string name="end_screen_tip_text">Aholkua: hobetu aurpegia hautemateko eginbidea hainbat egoeratan zer itxura duzun erakutsita</string>
+    <string name="end_screen_licenses_label">Lizentziak</string>
+    <string name="end_screen_continue_label">Eginda</string>
+    <string name="add_to_setup_intro_screen_title">Hobetu aurpegia hautemateko eginbidea</string>
+    <string name="add_to_setup_intro_screen_header">Erakutsi zer itxura duzun hainbat egoeratan</string>
+    <string name="add_to_setup_intro_screen_body">"Adibideak:
+
+ "<li><ul>"Argiztapen-baldintza desberdinetan.
+
+ "<li>Betaurreko graduatuekin ala gabe.</li>"
+
+ "<li>Bizarrarekin edo bizarra kenduta.</li>"
+
+ "</ul></li>"
+ Eutsi telefonoari begien parean."</string>
+    <string name="add_to_setup_intro_screen_continue_label">Hurrengoa</string>
+    <string name="license_screen_header">Kode irekiaren oharrak</string>
+    <string name="license_screen_continue_label">Ados</string>
+    <string name="shared_cancel_label">Utzi</string>
+</resources>

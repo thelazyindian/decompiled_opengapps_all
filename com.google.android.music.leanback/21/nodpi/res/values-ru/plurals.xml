@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="NNNtrackstolibrary">
+        <item quantity="other">В фонотеку добавлено %d трека</item>
+        <item quantity="one">В фонотеку добавлен %d трек</item>
+        <item quantity="few">В фонотеку добавлено %d трека</item>
+        <item quantity="many">В фонотеку добавлено %d треков</item>
+    </plurals>
+    <plurals name="Nsongs">
+        <item quantity="other">%d трека</item>
+        <item quantity="one">%d трек</item>
+        <item quantity="few">%d трека</item>
+        <item quantity="many">%d треков</item>
+    </plurals>
+</resources>

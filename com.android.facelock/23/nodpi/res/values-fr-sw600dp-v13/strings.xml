@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="intro_screen_header">Déverrouillez votre tablette en la regardant</string>
+    <string name="intro_screen_body">"N'oubliez pas :
+
+ "<li><ul>"La reconnaissance faciale est une méthode moins sécurisée qu'un schéma, un code d'accès ou un mot de passe.
+
+ "<li>Une personne qui vous ressemble peut déverrouiller votre tablette.</li>"
+
+ "<li>Les données utilisées pour identifier votre visage sont conservées de manière confidentielle sur la tablette.</li> </ul></li></string>
+    <string name="instructions_screen_body">" "<li><ul>"Trouvez un endroit à l'intérieur où il ne fait ni trop clair, ni trop sombre.
+
+ "<li>Tenez la tablette à hauteur des yeux.</li> </ul></li></string>
+    <string name="end_screen_body">"Pour déverrouiller votre tablette, il vous suffit d'allumer votre écran et de regarder l'appareil photo."</string>
+    <string name="end_screen_bullet_one_text">"Lorsque votre visage est reconnu par votre tablette, l'appareil est déverrouillé."</string>
+    <string name="add_to_setup_intro_screen_body">"Exemples :
+
+ "<li><ul>"Avec différents éclairages
+
+ "<li>Avec ou sans lunettes de vue</li>"
+
+ "<li>Avec une barbe ou bien rasé</li>"
+
+ "</ul></li>"
+ Tenez la tablette à hauteur des yeux."</string>
+</resources>

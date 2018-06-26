@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Güvenilir Yüz</string>
+    <string name="receiver_app_name">Güvenilir Yüz Yayını Alıcısı</string>
+    <string name="setup_app_name">Güvenilir bir yüz ekleyin</string>
+    <string name="enrollment_continue_label">İleri</string>
+    <string name="enrollment_done_label">Tamamlandı</string>
+    <string name="enrollment_initializing">Başlatılıyor...</string>
+    <string name="enrollment_start_message">Yüzünüzü noktalı alan içinde tutun</string>
+    <string name="gar_preview_description">Kamera önizleme</string>
+    <string name="error_no_face">Yüzünüzü gösterin</string>
+    <string name="enrollment_missing_landmarks">Gözlerinizi, burnunuzu ve ağzınızı gösterin</string>
+    <string name="enrollment_missing_landmarks_status">Yüzünüze ait özellikleri göremiyorum</string>
+    <string name="enrollment_off_center_status">Yüzünüzün bir bölümü görünemiyor</string>
+    <string name="gar_enrollment_face_added">Yüz eklendi</string>
+    <string name="enrollment_done">Tamam</string>
+    <string name="tutorial_app_name">Güvenilir yüz hakkında</string>
+    <string name="tutorial_header">Kilidi açmak için telefonunuza bakın.</string>
+    <string name="tutorial_info_text">"Şunları unutmayın:
+
+ "<li><ul>"Yüz eşleştirme bir desen, PIN veya şifre kullanmaktan daha az güvenlidir.
+
+ "<li>Size benzeyen bir kişi telefonunuzun kilidini açabilir.</li>"
+
+ "<li>Yüzünüzü tanımak için kullanılan veriler telefonda gizli olarak tutulur.</li>"
+
+ "</ul></li></string>
+    <string name="tutorial_continue_label">Kur</string>
+    <string name="intro_header">En iyi sonuçlar için:</string>
+    <string name="intro_info_text">" "<li><ul>"İç mekanda çok aydınlık veya çok loş olmayan bir yer bulun.
+
+ "<li>Telefonu göz hizanızda tutun.</li>"
+
+ "</ul></li></string>
+    <string name="intro_continue_label">İleri</string>
+    <string name="endscreen_header">Kurulum tamamlandı!</string>
+    <string name="endscreen_info_text">Kilidi açmak istediğinizde, sadece ekranınızı açıp yüzünüzü kameraya göstermek yeterlidir.</string>
+    <string name="endscreen_bullet_one_text">Telefonunuz sizi tanır tanımaz kilidi açılır.</string>
+    <string name="endscreen_bullet_two_text">"Telefonunuz yüzünüzü tanımazsa kilidi açmak için deseninizi, PIN'inizi veya şifrenizi kullanabilirsiniz."</string>
+    <string name="endscreen_tip_text">İpucu: Farklı koşullarda yüzünüzü göstererek yüz eşleştirme işlevini iyileştirin.</string>
+    <string name="endscreen_continue_label">Tamam</string>
+    <string name="endscreen_license_label">Lisanslar</string>
+    <string name="addtosetup_app_name">Yüz eşlemeyi iyileştir</string>
+    <string name="addtosetup_header">Farklı koşullarda nasıl göründüğünüzü gösterin.</string>
+    <string name="addtosetup_info_text">"Örnekler:
+
+ "<li><ul>"Farklı ışıklandırmalarda
+
+ "<li>Numaralı gözlüklerinizle veya gözlüksüz</li>"
+
+ "<li>Sakallı veya tıraşlı</li>"
+
+ "</ul></li>"
+Telefonu göz hizanızda tutun."</string>
+    <string name="addtosetup_continue_label">İleri</string>
+    <string name="license_screen_header">Açık Kaynak Uyarıları</string>
+    <string name="license_screen_continue_label">Tamam</string>
+    <string name="face_unlock_service_app_name">Yüz Tanıma Kilidi Hizmeti</string>
+    <string name="trusted_face_service_app_name">Güvenilir Yüz Hizmeti</string>
+    <string name="service_face_not_found">Yüz bulunamadı</string>
+    <string name="service_not_a_match">Maalesef, sizi tanımıyorum</string>
+    <string name="service_liveliness_start">Şimdi göz kırpın</string>
+    <string name="service_liveliness_timeout">Göz kırpmanız algılanamadı</string>
+    <string name="service_low_ligthing">Işık çok az</string>
+    <string name="shared_initialize_error">Yüzünüzü bulmaya başlanamadı</string>
+    <string name="shared_camera_error">Kamera kullanılamıyor</string>
+    <string name="shared_read_gallery_error">Lütfen kurulum işlemini tekrarlayın</string>
+    <string name="shared_cancel_label">İptal</string>
+</resources>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:id="@id/topLayout" android:layout_width="wrap_content" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="1.0">
+        <TextView android:textAppearance="?android:textAppearanceMedium" android:gravity="center" android:id="@id/headerText" android:layout_width="fill_parent" android:layout_height="wrap_content" android:minHeight="70.0dip" android:text="@string/endscreen_header" />
+        <View android:background="@android:drawable/dropdown_disabled_focused_holo_dark" android:layout_width="fill_parent" android:layout_height="2.0dip" />
+        <ScrollView android:layout_width="fill_parent" android:layout_height="fill_parent">
+            <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                <TextView android:textAppearance="?android:textAppearanceMedium" android:gravity="top" android:id="@id/infoText" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="24.0dip" android:scaleType="fitXY" android:text="@string/endscreen_info_text" />
+                <LinearLayout android:gravity="top" android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="24.0dip">
+                    <ImageView android:layout_gravity="center_vertical" android:id="@id/bulletOneIcon" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/ic_lock_open_black_24dp" android:alpha="0.5" />
+                    <TextView android:textAppearance="?android:textAppearanceMedium" android:layout_gravity="center_vertical" android:id="@id/bulletOneText" android:layout_width="wrap_content" android:layout_height="wrap_content" android:scaleType="fitXY" android:text="@string/endscreen_bullet_one_text" />
+                </LinearLayout>
+                <LinearLayout android:gravity="top" android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="24.0dip">
+                    <ImageView android:layout_gravity="center_vertical" android:id="@id/bulletTwoIcon" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/ic_lock_black_24dp" android:alpha="0.5" />
+                    <TextView android:textAppearance="?android:textAppearanceMedium" android:layout_gravity="center_vertical" android:id="@id/bulletTwoText" android:layout_width="wrap_content" android:layout_height="wrap_content" android:scaleType="fitXY" android:text="@string/endscreen_bullet_two_text" />
+                </LinearLayout>
+                <TextView android:textAppearance="?android:textAppearanceMedium" android:gravity="top" android:id="@id/tipText" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="24.0dip" android:scaleType="fitXY" android:text="@string/endscreen_tip_text" />
+            </LinearLayout>
+        </ScrollView>
+    </LinearLayout>
+    <View android:layout_width="fill_parent" android:layout_height="30.0dip" />
+    <LinearLayout android:orientation="horizontal" style="@style/SecurityPreferenceButtonContainer">
+        <Button android:id="@id/footerLeftButton" style="@style/SecurityPreferenceButton" />
+        <Button android:id="@id/footerRightButton" style="@style/SecurityPreferenceButton" />
+    </LinearLayout>
+</LinearLayout>

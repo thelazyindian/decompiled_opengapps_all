@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="shutdown_countdown_text">
+        <item quantity="other">%d ಸೆಕೆಂಡುಗಳಲ್ಲಿ ಸ್ಥಗಿತಗೊಳ್ಳಲಿದೆ…</item>
+        <item quantity="one">%d ಸೆಕೆಂಡುಗಳಲ್ಲಿ ಸ್ಥಗಿತಗೊಳ್ಳಲಿದೆ…</item>
+    </plurals>
+    <plurals name="sim_missing_title">
+        <item quantity="other">ಸಿಮ್‌ ಕಾರ್ಡ್‌ಗಳನ್ನು ಅಳವಡಿಸಿ</item>
+        <item quantity="one">ಸಿಮ್‌ ಕಾರ್ಡ್‌ಗಳನ್ನು ಅಳವಡಿಸಿ</item>
+    </plurals>
+    <plurals name="sim_missing_text_tablet">
+        <item quantity="other">ಹೇಗೆ ಎಂಬುದು ಗೊತ್ತಿಲ್ಲವೇ? ನಿಮ್ಮ ಟ್ಯಾಬ್ಲೆಟ್‌ ಜೊತೆ ನೀಡಲಾದ ಸೂಚನೆಗಳನ್ನು ಓದಿಕೊಳ್ಳಿ.</item>
+        <item quantity="one">ಹೇಗೆ ಎಂಬುದು ಗೊತ್ತಿಲ್ಲವೇ? ನಿಮ್ಮ ಟ್ಯಾಬ್ಲೆಟ್‌ ಜೊತೆ ನೀಡಲಾದ ಸೂಚನೆಗಳನ್ನು ಓದಿಕೊಳ್ಳಿ.</item>
+    </plurals>
+    <plurals name="sim_missing_text_device">
+        <item quantity="other">ಹೇಗೆ ಎಂಬುದು ಗೊತ್ತಿಲ್ಲವೇ? ನಿಮ್ಮ ಸಾಧನದ ಜೊತೆ ನೀಡಲಾದ ಸೂಚನೆಗಳನ್ನು ಓದಿಕೊಳ್ಳಿ.</item>
+        <item quantity="one">ಹೇಗೆ ಎಂಬುದು ಗೊತ್ತಿಲ್ಲವೇ? ನಿಮ್ಮ ಸಾಧನದ ಜೊತೆ ನೀಡಲಾದ ಸೂಚನೆಗಳನ್ನು ಓದಿಕೊಳ್ಳಿ.</item>
+    </plurals>
+    <plurals name="sim_missing_text_default">
+        <item quantity="other">ಹೇಗೆ ಎಂಬುದು ಗೊತ್ತಿಲ್ಲವೇ? ನಿಮ್ಮ ಫೋನ್‌ ಜೊತೆ ನೀಡಲಾದ ಸೂಚನೆಗಳನ್ನು ಓದಿಕೊಳ್ಳಿ.</item>
+        <item quantity="one">ಹೇಗೆ ಎಂಬುದು ಗೊತ್ತಿಲ್ಲವೇ? ನಿಮ್ಮ ಫೋನ್‌ ಜೊತೆ ನೀಡಲಾದ ಸೂಚನೆಗಳನ್ನು ಓದಿಕೊಳ್ಳಿ.</item>
+    </plurals>
+    <plurals name="walled_garden_check_timeout_text">
+        <item quantity="other">ಇದು %d ನಿಮಿಷಗಳಷ್ಟು ಸಮಯ ತೆಗೆದುಕೊಳ್ಳಬಹುದು</item>
+        <item quantity="one">ಇದು %d ನಿಮಿಷಗಳಷ್ಟು ಸಮಯ ತೆಗೆದುಕೊಳ್ಳಬಹುದು</item>
+    </plurals>
+</resources>

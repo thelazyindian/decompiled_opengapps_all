@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="shutdown_countdown_text">
+        <item quantity="other">%dစက္ကန့်အတွင်း စက်ပိတ်ပါမည်…</item>
+        <item quantity="one">1 စက္ကန့်အတွင်း စက်ပိတ်ပါမည်…</item>
+    </plurals>
+    <plurals name="sim_missing_title">
+        <item quantity="other">ဆင်းမ်ကဒ်များကိုထည့်ပါ</item>
+        <item quantity="one">ဆင်းမ်ကဒ်ထည့်ပါ</item>
+    </plurals>
+    <plurals name="sim_missing_text_tablet">
+        <item quantity="other">မည်ကဲ့သို့ပြုလုပ်မည်ကို မသေမချာဖြစ်နေပါသလား? သင့်တက်ဘလက်နှင့်အတူပါလာသော လမ်းညွှန်ချက်များကို စစ်ဆေးပါ။</item>
+        <item quantity="one">မည်ကဲ့သို့ပြုလုပ်မည်ကို မသေမချာဖြစ်နေပါသလား? သင့်တက်ဘလက်နှင့်အတူပါလာသော လမ်းညွှန်ချက်များကို စစ်ဆေးပါ။</item>
+    </plurals>
+    <plurals name="sim_missing_text_device">
+        <item quantity="other">မည်ကဲ့သို့ပြုလုပ်မည်ကို မသေမချာဖြစ်နေပါသလား? သင့်ကိရိယာနှင့်အတူပါလာသော လမ်းညွှန်ချက်များကို စစ်ဆေးပါ။</item>
+        <item quantity="one">မည်ကဲ့သို့ပြုလုပ်မည်ကို မသေမချာဖြစ်နေပါသလား? သင့်ကိရိယာနှင့်အတူပါလာသော လမ်းညွှန်ချက်များကို စစ်ဆေးပါ။</item>
+    </plurals>
+    <plurals name="sim_missing_text_default">
+        <item quantity="other">မည်ကဲ့သို့ပြုလုပ်မည်ကို မသေမချာဖြစ်နေပါသလား? သင့်ဖုန်းနှင့်အတူပါလာသော လမ်းညွှန်ချက်များကို စစ်ဆေးပါ။</item>
+        <item quantity="one">မည်ကဲ့သို့ပြုလုပ်မည်ကို မသေမချာဖြစ်နေပါသလား? သင့်ဖုန်းနှင့်အတူပါလာသော လမ်းညွှန်ချက်များကို စစ်ဆေးပါ။</item>
+    </plurals>
+    <plurals name="walled_garden_check_timeout_text">
+        <item quantity="other">ဒီအရာက %d မိနစ်ကျော် ကြာနိုင်သည်</item>
+        <item quantity="one">ဒီအရာက %d မိနစ်ကျော် ကြာနိုင်သည်</item>
+    </plurals>
+</resources>

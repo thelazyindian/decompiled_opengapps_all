@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item app:state_encrypted="true">
+        <level-list>
+            <item android:drawable="@drawable/ic_wifi_signal_lock_0" android:maxLevel="0" />
+            <item android:drawable="@drawable/ic_wifi_signal_lock_1" android:maxLevel="1" />
+            <item android:drawable="@drawable/ic_wifi_signal_lock_2" android:maxLevel="2" />
+            <item android:drawable="@drawable/ic_wifi_signal_lock_3" android:maxLevel="3" />
+            <item android:drawable="@drawable/ic_wifi_signal_lock_4" android:maxLevel="4" />
+        </level-list>
+    </item>
+    <item app:state_encrypted="false">
+        <level-list>
+            <item android:drawable="@drawable/ic_wifi_signal_0" android:maxLevel="0" />
+            <item android:drawable="@drawable/ic_wifi_signal_1" android:maxLevel="1" />
+            <item android:drawable="@drawable/ic_wifi_signal_2" android:maxLevel="2" />
+            <item android:drawable="@drawable/ic_wifi_signal_3" android:maxLevel="3" />
+            <item android:drawable="@drawable/ic_wifi_signal_4" android:maxLevel="4" />
+        </level-list>
+    </item>
+</selector>

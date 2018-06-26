@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WizardScript wizard:firstAction="zero_touch_initial"
+  xmlns:wizard="http://schemas.android.com/apk/res/com.google.android.setupwizard">
+    <WizardAction wizard:uri="intent:#Intent;action=com.google.android.setupwizard.ZERO_TOUCH_SETUP;B.checkFrp=true;end" id="zero_touch_initial">
+        <result wizard:resultCode="111" wizard:name="dpm_user_complete" />
+        <result wizard:resultCode="113" wizard:action="load_account_intent_frp" wizard:name="zero_touch_triggered" />
+    </WizardAction>
+    <WizardAction wizard:uri="intent:#Intent;action=com.google.android.setupwizard.LOAD_ADD_ACCOUNT_INTENT;B.showTapAndGo=false;B.resolveFrpOnly=true;end" id="load_account_intent_frp">
+        <result wizard:action="resolve_frp" />
+    </WizardAction>
+    <WizardAction wizard:uri="intent:#Intent;action=com.google.android.setupwizard.ACCOUNT_SETUP;B.finishWhenDone=true;end" id="resolve_frp">
+        <result wizard:action="zero_touch_post_frp" />
+    </WizardAction>
+    <WizardAction wizard:uri="intent:#Intent;action=com.google.android.setupwizard.ZERO_TOUCH_SETUP;end" id="zero_touch_post_frp" />
+</WizardScript>

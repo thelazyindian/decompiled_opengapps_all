@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="setup_wizard_title">Eksperti i konfigurimit</string>
+    <string name="setup_wizard_next_button_label">Përpara</string>
+    <string name="setup_wizard_back_button_label">Prapa</string>
+    <string name="setup_wizard_services_activity_title">Shërbimet e Google</string>
+    <string name="setup_wizard_services_description">"Këto shërbime e bëjnë Google të punojë për ty, dhe ti mund t'i aktivizosh ose t'i çaktivizosh ato në çdo kohë. Të dhënat do të përdoren në përputhje me "<annotation id="google_privacy">Politikën e privatësisë</annotation> së Google.</string>
+    <string name="setup_wizard_services_backup_restore_heading">Rezervo dhe restauro</string>
+    <string name="setup_wizard_services_location_heading">Vendndodhja</string>
+    <string name="setup_wizard_services_communication_heading">Komunikimi</string>
+    <string name="setup_wizard_services_backup"><b>Rezervo aplikacionet e telefonit, të dhënat e aplikacioneve, cilësimet, fjalorët personalë dhe fjalëkalimet e Wi‑Fi</b>" duke përdorur llogarinë tënde të Google, në mënyrë që të mund t'i restaurosh me lehtësi më vonë. "<annotation id="backup_details">Mëso më shumë</annotation></string>
+    <string name="setup_wizard_services_backup_restore"><b>Rezervo aplikacionet e tua, të dhënat e aplikacioneve, fjalorët personalë dhe fjalëkalimet e Wi‑Fi</b>" duke përdorur llogarinë tënde të Google, në mënyrë që të mund t'i restaurosh me lehtësi më vonë."</string>
+    <string name="setup_wizard_services_backup_restore_footnote">Të dhënat përfshijnë aplikacionet, cilësimet e aplikacioneve, cilësimet e sistemit dhe fjalëkalimet e Wi‑Fi.</string>
+    <string name="setup_wizard_services_backup_restore_dialog_text">Kur aktivizon rezervimin automatik, të dhënat e pajisjes tënde ruhen periodikisht në llogarinë tënde të Google. Rezervimet mund të përfshijnë informacione në dosjet e të dhënave të aplikacioneve, si p.sh. preferencat, cilësimet, mesazhet, fotografitë dhe skedarë të tjerë.</string>
+    <string name="setup_wizard_services_location_sharing"><b>Përdor shërbimin e vendndodhjes të Google</b>" për t'i ndihmuar aplikacionet të përcaktojnë vendndodhjen. Kjo nënkupton dërgimin e të dhënave anonime të vendndodhjes te Google, edhe kur nuk ka aplikacione në punë. "<annotation id="location_details">Mëso më shumë</annotation></string>
+    <string name="setup_wizard_services_location_sharing_dialog_text">Shërbimi i vendndodhjes i Google përdor burime si Wi‑Fi dhe rrjetet celulare për të ndihmuar në vlerësimin më të shpejtë dhe më të saktë të vendndodhjes së pajisjes tënde. Kur aktivizon shërbimet e vendndodhjes së Google, pajisja jote kalon në një modalitet që përdor Wi‑Fi dhe rrjetet celulare për të siguruar informacionet e vendndodhjes. Këtë mund ta çaktivizosh te \"Cilësimet e vendndodhjes\" duke zgjedhur një modalitet që përdor vetëm GPS, i cili ndonjëherë quhet modaliteti \"Vetëm pajisja\".</string>
+    <string name="setup_wizard_services_location_wifi_scan"><b>Ndihmo në përmirësimin e shërbimeve të vendndodhjes</b> duke i lejuar aplikacionet dhe shërbimet të skanojnë për rrjete Wi‑Fi edhe kur Wi‑Fi është i çaktivizuar.</string>
+    <string name="setup_wizard_services_location_footnote">Shërbimi i vendndodhjes i Google përdor Wi‑Fi dhe sinjale të tjera për të përcaktuar vendndodhjen me më shumë saktësi dhe shpejtësi, shpesh me një përdorim më të ulët të energjisë se sa sistemi GPS. Disa të dhëna mund të ruhen në pajisjen tënde. Të dhënat mund të mblidhen edhe kur nuk ka aplikacione në punë.</string>
+    <string name="setup_wizard_services_play"><b>Më mbaj të përditësuar</b> me lajmet dhe ofertat nga \"Luaj me Google\".</string>
+    <string name="setup_wizard_services_usage_reporting"><b>Ndihmo me përmirësimin e përvojës tënde me pajisjet Android</b> duke dërguar automatikisht në Google, të dhënat diagnostikuese dhe ato të përdorimit. Këto informacione nuk do të përdoren për të të identifikuar ty, por thjesht ndihmojnë ekipet që punojnë me çështje të tilla si kohëzgjatja e baterisë, veprimtaria e aplikacioneve dhe funksionet e reja të Google. <annotation id="usage_reporting_details">Mëso më shumë</annotation></string>
+    <string name="setup_wizard_services_usage_reporting_dialog_text">"Këto janë informacione të përgjithshme mbi pajisjen tënde dhe mënyrën si si e përdor ti atë, si p.sh. niveli i baterisë, sa shpesh i përdor aplikacionet e tua, cilësia dhe kohëzgjatja e lidhjeve të rrjetit (si të dhënat celulare, Wi‑Fi dhe Bluetooth-in), si dhe raportet e ndërprerjeve aksidentale kur proceset nuk realizohen si duhet. Ato do të përdoren për të përmirësuar produktet dhe shërbimet e Google dhe nuk do të lidhen me llogarinë tënde të Google. Disa informacione agregate do të ndihmojnë partnerët, si p.sh. zhvilluesit e Androidit, për të përmirësuar po ashtu aplikacionet dhe produktet e tyre.
+
+Këtë leje mund ta aktivizosh ose çaktivizosh në çdo kohë në aplikacionin Cilësimet e Google. Kjo nuk ndikon në aftësinë e pajisjes tënde për të dërguar informacionet që i duhen për të marrë shërbimet themelore, si për shembull përditësimet e sistemit dhe sigurinë."</string>
+    <string name="setup_wizard_services_agreement">"Ky telefon mund të marrë dhe të instalojë po ashtu përditësime dhe aplikacione nga Google, operatori yt celular dhe prodhuesi i telefonit tënd. Mund të shkarkohen dhe të instalohen disa aplikacione nëse vazhdon, ndërkohë që mund t'i heqësh ato në çdo kohë."</string>
+    <string name="default_device_name">Android</string>
+    <string name="finish_button_label">Përfundo</string>
+    <string name="skip_button_label">Kapërce</string>
+    <string name="skip_anyway_button_label">Kapërceje</string>
+    <string name="dont_skip_button_label">Mos e kapërce</string>
+    <string name="down_button_label">Më shumë</string>
+    <string name="cancel_button_label">Anulo</string>
+    <string name="restart_button_label">Rinis</string>
+    <string name="try_again_button_label">Provo përsëri</string>
+    <string name="close_button_label">Mbyll</string>
+    <string name="got_it_button_label">E kuptova!</string>
+    <string name="ok_button_label">Në rregull!</string>
+    <string name="google_legal_title">Informacioni ligjor i Google</string>
+    <string name="url_load_unsuccessful_message">Telefoni yt nuk është i lidhur me një shërbim të dhënash celulare. Për të parë këto informacione tani, shko te %s në një shfletues uebi.</string>
+    <string name="start">Nis</string>
+    <string name="wait_msg">Vetëm një sekondë…</string>
+    <string name="skip_toast">Eksperti i konfigurimit u kapërcye</string>
+    <string name="terminate_toast">"Eksperti i konfigurimi u ndërpre
+Pajisja nuk u përgatit"</string>
+    <string name="activation_title">Po aktivizon shërbimin celular…</string>
+    <string name="activation_title_searching">Po kërkon për shërbimin...</string>
+    <string name="activation_title_activating">Po aktivizon shërbimin celular…</string>
+    <string name="activation_default_network_name">rrjeti celular</string>
+    <string name="activation_network_bars_template">Fuqia e sinjalit - %d vija</string>
+    <string name="activation_text">Prek <b>\"Aktivizo\"</b>" për të aktivizuar shërbimin celular tani. (Mund të të duhen disa minuta.)
+
+Ose prek "<b>\"Kapërce\"</b> për ta konfiguruar pajisjen që të përdorë lidhjen Wi-Fi në vend të tij.</string>
+    <string name="activation_text_standalone">Prek <b>\"Aktivizo\"</b> për të aktivizuar shërbimin celular tani. (Mund të të duhen disa minuta.)</string>
+    <string name="activation_skip_confirmation">"Deri sa të aktivizosh shërbimin e të dhënave celulare, shumica e funksioneve të telefonit tënd nuk do të punojnë.
+
+Nëse preferon që ta kapërcesh këtë tani, mund ta aktivizosh më vonë në \"Cilësimet e sistemit\"."</string>
+    <string name="activation_continue_skip_label">Vazhdo</string>
+    <string name="activation_button_label">Aktivizo</string>
+    <string name="activation_progress_before_connect">Prek <b>\"Kapërce\"</b> për ta përfunduar konfigurimin duke përdorur më mirë një lidhje Wi-Fi.</string>
+    <string name="activation_progress">Aktivizimi mund të zgjasë disa minuta. Prek <b>\"Kapërce\"</b> për ta përfunduar konfigurimin duke përdorur më mirë një lidhje Wi-Fi.</string>
+    <string name="activation_progress_gen">Kjo mund të zgjasë deri në 5 minuta</string>
+    <string name="activation_progress_mobile_data">"Telefoni po aktivizon shërbimin e të dhënave celulare.
+
+Kjo mund të zgjasë deri në 5 minuta."</string>
+    <string name="activation_progress_before_connect_standalone">Aktivizimi mund të zgjasë disa minuta.</string>
+    <string name="activation_progress_standalone">Aktivizimi mund të zgjasë disa minuta.</string>
+    <string name="activation_success_title">Aktivizimi përfundoi</string>
+    <string name="activation_success_text">Prek <b>\"Përpara\"</b> për të vazhduar me konfigurimin.</string>
+    <string name="activation_success_text_gen">Pajisja jote duhet të riniset për të përfunduar aktivizimin.</string>
+    <string name="activation_success_text_standalone">Prek <b>\"Përpara\"</b>" për të vazhduar.
+
+Aktivizimi u krye me sukses, por mund të të duhen disa minuta që rrjeti i të dhënave celulare të mund të përdoret."</string>
+    <string name="activation_failure_title">Nuk mund të aktivizohej</string>
+    <string name="activation_failure_text">"Provo përsëri për një minutë ose rinise telefonin nëse kjo ndodh përsëri.
+
+Nëse preferon që ta kapërcesh tani, sigurohu që ta aktivizosh më vonë te Cilësimet e sistemit. Deri sa ta aktivizosh, telefoni yt nuk do të ketë një lidhje të të dhënave celulare."</string>
+    <string name="activation_failure_text_gen">Shërbimi yt i të dhënave celulare nuk mund të aktivizohej. Ky mund të jetë një problem i përkohshëm dhe mund të zgjidhet duke e rinisur telefonin.</string>
+    <string name="activation_failure_text_standalone">Shërbimi i të dhënave celulare nuk mund të aktivizohej. Për të provuar sërish aktivizimin, prek <b>\"Provo përsëri\"</b>".
+
+Mund ta aktivizosh shërbimin e të dhënave celulare më vonë te "<b>\"Cilësimet e sistemit\" > \"Me valë dhe rrjetet\" > \"Rrjetet celulare\"</b></string>
+    <string name="activation_cancel_title">U kërkua anulimi</string>
+    <string name="activation_cancel_text">Po anulon aktivizimin… kjo mund të zgjasë 5-10 sekonda.</string>
+    <string name="activation_canceled_title">Aktivizimi u anulua</string>
+    <string name="activation_canceled_text">"Dëshiron që ta anulosh aktivizimin? Duhet të aktivizosh shërbimin e rrjetit celular para se të mund ta përdorësh për t'u lidhur me internetin.
+
+Prek "<b>\"Përpara\"</b>" për të përfunduar konfigurimin duke përdorur një lidhje Wi-Fi.
+
+Mund ta aktivizosh shërbimin e rrjetit celular më vonë te "<b>\"Cilësimet e sistemit\" > \"Me valë dhe rrjetet\" > \"Rrjetet celulare\"</b>.</string>
+    <string name="activation_canceled_text_standalone">"Aktivizimi u anulua.
+
+Mund ta aktivizosh shërbimin e të dhënave celulare më vonë te "<b>\"Cilësimet e sistemit\" > \"Me valë dhe rrjetet\" > \"Rrjetet celulare\"</b>.</string>
+    <string name="activation_spc_failure_text">Kishte një problem që kërkon fikjen rinisjen e telefonit tënd para se të mund të bësh një përpjekje tjetër për aktivizimin. Telefoni yt do të fiket automatikisht për 60 sekonda, ose mund të prekësh <b>Fike tani</b>".
+
+Pasi telefoni të jetë fikur, shtyp butonin Energjia për ta rinisur. Aktivizimi do të fillojë automatikisht."</string>
+    <string name="shutdown_button_label">Fike tani</string>
+    <string name="reboot_button_label">Rinis</string>
+    <string name="activation_skip_text">Nëse e kapërcen aktivizimin, sigurohu që ta aktivizosh më vonë te \"Cilësimet\". Deri sa ta aktivizosh, telefoni yt nuk do të ketë një lidhje të të dhënave celulare.</string>
+    <string name="notification_update_title">Llogaria jote duhet të përditësohet</string>
+    <string name="notification_update_message">Prek këtu për të ekzekutuar përsëri \"Ekspertin e konfigurimit\".</string>
+    <string name="account_exists_title">Llogaria u shtua</string>
+    <string name="account_exists_text">"Llogaria jote e parë është gati për përdorim. Mund t'i shtosh dhe t'i heqësh llogaritë më vonë te \"Cilësimet\"."</string>
+    <string name="date_time_setup_title">Data dhe ora</string>
+    <string name="date_time_message">Rregulloje nëse duhet.</string>
+    <string name="date_time_current_date">Data</string>
+    <string name="date_time_current_time">Ora</string>
+    <string name="date_time_time_zone_full" formatted="false">%s (%s)</string>
+    <string name="sim_missing_title">Fut kartën SIM</string>
+    <string name="sim_setup_title">Konfiguro kartat SIM</string>
+    <string name="sim_setup_select_data">Zgjidh një kartë SIM për të dhënat celulare</string>
+    <string name="sim_setup_select_voice">Zgjidh një kartë SIM për telefonatat</string>
+    <string name="sim_setup_select_text">Zgjidh një kartë SIM për mesazhet me tekst</string>
+    <string name="sim_setup_ask_every_time">Pyet çdo herë</string>
+    <string name="walled_garden_title">Po kontrollon lidhjen…</string>
+    <string name="walled_garden_check_indefinite_text">Kjo mund të zgjasë pak</string>
+    <string name="walled_garden_skipped_message">"Nëse e kapërcen:
+
+Telefoni yt nuk do të ketë një lidhje interneti.
+
+Nuk do të marrësh përditësimet e softuerit deri sa të lidhesh në internet.
+
+Nuk mund t'i aktivizosh funksionet e mbrojtjes së pajisjes në këtë moment."</string>
+    <string name="walled_garden_connection_failed">Po zgjat shumë? Provo të kthehesh dhe të lidhesh me një rrjet tjetër.</string>
+    <string name="walled_garden_connection_unsuccessful">Nuk mund të lidhej me internetin</string>
+    <string name="ota_update_title">Përditëso telefonin</string>
+    <string name="ota_info">Telefoni yt duhet të shkarkojë një përditësim dhe të riniset.</string>
+    <string name="ota_size">Madhësia: %s</string>
+    <string name="ota_agreement_text">Duke vazhduar dhe duke marrë këtë përditësim të softuerit, ti pranon <annotation id="tos">\"Kushtet e shërbimit\"</annotation> dhe <annotation id="google_privacy">\"Politikën e privatësisë së Google\"</annotation>.</string>
+    <string name="early_update_title">Përditësimi i softuerit</string>
+    <string name="early_update_text">Po kontrollon për përditësime</string>
+    <string name="early_update_downloading_text">Po shkarkon %s</string>
+    <string name="early_update_installing_text">Po instalon %s</string>
+    <string name="warm_sim_check_msg">Po pret për rrjetin…</string>
+    <string name="sign_in_agreement">Duke u identifikuar, ti pranon <annotation id="tos">\"Kushtet e shërbimit\"</annotation>, <annotation id="google_privacy">\"Politikën e privatësisë\"</annotation> dhe <annotation id="play_tos">\"Kushtet e shërbimit\" të \"Luaj me Google\"</annotation>.</string>
+    <string name="android_privacy_policy_title">Politika shtesë e privatësisë</string>
+    <string name="google_terms_of_service_title">Kushtet e shërbimit të Google</string>
+    <string name="google_privacy_policy_title">Politika e privatësisë së Google</string>
+    <string name="google_plus_privacy_policy_title">Politika e privatësisë së Google Plus</string>
+    <string name="google_play_tos_title">Kushtet e shërbimit të \"Luaj me Google\"</string>
+    <string name="chrome_tos_title">Kushtet e shërbimit të Chrome</string>
+    <string name="chrome_privacy_title">Njoftimi i privatësisë i Chrome</string>
+    <string name="url_load_unsuccessful_message_wifi_only">Pajisja jote Android nuk është e lidhur me ndonjë rrjet Wi-Fi. Për të parë këto informacione tani, vizito %s nga një shfletues uebi.</string>
+    <string name="continue_for_a11y">Vazhdo të prekësh ekranin deri sa të dëgjosh një tingull \"bip\" për të aktivizuar \"Modalitetin e qasjes\".</string>
+    <string name="canceled_a11y">Modaliteti i qasjes u anulua.</string>
+    <string name="enabled_a11y">Modaliteti i qasjes u aktivizua.</string>
+    <string name="welcome_message">Mirë se erdhe</string>
+    <string name="emergency_dial">Urgjenca</string>
+    <string name="welcome_language_picker_dialog_title">Zgjidh gjuhën tënde</string>
+    <string name="welcome_language_picker_section_suggested">Të sugjeruara</string>
+    <string name="welcome_language_picker_section_all">Të gjitha gjuhët</string>
+    <string name="welcome_language_picker_content_description">Gjuha: %s</string>
+    <string name="lock_screen_intro_title">Mbroje telefonin tënd</string>
+    <string name="lock_screen_intro_text">"Për t'i parandaluar të tjerët ta përdorin këtë telefon pa lejen tënde, aktivizo funksionet e mbrojtjes së pajisjes. "<annotation id="learn_more">Mëso më shumë</annotation></string>
+    <string name="lock_screen_intro_text_secondary">Do të marrësh udhëzime për të konfiguruar kyçjen e ekranit nëse zgjedh \"Po\".</string>
+    <string name="lock_screen_intro_check_box"><b>Mbroje këtë pajisje</b> duke e bërë të kërkojë kodin PIN, motivin ose fjalëkalimin për ta shkyçur ekranin</string>
+    <string name="lock_screen_intro_radio_fingerprint">Konfiguro gjurmën e gishtit</string>
+    <string name="lock_screen_intro_radio_generic">Konfiguro kodin PIN, motivin ose fjalëkalimin</string>
+    <string name="lock_screen_intro_radio_no">Jo, faleminderit</string>
+    <string name="lock_screen_intro_success">"Ekrani yt i kyçjes është konfiguruar me sukses.
+"<annotation id="learn_more">Mëso më shumë</annotation></string>
+    <string name="lock_screen_intro_dialog_text_frp">"Mbrojtja e pajisjes aktivizohet automatikisht kur shton një llogari të Google dhe cakton një kyçje të ekranit. Nëse aktivizon edhe \"Menaxherin e pajisjes Android\", ti mund ta lokalizosh dhe ta spastrosh telefonin tënd nëse e humb atë ose nëse të vidhet.
+
+Edhe nëse telefoni yt fshihet, do të kërkohet fjalëkalimi i llogarisë tënde të Google para se dikush të mund ta përdorë këtë telefon."</string>
+    <string name="lock_screen_intro_dialog_text">Mbrojtja e pajisjes aktivizohet automatikisht kur shton një llogari të Google dhe cakton një kyçje të ekranit. E kombinuar me \"Menaxherin e pajisjes Android\", të ndihmon të lokalizosh dhe fshish telefonin tënd nëse e humb atë ose nëse të vidhet.</string>
+    <string name="lock_screen_intro_skip_dialog_text_frp">"Funksionet e mbrojtjes së pajisjes nuk do të aktivizohen. Ti nuk do mund t'i parandalosh të tjerët ta përdorin këtë telefon nëse e humb atë, nëse të vidhet ose fshihet."</string>
+    <string name="lock_screen_intro_skip_dialog_text">"Funksionet e mbrojtjes së pajisjes nuk do të aktivizohen. Ti nuk do mund t'i parandalosh të tjerët ta përdorin këtë telefon nëse e humb atë ose nëse të vidhet."</string>
+    <string name="services_activity_title">Shërbimet e Google</string>
+    <string name="services_backup_heading">Rezervimi</string>
+    <string name="services_location_heading">Vendndodhja</string>
+    <string name="services_security_heading">Siguria</string>
+    <string name="services_personalization_heading">Personalizimi</string>
+    <string name="services_communication_heading">Komunikimi</string>
+    <string name="security_verify_apps_summary">Lejo Google që të kontrollojë të gjitha aplikacionet e instaluara për sjellje mundësisht të rrezikshme që mund të ndikojnë te siguria e pajisjes ose të të dhënave të tua.</string>
+    <string name="restore_title">Po restauron…</string>
+    <string name="restore_wallpaper_title">Po restauron imazhin e sfondit…</string>
+    <string name="restore_device_settings_title">Po restauron cilësimet e pajisjes…</string>
+    <string name="restore_launcher_title">Po restauron nisësin…</string>
+    <string name="restore_failed_message">Nuk mund të restaurohej nga rezervimi.</string>
+    <string name="restore_no_backup_message">Nuk ka asnjë rezervë të disponueshme për pajisjen e burimit.</string>
+    <string name="restore_stopped_message">Fatkeqësisht, pajisja e ndaloi restaurimin e të dhënave nga rezervimi.</string>
+    <string name="name_title">Emri</string>
+    <string name="name_text">"Shtimi i emrit tënd e lejon telefonin që t'i personalizojë disa aplikacione."</string>
+    <string name="first_name">Emri</string>
+    <string name="last_name">Mbiemri</string>
+    <string name="cant_be_blank">Fusha nuk mund të lihet bosh.</string>
+    <string name="device_owner_warning_title">Telefoni mund të monitorohet</string>
+    <string name="device_owner_warning">Ky telefon menaxhohet nga \"%1$s\", që do të thotë se një pjesë e informacionit tënd mund të jetë e dukshme për persona të tjerë. Për të penguar monitorimin, rivendose telefonin.</string>
+    <string name="device_owner_continue">Vazhdo</string>
+    <string name="device_owner_reset">Rivendose telefonin</string>
+    <string name="factory_reset_title">Rivendose telefonin</string>
+    <string name="factory_reset_instructions">Paralajmërim: Rivendosja do të spastrojë të gjitha llogaritë dhe të dhënat në hapësirën ruajtëse të këtij telefoni.</string>
+    <string name="factory_reset_confirmation_title">Të rivendoset?</string>
+    <string name="factory_reset_confirmation">Të fshihen të gjitha llogaritë dhe të dhënat në këtë telefon? Këtë veprim nuk mund ta zhbësh!</string>
+    <string name="factory_reset_button">Spastroje dhe rivendose</string>
+    <string name="restart_setup_wizard_dialog_title">Nuk je identifikuar</string>
+    <string name="restart_setup_wizard_dialog_text">"Për të përdorur këtë telefon, fillimisht duhet të identifikohesh te llogaria e Google e zotëruesit në përdorim të këtij telefoni kur u rivendos për herë të fundit.
+
+Duke qenë se nuk ke vepruar kështu, duhet ta konfigurosh telefonin sërish."</string>
+    <string name="restart_setup_wizard_button_label">Konfiguroje telefonin</string>
+    <string name="sec_user_continue">Vazhdo</string>
+    <string name="sec_user_quit">Braktis</string>
+    <string name="user_warning_title">Konfiguro një përdorues të ri</string>
+    <string name="welcome_secondary_user_added_text">%s të ka shtuar ty te ky telefon.</string>
+    <string name="welcome_secondary_user_added_no_owner_name_text">Ti je shtuar te ky telefon.</string>
+    <string name="welcome_secondary_user_info_text"><b>E rëndësishme:</b>"
+
+"<li><ul>Zotëruesi i telefonit mund të çinstalojë aplikacionet e tua dhe ta heqë krejtësisht hapësirën tënde.</ul></li>"
+
+"<li><ul>Çdo përdorues tjetër mund të pranojë lejet e përditësuara të aplikacioneve për llogarinë tënde.</ul></li>"
+
+"<li><ul>Ashtu si me çdo kompjuter, këtë telefon duhet ta ndash vetëm me personat te të cilët ke besim.</ul></li></string>
+    <string name="welcome_limited_user_info_text">" "<b>E rëndësishme:</b>"
+
+ "<li><ul>"Zotëruesi i telefonit mund t'i instalojë dhe çinstalojë aplikacionet, të caktojë kufijtë ose ta heqë plotësisht hapësirën tënde."</ul></li>"
+
+ "<li><ul>"Çdo përdorues tjetër mund t'i pranojë lejet e përditësuara të aplikacioneve në emrin tënd."</ul></li>"
+
+ "<li><ul>Si me çdo kompjuter, këtë telefon duhet ta ndash vetëm me personat të cilëve u beson. </ul></li></string>
+</resources>

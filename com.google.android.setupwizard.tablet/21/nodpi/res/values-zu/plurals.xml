@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="shutdown_countdown_text">
+        <item quantity="other">Ivala shaqa emasekhondini angu-%d...</item>
+        <item quantity="one">Ivala shaqa esekhondini eyi-1...</item>
+    </plurals>
+    <plurals name="sim_missing_title">
+        <item quantity="other">Faka amakhadi we-SIM</item>
+        <item quantity="one">Faka ikhadi le-SIM</item>
+    </plurals>
+    <plurals name="sim_missing_text_tablet">
+        <item quantity="other">Ukuze ufake ikhadi lakho le-SIM, funda imiyalo eze nethebulethi yakho.</item>
+        <item quantity="one">Ukuze ufake ikhadi lakho le-SIM, funda imiyalelo eze nethebulethi yakho.</item>
+    </plurals>
+    <plurals name="sim_missing_text_device">
+        <item quantity="other">Ukuze ufake amakhadi wakho we-SIM, funda imiyalo eze nedivayisi yakho.</item>
+        <item quantity="one">Ukuze ufake ikhadi lakho le-SIM, funda imiyalo eze nedivayisi yakho.</item>
+    </plurals>
+    <plurals name="sim_missing_text_default">
+        <item quantity="other">Ukuze ufake ikhadi lakho le-SIM, funda imiyalo eze nefoni yakho.</item>
+        <item quantity="one">Ukuze ufake ikhadi lakho le-SIM, funda imiyalelo eze nefoni yakho.</item>
+    </plurals>
+</resources>

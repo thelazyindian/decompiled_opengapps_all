@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Vertrouwd gezicht</string>
+    <string name="receiver_app_name">Ontvanger voor Vertrouwd gezicht</string>
+    <string name="setup_app_name">Een vertrouwd gezicht toevoegen</string>
+    <string name="enrollment_continue_label">Volgende</string>
+    <string name="enrollment_done_label">Gereed</string>
+    <string name="enrollment_initializing">Opstarten…</string>
+    <string name="enrollment_start_message">Houd uw gezicht in het gebied binnen de stippellijn</string>
+    <string name="gar_preview_description">Cameravoorbeeld</string>
+    <string name="error_no_face">Laat uw gezicht zien</string>
+    <string name="enrollment_missing_landmarks">Laat uw ogen, neus en mond zien</string>
+    <string name="enrollment_missing_landmarks_status">Kan uw gezicht niet goed zien</string>
+    <string name="enrollment_off_center_status">Kan een deel van uw gezicht niet zien</string>
+    <string name="gar_enrollment_face_added">Gezicht toegevoegd</string>
+    <string name="enrollment_done">Ik snap het</string>
+    <string name="tutorial_app_name">Over Vertrouwd gezicht</string>
+    <string name="tutorial_header">Kijk naar uw telefoon om deze te ontgrendelen.</string>
+    <string name="tutorial_info_text">"Houd rekening met het volgende:
+
+ "<li><ul>"Ontgrendelen via gezichtsherkenning is minder veilig dan een patroon, pincode of wachtwoord.
+
+ "<li>Iemand die op u lijkt, kan uw telefoon ontgrendelen.</li>"
+
+ "<li>De gegevens die worden gebruikt om uw gezicht te herkennen, zijn beveiligd op de telefoon opgeslagen.</li>"
+
+ "</ul></li></string>
+    <string name="tutorial_continue_label">Configureren</string>
+    <string name="intro_header">Voor de beste resultaten:</string>
+    <string name="intro_info_text">" "<li><ul>"Zoek een plek binnenshuis met normale verlichting (niet te licht of te donker).
+
+ "<li>Houd de telefoon op ooghoogte.</li>"
+
+ "</ul></li></string>
+    <string name="intro_continue_label">Volgende</string>
+    <string name="endscreen_header">Alles is klaar!</string>
+    <string name="endscreen_info_text">Als u wilt ontgrendelen, activeert u uw scherm en laat u uw gezicht aan de camera zien.</string>
+    <string name="endscreen_bullet_one_text">Uw telefoon wordt ontgrendeld zodra deze u herkent.</string>
+    <string name="endscreen_bullet_two_text">Als uw telefoon uw gezicht niet herkent, kunt u de tablet ontgrendelen met uw patroon, pincode of wachtwoord.</string>
+    <string name="endscreen_tip_text">Tip: verbeter gezichtsherkenning door te laten zien hoe u er in verschillende omstandigheden uitziet.</string>
+    <string name="endscreen_continue_label">OK</string>
+    <string name="endscreen_license_label">Licenties</string>
+    <string name="addtosetup_app_name">Gezichtsvergelijking verbeteren</string>
+    <string name="addtosetup_header">Laat zien hoe u er in verschillende omstandigheden uitziet.</string>
+    <string name="addtosetup_info_text">"Voorbeelden:
+
+ "<li><ul>"Bij verschillende belichting
+
+ "<li>Met of zonder bril</li>"
+
+ "<li>Met of zonder baard</li>"
+
+ "</ul></li>"
+Houd de telefoon op ooghoogte."</string>
+    <string name="addtosetup_continue_label">Volgende</string>
+    <string name="license_screen_header">Open source-kennisgevingen</string>
+    <string name="license_screen_continue_label">OK</string>
+    <string name="face_unlock_service_app_name">Ontgrendelen via gezichtsherkenning</string>
+    <string name="trusted_face_service_app_name">Service Vertrouwd gezicht</string>
+    <string name="service_face_not_found">Kan geen gezicht vinden</string>
+    <string name="service_not_a_match">Sorry, we herkennen u niet</string>
+    <string name="service_liveliness_start">Nu knipperen</string>
+    <string name="service_liveliness_timeout">Knipperen niet opgemerkt</string>
+    <string name="service_low_ligthing">Er is te weinig licht</string>
+    <string name="shared_initialize_error">Kan zoeken naar uw gezicht niet starten</string>
+    <string name="shared_camera_error">De camera is niet beschikbaar</string>
+    <string name="shared_read_gallery_error">Herhaal het instellen</string>
+    <string name="shared_cancel_label">Annuleren</string>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.android.setupwizardlib.SetupWizardLayout android:id="@id/setup_wizard_layout" android:layout_width="fill_parent" android:layout_height="fill_parent" setupwizard:suwHeaderText="@string/name_title" setupwizard:suwIllustrationImage="@drawable/illustration_name"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:setupwizard="http://schemas.android.com/apk/res-auto">
+    <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" style="@style/SuwContentFrame">
+        <TextView android:id="@id/description_text" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/name_description_text_margin_bottom" android:text="@string/name_text" style="@style/SuwDescription" />
+        <TextView android:textAppearance="@android:style/TextAppearance.Material.Caption" android:textColor="?android:colorControlNormal" android:textColorHighlight="?android:colorControlActivated" android:id="@id/display_name_label" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/name_edit_margin_top" android:text="@string/name_display_name_label" android:labelFor="@id/display_name_edit" />
+        <EditText android:id="@id/display_name_edit" android:layout_width="fill_parent" android:layout_height="wrap_content" android:hint="@string/name_display_name_hint" android:imeOptions="actionDone|flagNoExtractUi" style="@style/NameEdit" />
+    </LinearLayout>
+</com.android.setupwizardlib.SetupWizardLayout>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WizardScript wizard:version="2"
+  xmlns:wizard="http://schemas.android.com/apk/res/com.google.android.setupwizard">
+    <WizardAction wizard:uri="intent:#Intent;action=com.google.android.setupwizard.NAME_CHECK;end" id="user_name_check">
+        <result wizard:resultCode="1" wizard:action="account_google_services" wizard:name="skip" />
+    </WizardAction>
+    <WizardAction wizard:uri="intent:#Intent;action=com.google.android.setupwizard.USER_NAME;end" id="user_name" />
+    <WizardAction wizard:uri="intent:#Intent;action=com.google.android.setupwizard.GOOGLE_SERVICES;end" id="account_google_services" />
+    <WizardAction wizard:uri="intent:#Intent;action=com.google.android.setupwizard.START_DOWNLOADS;end" id="start_downloads" />
+    <WizardAction wizard:uri="intent:#Intent;action=com.google.android.setupwizard.SUGGESTED_ACTIONS;end" id="suggested_actions" />
+    <WizardAction wizard:uri="intent:#Intent;action=com.google.android.setupwizard.FINAL_HOLD;end" id="final_hold" />
+</WizardScript>

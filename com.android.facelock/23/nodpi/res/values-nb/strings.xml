@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pålitelig ansikt</string>
+    <string name="trusted_face_service_app_name">Pålitelig ansikt-tjeneste</string>
+    <string name="receiver_app_name">Kringkastingsmottaker for pålitelig ansikt</string>
+    <string name="setup_app_name">Legg til et pålitelig ansikt</string>
+    <string name="add_to_setup_app_name">Forbedre ansiktssamsvar</string>
+    <string name="intro_screen_title">Om pålitelig ansikt</string>
+    <string name="intro_screen_header">Lås opp telefonen ved å se på den.</string>
+    <string name="intro_screen_body">"Husk:
+
+ "<li><ul>"Ansiktssamsvar er mindre sikkert enn mønster, PIN-kode eller passord
+
+ "<li>Personer som ligner på deg, kan låse opp telefonen din</li>"
+
+ "<li>Dataene som brukes til å gjenkjenne ansiktet ditt, lagres privat på telefonen</li> </ul></li></string>
+    <string name="intro_screen_continue_label">Konfigurer</string>
+    <string name="instructions_screen_title">Legg til et pålitelig ansikt</string>
+    <string name="instructions_screen_header">Slik oppnår du best resultat:</string>
+    <string name="instructions_screen_body">" "<li><ul>"Finn et sted innendørs som ikke har for sterk eller svak belysning
+
+ "<li>Hold telefonen på nivå med øynene</li> </ul></li></string>
+    <string name="instructions_screen_continue_label">Neste</string>
+    <string name="enrollment_screen_message_initializing">Starter opp …</string>
+    <string name="enrollment_screen_message_initialization_error">Kunne ikke starte skanningen av ansiktet ditt</string>
+    <string name="enrollment_screen_message_camera_error">Kameraet er ikke tilgjengelig</string>
+    <string name="enrollment_start_message">Hold ansiktet innenfor det prikkete området</string>
+    <string name="enrollment_screen_message_instructions">Hold toppen av hodet og bunnen av haken innenfor sirkelen</string>
+    <string name="enrollment_screen_message_missing_landmarks">Vis øyne, nese og munn</string>
+    <string name="enrollment_screen_message_done">Ansiktet er lagt til</string>
+    <string name="enrollment_screen_status_no_face">Vis ansiktet ditt</string>
+    <string name="enrollment_screen_status_face_off_center">Hele ansiktet ditt er ikke synlig</string>
+    <string name="enrollment_screen_status_missing_landmarks">Trekkene dine kunne ikke identifiseres</string>
+    <string name="enrollment_screen_continue_label">Neste</string>
+    <string name="enrollment_screen_done_label">Ferdig</string>
+    <string name="enrollment_screen_talkback_preview_description">Forhåndsvisning av kameraet</string>
+    <string name="enrollment_screen_talkback_face_added">Ansiktet er lagt til</string>
+    <string name="end_screen_title">Alt er klart!</string>
+    <string name="end_screen_body">Slå på skjermen og se på kameraet for å låse opp telefonen din</string>
+    <string name="end_screen_bullet_one_text">Telefonen låses opp når du gjenkjennes</string>
+    <string name="end_screen_bullet_two_text">Hvis ansiktet ditt ikke blir gjenkjent, kan du låse opp med mønsteret, PIN-koden eller passordet i stedet</string>
+    <string name="end_screen_tip_text">Tips: Du kan forbedre ansiktsgjenkjennelsen ved å vise hvordan du ser ut i forskjellige lysforhold</string>
+    <string name="end_screen_licenses_label">Lisenser</string>
+    <string name="end_screen_continue_label">Ferdig</string>
+    <string name="add_to_setup_intro_screen_title">Forbedre ansiktssamsvar</string>
+    <string name="add_to_setup_intro_screen_header">Vis hvordan du ser ut i forskjellige forhold</string>
+    <string name="add_to_setup_intro_screen_body">"Eksempler:
+
+ "<li><ul>"i ulik belysning
+
+ "<li>med eller uten briller</li>"
+
+ "<li>med skjegg eller glattbarbert</li>"
+
+ "</ul></li>"
+ Hold telefonen på nivå med øynene"</string>
+    <string name="add_to_setup_intro_screen_continue_label">Neste</string>
+    <string name="license_screen_header">Merknader om åpen kildekode</string>
+    <string name="license_screen_continue_label">OK</string>
+    <string name="shared_cancel_label">Avbryt</string>
+</resources>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="shutdown_countdown_text">
+        <item quantity="other">Isključivanje za %d sekundi…</item>
+        <item quantity="one">Isključivanje za %d sekundu…</item>
+        <item quantity="few">Isključivanje za %d sekunde…</item>
+    </plurals>
+    <plurals name="sim_missing_title">
+        <item quantity="other">Umetanje SIM kartica</item>
+        <item quantity="one">Umetanje SIM kartica</item>
+        <item quantity="few">Umetanje SIM kartica</item>
+    </plurals>
+    <plurals name="sim_missing_text_tablet">
+        <item quantity="other">Niste sigurni kako? Pregledajte upute koje ste dobili s tabletom.</item>
+        <item quantity="one">Niste sigurni kako? Pregledajte upute koje ste dobili s tabletom.</item>
+        <item quantity="few">Niste sigurni kako? Pregledajte upute koje ste dobili s tabletom.</item>
+    </plurals>
+    <plurals name="sim_missing_text_device">
+        <item quantity="other">Niste sigurni kako? Pregledajte upute koje ste dobili s uređajem.</item>
+        <item quantity="one">Niste sigurni kako? Pregledajte upute koje ste dobili s uređajem.</item>
+        <item quantity="few">Niste sigurni kako? Pregledajte upute koje ste dobili s uređajem.</item>
+    </plurals>
+    <plurals name="sim_missing_text_default">
+        <item quantity="other">Niste sigurni kako? Pregledajte upute koje ste dobili s telefonom.</item>
+        <item quantity="one">Niste sigurni kako? Pregledajte upute koje ste dobili s telefonom.</item>
+        <item quantity="few">Niste sigurni kako? Pregledajte upute koje ste dobili s telefonom.</item>
+    </plurals>
+    <plurals name="walled_garden_check_timeout_text">
+        <item quantity="other">Može potrajati do %d minuta</item>
+        <item quantity="one">Može potrajati do %d minutu</item>
+        <item quantity="few">Može potrajati do %d minute</item>
+    </plurals>
+</resources>

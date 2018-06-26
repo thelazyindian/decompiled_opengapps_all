@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.android.setupwizardlib.SetupWizardLayout android:id="@id/setup_wizard_layout" android:layout="@layout/suw_no_scroll_template_header_collapsed" android:layout_width="fill_parent" android:layout_height="fill_parent" setupwizard:suwHeaderText="@string/walled_garden_title" setupwizard:suwDecorPaddingTop="0.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:setupwizard="http://schemas.android.com/apk/res-auto">
+    <WebView android:id="@id/webview" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+</com.android.setupwizardlib.SetupWizardLayout>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="shutdown_countdown_text">
+        <item quantity="other">Կանջատվի %d վայրկյանից...</item>
+        <item quantity="one">Կանջատվի 1 վայրկյանից...</item>
+    </plurals>
+    <plurals name="sim_missing_title">
+        <item quantity="other">Տեղադրեք SIM քարտերը</item>
+        <item quantity="one">Տեղադրեք SIM քարտը</item>
+    </plurals>
+    <plurals name="sim_missing_text_tablet">
+        <item quantity="other">Ձեր SIM քարտերը տեղադրելու համար կարդացեք հրահանգները, որոնք տրվել են ձեր գրասալիկի հետ:</item>
+        <item quantity="one">Ձեր SIM քարտը տեղադրելու համար կարդացեք հրահանգները, որոնք տրվել են ձեր գրասալիկի հետ:</item>
+    </plurals>
+    <plurals name="sim_missing_text_device">
+        <item quantity="other">Ձեր SIM քարտերը տեղադրելու համար կարդացեք հրահանգները, որոնք տրվել են ձեր սարքի հետ:</item>
+        <item quantity="one">Ձեր SIM քարտը տեղադրելու համար կարդացեք հրահանգները, որոնք տրված են ձեր սարքի հետ:</item>
+    </plurals>
+    <plurals name="sim_missing_text_default">
+        <item quantity="other">Ձեր SIM քարտերը տեղադրելու համար կարդացեք հրահանգները, որոնք տրվել են ձեր հեռախոսի հետ:</item>
+        <item quantity="one">Ձեր SIM քարտը տեղադրելու համար կարդացեք հրահանգները, որոնք տրվելեն ձեր հեռախոսի հետ:</item>
+    </plurals>
+</resources>

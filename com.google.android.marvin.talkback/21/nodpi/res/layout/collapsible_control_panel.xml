@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="horizontal" android:id="@id/panel" android:background="@drawable/control_panel_background" android:layout_width="wrap_content" android:layout_height="@dimen/control_panel_height" android:layout_marginLeft="@dimen/collapse_expand_button_touch_area_extension_width"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:background="@drawable/collapse_expand_button_background" android:layout_width="wrap_content" android:layout_height="wrap_content">
+        <ImageButton android:layout_gravity="center" android:id="@id/collapse_expand_button" android:background="@drawable/control_button_background" android:layout_width="@dimen/collapse_expand_button_width" android:layout_height="@dimen/collapse_expand_button_height" />
+    </LinearLayout>
+    <LinearLayout android:orientation="horizontal" android:id="@id/collapsible_panel_left" android:layout_width="wrap_content" android:layout_height="@dimen/control_panel_height">
+        <ImageButton android:layout_gravity="center" android:id="@id/reduce_speed_button" android:background="@drawable/control_button_background" android:layout_width="@dimen/control_button_diameter" android:layout_height="@dimen/control_button_diameter" android:layout_marginRight="@dimen/control_button_inbetween_spacing" />
+        <ImageButton android:layout_gravity="center" android:id="@id/previous_item_button" android:background="@drawable/control_button_background" android:layout_width="@dimen/control_button_diameter" android:layout_height="@dimen/control_button_diameter" android:layout_marginRight="@dimen/control_button_inbetween_spacing" />
+    </LinearLayout>
+    <ImageButton android:layout_gravity="center" android:id="@id/play_pause_button" android:background="@drawable/control_button_background" android:layout_width="@dimen/control_button_diameter" android:layout_height="@dimen/control_button_diameter" />
+    <LinearLayout android:orientation="horizontal" android:id="@id/collapsible_panel_right" android:layout_width="wrap_content" android:layout_height="@dimen/control_panel_height">
+        <ImageButton android:layout_gravity="center" android:id="@id/next_item_button" android:background="@drawable/control_button_background" android:layout_width="@dimen/control_button_diameter" android:layout_height="@dimen/control_button_diameter" android:layout_marginLeft="@dimen/control_button_inbetween_spacing" />
+        <ImageButton android:layout_gravity="center" android:id="@id/increase_speed_button" android:background="@drawable/control_button_background" android:layout_width="@dimen/control_button_diameter" android:layout_height="@dimen/control_button_diameter" android:layout_marginLeft="@dimen/control_button_inbetween_spacing" />
+    </LinearLayout>
+    <ImageView android:background="@drawable/control_button_background" android:layout_width="@dimen/control_panel_padding_width" android:layout_height="@dimen/control_panel_height" />
+</LinearLayout>

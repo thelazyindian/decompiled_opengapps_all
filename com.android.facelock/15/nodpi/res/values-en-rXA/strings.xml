@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">[Ţŕûšţéð Fåçé one two]</string>
+    <string name="receiver_app_name">[Ţŕûšţéð Fåçé βŕöåðçåšţ ŔéçéîVéŕ one two three four]</string>
+    <string name="setup_app_name">[Åðð å ţŕûšţéð ƒåçé one two three]</string>
+    <string name="enrollment_continue_label">[Ñéхţ one]</string>
+    <string name="enrollment_done_label">[Ðöñé one]</string>
+    <string name="enrollment_initializing">[Šţåŕţîñĝ ûþ… one two]</string>
+    <string name="enrollment_start_message">[Ķééþ ƒåçé îñšîðé ðöţţéð åŕéå one two three four five six seven]</string>
+    <string name="gar_preview_description">[Çåḿéŕå þŕéVîéŵ one two three]</string>
+    <string name="error_no_face">[Šĥöŵ ýöûŕ ƒåçé one two three]</string>
+    <string name="enrollment_missing_landmarks">[Šĥöŵ éýéš, ñöšé, åñð ḿöûţĥ one two three four five six seven]</string>
+    <string name="enrollment_missing_landmarks_status">"[Çåñ'ţ šéé ýöûŕ ƒéåţûŕéš one two three]"</string>
+    <string name="enrollment_off_center_status">"[Çåñ'ţ šéé þåŕţ öƒ ýöûŕ ƒåçé one two three four five six seven]"</string>
+    <string name="gar_enrollment_face_added">[Fåçé åððéð one two]</string>
+    <string name="enrollment_done">[Ĝöţ îţ one two]</string>
+    <string name="tutorial_app_name">[Åɓöûţ ţŕûšţéð ƒåçé one two three]</string>
+    <string name="tutorial_header">[Ļööķ åţ ýöûŕ þĥöñé ţö ûñļöçķ îţ. one two three four five six seven eight]</string>
+    <string name="tutorial_info_text">"[Ķééþ ţĥéšé ţĥîñĝš îñ ḿîñð:
+
+ "<li><ul>"Fåçé ḿåţçĥîñĝ îš ļéšš šéçûŕé ţĥåñ å þåţţéŕñ, ÞÎÑ, öŕ þåššŵöŕð.
+
+ "<li>Šöḿéöñé ŵĥö ļööķš ļîķé ýöû çöûļð ûñļöçķ ýöûŕ þĥöñé.</li>"
+
+ "<li>Ţĥé ðåţå ûšéð ţö ŕéçöĝñîžé ýöûŕ ƒåçé îš ķéþţ þŕîVåţé öñ ţĥé þĥöñé.</li>"
+
+ "</ul></li> one two three four five six seven eight nine ten eleven twelve thirteen fourteen fiveteen sixteen seventeen nineteen twenty one two three four five six seven eight nine ten eleven twelve thirteen fourteen fiveteen sixteen]</string>
+    <string name="tutorial_continue_label">[Šéţ ûþ one two]</string>
+    <string name="intro_header">[Föŕ ɓéšţ ŕéšûļţš: one two three]</string>
+    <string name="intro_info_text">[ <li><ul>"Fîñð åñ îñðööŕ šþöţ—ñöţ ţöö ɓŕîĝĥţ öŕ ţöö ðîḿ.
+
+ "<li>Ĥöļð ţĥé þĥöñé åţ éýé ļéVéļ.</li>"
+
+ "</ul></li> one two three four five six seven eight nine ten eleven twelve thirteen fourteen fiveteen]</string>
+    <string name="intro_continue_label">[Ñéхţ one]</string>
+    <string name="endscreen_header">[Åļļ šéţ¡ one two]</string>
+    <string name="endscreen_info_text">[ Ŵĥéñ ýöû ŵåñţ ţö ûñļöçķ, ĵûšţ ţûŕñ öñ ýöûŕ šçŕééñ åñð šĥöŵ ýöûŕ ƒåçé ţö ţĥé çåḿéŕå. one two three four five six seven eight nine ten eleven twelve thirteen fourteen fiveteen]</string>
+    <string name="endscreen_bullet_one_text">[ Ýöûŕ þĥöñé ûñļöçķš åš šööñ åš îţ ŕéçöĝñîžéš ýöû. one two three four five six seven eight nine ten eleven]</string>
+    <string name="endscreen_bullet_two_text">"[ Îƒ ýöûŕ þĥöñé ðöéšñ'ţ ŕéçöĝñîžé ýöûŕ ƒåçé, ýöû çåñ ûñļöçķ ŵîţĥ ýöûŕ þåţţéŕñ, ÞÎÑ, öŕ þåššŵöŕð. one two three four five six seven eight nine ten eleven twelve thirteen fourteen fiveteen sixteen seventeen]"</string>
+    <string name="endscreen_tip_text">[ Ţîþ: ÎḿþŕöVé ƒåçé ḿåţçĥîñĝ ɓý šĥöŵîñĝ ŵĥåţ ýöû ļööķ ļîķé îñ ðîƒƒéŕéñţ çöñðîţîöñš. one two three four five six seven eight nine ten eleven twelve thirteen fourteen fiveteen]</string>
+    <string name="endscreen_continue_label">[ÖĶ one]</string>
+    <string name="endscreen_license_label">[Ļîçéñšéš one two]</string>
+    <string name="addtosetup_app_name">[ÎḿþŕöVé ƒåçé ḿåţçĥîñĝ one two three]</string>
+    <string name="addtosetup_header">[Šĥöŵ ŵĥåţ ýöû ļööķ ļîķé îñ ðîƒƒéŕéñţ çöñðîţîöñš. one two three four five six seven eight nine ten eleven]</string>
+    <string name="addtosetup_info_text">"[Éхåḿþļéš:
+
+ "<li><ul>"Îñ ðîƒƒéŕéñţ ļîĝĥţîñĝ
+
+ "<li>Ŵîţĥ öŕ ŵîţĥöûţ þŕéšçŕîþţîöñ ĝļåššéš</li>"
+
+ "<li>βéåŕðéð öŕ çļéåñ-šĥåVéñ</li>"
+
+ "</ul></li>"
+Ĥöļð ţĥé þĥöñé åţ éýé ļéVéļ.  one two three four five six seven eight nine ten eleven twelve thirteen fourteen fiveteen sixteen seventeen nineteen twenty one two three]"</string>
+    <string name="addtosetup_continue_label">[Ñéхţ one]</string>
+    <string name="license_screen_header">[Öþéñ Šöûŕçé Ñöţîçéš one two three]</string>
+    <string name="license_screen_continue_label">[ÖĶ one]</string>
+    <string name="face_unlock_service_app_name">[Fåçé Ûñļöçķ ŠéŕVîçé one two three]</string>
+    <string name="trusted_face_service_app_name">[Ţŕûšţéð Fåçé ŠéŕVîçé one two three]</string>
+    <string name="service_face_not_found">"[Çöûļðñ'ţ ƒîñð å ƒåçé one two three]"</string>
+    <string name="service_not_a_match">"[Šöŕŕý, ðöñ'ţ ŕéçöĝñîžé ýöû one two three four]"</string>
+    <string name="service_liveliness_start">[βļîñķ ñöŵ one two]</string>
+    <string name="service_liveliness_timeout">"[Ðîðñ'ţ çåţçĥ ýöûŕ ɓļîñķ one two three]"</string>
+    <string name="service_low_ligthing">[Ļîĝĥţîñĝ îš ţöö ļöŵ one two three]</string>
+    <string name="shared_initialize_error">"[Çöûļðñ'ţ šţåŕţ ƒîñðîñĝ ýöûŕ ƒåçé one two three four five six seven eight]"</string>
+    <string name="shared_camera_error">"[Çåḿéŕå îšñ'ţ åVåîļåɓļé one two three]"</string>
+    <string name="shared_read_gallery_error">[Þļéåšé ŕéþéåţ šéţûþ one two three]</string>
+    <string name="shared_cancel_label">[Çåñçéļ one two]</string>
+</resources>

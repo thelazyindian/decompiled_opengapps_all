@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:id="@id/topLayout" android:layout_width="wrap_content" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="1.0">
+        <TextView android:textAppearance="?android:textAppearanceMedium" android:gravity="center" android:id="@id/headerText" android:layout_width="fill_parent" android:layout_height="wrap_content" android:minHeight="70.0dip" android:text="@string/license_screen_header" />
+        <View android:background="@android:drawable/decor_maximize_button_light" android:layout_width="fill_parent" android:layout_height="2.0dip" />
+        <ScrollView android:layout_width="fill_parent" android:layout_height="fill_parent"
+          xmlns:android="http://schemas.android.com/apk/res/android">
+            <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content"
+              xmlns:android="http://schemas.android.com/apk/res/android">
+                <WebView android:gravity="top" android:id="@id/licenseText" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="24.0dip" android:scaleType="fitXY" />
+            </LinearLayout>
+        </ScrollView>
+    </LinearLayout>
+    <View android:layout_width="fill_parent" android:layout_height="30.0dip" />
+    <LinearLayout android:orientation="horizontal" style="@style/SecurityPreferenceButtonContainer">
+        <Button android:id="@id/footerRightButton" android:text="@string/license_screen_continue_label" style="@style/SecurityPreferenceButton" />
+    </LinearLayout>
+</LinearLayout>

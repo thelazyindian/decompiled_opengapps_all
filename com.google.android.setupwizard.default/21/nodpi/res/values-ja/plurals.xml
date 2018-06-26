@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="shutdown_countdown_text">
+        <item quantity="other">%d秒後にシャットダウンします...</item>
+        <item quantity="one">1秒後にシャットダウンします...</item>
+    </plurals>
+    <plurals name="sim_missing_title">
+        <item quantity="other">SIMカードの挿入</item>
+        <item quantity="one">SIMカードの挿入</item>
+    </plurals>
+    <plurals name="sim_missing_text_tablet">
+        <item quantity="other">SIMカードを挿入するには、タブレットの取扱説明書をお読みください。</item>
+        <item quantity="one">SIMカードを挿入するには、タブレットの取扱説明書をお読みください。</item>
+    </plurals>
+    <plurals name="sim_missing_text_device">
+        <item quantity="other">SIMカードを挿入するには、端末の取扱説明書をお読みください。</item>
+        <item quantity="one">SIMカードを挿入するには、端末の取扱説明書をお読みください。</item>
+    </plurals>
+    <plurals name="sim_missing_text_default">
+        <item quantity="other">SIMカードを挿入するには、携帯電話の取扱説明書をお読みください。</item>
+        <item quantity="one">SIMカードを挿入するには、携帯電話の取扱説明書をお読みください。</item>
+    </plurals>
+</resources>

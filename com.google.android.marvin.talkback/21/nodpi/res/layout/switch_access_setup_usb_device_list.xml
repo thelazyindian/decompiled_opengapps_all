@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:paddingTop="@dimen/setup_wizard_padding_heading_top" android:layout_width="fill_parent" android:layout_height="fill_parent" android:paddingStart="@dimen/setup_wizard_padding_start_end" android:paddingEnd="@dimen/setup_wizard_padding_start_end"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:id="@id/usb_at_least_one_device_view" android:focusable="false" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <TextView android:textColor="@color/setup_access_accent_color" android:gravity="start" android:paddingTop="@dimen/setup_wizard_text_padding_start" android:layout_width="fill_parent" android:layout_height="fill_parent" android:text="@string/connected_usb_devices_header" android:textAllCaps="false" style="?android:attr/listSeparatorTextViewStyle" />
+        <ListView android:id="@id/connected_usb_devices_list" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    </LinearLayout>
+    <LinearLayout android:orientation="vertical" android:id="@id/usb_no_devices_view" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <TextView android:textSize="@dimen/setup_wizard_text_size" android:paddingTop="@dimen/setup_wizard_text_padding_start" android:layout_width="fill_parent" android:layout_height="fill_parent" android:text="@string/usb_no_devices_connected_message" android:textAlignment="viewStart" />
+    </LinearLayout>
+</LinearLayout>

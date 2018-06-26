@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="intro_screen_header">Atrakinkite planšetinį kompiuterį pažiūrėję į jį</string>
+    <string name="intro_screen_body">"Atminkite:
+
+ "<li><ul>"Veido atitikimo funkcija mažiau saugi nei atrakinimo piešinys, PIN kodas ar slaptažodis
+
+ "<li>Į jus panašus asmuo gali atrakinti planšetinį kompiuterį</li>"
+
+ "<li>Veidui atpažinti naudojami duomenys privačiai saugomi planšetiniame kompiuteryje</li> </ul></li></string>
+    <string name="instructions_screen_body">" "<li><ul>"Raskite vietą viduje, kur ne per daug šviesu ar tamsu
+
+ "<li>Laikykite planšetinį kompiuterį akių lygyje</li> </ul></li></string>
+    <string name="end_screen_body">Kad atrakintumėte planšetinį kompiuterį, tiesiog įjunkite ekraną ir žiūrėkite į fotoaparatą</string>
+    <string name="end_screen_bullet_one_text">Planšetinis kompiuteris bus atrakintas iškart, kai jus atpažins</string>
+    <string name="add_to_setup_intro_screen_body">"Pavyzdžiai:
+
+ "<li><ul>"Esant skirtingam apšvietimui
+
+ "<li>Su akiniais ar be jų</li>"
+
+ "<li>Su barzda ar nusiskutus</li>"
+
+ "</ul></li>"
+ Laikykite planšetinį kompiuterį akių lygyje"</string>
+</resources>

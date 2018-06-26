@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="setup_wizard_title">Quraşdırma Sehrbazı</string>
+    <string name="setup_wizard_next_button_label">Növbəti</string>
+    <string name="setup_wizard_back_button_label">Geriyə</string>
+    <string name="setup_wizard_services_activity_title">Google xidmətləri</string>
+    <string name="setup_wizard_services_description">"Bu xidmətlər Google'un Sizin üçün işləməsinə yardım edir və onları istənilən vaxt aktiv və ya deaktiv edə bilərsiniz. Data Google'un "<annotation id="google_privacy">Məxfilik Siyasətinə</annotation> uyğun olaraq istifadə ediləcək.</string>
+    <string name="setup_wizard_services_backup_restore_heading">Yedək və bərpa</string>
+    <string name="setup_wizard_services_location_heading">Məkan</string>
+    <string name="setup_wizard_services_communication_heading">Rabitə</string>
+    <string name="setup_wizard_services_backup"><b>Google Hesabınızdan istifadə edərək telefonunuzun proqramları, proqram məlumatı, şəxsi lüğətlər, parametrlər və Wi‑Fi parollarını</b> nüsxələyin və onları daha sonra asanlıqla bərpa edin. <annotation id="backup_details">Daha çox öyrən</annotation></string>
+    <string name="setup_wizard_services_backup_restore"><b> Google Hesabınızdan istifadə edərək proqramları, proqram məlumatı, şəxsi lüğətlər, parametrlər və Wi‑Fi parollarını</b> nüsxələyin və onları daha sonra asanlıqla bərpa edin.</string>
+    <string name="setup_wizard_services_backup_restore_footnote">Data tətbiqləri, tətbiq ayarlarını, sistem ayarlarını və Wi-Fi şifrələrini içərir.</string>
+    <string name="setup_wizard_services_backup_restore_dialog_text">Avtomatik yedəkləməni aktiv etdiyiniz halda, cihazınızın datası müntəzəm olaraq Google Hesabınızda saxlanır. Bunlar yedəklənə bilər: tətbiq data qovluqları, tərcihlər, ayarlar, mesajlar, fotolar və sair.</string>
+    <string name="setup_wizard_services_location_sharing"><b>"Google'un məkan xidmətini istifadə edin"</b>" ki, tətbiqlərə məkanı müəyyən etmək mümkün olsun. Bu o deməkdir ki, hətta tətbiqlər işləməyən zamanda Google'a məkan haqqında anonim məlumat göndəriləcək. "<annotation id="location_details">Ətraflı məlumat</annotation></string>
+    <string name="setup_wizard_services_location_sharing_dialog_text">"Google'un məkan xidməti cihazın yerini daha tez və dəqiq müəyyən etmək üçün Wi‑Fi və mobil şəbəkə kimi mənbələrdən istifadə edir. Google'un məkan xidmətlərini aktiv etdiyiniz zaman cihazınız yerləşdiyi yer haqqında məlumatı vermək üçün Wi‑Fi və mobil şəbəkə istifadə edən rejimə keçir. Bu rejimi məkan ayarlarında deaktiv edə bilərsiniz ki, məkan haqqında məlumat yalnız GPS vasitəsilə (buna Yalnız-Cihaz rejimi də deyilir) ötürülsün."</string>
+    <string name="setup_wizard_services_location_wifi_scan">Hətta Wi‑Fi deaktiv olan zaman tətbiqlərə və xidmətlərə Wi‑Fi şəbəkəsini axtarmağa icazə verməklə, <b>məkan xidmətlərinin</b> inkişaf etməsinə yardımçı olun.</string>
+    <string name="setup_wizard_services_location_footnote">Google məkan xidməti GPS-dən daha az enerji istifadəsi ilə məkanın daha dəqiq və sürətli müəyyən edilməsi üçün Wi-Fi və digər siqnallardan istifadə edir. Bəzi məlumatlar cihazınızda saxlanıla bilər. Heç bir tətbiq işləmədiyi zamanlarda belə data toplanıla bilər.</string>
+    <string name="setup_wizard_services_play">Google Play xəbərləri və təklifləri haqqında <b>məni güncəl saxla</b>.</string>
+    <string name="setup_wizard_services_usage_reporting">"Google'a diaqnostika və istifadə datasını avtomatik göndərməklə, "<b>Android təcrübənizi inkişaf etdirməyə yardım edin</b>. Bu məlumat kimliyinizin müəyyən edilməsi üçün istifadə edilməyəcək və enerji sərfiyyatı, tətbiq performansı, və yeni Google özəllikləri kimi texniki göstəricilər üzərində işləyən komandaya, gələcəkdə daha keyfiyyətli nəticələr əldə etmək üçün təqdim ediləcək. <annotation id="usage_reporting_details">Learn more</annotation></string>
+    <string name="setup_wizard_services_usage_reporting_dialog_text">"Bu, cihazınız haqqında ümumi məlumatdır ki, bu məlumata batareya səviyyəsi, tətbiqlərdən istifadə tezliyi, şəbəkə bağlantılarının keyfiyyəti və müddəti, və işləməli olan halda, işləməyən tətbiqlərə dair qəza raportları kimi göstəricilər daxildir. Bu məlumat Google'un məhsullarının və xidmətlərinin inkişaf etdirilməsi üçün istifadə ediləcək və Google Hesabınızla əlaqəli olmayacaq. Bəzi ümumi məlumatlar Android developerləri kimi əməkdaşlara tətbiqlərin hazırlanması və keyfiyyətin artırılması üçün yardımçı ola bilər. 
+
+Bu funksiyanı Google Ayarları tətbiqində istənilən zaman aktiv və ya deaktiv edə bilərsiniz. Bu funksiyanın deaktiv edilməsi cihazınıza lazım olan zaman sistem güncəlləşmələri və güvənlik kimi xidmətlərin qəbul edilməsinə və bunun üçün gərəkli məlumatların göndərilməsinə heç bir təsir etməyəcək."</string>
+    <string name="setup_wizard_services_agreement">Bu telefon həmçinin Google, operator və cihaz istehsalçısından güncəlləşmələr və tətbiqlər qəbul edə və quraşdıra bilər. Davam etdiyiniz halda bəzi tətbiqlər endirilə və quraşdırıla bilər, sonra Siz onları silə bilərsiniz.</string>
+    <string name="default_device_name">Android</string>
+    <string name="finish_button_label">Bitir</string>
+    <string name="skip_button_label">Keç</string>
+    <string name="skip_anyway_button_label">İstənilən halda keç</string>
+    <string name="dont_skip_button_label">Atlamayın</string>
+    <string name="down_button_label">Daha çox</string>
+    <string name="cancel_button_label">Ləğv et</string>
+    <string name="restart_button_label">Yenidən başlat</string>
+    <string name="try_again_button_label">Bir daha yoxla</string>
+    <string name="close_button_label">Bağla</string>
+    <string name="got_it_button_label">Anladım</string>
+    <string name="ok_button_label">Ok</string>
+    <string name="google_legal_title">Google hüquq</string>
+    <string name="url_load_unsuccessful_message">Sizin telefonunuz Wi-Fi şəbəkəyə qoşulmayıb. Bu məlumatı indi görmək üçün %s linkini veb brauzer ilə ziyarət edin.</string>
+    <string name="start">Başla</string>
+    <string name="wait_msg">Bir saniyə...</string>
+    <string name="skip_toast">Quraşdırma Ustası boş verildi</string>
+    <string name="terminate_toast">"Quraşdırma Ustası tamamlandı
+Cihaz təchiz edilməyib"</string>
+    <string name="activation_title">Şəbəkə xidməti aktivləşdirilir...</string>
+    <string name="activation_title_searching">Xidmət axtarılır...</string>
+    <string name="activation_title_activating">Şəbəkə xidməti aktivləşdirilir...</string>
+    <string name="activation_default_network_name">mobil şəbəkə</string>
+    <string name="activation_network_bars_template">Siqnalın gücü %d bar</string>
+    <string name="activation_text">Mobil servisinizi aktivləşdirmək üçün <b>Aktivləşdir</b>" seçiminə toxunun. (Bu bir neçə dəqiqə çəkə bilər)
+
+Və ya planşetinizi Wi-Fi qoşulma ilə aktivləşdirmək üçün "<b>Keç</b> düyməsinə toxunun.</string>
+    <string name="activation_text_standalone">Mobil servisinizi aktivləşdirmək üçün <b>Aktivləşdir</b> seçiminə toxunun. (Bu bir neçə dəqiqə çəkə bilər.)</string>
+    <string name="activation_skip_confirmation">"Mobil data servisinizi aktivləşdirənə qədər telefonunuzun əksər funksiyaları çalışmayacaq.
+
+İndi keçməyi istəyirsinizsə, daha sonra Sistem Parametrlərindən aktivləşdirə bilərsiniz."</string>
+    <string name="activation_continue_skip_label">Davam et</string>
+    <string name="activation_button_label">Aktivləşdir</string>
+    <string name="activation_progress_before_connect">Quraşdırmanı Wi-Fi əlaqə ilə tamamlamaq istəyirsinizsə, <b>Keç</b> düyməsinə toxunun.</string>
+    <string name="activation_progress">Aktivasiya bir neçə dəqiqə çəkə bilər. Quraşdırmanı Wi-Fi əlaqə ilə tamamlamaq istəyirsinizsə, <b>Keç</b> düyməsinə toxunun.</string>
+    <string name="activation_progress_gen">5 dəqiqəyə qədər vaxt apara bilər</string>
+    <string name="activation_progress_mobile_data">"Telefon mobil data xidmətini aktivləşdirir.
+
+Bu 5 dəqiqə çəkə bilər."</string>
+    <string name="activation_progress_before_connect_standalone">Aktivləşdirmə bir neçə dəqiqə çəkə bilər.</string>
+    <string name="activation_progress_standalone">Aktivləşdirmə bir neçə dəqiqə çəkə bilər.</string>
+    <string name="activation_success_title">Aktivləşdirmə tamamlandı</string>
+    <string name="activation_success_text">Quraşdırma ilə davam etmək üçün <b>Növbəti</b> seçiminə toxunun</string>
+    <string name="activation_success_text_gen">Cihazınızın aktivləşdirilməsi üçün onu yenidən başlatmalısınız.</string>
+    <string name="activation_success_text_standalone">Davam etmək üçün <b>Növbəti</b>" düyməsinə toxunun.
+
+Aktivasiya uğurla yekunlaşdı, amma mobil data şəbəkəsinin işlək hala gəlməsi bir neçə dəqiqə çəkə bilər."</string>
+    <string name="activation_failure_title">Aktivləşdirmə alınmadı</string>
+    <string name="activation_failure_text">"Bir dəqiqə ərzində yenidən cəhd edin və ya bu hal davam etdiyi halda telefonu söndürüb yandırın.
+
+Bu mərhələni sonraya saxlamaq istəyirsinizsə, sonra Sistem ayarlarında bunu aktivləşdirməyi unutmayın. Bunu aktivləşdirənə kimi telefon mobil data bağlantısından istifadə edə bilməyəcək."</string>
+    <string name="activation_failure_text_gen">Sizin mobil data servisiniz aktivləşdirilə bilmir. Bu müvəqqəti problem ola bilər və telefonu yenidən başladaraq həll oluna bilər.</string>
+    <string name="activation_failure_text_standalone">Mobil data xidmətini aktivləşdirmək mümkün deyil. Aktivasiyanı yenidən yoxlamaq üçün <b>Yenidən yoxla</b>"seçiminə toxunun. 
+ 
+ Mobil data xidmətini daha sonra "<b> Sistem Parametrləri> Wi-Fi və şəbəkələr > Mobil şəbəkələri </b> bölməsindən aktivləşdirə bilərsiniz</string>
+    <string name="activation_cancel_title">Ləğv sorğusu göndərildi</string>
+    <string name="activation_cancel_text">Aktivasiya ləğv olunur... bur 5-10 saniyə çəkə bilər.</string>
+    <string name="activation_canceled_title">Aktivasiya ləğv edildi</string>
+    <string name="activation_canceled_text">"Aktivasiyanı ləğv etmək istəyirsiniz? İnternetə qoşulmaq üçün istifadədən öncə mobil şəbəkə xidmətini aktivləşdirə bilərsiniz.
+
+Wi-Fi bağlantısı istifadə edərək "<b>Növbəti</b>" üzərinə toxunun və quraşdırmanı tamamlayın.
+
+Daha sonra buradan mobil şəbəkə xidmətini aktivləşdirə bilərsiniz: "<b>Sistem ayarları; Simsiz şəbəkələr; Mobil şəbəkələr</b>.</string>
+    <string name="activation_canceled_text_standalone">"Aktivasiya ləğv edildi.
+
+Mobil data xidmətinizi daha sonra burada aktivləşdirə bilərsiniz: "<b>Sistem ayarları > Naqilsiz şəbəkələr > Mobil şəbəkələr</b>.</string>
+    <string name="activation_spc_failure_text">Daha bir aktivasiya cəhdindən əvvəl telefonunuu söndürməyi və yenidən yandırmağı tələb edən xəta var. Planşetiniz 60 saniyə ərzində söndürüləcək və ya <b>İndi söndür</b>" düyməsinə toxuna bilərsiz.
+
+Planşetiniz söndürüldükdən sonra yenidən başlamaq üçün Yandırma düyməsinə baxın."</string>
+    <string name="shutdown_button_label">İndi söndür</string>
+    <string name="reboot_button_label">Yenidən başlat</string>
+    <string name="activation_skip_text">Aktivasiyanı atlasanız, daha sonra Ayarlarda aktivləşdirə bilərsiniz. Aktivləşdirəcəyiniz vaxta qədər telefonunuzda şəbəkə data bağlantısı olmayacaq.</string>
+    <string name="notification_update_title">Hesabınız yenilənməlidir</string>
+    <string name="notification_update_message">Quraşdırma sehrbazını yenidən işlətmək üçün bura toxunun.</string>
+    <string name="account_exists_title">Hesab əlavə edildi</string>
+    <string name="account_exists_text">İlk hesabınız istifadəyə hazırdır. Ayarlarda hesabları əlavə edə və silə bilərsiniz.</string>
+    <string name="date_time_setup_title">Vaxt və tarix</string>
+    <string name="date_time_message">Lazım gələrsə, tənzimlə.</string>
+    <string name="date_time_current_date">Tarix</string>
+    <string name="date_time_current_time">Vaxt</string>
+    <string name="date_time_time_zone_full" formatted="false">%s ( %s )</string>
+    <string name="sim_missing_title">SİM kartı daxil edin</string>
+    <string name="sim_setup_title">SIM kartlar quraşdırın</string>
+    <string name="sim_setup_select_data">SIM və ya mobil data seçin</string>
+    <string name="sim_setup_select_voice">Çağrılar üçün SIM seçin</string>
+    <string name="sim_setup_select_text">Mətn mesajları üçün SIM seçin</string>
+    <string name="sim_setup_ask_every_time">Hər zaman soruş</string>
+    <string name="walled_garden_title">Bağlantı yoxlanılır...</string>
+    <string name="walled_garden_check_indefinite_text">Bu biraz vaxt ala bilər</string>
+    <string name="walled_garden_skipped_message">"Əgər atlasanız:
+
+Telefonunuzun internet bağlantısı olmayacaq.
+
+internetə qoşulmayana kimi siz proqram təminatı ilə bağlı güncəlləşmələri əldə etməyəcəksiniz.
+
+Bu zaman siz cihazın qorunması funksiyalarını aktivləşdirə bilməzsiniz."</string>
+    <string name="walled_garden_connection_failed">Çox vaxt aparır? Geri qayıtmağa və başqa şəbəkəyə qoşulmağa cəhd edin.</string>
+    <string name="walled_garden_connection_unsuccessful">İnternetə qoşulmaq olmur</string>
+    <string name="ota_update_title">Telefonu güncəlləşdirin</string>
+    <string name="ota_info">Telefonunuz güncəlləşməni endirməli və sönüb yanmalıdır.</string>
+    <string name="ota_size">Ölçü: %s</string>
+    <string name="ota_agreement_text">Bu program güncəlləməsini qəbul və davam etməklə <annotation id="tos">Google Xidmət Şərtlərinə</annotation> və <annotation id="google_privacy">Məxfiliik Siyasətinə</annotation> razı olursunuz.</string>
+    <string name="early_update_title">Proqram güncəlləşməsi</string>
+    <string name="early_update_text">Güncəlləşmə yoxlanılır</string>
+    <string name="early_update_downloading_text">%s endirilir</string>
+    <string name="early_update_installing_text">%s quraşdırılır</string>
+    <string name="warm_sim_check_msg">Şəbəkə üçün gözlənilir...</string>
+    <string name="sign_in_agreement">"Daxil olaraq Google'un "<annotation id="tos">Xidmət Şərtləri</annotation>, Məxfilik Siyasəti<annotation id="google_privacy">, </annotation> və <annotation id="play_tos">Google Play Xidmət Şərtləri</annotation> ilə razı olmuş olursunuz.</string>
+    <string name="android_privacy_policy_title">Əlavə Məxfilik Siyasəti</string>
+    <string name="google_terms_of_service_title">Google İstifadə Qaydaları</string>
+    <string name="google_privacy_policy_title">Google Məxfilik Siyasəti</string>
+    <string name="google_plus_privacy_policy_title">Google Plus Məxfilik Siyasəti</string>
+    <string name="google_play_tos_title">Google Play İstifadə Qaydaları</string>
+    <string name="chrome_tos_title">Chrome Xidmət Şərtləri</string>
+    <string name="chrome_privacy_title">Chrome Məxfilik Bildirişi</string>
+    <string name="url_load_unsuccessful_message_wifi_only">Sizin Androidiniz Wi-Fi şəbəkəyə qoşulmayıb. Bu məlumatı indi görmək üçün %s linkini veb brauzer ilə ziyarət edin.</string>
+    <string name="continue_for_a11y">Əlçatımlılıq rejimini aktivləşdirmək üçün səs eşidənə qədər ekrana toxunmağa davam edin.</string>
+    <string name="canceled_a11y">Əlçatımlılıq rejimi ləğv edildi.</string>
+    <string name="enabled_a11y">Əlçatımlılıq rejimi aktivləşdirildi</string>
+    <string name="welcome_message">Xoş gəlmisiniz</string>
+    <string name="emergency_dial">Fövqəladə</string>
+    <string name="welcome_language_picker_dialog_title">Dili seç</string>
+    <string name="welcome_language_picker_section_suggested">Təklif edilmiş</string>
+    <string name="welcome_language_picker_section_all">Bütün dillər</string>
+    <string name="welcome_language_picker_content_description">Dil: %s</string>
+    <string name="lock_screen_intro_title">Telefonunuzu qoruyun</string>
+    <string name="lock_screen_intro_text">Cihazın qorunması funksiyalarını aktivləşdirməklə, icazəniz olmadan başqalarının bu telefondan istifadəsinə mane olun.<annotation id="learn_more">Ətraflı məlumat</annotation></string>
+    <string name="lock_screen_intro_text_secondary">\"Bəli\" seçsəniz, kilid ekranı quraşdırmağa yönləndiriləcəksiniz.</string>
+    <string name="lock_screen_intro_check_box"><b>Bu cihazı qoru</b> və ekranın kilidini açmaq üçün PIN, nümunə və ya parol tələb et</string>
+    <string name="lock_screen_intro_radio_fingerprint">Barmaq izini ayarlayın</string>
+    <string name="lock_screen_intro_radio_generic">PIN kod, nümunə və ya parol ayarlayın</string>
+    <string name="lock_screen_intro_radio_no">Xeyr, çox sağ olun</string>
+    <string name="lock_screen_intro_success">"Ekran kilidiniz uğurla quraşdırılıb.
+"<annotation id="learn_more">Ətraflı məlumat</annotation></string>
+    <string name="lock_screen_intro_dialog_text_frp">"Siz Google Hesabı əlavə edəndə və ekran kilidini quranda Cihazın qorunması avtomatik aktivləşdirilir. Telefonunuz itərsə, yaxud oğurlanarsa, Andorid Cihaz Meneceri ilə birlikdə onu tapa və təmizləyə bilərsiniz.
+
+Hətta cihazınız təmizlənsə belə, istənilən kəsin bu cihazdan istifadəsindən əvvəl Google Hesabı parolunuz tələb olunacaq."</string>
+    <string name="lock_screen_intro_dialog_text">Siz Google Hesabı əlavə edəndə və ekran kilidini quranda Cihazın qorunması avtomatik aktivləşdirilir. Telefonunuz itərsə, yaxud oğurlanarsa, Andorid Cihaz Meneceri ilə birlikdə onu tapa və təmizləyə bilərsiniz.</string>
+    <string name="lock_screen_intro_skip_dialog_text_frp">Cihazın qorunması funksiyaları aktivləşməyəcək. İtərsə, oğurlanarsa, yaxud silinərsə, başqalarının bu telefondan istifadəsinə mane ola bilməyəcəksiniz.</string>
+    <string name="lock_screen_intro_skip_dialog_text">Cihazın qorunması funksiyaları aktivləşməyəcək. İtərsə və ya oğurlanarsa, başqalarının bu telefondan istifadəsinə mane ola bilməyəcəksiniz.</string>
+    <string name="services_activity_title">Google xidmətləri</string>
+    <string name="services_backup_heading">Yedək</string>
+    <string name="services_location_heading">Məkan</string>
+    <string name="services_security_heading">Təhlükəsizlik</string>
+    <string name="services_personalization_heading">Şəxsiləşdirmə</string>
+    <string name="services_communication_heading">Rabitə</string>
+    <string name="security_verify_apps_summary">"Google'a cihaz və ya məlumat təhlükəsizliyinə zərər verə biləcək potensial pisniyyətli hadisələr üçün bütün qurulmuş tətbiqləri yoxlamağa icazə ver."</string>
+    <string name="restore_title">Bərpa edilir...</string>
+    <string name="restore_wallpaper_title">Divar kağızı bərpa edilir...</string>
+    <string name="restore_device_settings_title">Cihaz ayarları bərpa edilir...</string>
+    <string name="restore_launcher_title">İşəsalan bərpa edilir...</string>
+    <string name="restore_failed_message">Ehtiyat nüsxəni bərpa etmək mümkün olmadı.</string>
+    <string name="restore_no_backup_message">Mənbə cihaz üçün heç bir yedəkləmə mümkün deyil.</string>
+    <string name="restore_stopped_message">Təəssüflər olsun ki, cihazın verilənlərini ehtiyat nüsxədən bərpa etmək mümkün olmadı.</string>
+    <string name="name_title">Ad</string>
+    <string name="name_text">Adınızın əlavə olunması bəzi tətbiqlərin telefonunuz tərəfindən fərdiləşdirilməsinə imkan yaradacaq.</string>
+    <string name="first_name">İlk</string>
+    <string name="last_name">Sonuncu</string>
+    <string name="cant_be_blank">Sahə boş ola bilməz</string>
+    <string name="device_owner_warning_title">Telefon nəzarət altında ola bilər</string>
+    <string name="device_owner_warning">Bu telefon “%1$s” tərəfindən idarə olunur, bu, o deməkdir ki, bəzi məlumatlarınız başqalarına görünə bilər. Nəzarətin qarşısını almaq üçün telefonu sıfırlayın.</string>
+    <string name="device_owner_continue">Davam edin</string>
+    <string name="device_owner_reset">Telefonu sıfırlayın</string>
+    <string name="factory_reset_title">Telefonu sıfırlayın</string>
+    <string name="factory_reset_instructions">Xəbərdarlıq: Sıfırlamaqla bu ptelefonun daxili yaddaşında olan bütün hesab və data silinəcək.</string>
+    <string name="factory_reset_confirmation_title">Sıfırlansın?</string>
+    <string name="factory_reset_confirmation">Bu telefonda olan bütün hesab və data silinsin? Əməliyyat geri qaytarıla bilməz!</string>
+    <string name="factory_reset_button">Silin və Sıfırlayın</string>
+    <string name="restart_setup_wizard_dialog_title">Giriş edilməyib</string>
+    <string name="restart_setup_wizard_dialog_text">"Bu telefonu istifadə etmək üçün əvvəlcə bu telefonda sıfırlama zamanı son aktiv olan Google Hesabına daxil olmalısınız.
+
+Bunu etmədiyiniz üçün telefonu yenidən ayarlamalısınız."</string>
+    <string name="restart_setup_wizard_button_label">Telefonu ayarlayın</string>
+    <string name="sec_user_continue">Davam edin</string>
+    <string name="sec_user_quit">Tərk edin</string>
+    <string name="user_warning_title">Yeni istifadəçi ayarlayın</string>
+    <string name="welcome_secondary_user_added_text">%s sizi bu telefona əlavə etdi.</string>
+    <string name="welcome_secondary_user_added_no_owner_name_text">Siz bu telefona əlavə edildiniz.</string>
+    <string name="welcome_secondary_user_info_text"><b>Vacib:</b>"
+
+"<li><ul>Telefon sahibi tətbiqləri sistemdən silə və ya yaddaşı tamamilə təmizləyə bilər.</ul></li>"
+
+"<li><ul>Hər hansı başqa istifadəçi Sizin adınızdan güncəllənmiş tətbiq icazələrini qəbul edə bilər.</ul></li>"
+
+"<li><ul>İstənilən kompüter kimi, bu telefonu da yalnız etibar etdiyiniz adamlar ilə bölüşün. </ul></li></string>
+    <string name="welcome_limited_user_info_text">" "<b>Vacib:</b>"
+
+ "<li><ul>Telefon sahibi tətbiqləri quraşdıra və ya sistemdən silə, məhdudiyyət qoya və ya yaddaşı tamamilə silə bilər.</ul></li>"
+
+ "<li><ul>Hər hansı başqa istifadəçi Sizin adınızdan güncəllənmiş tətbiq icazələrini qəbul edə bilər.</ul></li>"
+
+ "<li><ul>İstənilən kompüter kimi, bu telefonu da yalnız etibar etdiyiniz adamlar ilə bölüşün. </ul></li></string>
+</resources>

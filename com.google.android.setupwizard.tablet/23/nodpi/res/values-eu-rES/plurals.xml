@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="shutdown_countdown_text">
+        <item quantity="other">%d segundo barru itzaliko da…</item>
+        <item quantity="one">Segundo bat barru itzaliko da…</item>
+    </plurals>
+    <plurals name="sim_missing_title">
+        <item quantity="other">Sartu SIM txartelak</item>
+        <item quantity="one">Sartu SIM txartela</item>
+    </plurals>
+    <plurals name="sim_missing_text_tablet">
+        <item quantity="other">Ez dakizu nola egiten den? Irakurri tabletaren argibideak.</item>
+        <item quantity="one">Ez dakizu nola egiten den? Irakurri tabletaren argibideak.</item>
+    </plurals>
+    <plurals name="sim_missing_text_device">
+        <item quantity="other">Ez dakizu nola egiten den? Irakurri gailuaren argibideak.</item>
+        <item quantity="one">Ez dakizu nola egiten den? Irakurri gailuaren argibideak.</item>
+    </plurals>
+    <plurals name="sim_missing_text_default">
+        <item quantity="other">Ez dakizu nola egiten den? Irakurri telefonoaren argibideak.</item>
+        <item quantity="one">Ez dakizu nola egiten den? Irakurri telefonoaren argibideak.</item>
+    </plurals>
+    <plurals name="walled_garden_check_timeout_text">
+        <item quantity="other">%d minutura arte behar izan ditzake</item>
+        <item quantity="one">%d minutura arte behar izan dezake</item>
+    </plurals>
+</resources>

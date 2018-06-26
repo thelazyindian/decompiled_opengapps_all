@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="intro_screen_header">Lås opp nettbrettet ved å se på det.</string>
+    <string name="intro_screen_body">"Husk:
+
+ "<li><ul>"Ansiktssamsvar er mindre sikkert enn mønster, PIN-kode eller passord
+
+ "<li>Personer som ligner på deg, kan låse opp nettbrettet ditt</li>"
+
+ "<li>Dataene som brukes til å gjenkjenne fjeset ditt, lagres privat på nettbrettet</li> </ul></li></string>
+    <string name="instructions_screen_body">" "<li><ul>"Finn et sted innendørs som ikke har for sterk eller svak belysning
+
+ "<li>Hold nettbrettet på nivå med øynene</li> </ul></li></string>
+    <string name="end_screen_body">Slå på skjermen og se på kameraet for å låse opp nettbrettet ditt</string>
+    <string name="end_screen_bullet_one_text">Nettbrettet ditt låses opp når du gjenkjennes.</string>
+    <string name="add_to_setup_intro_screen_body">"Eksempler:
+
+ "<li><ul>"i ulik belysning
+
+ "<li>med eller uten briller</li>"
+
+ "<li>med skjegg eller glattbarbert</li>"
+
+ "</ul></li>"
+ Hold nettbrettet på nivå med øynene"</string>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:id="@id/app_content" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <include layout="@layout/passive_goal_progress_with_heading" />
+    <FrameLayout android:id="@id/no_account_history_graph" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/small_spacing_size" android:paddingStart="@dimen/content_start_padding" android:paddingEnd="@dimen/content_end_padding">
+        <com.google.android.wearable.fitness.passive.metrics.HistoryGraphView android:layout_width="fill_parent" android:layout_height="@dimen/history_graph_view_height" />
+    </FrameLayout>
+    <com.google.android.wearable.fitness.passive.metrics.NoAccountTableView android:id="@id/metrics_table" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/small_spacing_size" />
+    <FrameLayout android:id="@id/heart_rate_view_placeholder" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/small_spacing_size" />
+    <include layout="@layout/passive_settings_button" />
+</LinearLayout>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:background="@drawable/suggested_item_bg" android:layout_width="fill_parent" android:layout_height="wrap_content" android:paddingHorizontal="@dimen/suggested_item_padding_horizontal" style="@style/SuwItemContainer"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.google.android.setupwizard.user.SuggestedItemLayout android:gravity="center" android:layout_gravity="center" android:orientation="vertical" android:duplicateParentState="true" android:layout_width="wrap_content" android:layout_height="wrap_content">
+        <FrameLayout android:id="@id/suw_items_icon_container" android:duplicateParentState="true" android:layout_width="wrap_content" android:layout_height="wrap_content">
+            <ImageView android:layout_gravity="center_horizontal" android:id="@id/suw_items_icon" android:duplicateParentState="true" android:layout_width="@dimen/suggested_item_icon_size" android:layout_height="@dimen/suggested_item_icon_size" android:src="@drawable/suggested_item_icon" />
+        </FrameLayout>
+        <Space android:layout_width="@dimen/suggested_item_icon_text_spacing_horizontal" android:layout_height="@dimen/suggested_item_icon_text_spacing_vertical" />
+        <com.google.android.setupwizard.util.WrapTextView android:ellipsize="end" android:gravity="center" android:id="@id/suw_items_title" android:duplicateParentState="true" android:layout_width="wrap_content" android:layout_height="wrap_content" android:minLines="2" android:textAlignment="gravity" style="@style/SuwItemTitle" />
+        <TextView android:id="@id/suw_items_summary" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+    </com.google.android.setupwizard.user.SuggestedItemLayout>
+</FrameLayout>

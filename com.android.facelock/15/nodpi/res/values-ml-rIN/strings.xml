@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">പരിചിതമായ മുഖം</string>
+    <string name="receiver_app_name">പരിചിത മുഖ പ്രക്ഷേപണ റിസീവർ</string>
+    <string name="setup_app_name">ഒരു പരിചിത മുഖം ചേർക്കുക</string>
+    <string name="enrollment_continue_label">അടുത്തത്</string>
+    <string name="enrollment_done_label">പൂർത്തിയായി</string>
+    <string name="enrollment_initializing">ആരംഭിക്കുന്നു…</string>
+    <string name="enrollment_start_message">ഡോട്ടുള്ള ഏരിയയ്ക്ക് ഉള്ളിൽ മുഖം കാണിക്കുക</string>
+    <string name="gar_preview_description">ക്യാമറ പ്രിവ്യൂ</string>
+    <string name="error_no_face">നിങ്ങളുടെ മുഖം കാണിക്കുക</string>
+    <string name="enrollment_missing_landmarks">കണ്ണുകൾ, മൂക്ക്, വായ എന്നിവ കാണിക്കുക</string>
+    <string name="enrollment_missing_landmarks_status">നിങ്ങളുടെ മുഖരൂപം കാണാനായില്ല</string>
+    <string name="enrollment_off_center_status">നിങ്ങളുടെ മുഖത്തിന്റെ ഭാഗം കാണാനാകുന്നില്ല</string>
+    <string name="gar_enrollment_face_added">മുഖം ചേർത്തു</string>
+    <string name="enrollment_done">മനസ്സിലായി</string>
+    <string name="tutorial_app_name">പരിചിത മുഖം എന്നതിനെക്കുറിച്ച് ഒരാമുഖം</string>
+    <string name="tutorial_header">നിങ്ങളുടെ ഫോൺ അൺലോക്കുചെയ്യാൻ അതിലേക്ക് നോക്കുക.</string>
+    <string name="tutorial_info_text">"ഈ കാര്യങ്ങൾ ഓർക്കുക:
+
+ "<li><ul>"ഒരു പാറ്റേൺ, പിൻ അല്ലെങ്കിൽ പാസ്‌വേഡ് എന്നിവയേക്കാൾ സുരക്ഷിതത്വം കുറഞ്ഞതാണ് മുഖം തിരിച്ചറിയൽ.
+
+ "<li>നിങ്ങളുടെ മുഖവുമായി സാദൃശ്യമുള്ള ഒരാളിന് നിങ്ങളുടെ ഫോൺ അൺലോക്കുചെയ്യാനായേക്കാം.</li>"
+
+"<li>നിങ്ങളുടെ മുഖം തിരിച്ചറിയുന്നതിനുള്ള ഡാറ്റ ഫോണിൽ സ്വകാര്യമായി സൂക്ഷിച്ചിരിക്കുന്നു.</li>"
+
+ "</ul></li></string>
+    <string name="tutorial_continue_label">സജ്ജീകരിക്കുക</string>
+    <string name="intro_header">മികച്ച ഫലങ്ങൾക്ക്:</string>
+    <string name="intro_info_text">" "<li><ul>"മുറിയ്‌ക്കകത്തുള്ള സ്ഥലം കണ്ടെത്തുക-കൂടുതൽ തെളിച്ചമുള്ളതോ കൂടുതൽ മങ്ങിയതോ ആകരുത്.
+
+ "<li>ഫോൺ കണ്ണിനുനേരെ പിടിക്കുക.</li>"
+
+ "</ul></li></string>
+    <string name="intro_continue_label">അടുത്തത്</string>
+    <string name="endscreen_header">എല്ലാം സജ്ജമാക്കി!</string>
+    <string name="endscreen_info_text">നിങ്ങൾക്ക് അൺലോക്ക് ചെയ്യേണ്ടപ്പോൾ, സ്‌ക്രീൻ ഓൺ ചെയ്‌ത ശേഷം നിങ്ങളുടെ മുഖം ക്യാമറയിൽ കാണിക്കുക.</string>
+    <string name="endscreen_bullet_one_text">ഫോൺ നിങ്ങളെ തിരിച്ചറിഞ്ഞയുടൻ അത് അൺലോക്കാകുന്നു.</string>
+    <string name="endscreen_bullet_two_text">ഫോൺ നിങ്ങളുടെ മുഖം തിരിച്ചറിയുന്നില്ലെങ്കിൽ പാറ്റേൺ, പിൻ അല്ലെങ്കിൽ പാസ്‌വേഡ് ഉപയോഗിച്ച് അൺലോക്ക് ചെയ്യാം.</string>
+    <string name="endscreen_tip_text">നുറുങ്ങ്: വ്യത്യസ്‌ത അവസ്ഥകളിൽ നിങ്ങളുടെ മുഖം എങ്ങനെയെന്ന് കാണിക്കുന്നതിലൂടെ മുഖം തിരിച്ചറിയൽ മെച്ചപ്പെടുത്തുക.</string>
+    <string name="endscreen_continue_label">ശരി</string>
+    <string name="endscreen_license_label">ലൈസന്‍സുകള്‍</string>
+    <string name="addtosetup_app_name">മുഖം പൊരുത്തപ്പെടുത്തൽ മെച്ചപ്പെടുത്തുക</string>
+    <string name="addtosetup_header">വ്യത്യസ്‌ത അവസ്ഥകളിൽ നിങ്ങളുടെ മുഖഭാവം എങ്ങനെയെന്ന് കാണിക്കുക.</string>
+    <string name="addtosetup_info_text">"ഉദാഹരണങ്ങൾ:
+
+ "<li><ul>"വ്യത്യസ്‌ത പ്രകാശവിതാനത്തിൽ
+
+ "<li>ഡോക്‌ടർ നിർദ്ദേശിച്ച കണ്ണടയോടു കൂടിയതോ അല്ലാത്തതോ</li>"
+
+ "<li>താടിയുള്ളതോ പൂർണ്ണമായി ഷേവ് ചെയ്‌തതോ</li>"
+
+ "</ul></li>"
+ഫോൺ കണ്ണിനുനേരെ പിടിക്കുക."</string>
+    <string name="addtosetup_continue_label">അടുത്തത്</string>
+    <string name="license_screen_header">ഓപ്പൺ സോഴ്‌സ് അറിയിപ്പുകൾ</string>
+    <string name="license_screen_continue_label">ശരി</string>
+    <string name="face_unlock_service_app_name">മുഖം തിരിച്ചറിഞ്ഞുള്ള അൺലോക്ക്</string>
+    <string name="trusted_face_service_app_name">പരിചിത മുഖ സേവനം</string>
+    <string name="service_face_not_found">ഒരു മുഖം കണ്ടെത്താനായില്ല</string>
+    <string name="service_not_a_match">ക്ഷമിക്കണം, നിങ്ങളെ തിരിച്ചറിഞ്ഞില്ല</string>
+    <string name="service_liveliness_start">ഇപ്പോൾ കണ്ണുചിമ്മുക</string>
+    <string name="service_liveliness_timeout">നിങ്ങൾ കണ്ണുചിമ്മുന്നത് കണ്ടെത്താനായില്ല</string>
+    <string name="service_low_ligthing">പ്രകാശവിതാനം വളരെ കുറവാണ്</string>
+    <string name="shared_initialize_error">നിങ്ങളുടെ മുഖം കണ്ടെത്തൽ ആരംഭിക്കാനായില്ല</string>
+    <string name="shared_camera_error">ക്യാമറ ലഭ്യമല്ല</string>
+    <string name="shared_read_gallery_error">സജ്ജീകരണം ആവർത്തിക്കുക</string>
+    <string name="shared_cancel_label">റദ്ദാക്കുക</string>
+</resources>

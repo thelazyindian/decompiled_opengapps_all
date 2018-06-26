@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Visage de confiance</string>
+    <string name="trusted_face_service_app_name">Service Visage de confiance</string>
+    <string name="receiver_app_name">"Récepteur de diffusion de l'application Visage de confiance"</string>
+    <string name="setup_app_name">Ajouter un visage de confiance</string>
+    <string name="add_to_setup_app_name">Améliorer la correspondance faciale</string>
+    <string name="intro_screen_title">À propos de Visage de confiance</string>
+    <string name="intro_screen_header">Déverrouillez votre téléphone en le regardant</string>
+    <string name="intro_screen_body">"N'oubliez pas :
+
+ "<li><ul>"La reconnaissance faciale est une méthode moins sécurisée qu'un schéma, un code d'accès ou un mot de passe.
+
+ "<li>Une personne qui vous ressemble peut déverrouiller votre téléphone.</li>"
+
+ "<li>Les données utilisées pour identifier votre visage sont conservées de manière confidentielle sur le téléphone.</li> </ul></li></string>
+    <string name="intro_screen_continue_label">Configurer</string>
+    <string name="instructions_screen_title">Ajoutez un visage de confiance</string>
+    <string name="instructions_screen_header">Pour des résultats optimaux</string>
+    <string name="instructions_screen_body">" "<li><ul>"Trouvez un endroit à l'intérieur où il ne fait ni trop clair, ni trop sombre.
+
+ "<li>Tenez le téléphone à hauteur des yeux.</li> </ul></li></string>
+    <string name="instructions_screen_continue_label">Suivant</string>
+    <string name="enrollment_screen_message_initializing">Démarrage en cours…</string>
+    <string name="enrollment_screen_message_initialization_error">Impossible de lancer la détection de votre visage.</string>
+    <string name="enrollment_screen_message_camera_error">"L'appareil photo n'est pas disponible."</string>
+    <string name="enrollment_start_message">"Gardez le visage à l'intérieur de la zone en pointillés"</string>
+    <string name="enrollment_screen_message_instructions">Maintenez le haut de votre tête et le bas de votre menton dans le cercle.</string>
+    <string name="enrollment_screen_message_missing_landmarks">Montrez vos yeux, votre nez et votre bouche.</string>
+    <string name="enrollment_screen_message_done">La photo de votre visage a bien été ajouté.</string>
+    <string name="enrollment_screen_status_no_face">Montrez votre visage.</string>
+    <string name="enrollment_screen_status_face_off_center">Impossible de voir une partie de votre visage.</string>
+    <string name="enrollment_screen_status_missing_landmarks">Impossible de distinguer vos traits.</string>
+    <string name="enrollment_screen_continue_label">Suivant</string>
+    <string name="enrollment_screen_done_label">OK</string>
+    <string name="enrollment_screen_talkback_preview_description">"Aperçu de l'appareil photo"</string>
+    <string name="enrollment_screen_talkback_face_added">La photo de votre visage a bien été ajouté.</string>
+    <string name="end_screen_title">Vous êtes prêt</string>
+    <string name="end_screen_body">"Pour déverrouiller votre téléphone, il vous suffit d'allumer votre écran et de regarder l'appareil photo."</string>
+    <string name="end_screen_bullet_one_text">"Lorsque votre visage est reconnu par votre téléphone, l'appareil est déverrouillé."</string>
+    <string name="end_screen_bullet_two_text">"Si votre visage n'est pas reconnu, déverrouillez l'appareil avec votre schéma, votre code d'accès ou votre mot de passe."</string>
+    <string name="end_screen_tip_text">Conseil : Pour que votre visage soit reconnu plus facilement, prenez-vous en photo dans différentes situations.</string>
+    <string name="end_screen_licenses_label">Licences</string>
+    <string name="end_screen_continue_label">OK</string>
+    <string name="add_to_setup_intro_screen_title">Améliorer la correspondance faciale</string>
+    <string name="add_to_setup_intro_screen_header">Prenez-vous en photo dans différentes situations</string>
+    <string name="add_to_setup_intro_screen_body">"Exemples :
+
+ "<li><ul>"Avec différents éclairages
+
+ "<li>Avec ou sans lunettes de vue</li>"
+
+ "<li>Avec une barbe ou bien rasé</li>"
+
+ "</ul></li>"
+ Tenez la tablette à hauteur des yeux."</string>
+    <string name="add_to_setup_intro_screen_continue_label">Suivant</string>
+    <string name="license_screen_header">Avis Open Source</string>
+    <string name="license_screen_continue_label">OK</string>
+    <string name="shared_cancel_label">Annuler</string>
+</resources>

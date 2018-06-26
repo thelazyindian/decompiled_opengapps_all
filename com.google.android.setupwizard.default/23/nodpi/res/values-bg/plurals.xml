@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="shutdown_countdown_text">
+        <item quantity="other">Ще се изключи след %d секунди…</item>
+        <item quantity="one">Ще се изключи след 1 секунда…</item>
+    </plurals>
+    <plurals name="sim_missing_title">
+        <item quantity="other">Поставете SIM карти</item>
+        <item quantity="one">Поставете SIM карта</item>
+    </plurals>
+    <plurals name="sim_missing_text_tablet">
+        <item quantity="other">Не сте сигурни как да направите това? Разгледайте инструкциите, които сте получили с таблета си.</item>
+        <item quantity="one">Не сте сигурни как да направите това? Разгледайте инструкциите, които сте получили с таблета си.</item>
+    </plurals>
+    <plurals name="sim_missing_text_device">
+        <item quantity="other">Не сте сигурни как да направите това? Разгледайте инструкциите, които сте получили с устройството си.</item>
+        <item quantity="one">Не сте сигурни как да направите това? Разгледайте инструкциите, които сте получили с устройството си.</item>
+    </plurals>
+    <plurals name="sim_missing_text_default">
+        <item quantity="other">Не сте сигурни как да направите това? Разгледайте инструкциите, които сте получили с телефона си.</item>
+        <item quantity="one">Не сте сигурни как да направите това? Разгледайте инструкциите, които сте получили с телефона си.</item>
+    </plurals>
+    <plurals name="walled_garden_check_timeout_text">
+        <item quantity="other">Това може да отнеме до %d минути</item>
+        <item quantity="one">Това може да отнеме до %d минута</item>
+    </plurals>
+</resources>

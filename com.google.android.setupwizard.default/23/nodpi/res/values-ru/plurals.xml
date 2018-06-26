@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="shutdown_countdown_text">
+        <item quantity="other">Выключение через %d секунд...</item>
+        <item quantity="one">Выключение через %d секунду...</item>
+        <item quantity="few">Выключение через %d секунды...</item>
+        <item quantity="many">Выключение через %d секунд...</item>
+    </plurals>
+    <plurals name="sim_missing_title">
+        <item quantity="other">Вставьте SIM-карты</item>
+        <item quantity="one">Вставьте SIM-карты</item>
+        <item quantity="few">Вставьте SIM-карты</item>
+        <item quantity="many">Вставьте SIM-карты</item>
+    </plurals>
+    <plurals name="sim_missing_text_tablet">
+        <item quantity="other">О том, как это сделать, рассказано в инструкции к вашему устройству.</item>
+        <item quantity="one">О том, как это сделать, рассказано в инструкции к вашему устройству.</item>
+        <item quantity="few">О том, как это сделать, рассказано в инструкции к вашему устройству.</item>
+        <item quantity="many">О том, как это сделать, рассказано в инструкции к вашему устройству.</item>
+    </plurals>
+    <plurals name="sim_missing_text_device">
+        <item quantity="other">О том, как это сделать, рассказано в инструкции к вашему устройству.</item>
+        <item quantity="one">О том, как это сделать, рассказано в инструкции к вашему устройству.</item>
+        <item quantity="few">О том, как это сделать, рассказано в инструкции к вашему устройству.</item>
+        <item quantity="many">О том, как это сделать, рассказано в инструкции к вашему устройству.</item>
+    </plurals>
+    <plurals name="sim_missing_text_default">
+        <item quantity="other">О том, как это сделать, рассказано в инструкции к вашему устройству.</item>
+        <item quantity="one">О том, как это сделать, рассказано в инструкции к вашему устройству.</item>
+        <item quantity="few">О том, как это сделать, рассказано в инструкции к вашему устройству.</item>
+        <item quantity="many">О том, как это сделать, рассказано в инструкции к вашему устройству.</item>
+    </plurals>
+    <plurals name="walled_garden_check_timeout_text">
+        <item quantity="other">Это может занять до %d минут</item>
+        <item quantity="one">Это может занять до %d минуты</item>
+        <item quantity="few">Это может занять до %d минут</item>
+        <item quantity="many">Это может занять до %d минут</item>
+    </plurals>
+</resources>

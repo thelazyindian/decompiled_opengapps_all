@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="tutorial_header">Mira tu tablet para desbloquearla.</string>
+    <string name="tutorial_info_text">"Debes tener en cuenta lo siguiente:
+
+ "<li><ul>"El desbloqueo facial es menos seguro que un patrón, un PIN o una contraseña.
+
+ "<li>Alguien con rasgos faciales parecidos a los tuyos podría desbloquear la tablet.</li>"
+
+ "<li>Los datos que se usan para identificar tu rostro se almacenan de forma privada en la tablet.</li>"
+
+ "</ul></li></string>
+    <string name="intro_info_text">" "<li><ul>"Busca un espacio puertas adentro que no sea muy iluminado ni muy oscuro.
+
+"<li>Sostén la tablet a la altura de los ojos.</li>"
+
+"</ul></li></string>
+    <string name="endscreen_bullet_one_text">La tablet se desbloquea cuando te reconoce.</string>
+    <string name="endscreen_bullet_two_text">Si la tablet no reconoce el rostro, puedes desbloquearla con el patrón, el PIN o la contraseña.</string>
+    <string name="addtosetup_info_text">"Ejemplos:
+
+"<li><ul>"Con una iluminación diferente
+
+"<li>Con o sin anteojos graduados</li>"
+
+"<li>Con y sin barba</li>"
+
+"</ul></li>"
+Sostén la tablet a la altura de los ojos."</string>
+</resources>

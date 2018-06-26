@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Rosto fidedigno</string>
+    <string name="receiver_app_name">Recetor de difusão de rosto fidedigno</string>
+    <string name="setup_app_name">Adicionar um rosto fidedigno</string>
+    <string name="enrollment_continue_label">Seguinte</string>
+    <string name="enrollment_done_label">Concluído</string>
+    <string name="enrollment_initializing">A iniciar...</string>
+    <string name="enrollment_start_message">Manter o rosto dentro da área tracejada</string>
+    <string name="gar_preview_description">Pré-visualização da câmara</string>
+    <string name="error_no_face">Mostre o seu rosto</string>
+    <string name="enrollment_missing_landmarks">Mostrar olhos, nariz e boca</string>
+    <string name="enrollment_missing_landmarks_status">Não é possível ver as suas feições</string>
+    <string name="enrollment_off_center_status">Não é possível ver parte do seu rosto</string>
+    <string name="gar_enrollment_face_added">Rosto adicionado</string>
+    <string name="enrollment_done">Entendi</string>
+    <string name="tutorial_app_name">Acerca do rosto fidedigno</string>
+    <string name="tutorial_header">Olhe para o telemóvel para desbloqueá-lo.</string>
+    <string name="tutorial_info_text">"Tenha em conta o seguinte:
+
+ "<li><ul>"A correspondência facial é menos segura do que um padrão, um PIN ou uma palavra-passe.
+
+ "<li>Uma pessoa parecida consigo poderia desbloquear o telemóvel.</li>"
+
+ "<li>Os dados utilizados para reconhecer o seu rosto são mantidos privados no telemóvel.</li>"
+
+ "</ul></li></string>
+    <string name="tutorial_continue_label">Configurar</string>
+    <string name="intro_header">Para obter os melhores resultados:</string>
+    <string name="intro_info_text">" "<li><ul>"Procure um espaço interior com iluminação moderada, nem muito claro, nem muito escuro.
+
+ "<li>Segure no telemóvel à altura dos olhos.</li>"
+
+ "</ul></li></string>
+    <string name="intro_continue_label">Seguinte</string>
+    <string name="endscreen_header">Tudo pronto!</string>
+    <string name="endscreen_info_text">Quando pretender desbloquear, basta ligar o ecrã e mostrar o seu rosto para a câmara.</string>
+    <string name="endscreen_bullet_one_text">O seu telemóvel é desbloqueado assim que o(a) reconhecer.</string>
+    <string name="endscreen_bullet_two_text">Se o seu telemóvel não reconhecer o seu rosto, pode desbloqueá-lo com a sua sequência, o seu PIN ou a sua palavra-passe.</string>
+    <string name="endscreen_tip_text">Sugestão: melhore o reconhecimento facial mostrando o seu rosto em diferentes condições.</string>
+    <string name="endscreen_continue_label">OK</string>
+    <string name="endscreen_license_label">Licenças</string>
+    <string name="addtosetup_app_name">Melhorar correspondência de rosto</string>
+    <string name="addtosetup_header">Mostre o seu aspeto em várias situações.</string>
+    <string name="addtosetup_info_text">"Exemplos:
+
+ "<li><ul>"Em iluminações diferentes
+
+ "<li>Com ou sem óculos</li>"
+
+ "<li>Com ou sem barba</li>"
+
+ "</ul></li>"
+Segure no telemóvel à altura dos olhos."</string>
+    <string name="addtosetup_continue_label">Seguinte</string>
+    <string name="license_screen_header">Avisos de código aberto</string>
+    <string name="license_screen_continue_label">OK</string>
+    <string name="face_unlock_service_app_name">Serviço de Desbloqueio Através do Rosto</string>
+    <string name="trusted_face_service_app_name">Serviço de rosto fidedigno</string>
+    <string name="service_face_not_found">Não foi possível localizar um rosto</string>
+    <string name="service_not_a_match">Lamento, mas não o reconheço</string>
+    <string name="service_liveliness_start">Piscar agora</string>
+    <string name="service_liveliness_timeout">O piscar não foi captado</string>
+    <string name="service_low_ligthing">A iluminação é muito reduzida</string>
+    <string name="shared_initialize_error">Não foi possível iniciar a pesquisa do rosto</string>
+    <string name="shared_camera_error">A câmara não está disponível</string>
+    <string name="shared_read_gallery_error">Repita a configuração</string>
+    <string name="shared_cancel_label">Cancelar</string>
+</resources>

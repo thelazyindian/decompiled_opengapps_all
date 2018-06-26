@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="intro_screen_header">Откључајте таблет тако што ћете га погледати</string>
+    <string name="intro_screen_body">"Имајте на уму следеће:
+
+ "<li><ul>"Препознавање лица је мање безбедно од шаблона, PIN-а или лозинке
+
+ "<li>Неко ко личи на вас би могао да откључа таблет</li>"
+
+ "<li>Подаци који се користе за препознавање лица су заштићени на таблету</li> </ul></li></string>
+    <string name="instructions_screen_body">" "<li><ul>"Пронађите место на затвореном које није ни превише светло ни превише тамно
+
+ "<li>Држите таблет у нивоу очију</li> </ul></li></string>
+    <string name="end_screen_body">Да бисте откључали таблет, само укључите екран и гледајте у камеру</string>
+    <string name="end_screen_bullet_one_text">Таблет ће се откључати чим вас препозна</string>
+    <string name="add_to_setup_intro_screen_body">"Примери:
+
+ "<li><ul>"Под различитим осветљењем
+
+ "<li>Са наочарима за вид или без њих</li>"
+
+ "<li>Са брадом или без ње</li>"
+
+ "</ul></li>"
+ Држите таблет у нивоу очију"</string>
+</resources>

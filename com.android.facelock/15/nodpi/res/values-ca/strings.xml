@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Cara de confiança</string>
+    <string name="receiver_app_name">"Receptor de l'emissió de la cara de confiança"</string>
+    <string name="setup_app_name">Afegeix una cara de confiança.</string>
+    <string name="enrollment_continue_label">Següent</string>
+    <string name="enrollment_done_label">Fet</string>
+    <string name="enrollment_initializing">"S'està iniciant..."</string>
+    <string name="enrollment_start_message">"Mantén la cara dins de l'àrea de punts."</string>
+    <string name="gar_preview_description">Visualització prèvia de la càmera</string>
+    <string name="error_no_face">Mostra la cara</string>
+    <string name="enrollment_missing_landmarks">Mostra els ulls, el nas i la boca.</string>
+    <string name="enrollment_missing_landmarks_status">No puc veure els teus trets</string>
+    <string name="enrollment_off_center_status">"No se't veu una part de la cara"</string>
+    <string name="gar_enrollment_face_added">Cara afegida</string>
+    <string name="enrollment_done">"D'acord"</string>
+    <string name="tutorial_app_name">Quant a Cara de confiança</string>
+    <string name="tutorial_header">Mira el teu telèfon per desbloquejar-lo.</string>
+    <string name="tutorial_info_text">"Tingues en compte el següent:
+
+ "<li><ul>"La coincidència facial és menys segura que un patró, un PIN o una contrasenya.
+
+ "<li>"Una persona que s'assembli a tu podria desbloquejar el teu telèfon."</li>"
+
+ "<li>"Les dades que s'han fet servir per reconèixer la teva cara es mantenen privades al telèfon."</li>"
+
+ "</ul></li></string>
+    <string name="tutorial_continue_label">Configura</string>
+    <string name="intro_header">Per millorar els resultats:</string>
+    <string name="intro_info_text">" "<li><ul>"Cerca un lloc interior que no estigui massa il·luminat ni massa fosc.
+
+ "<li>Mantén el telèfon al nivell dels ulls.</li>"
+
+ "</ul></li></string>
+    <string name="intro_continue_label">Següent</string>
+    <string name="endscreen_header">Tot a punt.</string>
+    <string name="endscreen_info_text">Quan vulguis desbloquejar el dispositiu, només cal que activis la pantalla i que mostris la cara a la càmera.</string>
+    <string name="endscreen_bullet_one_text">El telèfon es desbloqueja tan bon punt et reconeix.</string>
+    <string name="endscreen_bullet_two_text">Si el telèfon no reconeix la teva cara, també pots desbloquejar-lo amb el patró de desbloqueig, el codi PIN o la contrasenya.</string>
+    <string name="endscreen_tip_text">Consell: pots millorar el reconeixement facial si mostres la teva aparença en diferents condicions.</string>
+    <string name="endscreen_continue_label">"D'acord"</string>
+    <string name="endscreen_license_label">Llicències</string>
+    <string name="addtosetup_app_name">Millorar la coincidència facial</string>
+    <string name="addtosetup_header">Mostra la teva fisonomia en diferents estats</string>
+    <string name="addtosetup_info_text">"Exemples:
+
+ "<li><ul>"En condicions d'il·luminació diferents
+
+ "<li>Amb o sense ulleres</li>"
+
+ "<li>Amb barba o afaitat</li>"
+
+ "</ul></li>"
+Mantén el telèfon al nivell dels ulls."</string>
+    <string name="addtosetup_continue_label">Següent</string>
+    <string name="license_screen_header">Avisos de codi obert</string>
+    <string name="license_screen_continue_label">"D'acord"</string>
+    <string name="face_unlock_service_app_name">Servei de desbloqueig facial</string>
+    <string name="trusted_face_service_app_name">Servei Cara de confiança</string>
+    <string name="service_face_not_found">"No s'ha trobat cap cara"</string>
+    <string name="service_not_a_match">Ho sento, no et reconec</string>
+    <string name="service_liveliness_start">Parpelleja</string>
+    <string name="service_liveliness_timeout">No hem detectat el parpelleig</string>
+    <string name="service_low_ligthing">La il·luminació és massa baixa</string>
+    <string name="shared_initialize_error">"No s'ha pogut començar a cercar la cara."</string>
+    <string name="shared_camera_error">La càmera no està disponible.</string>
+    <string name="shared_read_gallery_error">Repeteix la configuració</string>
+    <string name="shared_cancel_label">Cancel·la</string>
+</resources>

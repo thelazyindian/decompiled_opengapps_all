@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout style="@style/WidgetMonth_Chip_Text_Layout"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <FrameLayout android:id="@id/widgetmonth_chip_badged_icon_container" style="@style/WidgetMonth_Chip_Badged_Icon_Container">
+        <ImageView android:id="@id/widgetmonth_chip_badged_icon_background" style="@style/WidgetMonth_Chip_Badged_Icon_Background" />
+        <ImageView android:id="@id/widgetmonth_chip_badged_icon" style="@style/WidgetMonth_Chip_Badged_Icon" />
+    </FrameLayout>
+    <ImageView android:id="@id/widgetmonth_chip_icon" style="@style/WidgetMonth_Chip_Icon" />
+    <TextView android:id="@id/widgetmonth_chip_text" style="@style/WidgetMonth_Chip_Text" />
+</LinearLayout>

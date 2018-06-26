@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pålitelig ansikt</string>
+    <string name="receiver_app_name">Kringkastingsmottaker for pålitelig ansikt</string>
+    <string name="setup_app_name">Legg til et pålitelig ansikt</string>
+    <string name="enrollment_continue_label">Neste</string>
+    <string name="enrollment_done_label">Ferdig</string>
+    <string name="enrollment_initializing">Starter opp …</string>
+    <string name="enrollment_start_message">Hold ansiktet innenfor det prikkete området</string>
+    <string name="gar_preview_description">Forhåndsvisning av kameraet</string>
+    <string name="error_no_face">Vis ansiktet ditt</string>
+    <string name="enrollment_missing_landmarks">Vis øyne, nese og munn</string>
+    <string name="enrollment_missing_landmarks_status">Trekkene dine kunne ikke identifiseres</string>
+    <string name="enrollment_off_center_status">Hele ansiktet ditt er ikke synlig</string>
+    <string name="gar_enrollment_face_added">Ansiktet er lagt til</string>
+    <string name="enrollment_done">Greit</string>
+    <string name="tutorial_app_name">Om pålitelig ansikt</string>
+    <string name="tutorial_header">Se på telefonen for å låse den opp.</string>
+    <string name="tutorial_info_text">"Husk:
+
+"<li><ul>"Ansiktssamsvar er mindre sikkert enn mønster, PIN-kode eller passord.
+
+"<li>Personer som ser ut som deg, kan låse opp nettbrettet.</li>"
+
+"<li>Dataene som brukes til å gjenkjenne ansiktet ditt, blir holdt privat på telefonen.</li>"
+
+"</ul></li></string>
+    <string name="tutorial_continue_label">Konfigurer</string>
+    <string name="intro_header">Slik oppnår du best resultat:</string>
+    <string name="intro_info_text">" "<li><ul>"Finn et sted innendørs som ikke har for sterk eller svak belysning.
+
+"<li>Hold telefonen på nivå med øynene dine.</li>"
+
+"</ul></li></string>
+    <string name="intro_continue_label">Neste</string>
+    <string name="endscreen_header">Alt er klart!</string>
+    <string name="endscreen_info_text">Når du vil låse opp enheten, slår du bare på skjermen og viser ansiktet ditt til kameraet.</string>
+    <string name="endscreen_bullet_one_text">Telefonen din låses opp når du gjenkjennes.</string>
+    <string name="endscreen_bullet_two_text">Hvis telefonen ikke gjenkjenner ansiktet ditt, kan du låse den opp med mønsteret, PIN-koden eller passordet.</string>
+    <string name="endscreen_tip_text">Tips: Du kan forbedre ansiktsgjenkjennelsen ved å vise hvordan du ser ut i forskjellige lysforhold.</string>
+    <string name="endscreen_continue_label">OK</string>
+    <string name="endscreen_license_label">Lisenser</string>
+    <string name="addtosetup_app_name">Forbedre ansiktssamsvar</string>
+    <string name="addtosetup_header">Vis hvordan du ser ut i forskjellige forhold.</string>
+    <string name="addtosetup_info_text">"Eksempler:
+
+"<li><ul>"i ulik belysning
+
+"<li>med eller uten korrigerende briller</li>"
+
+"<li>med skjegg eller glattbarbert</li>"
+
+"</ul></li>"
+Hold telefonen på nivå med øynene dine."</string>
+    <string name="addtosetup_continue_label">Neste</string>
+    <string name="license_screen_header">Merknader om åpen kildekode</string>
+    <string name="license_screen_continue_label">OK</string>
+    <string name="face_unlock_service_app_name">Ansiktslås-tjenesten</string>
+    <string name="trusted_face_service_app_name">Pålitelig ansikt-tjeneste</string>
+    <string name="service_face_not_found">Kunne ikke finne noe ansikt</string>
+    <string name="service_not_a_match">Beklager, men du ble ikke gjenkjent</string>
+    <string name="service_liveliness_start">Blunk nå</string>
+    <string name="service_liveliness_timeout">Blunket ditt ble ikke fanget opp</string>
+    <string name="service_low_ligthing">Lysforholdene er ikke gode nok</string>
+    <string name="shared_initialize_error">Kunne ikke starte skanningen av ansiktet ditt</string>
+    <string name="shared_camera_error">Kameraet er ikke tilgjengelig</string>
+    <string name="shared_read_gallery_error">Gjenta konfigurering</string>
+    <string name="shared_cancel_label">Avbryt</string>
+</resources>

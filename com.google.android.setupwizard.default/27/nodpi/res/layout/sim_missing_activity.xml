@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.android.setupwizardlib.GlifLayout android:icon="@drawable/ic_network_signal" android:id="@id/setup_wizard_layout" android:layout_width="fill_parent" android:layout_height="fill_parent" app:suwFooter="@layout/footer_skip_only"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <LinearLayout android:orientation="vertical" android:id="@id/content_frame" android:layout_width="fill_parent" android:layout_height="wrap_content" style="@style/SuwContentFrame">
+        <TextView android:id="@id/sim_missing_description" android:layout_width="fill_parent" android:layout_height="wrap_content" style="@style/SuwDescription.Glif" />
+        <com.android.setupwizardlib.view.FillContentLayout android:layout_width="fill_parent" android:layout_height="wrap_content" android:maxWidth="264.0dip" android:maxHeight="264.0dip" android:layout_weight="1.0">
+            <com.android.setupwizardlib.view.IllustrationVideoView android:id="@id/background" android:layout_width="fill_parent" android:layout_height="fill_parent" android:contentDescription="@string/sim_missing_content_description" app:suwVideo="@raw/sim_illustration" style="@style/SuwContentIllustration" />
+        </com.android.setupwizardlib.view.FillContentLayout>
+        <LinearLayout android:orientation="vertical" android:id="@id/esim_layout" android:background="?android:selectableItemBackground" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <View android:background="?android:listDivider" android:layout_width="fill_parent" android:layout_height="1.0dip" />
+            <include layout="@layout/items_esim" />
+            <View android:background="?android:listDivider" android:layout_width="fill_parent" android:layout_height="1.0dip" />
+        </LinearLayout>
+    </LinearLayout>
+</com.android.setupwizardlib.GlifLayout>

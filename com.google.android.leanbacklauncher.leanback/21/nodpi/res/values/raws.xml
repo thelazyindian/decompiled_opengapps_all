@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="raw" name="open_bonus_launchpoint">0.0</item>
+    <item type="raw" name="open_bonus_notification">1.0</item>
+    <item type="raw" name="slide_animator_propagation_speed">5.8</item>
+    <item type="raw" name="wallpaper_fade_in_final_scale">1.0</item>
+    <item type="raw" name="wallpaper_fade_in_initial_scale">1.02</item>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:id="@id/speed_dial_ooo_container" style="@style/SpeedDialSmallButtonContainer"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:id="@id/speed_dial_title" android:text="@string/ooo" android:contentDescription="@string/accessibility_speeddial_ooo" style="@style/SpeedDialSmallButtonTitle" />
+    <ImageView android:id="@id/speed_dial_icon" android:src="@drawable/speed_dial_ooo_button" style="@style/MiniFloatingActionButton" />
+</LinearLayout>

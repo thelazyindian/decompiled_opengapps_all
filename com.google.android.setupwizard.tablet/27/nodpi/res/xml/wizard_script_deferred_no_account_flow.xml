@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WizardScript wizard:version="2"
+  xmlns:wizard="http://schemas.android.com/apk/res/com.google.android.setupwizard">
+    <WizardAction wizard:uri="intent:#Intent;action=com.google.android.setupwizard.FINGERPRINT;end" id="no_account_fingerprint" />
+    <WizardAction wizard:uri="intent:#Intent;action=com.google.android.setupwizard.LOCK_SCREEN;end" id="no_account_lock_screen" />
+    <WizardAction wizard:uri="intent:#Intent;action=com.google.android.setupwizard.ASSIST_GESTURE;end" id="assist_gesture" />
+    <WizardAction wizard:uri="intent:#Intent;action=com.google.android.setupwizard.SUGGESTED_ACTIONS;end" id="no_account_suggested_actions" />
+    <WizardAction wizard:uri="intent:#Intent;action=com.google.android.setupwizard.FINAL_HOLD;end" id="no_account_final_hold" />
+</WizardScript>

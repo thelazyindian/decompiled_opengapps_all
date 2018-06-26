@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="tutorial_header">Horfðu á spjaldtölvuna til að taka hana úr lás.</string>
+    <string name="tutorial_info_text">"Hafðu þetta í huga:
+
+ "<li><ul>"Andlitssamsvörun er ekki jafnörugg leið og opnunarmynstur, PIN-númer eða aðgangsorð.
+
+ "<li>Einhver sem líkist þér gæti opnað spjaldtölvuna.</li>"
+
+ "<li>Gögnin sem notuð eru til að bera kennsl á andlit þitt eru vistuð á öruggum stað á spjaldtölvunni.</li>"
+
+ "</ul></li></string>
+    <string name="intro_info_text">" "<li><ul>"Finndu stað innanhúss sem hvorki er of bjartur né of dimmur.
+
+ "<li>Haltu spjaldtölvunni í augnhæð.</li>"
+
+ "</ul></li></string>
+    <string name="endscreen_bullet_one_text">Spjaldtölvan opnast um leið og hún ber kennsl á þig.</string>
+    <string name="endscreen_bullet_two_text">Ef spjaldtölvan ber ekki kennsl á andlit þitt geturðu opnað hana með mynstrinu, PIN-númerinu eða aðgangsorðinu þínu.</string>
+    <string name="addtosetup_info_text">"Dæmi:
+
+ "<li><ul>"Í mismunandi lýsingu
+
+ "<li>Með eða án gleraugna með styrk</li>"
+
+ "<li>Skeggjaður eða nýrakaður</li>"
+
+ "</ul></li>"
+Haltu spjaldtölvunni í augnhæð."</string>
+</resources>

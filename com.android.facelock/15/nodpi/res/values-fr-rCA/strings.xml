@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Visage de confiance</string>
+    <string name="receiver_app_name">"Récepteur de diffusion de l'application Visage de confiance"</string>
+    <string name="setup_app_name">Ajouter un visage de confiance</string>
+    <string name="enrollment_continue_label">Suivant</string>
+    <string name="enrollment_done_label">Terminé</string>
+    <string name="enrollment_initializing">Démarrage…</string>
+    <string name="enrollment_start_message">"Gardez votre visage à l'intérieur de la zone en pointillés"</string>
+    <string name="gar_preview_description">"Aperçu de l'appareil photo"</string>
+    <string name="error_no_face">Montrez votre visage.</string>
+    <string name="enrollment_missing_landmarks">Montrez vos yeux, votre nez et votre bouche</string>
+    <string name="enrollment_missing_landmarks_status">Impossible de distinguer vos traits.</string>
+    <string name="enrollment_off_center_status">Impossible de voir une partie de votre visage.</string>
+    <string name="gar_enrollment_face_added">Visage ajouté</string>
+    <string name="enrollment_done">OK</string>
+    <string name="tutorial_app_name">"À propos de l'application Visage de confiance"</string>
+    <string name="tutorial_header">Regardez votre téléphone pour le déverrouiller</string>
+    <string name="tutorial_info_text">"Veuillez tenir compte des points suivants :
+
+ "<li><ul>"Face Unlock est une méthode de déverrouillage moins sécuritaire qu'un schéma, un NIP ou un mot de passe.
+
+ "<li>Une personne qui vous ressemble peut déverrouiller votre téléphone.</li>"
+
+ "<li>Les données utilisées pour identifier votre visage sont conservées de manière confidentielle sur le téléphone.</li>"
+
+ "</ul></li></string>
+    <string name="tutorial_continue_label">Configurer</string>
+    <string name="intro_header">Pour obtenir de meilleurs résultats, veuillez procéder comme suit :</string>
+    <string name="intro_info_text">" "<li><ul>"Trouvez un endroit où il ne fait ni trop clair, ni trop sombre.
+
+"<li>Tenez le téléphone à hauteur des yeux.</li>"
+
+"</ul></li></string>
+    <string name="intro_continue_label">Suivant</string>
+    <string name="endscreen_header">Vous êtes prêt!</string>
+    <string name="endscreen_info_text">"Lorsque vous souhaitez déverrouiller votre appareil, il vous suffit d'activer l'écran et de pointer l'appareil photo vers votre visage."</string>
+    <string name="endscreen_bullet_one_text">"Votre téléphone se déverrouille dès qu'il vous reconnaît."</string>
+    <string name="endscreen_bullet_two_text">"Si votre téléphone ne reconnaît pas votre visage, vous pouvez le déverrouiller à l'aide de votre schéma, votre NIP ou votre mot de passe."</string>
+    <string name="endscreen_tip_text">Astuce : Vous pouvez améliorer la reconnaissance du visage en prenant des photos de vous dans différentes conditions.</string>
+    <string name="endscreen_continue_label">OK</string>
+    <string name="endscreen_license_label">Licences</string>
+    <string name="addtosetup_app_name">Améliorer la correspondance faciale</string>
+    <string name="addtosetup_header">Prenez-vous en photo dans différentes situations.</string>
+    <string name="addtosetup_info_text">"Exemples :
+
+"<li><ul>"Avec différents éclairages
+
+"<li>Avec ou sans lunettes de vue</li>"
+
+"<li>Avec une barbe ou bien rasé</li>"
+
+"</ul></li>"
+Tenez le téléphone à hauteur des yeux."</string>
+    <string name="addtosetup_continue_label">Suivant</string>
+    <string name="license_screen_header">Avis concernant les logiciels libres</string>
+    <string name="license_screen_continue_label">OK</string>
+    <string name="face_unlock_service_app_name">Service Déverrouillage par le visage</string>
+    <string name="trusted_face_service_app_name">Service Visage de confiance</string>
+    <string name="service_face_not_found">Impossible de trouver un visage.</string>
+    <string name="service_not_a_match">Désolé, je ne vous reconnais pas.</string>
+    <string name="service_liveliness_start">"Clignez de l'œil."</string>
+    <string name="service_liveliness_timeout">"Votre clin d'œil n'a pas été détecté."</string>
+    <string name="service_low_ligthing">"L'éclairage est trop faible."</string>
+    <string name="shared_initialize_error">Impossible de lancer la détection de votre visage</string>
+    <string name="shared_camera_error">"L'appareil photo n'est pas disponible"</string>
+    <string name="shared_read_gallery_error">"Veuillez recommencer l'étape de configuration."</string>
+    <string name="shared_cancel_label">Annuler</string>
+</resources>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="intro_screen_header">タブレットに顔を向けるとロックが解除されます</string>
+    <string name="intro_screen_body">"以下の点にご注意ください。
+
+ "<li><ul>"顔認識は、パターン、PIN、パスワードよりも安全面で劣ります
+
+ "<li>あなたによく似た誰かがタブレットのロックを解除できる場合があります</li>"
+
+ "<li>顔認識に使用されるデータはタブレット上にのみ保持されます</li> </ul></li></string>
+    <string name="instructions_screen_body">" "<li><ul>"屋内で明るすぎず暗すぎない場所を選びます
+
+ "<li>タブレットを目の高さに持ちます</li> </ul></li></string>
+    <string name="end_screen_body">タブレットのロックを解除するには、画面をオンにしてカメラに顔を向けます</string>
+    <string name="end_screen_bullet_one_text">顔を認識するとタブレットのロックがすぐに解除されます</string>
+    <string name="add_to_setup_intro_screen_body">"例:
+
+ "<li><ul>"明るさの違う場所
+
+ "<li>眼鏡をかけた顔とかけない顔</li>"
+
+ "<li>髭を生やした顔と剃った顔</li>"
+
+ "</ul></li>"
+ タブレットを目の高さに持ちます"</string>
+</resources>

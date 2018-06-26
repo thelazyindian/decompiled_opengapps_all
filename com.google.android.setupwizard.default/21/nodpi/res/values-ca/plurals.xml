@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="shutdown_countdown_text">
+        <item quantity="other">Es tancarà en %d segons...</item>
+        <item quantity="one">Es tancarà en 1 segon...</item>
+    </plurals>
+    <plurals name="sim_missing_title">
+        <item quantity="other">Inserir les targetes SIM</item>
+        <item quantity="one">Insereix la targeta SIM</item>
+    </plurals>
+    <plurals name="sim_missing_text_tablet">
+        <item quantity="other">Per inserir les targetes SIM, llegeix les instruccions que vas rebre amb la tauleta.</item>
+        <item quantity="one">Per inserir la targeta SIM, llegeix les instruccions que vas rebre amb la tauleta.</item>
+    </plurals>
+    <plurals name="sim_missing_text_device">
+        <item quantity="other">Per inserir les targetes SIM, llegeix les instruccions que vas rebre amb el dispositiu.</item>
+        <item quantity="one">Per inserir la targeta SIM, llegeix les instruccions que vas rebre amb el dispositiu.</item>
+    </plurals>
+    <plurals name="sim_missing_text_default">
+        <item quantity="other">Per inserir les targetes SIM, llegeix les instruccions que vas rebre amb el telèfon.</item>
+        <item quantity="one">Per inserir la targeta SIM, llegeix les instruccions que vas rebre amb el telèfon.</item>
+    </plurals>
+</resources>

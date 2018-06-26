@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="tutorial_header">Poglejte tablični računalnik, da ga odklenete.</string>
+    <string name="tutorial_info_text">"Upoštevajte naslednje:
+
+ "<li><ul>"Prepoznavanje obraza je manj varno kot vzorec, koda PIN ali geslo.
+
+ "<li>Tablični računalnik lahko odklene kdo, ki vam je podoben.</li>"
+
+ "<li>Podatki, ki se uporabljajo za prepoznavo obraza, so varno shranjeni v tabličnem računalniku.</li>"
+
+ "</ul></li></string>
+    <string name="intro_info_text">" "<li><ul>"Poiščite mesto v zaprtem prostoru – ne presvetlo in ne pretemno.
+
+ "<li>Držite tablični računalnik v višini oči.</li>"
+
+ "</ul></li></string>
+    <string name="endscreen_bullet_one_text">Tablični računalnik se odklene, takoj ko vas prepozna.</string>
+    <string name="endscreen_bullet_two_text">Če tablični računalnik ne prepozna vašega obraza, ga lahko odklenete z vzorcem, kodo PIN ali geslom.</string>
+    <string name="addtosetup_info_text">"Primeri:
+
+ "<li><ul>"Pri različni svetlobi
+
+ "<li>Z očali, ki jih uporabljate, ali brez njih</li>"
+
+ "<li>Z brado ali obriti</li>"
+
+ "</ul></li>"
+Držite tablični računalnik v višini oči."</string>
+</resources>

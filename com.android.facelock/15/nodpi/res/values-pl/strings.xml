@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Zaufana twarz</string>
+    <string name="receiver_app_name">Odbiornik transmisji Zaufanej twarzy</string>
+    <string name="setup_app_name">Dodaj zaufaną twarz</string>
+    <string name="enrollment_continue_label">Dalej</string>
+    <string name="enrollment_done_label">Gotowe</string>
+    <string name="enrollment_initializing">Uruchamianie...</string>
+    <string name="enrollment_start_message">Umieść twarz wewnątrz obszaru oznaczonego kropkami</string>
+    <string name="gar_preview_description">Podgląd z aparatu</string>
+    <string name="error_no_face">Pokaż swoją twarz</string>
+    <string name="enrollment_missing_landmarks">Pokaż oczy, nos i usta</string>
+    <string name="enrollment_missing_landmarks_status">Niedokładnie Cię widać.</string>
+    <string name="enrollment_off_center_status">Nie widać części twarzy</string>
+    <string name="gar_enrollment_face_added">Twarz została dodana</string>
+    <string name="enrollment_done">OK</string>
+    <string name="tutorial_app_name">Zaufana twarz – informacje</string>
+    <string name="tutorial_header">Spójrz na swój telefon, aby go odblokować.</string>
+    <string name="tutorial_info_text">"Pamiętaj:
+
+ "<li><ul>"Rozpoznawanie twarzy jest mniej bezpieczne niż wzór, PIN czy hasło.
+
+ "<li>Ktoś podobny do Ciebie może odblokować Twój telefon.</li>"
+
+ "<li>Dane używane do rozpoznawania twarzy są prywatne i znajdują się na telefonie.</li>"
+
+ "</ul></li></string>
+    <string name="tutorial_continue_label">Skonfiguruj</string>
+    <string name="intro_header">Aby uzyskać najlepsze wyniki:</string>
+    <string name="intro_info_text">" "<li><ul>"Znajdź pomieszczenie – nie za jasne ani nie za ciemne.
+
+ "<li>Przytrzymaj telefon na poziomie oczu.</li>"
+
+ "</ul></li></string>
+    <string name="intro_continue_label">Dalej</string>
+    <string name="endscreen_header">Wszystko gotowe</string>
+    <string name="endscreen_info_text">Gdy chcesz odblokować urządzenie, po prostu włącz ekran i pokaż twarz do kamery.</string>
+    <string name="endscreen_bullet_one_text">Telefon odblokuje się, gdy tylko Cię rozpozna.</string>
+    <string name="endscreen_bullet_two_text">Jeśli telefon nie rozpozna Twojej twarzy, możesz go odblokować, używając wzoru, kodu PIN lub hasła.</string>
+    <string name="endscreen_tip_text">Wskazówka: aby wykrywanie twarzy działało lepiej, pokaż ją w różnych warunkach.</string>
+    <string name="endscreen_continue_label">OK</string>
+    <string name="endscreen_license_label">Licencje</string>
+    <string name="addtosetup_app_name">Popraw rozpoznawanie twarzy</string>
+    <string name="addtosetup_header">Pokaż, jak wyglądasz w różnych warunkach.</string>
+    <string name="addtosetup_info_text">"Przykłady:
+
+ "<li><ul>"Różne warunki oświetleniowe
+
+ "<li>Z okularami i bez nich</li>"
+
+ "<li>Ogolony lub z brodą</li>"
+
+ "</ul></li>"
+Przytrzymaj telefon na poziomie oczu."</string>
+    <string name="addtosetup_continue_label">Dalej</string>
+    <string name="license_screen_header">Informacje o oprogramowaniu open source</string>
+    <string name="license_screen_continue_label">OK</string>
+    <string name="face_unlock_service_app_name">Usługa Rozpoznawania twarzy</string>
+    <string name="trusted_face_service_app_name">Usługa Zaufanej twarzy</string>
+    <string name="service_face_not_found">Nie można znaleźć twarzy.</string>
+    <string name="service_not_a_match">Wybacz, nie poznaję Cię.</string>
+    <string name="service_liveliness_start">Mrugnij teraz</string>
+    <string name="service_liveliness_timeout">Nie wykryto mrugnięcia</string>
+    <string name="service_low_ligthing">Słabe oświetlenie</string>
+    <string name="shared_initialize_error">Nie można zacząć wyszukiwania Twojej twarzy</string>
+    <string name="shared_camera_error">Aparat jest niedostępny</string>
+    <string name="shared_read_gallery_error">Powtórz konfigurację.</string>
+    <string name="shared_cancel_label">Anuluj</string>
+</resources>

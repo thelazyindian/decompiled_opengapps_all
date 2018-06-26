@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="shutdown_countdown_text">
+        <item quantity="other">ກຳ​ລັງ​ຈະ​ຖືກ​ປິດ​ໃນ​ອີກ %d ວິ​ນາ​ທີ…</item>
+        <item quantity="one">ກຳລັງຈະຖືກປິດໃນອີກ 1 ວິນາທີ...</item>
+    </plurals>
+    <plurals name="sim_missing_title">
+        <item quantity="other">ສຽບແຜ່ນ SIM ໃສ່</item>
+        <item quantity="one">ສຽບແຜ່ນ SIM ໃສ່</item>
+    </plurals>
+    <plurals name="sim_missing_text_tablet">
+        <item quantity="other">ບໍ່ແນ່ໃຈວ່າເປັນແນວໃດ? ກວດ​ເບິ່ງ​ຄູ່​ມືແນະນຳທີ່ມາກັບແທັບ​ເລັດຂອງທ່ານ.</item>
+        <item quantity="one">ບໍ່ແນ່ໃຈວ່າເປັນແນວໃດ? ກວດ​ເບິ່ງ​ຄູ່​ມືແນະນຳທີ່ມາກັບແທັບ​ເລັດຂອງທ່ານ.</item>
+    </plurals>
+    <plurals name="sim_missing_text_device">
+        <item quantity="other">ບໍ່ແນ່ໃຈວ່າເປັນແນວໃດ? ກວດ​ເບິ່ງ​ຄູ່​ມືແນະນຳທີ່ມາກັບອຸ​ປະ​ກອນຂອງທ່ານ.</item>
+        <item quantity="one">ບໍ່ແນ່ໃຈວ່າເປັນແນວໃດ? ກວດ​ເບິ່ງ​ຄູ່​ມືແນະນຳທີ່ມາກັບອຸ​ປະ​ກອນຂອງທ່ານ.</item>
+    </plurals>
+    <plurals name="sim_missing_text_default">
+        <item quantity="other">ບໍ່ແນ່ໃຈວ່າເປັນແນວໃດ? ກວດ​ເບິ່ງ​ຄູ່​ມືແນະນຳທີ່ມາກັບໂທ​ລະ​ສັບຂອງທ່ານ.</item>
+        <item quantity="one">ບໍ່ແນ່ໃຈວ່າເປັນແນວໃດ? ກວດ​ເບິ່ງ​ຄູ່​ມືແນະນຳທີ່ມາກັບໂທ​ລະ​ສັບຂອງທ່ານ.</item>
+    </plurals>
+    <plurals name="walled_garden_check_timeout_text">
+        <item quantity="other">ອັນ​ນີ້​ອາດ​ໃຊ້​ເວ​ລາ​ເຖິງ %d ​ນາ​ທີ</item>
+        <item quantity="one">ອັນ​ນີ້​ອາດ​ໃຊ້​ເວ​ລາ​ເຖິງ %d ​ນາ​ທີ</item>
+    </plurals>
+</resources>

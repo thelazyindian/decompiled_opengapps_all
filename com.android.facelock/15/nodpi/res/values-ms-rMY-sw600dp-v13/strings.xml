@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="tutorial_header">Pandang tablet anda untuk membuka kuncinya.</string>
+    <string name="tutorial_info_text">"Sentiasa ingat perkara ini:
+
+ "<li><ul>"Pemadanan wajah adalah kurang selamat berbanding corak, PIN atau kata laluan.
+
+ "<li>Seseorang yang kelihatan seperti anda boleh membuka kunci tablet anda.</li>"
+
+ "<li>Data yang digunakan untuk mengecam wajah anda disimpan secara sulit pada tablet.</li>"
+
+ "</ul></li></string>
+    <string name="intro_info_text">" "<li><ul>"Cari tempat dalam bangunan--tidak terlalu terang atau terlalu malap.
+
+ "<li>Pegang tablet pada paras mata.</li>"
+
+ "</ul></li></string>
+    <string name="endscreen_bullet_one_text">Tablet anda dibuka kunci sebaik sahaja mengecam anda.</string>
+    <string name="endscreen_bullet_two_text">Jika tablet anda tidak mengecam muka anda, anda boleh membuka kunci dengan corak, PIN atau kata laluan anda.</string>
+    <string name="addtosetup_info_text">"Contoh:
+
+ "<li><ul>"Dalam pencahayaan yang berbeza
+
+ "<li>Dengan atau tanpa kaca mata preskripsi </li>"
+
+ "<li>Berjanggut atau bercukur licin</li>"
+
+ "</ul></li>"
+Pegang tablet pada paras mata."</string>
+</resources>

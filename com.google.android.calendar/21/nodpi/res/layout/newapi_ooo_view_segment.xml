@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <com.google.android.calendar.tiles.view.TextTileView android:id="@id/auto_decline_status_tile" android:layout_width="fill_parent" android:layout_height="wrap_content" app:tile_icon="@drawable/quantum_ic_event_busy_grey600_24" app:tile_dense_mode="false" />
+    <com.google.android.calendar.tiles.view.TextTileView android:id="@id/auto_reply_status_tile" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" app:tile_icon="@drawable/quantum_ic_mail_grey600_24" app:tile_dense_mode="false" app:tile_primary_text="@string/ooo_auto_reply_enabled" />
+</merge>

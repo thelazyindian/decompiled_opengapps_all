@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="shutdown_countdown_text">
+        <item quantity="other">%d வினாடிகளில் முடக்கப்படும்…</item>
+        <item quantity="one">1 வினாடியில் முடக்கப்படும்…</item>
+    </plurals>
+    <plurals name="sim_missing_title">
+        <item quantity="other">சிம் கார்டுகளைச் செருகவும்</item>
+        <item quantity="one">சிம் கார்டைச் செருகவும்</item>
+    </plurals>
+    <plurals name="sim_missing_text_tablet">
+        <item quantity="other">எப்படி எனத் தெரியவில்லையா? உங்கள் டேப்லெட்டுடன் வழங்கப்பட்ட வழிமுறைகளைப் பார்க்கவும்.</item>
+        <item quantity="one">எப்படி எனத் தெரியவில்லையா? உங்கள் டேப்லெட்டுடன் வழங்கப்பட்ட வழிமுறைகளைப் பார்க்கவும்.</item>
+    </plurals>
+    <plurals name="sim_missing_text_device">
+        <item quantity="other">எப்படி எனத் தெரியவில்லையா? உங்கள் சாதனத்துடன் வழங்கப்பட்ட வழிமுறைகளைப் பார்க்கவும்.</item>
+        <item quantity="one">எப்படி எனத் தெரியவில்லையா? உங்கள் சாதனத்துடன் வழங்கப்பட்ட வழிமுறைகளைப் பார்க்கவும்.</item>
+    </plurals>
+    <plurals name="sim_missing_text_default">
+        <item quantity="other">எப்படி எனத் தெரியவில்லையா? உங்கள் மொபைலுடன் வழங்கப்பட்ட வழிமுறைகளைப் பார்க்கவும்.</item>
+        <item quantity="one">எப்படி எனத் தெரியவில்லையா? உங்கள் மொபைலுடன் வழங்கப்பட்ட வழிமுறைகளைப் பார்க்கவும்.</item>
+    </plurals>
+    <plurals name="walled_garden_check_timeout_text">
+        <item quantity="other">இதற்கு %d நிமிடங்கள் வரை ஆகலாம்</item>
+        <item quantity="one">இதற்கு %d நிமிடம் வரை ஆகலாம்</item>
+    </plurals>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.android.setupwizardlib.GlifLayout android:icon="@drawable/ic_mobile_data" android:id="@id/setup_wizard_layout" android:layout_width="fill_parent" android:layout_height="fill_parent" app:suwHeaderText="@string/activation_title"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <FrameLayout android:layout_width="fill_parent" android:layout_height="wrap_content" android:animateLayoutChanges="true" style="@style/SuwContentFrame">
+        <TextView android:id="@id/activation_text" android:visibility="invisible" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/activation_progress_flow" style="@style/SuwDescription.Glif" />
+    </FrameLayout>
+</com.android.setupwizardlib.GlifLayout>

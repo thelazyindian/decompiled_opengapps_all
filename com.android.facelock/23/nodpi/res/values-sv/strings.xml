@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Trusted Face</string>
+    <string name="trusted_face_service_app_name">Trusted Face-tjänsten</string>
+    <string name="receiver_app_name">Sändningsmottagare för Trusted Face</string>
+    <string name="setup_app_name">Lägg till ett betrott ansikte</string>
+    <string name="add_to_setup_app_name">Förbättra ansiktsmatchningen</string>
+    <string name="intro_screen_title">Om betrodda ansikten</string>
+    <string name="intro_screen_header">Lås upp mobilen genom att titta på den</string>
+    <string name="intro_screen_body">"Kom ihåg:
+
+ "<li><ul>"Ansiktsmatchningen är inte lika säker som mönster, pinkoder och lösenord
+
+ "<li>Någon som är lik dig kan låsa upp mobilen</li>"
+
+ "<li>Den data som används för att känna igen ditt ansikte är privat och finns på din mobil</li> </ul></li></string>
+    <string name="intro_screen_continue_label">Konfigurera</string>
+    <string name="instructions_screen_title">Lägg till ett betrott ansikte</string>
+    <string name="instructions_screen_header">För bästa resultat:</string>
+    <string name="instructions_screen_body">" "<li><ul>"Hitta en plats inomhus med lagom belysning – varken för ljus eller för mörk
+
+ "<li>Håll mobilen i ögonhöjd</li> </ul></li></string>
+    <string name="instructions_screen_continue_label">Nästa</string>
+    <string name="enrollment_screen_message_initializing">Startar ...</string>
+    <string name="enrollment_screen_message_initialization_error">Det gick inte att börja leta efter ditt ansikte</string>
+    <string name="enrollment_screen_message_camera_error">Kameran är inte tillgänglig</string>
+    <string name="enrollment_start_message">Håll ansiktet innanför det streckade området</string>
+    <string name="enrollment_screen_message_instructions">Se till att hela huvudet är innanför cirkeln</string>
+    <string name="enrollment_screen_message_missing_landmarks">Visa ögon, näsa och mun</string>
+    <string name="enrollment_screen_message_done">Ansiktet har lagts till</string>
+    <string name="enrollment_screen_status_no_face">Visa ditt ansikte</string>
+    <string name="enrollment_screen_status_face_off_center">Hela ditt ansikte syns inte</string>
+    <string name="enrollment_screen_status_missing_landmarks">Vissa ansiktsdrag syns inte</string>
+    <string name="enrollment_screen_continue_label">Nästa</string>
+    <string name="enrollment_screen_done_label">Klar</string>
+    <string name="enrollment_screen_talkback_preview_description">Förhandsgranska i kameran</string>
+    <string name="enrollment_screen_talkback_face_added">Ansiktet har lagts till</string>
+    <string name="end_screen_title">Klart!</string>
+    <string name="end_screen_body">Om du vill låsa upp mobilen aktiverar du skärmen och tittar på kameran</string>
+    <string name="end_screen_bullet_one_text">När mobilen känner igen ditt ansikte låses den upp</string>
+    <string name="end_screen_bullet_two_text">Om ditt ansikte inte kan identifieras kan du låsa upp med ditt mönster, pinkoden eller lösenordet istället</string>
+    <string name="end_screen_tip_text">Tips! Förbättra ansiktsmatchningen genom att visa hur du ser ut under olika omständigheter.</string>
+    <string name="end_screen_licenses_label">Licenser</string>
+    <string name="end_screen_continue_label">Klar</string>
+    <string name="add_to_setup_intro_screen_title">Förbättra ansiktsmatchningen</string>
+    <string name="add_to_setup_intro_screen_header">Visa hur du ser ut under olika omständigheter</string>
+    <string name="add_to_setup_intro_screen_body">"Exempel:
+
+ "<li><ul>"I olika belysning
+
+ "<li>Med eller utan glasögon</li>"
+
+ "<li>Med eller utan skägg</li>"
+
+ "</ul></li>"
+ Håll mobilen i ögonhöjd"</string>
+    <string name="add_to_setup_intro_screen_continue_label">Nästa</string>
+    <string name="license_screen_header">Meddelanden om öppen källkod</string>
+    <string name="license_screen_continue_label">OK</string>
+    <string name="shared_cancel_label">Avbryt</string>
+</resources>

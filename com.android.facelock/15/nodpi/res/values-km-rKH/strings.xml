@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ទម្រង់​មុខ​​ដែល​ជឿ​ទុកចិត្ត</string>
+    <string name="receiver_app_name">កម្មវិធី​ទទួល​​ការ​ផ្សាយ​ទម្រង់​មុខ​ដែល​ជឿ​ទុកចិត្ត</string>
+    <string name="setup_app_name">បន្ថែម​ទម្រង់​ដែល​ទុក​ចិត្ត</string>
+    <string name="enrollment_continue_label">បន្ទាប់</string>
+    <string name="enrollment_done_label">រួចរាល់</string>
+    <string name="enrollment_initializing">កំពុង​ចាប់ផ្ដើម…</string>
+    <string name="enrollment_start_message">ដាក់​​ទម្រង់​មុខ​ក្នុង​ផ្ទៃ​មាន​ចំណុច</string>
+    <string name="gar_preview_description">ការ​មើល​ជាមុន​របស់​ម៉ាស៊ីន​ថត</string>
+    <string name="error_no_face">បង្ហាញ​ទម្រង់​មុខ​របស់​អ្នក</string>
+    <string name="enrollment_missing_landmarks">បង្ហាញ​​​ភ្នែក, ​ច្រមុះ​ និង​មាត់</string>
+    <string name="enrollment_missing_landmarks_status">មិន​អាច​ឃើញ​លក្ខណៈ​របស់​អ្នក</string>
+    <string name="enrollment_off_center_status">មិន​អាច​ឃើញ​ផ្នែក​នៃ​ទម្រង់​មុខ​របស់​អ្នក</string>
+    <string name="gar_enrollment_face_added">បាន​បន្ថែម​មុខ</string>
+    <string name="enrollment_done">យល់​ហើយ</string>
+    <string name="tutorial_app_name">អំពី​ទម្រង់​​មុខ​ដែល​ជឿ​ទុកចិត្ត</string>
+    <string name="tutorial_header">សម្លឹង​មើល​ទូរស័ព្ទ​របស់​អ្នក ដើម្បី​ដោះ​សោ។</string>
+    <string name="tutorial_info_text">"ចងចាំ​ក្នុង​ចិត្ត៖
+
+ "<li><ul>"ការផ្គូផ្គង​មុខ​មាន​សុវត្ថិភាព​តិច​ជាង​លំនាំ, កូដ PIN ឬ​ពាក្យ​សម្ងាត់។
+
+ "<li>អ្នក​ណា​ម្នាក់​ដែល​មាន​ទម្រង់​មុខ​ដូច​អ្នក​អាច​ដោះ​សោ​ទូរស័ព្ទ​របស់​អ្នក​បាន។</li>"
+
+ "<li>ទិន្នន័យ​បាន​ប្រើ​ដើម្បី​ស្គាល់​ទម្រង់​មុខ​របស់​អ្នក​ត្រូវ​បាន​រក្សាទុក​ជា​ឯកជន​ក្នុង​​ទូរស័ព្ទ។</li>"
+
+ "</ul></li></string>
+    <string name="tutorial_continue_label">រៀបចំ</string>
+    <string name="intro_header">ដើម្បី​​បាន​​លទ្ធផល​ល្អ​បំផុត៖</string>
+    <string name="intro_info_text">" "<li><ul>"រក​កន្លែង​មាន​ពន្លឺ—មិន​ភ្លឺ ឬ​ងងឹត​ពេក។
+
+ "<li>ដាក់​ទូរស័ព្ទ​របស់​អ្នក​នៅ​កម្រិត​ភ្នែក។</li>"
+
+ "</ul></li></string>
+    <string name="intro_continue_label">បន្ទាប់</string>
+    <string name="endscreen_header">បាន​កំណត់​ទាំងអស់!</string>
+    <string name="endscreen_info_text">ពេល​អ្នក​ចង់​ដោះ​សោ, អ្នក​គ្រាន់តែ​បើក​អេក្រង់​ហើយ​បង្ហាញ​ទម្រង់​មុខ​​របស់​អ្នក​ទៅ​ម៉ាស៊ីន​ថត។</string>
+    <string name="endscreen_bullet_one_text">ទូរស័ព្ទ​របស់​អ្នក​នឹង​ដោះ​សោ​ភ្លាម នៅ​ពេល​វា​ស្គាល់​អ្នក។</string>
+    <string name="endscreen_bullet_two_text">បើ​ទូរស័ព្ទ​អ្នក​មិន​ស្គាល់​​ទម្រង់​មុខ​​របស់​អ្នក​ទេ អ្នក​អាច​ដោះ​សោ​វា​ដោយ​ប្រើ​លំនាំ, កូដ PIN ឬ​ពាក្យ​សម្ងាត់។</string>
+    <string name="endscreen_tip_text">ព័ត៌មាន​ជំនួយ៖ បង្កើន​ការ​ស្គាល់​​ទម្រង់​មុខ​ដោយ​បង្ហាញ​លក្ខណៈ​​ក្នុង​លក្ខខណ្ឌ​ផ្សេង។</string>
+    <string name="endscreen_continue_label">យល់​ព្រម​</string>
+    <string name="endscreen_license_label">អាជ្ញាប័ណ្ណ</string>
+    <string name="addtosetup_app_name">បង្កើន​ការ​ផ្គូផ្គង​ទម្រង់​មុខ</string>
+    <string name="addtosetup_header">បង្ហាញ​ទម្រង់​មុខ​ក្នុង​លក្ខខណ្ឌ​ខុស​ៗ​គ្នា។</string>
+    <string name="addtosetup_info_text">"ឧទាហរណ៍៖
+
+ "<li><ul>"នៅ​កន្លែង​មាន​ពន្លឺ​ខុស​គ្នា
+
+ "<li>មាន​ ឬ​គ្មាន​វ៉ែនតា</li>"
+
+ "<li>មាន​ ឬ​គ្មាន​ពុកមាត់</li>"
+
+ "</ul></li>"
+ដាក់​​ទូរស័ព្ទ​​នៅ​កម្រិត​ភ្នែក​របស់​អ្នក។"</string>
+    <string name="addtosetup_continue_label">បន្ទាប់</string>
+    <string name="license_screen_header">ការ​​ជូនដំណឹង​កម្មវិធី​ប្រភព​បើក​ចំហ</string>
+    <string name="license_screen_continue_label">យល់ព្រម</string>
+    <string name="face_unlock_service_app_name">សេវាកម្ម​ដោះ​សោ​តាម​ទម្រង់​មុខ</string>
+    <string name="trusted_face_service_app_name">សេវាកម្ម​​​តាម​ទម្រង់​មុខ​ដែល​ទុកចិត្ត</string>
+    <string name="service_face_not_found">រក​មិន​ឃើញ​ទម្រង់​មុខ</string>
+    <string name="service_not_a_match">សូម​ទោស មិន​ស្គាល់​អ្នក​ទេ</string>
+    <string name="service_liveliness_start">ព្រិច​​​ភ្នែក​ឥឡូវ</string>
+    <string name="service_liveliness_timeout">កុំ​ចាប់​យក​ការ​ព្រិច​ភ្នែក​របស់​អ្នក</string>
+    <string name="service_low_ligthing">ពន្លឺ​តិច​ពេក</string>
+    <string name="shared_initialize_error">មិន​អាច​ចាប់ផ្ដើម​ស្វែងរក​ទម្រង់​​មុខ​របស់​អ្នក</string>
+    <string name="shared_camera_error">ម៉ាស៊ីន​ថត​មិន​អាច​ប្រើ​បាន</string>
+    <string name="shared_read_gallery_error">សូម​កំណត់​ឡើងវិញ</string>
+    <string name="shared_cancel_label">បោះ​បង់​</string>
+</resources>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Розпізнавання облич</string>
+    <string name="trusted_face_service_app_name">Сервіс Розпізнавання облич</string>
+    <string name="receiver_app_name">Trusted Face Broadcast Receiver</string>
+    <string name="setup_app_name">Додати знімок обличчя</string>
+    <string name="add_to_setup_app_name">Покращити розпізнавання</string>
+    <string name="intro_screen_title">Про розпізнавання облич</string>
+    <string name="intro_screen_header">Щоб розблокувати телефон, подивіться в камеру</string>
+    <string name="intro_screen_body">"Пам’ятайте:
+
+ "<li><ul>"функція \"Фейсконтроль\" менш безпечна, ніж ключ, PIN-код чи пароль;
+
+ "<li>схожа на вас людина зможе розблокувати ваш телефон;</li>"
+
+ "<li>дані, які використовуються для розпізнавання вашого обличчя, зберігаються в таємниці у вашому телефоні.</li> </ul></li></string>
+    <string name="intro_screen_continue_label">Налаштувати</string>
+    <string name="instructions_screen_title">Додати знімок обличчя</string>
+    <string name="instructions_screen_header">Щоб отримати кращі результати:</string>
+    <string name="instructions_screen_body">" "<li><ul>"Знайдіть у приміщенні місце, де не надто світло та не надто темно
+
+ "<li>Тримайте телефон на рівні очей</li> </ul></li></string>
+    <string name="instructions_screen_continue_label">Далі</string>
+    <string name="enrollment_screen_message_initializing">Запуск…</string>
+    <string name="enrollment_screen_message_initialization_error">Не вдалося почати пошук обличчя</string>
+    <string name="enrollment_screen_message_camera_error">Камера недоступна</string>
+    <string name="enrollment_start_message">Ваше обличчя має бути в області, позначеній пунктирною лінією</string>
+    <string name="enrollment_screen_message_instructions">Обличчя має бути в колі</string>
+    <string name="enrollment_screen_message_missing_landmarks">Не видно очі, ніс або рот</string>
+    <string name="enrollment_screen_message_done">Обличчя додано</string>
+    <string name="enrollment_screen_status_no_face">Не видно обличчя</string>
+    <string name="enrollment_screen_status_face_off_center">Не видно частину обличчя</string>
+    <string name="enrollment_screen_status_missing_landmarks">Не видно риси обличчя</string>
+    <string name="enrollment_screen_continue_label">Далі</string>
+    <string name="enrollment_screen_done_label">Готово</string>
+    <string name="enrollment_screen_talkback_preview_description">Попередній перегляд зображення з камери</string>
+    <string name="enrollment_screen_talkback_face_added">Обличчя додано</string>
+    <string name="end_screen_title">Готово!</string>
+    <string name="end_screen_body">Щоб розблокувати телефон, просто ввімкніть екран і подивіться в камеру</string>
+    <string name="end_screen_bullet_one_text">Телефон розблокується, коли розпізнає вас</string>
+    <string name="end_screen_bullet_two_text">Якщо пристрій не розпізнає ваше обличчя, його можна розблокувати за допомогою ключа, PIN-коду або пароля</string>
+    <string name="end_screen_tip_text">Порада: зробіть знімки свого обличчя в різних умовах, щоб покращити розпізнавання</string>
+    <string name="end_screen_licenses_label">Ліцензії</string>
+    <string name="end_screen_continue_label">Готово</string>
+    <string name="add_to_setup_intro_screen_title">Покращити розпізнавання</string>
+    <string name="add_to_setup_intro_screen_header">Зробіть знімки свого обличчя в різних умовах</string>
+    <string name="add_to_setup_intro_screen_body">"Приклади:
+
+ "<li><ul>"у різному освітленні
+
+ "<li>в окулярах чи без</li>"
+
+ "<li>з бородою чи без</li>"
+
+ "</ul></li>"
+ Тримайте телефон на рівні очей"</string>
+    <string name="add_to_setup_intro_screen_continue_label">Далі</string>
+    <string name="license_screen_header">Сповіщення про відкритий код</string>
+    <string name="license_screen_continue_label">ОК</string>
+    <string name="shared_cancel_label">Скасувати</string>
+</resources>

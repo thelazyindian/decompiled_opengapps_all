@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Chip de încredere</string>
+    <string name="receiver_app_name">Receptor difuzare pentru Chip de încredere</string>
+    <string name="setup_app_name">Adăugați un chip de încredere</string>
+    <string name="enrollment_continue_label">Înainte</string>
+    <string name="enrollment_done_label">Terminat</string>
+    <string name="enrollment_initializing">Porneşte...</string>
+    <string name="enrollment_start_message">Încadrați-vă fața în zona punctată</string>
+    <string name="gar_preview_description">Previzualizare pe camera foto</string>
+    <string name="error_no_face">Expuneţi faţa</string>
+    <string name="enrollment_missing_landmarks">Arătați ochii, nasul și gura</string>
+    <string name="enrollment_missing_landmarks_status">Nu vă pot vedea trăsăturile</string>
+    <string name="enrollment_off_center_status">O parte a feţei dvs. nu se poate vedea</string>
+    <string name="gar_enrollment_face_added">Față adăugată</string>
+    <string name="enrollment_done">Am înțeles</string>
+    <string name="tutorial_app_name">Despre Chip de încredere</string>
+    <string name="tutorial_header">Priviţi telefonul pentru a-l debloca.</string>
+    <string name="tutorial_info_text">"Rețineți următoarele:
+
+ "<li><ul>"recunoașterea facială este mai puțin sigură decât un șablon, un PIN sau o parolă.
+
+ "<li>Cineva care seamănă cu dvs. vă poate debloca telefonul.</li>"
+
+ "<li>Datele folosite pentru a vă recunoaște fața sunt păstrate pe telefon în condiții de confidențialitate.</li>"
+
+ "</ul></li></string>
+    <string name="tutorial_continue_label">Configurați</string>
+    <string name="intro_header">Pentru rezultate optime:</string>
+    <string name="intro_info_text">" "<li><ul>"Căutaţi un spaţiu interior cu iluminare moderată - nici prea luminos, dar nici prea întunecat.
+
+ "<li>Țineţi telefonul la nivelul ochilor.</li>"
+
+ "</ul></li></string>
+    <string name="intro_continue_label">Înainte</string>
+    <string name="endscreen_header">Gata!</string>
+    <string name="endscreen_info_text">Când doriți să deblocați telefonul, porniți ecranul și îndreptați fața către camera foto.</string>
+    <string name="endscreen_bullet_one_text">Telefonul se deblochează imediat ce vă recunoaște.</string>
+    <string name="endscreen_bullet_two_text">Dacă telefonul nu vă recunoaște fața, îl puteți debloca utilizând modelul, codul PIN sau parola.</string>
+    <string name="endscreen_tip_text">Sfat: îmbunătățiți capacitatea de recunoaștere a feței indicând aspectele feței în diferite situații.</string>
+    <string name="endscreen_continue_label">OK</string>
+    <string name="endscreen_license_label">Licenţe</string>
+    <string name="addtosetup_app_name">Îmbunătățiți recunoașterea feței</string>
+    <string name="addtosetup_header">Arătați-vă în condiții diferite.</string>
+    <string name="addtosetup_info_text">"Exemple:
+
+ "<li><ul>"în condiţii de iluminare diferită;
+
+ "<li>cu sau fără ochelari de vedere;</li>"
+
+ "<li>cu barbă sau proaspăt bărbierit.</li>"
+
+ "</ul></li>"
+Țineţi telefonul la nivelul ochilor."</string>
+    <string name="addtosetup_continue_label">Înainte</string>
+    <string name="license_screen_header">Note Open Source</string>
+    <string name="license_screen_continue_label">OK</string>
+    <string name="face_unlock_service_app_name">Serviciul Deblocare facială</string>
+    <string name="trusted_face_service_app_name">Serviciul Chip de încredere</string>
+    <string name="service_face_not_found">Nu s-a putut găsi o faţă</string>
+    <string name="service_not_a_match">Îmi pare rău, nu vă recunosc</string>
+    <string name="service_liveliness_start">Clipiţi acum</string>
+    <string name="service_liveliness_timeout">Nu s-a putut înregistra clipirea</string>
+    <string name="service_low_ligthing">Lumina este prea slabă</string>
+    <string name="shared_initialize_error">Nu s-a putut iniția detectarea feței</string>
+    <string name="shared_camera_error">Camera foto nu este disponibilă</string>
+    <string name="shared_read_gallery_error">Repetaţi configurarea</string>
+    <string name="shared_cancel_label">Anulaţi</string>
+</resources>

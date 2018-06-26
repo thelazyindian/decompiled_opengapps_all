@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Αξιόπιστο πρόσωπο</string>
+    <string name="trusted_face_service_app_name">Υπηρεσία αξιόπιστου προσώπου</string>
+    <string name="receiver_app_name">Δέκτης μετάδοσης αξιόπιστου προσώπου</string>
+    <string name="setup_app_name">Προσθήκη αξ/στου πρ/που</string>
+    <string name="add_to_setup_app_name">Βελτίωση αντ/σης προσ/πων</string>
+    <string name="intro_screen_title">Σχετικά με το αξιόπιστο πρόσωπο</string>
+    <string name="intro_screen_header">Ξεκλειδώστε το τηλέφωνό σας απλώς κοιτώντας το</string>
+    <string name="intro_screen_body">"Μην ξεχνάτε:
+
+ "<li><ul>"Η αντιστοίχιση προσώπου είναι λιγότερο ασφαλής από ό,τι ένα μοτίβο, ένας κωδικός PIN ή ένας κωδικός πρόσβασης
+
+ "<li>Κάποιος που σας μοιάζει μπορεί να ξεκλειδώσει το τηλέφωνό σας</li>"
+
+ "<li>Τα δεδομένα που χρησιμοποιούνται για την αναγνώριση του προσώπου σας διατηρούνται ιδιωτικά στο τηλέφωνό σας σας</li> </ul></li></string>
+    <string name="intro_screen_continue_label">Ρύθμιση</string>
+    <string name="instructions_screen_title">Προσθήκη αξιόπιστου προσώπου</string>
+    <string name="instructions_screen_header">Για τα καλύτερα δυνατά αποτελέσματα:</string>
+    <string name="instructions_screen_body">" "<li><ul>"Βρείτε κάποιο σημείο σε έναν εσωτερικό χώρο που να μην είναι πολύ φωτεινό ή πολύ σκοτεινό
+
+ "<li>Κρατήστε το τηλέφωνο στο ύψος των ματιώνl</li> </ul></li></string>
+    <string name="instructions_screen_continue_label">Επόμενο</string>
+    <string name="enrollment_screen_message_initializing">Εκκίνηση…</string>
+    <string name="enrollment_screen_message_initialization_error">Δεν ήταν δυνατή η έναρξη της εύρεσης του προσώπου σας</string>
+    <string name="enrollment_screen_message_camera_error">Η κάμερα δεν είναι διαθέσιμη</string>
+    <string name="enrollment_start_message">Διατηρήστε το πρόσωπο εντός της περιοχής με τις τελείες</string>
+    <string name="enrollment_screen_message_instructions">Κρατήστε την κορυφή του κεφαλιού σας και το κάτω μέρος του πιγουνιού σας μέσα στον κύκλο</string>
+    <string name="enrollment_screen_message_missing_landmarks">Εμφάνιση ματιών, μύτης και στόματος</string>
+    <string name="enrollment_screen_message_done">Προστέθηκε πρόσωπο</string>
+    <string name="enrollment_screen_status_no_face">Δείξτε το πρόσωπό σας</string>
+    <string name="enrollment_screen_status_face_off_center">Δεν μπορεί να φανεί μέρος του προσώπου σας</string>
+    <string name="enrollment_screen_status_missing_landmarks">Δεν είναι δυνατή η εμφάνιση των χαρακτηριστικών σας</string>
+    <string name="enrollment_screen_continue_label">Επόμενο</string>
+    <string name="enrollment_screen_done_label">Τέλος</string>
+    <string name="enrollment_screen_talkback_preview_description">Προεπισκόπηση φωτογραφικής μηχανής</string>
+    <string name="enrollment_screen_talkback_face_added">Προστέθηκε πρόσωπο</string>
+    <string name="end_screen_title">Όλα είναι έτοιμα!</string>
+    <string name="end_screen_body">Για να ξεκλειδώσετε το τηλέφωνό σας, γείρετε απλώς την οθόνη και κοιτάξτε την κάμερα.</string>
+    <string name="end_screen_bullet_one_text">Το τηλέφωνό σας θα ξεκλειδώσει μόλις σας αναγνωρίσει.</string>
+    <string name="end_screen_bullet_two_text">Εάν δεν αναγνωριστεί το πρόσωπό σας, μπορείτε να το ξεκλειδώσετε με το μοτίβο σας, το PIN ή τον κωδικό πρόσβασής σας.</string>
+    <string name="end_screen_tip_text">Συμβουλή: Βελτιώστε την αντιστοίχιση προσώπου τραβώντας φωτογραφίες σας σε διαφορετικές συνθήκες</string>
+    <string name="end_screen_licenses_label">Δικαιώματα</string>
+    <string name="end_screen_continue_label">Τέλος</string>
+    <string name="add_to_setup_intro_screen_title">Βελτίωση αντ/σης προσ/πων</string>
+    <string name="add_to_setup_intro_screen_header">Τραβήξτε το πρόσωπό σας σε διαφορετικές συνθήκες</string>
+    <string name="add_to_setup_intro_screen_body">"Παραδείγματα:
+
+ "<li><ul>"Σε διαφορετικό φωτισμό
+
+ "<li>Με ή χωρίς γυαλιά</li>"
+
+ "<li>Με ή χωρίς γένια</li>"
+
+ "</ul></li>"
+ Κρατήστε το τηλέφωνο στο ύψος των ματιών σας"</string>
+    <string name="add_to_setup_intro_screen_continue_label">Επόμενο</string>
+    <string name="license_screen_header">Ειδοποιήσεις λογισμικού ανοικτού κώδικα</string>
+    <string name="license_screen_continue_label">ΟΚ</string>
+    <string name="shared_cancel_label">Ακύρωση</string>
+</resources>

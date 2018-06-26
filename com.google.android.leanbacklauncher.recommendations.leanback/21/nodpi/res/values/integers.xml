@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="google_play_services_version">6776000</integer>
+    <integer name="install_fade_period_days">15</integer>
+    <integer name="max_recommendations_per_app">10</integer>
+</resources>

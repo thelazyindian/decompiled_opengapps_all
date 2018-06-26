@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="shutdown_countdown_text">
+        <item quantity="other">Zariadenie sa o %d sekúnd vypne…</item>
+        <item quantity="one">Zariadenie sa o 1 sekundu vypne…</item>
+        <item quantity="few">Zariadenie sa o %d sekundy vypne…</item>
+        <item quantity="many">Zariadenie sa o %d sekundy vypne…</item>
+    </plurals>
+    <plurals name="sim_missing_title">
+        <item quantity="other">Vložte SIM karty</item>
+        <item quantity="one">Vložte SIM kartu</item>
+        <item quantity="few">Vložte SIM karty</item>
+        <item quantity="many">Vložte SIM karty</item>
+    </plurals>
+    <plurals name="sim_missing_text_tablet">
+        <item quantity="other">Neviete ako? Prečítajte si pokyny, ktoré ste dostali spolu s tabletom.</item>
+        <item quantity="one">Neviete ako? Prečítajte si pokyny, ktoré ste dostali spolu s tabletom.</item>
+        <item quantity="few">Neviete ako? Prečítajte si pokyny, ktoré ste dostali spolu s tabletom.</item>
+        <item quantity="many">Neviete ako? Prečítajte si pokyny, ktoré ste dostali spolu s tabletom.</item>
+    </plurals>
+    <plurals name="sim_missing_text_device">
+        <item quantity="other">Neviete ako? Prečítajte si pokyny, ktoré ste dostali spolu so zariadením.</item>
+        <item quantity="one">Neviete ako? Prečítajte si pokyny, ktoré ste dostali spolu so zariadením.</item>
+        <item quantity="few">Neviete ako? Prečítajte si pokyny, ktoré ste dostali spolu so zariadením.</item>
+        <item quantity="many">Neviete ako? Prečítajte si pokyny, ktoré ste dostali spolu so zariadením.</item>
+    </plurals>
+    <plurals name="sim_missing_text_default">
+        <item quantity="other">Neviete ako? Prečítajte si pokyny, ktoré ste dostali spolu s telefónom.</item>
+        <item quantity="one">Neviete ako? Prečítajte si pokyny, ktoré ste dostali spolu s telefónom.</item>
+        <item quantity="few">Neviete ako? Prečítajte si pokyny, ktoré ste dostali spolu s telefónom.</item>
+        <item quantity="many">Neviete ako? Prečítajte si pokyny, ktoré ste dostali spolu s telefónom.</item>
+    </plurals>
+    <plurals name="walled_garden_check_timeout_text">
+        <item quantity="other">Môže to trvať až %d minút</item>
+        <item quantity="one">Môže to trvať až %d minútu</item>
+        <item quantity="few">Môže to trvať až %d minúty</item>
+        <item quantity="many">Môže to trvať až %d minúty</item>
+    </plurals>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="passwordStrength">
+        <item>mbovu</item>
+        <item>Ya faki</item>
+        <item>nzuri</item>
+        <item>" thabiti"</item>
+    </string-array>
+</resources>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="shutdown_countdown_text">
+        <item quantity="other">Lülitub välja %d sekundi pärast ...</item>
+        <item quantity="one">Lülitub välja 1 sekundi pärast ...</item>
+    </plurals>
+    <plurals name="sim_missing_title">
+        <item quantity="other">SIM-kaartide sisestamine</item>
+        <item quantity="one">SIM-kaardi sisestamine</item>
+    </plurals>
+    <plurals name="sim_missing_text_tablet">
+        <item quantity="other">Kas te pole kindel, kuidas seda teha? Vaadake tahvelarvutiga kaasas olnud juhiseid.</item>
+        <item quantity="one">Kas te pole kindel, kuidas seda teha? Vaadake tahvelarvutiga kaasas olnud juhiseid.</item>
+    </plurals>
+    <plurals name="sim_missing_text_device">
+        <item quantity="other">Kas te pole kindel, kuidas seda teha? Vaadake seadmega kaasas olnud juhiseid.</item>
+        <item quantity="one">Kas te pole kindel, kuidas seda teha? Vaadake seadmega kaasas olnud juhiseid.</item>
+    </plurals>
+    <plurals name="sim_missing_text_default">
+        <item quantity="other">Kas te pole kindel, kuidas seda teha? Vaadake telefoniga kaasas olnud juhiseid.</item>
+        <item quantity="one">Kas te pole kindel, kuidas seda teha? Vaadake telefoniga kaasas olnud juhiseid.</item>
+    </plurals>
+    <plurals name="walled_garden_check_timeout_text">
+        <item quantity="other">Selleks võib kuluda kuni %d minutit</item>
+        <item quantity="one">Selleks võib kuluda kuni %d minut</item>
+    </plurals>
+</resources>

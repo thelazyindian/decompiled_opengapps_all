@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="shutdown_countdown_text">
+        <item quantity="other">Leállítás %d másodpercen belül...</item>
+        <item quantity="one">Leállítás 1 másodpercen belül...</item>
+    </plurals>
+    <plurals name="sim_missing_title">
+        <item quantity="other">Helyezzen be SIM kártyákat</item>
+        <item quantity="one">Helyezzen be SIM kártyát</item>
+    </plurals>
+    <plurals name="sim_missing_text_tablet">
+        <item quantity="other">A SIM kártyák behelyezéséhez olvassa el a táblagéphez kapott utasításokat.</item>
+        <item quantity="one">A SIM kártya behelyezéséhez olvassa el a táblagéphez kapott utasításokat.</item>
+    </plurals>
+    <plurals name="sim_missing_text_device">
+        <item quantity="other">A SIM kártyák behelyezéséhez olvassa el az eszközhöz kapott utasításokat.</item>
+        <item quantity="one">A SIM kártya behelyezéséhez olvassa el az eszközhöz kapott utasításokat.</item>
+    </plurals>
+    <plurals name="sim_missing_text_default">
+        <item quantity="other">A SIM kártyák behelyezéséhez olvassa el a telefonhoz kapott utasításokat.</item>
+        <item quantity="one">A SIM kártya behelyezéséhez olvassa el a telefonhoz kapott utasításokat.</item>
+    </plurals>
+</resources>

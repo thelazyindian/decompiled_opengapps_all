@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Rostro de confianza</string>
+    <string name="trusted_face_service_app_name">Servizo de rostro de confianza</string>
+    <string name="receiver_app_name">Receptor de emisión de rostro de confianza</string>
+    <string name="setup_app_name">Engadir unha cara de confianza</string>
+    <string name="add_to_setup_app_name">Mellorar o recoñecemento facial</string>
+    <string name="intro_screen_title">Acerca da cara de confianza</string>
+    <string name="intro_screen_header">Mira o teléfono para desbloquealo</string>
+    <string name="intro_screen_body">"Lembra:
+
+ "<li><ul>"O recoñecemento facial é menos seguro que un padrón, PIN ou contrasinal.
+
+ "<li>Se alguén ten un aspecto semellante ao teu, podería desbloquear o teléfono.</li>"
+
+ "<li>Os datos que se usan para identificar a túa cara gárdanse no teléfono de forma privada.</li> </ul></li></string>
+    <string name="intro_screen_continue_label">Configurar</string>
+    <string name="instructions_screen_title">Engadir unha cara de confianza</string>
+    <string name="instructions_screen_header">Para obter os mellores resultados:</string>
+    <string name="instructions_screen_body">" "<li><ul>"Busca un lugar sen exceso de luz nin de escuridade.
+
+ "<li>Pon o teléfono á altura dos ollos.</li> </ul></li></string>
+    <string name="instructions_screen_continue_label">Seguinte</string>
+    <string name="enrollment_screen_message_initializing">Iniciando…</string>
+    <string name="enrollment_screen_message_initialization_error">Non foi posible iniciar a busca da túa cara</string>
+    <string name="enrollment_screen_message_camera_error">A cámara non está dispoñible</string>
+    <string name="enrollment_start_message">Mantén a cara dentro da área de puntos</string>
+    <string name="enrollment_screen_message_instructions">Mantén a parte superior da cabeza e a parte inferior do queixo dentro do círculo</string>
+    <string name="enrollment_screen_message_missing_landmarks">Mostra os ollos, o nariz e a boca</string>
+    <string name="enrollment_screen_message_done">Engadiuse a cara</string>
+    <string name="enrollment_screen_status_no_face">Mostra a túa cara</string>
+    <string name="enrollment_screen_status_face_off_center">Non se pode ver parte da túa cara</string>
+    <string name="enrollment_screen_status_missing_landmarks">Non se poden ver os teus trazos</string>
+    <string name="enrollment_screen_continue_label">Seguinte</string>
+    <string name="enrollment_screen_done_label">Feito</string>
+    <string name="enrollment_screen_talkback_preview_description">Vista previa da cámara</string>
+    <string name="enrollment_screen_talkback_face_added">Engadiuse a cara</string>
+    <string name="end_screen_title">Todo listo!</string>
+    <string name="end_screen_body">Para desbloquear o teléfono, activa a pantalla e mira á cámara</string>
+    <string name="end_screen_bullet_one_text">O teléfono desbloquearase tan pronto como te recoñeza</string>
+    <string name="end_screen_bullet_two_text">Se non se recoñece a túa cara, desbloquea o dispositivo co teu padrón, PIN ou contrasinal</string>
+    <string name="end_screen_tip_text">Consello: Mellora o recoñecemento facial capturando a túa cara en distintas condicións</string>
+    <string name="end_screen_licenses_label">Licenzas</string>
+    <string name="end_screen_continue_label">Feito</string>
+    <string name="add_to_setup_intro_screen_title">Mellorar o recoñecemento facial</string>
+    <string name="add_to_setup_intro_screen_header">Mostra a túa aparencia en distintas condicións</string>
+    <string name="add_to_setup_intro_screen_body">"Exemplos:
+
+ "<ul>"Cunha iluminación distinta.
+
+ "<li>Con ou sen lentes.</li>"
+
+ "<li>Con ou sen barba.</li>"
+
+ "</ul>"
+ Pon o teléfono á altura dos ollos."</string>
+    <string name="add_to_setup_intro_screen_continue_label">Seguinte</string>
+    <string name="license_screen_header">Avisos de código aberto</string>
+    <string name="license_screen_continue_label">Aceptar</string>
+    <string name="shared_cancel_label">Cancelar</string>
+</resources>

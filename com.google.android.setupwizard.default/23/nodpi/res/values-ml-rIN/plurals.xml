@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="shutdown_countdown_text">
+        <item quantity="other">%d സെക്കൻഡിനുള്ളിൽ ഷട്ട്‌ഡൗൺ ചെയ്യുന്നു...</item>
+        <item quantity="one">ഒരു സെക്കൻഡിനുള്ളിൽ ഷട്ട്‌ഡൗൺ ചെയ്യുന്നു...</item>
+    </plurals>
+    <plurals name="sim_missing_title">
+        <item quantity="other">SIM കാർഡുകൾ ചേർക്കുക</item>
+        <item quantity="one">SIM കാർഡ് ചേർക്കുക</item>
+    </plurals>
+    <plurals name="sim_missing_text_tablet">
+        <item quantity="other">എങ്ങനെയെന്ന് തീർച്ചയില്ലേ? ടാബ്‌ലെറ്റിനൊപ്പം ലഭിച്ച നിർദ്ദേശങ്ങൾ പരിശോധിക്കുക.</item>
+        <item quantity="one">എങ്ങനെയെന്ന് തീർച്ചയില്ലേ? ടാബ്‌ലെറ്റിനൊപ്പം ലഭിച്ച നിർദ്ദേശങ്ങൾ പരിശോധിക്കുക.</item>
+    </plurals>
+    <plurals name="sim_missing_text_device">
+        <item quantity="other">എങ്ങനെയെന്ന് തീർച്ചയില്ലേ? ഉപകരണത്തിനൊപ്പം ലഭിച്ച നിർദ്ദേശങ്ങൾ പരിശോധിക്കുക.</item>
+        <item quantity="one">എങ്ങനെയെന്ന് തീർച്ചയില്ലേ? ഉപകരണത്തിനൊപ്പം ലഭിച്ച നിർദ്ദേശങ്ങൾ പരിശോധിക്കുക.</item>
+    </plurals>
+    <plurals name="sim_missing_text_default">
+        <item quantity="other">എങ്ങനെയെന്ന് തീർച്ചയില്ലേ? ഫോണിനൊപ്പം ലഭിച്ച നിർദ്ദേശങ്ങൾ പരിശോധിക്കുക.</item>
+        <item quantity="one">എങ്ങനെയെന്ന് തീർച്ചയില്ലേ? ഫോണിനൊപ്പം ലഭിച്ച നിർദ്ദേശങ്ങൾ പരിശോധിക്കുക.</item>
+    </plurals>
+    <plurals name="walled_garden_check_timeout_text">
+        <item quantity="other">ഇതിന് %d മിനിറ്റ് വരെയെടുക്കാം</item>
+        <item quantity="one">ഇതിന് %d മിനിറ്റ് വരെയെടുക്കാം</item>
+    </plurals>
+</resources>

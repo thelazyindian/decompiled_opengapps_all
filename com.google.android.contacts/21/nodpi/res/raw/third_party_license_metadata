@@ -1,0 +1,63 @@
+40:10695 Android Annotations Support Library
+10770:10695 Android Compat Support Library
+21503:10695 Android Compatibility Library v13
+32236:10695 Android Compatibility Library v14
+42968:10695 Android Compatibility Library v4
+53700:10695 Android Compatibility Library v7
+64431:10695 Android Core UI Support Library
+75165:10691 Android Core Utils Support Library
+85896:10695 Android Custom Tabs Support Library
+96626:10695 Android Design Support Library
+107359:10695 Android Fragments Support Library
+118091:10695 Android Graphics Support Library
+128827:10691 Android Media Compat Support Library
+139557:10691 Android Transition Support Library
+150309:10693 Compatibility Libraries for Android asynclayoutinflater.
+161055:10693 Compatibility Libraries for Android collections.
+171807:10693 Compatibility Libraries for Android coordinatorlayout.
+182555:10693 Compatibility Libraries for Android cursoradapter.
+193300:10693 Compatibility Libraries for Android customview.
+204047:10693 Compatibility Libraries for Android documentfile.
+214794:10693 Compatibility Libraries for Android drawerlayout.
+225541:10693 Compatibility Libraries for Android interpolator.
+236282:10693 Compatibility Libraries for Android loader.
+247038:10693 Compatibility Libraries for Android localbroadcastmanager.
+257778:10693 Compatibility Libraries for Android print.
+268530:10693 Compatibility Libraries for Android slidingpanelayout.
+279283:10693 Compatibility Libraries for Android swiperefreshlayout.
+290027:10693 Compatibility Libraries for Android viewpager.
+300739:10173 libphonenumber
+310928:10695 phonecommon
+321659:11344 Android Architecture Components
+333052:11344 Android Architecture Components Core Library
+344450:11344 Android Architecture Components Lifecycle Library
+355856:11344 Android Architecture Components Lifecycle Runtime Library
+367219:11358 Android Common
+378603:11358 Android Vcard library
+389986:11358 Apache Commons Codec
+401355:11358 Dagger
+412729:11357 Error Prone
+424099:11336 Espresso
+435458:11358 FasterXML Jackson2
+446832:11358 Google Auto
+458205:11358 Guava JDK5
+469578:11362 Guava JDK7
+480951:11358 J2ObjC
+492321:11358 JSR 250
+503691:11365 JSR 330
+515092:11358 Material Components for Android
+526461:11358 OkHttp
+537828:11358 Okio
+549201:11358 OpenCensus
+560569:11357 ZXing
+571935:11365 absl
+583311:11358 backup
+594681:11358 flexbox
+606053:11358 gRPC Java
+617420:11358 gson
+628794:16013 Android SDK
+644829:22655 Checker Framework
+667503:1096 Animal Sniffer
+668623:1473 Auth client library
+670108:1602 JSR 305
+671728:1732 Protobuf Nano

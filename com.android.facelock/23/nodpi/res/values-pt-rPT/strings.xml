@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Rosto fidedigno</string>
+    <string name="trusted_face_service_app_name">Serviço de rosto fidedigno</string>
+    <string name="receiver_app_name">Recetor de difusão de rosto fidedigno</string>
+    <string name="setup_app_name">Adicionar um rosto fidedigno</string>
+    <string name="add_to_setup_app_name">Melhorar correspondência de rosto</string>
+    <string name="intro_screen_title">Acerca do rosto fidedigno</string>
+    <string name="intro_screen_header">Desbloqueie o telemóvel olhando para ele</string>
+    <string name="intro_screen_body">"Tenha em atenção:
+
+ "<li><ul>"A correspondência de rosto é menos segura do que uma sequência, um PIN ou uma palavra-passe
+
+ "<li>Alguém que se pareça consigo pode desbloquear o seu telemóvel</li>"
+
+ "<li>Os dados utilizados para reconhecer o seu rosto são mantidos de forma privada no seu telemóvel</li> </ul></li></string>
+    <string name="intro_screen_continue_label">Configurar</string>
+    <string name="instructions_screen_title">Adicionar um rosto fidedigno</string>
+    <string name="instructions_screen_header">Para obter os melhores resultados:</string>
+    <string name="instructions_screen_body">" "<li><ul>"Procure um espaço interior com iluminação moderada, nem muito claro, nem muito escuro
+
+ "<li>Segure no telemóvel à altura dos olhos</li> </ul></li></string>
+    <string name="instructions_screen_continue_label">Seguinte</string>
+    <string name="enrollment_screen_message_initializing">A iniciar...</string>
+    <string name="enrollment_screen_message_initialization_error">Não foi possível iniciar a pesquisa do rosto</string>
+    <string name="enrollment_screen_message_camera_error">A câmara não está disponível</string>
+    <string name="enrollment_start_message">Manter o rosto dentro da área tracejada</string>
+    <string name="enrollment_screen_message_instructions">Mantenha o topo da cabeça e a parte de baixo do queixo dentro do círculo</string>
+    <string name="enrollment_screen_message_missing_landmarks">Mostrar olhos, nariz e boca</string>
+    <string name="enrollment_screen_message_done">Rosto adicionado</string>
+    <string name="enrollment_screen_status_no_face">Mostre o seu rosto</string>
+    <string name="enrollment_screen_status_face_off_center">Não é possível ver parte do seu rosto</string>
+    <string name="enrollment_screen_status_missing_landmarks">Não é possível ver as suas feições</string>
+    <string name="enrollment_screen_continue_label">Seguinte</string>
+    <string name="enrollment_screen_done_label">Concluído</string>
+    <string name="enrollment_screen_talkback_preview_description">Pré-visualização da câmara</string>
+    <string name="enrollment_screen_talkback_face_added">Rosto adicionado</string>
+    <string name="end_screen_title">Tudo pronto!</string>
+    <string name="end_screen_body">Para desbloquear o telemóvel, basta ligar o ecrã e olhar para a câmara</string>
+    <string name="end_screen_bullet_one_text">O telemóvel é desbloqueado assim que o reconhecer</string>
+    <string name="end_screen_bullet_two_text">Se o seu rosto não for reconhecido, desbloqueie com a sua sequência, o seu PIN ou a sua palavra-passe</string>
+    <string name="end_screen_tip_text">Sugestão: melhore o reconhecimento facial mostrando o seu rosto em diferentes situações</string>
+    <string name="end_screen_licenses_label">Licenças</string>
+    <string name="end_screen_continue_label">Concluído</string>
+    <string name="add_to_setup_intro_screen_title">Melhorar correspondência de rosto</string>
+    <string name="add_to_setup_intro_screen_header">Mostre o seu aspeto em diferentes situações</string>
+    <string name="add_to_setup_intro_screen_body">"Exemplos:
+
+ "<li><ul>"Em iluminações diferentes
+
+ "<li>Com ou sem óculos graduados</li>"
+
+ "<li>Com ou sem barba</li>"
+
+ "</ul></li>"
+ Segure no telemóvel à altura dos olhos"</string>
+    <string name="add_to_setup_intro_screen_continue_label">Seguinte</string>
+    <string name="license_screen_header">Avisos de código aberto</string>
+    <string name="license_screen_continue_label">OK</string>
+    <string name="shared_cancel_label">Cancelar</string>
+</resources>

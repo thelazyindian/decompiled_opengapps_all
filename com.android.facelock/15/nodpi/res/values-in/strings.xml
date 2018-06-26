@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Wajah Tepercaya</string>
+    <string name="receiver_app_name">Penerima Siaran Wajah Tepercaya</string>
+    <string name="setup_app_name">Tambahkan wajah tepercaya</string>
+    <string name="enrollment_continue_label">Berikutnya</string>
+    <string name="enrollment_done_label">Selesai</string>
+    <string name="enrollment_initializing">Memulai...</string>
+    <string name="enrollment_start_message">Pertahankan wajah tetap di dalam area bertitik</string>
+    <string name="gar_preview_description">Pratinjau kamera</string>
+    <string name="error_no_face">Tampilkan wajah Anda</string>
+    <string name="enrollment_missing_landmarks">Tunjukkan mata, hidung, dan mulut</string>
+    <string name="enrollment_missing_landmarks_status">Tidak dapat melihat fitur Anda</string>
+    <string name="enrollment_off_center_status">Tidak dapat melihat bagian dari wajah Anda</string>
+    <string name="gar_enrollment_face_added">Wajah ditambahkan</string>
+    <string name="enrollment_done">Mengerti</string>
+    <string name="tutorial_app_name">Tentang wajah tepercaya</string>
+    <string name="tutorial_header">Lihat ponsel Anda untuk membuka gemboknya.</string>
+    <string name="tutorial_info_text">"Ingatlah hal-hal berikut:
+
+ "<li><ul>"Pencocokan wajah kurang aman dibandingkan pola, PIN, atau sandi.
+
+ "<li>Seseorang yang mirip dengan Anda dapat membuka kunci ponsel.</li>"
+
+ "<li>Data yang digunakan untuk mengenali wajah Anda dijaga agar tetap bersifat pribadi di ponsel.</li>"
+
+ "</ul></li></string>
+    <string name="tutorial_continue_label">Siapkan</string>
+    <string name="intro_header">Untuk hasil terbaik:</string>
+    <string name="intro_info_text">" "<li><ul>"Cari lokasi dalam ruangan yang tidak terlalu terang atau terlalu redup.
+
+"<li>Pegang ponsel sejajar dengan mata.</li>"
+
+"</ul></li></string>
+    <string name="intro_continue_label">Berikutnya</string>
+    <string name="endscreen_header">Semua siap!</string>
+    <string name="endscreen_info_text">Jika ingin membuka kunci, cukup aktifkan layar dan perlihatkan wajah Anda ke kamera.</string>
+    <string name="endscreen_bullet_one_text">Ponsel akan segera terbuka setelah mengenali wajah Anda.</string>
+    <string name="endscreen_bullet_two_text">Jika ponsel tidak mengenali wajah Anda, buka dengan pola, PIN, atau sandi.</string>
+    <string name="endscreen_tip_text">Kiat: Tingkatkan pencocokan wajah dengan menampilkan wajah Anda di berbagai kondisi.</string>
+    <string name="endscreen_continue_label">Oke</string>
+    <string name="endscreen_license_label">Lisensi</string>
+    <string name="addtosetup_app_name">Menyempurnakan pencocokan wajah</string>
+    <string name="addtosetup_header">Tunjukkan wajah Anda dalam berbagai kondisi.</string>
+    <string name="addtosetup_info_text">"Contoh:
+
+"<li><ul>"Dalam pencahayaan yang berbeda-beda
+
+"<li>Dengan atau tanpa kacamata</li>"
+
+"<li>Berjenggot atau dicukur bersih</li>"
+
+"</ul></li>"
+Pegang ponsel sejajar dengan mata."</string>
+    <string name="addtosetup_continue_label">Berikutnya</string>
+    <string name="license_screen_header">Pemberitahuan Sumber Terbuka</string>
+    <string name="license_screen_continue_label">Oke</string>
+    <string name="face_unlock_service_app_name">Layanan Face Unlock</string>
+    <string name="trusted_face_service_app_name">Layanan Wajah Tepercaya</string>
+    <string name="service_face_not_found">Tidak dapat menemukan wajah</string>
+    <string name="service_not_a_match">Maaf, tidak mengenali Anda</string>
+    <string name="service_liveliness_start">Berkedip sekarang</string>
+    <string name="service_liveliness_timeout">Tidak menangkap kedipan Anda</string>
+    <string name="service_low_ligthing">Pencahayaan terlalu lemah</string>
+    <string name="shared_initialize_error">Tidak dapat memulai untuk menemukan wajah Anda</string>
+    <string name="shared_camera_error">Kamera tidak tersedia</string>
+    <string name="shared_read_gallery_error">Ulangi penyiapan</string>
+    <string name="shared_cancel_label">Batal</string>
+</resources>

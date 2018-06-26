@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="shutdown_countdown_text">
+        <item quantity="other">جارٍ إيقاف التشغيل خلال %d من الثواني…</item>
+        <item quantity="zero">جارٍ إيقاف التشغيل خلال أقل من ثانية (%d)…</item>
+        <item quantity="one">جارٍ إيقاف التشغيل خلال ثانية واحدة…</item>
+        <item quantity="two">جارٍ إيقاف التشغيل خلال ثانيتين (%d)…</item>
+        <item quantity="few">جارٍ إيقاف التشغيل خلال %d ثوانٍ…</item>
+        <item quantity="many">جارٍ إيقاف التشغيل خلال %d ثانية…</item>
+    </plurals>
+    <plurals name="sim_missing_title">
+        <item quantity="other">‏إدخال بطاقات SIM</item>
+        <item quantity="zero">‏ليست هناك بطاقات SIM</item>
+        <item quantity="one">‏إدخال بطاقة SIM</item>
+        <item quantity="two">‏إدخال بطاقتي SIM</item>
+        <item quantity="few">‏إدخال بطاقات SIM</item>
+        <item quantity="many">‏إدخال بطاقات SIM</item>
+    </plurals>
+    <plurals name="sim_missing_text_tablet">
+        <item quantity="other">ألست متأكدًا من كيفية إجراء ذلك؟ راجع الإرشادات المرفقة مع جهازك اللوحي.</item>
+        <item quantity="zero">ألست متأكدًا من كيفية إجراء ذلك؟ راجع الإرشادات المرفقة مع جهازك اللوحي.</item>
+        <item quantity="one">ألست متأكدًا من كيفية إجراء ذلك؟ راجع الإرشادات المرفقة مع جهازك اللوحي.</item>
+        <item quantity="two">ألست متأكدًا من كيفية إجراء ذلك؟ راجع الإرشادات المرفقة مع جهازك اللوحي.</item>
+        <item quantity="few">ألست متأكدًا من كيفية إجراء ذلك؟ راجع الإرشادات المرفقة مع جهازك اللوحي.</item>
+        <item quantity="many">ألست متأكدًا من كيفية إجراء ذلك؟ راجع الإرشادات المرفقة مع جهازك اللوحي.</item>
+    </plurals>
+    <plurals name="sim_missing_text_device">
+        <item quantity="other">ألست متأكدًا من كيفية إجراء ذلك؟ راجع الإرشادات المرفقة مع جهازك.</item>
+        <item quantity="zero">ألست متأكدًا من كيفية إجراء ذلك؟ راجع الإرشادات المرفقة مع جهازك.</item>
+        <item quantity="one">ألست متأكدًا من كيفية إجراء ذلك؟ راجع الإرشادات المرفقة مع جهازك.</item>
+        <item quantity="two">ألست متأكدًا من كيفية إجراء ذلك؟ راجع الإرشادات المرفقة مع جهازك.</item>
+        <item quantity="few">ألست متأكدًا من كيفية إجراء ذلك؟ راجع الإرشادات المرفقة مع جهازك.</item>
+        <item quantity="many">ألست متأكدًا من كيفية إجراء ذلك؟ راجع الإرشادات المرفقة مع جهازك.</item>
+    </plurals>
+    <plurals name="sim_missing_text_default">
+        <item quantity="other">ألست متأكدًا من كيفية إجراء ذلك؟ راجع الإرشادات المرفقة مع هاتفك.</item>
+        <item quantity="zero">ألست متأكدًا من كيفية إجراء ذلك؟ راجع الإرشادات المرفقة مع هاتفك.</item>
+        <item quantity="one">ألست متأكدًا من كيفية إجراء ذلك؟ راجع الإرشادات المرفقة مع هاتفك.</item>
+        <item quantity="two">ألست متأكدًا من كيفية إجراء ذلك؟ راجع الإرشادات المرفقة مع هاتفك.</item>
+        <item quantity="few">ألست متأكدًا من كيفية إجراء ذلك؟ راجع الإرشادات المرفقة مع هاتفك.</item>
+        <item quantity="many">ألست متأكدًا من كيفية إجراء ذلك؟ راجع الإرشادات المرفقة مع هاتفك.</item>
+    </plurals>
+    <plurals name="walled_garden_check_timeout_text">
+        <item quantity="other">‏يمكن أن يستغرق هذا الإجراء مدة تصل إلى %d من الدقائق</item>
+        <item quantity="zero">‏يمكن أن يستغرق هذا الإجراء مدة تصل إلى %d دقائق</item>
+        <item quantity="one">‏يمكن أن يستغرق هذا الإجراء مدة تصل إلى دقيقة واحدة (%d)</item>
+        <item quantity="two">‏يمكن أن يستغرق هذا الإجراء مدة تصل إلى دقيقتين (%d)</item>
+        <item quantity="few">‏يمكن أن يستغرق هذا الإجراء مدة تصل إلى %d دقائق</item>
+        <item quantity="many">‏يمكن أن يستغرق هذا الإجراء مدة تصل إلى %d دقيقة</item>
+    </plurals>
+</resources>

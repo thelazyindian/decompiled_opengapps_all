@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="shutdown_countdown_text">
+        <item quantity="other">Изключва се след %d секунди...</item>
+        <item quantity="one">Изключва се след 1 секунда...</item>
+    </plurals>
+    <plurals name="sim_missing_title">
+        <item quantity="other">Поставяне на SIM карти</item>
+        <item quantity="one">Поставяне на SIM карта</item>
+    </plurals>
+    <plurals name="sim_missing_text_tablet">
+        <item quantity="other">За да поставите SIM картите си, прочетете инструкциите, които сте получили с таблета си.</item>
+        <item quantity="one">За да поставите SIM картата си, прочетете инструкциите, които сте получили с таблета си.</item>
+    </plurals>
+    <plurals name="sim_missing_text_device">
+        <item quantity="other">За да поставите SIM картите си, прочетете инструкциите, които сте получили с устройството си.</item>
+        <item quantity="one">За да поставите SIM картата си, прочетете инструкциите, които сте получили с устройството си.</item>
+    </plurals>
+    <plurals name="sim_missing_text_default">
+        <item quantity="other">За да поставите SIM картите си, прочетете инструкциите, които сте получили с телефона си.</item>
+        <item quantity="one">За да поставите SIM картата си, прочетете инструкциите, които сте получили с телефона си.</item>
+    </plurals>
+</resources>

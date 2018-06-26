@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="shutdown_countdown_text">
+        <item quantity="other">Zařízení se za %d s vypne…</item>
+        <item quantity="one">Zařízení se za 1 s vypne…</item>
+    </plurals>
+    <plurals name="sim_missing_title">
+        <item quantity="other">Vložení SIM karet</item>
+        <item quantity="one">Vložte SIM kartu</item>
+    </plurals>
+    <plurals name="sim_missing_text_tablet">
+        <item quantity="other">Postup vložení SIM karet je popsán v pokynech, které jste obdrželi s tabletem.</item>
+        <item quantity="one">Postup vložení SIM karty je popsán v pokynech, které jste obdrželi s tabletem.</item>
+    </plurals>
+    <plurals name="sim_missing_text_device">
+        <item quantity="other">Postup vložení SIM karet je popsán v pokynech, které jste obdrželi se zařízením.</item>
+        <item quantity="one">Postup vložení SIM karty je popsán v pokynech, které jste obdrželi se zařízením.</item>
+    </plurals>
+    <plurals name="sim_missing_text_default">
+        <item quantity="other">Postup vložení SIM karet je popsán v pokynech, které jste obdrželi s telefonem.</item>
+        <item quantity="one">Postup vložení SIM karty je popsán v pokynech, které jste obdrželi s telefonem.</item>
+    </plurals>
+</resources>

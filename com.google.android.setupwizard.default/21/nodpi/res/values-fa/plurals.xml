@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="shutdown_countdown_text">
+        <item quantity="other">در عرض %d ثانیه خاموش می‌شود...</item>
+        <item quantity="one">در عرض ۱ ثانیه خاموش می‌شود...</item>
+    </plurals>
+    <plurals name="sim_missing_title">
+        <item quantity="other">جاگذاری سیم‌کارت‌ها</item>
+        <item quantity="one">جاگذاری سیم‌کارت</item>
+    </plurals>
+    <plurals name="sim_missing_text_tablet">
+        <item quantity="other">برای وارد کردن سیم‌کارت‌هایتان، دستورالعمل‌های ارائه شده همراه رایانه لوحیتان را بخوانید.</item>
+        <item quantity="one">برای وارد کردن سیم کارتتان، دستورالعمل‌های ارائه شده همراه رایانه لوحیتان را بخوانید.</item>
+    </plurals>
+    <plurals name="sim_missing_text_device">
+        <item quantity="other">برای وارد کردن سیم‌کارت‌هایتان، دستورالعمل‌های ارائه‌شده همراه دستگاه‌تان را بخوانید.</item>
+        <item quantity="one">برای وارد کردن سیم کارتتان، دستورالعمل‌های ارائه شده همراه دستگاه‌تان را بخوانید.</item>
+    </plurals>
+    <plurals name="sim_missing_text_default">
+        <item quantity="other">برای وارد کردن سیم‌کارت‌هایتان، دستورالعمل‌های ارائه‌شده همراه تلفنتان را بخوانید.</item>
+        <item quantity="one">برای وارد کردن سیم کارتتان، دستورالعمل‌های ارائه شده همراه تلفنتان را بخوانید.</item>
+    </plurals>
+</resources>

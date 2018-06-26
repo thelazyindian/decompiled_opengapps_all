@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WizardScript wizard:firstAction="restore_check"
+  xmlns:wizard="http://schemas.android.com/apk/res/com.google.android.setupwizard">
+    <WizardAction wizard:uri="intent:#Intent;action=com.google.android.setupwizard.CHECK_RESTORE_TOKEN;end" id="restore_check">
+        <result wizard:resultCode="101" wizard:action="restore_get_intent" wizard:name="token_not_found" />
+        <result wizard:action="restore_start" />
+    </WizardAction>
+    <WizardAction wizard:uri="intent:#Intent;action=com.google.android.setupwizard.GET_RESTORE_INTENT;end" id="restore_get_intent">
+        <result wizard:resultCode="1" wizard:action="date_time_check" wizard:name="skip" />
+        <result wizard:action="restore_picker" />
+    </WizardAction>
+    <WizardAction wizard:uri="intent:#Intent;action=com.google.android.setupwizard.RESTORE;end" id="restore_picker">
+        <result wizard:resultCode="1" wizard:action="date_time_check" wizard:name="skip" />
+        <result wizard:action="restore_start" />
+    </WizardAction>
+    <WizardAction wizard:uri="intent:#Intent;action=com.google.android.setupwizard.START_RESTORE;end" id="restore_start">
+        <result wizard:action="date_time_check" />
+    </WizardAction>
+    <WizardAction wizard:uri="intent:#Intent;action=com.google.android.setupwizard.DATE_TIME_CHECK;end" id="date_time_check">
+        <result wizard:resultCode="1" wizard:action="user_name_check" wizard:name="skip" />
+        <result wizard:action="date_time" />
+    </WizardAction>
+    <WizardAction wizard:uri="intent:#Intent;action=com.android.setupwizard.DATE_TIME;end" id="date_time">
+        <result wizard:action="user_name_check" />
+    </WizardAction>
+    <WizardAction wizard:uri="intent:#Intent;action=com.google.android.setupwizard.NAME_CHECK;end" id="user_name_check">
+        <result wizard:resultCode="1" wizard:action="lock_screen" wizard:name="skip" />
+        <result wizard:action="user_name" />
+    </WizardAction>
+    <WizardAction wizard:uri="intent:#Intent;action=com.google.android.setupwizard.USER_NAME;end" id="user_name">
+        <result wizard:action="lock_screen" />
+    </WizardAction>
+    <WizardAction wizard:uri="intent:#Intent;action=com.google.android.setupwizard.LOCK_SCREEN;end" id="lock_screen">
+        <result wizard:action="suggested_actions" />
+    </WizardAction>
+    <WizardAction wizard:uri="intent:#Intent;action=com.google.android.setupwizard.SUGGESTED_ACTIONS;end" id="suggested_actions">
+        <result wizard:action="restore_progress" />
+    </WizardAction>
+    <WizardAction wizard:uri="intent:#Intent;action=com.google.android.setupwizard.RESTORE_PROGRESS;end" id="restore_progress">
+        <result wizard:resultCode="2" wizard:action="restore_reset" wizard:name="retry" />
+        <result wizard:action="start_downloads" />
+    </WizardAction>
+    <WizardAction wizard:uri="intent:#Intent;action=com.google.android.setupwizard.REMOVE_RESTORE_TOKEN;end" id="restore_reset">
+        <result wizard:action="restore_retry_get_intent" />
+    </WizardAction>
+    <WizardAction wizard:uri="intent:#Intent;action=com.google.android.setupwizard.GET_RESTORE_INTENT;end" id="restore_retry_get_intent">
+        <result wizard:action="restore_retry" />
+    </WizardAction>
+    <WizardAction wizard:uri="intent:#Intent;action=com.google.android.setupwizard.RESTORE;end" id="restore_retry">
+        <result wizard:resultCode="1" wizard:action="start_downloads" wizard:name="skip" />
+        <result wizard:action="restore_retry_start" />
+    </WizardAction>
+    <WizardAction wizard:uri="intent:#Intent;action=com.google.android.setupwizard.START_RESTORE;end" id="restore_retry_start">
+        <result wizard:action="restore_progress" />
+    </WizardAction>
+    <WizardAction wizard:uri="intent:#Intent;action=com.google.android.setupwizard.START_DOWNLOADS;end" id="start_downloads">
+        <result wizard:action="final_hold" />
+    </WizardAction>
+    <WizardAction wizard:uri="intent:#Intent;action=com.google.android.setupwizard.FINAL_HOLD;end" id="final_hold" />
+</WizardScript>

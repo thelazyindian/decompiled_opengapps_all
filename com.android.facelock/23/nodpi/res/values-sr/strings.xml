@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Поуздано лице</string>
+    <string name="trusted_face_service_app_name">Услуга поузданог лица</string>
+    <string name="receiver_app_name">Пријемник за емитовање поузданог лица</string>
+    <string name="setup_app_name">Додај поуздано лице</string>
+    <string name="add_to_setup_app_name">Побољшање подударања лица</string>
+    <string name="intro_screen_title">О поузданом лицу</string>
+    <string name="intro_screen_header">Откључајте телефон тако што ћете га погледати</string>
+    <string name="intro_screen_body">"Имајте на уму следеће:
+
+ "<li><ul>"Препознавање лица је мање безбедно од шаблона, PIN-а или лозинке
+
+ "<li>Неко ко личи на вас би могао да откључа телефон</li>"
+
+ "<li>Подаци који се користе за препознавање лица су заштићени на телефону</li> </ul></li></string>
+    <string name="intro_screen_continue_label">Подесите</string>
+    <string name="instructions_screen_title">Додајте поуздано лице</string>
+    <string name="instructions_screen_header">За најбоље резултате:</string>
+    <string name="instructions_screen_body">" "<li><ul>"Пронађите место на затвореном које није ни превише светло ни превише тамно
+
+ "<li>Држите телефон у нивоу очију</li> </ul></li></string>
+    <string name="instructions_screen_continue_label">Даље</string>
+    <string name="enrollment_screen_message_initializing">Покреће се...</string>
+    <string name="enrollment_screen_message_initialization_error">Нисмо успели да започнемо проналажење лица</string>
+    <string name="enrollment_screen_message_camera_error">Камера није доступна</string>
+    <string name="enrollment_start_message">Нека вам лице буде у простору оивиченом тачкама</string>
+    <string name="enrollment_screen_message_instructions">Нека вам врх главе и дно браде буду у оквиру круга</string>
+    <string name="enrollment_screen_message_missing_landmarks">Покажите очи, нос и уста</string>
+    <string name="enrollment_screen_message_done">Лице је додато</string>
+    <string name="enrollment_screen_status_no_face">Покажите лице</string>
+    <string name="enrollment_screen_status_face_off_center">Не види се део лица</string>
+    <string name="enrollment_screen_status_missing_landmarks">Не виде се црте лица</string>
+    <string name="enrollment_screen_continue_label">Даље</string>
+    <string name="enrollment_screen_done_label">Готово</string>
+    <string name="enrollment_screen_talkback_preview_description">Преглед камере</string>
+    <string name="enrollment_screen_talkback_face_added">Лице је додато</string>
+    <string name="end_screen_title">Све је спремно!</string>
+    <string name="end_screen_body">Да бисте откључали телефон, само укључите екран и гледајте у камеру</string>
+    <string name="end_screen_bullet_one_text">Телефон ће се откључати чим вас препозна</string>
+    <string name="end_screen_bullet_two_text">Ако вам уређај не препозна лице, откључајте га помоћу шаблона, PIN-а или лозинке</string>
+    <string name="end_screen_tip_text">Савет: Побољшајте подударање лица тако што ћете показати како изгледате у различитим условима</string>
+    <string name="end_screen_licenses_label">Лиценце</string>
+    <string name="end_screen_continue_label">Готово</string>
+    <string name="add_to_setup_intro_screen_title">Побољшање подударања лица</string>
+    <string name="add_to_setup_intro_screen_header">Покажите како изгледате у различитим условима</string>
+    <string name="add_to_setup_intro_screen_body">"Примери:
+
+ "<li><ul>"Под различитим осветљењем
+
+ "<li>Са наочарима за вид или без њих</li>"
+
+ "<li>Са брадом или без ње</li>"
+
+ "</ul></li>"
+ Држите телефон у нивоу очију"</string>
+    <string name="add_to_setup_intro_screen_continue_label">Даље</string>
+    <string name="license_screen_header">Обавештења о лиценцама отвореног кода</string>
+    <string name="license_screen_continue_label">Потврди</string>
+    <string name="shared_cancel_label">Откажи</string>
+</resources>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?><manifest xmlns:android="http://schemas.android.com/apk/res/android" package="com.android.facelock" platformBuildVersionCode="22" platformBuildVersionName="5.1.1-2168912">
+    <uses-feature android:name="android.hardware.camera"/>
+    <uses-permission android:name="android.permission.CAMERA"/>
+    <application android:allowBackup="false" android:hardwareAccelerated="true" android:icon="@mipmap/ic_launcher_settings" android:label="@string/app_name" android:supportsRtl="true" android:theme="@style/Theme.Settings">
+        <activity android:exported="true" android:label="@string/setup_app_name" android:name=".SetupFaceLock"/>
+        <activity android:exported="true" android:label="@string/tutorial_app_name" android:name=".SetupIntro"/>
+        <activity android:exported="true" android:label="@string/setup_app_name" android:name=".SetupEndScreen"/>
+        <activity android:exported="true" android:label="@string/setup_app_name" android:name=".SetupLicenseScreen"/>
+        <activity android:exported="true" android:label="@string/addtosetup_app_name" android:name=".AddToSetup"/>
+        <service android:label="@string/face_unlock_service_app_name" android:name=".FaceLockService" android:theme="@android:style/Theme.NoTitleBar">
+            <intent-filter>
+                <action android:name="com.android.internal.policy.IFaceLockInterface"/>
+            </intent-filter>
+        </service>
+        <service android:label="@string/trusted_face_service_app_name" android:name=".TrustedFaceService" android:theme="@android:style/Theme.NoTitleBar">
+            <intent-filter>
+                <action android:name="com.android.facelock.ITrustedFaceInterface"/>
+            </intent-filter>
+        </service>
+        <receiver android:exported="true" android:label="@string/receiver_app_name" android:name=".FaceLockReceiver">
+            <intent-filter>
+                <action android:name="com.android.facelock.DELETE_GALLERY"/>
+            </intent-filter>
+        </receiver>
+    </application>
+</manifest>

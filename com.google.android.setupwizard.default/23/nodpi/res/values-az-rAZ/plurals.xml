@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="shutdown_countdown_text">
+        <item quantity="other">%d saniyə ərzində söndürülür…</item>
+        <item quantity="one">1 saniyə ərzində söndürülür…</item>
+    </plurals>
+    <plurals name="sim_missing_title">
+        <item quantity="other">SIM kartları daxil edin</item>
+        <item quantity="one">SIM kartı daxil edin</item>
+    </plurals>
+    <plurals name="sim_missing_text_tablet">
+        <item quantity="other">Necə etməyi bilmirsiniz? Planşetlə gəlmiş təlimatlara baxın.</item>
+        <item quantity="one">Necə etməyi bilmirsiniz? Planşetlə gəlmiş təlimatlara baxın.</item>
+    </plurals>
+    <plurals name="sim_missing_text_device">
+        <item quantity="other">Necə etməyi bilmirsiniz? Cihazla gəlmiş təlimatlara baxın.</item>
+        <item quantity="one">Necə etməyi bilmirsiniz? Cihazla gəlmiş təlimatlara baxın.</item>
+    </plurals>
+    <plurals name="sim_missing_text_default">
+        <item quantity="other">Necə etməyi bilmirsiniz? Telefonla gəlmiş təlimatlara baxın.</item>
+        <item quantity="one">Necə etməyi bilmirsiniz? Telefonla gəlmiş təlimatlara baxın.</item>
+    </plurals>
+    <plurals name="walled_garden_check_timeout_text">
+        <item quantity="other">Bu %d dəqiqə vaxt ala bilər</item>
+        <item quantity="one">Bu %d dəqiqə vaxt ala bilər</item>
+    </plurals>
+</resources>

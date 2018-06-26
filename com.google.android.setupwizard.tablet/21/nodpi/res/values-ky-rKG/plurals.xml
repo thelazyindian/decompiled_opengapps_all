@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="sim_missing_title">
+        <item quantity="other">SIM карталарды кыстарыңыз</item>
+        <item quantity="one">SIM картаны кыстарыңыз</item>
+    </plurals>
+    <plurals name="sim_missing_text_tablet">
+        <item quantity="other">SIM карталарыңызды салуу үчүн, планшетиңиз менен келген нускамаларды окуңуз.</item>
+        <item quantity="one">SIM картаңызды салуу үчүн, планшетиңиз менен келген нускамаларды окуңуз.</item>
+    </plurals>
+    <plurals name="sim_missing_text_device">
+        <item quantity="other">SIM карталарыңызды салуу үчүн, түзмөгүңүз менен келген нускамаларды окуңуз.</item>
+        <item quantity="one">SIM картаңызды салуу үчүн, түзмөгүңүздөгү нускамаларды окуңуз.</item>
+    </plurals>
+    <plurals name="sim_missing_text_default">
+        <item quantity="other">SIM карталарыңызды салуу үчүн, телефонуңуз менен келген нускамаларды окуңуз.</item>
+        <item quantity="one">SIM-карта салуу жолун телефон менен чогуу келген нускамалардан караңыз.</item>
+    </plurals>
+</resources>

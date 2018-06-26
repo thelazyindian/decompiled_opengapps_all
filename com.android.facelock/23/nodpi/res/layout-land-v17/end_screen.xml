@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="horizontal" android:id="@id/topLayout" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_weight="1.0">
+        <TextView android:textSize="15.0sp" android:gravity="center|top" android:id="@id/headerText" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="20.0dip" android:text="@string/end_screen_title" />
+        <RelativeLayout android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="1.0">
+            <LinearLayout android:orientation="horizontal" android:layout_alignParentBottom="true" style="@style/SecurityPreferenceButtonContainer">
+                <Button android:id="@id/footerLeftButton" android:text="@string/end_screen_licenses_label" style="@style/SecurityPreferenceButton" />
+                <Button android:id="@id/footerRightButton" android:text="@string/end_screen_continue_label" style="@style/SecurityPreferenceButton" />
+            </LinearLayout>
+        </RelativeLayout>
+    </LinearLayout>
+    <View android:background="@drawable/code_lock_left" android:layout_width="2.0dip" android:layout_height="fill_parent" />
+    <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginTop="10.0dip" android:layout_marginBottom="10.0dip" android:layout_weight="1.0" android:layout_marginStart="10.0dip" android:layout_marginEnd="10.0dip">
+        <ScrollView android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginTop="10.0dip" android:layout_marginBottom="10.0dip" android:scaleType="fitXY">
+            <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                <TextView android:textSize="15.0sp" android:gravity="top" android:id="@id/infoText" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/end_screen_body" android:layout_marginStart="12.0dip" android:layout_marginEnd="12.0dip" />
+                <LinearLayout android:gravity="top" android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="24.0dip" android:layout_marginStart="12.0dip" android:layout_marginEnd="12.0dip">
+                    <ImageView android:layout_gravity="center_vertical" android:id="@id/bulletOneIcon" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/ic_lock_open_black_24dp" android:alpha="0.5" />
+                    <TextView android:textSize="15.0sp" android:layout_gravity="center_vertical" android:id="@id/bulletOneText" android:layout_width="wrap_content" android:layout_height="wrap_content" android:scaleType="fitXY" android:text="@string/end_screen_bullet_one_text" android:layout_marginStart="12.0dip" />
+                </LinearLayout>
+                <LinearLayout android:gravity="top" android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="24.0dip" android:layout_marginStart="12.0dip" android:layout_marginEnd="12.0dip">
+                    <ImageView android:layout_gravity="center_vertical" android:id="@id/bulletTwoIcon" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/ic_lock_black_24dp" android:alpha="0.5" />
+                    <TextView android:textSize="15.0sp" android:layout_gravity="center_vertical" android:id="@id/bulletTwoText" android:layout_width="wrap_content" android:layout_height="wrap_content" android:scaleType="fitXY" android:text="@string/end_screen_bullet_two_text" android:layout_marginStart="12.0dip" />
+                </LinearLayout>
+                <TextView android:textSize="15.0sp" android:gravity="top" android:id="@id/tipText" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="24.0dip" android:scaleType="fitXY" android:text="@string/end_screen_tip_text" android:layout_marginStart="12.0dip" android:layout_marginEnd="12.0dip" />
+            </LinearLayout>
+        </ScrollView>
+    </LinearLayout>
+</LinearLayout>

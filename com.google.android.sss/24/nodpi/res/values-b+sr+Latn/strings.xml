@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="software_update_title">Softversko ažuriranje</string>
+    <string name="downloading_update_description">Ažuriranja su važna. Novi sistemski softver je dostupan i trenutno se preuzima. Primeniće se automatski čim se preuzimanje završi</string>
+    <string name="downloading_remaining_mb">Ostalo je još ^1 MB</string>
+    <string name="percent_progress">^1 %</string>
+    <string name="unable_to_download">Nije moguće preuzeti ažuriranje</string>
+    <string name="probelem_downloading">Došlo je do problema pri preuzimanju softverskog ažuriranja. Pošto je ovo ažuriranje važno, treba da se primeni da biste mogli da nastavite.</string>
+    <string name="verify_network">Verifikujte podešavanja mreže, pa pokušajte ponovo.</string>
+    <string name="try_again">Pokušajte ponovo</string>
+    <string name="network_settings">Podešavanja mreže</string>
+    <string name="software_update_ready">Softversko ažuriranje je spremno</string>
+    <string name="new_software_description">Novi sistemski softver je preuzet. Uređaj će se automatski ponovo pokrenuti da bi se instaliralo ažuriranje.</string>
+    <string name="restarting_format">Ažuriranje će se instalirati za ^1 sek.</string>
+    <string name="verifying_description">Ažuriranja su važna. Novi sistemski softver je dostupan i trenutno se preuzima. Primeniće se automatski čim se preuzimanje završi.</string>
+    <string name="verifying">Verifikovanje</string>
+    <string name="date_separator">.</string>
+    <string name="time_separator">:</string>
+    <string name="text_obfuscation_toggle_caption">Sakrij lozinku</string>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="security_questions">
+        <item>Ընտրեք անվտանգության հարց</item>
+        <item>Առաջին հեռախոսահամա՞րը</item>
+        <item>Մանկության լավագույն ընկերոջ անու՞նը</item>
+        <item>Առաջին ուսուցչի անու՞նը</item>
+        <item>Առաջին աշխատավայրի ղեկավարի անու՞նն է</item>
+        <item>Տրանսպորտային միջոցի գրանցման համա՞րը</item>
+    </string-array>
+</resources>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<phenotype-registrations
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <phenotype-registration>
+        <configuration-package>com.google.android.apps.turbo</configuration-package>
+        <log-sources>
+            <log-source>TURBO</log-source>
+            <log-source>TURBO_ANDROID_PRIMES</log-source>
+        </log-sources>
+    </phenotype-registration>
+    <phenotype-registration>
+        <configuration-package>com.google.android.apps.internal.zebedee#com.google.android.apps.turbo</configuration-package>
+        <log-sources>
+            <log-source>TURBO_ANDROID_PRIMES</log-source>
+            <log-source>ZEBEDEE</log-source>
+            <log-source>ZEBEDEE_COUNTERS</log-source>
+        </log-sources>
+    </phenotype-registration>
+</phenotype-registrations>

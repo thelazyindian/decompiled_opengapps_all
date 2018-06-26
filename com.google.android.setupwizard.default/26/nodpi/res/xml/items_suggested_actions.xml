@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ItemGroup
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <Item android:enabled="false" android:id="@id/suggested_actions_description" android:layout="@layout/suw_items_description" android:title="@string/suggested_actions_description" />
+    <ItemGroup android:id="@id/suggested_actions_list" />
+</ItemGroup>

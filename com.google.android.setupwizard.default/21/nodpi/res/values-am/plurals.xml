@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="shutdown_countdown_text">
+        <item quantity="other">"%d ሰከንዶች ውስጥ  በመዝጋት ላይ....."</item>
+        <item quantity="one">"በ 1  ሴኮንድ ውስጥ በመዝጋት ላይ....."</item>
+    </plurals>
+    <plurals name="sim_missing_title">
+        <item quantity="other">ሲም ካርዶችን ያስገቡ</item>
+        <item quantity="one">ሲም ካርድ ያስገቡ</item>
+    </plurals>
+    <plurals name="sim_missing_text_tablet">
+        <item quantity="other">ሲም ካርዶችዎን ለማስገባት ከጡባዊዎ ጋር አብሮ የመጣውን መመሪያ ያንብቡ።</item>
+        <item quantity="one">ሲም ካርድዎን ለማስገባት ከጡባዊዎ ጋር የመጡትን መመሪያዎች ያንብቡ።</item>
+    </plurals>
+    <plurals name="sim_missing_text_device">
+        <item quantity="other">ሲም ካርዶችዎን ለማስገባት ከመሣሪያዎ ጋር አብሮ የመጣውን መመሪያ ያንብቡ።</item>
+        <item quantity="one">ሲም ካርድዎን ለማስገባት ከመሣሪያዎ ጋር አብረው የመጡ መመሪያዎችን ያንብቡ።</item>
+    </plurals>
+    <plurals name="sim_missing_text_default">
+        <item quantity="other">ሲም ካርዶችዎን ለማስገባት ከስልክዎ ጋር አብሮ የመጣውን መመሪያ ያንብቡ።</item>
+        <item quantity="one">ሲም ካርድዎን ለማስገባት ከስልክዎ ጋር የመጣውን መመሪያ ያንብቡ።</item>
+    </plurals>
+</resources>

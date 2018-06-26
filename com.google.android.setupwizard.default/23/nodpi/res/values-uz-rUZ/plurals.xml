@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="shutdown_countdown_text">
+        <item quantity="other">%d soniyadan so‘ng o‘chadi…</item>
+        <item quantity="one">1 soniyadan so‘ng o‘chadi…</item>
+    </plurals>
+    <plurals name="sim_missing_title">
+        <item quantity="other">SIM kartalarni joylang</item>
+        <item quantity="one">SIM kartani joylang</item>
+    </plurals>
+    <plurals name="sim_missing_text_tablet">
+        <item quantity="other">Bilmaysizmi? Planshetingiz bilan birga kelgan ko‘rsatmalarni ko‘rib chiqing.</item>
+        <item quantity="one">Bilmaysizmi? Planshetingiz bilan birga kelgan ko‘rsatmalarni ko‘rib chiqing.</item>
+    </plurals>
+    <plurals name="sim_missing_text_device">
+        <item quantity="other">Bilmaysizmi? Qurilmangiz bilan birga kelgan ko‘rsatmalarni ko‘rib chiqing.</item>
+        <item quantity="one">Bilmaysizmi? Qurilmangiz bilan birga kelgan ko‘rsatmalarni ko‘rib chiqing.</item>
+    </plurals>
+    <plurals name="sim_missing_text_default">
+        <item quantity="other">Bilmaysizmi? Telefoningiz bilan birga kelgan ko‘rsatmalarni ko‘rib chiqing.</item>
+        <item quantity="one">Bilmaysizmi? Telefoningiz bilan birga kelgan ko‘rsatmalarni ko‘rib chiqing.</item>
+    </plurals>
+    <plurals name="walled_garden_check_timeout_text">
+        <item quantity="other">Bu %d daqiqagacha vaqt olishi mumkin</item>
+        <item quantity="one">Bu %d daqiqagacha vaqt olishi mumkin</item>
+    </plurals>
+</resources>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Sikkert ansigt</string>
+    <string name="receiver_app_name">Signalmodtager til Sikkert ansigt</string>
+    <string name="setup_app_name">Tilføj et betroet ansigt</string>
+    <string name="enrollment_continue_label">Næste</string>
+    <string name="enrollment_done_label">Færdig</string>
+    <string name="enrollment_initializing">Starter...</string>
+    <string name="enrollment_start_message">Hold ansigtet inden for det prikkede område</string>
+    <string name="gar_preview_description">Forhåndsvisning af kamera</string>
+    <string name="error_no_face">Vis dit ansigt</string>
+    <string name="enrollment_missing_landmarks">Vis øjne, næse og mund</string>
+    <string name="enrollment_missing_landmarks_status">Dit ansigt kan ikke registreres</string>
+    <string name="enrollment_off_center_status">En del af dit ansigt kan ikke ses</string>
+    <string name="gar_enrollment_face_added">Der er tilføjet et ansigt</string>
+    <string name="enrollment_done">OK, forstået</string>
+    <string name="tutorial_app_name">Om Sikkert ansigt</string>
+    <string name="tutorial_header">Kig på din telefon for at låse den op.</string>
+    <string name="tutorial_info_text">"Vær opmærksom på følgende:
+
+ "<li><ul>"Ansigtsmatchning er mindre sikkert end et mønster, en pinkode eller en adgangskode.
+
+ "<li>En person, der ligner dig, kan låse din telefon op.</li>"
+
+ "<li>De data, der bruges til at identificere dit ansigt, holdes private på din telefon.</li>"
+
+ "</ul></li></string>
+    <string name="tutorial_continue_label">Konfigurer</string>
+    <string name="intro_header">For at opnå de bedste resultater:</string>
+    <string name="intro_info_text">" "<li><ul>"Find et sted indendøre med moderat belysning – hverken for lyst eller mørkt.
+
+"<li>Hold telefonen i øjenhøjde.</li>"
+
+ "</ul></li></string>
+    <string name="intro_continue_label">Næste</string>
+    <string name="endscreen_header">Så er vi klar!</string>
+    <string name="endscreen_info_text">Når du vil låse op, skal du bare tænde for din skærm og vise dit ansigt til kameraet.</string>
+    <string name="endscreen_bullet_one_text">Telefonen låses op, så snart den genkender dig.</string>
+    <string name="endscreen_bullet_two_text">Hvis telefonen ikke genkender dit ansigt, kan du låse den op ved hjælp af dit mønster, din pinkode eller din adgangskode.</string>
+    <string name="endscreen_tip_text">Tip! Gør ansigtsgenkendelsen bedre ved at vise, hvordan du ser ud under forskellige forhold.</string>
+    <string name="endscreen_continue_label">OK</string>
+    <string name="endscreen_license_label">Licenser</string>
+    <string name="addtosetup_app_name">Gør ansigtsregistrering bedre</string>
+    <string name="addtosetup_header">Vis, hvordan du ser ud under forskellige forhold.</string>
+    <string name="addtosetup_info_text">"Eksempler:
+
+"<li><ul>"I forskellige belysning
+
+"<li>Med eller uden briller</li>"
+
+"<li>Med skæg eller glatbarberet</li>"
+
+"</ul></li>"
+Hold telefonen i øjenhøjde."</string>
+    <string name="addtosetup_continue_label">Næste</string>
+    <string name="license_screen_header">Bemærkninger om open source</string>
+    <string name="license_screen_continue_label">OK</string>
+    <string name="face_unlock_service_app_name">Tjenesten Ansigtslås</string>
+    <string name="trusted_face_service_app_name">Tjeneste til Sikkert ansigt</string>
+    <string name="service_face_not_found">Der kunne ikke findes et ansigt</string>
+    <string name="service_not_a_match">Beklager, vi kan ikke genkende dig</string>
+    <string name="service_liveliness_start">Blink nu</string>
+    <string name="service_liveliness_timeout">Dit blink blev ikke registreret</string>
+    <string name="service_low_ligthing">Der er for lidt lys</string>
+    <string name="shared_initialize_error">Dit ansigt blev ikke fundet</string>
+    <string name="shared_camera_error">Kameraet er ikke tilgængeligt</string>
+    <string name="shared_read_gallery_error">Gentag konfigurationen</string>
+    <string name="shared_cancel_label">Annuller</string>
+</resources>

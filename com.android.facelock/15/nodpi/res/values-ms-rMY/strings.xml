@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Wajah yang Dipercayai</string>
+    <string name="receiver_app_name">Penerima Siaran Wajah yang Dipercayai</string>
+    <string name="setup_app_name">Tambah muka yang dipercayai</string>
+    <string name="enrollment_continue_label">Seterusnya</string>
+    <string name="enrollment_done_label">Selesai</string>
+    <string name="enrollment_initializing">Memulakan…</string>
+    <string name="enrollment_start_message">Pastikan muka dalam kawasan bertitik</string>
+    <string name="gar_preview_description">Pratonton kamera</string>
+    <string name="error_no_face">Tunjukkan wajah anda</string>
+    <string name="enrollment_missing_landmarks">Tunjukkan mata, hidung dan mulut</string>
+    <string name="enrollment_missing_landmarks_status">Tidak dapat melihat raut wajah anda</string>
+    <string name="enrollment_off_center_status">Tidak dapat melihat sebahagian daripada wajah anda</string>
+    <string name="gar_enrollment_face_added">Wajah telah ditambahkan</string>
+    <string name="enrollment_done">Faham</string>
+    <string name="tutorial_app_name">Mengenai wajah yang dipercayai</string>
+    <string name="tutorial_header">Pandang telefon anda untuk membuka kuncinya.</string>
+    <string name="tutorial_info_text">"Sentiasa ingat perkara ini:
+
+ "<li><ul>"Pemadanan wajah adalah kurang selamat berbanding corak, PIN atau kata laluan.
+
+ "<li>Seseorang yang kelihatan seperti anda boleh membuka kunci telefon anda.</li>"
+
+ "<li>Data yang digunakan untuk mengecam wajah anda disimpan secara sulit pada telefon.</li>"
+
+ "</ul></li></string>
+    <string name="tutorial_continue_label">Sediakan</string>
+    <string name="intro_header">Untuk hasil terbaik:</string>
+    <string name="intro_info_text">" "<li><ul>"Cari tempat tertutup--tidak terlalu terang atau terlalu malap.
+
+ "<li>Pegang telefon pada paras mata.</li>"
+
+ "</ul></li></string>
+    <string name="intro_continue_label">Seterusnya</string>
+    <string name="endscreen_header">Semua sedia!</string>
+    <string name="endscreen_info_text">Apabila anda ingin membuka kunci, hidupkan skrin anda dan tunjukkan muka anda ke kamera.</string>
+    <string name="endscreen_bullet_one_text">Telefon anda dibuka kunci sebaik sahaja mengecam anda.</string>
+    <string name="endscreen_bullet_two_text">Jika telefon anda tidak mengecam muka anda, anda boleh membuka kunci dengan corak, PIN atau kata laluan anda.</string>
+    <string name="endscreen_tip_text">Petua: Perbaik pemadanan muka dengan menunjukkan rupa anda dalam keadaan berbeza</string>
+    <string name="endscreen_continue_label">OK</string>
+    <string name="endscreen_license_label">Lesen</string>
+    <string name="addtosetup_app_name">Tingkatkan pemadanan muka</string>
+    <string name="addtosetup_header">Tunjukkan rupa anda dalam keadaan berbeza.</string>
+    <string name="addtosetup_info_text">"Contoh:
+
+ "<li><ul>"Dalam pencahayaan yang berbeza
+
+ "<li>Dengan atau tanpa kaca mata preskripsi </li>"
+
+ "<li>Berjanggut atau bercukur licin</li>"
+
+ "</ul></li>"
+Pegang telefon pada paras mata."</string>
+    <string name="addtosetup_continue_label">Seterusnya</string>
+    <string name="license_screen_header">Notis Sumber Terbuka</string>
+    <string name="license_screen_continue_label">OK</string>
+    <string name="face_unlock_service_app_name">Perkhidmatan Buka Kunci Wajah</string>
+    <string name="trusted_face_service_app_name">Perkhidmatan Wajah yang Dipercayai</string>
+    <string name="service_face_not_found">Tidak dapat mencari wajah</string>
+    <string name="service_not_a_match">Maaf, tidak dapat mengecam anda</string>
+    <string name="service_liveliness_start">Berkelip sekarang</string>
+    <string name="service_liveliness_timeout">Tidak nampak kelipan anda</string>
+    <string name="service_low_ligthing">Pencahayaan terlalu rendah</string>
+    <string name="shared_initialize_error">Tidak dapat mula mencari wajah anda</string>
+    <string name="shared_camera_error">Kamera tidak tersedia</string>
+    <string name="shared_read_gallery_error">Sila ulangi persediaan</string>
+    <string name="shared_cancel_label">Batal</string>
+</resources>

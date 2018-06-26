@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Vertrouwd gezicht</string>
+    <string name="trusted_face_service_app_name">Service Vertrouwd gezicht</string>
+    <string name="receiver_app_name">Ontvanger voor Vertrouwd gezicht</string>
+    <string name="setup_app_name">Een vertrouwd gezicht toevoegen</string>
+    <string name="add_to_setup_app_name">Gezichtsvergelijking verbeteren</string>
+    <string name="intro_screen_title">Over Vertrouwd gezicht</string>
+    <string name="intro_screen_header">Je telefoon ontgrendelen door deze aan te kijken</string>
+    <string name="intro_screen_body">"Houd rekening met het volgende:
+
+ "<li><ul>"Ontgrendelen via gezichtsherkenning is minder veilig dan een patroon, pincode of wachtwoord.
+
+ "<li>Iemand die op jou lijkt, kan je telefoon ontgrendelen.</li>"
+
+ "<li>De gegevens die worden gebruikt om je gezicht te herkennen, worden privé opgeslagen op je telefoon.</li> </ul></li></string>
+    <string name="intro_screen_continue_label">Configureren</string>
+    <string name="instructions_screen_title">Een vertrouwd gezicht toevoegen</string>
+    <string name="instructions_screen_header">Voor de beste resultaten:</string>
+    <string name="instructions_screen_body">" "<li><ul>"Zoek een plek binnenshuis met normale verlichting (niet te licht of te donker).
+
+ "<li>Houd de telefoon op ooghoogte.</li> </ul></li></string>
+    <string name="instructions_screen_continue_label">Volgende</string>
+    <string name="enrollment_screen_message_initializing">Starten…</string>
+    <string name="enrollment_screen_message_initialization_error">Kan zoeken naar je gezicht niet starten</string>
+    <string name="enrollment_screen_message_camera_error">De camera is niet beschikbaar</string>
+    <string name="enrollment_start_message">Houd je gezicht in het gebied binnen de stippellijn</string>
+    <string name="enrollment_screen_message_instructions">Houd de bovenkant van je hoofd en de onderkant van je kin binnen de cirkel.</string>
+    <string name="enrollment_screen_message_missing_landmarks">Laat je ogen, neus en mond zien</string>
+    <string name="enrollment_screen_message_done">Gezicht toegevoegd</string>
+    <string name="enrollment_screen_status_no_face">Laat je gezicht zien</string>
+    <string name="enrollment_screen_status_face_off_center">Kan een deel van je gezicht niet zien</string>
+    <string name="enrollment_screen_status_missing_landmarks">Kan je gezicht niet goed zien</string>
+    <string name="enrollment_screen_continue_label">Volgende</string>
+    <string name="enrollment_screen_done_label">Gereed</string>
+    <string name="enrollment_screen_talkback_preview_description">Cameravoorbeeld</string>
+    <string name="enrollment_screen_talkback_face_added">Gezicht toegevoegd</string>
+    <string name="end_screen_title">Alles is klaar!</string>
+    <string name="end_screen_body">Als je de telefoon wilt ontgrendelen, schakel je het scherm in en kijk je in de camera.</string>
+    <string name="end_screen_bullet_one_text">Zodra je wordt herkend, wordt de telefoon ontgrendeld.</string>
+    <string name="end_screen_bullet_two_text">Als je gezicht niet wordt herkend, kun je ontgrendelen met je patroon, pincode of wachtwoord.</string>
+    <string name="end_screen_tip_text">Tip: Verbeter gezichtsherkenning door te bekijken hoe je er in verschillende omstandigheden uitziet.</string>
+    <string name="end_screen_licenses_label">Licenties</string>
+    <string name="end_screen_continue_label">Gereed</string>
+    <string name="add_to_setup_intro_screen_title">Gezichtsvergelijking verbeteren</string>
+    <string name="add_to_setup_intro_screen_header">Laat zien hoe je er in verschillende omstandigheden uitziet.</string>
+    <string name="add_to_setup_intro_screen_body">"Voorbeelden:
+
+ "<li><ul>"Bij verschillende belichting
+
+ "<li>Met of zonder bril</li>"
+
+ "<li>Met of zonder baard</li>"
+
+ "</ul></li>"
+ Houd de telefoon op ooghoogte"</string>
+    <string name="add_to_setup_intro_screen_continue_label">Volgende</string>
+    <string name="license_screen_header">Open source-kennisgevingen</string>
+    <string name="license_screen_continue_label">OK</string>
+    <string name="shared_cancel_label">Annuleren</string>
+</resources>

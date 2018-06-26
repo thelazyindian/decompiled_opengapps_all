@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Důvěryhodný obličej</string>
+    <string name="receiver_app_name">Přijímač vysílání důvěryhodného obličeje</string>
+    <string name="setup_app_name">Přidat důvěryhodný obličej</string>
+    <string name="enrollment_continue_label">Další</string>
+    <string name="enrollment_done_label">Hotovo</string>
+    <string name="enrollment_initializing">Spouštění...</string>
+    <string name="enrollment_start_message">Obličej držte uvnitř vytečkované oblasti</string>
+    <string name="gar_preview_description">Náhled fotoaparátu</string>
+    <string name="error_no_face">Zobrazit obličej</string>
+    <string name="enrollment_missing_landmarks">Ukázat oči, nos a ústa</string>
+    <string name="enrollment_missing_landmarks_status">Vaše rysy se nepodařilo určit</string>
+    <string name="enrollment_off_center_status">Některé části obličeje nejsou vidět</string>
+    <string name="gar_enrollment_face_added">Obličej přidán</string>
+    <string name="enrollment_done">Rozumím</string>
+    <string name="tutorial_app_name">O důvěryhodném obličeji</string>
+    <string name="tutorial_header">Chcete-li odemknout telefon, podívejte se na něj.</string>
+    <string name="tutorial_info_text">"Mějte na paměti následující:
+
+ "<li><ul>"Rozpoznávání obličejem je méně bezpečné než gesto, PIN nebo heslo.
+
+ "<li>Telefon by mohla odemknout osoba, která se vám podobá.</li>"
+
+ "<li>Data sloužící k rozpoznání obličeje jsou v telefonu uchovávána jako soukromá.</li>"
+
+ "</ul></li></string>
+    <string name="tutorial_continue_label">Nastavit</string>
+    <string name="intro_header">Pro nejlepší výsledky:</string>
+    <string name="intro_info_text">" "<li><ul>"Najděte v interiéru přiměřeně osvětlené místo – ne příliš světlé ani tmavé.
+
+ "<li>Podržte telefon v úrovni očí.</li>"
+
+ "</ul></li></string>
+    <string name="intro_continue_label">Další</string>
+    <string name="endscreen_header">Vše je nastaveno.</string>
+    <string name="endscreen_info_text">Za účelem odemknutí stačí zapnout obrazovku a ukázat obličej na kameru.</string>
+    <string name="endscreen_bullet_one_text">Telefon se odemkne ihned, jakmile vás rozpozná.</string>
+    <string name="endscreen_bullet_two_text">Pokud telefon váš obličej nerozezná, můžete jej odemknout pomocí gesta, kódu PIN nebo hesla.</string>
+    <string name="endscreen_tip_text">Tip: Zlepšete rozpoznávání obličeje tím, že ukážete, jak vypadáte za různých podmínek.</string>
+    <string name="endscreen_continue_label">OK</string>
+    <string name="endscreen_license_label">Licence</string>
+    <string name="addtosetup_app_name">Zlepšit rozpoznávání obličeje</string>
+    <string name="addtosetup_header">Ukažte, jak vypadáte za různých podmínek.</string>
+    <string name="addtosetup_info_text">"Příklady:
+
+ "<li><ul>"Za různého osvětlení
+
+ "<li>S brýlemi a bez brýlí</li>"
+
+ "<li>S vousy a bez vousů</li>"
+
+ "</ul></li>"
+Podržte telefon v úrovni očí."</string>
+    <string name="addtosetup_continue_label">Další</string>
+    <string name="license_screen_header">Sdělení k softwaru s otevřeným zdrojovým kódem</string>
+    <string name="license_screen_continue_label">OK</string>
+    <string name="face_unlock_service_app_name">Služba Odemknutí obličejem</string>
+    <string name="trusted_face_service_app_name">Služba Důvěryhodný obličej</string>
+    <string name="service_face_not_found">Obličej se nepodařilo nalézt.</string>
+    <string name="service_not_a_match">Lituji, ale nepoznávám vás</string>
+    <string name="service_liveliness_start">Mrkněte</string>
+    <string name="service_liveliness_timeout">Mrknutí nebylo zachyceno</string>
+    <string name="service_low_ligthing">Osvětlení je příliš slabé</string>
+    <string name="shared_initialize_error">Hledání obličeje nelze zahájit</string>
+    <string name="shared_camera_error">Fotoaparát není k dispozici</string>
+    <string name="shared_read_gallery_error">Opakujte prosím nastavení</string>
+    <string name="shared_cancel_label">Zrušit</string>
+</resources>

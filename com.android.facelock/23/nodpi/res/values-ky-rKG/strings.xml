@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ишенимдүү жүз</string>
+    <string name="trusted_face_service_app_name">Ишенимдүү жүз кызматы</string>
+    <string name="receiver_app_name">Ишенимдүү жүз таркатмасын кабыл алгыч</string>
+    <string name="setup_app_name">Ишенимдүү жүз кошуу</string>
+    <string name="add_to_setup_app_name">Жүз дал келүүсүн жакшыртуу</string>
+    <string name="intro_screen_title">Ишенимдүү жүз жөнүндө</string>
+    <string name="intro_screen_header">Телефонуңузду карап туруп эле кулпусун ачып алыңыз</string>
+    <string name="intro_screen_body">"Унутпаңыз:
+
+ "<li><ul>"Кулпуну жүз менен ачууга караганда, үлгү, PIN код же сырсөз менен ачуу кыйла коопсуз
+
+ "<li>Сизге түспөлдөш адам телефонуңуздун кулпусун ачып алышы мүмкүн</li>"
+
+ "<li>Жүзүңүздү таануу үчүн колдонулган дайындар телефонуңузда купуя шартта сакталат</li> </ul></li></string>
+    <string name="intro_screen_continue_label">Орнотуу</string>
+    <string name="instructions_screen_title">Ишенимдүү бет кошуу</string>
+    <string name="instructions_screen_header">Мыкты натыйжаларды алуу үчүн:</string>
+    <string name="instructions_screen_body">" "<li><ul>"Ичкериде өтө жарык же өтө караңгы эмес жай табыңыз
+
+ "<li>Телефонду көзүңүздүн деңгээлинде кармаңыз</li> </ul></li></string>
+    <string name="instructions_screen_continue_label">Кийинки</string>
+    <string name="enrollment_screen_message_initializing">Башталууда…</string>
+    <string name="enrollment_screen_message_initialization_error">Жүзүңүз изделип башталган жок</string>
+    <string name="enrollment_screen_message_camera_error">Камера жеткиликтүү эмес</string>
+    <string name="enrollment_start_message">Жүзүңүздү чекиттүү аймактын ичинде кармаңыз</string>
+    <string name="enrollment_screen_message_instructions">Башыңыздын төбөсү менен ээгиңиздин астын тегеректин ичине кармаңыз</string>
+    <string name="enrollment_screen_message_missing_landmarks">Көздөрдү, мурунду жана оозду көрсөтүңүз</string>
+    <string name="enrollment_screen_message_done">Жүз кошулду</string>
+    <string name="enrollment_screen_status_no_face">Жүзүңүздү көрсөтүңүз</string>
+    <string name="enrollment_screen_status_face_off_center">Жүзүңүздүн бир бөлүгүн көрө албай жатат</string>
+    <string name="enrollment_screen_status_missing_landmarks">Жүзүңүз жакшы көрүнбөй жатат</string>
+    <string name="enrollment_screen_continue_label">Кийинки</string>
+    <string name="enrollment_screen_done_label">Даяр</string>
+    <string name="enrollment_screen_talkback_preview_description">Камеранын алдыртан көрүнүшү</string>
+    <string name="enrollment_screen_talkback_face_added">Жүз кошулду</string>
+    <string name="end_screen_title">Дапдаяр!</string>
+    <string name="end_screen_body">Телефонуңуздун кулпусун ачуу үчүн, жөн гана экраныңызды күйгүзүп, камераны караңыз</string>
+    <string name="end_screen_bullet_one_text">Телефонуңуздун кулпусу сизди тааныр замат ачылат</string>
+    <string name="end_screen_bullet_two_text">Эгер жүзүңүз таанылбаса, кулпуну үлгү ачкычы, PIN же сырсөзүңүз менен ачыңыз</string>
+    <string name="end_screen_tip_text">Кеңеш: Жүзүңүздү ар кандай шартта тартcаңыз, ал жакшыраак таанылат</string>
+    <string name="end_screen_licenses_label">Уруксаттамалар</string>
+    <string name="end_screen_continue_label">Даяр</string>
+    <string name="add_to_setup_intro_screen_title">Жүз дал келүүсүн жакшыртуу</string>
+    <string name="add_to_setup_intro_screen_header">Түрлүү шарттарда кандай көрүнөөрүңүздү көрсөтүңүз</string>
+    <string name="add_to_setup_intro_screen_body">"Мисалдар:
+
+ "<li><ul>"Жарык ар кайсы жактан түшүп турганда
+
+ "<li>Көз айнекчен же көз айнексиз</li>"
+
+ "<li>Сакалчан же сакалсыз</li>"
+
+ "</ul></li>"
+ Телефонду көзүңүздүн деңгээлинде кармаңыз"</string>
+    <string name="add_to_setup_intro_screen_continue_label">Кийинки</string>
+    <string name="license_screen_header">Ачык программалар жөнүндө эскертмелер</string>
+    <string name="license_screen_continue_label">OK</string>
+    <string name="shared_cancel_label">Жокко чыгаруу</string>
+</resources>

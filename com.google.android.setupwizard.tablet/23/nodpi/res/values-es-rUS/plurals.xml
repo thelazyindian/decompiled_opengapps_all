@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="shutdown_countdown_text">
+        <item quantity="other">Se apagará en %d segundos…</item>
+        <item quantity="one">Se apagará en 1 segundo…</item>
+    </plurals>
+    <plurals name="sim_missing_title">
+        <item quantity="other">Insertar las tarjetas SIM</item>
+        <item quantity="one">Insertar la tarjeta SIM</item>
+    </plurals>
+    <plurals name="sim_missing_text_tablet">
+        <item quantity="other">¿No sabes cómo hacerlo? Revisa las instrucciones que vinieron con la tablet.</item>
+        <item quantity="one">¿No sabes cómo hacerlo? Revisa las instrucciones que vinieron con la tablet.</item>
+    </plurals>
+    <plurals name="sim_missing_text_device">
+        <item quantity="other">¿No sabes cómo hacerlo? Revisa las instrucciones que vinieron con el dispositivo.</item>
+        <item quantity="one">¿No sabes cómo hacerlo? Revisa las instrucciones que vinieron con el dispositivo.</item>
+    </plurals>
+    <plurals name="sim_missing_text_default">
+        <item quantity="other">¿No sabes cómo hacerlo? Revisa las instrucciones que vinieron con el teléfono.</item>
+        <item quantity="one">¿No sabes cómo hacerlo? Revisa las instrucciones que vinieron con el teléfono.</item>
+    </plurals>
+    <plurals name="walled_garden_check_timeout_text">
+        <item quantity="other">Esta operación puede tardar hasta %d minutos.</item>
+        <item quantity="one">Esta operación puede tardar hasta %d minuto.</item>
+    </plurals>
+</resources>

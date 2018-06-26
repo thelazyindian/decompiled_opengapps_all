@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout paddingStart="scanning_method_dialog_padding_start_end" paddingEnd="scanning_method_dialog_padding_start_end">
+    <include layout="@layout/switch_access_setup_scanning_method" />
+</LinearLayout>
