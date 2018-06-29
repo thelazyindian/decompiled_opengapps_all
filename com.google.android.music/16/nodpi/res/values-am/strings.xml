@@ -787,7 +787,7 @@
     <string name="stream_error_another_stream_being_played_notification">ሌላ መሳሪያ ላይ እየሰማህ ነው።</string>
     <string name="stream_error_another_stream_being_played_notification_short">ሙዚቃ ለአፍታ ቆሟል።</string>
     <string name="stream_error_another_stream_being_played_short">ሙዚቃ ለአፍታ ቆሟል።</string>
-    <string name="stream_error_device_not_authorized">የእርስዎን ቤተ-ሙዚቃ እስከ 5 ዘመናዊ ስልኮች እና በጠቅላላ እስከ 10 መሣሪያዎች ጋር አብሮ መጠቀም ይቻላል። ሌላ ማከል ከመቻልዎ በፊት የአንዱ መሣሪያዎ መሣሪያ ፍቃድ መሻር ይኖርብዎታል።</string>
+    <string name="stream_error_device_not_authorized">የሙዚቃ ቤተ-መፃሕፍትዎ እስከ 10 ከሚደርሱ መሣሪያዎች ጋር መጠቀም ይቻላል። ሌላ ከማከልዎ በፊት የአንዱን መሣሪያዎ ፈቃድ ማንሳት ይኖርብዎታል።</string>
     <string name="stream_error_device_not_authorized_link">https://play.google.com/music/listen?view=settings_pl</string>
     <string name="stream_error_device_not_authorized_manage_devices_button">መሣሪያዎችን አቀናብር</string>
     <string name="stream_error_device_not_authorized_not_now_button">አሁን አይደለም</string>

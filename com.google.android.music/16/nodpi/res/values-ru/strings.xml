@@ -787,7 +787,7 @@
     <string name="stream_error_another_stream_being_played_notification">Музыка играет на другом устройстве.</string>
     <string name="stream_error_another_stream_being_played_notification_short">Воспроизведение приостановлено</string>
     <string name="stream_error_another_stream_being_played_short">Воспроизведение приостановлено</string>
-    <string name="stream_error_device_not_authorized">Фонотекой можно пользоваться не более чем на 10 устройствах, в том числе на 5 смартфонах. Чтобы добавить устройство, отключите одно от Google Play Музыки.</string>
+    <string name="stream_error_device_not_authorized">Фонотеку можно использовать не более чем на 10 устройствах. Чтобы добавить новое устройство, удалите одно из авторизованных.</string>
     <string name="stream_error_device_not_authorized_link">https://play.google.com/music/listen?view=settings_pl</string>
     <string name="stream_error_device_not_authorized_manage_devices_button">Устройства</string>
     <string name="stream_error_device_not_authorized_not_now_button">Не сейчас</string>

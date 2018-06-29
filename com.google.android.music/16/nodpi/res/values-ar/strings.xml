@@ -787,7 +787,7 @@
     <string name="stream_error_another_stream_being_played_notification">إنك تستمع على جهاز آخر.</string>
     <string name="stream_error_another_stream_being_played_notification_short">توقفت الموسيقى مؤقتًا.</string>
     <string name="stream_error_another_stream_being_played_short">توقفت الموسيقى مؤقتًا.</string>
-    <string name="stream_error_device_not_authorized">تتسع مكتبة الموسيقى لديك للاستخدام بواسطة ما يصل إلى 5 هواتف ذكية و10 أجهزة إجمالاً. وسيلزمك إلغاء مصادقة أحد أجهزتك حتى يتسنى لك إضافة جهاز آخر.</string>
+    <string name="stream_error_device_not_authorized">يمكنك استخدام مكتبتك الموسيقية على ما يصل إلى 10 أجهزة. وسيلزمك إلغاء مصادقة أحد أجهزتك قبل إضافة جهاز آخر.</string>
     <string name="stream_error_device_not_authorized_link">https://play.google.com/music/listen?view=settings_pl</string>
     <string name="stream_error_device_not_authorized_manage_devices_button">إدارة الأجهزة</string>
     <string name="stream_error_device_not_authorized_not_now_button">ليس الآن</string>
@@ -949,7 +949,7 @@
     <string name="wait_for_item">في انتظار مزامنة الموسيقى.</string>
     <string name="wait_for_item_failure">جارٍ حاليًا إضافة الموسيقى. يُرجى الانتظار قليلاً وإعادة المحاولة.</string>
     <string name="waiting_share">جارٍ مشاركة %s</string>
-    <string name="wear_manage_downloads_device_storage_title">السعة التخزينية للجهاز</string>
+    <string name="wear_manage_downloads_device_storage_title">سعة التخزين للجهاز</string>
     <string name="wear_manage_downloads_downloaded_title">الموسيقى التي تم تنزيلها</string>
     <string name="wear_manage_downloads_sync_paused_phone_battery">اشحن الهاتف لإتمام المزامنة</string>
     <string name="wear_manage_downloads_sync_paused_watch_battery">اشحن الساعة لإتمام المزامنة</string>

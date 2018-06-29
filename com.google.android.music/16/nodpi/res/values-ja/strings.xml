@@ -787,7 +787,7 @@
     <string name="stream_error_another_stream_being_played_notification">別の端末で再生しています。</string>
     <string name="stream_error_another_stream_being_played_notification_short">音楽を一時停止しました。</string>
     <string name="stream_error_another_stream_being_played_short">音楽を一時停止しました。</string>
-    <string name="stream_error_device_not_authorized">音楽ライブラリを使用できるのは、スマートフォンで5台まで、端末合計で10台までです。別の端末を追加するには、その前に端末1台の許可を取り消す必要があります。</string>
+    <string name="stream_error_device_not_authorized">お使いの音楽ライブラリを使用できる端末は 10 台までです。別の端末を追加するには、いずれかの端末の許可を取り消す必要があります。</string>
     <string name="stream_error_device_not_authorized_link">https://play.google.com/music/listen?view=settings_pl</string>
     <string name="stream_error_device_not_authorized_manage_devices_button">端末を管理</string>
     <string name="stream_error_device_not_authorized_not_now_button">後で行う</string>

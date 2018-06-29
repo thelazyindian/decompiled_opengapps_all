@@ -787,7 +787,7 @@
     <string name="stream_error_another_stream_being_played_notification">คุณกำลังฟังบนอุปกรณ์อื่น</string>
     <string name="stream_error_another_stream_being_played_notification_short">หยุดเพลงชั่วคราว</string>
     <string name="stream_error_another_stream_being_played_short">หยุดเพลงชั่วคราว</string>
-    <string name="stream_error_device_not_authorized">คุณสามารถใช้คลังเพลงกับสมาร์ทโฟนได้สูงสุด 5 เครื่อง และรวมอุปกรณ์ทั้งหมดไม่เกิน 10 เครื่อง คุณจะต้องยกเลิกการอนุญาตอุปกรณ์เครื่องใดเครื่องหนึ่งก่อนเพิ่มอีกเครื่อง</string>
+    <string name="stream_error_device_not_authorized">คลังเพลงใช้งานร่วมกับอุปกรณ์ได้สูงสุด 10 เครื่อง คุณจะต้องยกเลิกสิทธิ์การใช้งานคลังเพลงของอุปกรณ์เครื่องใดเครื่องหนึ่งก่อนจึงจะเพิ่มอุปกรณ์อื่นได้</string>
     <string name="stream_error_device_not_authorized_link">https://play.google.com/music/listen?view=settings_pl</string>
     <string name="stream_error_device_not_authorized_manage_devices_button">จัดการอุปกรณ์</string>
     <string name="stream_error_device_not_authorized_not_now_button">ข้ามไปก่อน</string>

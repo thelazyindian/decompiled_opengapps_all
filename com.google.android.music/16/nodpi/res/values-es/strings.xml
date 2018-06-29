@@ -753,13 +753,13 @@ Para escuchar las canciones que has comprado, debes cambiar de cuenta."</string>
     <string name="skip_duplicate_song_button">Saltar</string>
     <string name="skip_to_next_available">Pasando a la siguiente canción disponible...</string>
     <string name="skip_to_next_available_podcast">Pasando al siguiente episodio de podcast disponible</string>
-    <string name="sleep_timer_content_description">Temporizador. Tiempo restante: %1$s</string>
-    <string name="sleep_timer_default_content_description">Temporizador. Añade un temporizador de cuenta atrás para pausar la música</string>
+    <string name="sleep_timer_content_description">Temporizador de suspensión. Tiempo restante: %1$s</string>
+    <string name="sleep_timer_default_content_description">Temporizador de suspensión. Añade un temporizador de cuenta atrás para pausar la música</string>
     <string name="sleep_timer_default_summary">Añade un temporizador de cuenta atrás para pausar la música</string>
     <string name="sleep_timer_dialog_cancel_timer">Cancelar temporizador</string>
     <string name="sleep_timer_dialog_close">Cerrar</string>
     <string name="sleep_timer_dialog_start">Iniciar</string>
-    <string name="sleep_timer_settings_title">Temporizador</string>
+    <string name="sleep_timer_settings_title">Temporizador de suspensión</string>
     <string name="sleep_timer_spinner_hour">Hora</string>
     <string name="sleep_timer_spinner_minute">Minuto</string>
     <string name="sleep_timer_time_left">Tiempo restante: %1$d:%2$02d</string>
@@ -787,7 +787,7 @@ Para escuchar las canciones que has comprado, debes cambiar de cuenta."</string>
     <string name="stream_error_another_stream_being_played_notification">Estás escuchando otro dispositivo.</string>
     <string name="stream_error_another_stream_being_played_notification_short">Música en pausa</string>
     <string name="stream_error_another_stream_being_played_short">Música en pausa</string>
-    <string name="stream_error_device_not_authorized">Tu música se puede utilizar con un máximo de 5 smartphones y 10 dispositivos en total. Deberás desautorizar uno de tus dispositivos antes de añadir otro.</string>
+    <string name="stream_error_device_not_authorized">Puedes usar la biblioteca de música con un máximo de 10 dispositivos. Si quieres añadir otro, tendrás que desautorizar uno de tus dispositivos.</string>
     <string name="stream_error_device_not_authorized_link">https://play.google.com/music/listen?view=settings_pl</string>
     <string name="stream_error_device_not_authorized_manage_devices_button">Administrar dispositivos</string>
     <string name="stream_error_device_not_authorized_not_now_button">Ahora no</string>

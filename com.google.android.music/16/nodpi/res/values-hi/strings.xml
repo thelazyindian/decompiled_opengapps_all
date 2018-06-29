@@ -39,7 +39,7 @@
     <string name="accessibility_downloaded">डाउनलोड किया गया</string>
     <string name="accessibility_duration_hours">%1$s %2$s %3$s</string>
     <string name="accessibility_duration_minutes">%1$s %2$s</string>
-    <string name="accessibility_episode_details_share_button">साझा करें</string>
+    <string name="accessibility_episode_details_share_button">शेयर करें</string>
     <string name="accessibility_episode_progress_description_100">पूर्ण हुआ.</string>
     <string name="accessibility_episode_progress_description_n">%1$d%% सुना गया.</string>
     <string name="accessibility_episode_progress_description_zero">प्रारंभ नहीं हुआ.</string>
@@ -132,8 +132,8 @@
     <string name="cancel_nautilus_reasons_dialog_title">आप सदस्यता छोड़ रहे हैं? क्यों?</string>
     <string name="cast_cancel_uppercase">अभी नहीं</string>
     <string name="cast_disconnected_from">%1$s से डिस्‍कनेक्‍ट किया गया</string>
-    <string name="cast_error_shared_content">गीत चलाने में असमर्थ. साझा किया गया गीत दूरस्थ रूप से नहीं चलाया जा सकता.</string>
-    <string name="cast_error_shared_content_notification">गीत चलाने में असमर्थ. साझा किया गया गीत दूरस्थ रूप से नहीं चलाया जा सकता.</string>
+    <string name="cast_error_shared_content">गीत चलाने में असमर्थ. शेयर किया गया गीत दूरस्थ रूप से नहीं चलाया जा सकता.</string>
+    <string name="cast_error_shared_content_notification">गीत चलाने में असमर्थ. शेयर किया गया गीत दूरस्थ रूप से नहीं चलाया जा सकता.</string>
     <string name="cast_error_shared_content_notification_short">प्‍लेबैक गड़बड़ी</string>
     <string name="cast_error_shared_content_short">प्‍लेबैक गड़बड़ी</string>
     <string name="cast_error_sideloaded_content">गीत चलाने के लिए, उसे अपने कंप्यूटर से Play - संगीत पर अपलोड करें</string>
@@ -182,7 +182,7 @@
     <string name="confirm_delete_local_only">क्‍या आप \"%s\" हटाना चाहते हैं?</string>
     <string name="container_instant_mix">झटपट मिक्‍स</string>
     <string name="container_radio">रेडियो</string>
-    <string name="container_share">साझा करें</string>
+    <string name="container_share">शेयर करें</string>
     <string name="container_title_all_songs">मेरे सभी गीत</string>
     <string name="container_title_ifl">आज मेरी किस्मत अच्छी है</string>
     <string name="container_title_instant_mix">%1$s मिक्स</string>
@@ -363,11 +363,11 @@
     <string name="freemusic_list_title">निःशुल्क गीत</string>
     <string name="genres_title">शैलियां</string>
     <string name="gift_subscription_setting_summary">Google Play - संगीत सदस्‍यता उपहार में दें</string>
-    <string name="gplus_wrong_account">"आप जिस संगीत को चलाने का प्रयास कर रहे हैं वह %1$s खाते से साझा किया गया था
+    <string name="gplus_wrong_account">"आप जिस संगीत को चलाने का प्रयास कर रहे हैं वह %1$s खाते से शेयर किया गया था
 
 आपने वर्तमान में %2$s खाते से Google Play - संगीत में प्रवेश किया हुआ है
 
-अपने साझा किए गए संगीत को सुनने के लिए, पहले खाते स्विच करें."</string>
+अपने शेयर किए गए संगीत को सुनने के लिए, पहले खाते स्विच करें."</string>
     <string name="header_on_device_only">डाउनलोड किया गया</string>
     <string name="header_song_count_on_device_only">%1$s %2$s</string>
     <string name="headphone_notification_default_reason">पहले सुने गए पर आधारित अनुशंसाएं</string>
@@ -428,7 +428,7 @@
     <string name="make_playlist_public_dialog_body">शेयर करने के लिए, आपको पहले इस प्‍लेलिस्‍ट को सार्वजनिक बनाना होगा.</string>
     <string name="make_playlist_public_dialog_cancel">अभी नहीं</string>
     <string name="make_playlist_public_dialog_ok">सार्वजनिक बनाएं</string>
-    <string name="make_playlist_public_dialog_title">प्लेलिस्ट साझा करें</string>
+    <string name="make_playlist_public_dialog_title">प्लेलिस्ट शेयर करें</string>
     <string name="manage_downloads_music_header">संगीत</string>
     <string name="manage_downloads_podcasts_header">पॉडकास्ट</string>
     <string name="manage_downloads_title">डाउनलोड प्रबंधित करें</string>
@@ -467,7 +467,7 @@
     <string name="menu_play_next">अगला चलाएं</string>
     <string name="menu_remove_download">डाउनलोड निकालें</string>
     <string name="menu_remove_from_my_library">लाइब्रेरी से निकालें</string>
-    <string name="menu_share">साझा करें</string>
+    <string name="menu_share">शेयर करें</string>
     <string name="menu_shop_this_artist">इस कलाकार के लिए खरीदारी</string>
     <string name="menu_shuffle_artist">कलाकार शफ़ल करें</string>
     <string name="menu_start_instant_mix">झटपट मिक्स प्रारंभ करें</string>
@@ -505,7 +505,7 @@
     <string name="music_url_no_internet_connection">कोई इंटरनेट कनेक्‍शन नहीं है</string>
     <string name="music_url_podcasts_unavailable">पॉडकास्ट आपके देश में उपलब्ध नहीं हैं</string>
     <string name="music_url_series_no_result">पॉडकास्ट श्रृंखला वर्तमान में उपलब्ध नहीं है</string>
-    <string name="music_url_share_activity_picker_title">इसके द्वारा साझा करें</string>
+    <string name="music_url_share_activity_picker_title">इसके द्वारा शेयर करें</string>
     <string name="music_url_share_album_email_subject">%2$s का %1$s देखें</string>
     <string name="music_url_share_artist_email_subject">%s देखें</string>
     <string name="music_url_share_episode_email_subject">%2$s का %1$s देखें</string>
@@ -737,11 +737,11 @@
     <string name="settings_catergory_wear_caps">WEAR OS</string>
     <string name="setup_server_failure_body">क्षमा करें, हम खाता जोड़ने के लिए सर्वर से कनेक्ट नहीं कर सके. कृपया बाद में सेटिंग से पुन: प्रयास करें.</string>
     <string name="setup_server_failure_title">सर्वर गड़बड़ी</string>
-    <string name="share">साझा करें</string>
-    <string name="share_failure">आपका संगीत साझा करने में कोई समस्या थी.</string>
-    <string name="share_playlist">प्लेलिस्ट साझा करें</string>
-    <string name="share_playlist_error">प्लेलिस्ट साझा करने में विफल</string>
-    <string name="shared_playlist_label">साझा की गई प्लेलिस्ट</string>
+    <string name="share">शेयर करें</string>
+    <string name="share_failure">आपका संगीत शेयर करने में कोई समस्या थी.</string>
+    <string name="share_playlist">प्लेलिस्ट शेयर करें</string>
+    <string name="share_playlist_error">प्लेलिस्ट शेयर करने में विफल</string>
+    <string name="shared_playlist_label">शेयर की गई प्लेलिस्ट</string>
     <string name="shared_playlist_not_available">प्लेलिस्ट को लोड नहीं किया जा सकता. बाद में पुन: प्रयास करें.</string>
     <string name="show_options">विकल्‍प दिखाएं</string>
     <string name="shuffle">शफ़ल करें</string>
@@ -787,7 +787,7 @@
     <string name="stream_error_another_stream_being_played_notification">आप किसी अन्य डिवाइस पर सुन रहे हैं.</string>
     <string name="stream_error_another_stream_being_played_notification_short">संगीत रोका गया.</string>
     <string name="stream_error_another_stream_being_played_short">संगीत रोका गया.</string>
-    <string name="stream_error_device_not_authorized">आपकी संगीत लाइब्रेरी का उपयोग कुल 5 स्मार्टफ़ोन और 10 डिवाइसों तक के साथ किया जा सकता है. कोई दूसरा डिवाइस जोड़ने से पहले आपको अपने किसी एक डिवाइस का प्राधिकरण रद्द करना होगा.</string>
+    <string name="stream_error_device_not_authorized">आपकी संगीत लाइब्रेरी का इस्तेमाल ज़्यादा से ज़्यादा 10 डिवाइस के साथ किया जा सकता है. कोई दूसरा डिवाइस जोड़ने से पहले आपको अपने किसी एक डिवाइस की अनुमति रोकनी होगी.</string>
     <string name="stream_error_device_not_authorized_link">https://play.google.com/music/listen?view=settings_pl</string>
     <string name="stream_error_device_not_authorized_manage_devices_button">डिवाइस को प्रबंधित करें</string>
     <string name="stream_error_device_not_authorized_not_now_button">अभी नहीं</string>
@@ -948,7 +948,7 @@
     <string name="videos_cluster_title">वीडियो</string>
     <string name="wait_for_item">संगीत के समन्‍वयन की प्रतीक्षा की जा रही है.</string>
     <string name="wait_for_item_failure">अभी आपका संगीत जोड़ा जा रहा है. कृपया कुछ समय रुक कर पुन: प्रयास करें.</string>
-    <string name="waiting_share">%s साझा किया जा रहा है</string>
+    <string name="waiting_share">%s शेयर किया जा रहा है</string>
     <string name="wear_manage_downloads_device_storage_title">डिवाइस मेमोरी</string>
     <string name="wear_manage_downloads_downloaded_title">डाउनलोड किया गया संगीत</string>
     <string name="wear_manage_downloads_sync_paused_phone_battery">समन्‍वयित करने के लिए फ़ोन को चार्ज करें</string>

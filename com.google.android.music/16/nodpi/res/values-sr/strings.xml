@@ -787,7 +787,7 @@
     <string name="stream_error_another_stream_being_played_notification">Слушате на другом уређају.</string>
     <string name="stream_error_another_stream_being_played_notification_short">Музика је паузирана.</string>
     <string name="stream_error_another_stream_being_played_short">Музика је паузирана.</string>
-    <string name="stream_error_device_not_authorized">Фонотека може да се користи на највише 5 паметних телефона и на укупно 10 уређаја. Мораћете да опозовете овлашћење за један од уређаја да бисте додали други.</string>
+    <string name="stream_error_device_not_authorized">Фонотека може да се користи са највише 10 уређаја. Треба да опозовете овлашћење за један од уређаја да бисте додали други.</string>
     <string name="stream_error_device_not_authorized_link">https://play.google.com/music/listen?view=settings_pl</string>
     <string name="stream_error_device_not_authorized_manage_devices_button">Управљајте уређајима</string>
     <string name="stream_error_device_not_authorized_not_now_button">Не сада</string>

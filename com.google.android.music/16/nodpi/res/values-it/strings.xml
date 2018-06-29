@@ -654,7 +654,7 @@ Per ascoltare la musica acquistata, cambia account."</string>
     <string name="radio_added_to_library">Radio %s aggiunta a La mia raccolta</string>
     <string name="radio_im_feeling_lucky_reason1_online">In base ai tuoi gusti musicali</string>
     <string name="radio_im_feeling_lucky_reason2_offline_downloaded">Ascolta musica scaricata</string>
-    <string name="radio_im_feeling_lucky_reason2_offline_sideloaded">Riproduzione casuale della musica sul dispositivo</string>
+    <string name="radio_im_feeling_lucky_reason2_offline_sideloaded">Ascolta musica sul dispositivo in ordine casuale</string>
     <string name="radio_my_stations_title">Le mie stazioni</string>
     <string name="radio_recent_stations_title">Stazioni recenti</string>
     <string name="radio_stations_title">Stazioni radio</string>
@@ -745,7 +745,7 @@ Per ascoltare la musica acquistata, cambia account."</string>
     <string name="shared_playlist_not_available">Impossibile caricare la playlist. Riprova più tardi.</string>
     <string name="show_options">Mostra opzioni</string>
     <string name="shuffle">Riproduci casualmente</string>
-    <string name="shuffle_all">Riproduz. casuale di tutto</string>
+    <string name="shuffle_all">Ordine casuale</string>
     <string name="shuffling_music">Riproduzione casuale della musica…</string>
     <string name="situation_driving">Musica per guidare</string>
     <string name="situation_working_out">Musica per tenersi in forma</string>
@@ -787,7 +787,7 @@ Per ascoltare la musica acquistata, cambia account."</string>
     <string name="stream_error_another_stream_being_played_notification">Stai ascoltando su un altro dispositivo.</string>
     <string name="stream_error_another_stream_being_played_notification_short">Musica in pausa.</string>
     <string name="stream_error_another_stream_being_played_short">Musica in pausa.</string>
-    <string name="stream_error_device_not_authorized">"Puoi utilizzare la tua raccolta di musica su massimo cinque smartphone e dieci dispositivi in totale. Devi annullare l'autorizzazione di un dispositivo per poterne aggiungere un altro."</string>
+    <string name="stream_error_device_not_authorized">"La tua raccolta musicale può essere utilizzata con massimo dieci dispositivi. Dovrai annullare l'autorizzazione di uno dei dispositivi, prima di aggiungerne un altro."</string>
     <string name="stream_error_device_not_authorized_link">https://play.google.com/music/listen?view=settings_pl</string>
     <string name="stream_error_device_not_authorized_manage_devices_button">Gestione dei dispositivi</string>
     <string name="stream_error_device_not_authorized_not_now_button">Non ora</string>

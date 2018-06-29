@@ -787,7 +787,7 @@ Da biste slušali kupljenu glazbu, prebacite se na drugi račun."</string>
     <string name="stream_error_another_stream_being_played_notification">Slušate na drugom uređaju.</string>
     <string name="stream_error_another_stream_being_played_notification_short">Glazba je pauzirana.</string>
     <string name="stream_error_another_stream_being_played_short">Glazba je pauzirana.</string>
-    <string name="stream_error_device_not_authorized">Svojom fonotekom možete se služiti na pet pametnih telefona i ukupno 10 uređaja. Morat ćete poništiti autorizaciju nekog uređaja kako biste mogli dodati neki drugi.</string>
+    <string name="stream_error_device_not_authorized">Vaša fonoteka može se upotrebljavati na najviše 10 uređaja. Morat ćete poništiti autorizaciju jednog uređaja da biste mogli dodati neki drugi.</string>
     <string name="stream_error_device_not_authorized_link">https://play.google.com/music/listen?view=settings_pl</string>
     <string name="stream_error_device_not_authorized_manage_devices_button">Upravljajte uređajima</string>
     <string name="stream_error_device_not_authorized_not_now_button">Ne sada</string>

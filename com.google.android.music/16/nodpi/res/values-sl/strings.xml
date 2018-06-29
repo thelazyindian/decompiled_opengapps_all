@@ -787,7 +787,7 @@ V Glasbo Google Play ste trenutno prijavljeni z računom %2$s
     <string name="stream_error_another_stream_being_played_notification">Poslušate v drugi napravi.</string>
     <string name="stream_error_another_stream_being_played_notification_short">Glasba je zaustavljena.</string>
     <string name="stream_error_another_stream_being_played_short">Glasba je zaustavljena.</string>
-    <string name="stream_error_device_not_authorized">Vašo glasbeno knjižnico je mogoče uporabljati z največ 5 pametnimi telefoni in 10 napravami skupaj. Preden dodate novo napravo, morate razveljaviti odobritev ene od naprav.</string>
+    <string name="stream_error_device_not_authorized">Glasbeno knjižnico lahko uporabljate v največ desetih napravah. Pred dodajanjem druge naprave morate preklicati dovoljenje za eno od njih.</string>
     <string name="stream_error_device_not_authorized_link">https://play.google.com/music/listen?view=settings_pl</string>
     <string name="stream_error_device_not_authorized_manage_devices_button">Upravljanje naprav</string>
     <string name="stream_error_device_not_authorized_not_now_button">Ne zdaj</string>

@@ -787,7 +787,7 @@ Jei norite klausytis įsigytos muzikos, pirmiausia perjunkite paskyras."</string
     <string name="stream_error_another_stream_being_played_notification">Klausote muzikos kitame įrenginyje.</string>
     <string name="stream_error_another_stream_being_played_notification_short">Muzika pristabdyta.</string>
     <string name="stream_error_another_stream_being_played_short">Muzika pristabdyta.</string>
-    <string name="stream_error_device_not_authorized">Muzikos biblioteką galima naudoti daugiausia 5 išmaniaisiais telefonais ir iš viso 10 įrenginių. Kad galėtumėte pridėti kitą įrenginį, turėsite atšaukti vieno iš įrenginių prieigos teisę.</string>
+    <string name="stream_error_device_not_authorized">Muzikos biblioteką galima naudoti iki 10 įrenginių. Prieš pridėdami įrenginį turėsite panaikinti vieno iš įrenginių prieigos teisę.</string>
     <string name="stream_error_device_not_authorized_link">https://play.google.com/music/listen?view=settings_pl</string>
     <string name="stream_error_device_not_authorized_manage_devices_button">Tvarkyti įrenginius</string>
     <string name="stream_error_device_not_authorized_not_now_button">Ne dabar</string>

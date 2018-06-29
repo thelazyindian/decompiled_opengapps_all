@@ -400,7 +400,7 @@ Je bent momenteel ingelogd bij Google Play Muziek met het account %2$s
     <string name="launcher_shortcut_short_recent_activity">Recent</string>
     <string name="launcher_shortcut_short_start_ifl">Ik gok</string>
     <string name="license_error">Kan licenties niet laden.</string>
-    <string name="license_title">Opensource-licenties</string>
+    <string name="license_title">Open-sourcelicenties</string>
     <string name="listennow_cluster_header_recents_more">MEER</string>
     <string name="listennow_cluster_header_recents_subtitle">Onlangs geluisterd of toegevoegd</string>
     <string name="listennow_cluster_header_recents_title">Recente activiteit</string>
@@ -654,7 +654,7 @@ Als je naar je aankoop wilt luisteren, moet je eerst overschakelen naar het ande
     <string name="radio_added_to_library">"Radiozender '%s' toegevoegd aan Mijn bibliotheek"</string>
     <string name="radio_im_feeling_lucky_reason1_online">Op basis van je muzieksmaak</string>
     <string name="radio_im_feeling_lucky_reason2_offline_downloaded">Afspelen vanuit gedownloade muziek</string>
-    <string name="radio_im_feeling_lucky_reason2_offline_sideloaded">Shuffle gebruiken voor muziek op apparaat</string>
+    <string name="radio_im_feeling_lucky_reason2_offline_sideloaded">Shuffle muziek op app.</string>
     <string name="radio_my_stations_title">Mijn zenders</string>
     <string name="radio_recent_stations_title">Recente zenders</string>
     <string name="radio_stations_title">Radiozenders</string>
@@ -787,7 +787,7 @@ Als je naar je aankoop wilt luisteren, moet je eerst overschakelen naar het ande
     <string name="stream_error_another_stream_being_played_notification">Je luistert op een ander apparaat.</string>
     <string name="stream_error_another_stream_being_played_notification_short">Muziek onderbroken.</string>
     <string name="stream_error_another_stream_being_played_short">Muziek onderbroken.</string>
-    <string name="stream_error_device_not_authorized">Je muziekbibliotheek kan in totaal met maximaal vijf smartphones en tien apparaten worden gebruikt. Je moet de autorisatie voor een van je apparaten intrekken voordat je nog een apparaat kunt toevoegen.</string>
+    <string name="stream_error_device_not_authorized">Je kunt je muziekbibliotheek met maximaal tien apparaten gebruiken. Je moet de machtiging voor een van je apparaten intrekken voordat je een nieuw apparaat kunt toevoegen.</string>
     <string name="stream_error_device_not_authorized_link">https://play.google.com/music/listen?view=settings_pl</string>
     <string name="stream_error_device_not_authorized_manage_devices_button">Apparaten beheren</string>
     <string name="stream_error_device_not_authorized_not_now_button">Niet nu</string>

@@ -787,7 +787,7 @@
     <string name="stream_error_another_stream_being_played_notification">您正在其他裝置上聽音樂。</string>
     <string name="stream_error_another_stream_being_played_notification_short">音樂已暫停播放。</string>
     <string name="stream_error_another_stream_being_played_short">音樂已暫停播放。</string>
-    <string name="stream_error_device_not_authorized">您最多共可透過 5 支智慧型手機和 10 個裝置使用個人音樂收藏。如要新增其他裝置，請先取消授權您的其中一個裝置。</string>
+    <string name="stream_error_device_not_authorized">你最多只能在 10 個裝置上使用音樂庫。請先取消其中一個裝置的授權，才能新增其他裝置。</string>
     <string name="stream_error_device_not_authorized_link">https://play.google.com/music/listen?view=settings_pl</string>
     <string name="stream_error_device_not_authorized_manage_devices_button">管理裝置</string>
     <string name="stream_error_device_not_authorized_not_now_button">暫時不要</string>

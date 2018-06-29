@@ -45,7 +45,7 @@
     <string name="accessibility_episode_progress_description_zero">Ikke startet.</string>
     <string name="accessibility_event_dropdown_item_selected">%1$s er valgt</string>
     <string name="accessibility_event_tab_selected">%1$s er valgt</string>
-    <string name="accessibility_explicit_content">Eksplicit</string>
+    <string name="accessibility_explicit_content">Explicit</string>
     <string name="accessibility_next">Næste</string>
     <string name="accessibility_next_with_title">Næste: %s</string>
     <string name="accessibility_open_google_play_music_app">Åbn Google Play Musik</string>
@@ -654,7 +654,7 @@ Skift konto for at lytte til dit køb."</string>
     <string name="radio_added_to_library">%s-radio er føjet til Min samling</string>
     <string name="radio_im_feeling_lucky_reason1_online">Baseret på din musiksmag</string>
     <string name="radio_im_feeling_lucky_reason2_offline_downloaded">Afspil fra downloadet musik</string>
-    <string name="radio_im_feeling_lucky_reason2_offline_sideloaded">Bland musikken på enheden</string>
+    <string name="radio_im_feeling_lucky_reason2_offline_sideloaded">Bland enhedens musik</string>
     <string name="radio_my_stations_title">Mine kanaler</string>
     <string name="radio_recent_stations_title">Seneste radiokanaler</string>
     <string name="radio_stations_title">Radiokanaler</string>
@@ -745,7 +745,7 @@ Skift konto for at lytte til dit køb."</string>
     <string name="shared_playlist_not_available">Playlisten kan ikke indlæses. Prøv igen senere.</string>
     <string name="show_options">Vis valgmuligheder</string>
     <string name="shuffle">Bland</string>
-    <string name="shuffle_all">Bland alle</string>
+    <string name="shuffle_all">Bland</string>
     <string name="shuffling_music">Blander musik…</string>
     <string name="situation_driving">Musik til køreturen</string>
     <string name="situation_working_out">Musik til din træning</string>
@@ -787,7 +787,7 @@ Skift konto for at lytte til dit køb."</string>
     <string name="stream_error_another_stream_being_played_notification">Du lytter på en anden enhed.</string>
     <string name="stream_error_another_stream_being_played_notification_short">Musikken er sat på pause.</string>
     <string name="stream_error_another_stream_being_played_short">Musikken er sat på pause.</string>
-    <string name="stream_error_device_not_authorized">Din musiksamling kan benyttes fra op til 5 smartphones og 10 enheder i alt. Du bliver nødt til at fjerne godkendelsen for en af dine enheder, før du tilføjer en ny.</string>
+    <string name="stream_error_device_not_authorized">Din musiksamling kan bruges på op til 10 enheder. Du skal fjerne godkendelsen af en af dine enheder, før du kan tilføje en ny.</string>
     <string name="stream_error_device_not_authorized_link">https://play.google.com/music/listen?view=settings_pl</string>
     <string name="stream_error_device_not_authorized_manage_devices_button">Administrer enheder</string>
     <string name="stream_error_device_not_authorized_not_now_button">Ikke nu</string>

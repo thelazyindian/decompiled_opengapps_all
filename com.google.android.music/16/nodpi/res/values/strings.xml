@@ -733,7 +733,7 @@ To listen to your purchase, first switch accounts."</string>
     <string name="preparing_instant_mix_with_seed_free">Starting %s instant mix…</string>
     <string name="preparing_instant_mix_with_seed_paid">Starting %s …</string>
     <string name="primes_marker">PrImEs</string>
-    <string name="primes_version">197492545</string>
+    <string name="primes_version">200925156</string>
     <string name="privacy_help_center_setting_key">privacy_help_center_setting_key</string>
     <string name="privacy_help_center_setting_title">Privacy help center</string>
     <string name="privacy_policy_key">privacy_policy_key</string>
@@ -903,7 +903,7 @@ To listen to your purchase, first switch accounts."</string>
     <string name="stream_error_another_stream_being_played_notification">"You're listening on another device."</string>
     <string name="stream_error_another_stream_being_played_notification_short">Music paused.</string>
     <string name="stream_error_another_stream_being_played_short">Music paused.</string>
-    <string name="stream_error_device_not_authorized">"Your music library can be used with up to 5 smartphones and 10 devices total. You'll need to deauthorize one of your devices before adding another."</string>
+    <string name="stream_error_device_not_authorized">"Your music library can be used with up to 10 devices. You'll need to deauthorize one of your devices before adding another."</string>
     <string name="stream_error_device_not_authorized_link">https://play.google.com/music/listen?view=settings_pl</string>
     <string name="stream_error_device_not_authorized_manage_devices_button">Manage devices</string>
     <string name="stream_error_device_not_authorized_not_now_button">Not now</string>

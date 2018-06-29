@@ -787,7 +787,7 @@ Pentru a asculta muzica achiziționată, mai întâi comutați între conturi."<
     <string name="stream_error_another_stream_being_played_notification">Ascultați pe un alt dispozitiv.</string>
     <string name="stream_error_another_stream_being_played_notification_short">Muzica a fost întreruptă.</string>
     <string name="stream_error_another_stream_being_played_short">Muzica a fost întreruptă.</string>
-    <string name="stream_error_device_not_authorized">Biblioteca muzicală poate fi folosită cu până la 5 smartphone-uri și 10 dispozitive în total. Va trebui să anulați autorizarea unuia dintre dispozitive înainte de a adăuga altul.</string>
+    <string name="stream_error_device_not_authorized">Biblioteca dvs. muzicală poate fi folosită cu maximum 10 dispozitive. Va trebui să anulați autorizarea unuia dintre dispozitive înainte de a adăuga altul.</string>
     <string name="stream_error_device_not_authorized_link">https://play.google.com/music/listen?view=settings_pl</string>
     <string name="stream_error_device_not_authorized_manage_devices_button">Gestionați dispozitivele</string>
     <string name="stream_error_device_not_authorized_not_now_button">Nu acum</string>

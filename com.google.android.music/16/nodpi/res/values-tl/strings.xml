@@ -787,7 +787,7 @@ Para mapakinggan ang binili mo, lumipat muna ng account."</string>
     <string name="stream_error_another_stream_being_played_notification">Nakikinig ka sa isa pang device.</string>
     <string name="stream_error_another_stream_being_played_notification_short">Naka-pause ang musika.</string>
     <string name="stream_error_another_stream_being_played_short">Naka-pause ang musika.</string>
-    <string name="stream_error_device_not_authorized">Magagamit ang iyong library ng musika sa hanggang 5 smartphone at 10 device sa kabuuan. Kakailanganin mong alisan ng pahintulot ang isa sa iyong mga device bago magdagdag ng isa pa.</string>
+    <string name="stream_error_device_not_authorized">Maaaring gamitin ang iyong music library sa hanggang 10 device. Kakailanganin mong alisan ng pahintulot ang isa sa iyong mga device bago magdagdag ng isa pa.</string>
     <string name="stream_error_device_not_authorized_link">https://play.google.com/music/listen?view=settings_pl</string>
     <string name="stream_error_device_not_authorized_manage_devices_button">Pamahalaan ang mga device</string>
     <string name="stream_error_device_not_authorized_not_now_button">Hindi ngayon</string>

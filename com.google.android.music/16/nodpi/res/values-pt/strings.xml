@@ -624,7 +624,7 @@ Para ouvir a música, troque de conta."</string>
     <string name="radio_added_to_library">Rádio adicionada à Minha coleção: %s</string>
     <string name="radio_im_feeling_lucky_reason1_online">Com base no seu gosto musical</string>
     <string name="radio_im_feeling_lucky_reason2_offline_downloaded">Reproduzir a partir de músicas transferidas</string>
-    <string name="radio_im_feeling_lucky_reason2_offline_sideloaded">Reproduzir músicas aleatoriamente no dispositivo</string>
+    <string name="radio_im_feeling_lucky_reason2_offline_sideloaded">Tocar músicas aleatoriamente no dispositivo</string>
     <string name="radio_my_stations_title">Minhas estações</string>
     <string name="radio_recent_stations_title">Estações recentes</string>
     <string name="radio_stations_title">Estações de rádio</string>
@@ -755,7 +755,7 @@ Para ouvir a música, troque de conta."</string>
     <string name="stream_error_another_stream_being_played_notification">Você está ouvindo em outro dispos.</string>
     <string name="stream_error_another_stream_being_played_notification_short">A música foi pausada.</string>
     <string name="stream_error_another_stream_being_played_short">A música foi pausada.</string>
-    <string name="stream_error_device_not_authorized">Sua coleção de músicas pode ser usada em até 5 smartphones e 10 dispositivos no total. Você precisará desautorizar um dos seus dispositivos antes de adicionar um novo.</string>
+    <string name="stream_error_device_not_authorized">"Your music library can be used with up to 10 devices. You'll need to deauthorize one of your devices before adding another."</string>
     <string name="stream_error_device_not_authorized_link">https://play.google.com/music/listen?view=settings_pl</string>
     <string name="stream_error_device_not_authorized_manage_devices_button">Gerenciar dispositivos</string>
     <string name="stream_error_device_not_authorized_not_now_button">Agora não</string>

@@ -787,7 +787,7 @@ Untuk mendengarkan musik yang Anda beli, beralih akun terlebih dulu."</string>
     <string name="stream_error_another_stream_being_played_notification">Anda mendengarkan di prgkt lain.</string>
     <string name="stream_error_another_stream_being_played_notification_short">Musik dijeda.</string>
     <string name="stream_error_another_stream_being_played_short">Musik dijeda.</string>
-    <string name="stream_error_device_not_authorized">Pustaka musik Anda hanya dapat digunakan pada maksimal 5 ponsel cerdas (total 10 perangkat). Anda perlu membatalkan otorisasi salah satu perangkat sebelum menambahkan perangkat lain.</string>
+    <string name="stream_error_device_not_authorized">Koleksi musik Anda dapat digunakan bersama hingga 10 perangkat. Anda harus membatalkan izin salah satu perangkat sebelum menambahkan yang lain.</string>
     <string name="stream_error_device_not_authorized_link">https://play.google.com/music/listen?view=settings_pl</string>
     <string name="stream_error_device_not_authorized_manage_devices_button">Kelola perangkat</string>
     <string name="stream_error_device_not_authorized_not_now_button">Jangan sekarang</string>

@@ -787,7 +787,7 @@ Paylaşılan müziğinizi dinlemek için, öncelikle hesap değiştirin."</strin
     <string name="stream_error_another_stream_being_played_notification">Başka bir cihazda dinliyorsunuz.</string>
     <string name="stream_error_another_stream_being_played_notification_short">Müzik duraklatıldı.</string>
     <string name="stream_error_another_stream_being_played_short">Müzik duraklatıldı.</string>
-    <string name="stream_error_device_not_authorized">Müzik kitaplığınız, en çok 5 akıllı telefon olmak üzere toplam 10 cihazda kullanılabilir. Yeni bir cihaz eklemeden önce mevcut cihazlarınızdan birinin yetkisini kaldırmanız gerekecektir.</string>
+    <string name="stream_error_device_not_authorized">Müzik kitaplığınız en fazla 10 cihazla birlikte kullanılabilir. Yeni bir cihaz ekleyebilmek için eklenmiş olanlardan birinin yetkisini kaldırmanız gerekir.</string>
     <string name="stream_error_device_not_authorized_link">https://play.google.com/music/listen?view=settings_pl</string>
     <string name="stream_error_device_not_authorized_manage_devices_button">Cihazları yönetme</string>
     <string name="stream_error_device_not_authorized_not_now_button">Şimdi değil</string>

@@ -787,7 +787,7 @@ Para ouvir a música adquirida, mude primeiro de conta."</string>
     <string name="stream_error_another_stream_being_played_notification">Está a ouvir noutro dispositivo.</string>
     <string name="stream_error_another_stream_being_played_notification_short">Música colocada em pausa.</string>
     <string name="stream_error_another_stream_being_played_short">Música colocada em pausa.</string>
-    <string name="stream_error_device_not_authorized">A sua biblioteca de música pode ser utilizada com até 5 smartphones e 10 dispositivos no total. Tem de desautorizar um dos dispositivos antes de adicionar outro.</string>
+    <string name="stream_error_device_not_authorized">Pode utilizar a sua biblioteca de música com um máximo de 10 dispositivos. Terá de retirar a autorização a um dos dispositivos antes de adicionar outro.</string>
     <string name="stream_error_device_not_authorized_link">https://play.google.com/music/listen?view=settings_pl</string>
     <string name="stream_error_device_not_authorized_manage_devices_button">Gerir dispositivos</string>
     <string name="stream_error_device_not_authorized_not_now_button">Agora não</string>

@@ -787,7 +787,7 @@ Ak chcete počúvať zakúpenú hudbu, najprv prepnite účty."</string>
     <string name="stream_error_another_stream_being_played_notification">Počúvate na ďalšom zariadení.</string>
     <string name="stream_error_another_stream_being_played_notification_short">Hudba je pozastavená.</string>
     <string name="stream_error_another_stream_being_played_short">Hudba je pozastavená.</string>
-    <string name="stream_error_device_not_authorized">Hudobnú knižnicu môžete použiť až s piatimi smartfónmi a desiatimi zariadeniami. Pred pridaním ďalšieho zariadenia bude potrebné zrušiť autorizáciu niektorého z existujúcich zariadení.</string>
+    <string name="stream_error_device_not_authorized">Svoju hudobnú knižnicu môžete používať len v 10 zariadeniach. Pred pridaním ďalšieho zariadenia musíte najprv zrušiť autorizáciu niektorého z nich.</string>
     <string name="stream_error_device_not_authorized_link">https://play.google.com/music/listen?view=settings_pl</string>
     <string name="stream_error_device_not_authorized_manage_devices_button">Správa zariadení</string>
     <string name="stream_error_device_not_authorized_not_now_button">Teraz nie</string>

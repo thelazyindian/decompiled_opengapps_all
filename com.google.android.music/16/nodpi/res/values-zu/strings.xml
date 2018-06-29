@@ -787,7 +787,7 @@ kulalela okuthengile, shintsha kuqala ama-akhawunti."</string>
     <string name="stream_error_another_stream_being_played_notification">Ulalele kwenye idivayisi.</string>
     <string name="stream_error_another_stream_being_played_notification_short">Umculo umiswe isikhashana.</string>
     <string name="stream_error_another_stream_being_played_short">Umculo umiswe isikhashana.</string>
-    <string name="stream_error_device_not_authorized">Ilabhulali yakho yomculo ingasetshenziswa ngenani lama-smartphone angu-5 kanye namadivayisi angu-10. Kuzomele uyekise ukugunyaza eyodwa yamadivayisi wakho ngaphambi kokungeza enye.</string>
+    <string name="stream_error_device_not_authorized">Ilabhulali yakho yomculo ingasetshenziswa namadivayisi afika kwangu-10. Uzodinga ukususa igunya kwenye idivayisi yakho ngaphambi kokwengeza enye.</string>
     <string name="stream_error_device_not_authorized_link">https://play.google.com/music/listen?view=settings_pl</string>
     <string name="stream_error_device_not_authorized_manage_devices_button">Phatha amadivayisi</string>
     <string name="stream_error_device_not_authorized_not_now_button">Hhayi manje</string>

@@ -24,6 +24,14 @@
         <item name="android:layout_marginStart">@dimen/audio_preview_seek_bar_margin_left</item>
         <item name="android:layout_marginEnd">@dimen/audio_preview_seek_bar_margin_right</item>
     </style>
+    <style name="Base.Widget.MaterialComponents.TextInputEditText" parent="@style/Widget.AppCompat.EditText">
+        <item name="android:paddingLeft">12.0dip</item>
+        <item name="android:paddingTop">16.0dip</item>
+        <item name="android:paddingRight">12.0dip</item>
+        <item name="android:paddingBottom">16.0dip</item>
+        <item name="android:paddingStart">12.0dip</item>
+        <item name="android:paddingEnd">12.0dip</item>
+    </style>
     <style name="BaseFabPlay">
         <item name="android:layout_marginRight">@dimen/material_container_info_padding</item>
         <item name="android:layout_alignParentRight">true</item>

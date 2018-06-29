@@ -787,7 +787,7 @@ Hvis du vil høre på musikken du har kjøpt, må du først bytte konto."</strin
     <string name="stream_error_another_stream_being_played_notification">Du lytter på en annen enhet.</string>
     <string name="stream_error_another_stream_being_played_notification_short">Musikken er satt på pause.</string>
     <string name="stream_error_another_stream_being_played_short">Musikken er satt på pause.</string>
-    <string name="stream_error_device_not_authorized">Musikkbiblioteket ditt kan brukes med opptil fem smarttelefoner og ti enheter totalt. Du må fjerne autoriseringen for én av enhetene dine før du legger til en annen.</string>
+    <string name="stream_error_device_not_authorized">Musikkbiblioteket ditt kan brukes med opptil ti enheter. Du må fjerne autoriseringen på en av enhetene før du legger til en annen.</string>
     <string name="stream_error_device_not_authorized_link">https://play.google.com/music/listen?view=settings_pl</string>
     <string name="stream_error_device_not_authorized_manage_devices_button">Administrer enheter</string>
     <string name="stream_error_device_not_authorized_not_now_button">Ikke nå</string>

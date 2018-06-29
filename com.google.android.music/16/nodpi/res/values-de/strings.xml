@@ -787,7 +787,7 @@ Wechsle das Konto, um dir deinen gekauften Titel anzuhören"</string>
     <string name="stream_error_another_stream_being_played_notification">Du hörst auf einem anderen Gerät.</string>
     <string name="stream_error_another_stream_being_played_notification_short">Musik angehalten.</string>
     <string name="stream_error_another_stream_being_played_short">Musik angehalten.</string>
-    <string name="stream_error_device_not_authorized">Deine Musiksammlung kann mit maximal 5 Smartphones und mit insgesamt 10 Geräten verwendet werden. Deaktiviere eines deiner Geräte, wenn du ein anderes hinzufügen möchtest.</string>
+    <string name="stream_error_device_not_authorized">Du kannst deine Musikbibliothek mit maximal zehn Geräten verwenden. Wenn du ein weiteres Gerät hinzufügen möchtest, musst du zuerst ein anderes Gerät dafür deaktivieren.</string>
     <string name="stream_error_device_not_authorized_link">https://play.google.com/music/listen?view=settings_pl</string>
     <string name="stream_error_device_not_authorized_manage_devices_button">Geräte verwalten</string>
     <string name="stream_error_device_not_authorized_not_now_button">Nicht jetzt</string>

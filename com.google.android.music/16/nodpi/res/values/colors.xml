@@ -213,6 +213,7 @@
     <color name="play_apps_secondary_v2">#ff0b8043</color>
     <color name="play_apps_snackbar_button">#ff57bb8a</color>
     <color name="play_avatar_focused_outline">#8033b5e5</color>
+    <color name="play_avatar_grey_ring_color">#ffebebeb</color>
     <color name="play_avatar_outline">#33000000</color>
     <color name="play_avatar_pressed_fill">@color/play_transparent</color>
     <color name="play_avatar_pressed_outline">#ff33b5e5</color>

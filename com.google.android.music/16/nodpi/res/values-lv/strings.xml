@@ -787,7 +787,7 @@ Lai klausītos iegādāto mūziku, vispirms pierakstieties otrā kontā."</strin
     <string name="stream_error_another_stream_being_played_notification">Jūs klausāties mūziku citā ierīcē.</string>
     <string name="stream_error_another_stream_being_played_notification_short">Mūzikas atskaņošana pārtraukta</string>
     <string name="stream_error_another_stream_being_played_short">Mūzikas atskaņošana ir pārtraukta.</string>
-    <string name="stream_error_device_not_authorized">Jūsu mūzikas bibliotēku kopumā var izmantot pat 5 viedtālruņos un 10 ierīcēs. Lai autorizētu jaunu ierīci, jums ir jāatceļ autorizācija kādai no pašlaik izmantotajām ierīcēm.</string>
+    <string name="stream_error_device_not_authorized">Mūzikas bibliotēku var izmantot ne vairāk kā desmit ierīcēs. Lai varētu pievienot jaunu ierīci, noņemiet kādu no jau pievienotajām ierīcēm.</string>
     <string name="stream_error_device_not_authorized_link">https://play.google.com/music/listen?view=settings_pl</string>
     <string name="stream_error_device_not_authorized_manage_devices_button">Ierīču pārvaldība</string>
     <string name="stream_error_device_not_authorized_not_now_button">Vēlāk</string>

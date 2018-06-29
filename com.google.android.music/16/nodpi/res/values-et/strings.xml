@@ -767,7 +767,7 @@ Ostetud üksuse kuulamiseks vahetage esmalt kontosid."</string>
     <string name="stream_error_another_stream_being_played_notification">Kuulate teises seadmes.</string>
     <string name="stream_error_another_stream_being_played_notification_short">Muusika on peatatud.</string>
     <string name="stream_error_another_stream_being_played_short">Muusika on peatatud.</string>
-    <string name="stream_error_device_not_authorized">Teie muusikakogu saab kasutada kokku kuni 5 nutitelefoni ja 10 seadmega. Enne uue seadme lisamist peate mõne seadme volituse tühistama.</string>
+    <string name="stream_error_device_not_authorized">Saate oma muusikateeki kasutada kuni kümnes seadmes. Enne uue seadme lisamist peate mõne olemasoleva seadme loa tühistama.</string>
     <string name="stream_error_device_not_authorized_link">https://play.google.com/music/listen?view=settings_pl</string>
     <string name="stream_error_device_not_authorized_manage_devices_button">Halda seadmeid</string>
     <string name="stream_error_device_not_authorized_not_now_button">Mitte praegu</string>

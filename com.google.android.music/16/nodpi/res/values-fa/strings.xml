@@ -787,7 +787,7 @@
     <string name="stream_error_another_stream_being_played_notification">شما در دستگاه دیگری هم گوش می‌دهید.</string>
     <string name="stream_error_another_stream_being_played_notification_short">موسیقی موقتاً متوقف شد.</string>
     <string name="stream_error_another_stream_being_played_short">موسیقی موقتاً متوقف شد.</string>
-    <string name="stream_error_device_not_authorized">مجموعه موسیقی شما می‌تواند حداکثر با ۵ تلفن هوشمند و در مجموع ۱۰ دستگاه استفاده شود. قبل از افزودن دستگاهی دیگر، باید مجوز یکی از دستگاه‌هایتان را لغو کنید.</string>
+    <string name="stream_error_device_not_authorized">مجموعه موسیقی شما حداکثر در ۱۰ دستگاه می‌تواند استفاده شود. باید قبل از افزودن دستگاهی دیگر، مجوز یکی از دستگاه‌هایتان را لغو کنید.</string>
     <string name="stream_error_device_not_authorized_link">https://play.google.com/music/listen?view=settings_pl</string>
     <string name="stream_error_device_not_authorized_manage_devices_button">مدیریت دستگاه‌ها</string>
     <string name="stream_error_device_not_authorized_not_now_button">اکنون نه</string>

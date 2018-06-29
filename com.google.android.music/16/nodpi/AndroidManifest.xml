@@ -330,6 +330,8 @@
         </activity>
         <receiver android:name="com.google.android.music.ui.notifications.PodcastNotificationBroadcastReceiver"/>
         <meta-data android:name="com.google.android.gms.car.application" android:resource="@xml/automotive_app_desc"/>
+        <provider android:authorities="com.google.android.music.dummy.main" android:exported="false" android:initOrder="99" android:multiprocess="false" android:name="com.google.android.music.utils.MainProcessTypeInitializerContentProvider" android:process=":main"/>
+        <provider android:authorities="com.google.android.music.dummy.ui" android:exported="false" android:initOrder="98" android:multiprocess="false" android:name="com.google.android.music.utils.UiProcessTypeInitializerContentProvider" android:process=":ui"/>
         <service android:name="com.google.android.music.eventlog.PlayLogsService" android:process=":main"/>
         <service android:exported="false" android:label="@string/dial_media_route_provider_service" android:name="com.google.android.music.dial.DialMediaRouteProviderService" android:process=":main">
             <intent-filter>

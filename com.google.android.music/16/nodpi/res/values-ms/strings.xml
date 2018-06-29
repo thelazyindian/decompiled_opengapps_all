@@ -767,7 +767,7 @@ Untuk mendengar pembelian anda, tukar akaun dahulu."</string>
     <string name="stream_error_another_stream_being_played_notification">Anda mendengar pada peranti lain.</string>
     <string name="stream_error_another_stream_being_played_notification_short">Muzik dijeda.</string>
     <string name="stream_error_another_stream_being_played_short">Muzik dijeda.</string>
-    <string name="stream_error_device_not_authorized">Pustaka muzik anda boleh digunakan pada sehingga sejumlah 5 telefon pintar dan 10 peranti. Anda perlu menarik balik keizinan salah satu peranti anda sebelum menambahkan peranti lain.</string>
+    <string name="stream_error_device_not_authorized">Pustaka muzik anda boleh digunakan pada maximum 10 peranti. Anda perlu menarik balik keizinan salah satu peranti anda sebelum menambahkan satu lagi.</string>
     <string name="stream_error_device_not_authorized_link">https://play.google.com/music/listen?view=settings_pl</string>
     <string name="stream_error_device_not_authorized_manage_devices_button">Urus peranti</string>
     <string name="stream_error_device_not_authorized_not_now_button">Bukan sekarang</string>

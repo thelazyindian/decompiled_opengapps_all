@@ -347,8 +347,8 @@ Maelezo nyeti yanaweza kuhifadhiwa kwenye hifadhi ya nje. Kubadilisha chaguo hil
     <string name="explore_recommended_title">Zinazopendekezwa</string>
     <string name="fail_to_start_stream">Haikuweza kucheza mtiririko ulioitisha.</string>
     <string name="feature_disabled_in_build">Kipengele kimezimwa katika muundo</string>
-    <string name="feature_is_overridden">Sera chaguo-msingi ya kipengele imebatilishwa</string>
-    <string name="feature_set_default">Tumia sera chaguo-msingi</string>
+    <string name="feature_is_overridden">Sera chaguo msingi ya kipengele imebatilishwa</string>
+    <string name="feature_set_default">Tumia sera chaguo msingi</string>
     <string name="feature_set_disabled">Zima</string>
     <string name="feature_set_enabled">Washa</string>
     <string name="feedback_notif_button_text">Toa maoni</string>
@@ -787,7 +787,7 @@ Ili usikilize muziki ulioununua, badilisha akaunti kwanza."</string>
     <string name="stream_error_another_stream_being_played_notification">Unasikiliza kwenye kifaa kingine.</string>
     <string name="stream_error_another_stream_being_played_notification_short">Muziki umesitishwa.</string>
     <string name="stream_error_another_stream_being_played_short">Muziki umesitishwa.</string>
-    <string name="stream_error_device_not_authorized">Maktaba yako ya muziki inaweza kutumika kwa hadi simu 5 mahiri na vifaa 10 kwa jumla. Utahitaji kubatilisha idhini ya moja ya vifaa vyako kabla ya kuongeza kingine.</string>
+    <string name="stream_error_device_not_authorized">Maktaba yako ya muziki inaweza kutumiwa na hadi vifaa 10. Utahitaji kubatilisha idhini ya mojawapo ya vifaa vyako kabla ya kuongeza kingine.</string>
     <string name="stream_error_device_not_authorized_link">https://play.google.com/music/listen?view=settings_pl</string>
     <string name="stream_error_device_not_authorized_manage_devices_button">Dhibiti vifaa</string>
     <string name="stream_error_device_not_authorized_not_now_button">Siyo sasa</string>

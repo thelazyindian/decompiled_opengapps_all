@@ -787,7 +787,7 @@
     <string name="stream_error_another_stream_being_played_notification">Слушате на друго устройство.</string>
     <string name="stream_error_another_stream_being_played_notification_short">Музиката е на пауза.</string>
     <string name="stream_error_another_stream_being_played_short">Музиката е на пауза.</string>
-    <string name="stream_error_device_not_authorized">Фонотеката ви може да се използва с най-много 5 смартфона и с общо 10 устройства. Ще трябва да отмените упълномощаването на едно от устройствата си, преди да добавите друго.</string>
+    <string name="stream_error_device_not_authorized">Фонотеката ви може да бъде използвана с до 10 устройства. Трябва да отмените упълномощаването на едно от тях, преди да добавите друго.</string>
     <string name="stream_error_device_not_authorized_link">https://play.google.com/music/listen?view=settings_pl</string>
     <string name="stream_error_device_not_authorized_manage_devices_button">Управление на устройствата</string>
     <string name="stream_error_device_not_authorized_not_now_button">Не сега</string>

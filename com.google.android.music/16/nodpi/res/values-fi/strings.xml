@@ -787,7 +787,7 @@ Kirjaudu toiselle tilille, jotta voit kuunnella ostamaasi musiikkia."</string>
     <string name="stream_error_another_stream_being_played_notification">Kuuntelet toisella laitteella.</string>
     <string name="stream_error_another_stream_being_played_notification_short">Musiikki keskeytettiin.</string>
     <string name="stream_error_another_stream_being_played_short">Musiikki keskeytettiin.</string>
-    <string name="stream_error_device_not_authorized">Musiikkikirjastoasi voi käyttää korkeintaan viidellä älypuhelimella ja yhteensä kymmenellä laitteella. Sinun on poistettava aiemman laitteen valtuutus ennen uuden lisäämistä.</string>
+    <string name="stream_error_device_not_authorized">Musiikkikirjastoa voidaan käyttää enintään kymmenellä laitteella. Sinun täytyy poistaa käyttöoikeus yhdeltä laitteelta ennen kuin lisäät uuden.</string>
     <string name="stream_error_device_not_authorized_link">https://play.google.com/music/listen?view=settings_pl</string>
     <string name="stream_error_device_not_authorized_manage_devices_button">Hallinnoi laitteita</string>
     <string name="stream_error_device_not_authorized_not_now_button">Ei nyt</string>

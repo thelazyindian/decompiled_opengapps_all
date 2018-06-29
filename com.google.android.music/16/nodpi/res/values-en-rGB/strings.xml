@@ -636,7 +636,7 @@ To listen to your purchase, first switch accounts."</string>
     <string name="preparing_instant_mix_with_seed_free">Starting %s instant mix…</string>
     <string name="preparing_instant_mix_with_seed_paid">Starting %s …</string>
     <string name="privacy_help_center_setting_title">Privacy Help Centre</string>
-    <string name="privacy_policy_title">Privacy policy</string>
+    <string name="privacy_policy_title">Privacy Policy</string>
     <string name="public_description_create_offline">Go online to make public</string>
     <string name="public_description_edit_offline">Go online to change visibility</string>
     <string name="public_description_online">Anyone can see and listen</string>
@@ -654,7 +654,7 @@ To listen to your purchase, first switch accounts."</string>
     <string name="radio_added_to_library">%s Radio added to My Library</string>
     <string name="radio_im_feeling_lucky_reason1_online">Based on your music taste</string>
     <string name="radio_im_feeling_lucky_reason2_offline_downloaded">Play from downloaded music</string>
-    <string name="radio_im_feeling_lucky_reason2_offline_sideloaded">Shuffle on device music</string>
+    <string name="radio_im_feeling_lucky_reason2_offline_sideloaded">Shuffle on-device music</string>
     <string name="radio_my_stations_title">My stations</string>
     <string name="radio_recent_stations_title">Recent stations</string>
     <string name="radio_stations_title">Radio stations</string>
@@ -787,7 +787,7 @@ To listen to your purchase, first switch accounts."</string>
     <string name="stream_error_another_stream_being_played_notification">"You're listening on another device."</string>
     <string name="stream_error_another_stream_being_played_notification_short">Music paused.</string>
     <string name="stream_error_another_stream_being_played_short">Music paused.</string>
-    <string name="stream_error_device_not_authorized">"Your music library can be used with up to 5 smartphones and 10 devices total. You'll need to de-authorise one of your devices before adding another."</string>
+    <string name="stream_error_device_not_authorized">"Your music library can be used with up to 10 devices. You'll need to deauthorise one of your devices before adding another."</string>
     <string name="stream_error_device_not_authorized_link">https://play.google.com/music/listen?view=settings_pl</string>
     <string name="stream_error_device_not_authorized_manage_devices_button">Manage devices</string>
     <string name="stream_error_device_not_authorized_not_now_button">Not now</string>

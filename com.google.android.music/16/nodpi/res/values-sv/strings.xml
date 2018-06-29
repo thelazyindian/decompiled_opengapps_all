@@ -787,7 +787,7 @@ Om du vill lyssna på musiken du köpte måste du först byta konto."</string>
     <string name="stream_error_another_stream_being_played_notification">Du lyssnar på en annan enhet.</string>
     <string name="stream_error_another_stream_being_played_notification_short">Musiken har pausats.</string>
     <string name="stream_error_another_stream_being_played_short">Musiken har pausats.</string>
-    <string name="stream_error_device_not_authorized">Musikbiblioteket kan användas med upp till fem smartphones och tio enheter totalt. Du måste ta bort behörigheten från en av enheterna för att kunna lägga till en ny.</string>
+    <string name="stream_error_device_not_authorized">Musikbiblioteket kan användas på upp till tio enheter. Du måste välja bort en av enheterna innan du lägger till en ny.</string>
     <string name="stream_error_device_not_authorized_link">https://play.google.com/music/listen?view=settings_pl</string>
     <string name="stream_error_device_not_authorized_manage_devices_button">Hantera enheter</string>
     <string name="stream_error_device_not_authorized_not_now_button">Inte nu</string>

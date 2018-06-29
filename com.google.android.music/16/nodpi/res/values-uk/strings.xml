@@ -787,7 +787,7 @@
     <string name="stream_error_another_stream_being_played_notification">Ви слухаєте на іншому пристрої.</string>
     <string name="stream_error_another_stream_being_played_notification_short">Музику призупинено.</string>
     <string name="stream_error_another_stream_being_played_short">Музику призупинено.</string>
-    <string name="stream_error_device_not_authorized">Музичну бібліотеку можна одночасно використовувати на 5 смартфонах і 10 пристроях. Скасуйте авторизацію одного з пристроїв, щоб додати новий.</string>
+    <string name="stream_error_device_not_authorized">Вашу музичну бібліотеку можна використовувати на 10 пристроях. Скасуйте авторизацію одного з пристроїв, щоб додати новий.</string>
     <string name="stream_error_device_not_authorized_link">https://play.google.com/music/listen?view=settings_pl</string>
     <string name="stream_error_device_not_authorized_manage_devices_button">Керувати пристроями</string>
     <string name="stream_error_device_not_authorized_not_now_button">Не зараз</string>

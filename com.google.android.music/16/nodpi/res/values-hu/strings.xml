@@ -787,7 +787,7 @@ A megvásárolt zene meghallgatásához először válts fiókot."</string>
     <string name="stream_error_another_stream_being_played_notification">Egy másik eszközön hallgatsz zenét.</string>
     <string name="stream_error_another_stream_being_played_notification_short">A zenelejátszás szünetel.</string>
     <string name="stream_error_another_stream_being_played_short">A zenelejátszás szünetel.</string>
-    <string name="stream_error_device_not_authorized">Zenei könyvtáradat akár 5 okostelefonnal, összesen pedig akár 10 eszközzel is használhatod. Ha új eszközt szeretnél hozzáadni, előbb meg kell vonnod egy másik eszköz hozzáférését.</string>
+    <string name="stream_error_device_not_authorized">Zenekönyvtáradat legfeljebb 10 eszköz használhatja. Az egyik eszköz jogosultságát meg kell szüntetned, mielőtt hozzáadhatnál másikat.</string>
     <string name="stream_error_device_not_authorized_link">https://play.google.com/music/listen?view=settings_pl</string>
     <string name="stream_error_device_not_authorized_manage_devices_button">Eszközök kezelése</string>
     <string name="stream_error_device_not_authorized_not_now_button">Most nem</string>

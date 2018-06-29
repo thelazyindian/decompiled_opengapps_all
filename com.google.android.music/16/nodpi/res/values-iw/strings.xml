@@ -787,7 +787,7 @@
     <string name="stream_error_another_stream_being_played_notification">אתה מאזין במכשיר אחר.</string>
     <string name="stream_error_another_stream_being_played_notification_short">המוזיקה מושהית.</string>
     <string name="stream_error_another_stream_being_played_short">המוזיקה מושהית.</string>
-    <string name="stream_error_device_not_authorized">בספריית המוזיקה שלך ניתן לעשות שימוש בעד 5 סמארטפונים ועד 10 מכשירים בסך הכל. יהיה עליך לבטל את ההרשאה של אחד מהמכשירים לפני שתוסיף אחר.</string>
+    <string name="stream_error_device_not_authorized">ניתן להשתמש בספריית המוזיקה ב-10 מכשירים לכל היותר. כדי להוסיף מכשיר, עליך לבטל את ההרשאה של אחד מהמכשירים.</string>
     <string name="stream_error_device_not_authorized_link">https://play.google.com/music/listen?view=settings_pl</string>
     <string name="stream_error_device_not_authorized_manage_devices_button">ניהול מכשירים</string>
     <string name="stream_error_device_not_authorized_not_now_button">לא עכשיו</string>

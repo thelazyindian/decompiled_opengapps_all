@@ -787,7 +787,7 @@ Pour écouter la musique partagée, vous devez vous connecter au compte utilisé
     <string name="stream_error_another_stream_being_played_notification">Vous écoutez de la musique sur un autre appareil.</string>
     <string name="stream_error_another_stream_being_played_notification_short">Musique interrompue.</string>
     <string name="stream_error_another_stream_being_played_short">Musique interrompue.</string>
-    <string name="stream_error_device_not_authorized">"Vous pouvez utiliser votre bibliothèque musicale sur un maximum de cinq téléphones intelligents et dix appareils au total. Veuillez annuler l'autorisation de l'un de vos appareils pour en autoriser un autre."</string>
+    <string name="stream_error_device_not_authorized">"Vous pouvez utiliser votre bibliothèque musicale avec un maximum de dix appareils. Veuillez annuler l'autorisation de l'un de vos appareils pour en autoriser un autre."</string>
     <string name="stream_error_device_not_authorized_link">https://play.google.com/music/listen?view=settings_pl</string>
     <string name="stream_error_device_not_authorized_manage_devices_button">Gérer les appareils</string>
     <string name="stream_error_device_not_authorized_not_now_button">Pas maintenant</string>

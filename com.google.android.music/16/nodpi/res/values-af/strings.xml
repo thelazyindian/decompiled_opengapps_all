@@ -787,7 +787,7 @@ Om na jou aankoop te luister, wissel eers rekeninge."</string>
     <string name="stream_error_another_stream_being_played_notification">"Jy luister op 'n ander toestel."</string>
     <string name="stream_error_another_stream_being_played_notification_short">Musiek is laat wag.</string>
     <string name="stream_error_another_stream_being_played_short">Musiek is laat wag.</string>
-    <string name="stream_error_device_not_authorized">"Jou musiekbiblioteek kan met tot altesame 5 slimfone en 10 toestelle gebruik word. Jy sal een van jou toestelle moet ontmagtig voordat jy 'n ander een byvoeg."</string>
+    <string name="stream_error_device_not_authorized">Jou musiekbiblioteek kan saam met tot 10 toestelle gebruik word. Jy sal een van jou toestelle se magtiging moet intrek voordat jy nog een byvoeg.</string>
     <string name="stream_error_device_not_authorized_link">https://play.google.com/music/listen?view=settings_pl</string>
     <string name="stream_error_device_not_authorized_manage_devices_button">Bestuur toestelle</string>
     <string name="stream_error_device_not_authorized_not_now_button">Nie nou nie</string>

@@ -787,7 +787,7 @@ Aby posłuchać kupionych utworów, najpierw przełącz konta."</string>
     <string name="stream_error_another_stream_being_played_notification">Słuchasz na innym urządzeniu.</string>
     <string name="stream_error_another_stream_being_played_notification_short">Muzyka została wstrzymana.</string>
     <string name="stream_error_another_stream_being_played_short">Muzyka została wstrzymana.</string>
-    <string name="stream_error_device_not_authorized">Z biblioteki muzyki możesz korzystać na maksymalnie dziesięciu urządzeniach, w tym pięciu smartfonach. Musisz cofnąć autoryzację jednego z urządzeń, zanim dodasz nowe.</string>
+    <string name="stream_error_device_not_authorized">Z biblioteki muzyki możesz korzystać na maksymalnie 10 urządzeniach. Musisz cofnąć autoryzację jednego z urządzeń, zanim dodasz nowe.</string>
     <string name="stream_error_device_not_authorized_link">https://play.google.com/music/listen?view=settings_pl</string>
     <string name="stream_error_device_not_authorized_manage_devices_button">Zarządzanie urządzeniami</string>
     <string name="stream_error_device_not_authorized_not_now_button">Nie teraz</string>

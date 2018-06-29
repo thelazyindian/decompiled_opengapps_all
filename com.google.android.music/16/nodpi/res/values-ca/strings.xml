@@ -227,7 +227,7 @@
     <string name="debug_logs_disable_warning_message">"Confirmes que vols desactivar els registres de depuració?
 Si canvies aquesta opció es tancarà l'aplicació."</string>
     <string name="debug_logs_enable_warning_message">"Confirmes que vols activar els registres de depuració?
-És possible que s'emmagatzemi informació confidencial a l'emmagatzematge extern. Si canvies aquesta opció es tancarà l'aplicació."</string>
+És possible que s'emmagatzemi informació sensible a l'emmagatzematge extern. Si canvies aquesta opció es tancarà l'aplicació."</string>
     <string name="debug_logs_summary">Activa un registre addicional especial per a música en aquest dispositiu. Només per a ús intern.</string>
     <string name="debug_logs_title">Fes servir registres de depuració</string>
     <string name="debug_menu_ad_information">"Informació de l'anunci"</string>
@@ -787,7 +787,7 @@ Per escoltar la música que has comprat, primer has de canviar de compte."</stri
     <string name="stream_error_another_stream_being_played_notification">Escoltes música en un altre dispos.</string>
     <string name="stream_error_another_stream_being_played_notification_short">"S'ha posat en pausa la música."</string>
     <string name="stream_error_another_stream_being_played_short">"S'ha posat en pausa la música."</string>
-    <string name="stream_error_device_not_authorized">Pots fer servir la teva col·lecció de música en un màxim de cinc telèfons intel·ligents i en deu dispositius en total. Si vols afegir un dispositiu nou, primer hauràs de desautoritzar-ne un altre.</string>
+    <string name="stream_error_device_not_authorized">La teva col·lecció de música es pot utilitzar en un màxim de deu dispositius. Has de desautoritzar un dels teus dispositius per afegir-ne un altre.</string>
     <string name="stream_error_device_not_authorized_link">https://play.google.com/music/listen?view=settings_pl</string>
     <string name="stream_error_device_not_authorized_manage_devices_button">Gestiona els dispositius</string>
     <string name="stream_error_device_not_authorized_not_now_button">Ara no</string>

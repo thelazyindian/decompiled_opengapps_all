@@ -787,7 +787,7 @@
     <string name="stream_error_another_stream_being_played_notification">Ακούτε σε άλλη συσκευή.</string>
     <string name="stream_error_another_stream_being_played_notification_short">Η μουσική τέθηκε σε παύση.</string>
     <string name="stream_error_another_stream_being_played_short">Η μουσική τέθηκε σε παύση.</string>
-    <string name="stream_error_device_not_authorized">Η μουσική βιβλιοθήκη σας μπορεί να χρησιμοποιηθεί σε έως και 5 smartphone και 10 συσκευές συνολικά. Θα πρέπει να καταργήσετε την εξουσιοδότηση για μία από τις συσκευές σας πριν προσθέσετε άλλη.</string>
+    <string name="stream_error_device_not_authorized">Η μουσική βιβλιοθήκη μπορεί να χρησιμοποιηθεί σε έως 10 συσκευές. Θα πρέπει να καταργήσετε την εξουσιοδότηση μίας από τις συσκευές σας για να προσθέσετε κάποια άλλη.</string>
     <string name="stream_error_device_not_authorized_link">https://play.google.com/music/listen?view=settings_pl</string>
     <string name="stream_error_device_not_authorized_manage_devices_button">Διαχείριση συσκευών</string>
     <string name="stream_error_device_not_authorized_not_now_button">Όχι τώρα</string>

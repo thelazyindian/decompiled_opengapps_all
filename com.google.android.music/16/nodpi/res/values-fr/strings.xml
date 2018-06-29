@@ -787,7 +787,7 @@ Pour écouter ce titre, vous devez vous connecter au compte utilisé lors de l'a
     <string name="stream_error_another_stream_being_played_notification">Lecture en cours sur autre appareil.</string>
     <string name="stream_error_another_stream_being_played_notification_short">Musique interrompue.</string>
     <string name="stream_error_another_stream_being_played_short">Musique interrompue.</string>
-    <string name="stream_error_device_not_authorized">"Vous ne pouvez pas utiliser votre bibliothèque musicale sur plus de 5 smartphones, et 10 appareils au total. Veuillez annuler l'autorisation de l'un de vos appareils pour en autoriser un autre."</string>
+    <string name="stream_error_device_not_authorized">"Vous pouvez utiliser votre bibliothèque musicale sur 10 appareils au maximum. Veuillez annuler l'autorisation de l'un de vos appareils pour en autoriser un autre."</string>
     <string name="stream_error_device_not_authorized_link">https://play.google.com/music/listen?view=settings_pl</string>
     <string name="stream_error_device_not_authorized_manage_devices_button">Gérer les appareils</string>
     <string name="stream_error_device_not_authorized_not_now_button">Pas maintenant</string>

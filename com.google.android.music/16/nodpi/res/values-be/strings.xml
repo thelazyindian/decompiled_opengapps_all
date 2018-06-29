@@ -767,7 +767,7 @@
     <string name="stream_error_another_stream_being_played_notification">Прайграецца на дзвюх прыладах.</string>
     <string name="stream_error_another_stream_being_played_notification_short">Прайграванне прыпынена.</string>
     <string name="stream_error_another_stream_being_played_short">Прайграванне прыпынена.</string>
-    <string name="stream_error_device_not_authorized">У цэлым вашай медыятэкай можна карыстацца максімум на 5 смартфонах і 10 прыладах. Вы павінны будзеце адмяніць аўтарызацыю адной з вашых прылад, перш чым дадаць іншую.</string>
+    <string name="stream_error_device_not_authorized">Ваша музычная бібліятэка можа выкарыстоўвацца не больш чым на 10 прыладах. Перш чым дадаваць новую прыладу, трэба зняць аўтарызацыю з той, якая ўжо выкарыстоўваецца.</string>
     <string name="stream_error_device_not_authorized_link">https://play.google.com/music/listen?view=settings_pl</string>
     <string name="stream_error_device_not_authorized_manage_devices_button">Кіраванне прыладамі</string>
     <string name="stream_error_device_not_authorized_not_now_button">Не зараз</string>

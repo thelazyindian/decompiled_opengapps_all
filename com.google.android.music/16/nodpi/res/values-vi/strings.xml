@@ -787,7 +787,7 @@ Bạn hiện đăng nhập Google Play Âm nhạc bằng tài khoản %2$s
     <string name="stream_error_another_stream_being_played_notification">Bạn đang nghe trên thiết bị khác.</string>
     <string name="stream_error_another_stream_being_played_notification_short">Nhạc bị tạm dừng.</string>
     <string name="stream_error_another_stream_being_played_short">Nhạc bị tạm dừng.</string>
-    <string name="stream_error_device_not_authorized">Có thể sử dụng thư viện nhạc của bạn với tối đa 5 điện thoại thông minh và 10 thiết bị. Bạn sẽ cần hủy cấp phép một trong các thiết bị của mình trước khi thêm thiết bị khác.</string>
+    <string name="stream_error_device_not_authorized">Thư viện nhạc của bạn có thể được sử dụng với tối đa 10 thiết bị. Bạn sẽ cần hủy cấp phép một trong số các thiết bị của bạn trước khi thêm thiết bị khác.</string>
     <string name="stream_error_device_not_authorized_link">https://play.google.com/music/listen?view=settings_pl</string>
     <string name="stream_error_device_not_authorized_manage_devices_button">Quản lý thiết bị</string>
     <string name="stream_error_device_not_authorized_not_now_button">Không phải bây giờ</string>
