@@ -5,11 +5,6 @@
         <item>అంద. ప్రత్యు.</item>
         <item>ఫార్వార్డ్ చేయి</item>
     </string-array>
-    <string-array name="notificationsStatusEntries">
-        <item>అన్ని</item>
-        <item>అధిక ప్రాధాన్యత మాత్రమే</item>
-        <item>ఏదీ వద్దు</item>
-    </string-array>
     <string-array name="prefEntries_autoAdvance">
         <item>కొత్తది</item>
         <item>పాతది</item>

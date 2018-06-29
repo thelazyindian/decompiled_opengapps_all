@@ -31,6 +31,9 @@
     <string name="account_management_need_to_set_up_new_work_account">Жаңа жұмыс есептік жазбаңызды орнату қажет</string>
     <string name="account_management_new_work_account_line_item">Осы есептік жазбаны орнату</string>
     <string name="account_management_set_up_new_account_title">Жаңа жұмыс есептік жазбасы</string>
+    <string name="account_notification_level_all">Барлығы</string>
+    <string name="account_notification_level_high_priority">Өте маңыздылары ғана</string>
+    <string name="account_notification_level_none">Ешқайсысы</string>
     <string name="account_security_dialog_content_fmt">&lt;%s> есептік жазбаңызды қолдану үшін, құрылғыңыздағы қауіпсіздік параметрлерін жаңартуыңыз қажет. Қосымша ақпарат қажет болса, әкімшіңізге хабарласыңыз.</string>
     <string name="account_security_dialog_ok">Қазір жаңарту</string>
     <string name="account_security_policy_explanation_fmt">%s сервері Android құрылғыңыздың кейбір қауіпсіздік функцияларын қашықтан басқаруына рұқсат беруіңізді талап етеді.</string>
@@ -43,6 +46,8 @@
     <string name="account_settings_conversation_view_progress_dialog_message">Есептік жазба параметрлері жаңартылуда...</string>
     <string name="account_settings_conversation_view_summary">Тақырыбы бір хаттарды топтастыру. Бұл параметр іске қосылуы үшін біраз уақыт қажет болуы мүмкін.</string>
     <string name="account_settings_conversation_view_title">Чат көрінісі</string>
+    <string name="account_settings_conversation_view_turned_off_dialog_message">Чат көрінісі есептік жазба параметрлеріне сәйкес өшірілді. Бұны параметрлерден өзгертуге болады.</string>
+    <string name="account_settings_conversation_view_turned_on_dialog_message">Чат көрінісі есептік жазба параметрлеріне сәйкес қосылды. Бұны параметрлерден өзгертуге болады.</string>
     <string name="account_settings_data_usage">Дерек шығыны</string>
     <string name="account_settings_description_label">Есептік жазба аты</string>
     <string name="account_settings_edit_quick_responses_label">Жылдам жауаптар</string>
@@ -817,6 +822,7 @@
     <string name="gmailify_updating_password_title">Құпиясөзді жаңарту...</string>
     <string name="google_play_logo">Google Play Store дүкеніне өту</string>
     <string name="google_terms_of_service">Google қызмет көрсету шарттары</string>
+    <string name="got_it_option">Түсінікті</string>
     <string name="has_malware_website_links">Бұл хабарды абайлаңыз. Құрамында зиянды хостинг сайттарына апаратын сілтемелер бар.</string>
     <string name="hats_survey_promo_action_text">Сауалнамаға қатысыңыз</string>
     <string name="hats_survey_promo_text">Gmail сапасын жақсартуға үлес қосыңыз</string>
@@ -840,6 +846,7 @@
     <string name="icr_declined">%1$s бұл іс-шараны &lt;b>қабылдамады&lt;/b>.</string>
     <string name="icr_empty_title">(атаусыз)</string>
     <string name="icr_hide_original">Түпнұсқа хабарды жасыру</string>
+    <string name="icr_loading_error_msg">Іс-шара деректері жүктелмеді.</string>
     <string name="icr_location_description">Орын</string>
     <string name="icr_organizer">(ұйымдастырушы)</string>
     <string name="icr_responded_maybe">\"Мүмкін\" деп жауап берді</string>
@@ -849,6 +856,8 @@
     <string name="icr_show_original">Түпнұсқа хабарды көрсету</string>
     <string name="icr_tentative">%1$s бұл іс-шараны &lt;b>уақытша қабылдады&lt;/b>.</string>
     <string name="icr_time_description">Күні деректері</string>
+    <string name="icr_view_details">Мәліметтерді көру</string>
+    <string name="icr_warning_description">Ескерту</string>
     <string name="image_attached">Сурет бекітілді</string>
     <string name="imap_name">Жеке (IMAP)</string>
     <string name="important_inbox_section_title">Кіріс жәшігінің маңызды хаттар бөлімі</string>
@@ -1032,7 +1041,7 @@
     <string name="notification_label_description_priority_inbox_all_mail">Кіріс жәшігі</string>
     <string name="notification_label_description_starred">Жұлдызшалы</string>
     <string name="notification_level_all">Барлық жаңа хаттар</string>
-    <string name="notification_level_important">Тек қана маңызды</string>
+    <string name="notification_level_important">Тек қана \"Маңызды хаттар\" бөлімі</string>
     <string name="notification_level_none">Ешқайсысы</string>
     <string name="notification_sender_line_snoozed">Кідіртілді: %1$s</string>
     <string name="notifications_category">Хабарландырулар</string>
@@ -1191,7 +1200,7 @@
     <string name="preferences_nudge_section_outbound_summary">Әрекет етуді қажет ететін жіберілген хаттар кіріс бөлімінің жоғарғы жағынан көрсетіледі</string>
     <string name="preferences_nudge_section_outbound_title">Әрекет етуді қажет ететін хаттарды ұсыну</string>
     <string name="preferences_nudging_title">Жауап беру және әрекет ету</string>
-    <string name="preferences_priority_inbox_notification_level_title">Хабарландыру деңгейі</string>
+    <string name="preferences_priority_inbox_notification_level_title">Кіріс жәшігінің бөлімдері туралы хабарландыру</string>
     <string name="preferences_ringtone_title">Дыбыс</string>
     <string name="preferences_signature_dialog_title">Қолтаңба</string>
     <string name="preferences_signature_summary_not_set">Орнатылмаған</string>
@@ -1364,7 +1373,7 @@
     <string name="server_error_certificate_error">Қауіпсіз байланыс орнату кезінде мәселе орын алды.</string>
     <string name="server_error_login_limit_exceeded">Тым көп жаңалау орын алды. Кейінірек қайталап көріңіз.</string>
     <string name="server_error_nonexistent_folder">Қажетті қалта табылмады.</string>
-    <string name="server_error_too_many_requests">Сұраулар тым көп. Серверді пайдалану шегінен асып кетті.</string>
+    <string name="server_error_too_many_requests">Тым көп рет жаңартылды. Кейінірек қайталап көріңіз.</string>
     <string name="set_priority">Басымдылық орнату</string>
     <string name="settings">Параметрлер</string>
     <string name="settings_number_of_days">Поштадағы синхрондау үшін қалған күндер</string>
@@ -1526,6 +1535,7 @@
     <string name="too_large_to_attach_multiple">Бір немесе бірнеше файл тіркелмеді. Шегі: %1$s.</string>
     <string name="too_large_to_attach_single">%1$s асатын файлды тіркеу мүмкін емес.</string>
     <string name="trash_folder_selection_title">%s үшін сервердің себет қалтасын таңдаңыз</string>
+    <string name="trashed_message_indicator">Бұл хабар жойылған</string>
     <string name="turn_auto_sync_on_dialog_body">Сіз Gmail ғана емес, барлық қолданбалар мен есептік жазбаларға енгізетін өзгерістер веб, сіздің басқа құрылғыларыңыз және сіздің %1$s арасында синхрондалады.</string>
     <string name="turn_auto_sync_on_dialog_confirm_btn">Қосу</string>
     <string name="turn_auto_sync_on_dialog_title">Автоматты синхрондауды қосу қажет пе?</string>

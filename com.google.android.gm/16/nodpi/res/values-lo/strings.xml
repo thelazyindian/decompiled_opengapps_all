@@ -29,6 +29,9 @@
     <string name="account_management_need_to_set_up_new_work_account">ບັນຊີເຮັດວຽກໃໝ່ຂອງທ່ານຕ້ອງການການຕິດຕັ້ງ.</string>
     <string name="account_management_new_work_account_line_item">ຕິດຕັ້ງບັນຊີນີ້</string>
     <string name="account_management_set_up_new_account_title">ບັນຊີເຮັດວຽກໃໝ່</string>
+    <string name="account_notification_level_all">ທັງໝົດ</string>
+    <string name="account_notification_level_high_priority">ຄວາມສຳຄັນສູງເທົ່ານັ້ນ</string>
+    <string name="account_notification_level_none">ບໍ່ມີ</string>
     <string name="account_security_dialog_content_fmt">ເພື່ອທີ່ຈະນຳໃຊ້ບັນຊີ &lt;%s> ຂອງທ່ານ ທ່ານຕ້ອງອັບເດດ ການຕັ້ງຄ່າຄວາມປອດໄພ ຢູ່ໃນອຸປະກອນຂອງທ່ານ. ກະລຸນາຕິດຕໍ່ຫາຜູ້ເບິ່ງແຍງລະບົບຂອງທ່ານສຳລັບຂໍ້ມູນເພີ່ມເຕີມ.</string>
     <string name="account_security_dialog_ok">ອັບເດດດຽວນີ້ເລີຍ</string>
     <string name="account_security_policy_explanation_fmt">ເຊີບເວີ %s ຮຽກ​ຮ້ອງ​ໃຫ້​ທ່ານ​ອະ​ນຸ​ຍາດ​ໃຫ້​ມັນ​ສາ​ມາດ​ຄວບ​ຄຸມ​ບາງຄຸນ​ສົມ​ບັດ​ດ້ານ​ຄວາມ​ປອດ​ໄພ​ໃນ​ອຸ​ປະ​ກອນ Android ຂອງ​ທ່ານ​ຈາກ​ໄລ​ຍະ​ໄກ​ໄດ້.</string>
@@ -41,6 +44,8 @@
     <string name="account_settings_conversation_view_progress_dialog_message">ກຳລັງອັບເດດການຕັ້ງຄ່າບັນຊີ...</string>
     <string name="account_settings_conversation_view_summary">ຈັດກຸ່ມອີເມວທີ່ມີຫົວຂໍ້ດຽວກັນເຂົ້ານຳກັນ. ການຕັ້ງຄ່ານີ້ອາດໃຊ້ເວລາໄລຍະນຶ່ງເພື່ອນຳໃຊ້</string>
     <string name="account_settings_conversation_view_title">ມຸມມອງການສົນທະນາ</string>
+    <string name="account_settings_conversation_view_turned_off_dialog_message">ມຸມມອງການສົນທະນາໄດ້ຖືກປິດໄວ້ເພື່ອໃຫ້ຄືກັບການຕັ້ງຄ່າບັນຊີຂອງທ່ານ. ທ່ານສາມາດປ່ຽນໄດ້ໃນການຕັ້ງຄ່າ.</string>
+    <string name="account_settings_conversation_view_turned_on_dialog_message">ມຸມມອງການສົນທະນາໄດ້ຖືກເປີດໄວ້ເພື່ອໃຫ້ຄືກັບການຕັ້ງຄ່າບັນຊີຂອງທ່ານ. ທ່ານສາມາດປ່ຽນໄດ້ໃນການຕັ້ງຄ່າ.</string>
     <string name="account_settings_data_usage">​ການນຳ​ໃຊ້ຂໍ້​ມູນ</string>
     <string name="account_settings_description_label">ຊື່ບັນຊີ</string>
     <string name="account_settings_edit_quick_responses_label">ການຕອບດ່ວນ</string>
@@ -810,6 +815,7 @@
     <string name="gmailify_updating_password_title">ກຳລັງອັບເດດລະຫັດຜ່ານຂອງທ່ານ…</string>
     <string name="google_play_logo">ໄປທີ່ Google Play Store</string>
     <string name="google_terms_of_service">ເງື່ອນໄຂການໃຫ້ບໍລິການຂອງ Google</string>
+    <string name="got_it_option">ເຂົ້າໃຈແລ້ວ</string>
     <string name="has_malware_website_links">ໃຫ້ລະມັດລະວັງອີເມວນີ້. ມັນມີລິ້ງທີ່ເຊື່ອມຕໍ່ໄປຫາເວັບໄຊທີ່ມີຊອບແວທີ່ເປັນອັນຕະລາຍ.</string>
     <string name="hats_survey_promo_action_text">ເຮັດແບບສຳຫຼວດຂອງພວກເຮົາ</string>
     <string name="hats_survey_promo_text">ຊ່ວຍພວກເຮົາປັບປຸງ Gmail</string>
@@ -833,6 +839,7 @@
     <string name="icr_declined">%1$s ໄດ້ &lt;b>ປະຕິເສດ&lt;/b> ນັດໝາຍນີ້ແລ້ວ.</string>
     <string name="icr_empty_title">(ບໍ່ມີຊື່)</string>
     <string name="icr_hide_original">ເຊື່ອງຂໍ້ຄວາມຕົ້ນສະບັບ</string>
+    <string name="icr_loading_error_msg">ບໍ່ສາມາດໂຫຼດຂໍ້ມູນນັດໝາຍໄດ້.</string>
     <string name="icr_location_description">ທີ່ຢູ່</string>
     <string name="icr_organizer">(ຜູ້ຈັດ)</string>
     <string name="icr_responded_maybe">ຕອບກັບວ່າອາດຈະໄປ</string>
@@ -842,6 +849,8 @@
     <string name="icr_show_original">ສະແດງຂໍ້ຄວາມຕົ້ນສະບັບ</string>
     <string name="icr_tentative">%1$s ໄດ້ &lt;b>ຕອບຮັບຢ່າງບໍ່ແນ່ໃຈ&lt;/b> ຕໍ່ນັດໝາຍນີ້ແລ້ວ.</string>
     <string name="icr_time_description">ລາຍລະອຽດວັນທີ</string>
+    <string name="icr_view_details">ເບິ່ງລາຍລະອຽດ</string>
+    <string name="icr_warning_description">ຄໍາເຕືອນ</string>
     <string name="image_attached">ແນບຮູບແລ້ວ</string>
     <string name="imap_name">ສ່ວນ​ຕົວ (IMAP​)</string>
     <string name="important_inbox_section_title">ພາກສ່ວນອິນບັອກສຳຄັນ</string>
@@ -1024,7 +1033,7 @@
     <string name="notification_label_description_priority_inbox_all_mail">ອິນບັອກ</string>
     <string name="notification_label_description_starred">ຕິດດາວ</string>
     <string name="notification_level_all">ອີເມວໃໝ່ທັງໝົດ</string>
-    <string name="notification_level_important">ສຳຄັນເທົ່ານັ້ນ</string>
+    <string name="notification_level_important">ສະເພາະພາກສ່ວນສຳຄັນເທົ່ານັ້ນ</string>
     <string name="notification_level_none">ບໍ່ມີ</string>
     <string name="notification_sender_line_snoozed">ເລື່ອນແລ້ວ: %1$s</string>
     <string name="notifications_category">ການແຈ້ງເຕືອນ</string>
@@ -1183,7 +1192,7 @@
     <string name="preferences_nudge_section_outbound_summary">ອີເມວທີ່ສົ່ງແລ້ວທີ່ທ່ານອາດຕ້ອງການຕິດຕາມຜົນຈະປາກົດຢູ່ເທິງສຸດຂອງອິນບັອກທ່ານ</string>
     <string name="preferences_nudge_section_outbound_title">ແນະນຳອີເມວໃຫ້ຕິດຕາມ</string>
     <string name="preferences_nudging_title">ຕອບກັບ ແລະ ຕິດຕາມຜົນ</string>
-    <string name="preferences_priority_inbox_notification_level_title">ລະດັບການແຈ້ງເຕືອນ</string>
+    <string name="preferences_priority_inbox_notification_level_title">ແຈ້ງເຕືອນສຳລັບພາກສ່ວນອິນບັອກ</string>
     <string name="preferences_ringtone_title">ສຽງ</string>
     <string name="preferences_signature_dialog_title">ລາຍເຊັນ</string>
     <string name="preferences_signature_summary_not_set">ຍັງບໍ່ໄດ້ຕັ້ງ</string>
@@ -1357,7 +1366,7 @@
     <string name="server_error_certificate_error">ເກີດບັນຫາໃນການເຂົ້າລະຫັດການເຊື່ອມຕໍ່.</string>
     <string name="server_error_login_limit_exceeded">ມີການດຶງຂໍ້ມູນໃໝ່ຫຼາຍເກີນໄປ. ກະລຸນາລອງໃໝ່ໃນພາຍຫຼັງ.</string>
     <string name="server_error_nonexistent_folder">ບໍ່ພົບໂຟນເດີທີ່ຮ້ອງຂໍ.</string>
-    <string name="server_error_too_many_requests">ມີການຮ້ອງຂໍຫຼາຍເກີນໄປ. ເກີນຂີດຈຳກັດຂອງເຊີບເວີ</string>
+    <string name="server_error_too_many_requests">ມີການໂຫຼດຂໍ້ມູນໃໝ່ຫຼາຍເກີນໄປ. ກະລຸນາລອງໃໝ່ໃນພາຍຫຼັງ.</string>
     <string name="set_priority">ກຳນົດຄວາມສຳຄັນ</string>
     <string name="settings">ການຕັ້ງຄ່າ</string>
     <string name="settings_number_of_days">ຈຳນວນ​ມື້​ຂອງ​ອີເມວ​ທີ່​ຕ້ອງການ​ຊິ້ງ​ຂໍ້ມູນ</string>
@@ -1518,6 +1527,7 @@
     <string name="too_large_to_attach_multiple">ນຶ່ງ ຫຼື ຫຼາຍກວ່ານຶ່ງໄຟລ໌ບໍ່ຖືກແນບ. ຈໍາກັດ %1$s.</string>
     <string name="too_large_to_attach_single">ບໍ່ສາມາດແນບໄຟລ໌ຂະໜາດເກີນ %1$s.</string>
     <string name="trash_folder_selection_title">ເລືອກໂຟນເດີຖັງຂີ້ເຫຍື້ອຂອງເຊີບເວີສຳລັບ %s</string>
+    <string name="trashed_message_indicator">ລຶບຂໍ້ຄວາມນີ້ອອກແລ້ວ</string>
     <string name="turn_auto_sync_on_dialog_body">ການປ່ຽນແປງທີ່ທ່ານເຮັດໃນທຸກແອັບຯ ແລະທຸກບັນຊີ ບໍ່ສະເພາະພຽງແຕ່ Gmail ຈະໄດ້ຮັບການຊິ້ງຂໍ້ມູນລະຫວ່າງເວັບໄຊ ແລະອຸປະກອນອື່ນໆຂອງທ່ານ ຮວມທັງ %1$s ຂອງທ່ານນຳ.</string>
     <string name="turn_auto_sync_on_dialog_confirm_btn">ເປີດ​ໃຊ້</string>
     <string name="turn_auto_sync_on_dialog_title">ປິດການຊິ້ງຂໍ້ມູນອັດຕະໂນມັດບໍ?</string>

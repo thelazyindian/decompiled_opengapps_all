@@ -41,6 +41,9 @@
     <string name="account_management_need_to_set_up_new_work_account">Det nya jobbkontot måste konfigureras.</string>
     <string name="account_management_new_work_account_line_item">Konfigurera kontot</string>
     <string name="account_management_set_up_new_account_title">Nytt jobbkonto</string>
+    <string name="account_notification_level_all">Alla</string>
+    <string name="account_notification_level_high_priority">Endast högprioriterade</string>
+    <string name="account_notification_level_none">Inga</string>
     <string name="account_security_dialog_content_fmt">Om du vill använda kontot &lt;%s> måste du uppdatera säkerhetsinställningarna på enheten. Kontakta administratören om du vill veta mer.</string>
     <string name="account_security_dialog_ok">Uppdatera nu</string>
     <string name="account_security_policy_explanation_fmt">Servern %s måste kunna fjärrkontrollera vissa säkerhetsfunktioner i din Android-enhet.</string>
@@ -53,6 +56,8 @@
     <string name="account_settings_conversation_view_progress_dialog_message">Kontoinställningarna uppdateras …</string>
     <string name="account_settings_conversation_view_summary">Gruppera e-postmeddelanden med samma ämne. Det kan ta en stund att tillämpa den här inställningen.</string>
     <string name="account_settings_conversation_view_title">Konversationsfönster</string>
+    <string name="account_settings_conversation_view_turned_off_dialog_message">Konversationsfönstret har inaktiverats i enlighet med dina kontoinställningar. Du kan ändra detta i inställningarna.</string>
+    <string name="account_settings_conversation_view_turned_on_dialog_message">Konversationsfönstret har aktiverats i enlighet med dina kontoinställningar. Du kan ändra detta i inställningarna.</string>
     <string name="account_settings_data_usage">Dataanvändning</string>
     <string name="account_settings_description_label">Kontonamn</string>
     <string name="account_settings_edit_quick_responses_label">Snabbsvar</string>
@@ -826,6 +831,7 @@
     <string name="gmailify_updating_password_title">Lösenordet uppdateras …</string>
     <string name="google_play_logo">Gå till Google Play Butik</string>
     <string name="google_terms_of_service">Googles användarvillkor</string>
+    <string name="got_it_option">OK</string>
     <string name="has_malware_website_links">Var försiktig med det här meddelandet. Det innehåller länkar till webbplatser med skadlig programvara.</string>
     <string name="hats_survey_promo_action_text">Gör vår undersökning</string>
     <string name="hats_survey_promo_text">Hjälp oss att förbättra Gmail</string>
@@ -850,6 +856,7 @@
     <string name="icr_declined">%1$s har &lt;b>tackat nej&lt;/b> till händelsen.</string>
     <string name="icr_empty_title">(namnlös)</string>
     <string name="icr_hide_original">Dölj det ursprungliga meddelandet</string>
+    <string name="icr_loading_error_msg">Det gick inte att läsa in uppgifter om händelser.</string>
     <string name="icr_location_description">Plats</string>
     <string name="icr_organizer">(organisatör)</string>
     <string name="icr_responded_maybe">Svarade Kanske</string>
@@ -859,6 +866,8 @@
     <string name="icr_show_original">Visa det ursprungliga meddelandet</string>
     <string name="icr_tentative">%1$s har &lt;b>preliminärt tackat ja&lt;/b> till händelsen.</string>
     <string name="icr_time_description">Datuminformation</string>
+    <string name="icr_view_details">Visa information</string>
+    <string name="icr_warning_description">Varning</string>
     <string name="image_attached">Bifogad bild</string>
     <string name="imap_name">Personligt (IMAP)</string>
     <string name="important_inbox_section_title">Avsnittet Viktigt i inkorgen</string>
@@ -1042,7 +1051,7 @@
     <string name="notification_label_description_priority_inbox_all_mail">Inkorg</string>
     <string name="notification_label_description_starred">Stjärnmärkt</string>
     <string name="notification_level_all">Alla nya e-postmeddelanden</string>
-    <string name="notification_level_important">Endast viktiga</string>
+    <string name="notification_level_important">Endast avsnittet Viktigt</string>
     <string name="notification_level_none">Inga</string>
     <string name="notification_sender_line_snoozed">Uppskjutet: %1$s</string>
     <string name="notifications_category">Aviseringar</string>
@@ -1203,7 +1212,7 @@ Slå på kontoaviseringar?"</string>
     <string name="preferences_nudge_section_outbound_summary">Utgående meddelanden som du kan behöva följa upp visas överst i inkorgen</string>
     <string name="preferences_nudge_section_outbound_title">Ge förslag på meddelanden att följa upp</string>
     <string name="preferences_nudging_title">Svara och följ upp</string>
-    <string name="preferences_priority_inbox_notification_level_title">Aviseringsnivå</string>
+    <string name="preferences_priority_inbox_notification_level_title">Skicka aviseringar om inkorgsavsnitt</string>
     <string name="preferences_ringtone_title">Ljud</string>
     <string name="preferences_signature_dialog_title">Signatur</string>
     <string name="preferences_signature_summary_not_set">Inte angiven</string>
@@ -1377,7 +1386,7 @@ Aktivera genom att trycka."</string>
     <string name="server_error_certificate_error">Det gick inte att säkra anslutningen.</string>
     <string name="server_error_login_limit_exceeded">För många uppdateringar: Försök igen senare.</string>
     <string name="server_error_nonexistent_folder">Den begärda mappen hittades inte.</string>
-    <string name="server_error_too_many_requests">För många begäranden. Serverns gräns har överskridits.</string>
+    <string name="server_error_too_many_requests">För många uppdateringar: Försök igen senare.</string>
     <string name="set_priority">Ange prioritet</string>
     <string name="settings">Inställningar</string>
     <string name="settings_number_of_days">Antal dagar av e-post som synkroniseras</string>
@@ -1538,6 +1547,7 @@ Aktivera genom att trycka."</string>
     <string name="too_large_to_attach_multiple">En eller flera filer bifogades inte. Gränsen är %1$s.</string>
     <string name="too_large_to_attach_single">Det går inte att bifoga filer som är större än %1$s.</string>
     <string name="trash_folder_selection_title">Välj mapp för papperskorgen på servern för %s</string>
+    <string name="trashed_message_indicator">Meddelandet har tagits bort</string>
     <string name="turn_auto_sync_on_dialog_body">Ändringar som du gör i alla appar och konton, inte bara i Gmail, synkroniseras mellan webben, dina andra enheter och din %1$s.</string>
     <string name="turn_auto_sync_on_dialog_confirm_btn">Aktivera</string>
     <string name="turn_auto_sync_on_dialog_title">Vill du aktivera automatisk synkronisering?</string>

@@ -34,6 +34,9 @@
     <string name="account_management_need_to_set_up_new_work_account">Váš nový pracovní účet je potřeba nastavit.</string>
     <string name="account_management_new_work_account_line_item">Nastavte tento účet</string>
     <string name="account_management_set_up_new_account_title">Nový pracovní účet</string>
+    <string name="account_notification_level_all">Všechna</string>
+    <string name="account_notification_level_high_priority">Jen s vysokou prioritou</string>
+    <string name="account_notification_level_none">Žádná</string>
     <string name="account_security_dialog_content_fmt">Pokud chcete používat účet &lt;%s>, musíte aktualizovat nastavení zabezpečení na svém zařízení. Další informace vám poskytne váš administrátor.</string>
     <string name="account_security_dialog_ok">Aktualizovat</string>
     <string name="account_security_policy_explanation_fmt">Server %s žádá o povolení, aby mohl v zařízení s Androidem vzdáleně ovládat některé funkce zabezpečení.</string>
@@ -46,6 +49,8 @@
     <string name="account_settings_conversation_view_progress_dialog_message">Aktualizace nastavení účtu…</string>
     <string name="account_settings_conversation_view_summary">Seskupit e-maily se stejným tématem dohromady. Než bude toto nastavení uplatněno, může to chvíli trvat</string>
     <string name="account_settings_conversation_view_title">Seskupování zpráv do konverzací</string>
+    <string name="account_settings_conversation_view_turned_off_dialog_message">Seskupování zpráv do konverzací bylo vypnuto podle nastavení ve vašem účtu. Změnit to můžete v nastavení.</string>
+    <string name="account_settings_conversation_view_turned_on_dialog_message">Seskupování zpráv do konverzací bylo zapnuto podle nastavení ve vašem účtu. Změnit to můžete v nastavení.</string>
     <string name="account_settings_data_usage">Využití dat</string>
     <string name="account_settings_description_label">Název účtu</string>
     <string name="account_settings_edit_quick_responses_label">Rychlé odpovědi</string>
@@ -820,6 +825,7 @@
     <string name="gmailify_updating_password_title">Změna hesla…</string>
     <string name="google_play_logo">Přejít do obchodu Google Play</string>
     <string name="google_terms_of_service">Smluvní podmínky společnosti Google</string>
+    <string name="got_it_option">Rozumím</string>
     <string name="has_malware_website_links">Dejte si na tuto zprávu pozor. Obsahuje odkazy na stránky s malwarem.</string>
     <string name="hats_survey_promo_action_text">Zapojit se</string>
     <string name="hats_survey_promo_text">Pomozte nám Gmail zlepšovat</string>
@@ -843,6 +849,7 @@
     <string name="icr_declined">%1$s pozvání na tuto událost &lt;b>odmítá&lt;/b>.</string>
     <string name="icr_empty_title">(bez názvu)</string>
     <string name="icr_hide_original">Skrýt původní zprávu</string>
+    <string name="icr_loading_error_msg">Údaje události se nepodařilo načíst.</string>
     <string name="icr_location_description">Místo</string>
     <string name="icr_organizer">(organizátor)</string>
     <string name="icr_responded_maybe">Odpověděli jste Možná</string>
@@ -852,6 +859,8 @@
     <string name="icr_show_original">Zobrazit původní zprávu</string>
     <string name="icr_tentative">%1$s pozvání na tuto událost &lt;b>předběžně přijímá&lt;/b>.</string>
     <string name="icr_time_description">Datum</string>
+    <string name="icr_view_details">Zobrazit podrobnosti</string>
+    <string name="icr_warning_description">Varování</string>
     <string name="image_attached">Obrázek byl připojen</string>
     <string name="imap_name">Osobní (IMAP)</string>
     <string name="important_inbox_section_title">Sekce Důležité v doručené poště</string>
@@ -1036,7 +1045,7 @@
     <string name="notification_label_description_priority_inbox_all_mail">Doručená pošta</string>
     <string name="notification_label_description_starred">S hvězdičkou</string>
     <string name="notification_level_all">Všechny nové e-maily</string>
-    <string name="notification_level_important">Jen důležité</string>
+    <string name="notification_level_important">Jen sekce Důležité</string>
     <string name="notification_level_none">Žádné</string>
     <string name="notification_sender_line_snoozed">Odloženo: %1$s</string>
     <string name="notifications_category">Oznámení</string>
@@ -1197,7 +1206,7 @@ Chcete oznámení zapnout?"</string>
     <string name="preferences_nudge_section_outbound_summary">Odeslané e-maily, ke kterým se možná ještě potřebujete vrátit, se zobrazí v horní části doručené pošty</string>
     <string name="preferences_nudge_section_outbound_title">Navrhovat e-maily, které je třeba připomenout</string>
     <string name="preferences_nudging_title">Odpovědi a nevyřízené e-maily</string>
-    <string name="preferences_priority_inbox_notification_level_title">Úroveň oznámení</string>
+    <string name="preferences_priority_inbox_notification_level_title">Oznámení ze sekcí doručené pošty</string>
     <string name="preferences_ringtone_title">Zvuk</string>
     <string name="preferences_signature_dialog_title">Podpis</string>
     <string name="preferences_signature_summary_not_set">Nenastaven</string>
@@ -1373,7 +1382,7 @@ Zapnete ji klepnutím."</string>
     <string name="server_error_certificate_error">Vyskytl se problém se zabezpečením připojení.</string>
     <string name="server_error_login_limit_exceeded">Příliš mnoho obnovení. Zkuste to znovu později.</string>
     <string name="server_error_nonexistent_folder">Požadovaná složka nebyla nalezena.</string>
-    <string name="server_error_too_many_requests">Příliš mnoho požadavků. Byly překročeny limity proti zneužití serveru</string>
+    <string name="server_error_too_many_requests">Příliš mnoho obnovení. Zkuste to znovu později.</string>
     <string name="set_priority">Nastavit prioritu</string>
     <string name="settings">Nastavení</string>
     <string name="settings_number_of_days">Počet dní k synchronizaci pošty</string>
@@ -1535,6 +1544,7 @@ Zapnete ji klepnutím."</string>
     <string name="too_large_to_attach_multiple">Jeden nebo více souborů nebylo připojeno. Limit je %1$s.</string>
     <string name="too_large_to_attach_single">Nelze připojit soubor větší než %1$s.</string>
     <string name="trash_folder_selection_title">Vyberte koš serveru pro účet %s</string>
+    <string name="trashed_message_indicator">Tato zpráva byla smazána</string>
     <string name="turn_auto_sync_on_dialog_body">Změny, které provedete ve všech aplikacích a účtech (nikoli jen v Gmailu), budou synchronizovány mezi webem, vašimi ostatními zařízeními a vaším %1$s.</string>
     <string name="turn_auto_sync_on_dialog_confirm_btn">Zapnout</string>
     <string name="turn_auto_sync_on_dialog_title">Zapnout automatickou synchronizaci?</string>

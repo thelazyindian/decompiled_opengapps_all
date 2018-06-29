@@ -11,7 +11,6 @@
     <item type="id" name="calendar_icon" />
     <item type="id" name="cancel_sending" />
     <item type="id" name="canceling_send" />
-    <item type="id" name="carousel_view_holder_tag" />
     <item type="id" name="cml_callback_registry_tag" />
     <item type="id" name="contact_image" />
     <item type="id" name="continue_adding_account" />
@@ -20,7 +19,6 @@
     <item type="id" name="decryption_icon" />
     <item type="id" name="delete" />
     <item type="id" name="discard_outbox" />
-    <item type="id" name="do_not_set_click_listener_tag" />
     <item type="id" name="dummy_placeholder" />
     <item type="id" name="edit_settings_option" />
     <item type="id" name="empty_list_offline" />
@@ -126,9 +124,6 @@
     <item type="id" name="transition_scene_layoutid_cache" />
     <item type="id" name="transition_transform" />
     <item type="id" name="try_gmailify_option" />
-    <item type="id" name="tutorial_confirm" />
-    <item type="id" name="tutorial_subtext" />
-    <item type="id" name="tutorial_text" />
     <item type="id" name="undo_send" />
     <item type="id" name="undoing_send" />
     <item type="id" name="unread" />
@@ -318,6 +313,26 @@
     <item type="id" name="addon_buttons" />
     <item type="id" name="addon_loading" />
     <item type="id" name="no_addon_text" />
+    <item type="id" name="app_install_with_cta_rich_ad_teaser_item" />
+    <item type="id" name="app_install_with_cta_rich_ad_teaser_content" />
+    <item type="id" name="app_install_with_cta_rich_ad_teaser_contact_image" />
+    <item type="id" name="app_install_with_cta_rich_ad_teaser_wta_info_icon" />
+    <item type="id" name="app_install_with_cta_rich_ad_teaser_advertiser_name" />
+    <item type="id" name="app_install_with_cta_rich_ad_teaser_star_icon" />
+    <item type="id" name="app_install_with_cta_rich_ad_teaser_install_button" />
+    <item type="id" name="app_install_with_cta_rich_ad_teaser_install_icon" />
+    <item type="id" name="app_install_with_cta_rich_ad_teaser_button_text" />
+    <item type="id" name="ad_badge_and_subject" />
+    <item type="id" name="app_install_with_cta_rich_ad_teaser_ad_badge" />
+    <item type="id" name="app_install_with_cta_rich_ad_teaser_subject" />
+    <item type="id" name="app_install_with_cta_rich_ad_teaser_description" />
+    <item type="id" name="app_install_with_cta_rich_ad_teaser_info_text" />
+    <item type="id" name="app_install_with_cta_rich_ad_teaser_rating_bar" />
+    <item type="id" name="app_install_with_cta_rich_ad_teaser_rating_count_text" />
+    <item type="id" name="app_install_with_cta_rich_ad_teaser_wta_tooltip" />
+    <item type="id" name="app_install_with_cta_rich_ad_teaser_duffy_survey" />
+    <item type="id" name="app_install_with_cta_rich_ad_teaser_divider_line" />
+    <item type="id" name="app_install_with_cta_rich_ad_teaser_separate_line" />
     <item type="id" name="app_rating" />
     <item type="id" name="app_rating_star_0" />
     <item type="id" name="app_rating_star_1" />
@@ -332,6 +347,7 @@
     <item type="id" name="attachment_tile_subtitle" />
     <item type="id" name="attachment_tile_save" />
     <item type="id" name="attachment_tile_save_to_cloud" />
+    <item type="id" name="attachment_tile_save_to_photos" />
     <item type="id" name="attachment_tile_remove" />
     <item type="id" name="authentication_header" />
     <item type="id" name="add_authentication" />
@@ -362,7 +378,6 @@
     <item type="id" name="basic_ad_teaser_advertiser_name" />
     <item type="id" name="basic_ad_teaser_wta_info_icon" />
     <item type="id" name="basic_ad_teaser_star_icon" />
-    <item type="id" name="ad_badge_and_subject" />
     <item type="id" name="basic_ad_teaser_ad_badge" />
     <item type="id" name="basic_ad_teaser_subject" />
     <item type="id" name="basic_ad_teaser_description" />
@@ -430,8 +445,9 @@
     <item type="id" name="chip_indicator_text" />
     <item type="id" name="certificate_alias" />
     <item type="id" name="select_certificate" />
+    <item type="id" name="expand_collapse_button" />
     <item type="id" name="rich_text_toolbar" />
-    <item type="id" name="locker_controls_container" />
+    <item type="id" name="locker_fragment_container" />
     <item type="id" name="compose" />
     <item type="id" name="wa_chip" />
     <item type="id" name="attachment_tile_grid" />
@@ -521,6 +537,7 @@
     <item type="id" name="warning_stripe" />
     <item type="id" name="warning_icon" />
     <item type="id" name="warning_text" />
+    <item type="id" name="trashed_messages_indicator" />
     <item type="id" name="draft" />
     <item type="id" name="edit_draft" />
     <item type="id" name="reply" />
@@ -554,7 +571,6 @@
     <item type="id" name="snooze_banner" />
     <item type="id" name="snooze_banner_icon" />
     <item type="id" name="snooze_banner_text" />
-    <item type="id" name="banner_divider" />
     <item type="id" name="trashed_messages_banner" />
     <item type="id" name="trashed_messages_banner_text" />
     <item type="id" name="trashed_messages_banner_action" />
@@ -620,7 +636,6 @@
     <item type="id" name="eas_oof_outside_domain_content" />
     <item type="id" name="eas_oof_outside_domain_message" />
     <item type="id" name="eas_oof_send_to_only_contacts" />
-    <item type="id" name="expand_collapse_button" />
     <item type="id" name="radio_group" />
     <item type="id" name="first_button" />
     <item type="id" name="first_button_extras" />
@@ -700,6 +715,7 @@
     <item type="id" name="icr_date_block" />
     <item type="id" name="icr_month_header" />
     <item type="id" name="icr_day_header" />
+    <item type="id" name="icr_warning_icon" />
     <item type="id" name="icr_subject_title" />
     <item type="id" name="icr_subtitle" />
     <item type="id" name="icr_add" />
@@ -708,6 +724,9 @@
     <item type="id" name="icr_action_decline" />
     <item type="id" name="icr_action_accept_pnt" />
     <item type="id" name="icr_action_view_event_pnt" />
+    <item type="id" name="icr_load_error" />
+    <item type="id" name="icr_loading_block" />
+    <item type="id" name="icr_view_details" />
     <item type="id" name="icr_time" />
     <item type="id" name="icr_time_text" />
     <item type="id" name="icr_location" />
@@ -739,6 +758,12 @@
     <item type="id" name="locker_action_cancel" />
     <item type="id" name="locker_action_save" />
     <item type="id" name="locker_controls_cml_container" />
+    <item type="id" name="email_address" />
+    <item type="id" name="phone_number" />
+    <item type="id" name="locker_recipients_custom_actionbar" />
+    <item type="id" name="locker_recipients_action_back" />
+    <item type="id" name="locker_recipients_action_done" />
+    <item type="id" name="locker_recipient_inputs_container" />
     <item type="id" name="search_actionbar_view" />
     <item type="id" name="search_actionbar_back_button" />
     <item type="id" name="search_actionbar_query_text" />
@@ -1139,6 +1164,7 @@
     <item type="id" name="wait_for_sync_title" />
     <item type="id" name="manual_sync" />
     <item type="id" name="change_sync_settings" />
+    <item type="id" name="locker_recipients_container" />
     <item type="id" name="compose_security_banner" />
     <item type="id" name="wc_respond_inline_button" />
     <item type="id" name="wc_body" />
@@ -1232,6 +1258,7 @@
     <item type="id" name="report_rendering_problem" />
     <item type="id" name="report_rendering_improvement" />
     <item type="id" name="photo_view_menu_group" />
+    <item type="id" name="save_to_photos" />
     <item type="id" name="menu_save" />
     <item type="id" name="menu_save_all" />
     <item type="id" name="save_to_cloud" />

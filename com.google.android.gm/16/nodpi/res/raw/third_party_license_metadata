@@ -46,62 +46,63 @@
 495611:10693 Compatibility Libraries for Android localbroadcastmanager.
 506351:10693 Compatibility Libraries for Android print.
 517103:10693 Compatibility Libraries for Android slidingpanelayout.
-527856:10693 Compatibility Libraries for Android swiperefreshlayout.
-538600:10693 Compatibility Libraries for Android viewpager.
-549311:11358 Crunchy Crypt
-560680:11358 Dagger
-572054:11357 Error Prone
-583433:11358 FasterXML Jackson
-594807:11358 Google Auto
-606180:11358 Guava JDK5
-617553:11362 Guava JDK7
-628925:11370 Guice
-640325:11357 Hallmark CardView library
-651700:11362 Inject Common
-663073:11358 J2ObjC
-674443:11358 JSR 250
-685813:11365 JSR 330
-697192:11358 Joda-Time
-708586:11358 Material Components for Android
-719955:11358 OkHttp
-731322:11358 Okio
-742697:11342 RichEditText
-754049:11357 ZXing
-765415:11365 absl
-776801:10141 customtabsclient
-786963:11357 extended_linkify
-798333:11358 fastutil
-809703:11358 flexbox
-821082:11324 gwt_jsdoc_linker
-832422:11359 highwayhash
-843798:11358 joda_convert
-855167:18982 mime4j
-874164:11357 pcg_random
-885533:11357 tagsoup
-896906:16013 Android SDK
-912941:22655 Checker Framework
-935605:26536 GRTE
-962152:20240 libcap
-982411:1096 Animal Sniffer
-983518:1084 Brotli
-984614:5416 Libxml2
-990038:680 STL
-990726:731 UTF
-991466:694 ares
-992170:1074 jutf7
-993253:2500 zlib
-995767:12517 BoringSSL
-1008294:4771 Glide
-1013075:21000 ICU4C
-1034085:19442 ICU4J
-1053536:3182 PCRE
-1056750:1559 Chrome Certificate Verifier
-1058321:1602 JSR 305
-1059948:1459 OWASP html sanitizer
-1061425:1732 Protobuf Nano
-1063165:1558 RE2
-1064739:1481 darts_clone
-1066233:1315 dnsjava2
-1067559:1536 ical4j
-1069105:2655 zippy
-1071772:1530 zstdlib
+527856:10695 Compatibility Libraries for Android support-slices_core
+538611:10693 Compatibility Libraries for Android swiperefreshlayout.
+549355:10693 Compatibility Libraries for Android viewpager.
+560066:11358 Crunchy Crypt
+571435:11358 Dagger
+582809:11357 Error Prone
+594188:11358 FasterXML Jackson
+605562:11358 Google Auto
+616935:11358 Guava JDK5
+628308:11362 Guava JDK7
+639680:11370 Guice
+651080:11357 Hallmark CardView library
+662455:11362 Inject Common
+673828:11358 J2ObjC
+685198:11358 JSR 250
+696568:11365 JSR 330
+707947:11358 Joda-Time
+719341:11358 Material Components for Android
+730710:11358 OkHttp
+742077:11358 Okio
+753452:11342 RichEditText
+764804:11357 ZXing
+776170:11365 absl
+787544:10219 ahat
+797784:10141 customtabsclient
+807946:11357 extended_linkify
+819315:11358 flexbox
+830694:11324 gwt_jsdoc_linker
+842034:11359 highwayhash
+853410:11358 joda_convert
+864779:18982 mime4j
+883776:11357 pcg_random
+895145:11357 tagsoup
+906518:16013 Android SDK
+922540:26536 GRTE
+949087:20240 libcap
+969346:1096 Animal Sniffer
+970453:1084 Brotli
+971571:1846 Checker Framework Annotations
+973429:5416 Libxml2
+978853:680 STL
+979541:731 UTF
+980281:694 ares
+980985:1074 jutf7
+982068:2500 zlib
+984582:12517 BoringSSL
+997109:4771 Glide
+1001890:21000 ICU4C
+1022900:19442 ICU4J
+1042351:3182 PCRE
+1045543:2655 zippy
+1048230:1559 Chrome Certificate Verifier
+1049801:1602 JSR 305
+1051428:1459 OWASP html sanitizer
+1052905:1732 Protobuf Nano
+1054645:1558 RE2
+1056219:1481 darts_clone
+1057713:1315 dnsjava2
+1059039:1536 ical4j
+1060587:1530 zstdlib

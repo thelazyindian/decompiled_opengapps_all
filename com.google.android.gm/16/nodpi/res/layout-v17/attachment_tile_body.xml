@@ -10,6 +10,7 @@
         </LinearLayout>
         <ImageButton android:id="@id/attachment_tile_save" android:background="?selectableItemBackgroundBorderless" android:visibility="gone" android:layout_width="48.0dip" android:layout_height="48.0dip" android:src="@drawable/ic_file_download_grey600_24dp" android:contentDescription="@string/save_attachment" />
         <ImageButton android:id="@id/attachment_tile_save_to_cloud" android:background="?selectableItemBackgroundBorderless" android:visibility="gone" android:layout_width="48.0dip" android:layout_height="48.0dip" android:src="@drawable/ic_drive_grey600_24dp" android:contentDescription="@string/save_attachment_to_cloud" />
+        <ImageButton android:id="@id/attachment_tile_save_to_photos" android:background="?selectableItemBackgroundBorderless" android:visibility="gone" android:layout_width="48.0dip" android:layout_height="48.0dip" />
         <ImageButton android:id="@id/attachment_tile_remove" android:background="?selectableItemBackgroundBorderless" android:visibility="gone" android:layout_width="48.0dip" android:layout_height="48.0dip" android:src="@drawable/ic_close_24dp" android:contentDescription="@string/remove_attachment_desc" />
     </LinearLayout>
 </LinearLayout>

@@ -29,6 +29,9 @@
     <string name="account_management_need_to_set_up_new_work_account">គណនី​ការងារ​ថ្មី​របស់​អ្នក​ត្រូវការ​ឱ្យ​មាន​ការរៀបចំ។</string>
     <string name="account_management_new_work_account_line_item">រៀបចំ​គណនី​នេះ</string>
     <string name="account_management_set_up_new_account_title">គណនី​ការងារ​ថ្មី</string>
+    <string name="account_notification_level_all">ទាំងអស់</string>
+    <string name="account_notification_level_high_priority">អាទិភាព​ខ្ពស់​ប៉ុណ្ណោះ</string>
+    <string name="account_notification_level_none">គ្មាន</string>
     <string name="account_security_dialog_content_fmt">ដើម្បីប្រើ​គណនីរបស់អ្នក &lt;%s> អ្នកត្រូវតែអាប់ដេតការកំណត់​សុវត្ថិភាពនៅលើ​ឧបករណ៍របស់​អ្នក។ សូមទាក់ទងអ្នកគ្រប់គ្រងរបស់អ្នកដើម្បីទទួលបានព័ត៌មានបន្ថែម។</string>
     <string name="account_security_dialog_ok">អាប់ដេតឥឡូវនេះ</string>
     <string name="account_security_policy_explanation_fmt">ម៉ាស៊ីន​​មេ %s ទាមទារ​ឲ្យ​អ្នក​​អនុញ្ញាត​ឲ្យ​​វា​​​ត្រួត​ពិនិត្យ​ពី​ចម្ងាយ​លក្ខណៈ​​សុវត្ថិភាព​មួយ​ចំនួន​នៃ​ឧបករណ៍ Android របស់​អ្នក​។</string>
@@ -41,6 +44,8 @@
     <string name="account_settings_conversation_view_progress_dialog_message">កំពុង​ធ្វើ​បច្ចុប្បន្នភាព​ការកំណត់​គណនី…</string>
     <string name="account_settings_conversation_view_summary">ដាក់​អ៊ីមែល​ដែល​មាន​ប្រធានបទ​ដូច​គ្នា​ជាមួយ​គ្នា។ ការកំណត់​នេះ​អាច​ត្រូវការ​រយៈ​ពេលខ្លះ ដើម្បី​មានប្រសិទ្ធភាព</string>
     <string name="account_settings_conversation_view_title">ទិដ្ឋភាព​សន្ទនា</string>
+    <string name="account_settings_conversation_view_turned_off_dialog_message">ទិដ្ឋភាព​សន្ទនា​ត្រូវ​បាន​បិទ ដើម្បី​ឱ្យ​ត្រូវ​នឹង​ការកំណត់​គណនី​របស់​អ្នក។ អ្នក​អាច​ផ្លាស់ប្ដូរ​វា​ក្នុង​ការកំណត់​បាន។</string>
+    <string name="account_settings_conversation_view_turned_on_dialog_message">ទិដ្ឋភាព​សន្ទនា​ត្រូវ​បាន​បើក ដើម្បី​ឱ្យ​ត្រូវ​នឹង​ការកំណត់​គណនី​របស់​អ្នក។ អ្នក​អាច​ផ្លាស់ប្ដូរ​វា​ក្នុង​ការកំណត់​បាន។</string>
     <string name="account_settings_data_usage">ការ​ប្រើ​ទិន្នន័យ</string>
     <string name="account_settings_description_label">ឈ្មោះ​គណនី</string>
     <string name="account_settings_edit_quick_responses_label">ឆ្លើយតប​រហ័ស</string>
@@ -820,6 +825,7 @@
     <string name="gmailify_updating_password_title">កំពុងអាប់ដេតពាក្យសម្ងាត់របស់អ្នក…</string>
     <string name="google_play_logo">ចូលទៅ​ហាង Google Play</string>
     <string name="google_terms_of_service">លក្ខខណ្ឌនៃសេវាកម្ម Google</string>
+    <string name="got_it_option">យល់​ហើយ</string>
     <string name="has_malware_website_links">សូម​ប្រយ័ត្ន​ជាមួយ​នឹង​សារ​នេះ។ វា​មាន​តំណ​ទៅ​កាន់​គេហ​ទំព័រ​ដែល​បង្ហោះ​កម្មវិធី​គ្រោះថ្នាក់។</string>
     <string name="hats_survey_promo_action_text">យក​ការ​ស្ទង់​មតិ​របស់​យើង</string>
     <string name="hats_survey_promo_text">ជួយ​យើង​ក្នុង​ការកែ​លម្អ Gmail</string>
@@ -843,6 +849,7 @@
     <string name="icr_declined">%1$s បាន &lt;b​>​បដិសេធ​&lt;/b​> ព្រឹត្តិការណ៍​នេះ​។</string>
     <string name="icr_empty_title">(គ្មាន​ចំណងជើង)</string>
     <string name="icr_hide_original">លាក់​សារ​ដើម</string>
+    <string name="icr_loading_error_msg">មិន​អាច​ផ្ទុក​ទិន្នន័យ​ព្រឹត្តិការណ៍​បាន​ទេ។</string>
     <string name="icr_location_description">ទីកន្លែង</string>
     <string name="icr_organizer">(អ្នក​រៀបចំ)</string>
     <string name="icr_responded_maybe">បានឆ្លើយតបថា ប្រហែល</string>
@@ -852,6 +859,8 @@
     <string name="icr_show_original">បង្ហាញ​សារ​ដើម</string>
     <string name="icr_tentative">%1$s បាន &lt;b​>​ទទួល​យកព្រឹត្តិការណ៍នេះជាបណ្តោះអាសន្ន&lt;/b​>។</string>
     <string name="icr_time_description">ព័ត៌មាន​​អំពី​កាលបរិច្ឆេទ</string>
+    <string name="icr_view_details">មើល​ព័ត៌មាន​លម្អិត</string>
+    <string name="icr_warning_description">ការ​ព្រមាន</string>
     <string name="image_attached">រូបភាពបានភ្ជាប់</string>
     <string name="imap_name">ផ្ទាល់​ខ្លួន (IMAP​)</string>
     <string name="important_inbox_section_title">ផ្នែកសំខាន់ប្រអប់សារ</string>
@@ -1037,7 +1046,7 @@
     <string name="notification_label_description_priority_inbox_all_mail">ប្រអប់​សារ</string>
     <string name="notification_label_description_starred">មាន​ផ្កាយ</string>
     <string name="notification_level_all">អ៊ីមែល​ថ្មី​ទាំងអស់</string>
-    <string name="notification_level_important">សំខាន់​ប៉ុណ្ណោះ</string>
+    <string name="notification_level_important">ផ្នែក​សំខាន់​ប៉ុណ្ណោះ</string>
     <string name="notification_level_none">គ្មាន</string>
     <string name="notification_sender_line_snoozed">បាន​ផ្អាក៖ %1$s</string>
     <string name="notifications_category">ការ​ជូនដំណឹង</string>
@@ -1196,7 +1205,7 @@
     <string name="preferences_nudge_section_outbound_summary">អ៊ីមែល​ដែល​បាន​ផ្ញើ ដែល​អ្នក​អាច​នឹង​ត្រូវ​ទាក់ទង​ដើម្បី​តាមដាន នឹង​បង្ហាញ​នៅ​ផ្នែក​ខាង​លើ​នៃ​ប្រអប់​សារ​របស់​អ្នក</string>
     <string name="preferences_nudge_section_outbound_title">ណែនាំ​អ៊ីមែល​ដែលត្រូវ​ទាក់ទង​ដើម្បី​តាមដាន</string>
     <string name="preferences_nudging_title">ឆ្លើយតប និង​ទាក់ទង​ដើម្បី​តាមដាន</string>
-    <string name="preferences_priority_inbox_notification_level_title">កម្រិត​នៃ​ការជូន​ដំណឹង</string>
+    <string name="preferences_priority_inbox_notification_level_title">ជូន​ដំណឹង​សម្រាប់​ផ្នែក​ប្រអប់​សារ</string>
     <string name="preferences_ringtone_title">សំឡេង</string>
     <string name="preferences_signature_dialog_title">ហត្ថលេខា</string>
     <string name="preferences_signature_summary_not_set">មិនកំណត់</string>
@@ -1370,7 +1379,7 @@
     <string name="server_error_certificate_error">មានបញ្ហាក្នុងការធ្វើឱ្យការភ្ជាប់មានសុវត្ថិភាព។</string>
     <string name="server_error_login_limit_exceeded">មានការផ្ទុកឡើងវិញច្រើនពេក។ សូមព្យាយាមម្តងទៀតនៅពេលក្រោយ។</string>
     <string name="server_error_nonexistent_folder">ថតដែលបានស្នើសុំមិនត្រូវបានរកឃើញ។</string>
-    <string name="server_error_too_many_requests">មាន​សំណើ​ច្រើន​ពេក។ បាន​លើស​ចំនួន​កំណត់​នៃ​ការបំពាន​ម៉ាស៊ីន​មេ</string>
+    <string name="server_error_too_many_requests">មាន​ការផ្ទុក​ឡើង​វិញ​ច្រើន​ពេក។ សូមព្យាយាម​ម្តង​ទៀត​នៅ​ពេល​ក្រោយ។</string>
     <string name="set_priority">កំណត់អាទិភាព​</string>
     <string name="settings">ការ​កំណត់</string>
     <string name="settings_number_of_days">ថ្ងៃ​ដែល​សំបុត្រ​​ត្រូវ​ធ្វើ​សម​កាល​កម្ម</string>
@@ -1531,6 +1540,7 @@
     <string name="too_large_to_attach_multiple">មិន​បាន​ភ្ជាប់​ឯកសារ​មួយ ​ឬ​ច្រើន​។ ​កំណត់ %1$s។</string>
     <string name="too_large_to_attach_single">មិន​អាច​ភ្ជាប់​ឯកសារ​ដែល​ធំជាង %1$s។</string>
     <string name="trash_folder_selection_title">ជ្រើស​ថត​ធុង​សំរាម​ម៉ាស៊ីន​​មេ​​សម្រាប់ %s</string>
+    <string name="trashed_message_indicator">សារ​នេះ​ត្រូវ​បាន​លុប។</string>
     <string name="turn_auto_sync_on_dialog_body">ការ​ផ្លាស់​ប្ដូរ​ដែល​អ្នក​បាន​ធ្វើ​​លើ​​កម្មវិធី​ទាំង​អស់​ និង​គណនី​មិន​មែន​គ្រាន់​តែ​ជា​ Gmail ទេ ​នឹង​ត្រូវ​បាន​ធ្វើ​សម​កាល​កម្ម​រវាង​បណ្ដាញ​ឧបករណ៍​ផ្សេង​ទៀត​​ ​និង​ %1$s របស់​អ្នក។</string>
     <string name="turn_auto_sync_on_dialog_confirm_btn">បើក</string>
     <string name="turn_auto_sync_on_dialog_title">បើក​សម​កាល​កម្ម​ដោយ​ស្វ័យ​ប្រវត្តិ​ឬ?</string>

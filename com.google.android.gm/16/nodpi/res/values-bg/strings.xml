@@ -33,6 +33,9 @@
     <string name="account_management_need_to_set_up_new_work_account">Новият ви служебен профил трябва да бъде настроен.</string>
     <string name="account_management_new_work_account_line_item">Настройване на този профил</string>
     <string name="account_management_set_up_new_account_title">Нов служебен профил</string>
+    <string name="account_notification_level_all">Всички</string>
+    <string name="account_notification_level_high_priority">Само при висок приоритет</string>
+    <string name="account_notification_level_none">Без</string>
     <string name="account_security_dialog_content_fmt">За да използвате профила си (%s), трябва да актуализирате настройките за сигурност на устройството си. Свържете се с администратора си за повече информация.</string>
     <string name="account_security_dialog_ok">Актуализиране</string>
     <string name="account_security_policy_explanation_fmt">Сървърът %s изисква отдалечен контрол над някои от функциите за сигурност на устройството ви с Android.</string>
@@ -45,6 +48,8 @@
     <string name="account_settings_conversation_view_progress_dialog_message">Настройките на профила се актуализират...</string>
     <string name="account_settings_conversation_view_summary">Групира заедно имейлите с една и съща тема. Тази настройка може да отнеме известно време за прилагане</string>
     <string name="account_settings_conversation_view_title">Изглед с кореспонденции</string>
+    <string name="account_settings_conversation_view_turned_off_dialog_message">Изгледът с кореспонденции бе изключен, за да съответства на настройките ви за профила. Можете да промените това в настройките.</string>
+    <string name="account_settings_conversation_view_turned_on_dialog_message">Изгледът с кореспонденции бе включен, за да съответства на настройките ви за профила. Можете да промените това в настройките.</string>
     <string name="account_settings_data_usage">Използване на данни</string>
     <string name="account_settings_description_label">Име на профила</string>
     <string name="account_settings_edit_quick_responses_label">Бързи отговори</string>
@@ -828,6 +833,7 @@
     <string name="gmailify_updating_password_title">Паролата ви се актуализира…</string>
     <string name="google_play_logo">Към Google Play Магазин</string>
     <string name="google_terms_of_service">Общи условия на Google</string>
+    <string name="got_it_option">Разбрах</string>
     <string name="has_malware_website_links">Внимавайте с това съобщение. То съдържа връзки към уебсайтове, хостващи злонамерен софтуер.</string>
     <string name="hats_survey_promo_action_text">Нашето проучване</string>
     <string name="hats_survey_promo_text">Помогнете ни да подобрим Gmail</string>
@@ -852,6 +858,7 @@
     <string name="icr_declined">%1$s &lt;b>отхвърли&lt;/b> това събитие.</string>
     <string name="icr_empty_title">(няма заглавие)</string>
     <string name="icr_hide_original">Скриване на оригиналното съобщение</string>
+    <string name="icr_loading_error_msg">Данните за събитието не могат да бъдат заредени.</string>
     <string name="icr_location_description">Местоположение</string>
     <string name="icr_organizer">(организатор)</string>
     <string name="icr_responded_maybe">Отговорихте с „може би“</string>
@@ -861,6 +868,8 @@
     <string name="icr_show_original">Показване на оригиналното съобщение</string>
     <string name="icr_tentative">%1$s &lt;b>условно прие&lt;/b> това събитие.</string>
     <string name="icr_time_description">Информация за датата</string>
+    <string name="icr_view_details">Преглед на подробностите</string>
+    <string name="icr_warning_description">Внимание</string>
     <string name="image_attached">Изображението е прикачено</string>
     <string name="imap_name">Личен (IMAP)</string>
     <string name="important_inbox_section_title">Важна секция във входящата поща</string>
@@ -1046,7 +1055,7 @@
     <string name="notification_label_description_priority_inbox_all_mail">Вх. поща</string>
     <string name="notification_label_description_starred">Със звезда</string>
     <string name="notification_level_all">Всички нови съобщения</string>
-    <string name="notification_level_important">Само важните</string>
+    <string name="notification_level_important">Само от секцията „Важно“</string>
     <string name="notification_level_none">Нито едно</string>
     <string name="notification_sender_line_snoozed">Отложено: %1$s</string>
     <string name="notifications_category">Известия</string>
@@ -1207,7 +1216,7 @@
     <string name="preferences_nudge_section_outbound_summary">Изпратените имейли, за които може да се наложи да предприемете последващо действие, ще се показват в началото на входящата ви поща</string>
     <string name="preferences_nudge_section_outbound_title">Предложения за имейли за последващи действия</string>
     <string name="preferences_nudging_title">Отговор и последващо действие</string>
-    <string name="preferences_priority_inbox_notification_level_title">Ниво на известяване</string>
+    <string name="preferences_priority_inbox_notification_level_title">Известие за секции на входящата поща</string>
     <string name="preferences_ringtone_title">Звук</string>
     <string name="preferences_signature_dialog_title">Подпис</string>
     <string name="preferences_signature_summary_not_set">Незададен</string>
@@ -1383,7 +1392,7 @@
     <string name="server_error_certificate_error">При подсигуряването на връзката възникна проблем.</string>
     <string name="server_error_login_limit_exceeded">Твърде много опреснявания. Моля, опитайте отново по-късно.</string>
     <string name="server_error_nonexistent_folder">Заявената папка не бе намерена.</string>
-    <string name="server_error_too_many_requests">Твърде много заявки. Надвишен е лимитът за злоупотреби на сървъра</string>
+    <string name="server_error_too_many_requests">Твърде много опреснявания. Моля, опитайте отново по-късно.</string>
     <string name="set_priority">Задаване на приоритет</string>
     <string name="settings">Настройки</string>
     <string name="settings_number_of_days">Дни от пощата за синхронизиране</string>
@@ -1546,6 +1555,7 @@
     <string name="too_large_to_attach_multiple">Един или повече файла не бяха прикачени. Ограничението е %1$s.</string>
     <string name="too_large_to_attach_single">Не може да се прикачи файл над %1$s.</string>
     <string name="trash_folder_selection_title">Папка „Кошче“ на сървъра за %s</string>
+    <string name="trashed_message_indicator">Това съобщение е било изтрито</string>
     <string name="turn_auto_sync_on_dialog_body">Промените, които правите във всички приложения и профили, а не само в Gmail, ще се синхронизират между мрежата, другите ви устройства и %1$s ви.</string>
     <string name="turn_auto_sync_on_dialog_confirm_btn">Включване</string>
     <string name="turn_auto_sync_on_dialog_title">Да се включи ли автоматичното синхронизиране?</string>

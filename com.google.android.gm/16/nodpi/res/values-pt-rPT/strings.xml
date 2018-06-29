@@ -30,6 +30,9 @@
     <string name="account_management_need_to_set_up_new_work_account">A sua nova conta para o trabalho precisa de ser configurada.</string>
     <string name="account_management_new_work_account_line_item">Configurar esta conta</string>
     <string name="account_management_set_up_new_account_title">Nova conta para o trabalho</string>
+    <string name="account_notification_level_all">Todas</string>
+    <string name="account_notification_level_high_priority">Só com prioridade elevada</string>
+    <string name="account_notification_level_none">Nenhuma</string>
     <string name="account_security_dialog_content_fmt">Para utilizar a conta&lt;%s>, tem de atualizar as definições de segurança no seu dispositivo. Contacte o gestor para obter mais informações.</string>
     <string name="account_security_dialog_ok">Atualizar agora</string>
     <string name="account_security_policy_explanation_fmt">O servidor %s requer autorização para controlar remotamente algumas das funcionalidades de segurança do dispositivo Android.</string>
@@ -42,6 +45,8 @@
     <string name="account_settings_conversation_view_progress_dialog_message">A atualizar as definições da conta…</string>
     <string name="account_settings_conversation_view_summary">Agrupe emails com o mesmo tópico. Esta definição pode demorar algum tempo a ser aplicada</string>
     <string name="account_settings_conversation_view_title">Vista de conversa</string>
+    <string name="account_settings_conversation_view_turned_off_dialog_message">A vista de conversa foi desativada para corresponder às definições da sua conta. Pode alterar esta opção nas definições.</string>
+    <string name="account_settings_conversation_view_turned_on_dialog_message">A vista de conversa foi ativada para corresponder às definições da sua conta. Pode alterar esta opção nas definições.</string>
     <string name="account_settings_data_usage">Utilização de dados</string>
     <string name="account_settings_description_label">Nome da conta</string>
     <string name="account_settings_edit_quick_responses_label">Respostas rápidas</string>
@@ -806,6 +811,7 @@
     <string name="gmailify_updating_password_title">A atualizar a sua palavra-passe…</string>
     <string name="google_play_logo">Ir para a Google Play Store</string>
     <string name="google_terms_of_service">Termos de Utilização do Google</string>
+    <string name="got_it_option">OK</string>
     <string name="has_malware_website_links">Tenha cuidado com esta mensagem. Contém links para Sites de anfitriões de programas maliciosos.</string>
     <string name="hats_survey_promo_action_text">Participar no inquérito</string>
     <string name="hats_survey_promo_text">Ajude-nos a melhorar o Gmail</string>
@@ -828,6 +834,7 @@
     <string name="icr_declined">%1$s &lt;b>recusou&lt;/b> este evento.</string>
     <string name="icr_empty_title">(sem título)</string>
     <string name="icr_hide_original">Ocultar mensagem original</string>
+    <string name="icr_loading_error_msg">Não é possível carregar dados do evento.</string>
     <string name="icr_location_description">Localização</string>
     <string name="icr_organizer">(organizador)</string>
     <string name="icr_responded_maybe">Respondeu Talvez</string>
@@ -837,6 +844,8 @@
     <string name="icr_show_original">Mostrar mensagem original</string>
     <string name="icr_tentative">%1$s &lt;b>aceitou a título experimental&lt;/b> este evento.</string>
     <string name="icr_time_description">Informações de data</string>
+    <string name="icr_view_details">Ver detalhes</string>
+    <string name="icr_warning_description">Aviso</string>
     <string name="image_attached">Imagem anexada</string>
     <string name="imap_name">Pessoal (IMAP)</string>
     <string name="important_inbox_section_title">Secção Importante da caixa de entrada</string>
@@ -877,7 +886,7 @@
     <string name="label_priority_inbox_all_drafts">Todo o correio rascunho</string>
     <string name="label_priority_inbox_all_important">Todo o correio importante</string>
     <string name="label_priority_inbox_all_sent">Todo o correio enviado</string>
-    <string name="label_priority_inbox_all_starred">Todo o correio marcado com uma estrela</string>
+    <string name="label_priority_inbox_all_starred">Todo o correio marcado com estrela</string>
     <string name="label_priority_inbox_custom">Todas %s</string>
     <string name="label_priority_inbox_important_for_widget">Importante (Prioridades)</string>
     <string name="label_priority_inbox_important_unread">Todo o correio importante e não lido</string>
@@ -1016,7 +1025,7 @@
     <string name="notification_label_description_priority_inbox_all_mail">Caixa de entrada</string>
     <string name="notification_label_description_starred">Marcado com estrela</string>
     <string name="notification_level_all">Todo o correio novo</string>
-    <string name="notification_level_important">Apenas importantes</string>
+    <string name="notification_level_important">Apenas a secção Importante</string>
     <string name="notification_level_none">Nenhum</string>
     <string name="notification_sender_line_snoozed">Suspenso: %1$s</string>
     <string name="notifications_category">Notificações</string>
@@ -1175,7 +1184,7 @@ Ativar as notificações de conta?"</string>
     <string name="preferences_nudge_section_outbound_summary">Os emails enviados que poderá ter de acompanhar serão apresentados na parte superior da sua caixa de entrada</string>
     <string name="preferences_nudge_section_outbound_title">Sugerir emails a acompanhar</string>
     <string name="preferences_nudging_title">Responder e acompanhar</string>
-    <string name="preferences_priority_inbox_notification_level_title">Nível de notificação</string>
+    <string name="preferences_priority_inbox_notification_level_title">Notificar para secções da caixa de entrada</string>
     <string name="preferences_ringtone_title">Som</string>
     <string name="preferences_signature_dialog_title">Assinatura</string>
     <string name="preferences_signature_summary_not_set">Não definida</string>
@@ -1350,7 +1359,7 @@ Toque para ativar."</string>
     <string name="server_error_certificate_error">Ocorreu um problema ao utilizar a ligação segura.</string>
     <string name="server_error_login_limit_exceeded">Demasiadas atualizações. Tente novamente mais tarde.</string>
     <string name="server_error_nonexistent_folder">Não foi possível encontrar a pasta solicitada.</string>
-    <string name="server_error_too_many_requests">Demasiados pedidos. Os limites de abuso do servidor foram excedidos.</string>
+    <string name="server_error_too_many_requests">Demasiadas atualizações. Tente novamente mais tarde.</string>
     <string name="set_priority">Definir prioridade</string>
     <string name="settings">Definições</string>
     <string name="settings_number_of_days">Dias de correio a sincronizar</string>
@@ -1508,6 +1517,7 @@ Toque para ativar."</string>
     <string name="too_large_to_attach_multiple">Um ou mais ficheiros não anexados. Limite: %1$s.</string>
     <string name="too_large_to_attach_single">Não é possível anexar um ficheiro com mais de %1$s.</string>
     <string name="trash_folder_selection_title">Selecionar a pasta de lixo do servidor para %s</string>
+    <string name="trashed_message_indicator">Esta mensagem foi eliminada</string>
     <string name="turn_auto_sync_on_dialog_body">As alterações efetuadas a todas as aplicações e contas, e não apenas ao Gmail, serão sincronizadas entre a Web, os seus outros dispositivos e o %1$s.</string>
     <string name="turn_auto_sync_on_dialog_confirm_btn">Ativar</string>
     <string name="turn_auto_sync_on_dialog_title">Ativar a sincronização automática?</string>

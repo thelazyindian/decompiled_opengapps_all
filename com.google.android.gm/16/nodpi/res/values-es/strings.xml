@@ -41,6 +41,9 @@
     <string name="account_management_need_to_set_up_new_work_account">Tu nueva cuenta del trabajo debe configurarse.</string>
     <string name="account_management_new_work_account_line_item">Configurar esta cuenta</string>
     <string name="account_management_set_up_new_account_title">Nueva cuenta del trabajo</string>
+    <string name="account_notification_level_all">Todos</string>
+    <string name="account_notification_level_high_priority">Solo de prioridad alta</string>
+    <string name="account_notification_level_none">Ninguno</string>
     <string name="account_security_dialog_content_fmt">Para poder utilizar tu cuenta &lt;%s>, tienes que actualizar la configuración de seguridad de tu dispositivo. Si necesitas más información, consulta a tu administrador.</string>
     <string name="account_security_dialog_ok">Actualiza ahora</string>
     <string name="account_security_policy_explanation_fmt">Tienes que permitir al servidor %s que controle de forma remota algunas funciones de seguridad de tu dispositivo Android.</string>
@@ -53,6 +56,8 @@
     <string name="account_settings_conversation_view_progress_dialog_message">Actualizando los ajustes de la cuenta…</string>
     <string name="account_settings_conversation_view_summary">Agrupar los correos con el mismo tema. Es posible que este ajuste tarde algún tiempo en aplicarse.</string>
     <string name="account_settings_conversation_view_title">Vista de conversación</string>
+    <string name="account_settings_conversation_view_turned_off_dialog_message">La vista de conversación se ha desactivado para que coincida con los ajustes de tu cuenta. Puedes cambiar esta opción en Ajustes.</string>
+    <string name="account_settings_conversation_view_turned_on_dialog_message">La vista de conversación se ha activado para que coincida con los ajustes de tu cuenta. Puedes cambiar esta opción en Ajustes.</string>
     <string name="account_settings_data_usage">Uso de datos</string>
     <string name="account_settings_description_label">Nombre de la cuenta</string>
     <string name="account_settings_edit_quick_responses_label">Respuestas rápidas</string>
@@ -224,7 +229,7 @@
     <string name="acwr_more_options">Más opciones</string>
     <string name="acwr_more_options_button">botón Más opciones</string>
     <string name="acwr_propose_a_new_time">Proponer otra hora</string>
-    <string name="acwr_tentatively_accepted_prefix">Tal vez:</string>
+    <string name="acwr_tentatively_accepted_prefix">Quizás:</string>
     <string name="ad">Anuncio</string>
     <string name="ad_app_category_books_and_reference">Libros y obras de consulta</string>
     <string name="ad_app_category_business">Economía y empresa</string>
@@ -660,10 +665,10 @@
     <string name="empty_spam_dialog_title">¿Vaciar Spam?</string>
     <string name="empty_spam_folder">No hay nada en Spam</string>
     <string name="empty_t4_folder">No hay nada en Tareas</string>
-    <string name="empty_trash">Vaciar la Papelera</string>
+    <string name="empty_trash">Vaciar la papelera</string>
     <string name="empty_trash_banner_action">Vaciar la papelera ahora</string>
-    <string name="empty_trash_dialog_title">¿Vaciar la Papelera?</string>
-    <string name="empty_trash_folder">No hay nada en la Papelera</string>
+    <string name="empty_trash_dialog_title">¿Vaciar la papelera?</string>
+    <string name="empty_trash_folder">No hay nada en la papelera</string>
     <string name="empty_trash_spam_banner_text">¿Quieres eliminar todos estos mensajes?</string>
     <string name="encrypted_attachment">Este mensaje lleva adjuntos uno o varios archivos cifrados que no se pueden analizar en busca de virus.</string>
     <string name="endByDate">; hasta el %s</string>
@@ -823,6 +828,7 @@
     <string name="gmailify_updating_password_title">Actualizando tu contraseña…</string>
     <string name="google_play_logo">Ir a Google Play Store</string>
     <string name="google_terms_of_service">Condiciones de Servicio de Google</string>
+    <string name="got_it_option">Entendido</string>
     <string name="has_malware_website_links">Ten cuidado con este mensaje. Contiene enlaces a sitios web que alojan software malicioso.</string>
     <string name="hats_survey_promo_action_text">Haz nuestra encuesta</string>
     <string name="hats_survey_promo_text">Ayúdanos a mejorar Gmail</string>
@@ -846,6 +852,7 @@
     <string name="icr_declined">%1$s ha &lt;b>rechazado&lt;/b> este evento.</string>
     <string name="icr_empty_title">(sin título)</string>
     <string name="icr_hide_original">Ocultar el mensaje original</string>
+    <string name="icr_loading_error_msg">No se pueden cargar los datos de eventos.</string>
     <string name="icr_location_description">Ubicación</string>
     <string name="icr_organizer">(organizador)</string>
     <string name="icr_responded_maybe">Has respondido quizá</string>
@@ -855,6 +862,8 @@
     <string name="icr_show_original">Mostrar el mensaje original</string>
     <string name="icr_tentative">%1$s ha &lt;b>aceptado provisionalmente&lt;/b> este evento.</string>
     <string name="icr_time_description">Información de la fecha</string>
+    <string name="icr_view_details">Ver detalles</string>
+    <string name="icr_warning_description">Advertencia</string>
     <string name="image_attached">Imagen adjunta</string>
     <string name="important_inbox_section_title">Bandeja de entrada: sección Importantes</string>
     <string name="in_bad_sender_list">¿Por qué está en Spam este mensaje? Porque otras veces has marcado como spam los mensajes de &lt;b>%1$s&lt;/b>.</string>
@@ -1032,7 +1041,7 @@
     <string name="notification_label_description_priority_inbox_all_mail">Recibidos</string>
     <string name="notification_label_description_starred">Destacados</string>
     <string name="notification_level_all">Todos los correos nuevos</string>
-    <string name="notification_level_important">Solo importantes</string>
+    <string name="notification_level_important">Solo de la sección Importantes</string>
     <string name="notification_level_none">Ninguno</string>
     <string name="notification_sender_line_snoozed">Pospuesto: %1$s</string>
     <string name="notifications_category">Notificaciones</string>
@@ -1192,7 +1201,7 @@ Toca para activarla."</string>
     <string name="preferences_nudge_section_outbound_summary">Los correos enviados de los que puede que quieras hacer un seguimiento aparecerán al principio de tu bandeja de entrada</string>
     <string name="preferences_nudge_section_outbound_title">Sugerir correos de los que hacer un seguimiento</string>
     <string name="preferences_nudging_title">Respuesta y seguimiento</string>
-    <string name="preferences_priority_inbox_notification_level_title">Nivel de notificación</string>
+    <string name="preferences_priority_inbox_notification_level_title">Notificaciones de las secciones de la bandeja de entrada</string>
     <string name="preferences_ringtone_title">Sonido</string>
     <string name="preferences_signature_dialog_title">Firma</string>
     <string name="preferences_signature_summary_not_set">No definida</string>
@@ -1366,7 +1375,7 @@ Toca para activarla."</string>
     <string name="server_error_certificate_error">No se ha podido proteger la conexión.</string>
     <string name="server_error_login_limit_exceeded">Demasiadas actualizaciones. Vuelve a intentarlo más tarde.</string>
     <string name="server_error_nonexistent_folder">No se ha encontrado la carpeta solicitada.</string>
-    <string name="server_error_too_many_requests">Demasiadas solicitudes: límite de uso en exceso del servidor superado</string>
+    <string name="server_error_too_many_requests">Demasiadas actualizaciones. Vuelve a intentarlo más tarde.</string>
     <string name="set_priority">Establecer prioridad</string>
     <string name="settings">Ajustes</string>
     <string name="settings_number_of_days">Días de correo sincronizados</string>
@@ -1526,6 +1535,7 @@ Toca para activarla."</string>
     <string name="too_large_to_attach_multiple">Hay uno o varios archivos que no se han adjuntado (límite de %1$s).</string>
     <string name="too_large_to_attach_single">No puedes adjuntar archivos de más de %1$s.</string>
     <string name="trash_folder_selection_title">Elige papelera del servidor de %s</string>
+    <string name="trashed_message_indicator">Este mensaje se ha eliminado</string>
     <string name="turn_auto_sync_on_dialog_body">Los cambios que realices en todas las aplicaciones y cuentas, no solo en Gmail, se sincronizarán en la Web, en tus otros dispositivos y en tu %1$s.</string>
     <string name="turn_auto_sync_on_dialog_confirm_btn">Activar</string>
     <string name="turn_auto_sync_on_dialog_title">¿Quieres activar la sincronización automática?</string>

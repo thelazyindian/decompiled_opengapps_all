@@ -29,6 +29,9 @@
     <string name="account_management_need_to_set_up_new_work_account">ਤੁਹਾਡੇ ਕਾਰਜ-ਸਥਾਨ ਦੇ ਨਵੇਂ ਖਾਤੇ ਦਾ ਸੈੱਟਅੱਪ ਕੀਤੇ ਜਾਣ ਦੀ ਲੋੜ ਹੈ।</string>
     <string name="account_management_new_work_account_line_item">ਇਸ ਖਾਤੇ ਦਾ ਸੈੱਟਅੱਪ ਕਰੋ</string>
     <string name="account_management_set_up_new_account_title">ਕਾਰਜ-ਸਥਾਨ ਦਾ ਨਵਾਂ ਖਾਤਾ</string>
+    <string name="account_notification_level_all">ਸਭ</string>
+    <string name="account_notification_level_high_priority">ਸਿਰਫ਼ ਉੱਚ ਤਰਜੀਹ</string>
+    <string name="account_notification_level_none">ਕੋਈ ਨਹੀਂ</string>
     <string name="account_security_dialog_content_fmt">"ਤੁਹਾਨੂੰ ਤੁਹਾਡੇ ਖਾਤੇ &lt;%s> ਦੀ ਵਰਤੋਂ ਕਰਨ ਲਈ ਇਸ ਡੀਵਾਈਸ 'ਤੇ ਸੁਰੱਖਿਆ ਸੈਟਿੰਗਾਂ ਨੂੰ ਅੱਪਡੇਟ ਕਰਨਾ ਲਾਜ਼ਮੀ ਹੈ। ਜ਼ਿਆਦਾ ਜਾਣਕਾਰੀ ਲਈ ਆਪਣੇ ਪ੍ਰਸ਼ਾਸਕ ਨੂੰ ਸੰਪਰਕ ਕਰੋ।"</string>
     <string name="account_security_dialog_ok">ਹੁਣੇ ਅੱਪਡੇਟ ਕਰੋ</string>
     <string name="account_security_policy_explanation_fmt">ਸਰਵਰ %s ਨੂੰ ਲੋੜ ਹੈ ਕਿ ਤੁਸੀਂ ਇਸਨੂੰ ਆਪਣੀ Android ਡੀਵਾਈਸ ਦੀਆਂ ਕੁਝ ਸੁਰੱਖਿਆ ਵਿਸ਼ੇਸ਼ਤਾਵਾਂ ਤੇ ਰਿਮੋਟਲੀ ਨਿਯੰਤਰਣ ਪਾਉਣ ਦੀ ਆਗਿਆ ਦਿਓ।</string>
@@ -41,6 +44,8 @@
     <string name="account_settings_conversation_view_progress_dialog_message">ਖਾਤਾ ਸੈਟਿੰਗਾਂ ਨੂੰ ਅੱਪਡੇਟ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ…</string>
     <string name="account_settings_conversation_view_summary">ਇੱਕੋ ਵਿਸ਼ੇ ਵਾਲੀਆਂ ਈਮੇਲਾਂ ਨੂੰ ਇਕੱਠੇ ਗਰੁੱਪਬੱਧ ਕਰੋ। ਇਸ ਸੈਟਿੰਗ ਨੂੰ ਲਾਗੂ ਹੋਣ ਵਿੱਚ ਕੁਝ ਸਮਾਂ ਲੱਗ ਸਕਦਾ ਹੈ</string>
     <string name="account_settings_conversation_view_title">ਗੱਲਬਾਤ ਦ੍ਰਿਸ਼</string>
+    <string name="account_settings_conversation_view_turned_off_dialog_message">ਤੁਹਾਡੀਆਂ ਖਾਤਾ ਸੈਟਿੰਗਾਂ ਨਾਲ ਮਿਲਾਨ ਕਰਨ ਲਈ ਗੱਲਬਾਤ ਦ੍ਰਿਸ਼ ਨੂੰ ਬੰਦ ਕਰ ਦਿੱਤਾ ਗਿਆ ਹੈ। ਤੁਸੀਂ ਇਸਨੂੰ ਸੈਟਿੰਗਾਂ ਵਿੱਚ ਜਾਕੇ ਬਦਲ ਸਕਦੇ ਹੋ।</string>
+    <string name="account_settings_conversation_view_turned_on_dialog_message">ਤੁਹਾਡੀਆਂ ਖਾਤਾ ਸੈਟਿੰਗਾਂ ਨਾਲ ਮਿਲਾਨ ਕਰਨ ਲਈ ਗੱਲਬਾਤ ਦ੍ਰਿਸ਼ ਨੂੰ ਚਾਲੂ ਕਰ ਦਿੱਤਾ ਗਿਆ ਹੈ। ਤੁਸੀਂ ਇਸਨੂੰ ਸੈਟਿੰਗਾਂ ਵਿੱਚ ਜਾਕੇ ਬਦਲ ਸਕਦੇ ਹੋ।</string>
     <string name="account_settings_data_usage">ਡਾਟਾ ਵਰਤੋਂ</string>
     <string name="account_settings_description_label">ਖਾਤੇ ਦਾ ਨਾਮ</string>
     <string name="account_settings_edit_quick_responses_label">ਤਤਕਾਲ ਜਵਾਬ</string>
@@ -809,6 +814,7 @@
     <string name="gmailify_updating_password_title">ਤੁਹਾਡਾ ਪਾਸਵਰਡ ਅੱਪਡੇਟ ਹੋ ਰਿਹਾ ਹੈ…</string>
     <string name="google_play_logo">Google Play ਸਟੋਰ ਉੱਤੇ ਜਾਓ</string>
     <string name="google_terms_of_service">Google ਸੇਵਾ ਦੀਆਂ ਮਦਾਂ</string>
+    <string name="got_it_option">ਸਮਝ ਲਿਆ</string>
     <string name="has_malware_website_links">ਇਸ ਸੁਨੇਹੇ ਤੋਂ ਸਾਵਧਾਨ ਰਹੋ। ਇਸ ਵਿੱਚ ਮਾਲਵੇਅਰ ਹੋਸਟ ਕਰਨ ਵਾਲੀਆਂ ਵੈੱਬਸਾਈਟਾਂ ਲਈ ਲਿੰਕ ਸ਼ਾਮਲ ਹਨ।</string>
     <string name="hats_survey_promo_action_text">ਸਾਡਾ ਸਰਵੇਖਣ ਪੂਰਾ ਕਰੋ</string>
     <string name="hats_survey_promo_text">Gmail ਨੂੰ ਬਿਹਤਰ ਬਣਾਉਣ ਵਿੱਚ ਮਦਦ ਕਰੋ</string>
@@ -832,6 +838,7 @@
     <string name="icr_declined">%1$s ਨੇ ਇਹ ਵਰਤਾਰਾ &lt;b>ਅਸਵੀਕਾਰ ਕੀਤਾ&lt;/b>।</string>
     <string name="icr_empty_title">(ਕੋਈ ਸਿਰਲੇਖ ਨਹੀਂ)</string>
     <string name="icr_hide_original">ਮੂਲ ਸੁਨੇਹਾ ਛੁਪਾਓ</string>
+    <string name="icr_loading_error_msg">ਇਵੈਂਟ ਡਾਟਾ ਲੋਡ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਿਆ।</string>
     <string name="icr_location_description">ਟਿਕਾਣਾ</string>
     <string name="icr_organizer">(ਪ੍ਰਬੰਧਕ)</string>
     <string name="icr_responded_maybe">ਸ਼ਾਇਦ ਵਜੋਂ ਜਵਾਬ ਦਿੱਤਾ</string>
@@ -841,6 +848,8 @@
     <string name="icr_show_original">"ਮੂਲ ਸੁਨੇਹਾ  ਦਿਖਾਓ"</string>
     <string name="icr_tentative">%1$s ਨੇ ਇਹ ਵਰਤਾਰਾ &lt;b>ਆਰਜ਼ੀ ਰੂਪ ਵਿੱਚ ਸਵੀਕਾਰ ਕੀਤਾ&lt;/b>।</string>
     <string name="icr_time_description">ਮਿਤੀ ਜਾਣਕਾਰੀ</string>
+    <string name="icr_view_details">ਵੇਰਵੇ ਦੇਖੋ</string>
+    <string name="icr_warning_description">ਚਿਤਾਵਨੀ</string>
     <string name="image_attached">ਚਿੱਤਰ ਨੱਥੀ ਕੀਤਾ ਗਿਆ</string>
     <string name="imap_name">ਨਿੱਜੀ (IMAP)</string>
     <string name="important_inbox_section_title">ਇਨਬਾਕਸ ਮਹੱਤਵਪੂਰਨ ਸੈਕਸ਼ਨ</string>
@@ -1023,7 +1032,7 @@
     <string name="notification_label_description_priority_inbox_all_mail">ਇਨਬਾਕਸ</string>
     <string name="notification_label_description_starred">ਤਾਰਾਬੱਧ</string>
     <string name="notification_level_all">ਸਾਰੀਆਂ ਨਵੀਆਂ ਈਮੇਲਾਂ</string>
-    <string name="notification_level_important">ਸਿਰਫ਼ ਮਹੱਤਵਪੂਰਨ</string>
+    <string name="notification_level_important">ਸਿਰਫ਼ ਮਹੱਤਵਪੂਰਨ ਸੈਕਸ਼ਨ</string>
     <string name="notification_level_none">ਕੋਈ ਨਹੀਂ</string>
     <string name="notification_sender_line_snoozed">ਸਨੂਜ਼ ਕੀਤਾ ਗਿਆ: %1$s</string>
     <string name="notifications_category">ਸੂਚਨਾਵਾਂ</string>
@@ -1182,7 +1191,7 @@
     <string name="preferences_nudge_section_outbound_summary">ਭੇਜੀਆਂ ਗਈਆਂ ਈਮੇਲਾਂ ਸ਼ਾਇਦ ਜਿਨ੍ਹਾਂ ਦੀ ਤੁਹਾਨੂੰ ਪੈਰਵਾਈ ਕਰਨ ਦੀ ਲੋੜ ਹੈ, ਉਹ ਤੁਹਾਡੇ ਇਨਬਾਕਸ ਦੇ ਉੱਪਰ ਦਿਖਾਈ ਦੇਣਗੀਆਂ</string>
     <string name="preferences_nudge_section_outbound_title">ਜਿਨ੍ਹਾਂ ਈਮੇਲਾਂ ਦੀ ਪੈਰਵਾਈ ਕਰਨੀ ਹੈ, ਉਹ ਸੁਝਾਓ</string>
     <string name="preferences_nudging_title">ਜਵਾਬ ਦਿਓ ਅਤੇ ਪੈਰਵਾਈ ਕਰੋ</string>
-    <string name="preferences_priority_inbox_notification_level_title">ਸੂਚਨਾ ਪੱਧਰ</string>
+    <string name="preferences_priority_inbox_notification_level_title">ਇਨਬਾਕਸ ਸੈਕਸ਼ਨਾਂ ਦੀ ਸੂਚਨਾ ਦਿਓ</string>
     <string name="preferences_ringtone_title">ਧੁਨੀ</string>
     <string name="preferences_signature_dialog_title">ਦਸਤਖਤ</string>
     <string name="preferences_signature_summary_not_set">ਸੈੱਟ ਨਹੀਂ ਕੀਤਾ</string>
@@ -1356,7 +1365,7 @@
     <string name="server_error_certificate_error">ਕਨੈਕਸ਼ਨ ਨੂੰ ਸੁਰੱਖਿਅਤ ਕਰਨ ਦੌਰਾਨ ਸਮੱਸਿਆ ਆਈ।</string>
     <string name="server_error_login_limit_exceeded">ਬਹੁਤ ਵਾਰ ਤਾਜ਼ਾ ਕੀਤਾ ਗਿਆ ਹੈ। ਕਿਰਪਾ ਕਰਕੇ ਬਾਅਦ ਵਿੱਚ ਕੋਸ਼ਿਸ਼ ਕਰੋ।</string>
     <string name="server_error_nonexistent_folder">ਬੇਨਤੀ ਕੀਤਾ ਫੋਲਡਰ ਨਹੀਂ ਮਿਲਿਆ।</string>
-    <string name="server_error_too_many_requests">ਬਹੁਤ ਜ਼ਿਆਦਾ ਬੇਨਤੀਆਂ। ਸਰਵਰ ਨੂੰ ਬੇਨਤੀ ਕਰਨ ਦੀ ਸੀਮਾ ਪਾਰ ਹੋਈ</string>
+    <string name="server_error_too_many_requests">ਕਈ ਵਾਰ ਰਿਫ੍ਰੈਸ਼ ਕੀਤਾ ਗਿਆ। ਕਿਰਪਾ ਕਰਕੇ ਬਾਅਦ ਵਿੱਚ ਦੁਬਾਰਾ ਕੋਸ਼ਿਸ਼ ਕਰੋ।</string>
     <string name="set_priority">ਤਰਜੀਹ ਸੈੱਟ ਕਰੋ</string>
     <string name="settings">ਸੈਟਿੰਗਾਂ</string>
     <string name="settings_number_of_days">ਸਮਕਾਲੀਕਰਨ ਕਰਨ ਲਈ ਮੇਲ ਦੇ ਦਿਨ</string>
@@ -1517,6 +1526,7 @@
     <string name="too_large_to_attach_multiple">ਇੱਕ ਜਾਂ ਵੱਧ ਫ਼ਾਈਲਾਂ ਨੱਥੀ ਨਹੀਂ ਕੀਤੀਆਂ। ਸੀਮਾ%1$s।</string>
     <string name="too_large_to_attach_single">%1$s ਤੋਂ ਵੱਡੀ ਫ਼ਾਈਲ ਨੱਥੀ ਨਹੀਂ ਕੀਤੀ ਜਾ ਸਕਦੀ।</string>
     <string name="trash_folder_selection_title">%s ਲਈ ਸਰਵਰ ਟਰੈਸ਼ ਫੋਲਡਰ ਚੁਣੋ</string>
+    <string name="trashed_message_indicator">ਇਹ ਸੁਨੇਹਾ ਮਿਟਾ ਦਿੱਤਾ ਗਿਆ ਹੈ</string>
     <string name="turn_auto_sync_on_dialog_body">ਨਾ ਸਿਰਫ਼ Gmail ਲਈ, ਬਲਕਿ ਸਭ ਐਪਾਂ ਅਤੇ ਖਾਤਿਆਂ ਲਈ ਕੀਤੀਆਂ ਤੁਹਾਡੀਆਂ ਤਬਦੀਲੀਆਂ ਨੂੰ ਵੈੱਬ, ਤੁਹਾਡੀਆਂ ਹੋਰ ਡੀਵਾਈਸਾਂ ਅਤੇ ਤੁਹਾਡੇ %1$s ਲਈ ਸਮਕਾਲੀਕਿਰਤ ਕੀਤਾ ਜਾਵੇਗਾ।</string>
     <string name="turn_auto_sync_on_dialog_confirm_btn">ਚਾਲੂ ਕਰੋ</string>
     <string name="turn_auto_sync_on_dialog_title">ਸਵੈ-ਸਮਕਾਲੀਕਰਨ ਚਾਲੂ ਕਰਨਾ ਹੈ?</string>

@@ -30,6 +30,9 @@
     <string name="account_management_need_to_set_up_new_work_account">Kailangang i-set up ng iyong bagong account sa trabaho.</string>
     <string name="account_management_new_work_account_line_item">I-set up ang account na ito</string>
     <string name="account_management_set_up_new_account_title">Bagong account sa trabaho</string>
+    <string name="account_notification_level_all">Lahat</string>
+    <string name="account_notification_level_high_priority">Mataas na priyoridad lang</string>
+    <string name="account_notification_level_none">Wala</string>
     <string name="account_security_dialog_content_fmt">Upang magamit ang iyong account na &lt;%s> kailangan mong i-update ang mga setting ng seguridad sa iyong device. Makipag-ugnayan sa iyong administrator para sa higit pang impormasyon.</string>
     <string name="account_security_dialog_ok">I-update ngayon</string>
     <string name="account_security_policy_explanation_fmt">Hinihiling ng server na %s na payagan mo itong malayuang kontrolin ang feature sa seguridad ng iyong Android device.</string>
@@ -42,6 +45,8 @@
     <string name="account_settings_conversation_view_progress_dialog_message">Ina-update ang mga setting ng account…</string>
     <string name="account_settings_conversation_view_summary">Magkakasamang igrupo ang mga email na may parehong paksa. Maaaring magtagal nang kaunti bago malapat ang setting na ito</string>
     <string name="account_settings_conversation_view_title">Tinitingnan ang mga pag-uusap</string>
+    <string name="account_settings_conversation_view_turned_off_dialog_message">In-off ang tingnan ang mga pag-uusap para tumugma sa iyong mga setting ng account. Maaari mo itong baguhin sa mga setting.</string>
+    <string name="account_settings_conversation_view_turned_on_dialog_message">In-on ang tingnan ang mga pag-uusap para tumugma sa iyong mga setting ng account.</string>
     <string name="account_settings_data_usage">Paggamit ng data</string>
     <string name="account_settings_description_label">Pangalan ng account</string>
     <string name="account_settings_edit_quick_responses_label">Mga mabilisang tugon</string>
@@ -780,6 +785,7 @@
     <string name="gmailify_updating_password_title">Ina-update ang iyong password…</string>
     <string name="google_play_logo">Pumunta sa Google Play Store</string>
     <string name="google_terms_of_service">Mga Tuntunin ng Serbisyo ng Google</string>
+    <string name="got_it_option">OK</string>
     <string name="has_malware_website_links">Mag-ingat sa mensaheng ito. Naglalaman ito ng mga link papunta sa mga website na nagho-host ng malware.</string>
     <string name="hats_survey_promo_action_text">Sagutan aming survey</string>
     <string name="hats_survey_promo_text">Tulungan kaming pahusayin ang Gmail</string>
@@ -803,6 +809,7 @@
     <string name="icr_declined">&lt;b>Tinanggihan&lt;/b> ni %1$s itong kaganapan.</string>
     <string name="icr_empty_title">(walang pamagat)</string>
     <string name="icr_hide_original">Itago ang orihinal na mensahe</string>
+    <string name="icr_loading_error_msg">Hindi na-load ang data ng event.</string>
     <string name="icr_location_description">Lokasyon</string>
     <string name="icr_responded_maybe">Tumugon ng siguro</string>
     <string name="icr_responded_no">Tumugon ng hindi</string>
@@ -811,6 +818,8 @@
     <string name="icr_show_original">Ipakita ang orihinal na mensahe</string>
     <string name="icr_tentative">&lt;b>Pansamantalang tinanggap&lt;/b> ni %1$s ang kaganapan.</string>
     <string name="icr_time_description">Impormasyon ng Petsa</string>
+    <string name="icr_view_details">Tingnan ang mga detalye</string>
+    <string name="icr_warning_description">Babala</string>
     <string name="image_attached">Na-attach na ang larawan</string>
     <string name="important_inbox_section_title">Mahalagang seksyon ng Inbox</string>
     <string name="in_bad_sender_list">Bakit nasa Spam ang mensaheng ito? Minarkahan mo dati ang mga mensahe mula kay &lt;b>%1$s&lt;/b> bilang spam.</string>
@@ -980,7 +989,7 @@
     <string name="notification_label_description_important">Mahalaga</string>
     <string name="notification_label_description_starred">Naka-star</string>
     <string name="notification_level_all">Lahat ng bagong mail</string>
-    <string name="notification_level_important">Mahalaga lang</string>
+    <string name="notification_level_important">Mahalagang seksyon lang</string>
     <string name="notification_level_none">Wala</string>
     <string name="notification_sender_line_snoozed">Naka-snooze: %1$s</string>
     <string name="notifications_category">Mga Notification</string>
@@ -1139,7 +1148,7 @@ I-on ang mga notification ng account?"</string>
     <string name="preferences_nudge_section_outbound_summary">Lalabas sa itaas ng iyong inbox ang mga naipadalang email na maaaring kailanganin mong balikan</string>
     <string name="preferences_nudge_section_outbound_title">Magmungkahi ng mga email na dapat i-follow up</string>
     <string name="preferences_nudging_title">Tumugon at i-follow up</string>
-    <string name="preferences_priority_inbox_notification_level_title">Level ng notification</string>
+    <string name="preferences_priority_inbox_notification_level_title">Abisuhan para sa mga seksyon ng inbox</string>
     <string name="preferences_ringtone_title">Tunog</string>
     <string name="preferences_signature_summary_not_set">Hindi naka-set</string>
     <string name="preferences_signature_title">Signature sa Mobile</string>
@@ -1304,7 +1313,7 @@ I-tap upang i-on."</string>
     <string name="server_error_certificate_error">Nagkaroon ng problema sa pag-secure ng koneksyon.</string>
     <string name="server_error_login_limit_exceeded">Napakaraming pag-refresh. Pakisubukang muli sa ibang pagkakataon.</string>
     <string name="server_error_nonexistent_folder">Hindi nahanap ang hiniling na folder.</string>
-    <string name="server_error_too_many_requests">Maraming kahilingan. Lumampas sa limitasyon ng pang-aabuso ng server</string>
+    <string name="server_error_too_many_requests">Napakaraming pag-refresh. Pakisubukang muli sa ibang pagkakataon.</string>
     <string name="set_priority">Magtakda ng priyoridad</string>
     <string name="settings">Mga Setting</string>
     <string name="settings_number_of_days">Mga araw ng mail na isi-sync</string>
@@ -1461,6 +1470,7 @@ I-tap upang i-on."</string>
     <string name="too_large_to_attach_multiple">Hindi naka-attach ang isa o mahigit pang mga file. Limitasyon %1$s.</string>
     <string name="too_large_to_attach_single">Hindi ma-attach ang file na lampas sa %1$s.</string>
     <string name="trash_folder_selection_title">Server trash folder para sa %s</string>
+    <string name="trashed_message_indicator">Dinelete ang mensaheng ito.</string>
     <string name="turn_auto_sync_on_dialog_body">Ang mga pagbabagong gagawin mo sa lahat ng app at account, hindi lang sa Gmail, ay masi-synchronize sa web, sa iba mo pang mga device, at sa iyong %1$s.</string>
     <string name="turn_auto_sync_on_dialog_confirm_btn">I-on</string>
     <string name="turn_auto_sync_on_dialog_title">I-on ang auto-sync?</string>

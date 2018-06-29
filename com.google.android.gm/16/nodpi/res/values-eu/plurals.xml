@@ -178,8 +178,8 @@
         <item quantity="one">Duela %d egun atzeratu da</item>
     </plurals>
     <plurals name="snoozed_date_hours_ago">
-        <item quantity="other">Duela %d ordu atzeratu da</item>
-        <item quantity="one">Duela %d ordu atzeratu da</item>
+        <item quantity="other">Duela %d ordu atzeratuta</item>
+        <item quantity="one">Duela %d ordu atzeratuta</item>
     </plurals>
     <plurals name="snoozed_date_months_ago">
         <item quantity="other">Duela %d hilabete atzeratu zen</item>

@@ -39,6 +39,9 @@
     <string name="account_management_need_to_set_up_new_work_account">Вашата нова службена сметка треба да се постави.</string>
     <string name="account_management_new_work_account_line_item">Поставете ја сметкава</string>
     <string name="account_management_set_up_new_account_title">Нова службена сметка</string>
+    <string name="account_notification_level_all">Сите</string>
+    <string name="account_notification_level_high_priority">Само со голем приоритет</string>
+    <string name="account_notification_level_none">Ниедна</string>
     <string name="account_security_dialog_content_fmt">Со цел да ја користите сметката &lt;%s>, мора да ги ажурирате поставките за безбедност на вашиот уред. Контактирајте со администраторот за повеќе информации.</string>
     <string name="account_security_dialog_ok">Ажурирајте сега</string>
     <string name="account_security_policy_explanation_fmt">Серверот %s бара да му овозможите далечинска контрола над некои безбедносни функции на уредот со Android.</string>
@@ -51,6 +54,8 @@
     <string name="account_settings_conversation_view_progress_dialog_message">Се ажурираат поставките за сметката…</string>
     <string name="account_settings_conversation_view_summary">Групни е-пораки со истиот наслов заедно. Може да помине малку време за да се примени поставкава</string>
     <string name="account_settings_conversation_view_title">Приказ на разговорот</string>
+    <string name="account_settings_conversation_view_turned_off_dialog_message">Приказот на разговор е исклучен за да одговара на вашите поставки за сметка. Тоа може да го промените во поставки.</string>
+    <string name="account_settings_conversation_view_turned_on_dialog_message">Приказот на разговор е вклучен за да одговара на вашите поставки за сметка. Тоа може да го промените во поставки.</string>
     <string name="account_settings_data_usage">Искористен сообраќај</string>
     <string name="account_settings_description_label">Име на сметката</string>
     <string name="account_settings_edit_quick_responses_label">Брзи одговори</string>
@@ -827,6 +832,7 @@
     <string name="gmailify_updating_password_title">Лозинката се ажурира…</string>
     <string name="google_play_logo">Одете на Google Play Store</string>
     <string name="google_terms_of_service">Услови на користење на Google</string>
+    <string name="got_it_option">Сфатив</string>
     <string name="has_malware_website_links">Бидете внимателни со поракава. Содржи линкови до веб-страници што хостираат злонамерен софтвер.</string>
     <string name="hats_survey_promo_action_text">Пополнете ја анкетата</string>
     <string name="hats_survey_promo_text">Помогнете ни да го подобриме Gmail</string>
@@ -850,6 +856,7 @@
     <string name="icr_declined">%1$s го &lt;b>одби&lt;/b> настанов.</string>
     <string name="icr_empty_title">(без наслов)</string>
     <string name="icr_hide_original">Сокриј ја оригиналната порака</string>
+    <string name="icr_loading_error_msg">Не може да се вчитаат податоци за настан.</string>
     <string name="icr_location_description">Локација</string>
     <string name="icr_organizer">(организатор)</string>
     <string name="icr_responded_maybe">Одговори со можеби</string>
@@ -859,6 +866,8 @@
     <string name="icr_show_original">Прикажи ја оригиналната порака</string>
     <string name="icr_tentative">%1$s &lt;b>начелно го прифати&lt;/b> настанов.</string>
     <string name="icr_time_description">Информации за датумот</string>
+    <string name="icr_view_details">Прикажи ги деталите</string>
+    <string name="icr_warning_description">Предупредување</string>
     <string name="image_attached">Слика е приложена</string>
     <string name="imap_name">Лична (IMAP)</string>
     <string name="important_inbox_section_title">Важна секција во Приемното сандаче</string>
@@ -1042,7 +1051,7 @@
     <string name="notification_label_description_priority_inbox_all_mail">Приемно сандаче</string>
     <string name="notification_label_description_starred">Означено со ѕвезда</string>
     <string name="notification_level_all">Сета нова пошта</string>
-    <string name="notification_level_important">Само важни</string>
+    <string name="notification_level_important">Само важна секција</string>
     <string name="notification_level_none">Ништо</string>
     <string name="notification_sender_line_snoozed">Одложено: %1$s</string>
     <string name="notifications_category">Известувања</string>
@@ -1201,7 +1210,7 @@
     <string name="preferences_nudge_section_outbound_summary">Испратените е-пораки коишто можеби треба да се проверат ќе се појават најгоре во вашето приемно сандаче</string>
     <string name="preferences_nudge_section_outbound_title">Предлагај е-пораки за проверување</string>
     <string name="preferences_nudging_title">Одговорете и следете</string>
-    <string name="preferences_priority_inbox_notification_level_title">Ниво на известувања</string>
+    <string name="preferences_priority_inbox_notification_level_title">Известувај за секциите во приемното сандаче</string>
     <string name="preferences_ringtone_title">Звук</string>
     <string name="preferences_signature_dialog_title">Потпис</string>
     <string name="preferences_signature_summary_not_set">Не е поставен</string>
@@ -1336,7 +1345,7 @@
     <string name="server_error_certificate_error">Настана проблем со обезбедување на врската.</string>
     <string name="server_error_login_limit_exceeded">Премногу освежувања. Обидете се повторно подоцна.</string>
     <string name="server_error_nonexistent_folder">Бараната папка не е пронајдена.</string>
-    <string name="server_error_too_many_requests">Премногу барања. Ограничувањата за злоупотреба на сервер се надминати</string>
+    <string name="server_error_too_many_requests">Премногу освежувања. Обидете се повторно подоцна.</string>
     <string name="set_priority">Постави приоритет</string>
     <string name="settings">Поставки</string>
     <string name="settings_number_of_days">Денови за синхронизирање на пошта</string>
@@ -1497,6 +1506,7 @@
     <string name="too_large_to_attach_multiple">Една или повеќе датотеки не се прикачени. Ограничување %1$s.</string>
     <string name="too_large_to_attach_single">Не може да се приложи датотека поголема од %1$s.</string>
     <string name="trash_folder_selection_title">Изберете папка за корпа на серверот за %s</string>
+    <string name="trashed_message_indicator">Поракава е избришана</string>
     <string name="turn_auto_sync_on_dialog_body">Промените што ги правите во сите апликации и сметки, а не само во Gmail, ќе се синхронизираат на интернет, останатите уреди и вашиот %1$s.</string>
     <string name="turn_auto_sync_on_dialog_confirm_btn">Вклучи</string>
     <string name="turn_auto_sync_on_dialog_title">Да се вклучи автоматското синхронизирање?</string>

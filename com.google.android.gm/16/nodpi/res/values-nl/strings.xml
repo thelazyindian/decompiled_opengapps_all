@@ -40,6 +40,9 @@
     <string name="account_management_need_to_set_up_new_work_account">Je nieuwe werkaccount moet worden ingesteld.</string>
     <string name="account_management_new_work_account_line_item">Dit account instellen</string>
     <string name="account_management_set_up_new_account_title">Nieuw werkaccount</string>
+    <string name="account_notification_level_all">Alles</string>
+    <string name="account_notification_level_high_priority">Alleen hoge prioriteit</string>
+    <string name="account_notification_level_none">Geen</string>
     <string name="account_security_dialog_content_fmt">Als je je account &lt;%s> wilt gebruiken, moet je de beveiligingsinstellingen op je apparaat updaten. Neem contact op met je beheerder voor meer informatie.</string>
     <string name="account_security_dialog_ok">Nu updaten</string>
     <string name="account_security_policy_explanation_fmt">Server %s heeft toestemming nodig om sommige functies van je Android-apparaat op afstand te kunnen beheren.</string>
@@ -52,6 +55,8 @@
     <string name="account_settings_conversation_view_progress_dialog_message">Accountinstellingen updaten…</string>
     <string name="account_settings_conversation_view_summary">Groepeer e-mails met hetzelfde onderwerp bij elkaar. Het kan even duren voordat deze instelling is toegepast.</string>
     <string name="account_settings_conversation_view_title">Gespreksweergave</string>
+    <string name="account_settings_conversation_view_turned_off_dialog_message">De gespreksweergave is uitgeschakeld in overeenstemming met je accountinstellingen. Je kunt dit wijzigen in Instellingen.</string>
+    <string name="account_settings_conversation_view_turned_on_dialog_message">De gespreksweergave is ingeschakeld in overeenstemming met je accountinstellingen. Je kunt dit wijzigen in Instellingen.</string>
     <string name="account_settings_data_usage">Datagebruik</string>
     <string name="account_settings_description_label">Accountnaam</string>
     <string name="account_settings_edit_quick_responses_label">Snelle reacties</string>
@@ -808,6 +813,7 @@
     <string name="gmailify_updating_password_title">Je wachtwoord updaten…</string>
     <string name="google_play_logo">Ga naar de Google Play Store</string>
     <string name="google_terms_of_service">Servicevoorwaarden van Google</string>
+    <string name="got_it_option">OK</string>
     <string name="has_malware_website_links">Wees voorzichtig met dit bericht. Het bevat links naar websites met malware.</string>
     <string name="hats_survey_promo_action_text">Meedoen met enquête</string>
     <string name="hats_survey_promo_text">Help ons Gmail te verbeteren</string>
@@ -831,6 +837,7 @@
     <string name="icr_declined">%1$s heeft deze afspraak &lt;b>geweigerd&lt;/b>.</string>
     <string name="icr_empty_title">(geen titel)</string>
     <string name="icr_hide_original">Oorspronkelijk bericht verbergen</string>
+    <string name="icr_loading_error_msg">Kan afspraakgegevens niet laden.</string>
     <string name="icr_location_description">Locatie</string>
     <string name="icr_organizer">(organisator)</string>
     <string name="icr_responded_maybe">Je hebt gereageerd met Misschien</string>
@@ -840,6 +847,8 @@
     <string name="icr_show_original">Oorspronkelijk bericht weergeven</string>
     <string name="icr_tentative">%1$s heeft deze afspraak &lt;b>voorlopig geaccepteerd&lt;/b>.</string>
     <string name="icr_time_description">Datumgegevens</string>
+    <string name="icr_view_details">Details bekijken</string>
+    <string name="icr_warning_description">Waarschuwing</string>
     <string name="image_attached">Afbeelding bijgevoegd</string>
     <string name="imap_name">Persoonlijk (IMAP)</string>
     <string name="important_inbox_section_title">Gedeelte Belangrijk van Inbox</string>
@@ -1015,7 +1024,7 @@
     <string name="notification_label_description_important">Belangrijk</string>
     <string name="notification_label_description_starred">Met ster</string>
     <string name="notification_level_all">Alle nieuwe e-mails</string>
-    <string name="notification_level_important">Alleen belangrijk</string>
+    <string name="notification_level_important">Alleen gedeelte Belangrijk</string>
     <string name="notification_level_none">Geen</string>
     <string name="notification_sender_line_snoozed">Gesnoozed: %1$s</string>
     <string name="notifications_category">Meldingen</string>
@@ -1176,7 +1185,7 @@ Accountmeldingen inschakelen?"</string>
     <string name="preferences_nudge_section_outbound_summary">Verzonden e-mails waarmee je mogelijk later nog iets moet doen, worden bovenaan je inbox weergegeven</string>
     <string name="preferences_nudge_section_outbound_title">E-mails voorstellen die je moet opvolgen</string>
     <string name="preferences_nudging_title">Beantwoorden en opvolgen</string>
-    <string name="preferences_priority_inbox_notification_level_title">Meldingsniveau</string>
+    <string name="preferences_priority_inbox_notification_level_title">Meldingen ontvangen voor inboxgedeelten</string>
     <string name="preferences_ringtone_title">Geluid</string>
     <string name="preferences_signature_dialog_title">Handtekening</string>
     <string name="preferences_signature_summary_not_set">Niet ingesteld</string>
@@ -1349,7 +1358,7 @@ Tik om in te schakelen."</string>
     <string name="server_error_certificate_error">Er is een probleem opgetreden bij het beveiligen van de verbinding.</string>
     <string name="server_error_login_limit_exceeded">Te vaak vernieuwd. Probeer het later opnieuw.</string>
     <string name="server_error_nonexistent_folder">De gevraagde map is niet gevonden.</string>
-    <string name="server_error_too_many_requests">Te veel verzoeken. De serverlimieten voor misbruik zijn overschreden.</string>
+    <string name="server_error_too_many_requests">Te vaak vernieuwd. Probeer het later opnieuw.</string>
     <string name="set_priority">Prioriteit instellen</string>
     <string name="settings">Instellingen</string>
     <string name="settings_number_of_days">Dagen waarvoor e-mail wordt gesynchr.</string>
@@ -1402,7 +1411,6 @@ Tik om in te schakelen."</string>
     <string name="sr_callout">Tik om een antwoord te bewerken</string>
     <string name="sr_cd_smartreply_bad_suggestion">Feedback over suggesties verzenden</string>
     <string name="sr_content_description">Deze suggestie toevoegen aan het tekstveld voor het antwoord</string>
-    <string name="sr_enabled">Slim beantwoorden</string>
     <string name="sr_no_browser_found">Browser niet gevonden. Kan niet-relevante suggesties niet melden.</string>
     <string name="sr_smartreply_bad_suggestion"><u>Niet-relevante suggesties?</u></string>
     <string name="sr_summary">Voorgestelde antwoorden weergeven indien beschikbaar</string>
@@ -1509,6 +1517,7 @@ Tik om in te schakelen."</string>
     <string name="too_large_to_attach_multiple">Een of meer bestanden niet bijgevoegd. Limiet van %1$s.</string>
     <string name="too_large_to_attach_single">Kan bestand groter dan %1$s niet bijvoegen.</string>
     <string name="trash_folder_selection_title">Serverprullenbak select. voor %s</string>
+    <string name="trashed_message_indicator">Dit bericht is verwijderd</string>
     <string name="turn_auto_sync_on_dialog_body">Wijzigingen die je aanbrengt in alle apps en accounts, niet alleen in Gmail, worden gesynchroniseerd tussen internet, je andere apparaten en je %1$s.</string>
     <string name="turn_auto_sync_on_dialog_confirm_btn">Inschakelen</string>
     <string name="turn_auto_sync_on_dialog_title">Automatisch synchroniseren inschakelen?</string>

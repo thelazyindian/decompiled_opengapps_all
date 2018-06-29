@@ -36,6 +36,9 @@
     <string name="account_management_need_to_set_up_new_work_account">Musisz skonfigurować swoje nowe konto służbowe.</string>
     <string name="account_management_new_work_account_line_item">Skonfiguruj to konto</string>
     <string name="account_management_set_up_new_account_title">Nowe konto służbowe</string>
+    <string name="account_notification_level_all">Wszystko</string>
+    <string name="account_notification_level_high_priority">Tylko o wysokim priorytecie</string>
+    <string name="account_notification_level_none">Brak</string>
     <string name="account_security_dialog_content_fmt">Aby korzystać z konta &lt;%s>, musisz zaktualizować ustawienia zabezpieczeń na swoim urządzeniu. Więcej informacji uzyskasz u administratora.</string>
     <string name="account_security_dialog_ok">Zaktualizuj</string>
     <string name="account_security_policy_explanation_fmt">Serwer %s wymaga pozwolenia na zdalną kontrolę niektórych funkcji zabezpieczeń tego urządzenia z Androidem.</string>
@@ -48,6 +51,8 @@
     <string name="account_settings_conversation_view_progress_dialog_message">Aktualizuję ustawienia konta…</string>
     <string name="account_settings_conversation_view_summary">Grupuje e-maile z tym samym tematem. Zanim to ustawienie wejdzie w życie, może minąć trochę czasu</string>
     <string name="account_settings_conversation_view_title">Widok wątku</string>
+    <string name="account_settings_conversation_view_turned_off_dialog_message">Widok wątku został wyłączony, zgodnie z ustawieniami konta. Możesz to zmienić w ustawieniach.</string>
+    <string name="account_settings_conversation_view_turned_on_dialog_message">Widok wątku został włączony, zgodnie z ustawieniami konta. Możesz to zmienić w ustawieniach.</string>
     <string name="account_settings_data_usage">Użycie danych</string>
     <string name="account_settings_description_label">Nazwa konta</string>
     <string name="account_settings_edit_quick_responses_label">Szybkie odpowiedzi</string>
@@ -830,6 +835,7 @@
     <string name="gmailify_updating_password_title">Aktualizuję hasło…</string>
     <string name="google_play_logo">Przejdź do Sklepu Google Play</string>
     <string name="google_terms_of_service">Warunki korzystania z usług Google</string>
+    <string name="got_it_option">OK</string>
     <string name="has_malware_website_links">Uważaj na tę wiadomość. Zawiera linki do stron ze złośliwym oprogramowaniem.</string>
     <string name="hats_survey_promo_action_text">Wypełnij ankietę</string>
     <string name="hats_survey_promo_text">Pomóż nam ulepszyć Gmaila</string>
@@ -854,6 +860,7 @@
     <string name="icr_declined">%1$s &lt;b>odrzucił(a)&lt;/b> zaproszenie na wydarzenie.</string>
     <string name="icr_empty_title">(bez nazwy)</string>
     <string name="icr_hide_original">Ukryj oryginalną wiadomość</string>
+    <string name="icr_loading_error_msg">Nie udało się wczytać danych wydarzenia.</string>
     <string name="icr_location_description">Lokalizacja</string>
     <string name="icr_organizer">(organizator)</string>
     <string name="icr_responded_maybe">Odpowiedziano „może”</string>
@@ -863,6 +870,8 @@
     <string name="icr_show_original">Pokaż oryginalną wiadomość</string>
     <string name="icr_tentative">%1$s &lt;b>wstępnie zaakceptował(a)&lt;/b> zaproszenie.</string>
     <string name="icr_time_description">Informacje o dacie</string>
+    <string name="icr_view_details">Wyświetl szczegóły</string>
+    <string name="icr_warning_description">Ostrzeżenie</string>
     <string name="image_attached">Obraz został dołączony</string>
     <string name="imap_name">Osobiste (IMAP)</string>
     <string name="important_inbox_section_title">Sekcja Ważne w Odebranych</string>
@@ -929,7 +938,7 @@
     <string name="login_failed_title">Dane logowania wymagane</string>
     <string name="login_from_browser_ticker_fmt">Konto „%s” wymaga logowania się z przeglądarki.</string>
     <string name="login_from_browser_title">Trzeba logować się z przeglądarki</string>
-    <string name="long_press_to_select_tip">Kliknij i przytrzymaj, by zaznaczyć jeden wątek, a następnie kliknij kolejne, by zaznaczyć ich więcej.</string>
+    <string name="long_press_to_select_tip">Naciśnij i przytrzymaj, by zaznaczyć jeden wątek, a następnie kliknij kolejne, by zaznaczyć ich więcej.</string>
     <string name="looks_like_spam_content">Dlaczego ta wiadomość jest w Spamie? Zawiera treść typową dla spamu.</string>
     <string name="looks_like_spam_reputation">Dlaczego ta wiadomość jest w Spamie? Jest podobna do wiadomości wykrytych przez nasze filtry spamu.</string>
     <string name="looks_suspicious">Uważaj na tę wiadomość. Zawiera ona treści, które zwykle służą do kradzieży danych osobowych.</string>
@@ -1045,7 +1054,7 @@
     <string name="notification_label_description_priority_inbox_all_mail">Odebrane</string>
     <string name="notification_label_description_starred">Oznaczone gwiazdką</string>
     <string name="notification_level_all">Cała nowa poczta</string>
-    <string name="notification_level_important">Tylko ważne</string>
+    <string name="notification_level_important">Tylko sekcja Ważne</string>
     <string name="notification_level_none">Brak</string>
     <string name="notification_sender_line_snoozed">Odłożono: %1$s</string>
     <string name="notifications_category">Powiadomienia</string>
@@ -1206,7 +1215,7 @@ Włączyć je?"</string>
     <string name="preferences_nudge_section_outbound_summary">Wysłane e-maile wymagające dalszych czynności pojawią się u góry Odebranych</string>
     <string name="preferences_nudge_section_outbound_title">Sugeruj, które e-maile wymagają dalszych czynności</string>
     <string name="preferences_nudging_title">Odpowiedz i podejmij dalsze czynności</string>
-    <string name="preferences_priority_inbox_notification_level_title">Poziom powiadomień</string>
+    <string name="preferences_priority_inbox_notification_level_title">Powiadomienia dotyczące sekcji skrzynki odbiorczej</string>
     <string name="preferences_ringtone_title">Dźwięk</string>
     <string name="preferences_signature_dialog_title">Podpis</string>
     <string name="preferences_signature_summary_not_set">Nie ustawiono</string>
@@ -1382,7 +1391,7 @@ Kliknij, by ją włączyć."</string>
     <string name="server_error_certificate_error">Podczas zabezpieczania połączenia wystąpił problem.</string>
     <string name="server_error_login_limit_exceeded">Zbyt częste odświeżanie. Spróbuj ponownie później.</string>
     <string name="server_error_nonexistent_folder">Nie można znaleźć żądanego folderu.</string>
-    <string name="server_error_too_many_requests">Za dużo żądań – przekroczono limit nadużyć serwera</string>
+    <string name="server_error_too_many_requests">Zbyt częste odświeżanie. Spróbuj ponownie później.</string>
     <string name="set_priority">Ustaw priorytet</string>
     <string name="settings">Ustawienia</string>
     <string name="settings_number_of_days">Dni synchronizacji</string>
@@ -1543,6 +1552,7 @@ Kliknij, by ją włączyć."</string>
     <string name="too_large_to_attach_multiple">Co najmniej jeden plik nie został załączony. Limit wynosi %1$s.</string>
     <string name="too_large_to_attach_single">Nie można załączyć pliku większego niż %1$s.</string>
     <string name="trash_folder_selection_title">Wybierz kosz na serwerze dla: %s</string>
+    <string name="trashed_message_indicator">Ta wiadomość została usunięta</string>
     <string name="turn_auto_sync_on_dialog_body">Synchronizacja zmian, które wprowadzisz nie tylko w Gmailu, ale też we wszystkich aplikacjach i na wszystkich kontach, obejmie internet, Twoje pozostałe urządzenia i Twój %1$s.</string>
     <string name="turn_auto_sync_on_dialog_confirm_btn">Włącz</string>
     <string name="turn_auto_sync_on_dialog_title">Włączyć autosynchronizację?</string>

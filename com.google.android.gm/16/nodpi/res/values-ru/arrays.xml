@@ -5,11 +5,6 @@
         <item>Ответить всем</item>
         <item>Переслать</item>
     </string-array>
-    <string-array name="notificationsStatusEntries">
-        <item>Все</item>
-        <item>Только приоритетные</item>
-        <item>Нет</item>
-    </string-array>
     <string-array name="prefEntries_autoAdvance">
         <item>Следующему письму</item>
         <item>Предыдущему письму</item>

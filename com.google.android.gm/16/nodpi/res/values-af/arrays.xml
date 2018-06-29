@@ -5,11 +5,6 @@
         <item>Antwoord almal</item>
         <item>Stuur aan</item>
     </string-array>
-    <string-array name="notificationsStatusEntries">
-        <item>Alle</item>
-        <item>Slegs hoëprioriteit</item>
-        <item>Geen</item>
-    </string-array>
     <string-array name="prefEntries_autoAdvance">
         <item>Nuwer</item>
         <item>Ouer</item>

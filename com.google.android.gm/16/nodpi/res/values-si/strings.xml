@@ -30,6 +30,9 @@
     <string name="account_management_need_to_set_up_new_work_account">ඔබගේ නව ගිණුම පිහිටුවිය යුතුය.</string>
     <string name="account_management_new_work_account_line_item">මෙම ගිණුම පිහිටුවන්න</string>
     <string name="account_management_set_up_new_account_title">නව කාර්යාල ගිණුම</string>
+    <string name="account_notification_level_all">සියලු</string>
+    <string name="account_notification_level_high_priority">ඉහළ ප්‍රමුඛතාව පමණි</string>
+    <string name="account_notification_level_none">කිසිවක් නැත</string>
     <string name="account_security_dialog_content_fmt">ඔබේ ගිණුම භාවිත කිරීම පිණිස &lt;%s> ඔබ ඔබේ උපාංගය මත ආරක්ෂක සැකසීම් යාවත්කාලීන කළ යුතුය. තව තොරතුරු සඳහා ඔබේ පරිපාලක අමතන්න.</string>
     <string name="account_security_dialog_ok">යාවත්කාල කරන්න</string>
     <string name="account_security_policy_explanation_fmt">ඔබගේ Android උපාංගයේ සමහර ආරක්ෂක විශේෂාංග දුරස්ථව පාලනයට ඔබගේ අනුමැතිය %s සේවාදායකයට අවශ්‍යව ඇත.</string>
@@ -42,6 +45,8 @@
     <string name="account_settings_conversation_view_progress_dialog_message">ගිණුම් සැකසීම් යාවත්කාලීන කරමින්…</string>
     <string name="account_settings_conversation_view_summary">එකම මාතෘතාව සමග සමූහ ඊ-තැපැල් එකට. මෙම සැකසීම යෙදීමට යම් කාලයක් ගත විය හැකිය</string>
     <string name="account_settings_conversation_view_title">සංවාද දසුන</string>
+    <string name="account_settings_conversation_view_turned_off_dialog_message">ඔබේ ගිණුම් සැකසීම් ගැළපීමට සංවාද දසුන ක්‍රියාවිරහිත කර ඇත. ඔබට මෙය සැකසීම් හි වෙනස් කළ හැකිය.</string>
+    <string name="account_settings_conversation_view_turned_on_dialog_message">ඔබේ ගිණුම් සැකසීම් ගැළපීමට සංවාද දසුන ක්‍රියාත්මක කර ඇත. ඔබට මෙය සැකසීම් හි වෙනස් කළ හැකිය.</string>
     <string name="account_settings_data_usage">දත්ත භාවිතය</string>
     <string name="account_settings_description_label">ගිණුමේ නම</string>
     <string name="account_settings_edit_quick_responses_label">ක්ෂණික ප්‍රතිචාර</string>
@@ -818,6 +823,7 @@
     <string name="gmailify_updating_password_title">ඔබේ මුරපදය යාවත්කාලීන කරමින්…</string>
     <string name="google_play_logo">Google Play ගබඩාව වෙත යන්න</string>
     <string name="google_terms_of_service">Google සේවා නියම</string>
+    <string name="got_it_option">තේරුණා</string>
     <string name="has_malware_website_links">මෙම පණිවිඩයෙන් ප්‍රවේසම් වන්න. එහි වෙබ් අඩවි සංග්‍රාහක අනිෂ්ට මෘදුකාංගය වෙත සබැඳි අඩංගු වේ.</string>
     <string name="hats_survey_promo_action_text">අපගේ සමීක්ෂණයට සහභාගී වන්න</string>
     <string name="hats_survey_promo_text">Gmail වැඩි දියුණු කිරීමට අපට උදව් කරන්න</string>
@@ -841,6 +847,7 @@
     <string name="icr_declined">%1$s මෙම සිදුවීම &lt;b>ප්‍රතික්ෂේප කර&lt;/b> ඇත.</string>
     <string name="icr_empty_title">(මාතෘකාවක් නැත)</string>
     <string name="icr_hide_original">මුල් පණිවිඩය සඟවන්න</string>
+    <string name="icr_loading_error_msg">සිදුවීම් දත්ත පූරණය කිරීමට නොහැකිය.</string>
     <string name="icr_location_description">ස්ථානය</string>
     <string name="icr_organizer">(සංවිධායක)</string>
     <string name="icr_responded_maybe">ඇතැම් විට ලෙස ප්‍රතිචාර දැක්වීය</string>
@@ -850,6 +857,8 @@
     <string name="icr_show_original">මුල් පණිවිඩය පෙන්වන්න</string>
     <string name="icr_tentative">%1$s අස්ථීරව මෙම සිදුවීම &lt;b>පිළිගෙන&lt;/b> ඇත.</string>
     <string name="icr_time_description">දින තොරතුරු</string>
+    <string name="icr_view_details">විස්තර බලන්න</string>
+    <string name="icr_warning_description">අනතුරු ඇඟවීමයි</string>
     <string name="image_attached">රූපය අමුණා ඇත</string>
     <string name="imap_name">පුද්ගලික (IMAP)</string>
     <string name="important_inbox_section_title">එන ලිපි වැදගත් කොටස</string>
@@ -1034,7 +1043,7 @@
     <string name="notification_label_description_priority_inbox_all_mail">එන ලිපි</string>
     <string name="notification_label_description_starred">තරු ලකුණු යෙදූ</string>
     <string name="notification_level_all">සියලු නව තැපැල්</string>
-    <string name="notification_level_important">වැදගත් ඒවා පමණී</string>
+    <string name="notification_level_important">වැදගත් කොටස පමණි</string>
     <string name="notification_level_none">කිසිවක් නැත</string>
     <string name="notification_sender_line_snoozed">යළි සිහි කැඳවන ලදී: %1$s</string>
     <string name="notifications_category">දැනුම්දීම්</string>
@@ -1193,7 +1202,7 @@
     <string name="preferences_nudge_section_outbound_summary">ඔබට පසුවිපරම් කිරීමට අවශ්‍ය වීමට ඉඩ ඇති යැවූ ඊ-තැපැල් ඔබේ එන ලිපිවල ඉහළ දිස්වනු ඇත</string>
     <string name="preferences_nudge_section_outbound_title">පසුවිපරම් කිරීමට ඊ-තැපැල් යෝජනා කරන්න</string>
     <string name="preferences_nudging_title">පිළිතුරු දී පසුවිපරම් කරන්න</string>
-    <string name="preferences_priority_inbox_notification_level_title">දැනුම් දීම් මට්ටම</string>
+    <string name="preferences_priority_inbox_notification_level_title">එනලිපි කොටස් සඳහා දැනුම් දෙන්න</string>
     <string name="preferences_ringtone_title">ශබ්ද</string>
     <string name="preferences_signature_dialog_title">අත්සන</string>
     <string name="preferences_signature_summary_not_set">සකසා නැත</string>
@@ -1370,7 +1379,7 @@
     <string name="server_error_certificate_error">සම්බන්ධතාව ලබා ගැනීමේ දෝෂයක් ඇති විය.</string>
     <string name="server_error_login_limit_exceeded">නැවුම් කිරීම් බොහෝ සංඛ්‍යාවකි තිබේ. කරුණාකර පසුව නැවත උත්සාහ කරන්න.</string>
     <string name="server_error_nonexistent_folder">ඉල්ලා සිටි ෆෝල්ඩරය හමු නොවීය.</string>
-    <string name="server_error_too_many_requests">ඉල්ලීම් ඉතා වැඩිය, සේවාදායක අයථා පරිහරණ සීමා ඉක්ම වීය</string>
+    <string name="server_error_too_many_requests">නැවුම් කිරීම් බොහෝමයකි. කරුණාකර පසුව නැවත උත්සාහ කරන්න.</string>
     <string name="set_priority">ප්‍රමුඛතාව සකසන්න</string>
     <string name="settings">සැකසීම්</string>
     <string name="settings_number_of_days">සමමුහුර්ත කළ යුතු තැපැල් සඳහා දින</string>
@@ -1531,6 +1540,7 @@
     <string name="too_large_to_attach_multiple">ගොනුවක් හෝ කිහිපයක් අමුණ නැත. සිමාව %1$s</string>
     <string name="too_large_to_attach_single">%1$s වඩා වැඩි ගොනු ඇමිණිය නොහැක.</string>
     <string name="trash_folder_selection_title">%s සඳහා සේවාදායක කුණු කුඩ ෆෝල්ඩරය තෝරන්න</string>
+    <string name="trashed_message_indicator">මෙම පණිවිඩය මකා ඇත</string>
     <string name="turn_auto_sync_on_dialog_body">Gmail පමණක් නොව, සියලුම යෙදුම් සහ ගිණුම්වලට ඔබ කරන වෙනස්කම්, වෙබය, ඔබගේ අනෙකුත් උපාංග සහ ඔබගේ %1$s අතර සමමුහුර්ත වේ.</string>
     <string name="turn_auto_sync_on_dialog_confirm_btn">සක්‍රිය කරන්න</string>
     <string name="turn_auto_sync_on_dialog_title">ස්වයංක්‍රිය-සමමුහුර්ත වීම සක්‍රිය කරන්නද?</string>

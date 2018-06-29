@@ -36,6 +36,9 @@
     <string name="account_management_need_to_set_up_new_work_account">Has de configurar el teu nou compte de la feina.</string>
     <string name="account_management_new_work_account_line_item">Configura aquest compte</string>
     <string name="account_management_set_up_new_account_title">Nou compte de la feina</string>
+    <string name="account_notification_level_all">Tots</string>
+    <string name="account_notification_level_high_priority">Només amb prioritat alta</string>
+    <string name="account_notification_level_none">Cap</string>
     <string name="account_security_dialog_content_fmt">"Per utilitzar el compte &lt;%s>, has d'actualitzar la configuració de seguretat del dispositiu. Contacta amb l'administrador per obtenir més informació."</string>
     <string name="account_security_dialog_ok">Actualitza ara</string>
     <string name="account_security_policy_explanation_fmt">És necessari que permeteu que el servidor %s controli de manera remota algunes funcions de seguretat del dispositiu Android.</string>
@@ -48,6 +51,8 @@
     <string name="account_settings_conversation_view_progress_dialog_message">"S'està actualitzant la configuració del compte…"</string>
     <string name="account_settings_conversation_view_summary">Agrupa els correus electrònics sobre el mateix tema. Aquesta opció pot tardar una estona a aplicar-se.</string>
     <string name="account_settings_conversation_view_title">Visualització de conversa</string>
+    <string name="account_settings_conversation_view_turned_off_dialog_message">"La visualització de conversa s'ha desactivat perquè coincideixi amb la configuració del compte. Pots canviar aquesta opció a la configuració."</string>
+    <string name="account_settings_conversation_view_turned_on_dialog_message">"La visualització de conversa s'ha activat perquè coincideixi amb la configuració del compte. Pots canviar aquesta opció a la configuració."</string>
     <string name="account_settings_data_usage">Ús de dades</string>
     <string name="account_settings_description_label">Nom del compte</string>
     <string name="account_settings_edit_quick_responses_label">Respostes ràpides</string>
@@ -639,7 +644,7 @@
     <string name="email_provider_label">Correu</string>
     <string name="eml_loader_error_toast">No es pot obrir aquest fitxer</string>
     <string name="eml_viewer_subtitle">Lector de missatges EML</string>
-    <string name="employee_name_spoofing">"El nom d'aquesta persona s'assembla al nom d'algú altre de la teva organització, però l'adreça electrònica no pertany al teu domini o el correu electrònic no s'ha autenticat. No facis clic en cap enllaç ni hi responguis amb informació confidencial, tret que contactis amb el remitent per un altre mitjà per comprovar que aquest correu electrònic és legítim."</string>
+    <string name="employee_name_spoofing">"El nom d'aquesta persona s'assembla al nom d'algú altre de la teva organització, però l'adreça electrònica no pertany al teu domini o el correu electrònic no s'ha autenticat. No facis clic en cap enllaç ni hi responguis amb informació sensible, tret que contactis amb el remitent per un altre mitjà per comprovar que aquest correu electrònic és legítim."</string>
     <string name="empty">Buida</string>
     <string name="empty_email">Per què aquest missatge és a Correu brossa? Perquè el contingut és buit.</string>
     <string name="empty_folder">No hi ha res a %s</string>
@@ -819,6 +824,7 @@
     <string name="gmailify_updating_password_title">"S'està actualitzant la contrasenya…"</string>
     <string name="google_play_logo">Aneu a Google Play Store</string>
     <string name="google_terms_of_service">Condicions del servei de Google</string>
+    <string name="got_it_option">"D'acord"</string>
     <string name="has_malware_website_links">Ves amb compte amb aquest missatge. Conté enllaços a llocs web que allotgen programari maliciós.</string>
     <string name="hats_survey_promo_action_text">"Feu l'enquesta"</string>
     <string name="hats_survey_promo_text">"Ajuda'ns a millorar Gmail"</string>
@@ -842,6 +848,7 @@
     <string name="icr_declined">"%1$s ha &lt;b>rebutjat&lt;/b> l'esdeveniment."</string>
     <string name="icr_empty_title">(sense títol)</string>
     <string name="icr_hide_original">Amaga el missatge original</string>
+    <string name="icr_loading_error_msg">No es poden carregar les dades dels esdeveniments.</string>
     <string name="icr_location_description">Ubicació</string>
     <string name="icr_organizer">(organitzador)</string>
     <string name="icr_responded_maybe">"S'hi ha respost Potser"</string>
@@ -851,6 +858,8 @@
     <string name="icr_show_original">Mostra el missatge original</string>
     <string name="icr_tentative">"%1$s ha &lt;b>acceptat provisionalment&lt;/b> l'esdeveniment."</string>
     <string name="icr_time_description">Informació de la data</string>
+    <string name="icr_view_details">Mostra els detalls</string>
+    <string name="icr_warning_description">Advertiment</string>
     <string name="image_attached">Imatge adjunta</string>
     <string name="important_inbox_section_title">"Secció Importants de la safata d'entrada"</string>
     <string name="in_bad_sender_list">"Per què aquest missatge és a Correu brossa? Perquè anteriorment has marcat missatges de l'adreça &lt;b>%1$s&lt;/b> com a correu brossa."</string>
@@ -1032,7 +1041,7 @@
     <string name="notification_label_description_priority_inbox_all_mail">"Safata d'entrada"</string>
     <string name="notification_label_description_starred">Destacats</string>
     <string name="notification_level_all">Tot el correu nou</string>
-    <string name="notification_level_important">Només si és important</string>
+    <string name="notification_level_important">Només de la secció Importants</string>
     <string name="notification_level_none">Cap correu</string>
     <string name="notification_sender_line_snoozed">Posposat: %1$s</string>
     <string name="notifications_category">Notificacions</string>
@@ -1046,7 +1055,7 @@
     <string name="on_item_selected_desc">"S'ha seleccionat %s"</string>
     <string name="online_search_error">"S'ha produït un error en fer una cerca a Internet. És possible que faltin alguns resultats."</string>
     <string name="only_display_name_in_addressbook">"Aquest remitent mai no t'ha escrit amb aquesta adreça electrònica. Ves amb compte amb aquest missatge."</string>
-    <string name="ood_warning_text">El destinatari (%s) no pertany a la teva organització ni el tens a la llista de contactes. Ves amb compte amb la informació confidencial que hi pugui haver al missatge.</string>
+    <string name="ood_warning_text">El destinatari (%s) no pertany a la teva organització ni el tens a la llista de contactes. Ves amb compte amb la informació sensible que hi pugui haver al missatge.</string>
     <string name="ood_warning_title">No pertany al domini</string>
     <string name="open_google_calendar">Obre Calendar</string>
     <string name="open_source_licenses_title">Llicèn. programari lliure</string>
@@ -1192,7 +1201,7 @@ Vols activar-les?"</string>
     <string name="preferences_nudge_section_outbound_summary">"Els correus electrònics enviats dels quals pots haver de fer un seguiment es mostraran a la part superior de la safata d'entrada"</string>
     <string name="preferences_nudge_section_outbound_title">Suggereix correus per fer-ne un seguiment</string>
     <string name="preferences_nudging_title">Respon i fes un seguiment</string>
-    <string name="preferences_priority_inbox_notification_level_title">Nivell de notificació</string>
+    <string name="preferences_priority_inbox_notification_level_title">"Envia una notificació per a les seccions de la safata d'entrada"</string>
     <string name="preferences_ringtone_title">So</string>
     <string name="preferences_signature_dialog_title">Signatura</string>
     <string name="preferences_signature_summary_not_set">"No s'ha definit"</string>
@@ -1367,7 +1376,7 @@ Toqueu per activar-la."</string>
     <string name="server_error_certificate_error">"S'ha produït un problema en protegir la connexió."</string>
     <string name="server_error_login_limit_exceeded">Massa actualitzacions. Torneu-ho a provar més tard.</string>
     <string name="server_error_nonexistent_folder">"No s'ha trobat la carpeta sol·licitada."</string>
-    <string name="server_error_too_many_requests">"Hi ha massa sol·licituds. S'han superat els límits d'abús del servidor."</string>
+    <string name="server_error_too_many_requests">Massa actualitzacions. Torna-ho a provar més tard.</string>
     <string name="set_priority">Estableix la prioritat</string>
     <string name="settings">Configuració</string>
     <string name="settings_number_of_days">Dies que se sincronitzaran</string>
@@ -1527,6 +1536,7 @@ Toqueu per activar-la."</string>
     <string name="too_large_to_attach_multiple">"No s'han adjuntat un o més fitxers. Límit: %1$s."</string>
     <string name="too_large_to_attach_single">No es pot adjuntar un fitxer de més de %1$s.</string>
     <string name="trash_folder_selection_title">Selecciona la paperera per a: %s</string>
+    <string name="trashed_message_indicator">"El missatge s'ha suprimit"</string>
     <string name="turn_auto_sync_on_dialog_body">Els canvis que feu a les aplicacions i als comptes, i no només a Gmail, se sincronitzaran al web, a la resta de dispositius i a %1$s.</string>
     <string name="turn_auto_sync_on_dialog_confirm_btn">Activa</string>
     <string name="turn_auto_sync_on_dialog_title">Activar la sincronització automàtica</string>

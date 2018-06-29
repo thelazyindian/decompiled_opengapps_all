@@ -34,6 +34,9 @@
     <string name="account_management_need_to_set_up_new_work_account">አዲሱ የስራ መለያዎ መዋቀር ያስፈልገዋል።</string>
     <string name="account_management_new_work_account_line_item">ይህን መለያ ያዋቅሩ</string>
     <string name="account_management_set_up_new_account_title">አዲስ የስራ መለያ</string>
+    <string name="account_notification_level_all">ሁሉም</string>
+    <string name="account_notification_level_high_priority">ከፍተኛ ቅድሚያ ለሚሰጠው ብቻ</string>
+    <string name="account_notification_level_none">ምንም</string>
     <string name="account_security_dialog_content_fmt">%s መለያዎን ለመጠቀም እንዲችሉ መሣሪያዎችዎ ላይ የደህንነት ቅንብሮቹን ማዘመን አለብዎት። ለተጨማሪ መረጃ አስተዳዳሪዎን ያነጋግሩ።</string>
     <string name="account_security_dialog_ok">አሁን ያዘምኑ</string>
     <string name="account_security_policy_explanation_fmt">%s አገልጋይ የAndroid መሣሪያዎ አንዳንድ ገፅታዎችን በርቀት ለመቆጣጠር እንዲፈቅዱ ይጠይቃል። ይህን መለያ ጨርሰው ለማቀናበር ይፈልጋሉ?</string>
@@ -46,6 +49,8 @@
     <string name="account_settings_conversation_view_progress_dialog_message">የመለያ ቅንብሮችን በማዘመን ላይ…</string>
     <string name="account_settings_conversation_view_summary">አንድ አይነት ርዕስ ያላቸውን ኢሜይሎች አንድ ላይ በቡድን ያድርጓቸው። ይህ ቅንብር ለመተግበር የተወሰነ ጊዜ ሊወስድ ይችላል</string>
     <string name="account_settings_conversation_view_title">የውይይት እይታ</string>
+    <string name="account_settings_conversation_view_turned_off_dialog_message">የውይይት እይታ ከእርስዎ የመለያ ቅንብሮች ጋር እንዲዛመድ ጠፍቷል። ይህን በቅንብሮች ውስጥ መቀየር ይችላሉ።</string>
+    <string name="account_settings_conversation_view_turned_on_dialog_message">የውይይት እይታ ከእርስዎ የመለያ ቅንብሮች ጋር እንዲዛመድ በርቷል። ይህን በቅንብሮች ውስጥ መቀየር ይችላሉ።</string>
     <string name="account_settings_data_usage">የውሂብ አጠቃቀም</string>
     <string name="account_settings_description_label">የመለያ ስም</string>
     <string name="account_settings_edit_quick_responses_label">ፈጣን ምላሾች</string>
@@ -838,6 +843,7 @@
     <string name="gmailify_updating_password_title">የይለፍ ቃልዎን በማዘመን ላይ…</string>
     <string name="google_play_logo">ወደ Google Play መደብር ይሂዱ</string>
     <string name="google_terms_of_service">የGoogle አገልግሎት ውል</string>
+    <string name="got_it_option">ገባኝ</string>
     <string name="has_malware_website_links">እዚህ መልዕክት ላይ ይጠንቀቁ። ተንኮል-አዘል ዌርን ወደሚያስተናግዱ ድር ጣቢያዎች የሚወስዱ አገናኞችን ይዟል።</string>
     <string name="hats_survey_promo_action_text">ቅኝታችንን ውሰድ</string>
     <string name="hats_survey_promo_text">Gmailን እንድናሻሽል ያግዙን</string>
@@ -862,6 +868,7 @@
     <string name="icr_declined">%1$s ይህንን ክስተት &lt;b>አልተቀበሉም&lt;/b>።</string>
     <string name="icr_empty_title">(ርዕስ አልባ)</string>
     <string name="icr_hide_original">የመጀመሪያውን መልዕክት ደብቅ</string>
+    <string name="icr_loading_error_msg">የክስተት ውሂብን መጫን አልተቻለም።</string>
     <string name="icr_location_description">ቦታ</string>
     <string name="icr_organizer">(አዘጋጅ)</string>
     <string name="icr_responded_maybe">ምናልባት ብለው ምላሽ ሰጥተዋል</string>
@@ -871,6 +878,8 @@
     <string name="icr_show_original">የመጀመሪያውን መልዕክት አሳይ</string>
     <string name="icr_tentative">%1$s ይህንን ክስተት &lt;b>ለጊዜው ተቀብለዋል&lt;/b>።</string>
     <string name="icr_time_description">የቀን መረጃ</string>
+    <string name="icr_view_details">ዝርዝሮችን አሳይ</string>
+    <string name="icr_warning_description">ማስጠንቀቂያ</string>
     <string name="image_attached">ምስል ተያይዟል</string>
     <string name="imap_name">የግል (IMAP)</string>
     <string name="important_inbox_section_title">የገቢ መልዕክት ሳጥን አስፈላጊ ክፍል</string>
@@ -1057,7 +1066,7 @@
     <string name="notification_label_description_priority_inbox_all_mail">የገቢ መልዕክት ሳጥን</string>
     <string name="notification_label_description_starred">ኮከብ የተደረገባቸው</string>
     <string name="notification_level_all">ሁሉም አዲስ ደብዳቤ</string>
-    <string name="notification_level_important">አስፈላጊ ብቻ</string>
+    <string name="notification_level_important">አስፈላጊ ክፍል ብቻ</string>
     <string name="notification_level_none">ምንም</string>
     <string name="notification_sender_line_snoozed">አሸልቧል፦ %1$s</string>
     <string name="notifications_category">ማሳወቂያዎች</string>
@@ -1218,7 +1227,7 @@
     <string name="preferences_nudge_section_outbound_summary">እርስዎ ክትትል ሊያደርጉባቸው የሚገቡ የተላኩ ኢሜይሎች የገቢ መልዕክት ሳጥንዎ ውስጥ ከላይ ይታያሉ</string>
     <string name="preferences_nudge_section_outbound_title">ክትትል የሚያደርጉባቸውን ኢሜይሎች ይጠቁሙ</string>
     <string name="preferences_nudging_title">ምላሽ ይስጡ እና ክትትል ያድርጉባቸው</string>
-    <string name="preferences_priority_inbox_notification_level_title">የማሳወቂያ ደረጃ</string>
+    <string name="preferences_priority_inbox_notification_level_title">ለገቢ መልዕክት ሳጥን ክፍሎች አሳውቅ</string>
     <string name="preferences_ringtone_title">ድምፅ</string>
     <string name="preferences_signature_dialog_title">ፊርማ</string>
     <string name="preferences_signature_summary_not_set">አልተዘጋጀም</string>
@@ -1395,7 +1404,7 @@
     <string name="server_error_certificate_error">ግንኙነቱን ማስጠበቅ ላይ ችግር ነበር።</string>
     <string name="server_error_login_limit_exceeded">በጣም ብዙ ዕደሳዎች። እባክዎ ቆይተው እንደገና ይሞክሩ።</string>
     <string name="server_error_nonexistent_folder">የተጠየቀው አቃፊ አልተገኘም።</string>
-    <string name="server_error_too_many_requests">በጣም ብዙ ጥያቄዎች። የአገልጋይ አላግባብ መጠቀም ገደቦችን አልፏል</string>
+    <string name="server_error_too_many_requests">በጣም ብዙ ዕደሳዎች። እባክዎ ቆይተው እንደገና ይሞክሩ።</string>
     <string name="set_priority">በቅድሚያ አዋቅር</string>
     <string name="settings">ቅንብሮች</string>
     <string name="settings_number_of_days">ለማመሳሰል የደብዳቤ ቀኖች</string>
@@ -1558,6 +1567,7 @@
     <string name="too_large_to_attach_multiple">አንድ ወይም ከዚያ በላይ ፋይሎች አልተያያዙም። ገደብ %1$s።</string>
     <string name="too_large_to_attach_single">ከ%1$s በላይ የሆነ ፋይል ማያያዝ አይቻልም።</string>
     <string name="trash_folder_selection_title">ለ%s የአገልጋይ መጣያ ይምረጡ</string>
+    <string name="trashed_message_indicator">ይህ መልዕክት ተሰርዟል።</string>
     <string name="turn_auto_sync_on_dialog_body">በGmail ላይ ብቻ ሳይሆን በሁሉም መተግበሪያዎች እና መለያዎች ላይ የሚያደርጓቸው ለውጦች በድር፣ ሌሎች የእርስዎ መሣሪያዎች እና በእርስዎ %1$s መካከል ይመሳሰላሉ።</string>
     <string name="turn_auto_sync_on_dialog_confirm_btn">አብራ</string>
     <string name="turn_auto_sync_on_dialog_title">ራስ-አመሳስል ይብራ?</string>

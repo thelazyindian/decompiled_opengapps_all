@@ -5,11 +5,6 @@
         <item>Válasz mindnek</item>
         <item>Továbbítás</item>
     </string-array>
-    <string-array name="notificationsStatusEntries">
-        <item>Mind</item>
-        <item>Csak magas prioritású</item>
-        <item>Nincs</item>
-    </string-array>
     <string-array name="prefEntries_autoAdvance">
         <item>Újabb</item>
         <item>Régebbi</item>

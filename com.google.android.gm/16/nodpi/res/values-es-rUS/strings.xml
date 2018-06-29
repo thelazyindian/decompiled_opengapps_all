@@ -27,6 +27,7 @@
     <string name="account_management_need_to_set_up_new_work_account">Debes configurar tu nueva cuenta de trabajo.</string>
     <string name="account_management_new_work_account_line_item">Configura esta cuenta</string>
     <string name="account_management_set_up_new_account_title">Nueva cuenta de trabajo</string>
+    <string name="account_notification_level_high_priority">Solo prioridad alta</string>
     <string name="account_security_dialog_content_fmt">Para poder usar la cuenta &lt;%s>, debes actualizar la configuración de seguridad en tu dispositivo. Ponte en contacto con tu administrador para obtener más información.</string>
     <string name="account_security_dialog_ok">Actualizar ya</string>
     <string name="account_security_policy_explanation_fmt">El servidor %s necesita tu permiso para controlar de forma remota algunas funciones de seguridad en tu dispositivo Android.</string>
@@ -36,6 +37,8 @@
     <string name="account_settings_conversation_view_no_connection">Esta acción requiere conexión a Internet.</string>
     <string name="account_settings_conversation_view_progress_dialog_message">Actualizando la configuración de la cuenta…</string>
     <string name="account_settings_conversation_view_summary">Agrupa los correos electrónicos con el mismo tema. Es posible que esta configuración tarde en aplicarse</string>
+    <string name="account_settings_conversation_view_turned_off_dialog_message">Se desactivó la vista de conversación para que los ajustes coincidan con la configuración de tu cuenta. Puedes cambiar esto en la configuración.</string>
+    <string name="account_settings_conversation_view_turned_on_dialog_message">Se activó la vista de conversación para que los ajustes coincidan con la configuración de tu cuenta. Puedes cambiar esto en la configuración.</string>
     <string name="account_settings_edit_quick_responses_summary">Edita el texto que sueles usar al redactar correos electrónicos.</string>
     <string name="account_settings_enforced_label">Políticas en vigencia</string>
     <string name="account_settings_exit_server_settings">¿Descartar cambios sin guardar?</string>
@@ -428,6 +431,7 @@
     <string name="empty_trash">Vaciar Papelera</string>
     <string name="empty_trash_banner_action">Vaciar la Papelera ahora</string>
     <string name="empty_trash_dialog_title">¿Vaciar Papelera?</string>
+    <string name="empty_trash_folder">No hay nada en la Papelera</string>
     <string name="empty_trash_spam_banner_text">¿Deseas eliminar todos estos mensajes?</string>
     <string name="encrypted_attachment">Este mensaje incluye uno o más archivos adjuntos encriptados que no pueden analizarse en busca de virus.</string>
     <string name="enter_cab_mode_desc">Se muestra la barra de herramientas de acciones masivas. Sube para seleccionar una acción masiva.</string>
@@ -541,6 +545,7 @@
     <string name="icr_confirmed_yes">Respondiendo \"Sí\"…</string>
     <string name="icr_declined">%1$s &lt;b>rechazó&lt;/b> este evento.</string>
     <string name="icr_hide_original">Ocultar mensaje original</string>
+    <string name="icr_loading_error_msg">No se pudieron cargar los datos del evento.</string>
     <string name="icr_responded_maybe">Se respondió \"Tal vez\"</string>
     <string name="icr_responded_no">Se respondió \"No\"</string>
     <string name="icr_responded_yes">Se respondió \"Sí\"</string>
@@ -623,6 +628,7 @@
     <string name="notification_action_remove_label">Eliminar etiqueta</string>
     <string name="notification_action_undo_remove_label">Etiqueta eliminada</string>
     <string name="notification_level_all">Todos los correos electrónicos nuevos</string>
+    <string name="notification_level_important">Sección Importantes solamente</string>
     <string name="notification_level_none">Ninguna</string>
     <string name="notify_attachment_save_error">No se pudo guardar el archivo adjunto</string>
     <string name="notify_attachment_send_error">No se pudo enviar el archivo adjunto</string>
@@ -736,6 +742,7 @@ Presiona para activar esta opción."</string>
     <string name="preferences_nudge_section_inbound_title">Sugerir correos electrónicos para responder</string>
     <string name="preferences_nudge_section_outbound_summary">Los correos electrónicos enviados de los que quizás quieras hacer un seguimiento aparecerán en la parte superior de Recibidos</string>
     <string name="preferences_nudge_section_outbound_title">Sugerir correos electrónicos para dar seguimiento</string>
+    <string name="preferences_priority_inbox_notification_level_title">Notificaciones de las secciones de Recibidos</string>
     <string name="preferences_signature_summary_not_set">Sin definir</string>
     <string name="preferences_signature_title">Firma para dispositivos móviles</string>
     <string name="preferences_sync_summary_global_off">"La sincronización automática está desactivada.
@@ -822,7 +829,6 @@ Presiona para activar esta opción."</string>
     <string name="sent_folder_selection_title">Enviados del servidor para %s:</string>
     <string name="server_error_certificate_error">Hubo un problema al asegurar la conexión.</string>
     <string name="server_error_nonexistent_folder">No se encontró la carpeta solicitada.</string>
-    <string name="server_error_too_many_requests">Demasiadas solicitudes. Se superaron los límites de abuso del servidor</string>
     <string name="set_priority">Definir prioridad</string>
     <string name="settings">Configuración</string>
     <string name="settings_number_of_days">Días de correo para sincronizar</string>
@@ -901,6 +907,7 @@ Presiona para activar esta opción."</string>
     <string name="too_large_to_attach_multiple">No se adjuntaron uno o más archivos. Límite: %1$s.</string>
     <string name="too_large_to_attach_single">No se puede adjuntar un archivo que supere el límite de %1$s.</string>
     <string name="trash_folder_selection_title">Papelera del servidor para %s:</string>
+    <string name="trashed_message_indicator">Se eliminó este mensaje</string>
     <string name="turn_auto_sync_on_dialog_body">Los cambios que realices en todas las aplicaciones y cuentas, no solo en Gmail, se sincronizarán con la Web, con otros dispositivos que tengas y con tu %1$s.</string>
     <string name="turn_auto_sync_on_dialog_title">¿Activar la sincronización automática?</string>
     <string name="ui_provider_label">Proveedor de contenido de la IU</string>

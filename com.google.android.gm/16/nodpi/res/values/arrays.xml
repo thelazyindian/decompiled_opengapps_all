@@ -184,9 +184,9 @@
         <item>none</item>
     </string-array>
     <string-array name="notificationsStatusEntries">
-        <item>All</item>
-        <item>High priority only</item>
-        <item>None</item>
+        <item>@string/account_notification_level_all</item>
+        <item>@string/account_notification_level_high_priority</item>
+        <item>@string/account_notification_level_none</item>
     </string-array>
     <string-array name="notificationsStatusEntryValues">
         <item>all</item>

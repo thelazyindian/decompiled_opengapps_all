@@ -33,6 +33,9 @@
     <string name="account_management_need_to_set_up_new_work_account">तुमचे नवीन कामाचे खाते सेट करण्याची गरज आहे.</string>
     <string name="account_management_new_work_account_line_item">हे खाते सेट करा</string>
     <string name="account_management_set_up_new_account_title">नवीन कामाचे खाते</string>
+    <string name="account_notification_level_all">सर्व</string>
+    <string name="account_notification_level_high_priority">फक्त उच्च प्राधान्य</string>
+    <string name="account_notification_level_none">काहीही नाही</string>
     <string name="account_security_dialog_content_fmt">तुमचे &lt;%s> खाते वापरण्‍यासाठी आपल्या डिव्हाइसवर आपल्याला सुरक्षा सेटिंग्ज अपडेट करणे आवश्‍यक आहे. अधिक माहितीसाठी आपल्या प्रशासकाशी संपर्क साधा.</string>
     <string name="account_security_dialog_ok">आता अपडेट करा</string>
     <string name="account_security_policy_explanation_fmt">%s सर्व्हरला आपण त्यास आपल्या Android डिव्हाइसची काही सुरक्षितता वैशिष्ट्ये दूरस्थपणे नियंत्रित करण्यास अनुमती देण्याची आवश्यकता आहे.</string>
@@ -45,6 +48,8 @@
     <string name="account_settings_conversation_view_progress_dialog_message">खाते सेटिंग्ज अपडेट करत आहे…</string>
     <string name="account_settings_conversation_view_summary">समान विषय एकत्र करून गट ईमेल करा. ही सेटिंग लागू होण्‍यासाठी काही वेळ लागेल</string>
     <string name="account_settings_conversation_view_title">संभाषण व्‍ह्यू</string>
+    <string name="account_settings_conversation_view_turned_off_dialog_message">तुमच्या खाते सेटिंग्जशी जुळण्यासाठी संभाषण दृश्य बंद केले आहे. तुम्ही हे सेटिंगमध्ये बदलू शकता.</string>
+    <string name="account_settings_conversation_view_turned_on_dialog_message">तुमच्या खाते सेटिंग्जशी जुळण्यासाठी संभाषण दृश्य सुरू केले आहे. तुम्ही हे सेटिंगमध्ये बदलू शकता.</string>
     <string name="account_settings_data_usage">डेटा वापर</string>
     <string name="account_settings_description_label">खाते नाव</string>
     <string name="account_settings_edit_quick_responses_label">द्रुत प्रतिसाद</string>
@@ -810,6 +815,7 @@
     <string name="gmailify_updating_password_title">तुमचा पासवर्ड अपडेट करत आहे...</string>
     <string name="google_play_logo">Google Play स्टोअरवर जा</string>
     <string name="google_terms_of_service">Google सेवा अटी</string>
+    <string name="got_it_option">समजले</string>
     <string name="has_malware_website_links">या मेसेजसह काळजी घ्या. त्यामध्ये मालवेअर होस्टिंग करणाऱ्या वेबसाइट लिंक आहेत.</string>
     <string name="hats_survey_promo_action_text">आमच्या सर्वेक्षणात सहभागी व्हा</string>
     <string name="hats_survey_promo_text">आम्हाला Gmail सुधारण्यासाठी मदत करा</string>
@@ -833,6 +839,7 @@
     <string name="icr_declined">%1$s ने हा इव्हेंट &lt;b>नाकारला&lt;/b>.</string>
     <string name="icr_empty_title">(शीर्षक नाही)</string>
     <string name="icr_hide_original">मूळ मेसेज लपवा</string>
+    <string name="icr_loading_error_msg">इव्हेंट डेटा लोड करता आला नाही.</string>
     <string name="icr_location_description">स्थान</string>
     <string name="icr_organizer">(संयोजक)</string>
     <string name="icr_responded_maybe">कदाचित असा प्रतिसाद दिला</string>
@@ -842,6 +849,8 @@
     <string name="icr_show_original">मूळ मेसेज दर्शवा</string>
     <string name="icr_tentative">%1$s ने हा इव्हेंट &lt;b>तात्पुरता स्वीकारला&lt;/b>.</string>
     <string name="icr_time_description">तारीख माहिती</string>
+    <string name="icr_view_details">तपशील पाहा</string>
+    <string name="icr_warning_description">चेतावणी</string>
     <string name="image_attached">इमेज संलग्न केली</string>
     <string name="imap_name">वैयक्तिक (IMAP)</string>
     <string name="important_inbox_section_title">इनबॉक्स महत्त्वाचा विभाग</string>
@@ -1023,7 +1032,7 @@
     <string name="notification_label_description_priority_inbox_all_mail">इनबॉक्स</string>
     <string name="notification_label_description_starred">तारांकित</string>
     <string name="notification_level_all">सर्व नवीन मेल</string>
-    <string name="notification_level_important">केवळ महत्त्वाचे</string>
+    <string name="notification_level_important">फक्त महत्त्वाचे विभाग</string>
     <string name="notification_level_none">काहीही नाही</string>
     <string name="notification_sender_line_snoozed">%1$s स्‍नूझ केले आहे</string>
     <string name="notifications_category">सूचना</string>
@@ -1183,7 +1192,7 @@
     <string name="preferences_nudge_section_outbound_summary">तुम्हाला फॉलो अप ठेवायचे असलेले पाठवण्यात आलेले ईमेल तुमच्या इनबॉक्समध्ये सर्वात वर दिसतील</string>
     <string name="preferences_nudge_section_outbound_title">याचा फॉलो अप ठेवण्‍‍‍‍‍यासाठी ईमेल सुचवा</string>
     <string name="preferences_nudging_title">उत्‍तर द्या आणि फॉलो अप ठेवा</string>
-    <string name="preferences_priority_inbox_notification_level_title">सूचना स्तर</string>
+    <string name="preferences_priority_inbox_notification_level_title">इनबॉक्स विभागांसाठी सूचित करा</string>
     <string name="preferences_ringtone_title">ध्वनी</string>
     <string name="preferences_signature_dialog_title">स्वाक्षरी</string>
     <string name="preferences_signature_summary_not_set">सेट नाही</string>
@@ -1358,7 +1367,7 @@
     <string name="server_error_certificate_error">कनेक्शन सुरक्षित करताना एक समस्या आली.</string>
     <string name="server_error_login_limit_exceeded">बरेच रिफ्रेश. कृपया नंतर पुन्हा प्रयत्न करा.</string>
     <string name="server_error_nonexistent_folder">विनंती केलेला फोल्डर सापडला नाही.</string>
-    <string name="server_error_too_many_requests">बऱ्याच विनंत्या आहेत. सर्व्हरवरील गैरवापर मर्यादा ओलांडली आहे</string>
+    <string name="server_error_too_many_requests">बरेचदा रिफ्रेश केले गेले आहे. कृपया नंतर पुन्हा प्रयत्न करा.</string>
     <string name="set_priority">प्राधान्य सेट करा</string>
     <string name="settings">सेटिंग्ज</string>
     <string name="settings_number_of_days">संकालन करण्यासाठी मेलचे दिवस</string>
@@ -1519,6 +1528,7 @@
     <string name="too_large_to_attach_multiple">एक किंवा अधिक फायली संलग्न केल्या नाहीत. %1$s मर्यादित करा.</string>
     <string name="too_large_to_attach_single">%1$sपेक्षा मोठी फाइल संलग्न करू शकत नाही.</string>
     <string name="trash_folder_selection_title">%s साठी सर्व्हर कचरा फोल्डर निवडा</string>
+    <string name="trashed_message_indicator">हा मेसेज हलवला गेला आहे</string>
     <string name="turn_auto_sync_on_dialog_body">फक्त Gmail मध्ये नाही, तर आपण सर्व अॅप्स आणि खात्यांमध्ये करता ते बदल, वेब, तुमचे अन्य डिव्हाइसेस आणि तुमचा %1$s या दरम्यान संकालित केले जातील.</string>
     <string name="turn_auto_sync_on_dialog_confirm_btn">चालू करा</string>
     <string name="turn_auto_sync_on_dialog_title">स्वयं- संकालन चालू करायचे?</string>

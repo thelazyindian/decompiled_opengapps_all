@@ -40,6 +40,9 @@
     <string name="account_management_need_to_set_up_new_work_account">باید حساب کاری جدیدتان راه‌اندازی شود.</string>
     <string name="account_management_new_work_account_line_item">این حساب را راه‌اندازی کنید</string>
     <string name="account_management_set_up_new_account_title">حساب کاری جدید</string>
+    <string name="account_notification_level_all">همه</string>
+    <string name="account_notification_level_high_priority">فقط مواردی با اولویت زیاد</string>
+    <string name="account_notification_level_none">هیچ‌کدام</string>
     <string name="account_security_dialog_content_fmt">برای استفاده از حساب «%s»، باید تنظیمات امنیتی را در دستگاهتان به‌روزرسانی کنید. برای کسب اطلاعات بیشتر با سرپرستتان تماس بگیرید.</string>
     <string name="account_security_dialog_ok">اکنون به‌روزرسانی کنید</string>
     <string name="account_security_policy_explanation_fmt">‏سرور %s از شما می‌خواهد اجازه دهید برخی از قابلیت‌های امنیتی دستگاه Android شما را ازراه‌دور کنترل کند.</string>
@@ -52,6 +55,8 @@
     <string name="account_settings_conversation_view_progress_dialog_message">درحال به‌روزرسانی تنظیمات حساب…</string>
     <string name="account_settings_conversation_view_summary">رایانامه‌های دارای موضوع یکسان در یک گروه قرار می‌گیرند. اعمال این تنظیم ممکن است کمی طول بکشد.</string>
     <string name="account_settings_conversation_view_title">نمای مکالمه</string>
+    <string name="account_settings_conversation_view_turned_off_dialog_message">نمای مکالمه خاموش شده است تا با تنظیمات حساب مطابقت داشته باشد. می‌توانید این مورد را در تنظیمات تغییر دهید.</string>
+    <string name="account_settings_conversation_view_turned_on_dialog_message">نمای مکالمه روشن شده است تا با تنظیمات حساب مطابقت داشته باشد. می‌توانید این مورد را در تنظیمات تغییر دهید.</string>
     <string name="account_settings_data_usage">مصرف داده</string>
     <string name="account_settings_description_label">نام حساب</string>
     <string name="account_settings_edit_quick_responses_label">پاسخ‌های سریع</string>
@@ -223,7 +228,7 @@
     <string name="acwr_declined_prefix">رد شد:</string>
     <string name="acwr_more_options">گزینه‌های بیشتر</string>
     <string name="acwr_more_options_button">دکمه گزینه‌های بیشتر</string>
-    <string name="acwr_propose_a_new_time">پیشنهاد زمان جدیدی</string>
+    <string name="acwr_propose_a_new_time">پیشنهاد زمان جدید</string>
     <string name="acwr_tentatively_accepted_prefix">حضور احتمالی:</string>
     <string name="ad">آگهی</string>
     <string name="ad_app_category_books_and_reference">کتاب‌ها و منابع</string>
@@ -840,6 +845,7 @@
     <string name="gmailify_updating_password_title">در حال به‌روزرسانی گذرواژه...</string>
     <string name="google_play_logo">‏به فروشگاه Google Play بروید</string>
     <string name="google_terms_of_service">‏شرایط و ضوابط Google</string>
+    <string name="got_it_option">متوجه شدم</string>
     <string name="has_malware_website_links">مراقب این پیام باشید. این پیام حاوی پیوندهایی به وب‌سایت‌هایی است که میزبان بدافزار هستند.</string>
     <string name="hats_survey_promo_action_text">در نظرسنجی ما شرکت کنید</string>
     <string name="hats_survey_promo_text">‏به ما کمک کنید Gmail را بهبود ببخشیم</string>
@@ -864,6 +870,7 @@
     <string name="icr_declined">‏%1$s این رویداد را &lt;b>رد کرد&lt;/b>.</string>
     <string name="icr_empty_title">(بدون عنوان)</string>
     <string name="icr_hide_original">پنهان کردن پیام اصلی</string>
+    <string name="icr_loading_error_msg">بارگیری داده‌های رویداد امکان‌پذیر نیست.</string>
     <string name="icr_location_description">مکان</string>
     <string name="icr_organizer">(سازمان‌دهنده)</string>
     <string name="icr_responded_maybe">با «شاید» پاسخ داد</string>
@@ -873,6 +880,8 @@
     <string name="icr_show_original">نمایش پیام اصلی</string>
     <string name="icr_tentative">‏%1$s این رویداد را &lt;b>به‌صورت احتمالی پذیرفت&lt;/b>.</string>
     <string name="icr_time_description">اطلاعات تاریخ</string>
+    <string name="icr_view_details">مشاهده جزئیات</string>
+    <string name="icr_warning_description">هشدار</string>
     <string name="image_attached">تصویر پیوست شد</string>
     <string name="imap_name">‏شخصی (IMAP)</string>
     <string name="important_inbox_section_title">بخش مهم صندوق ورودی</string>
@@ -1058,7 +1067,7 @@
     <string name="notification_label_description_priority_inbox_all_mail">صندوق ورودی</string>
     <string name="notification_label_description_starred">ستاره‌دار</string>
     <string name="notification_level_all">همه رایانامه‌های جدید</string>
-    <string name="notification_level_important">فقط مهم</string>
+    <string name="notification_level_important">فقط بخش مهم</string>
     <string name="notification_level_none">هیچ‌کدام</string>
     <string name="notification_sender_line_snoozed">به تعویق افتاد: %1$s</string>
     <string name="notifications_category">اعلان‌ها</string>
@@ -1219,7 +1228,7 @@
     <string name="preferences_nudge_section_outbound_summary">رایانامه‌های ارسال‌شده‌ای که ممکن است نیاز به پیگیری داشته باشند، در بالای صندوق ورودی نمایش داده می‌شوند</string>
     <string name="preferences_nudge_section_outbound_title">پیشنهاد رایانامه‌ها برای پیگیری</string>
     <string name="preferences_nudging_title">پاسخ و پیگیری</string>
-    <string name="preferences_priority_inbox_notification_level_title">سطح اعلان</string>
+    <string name="preferences_priority_inbox_notification_level_title">اعلان برای بخش‌های صندوق ورودی</string>
     <string name="preferences_ringtone_title">صدا</string>
     <string name="preferences_signature_dialog_title">امضا</string>
     <string name="preferences_signature_summary_not_set">تنظیم نشده است</string>
@@ -1395,7 +1404,7 @@
     <string name="server_error_certificate_error">مشکلی در ایمن‌سازی اتصالتان وجود داشت.</string>
     <string name="server_error_login_limit_exceeded">تعداد زیادی بازخوانی انجام دادید. لطفاً بعداً دوباره امتحان کنید.</string>
     <string name="server_error_nonexistent_folder">پوشه درخواستی پیدا نشد.</string>
-    <string name="server_error_too_many_requests">تعداد درخواست‌ها بسیار زیاد است و بیشتر از محدوده‌های مجاز سرور است</string>
+    <string name="server_error_too_many_requests">تعداد زیادی بازخوانی انجام دادید. لطفاً بعداً دوباره امتحان کنید.</string>
     <string name="set_priority">تنظیم اولویت</string>
     <string name="settings">تنظیمات</string>
     <string name="settings_number_of_days">تعداد روز برای همگام‌سازی رایانامه‌ها</string>
@@ -1558,6 +1567,7 @@
     <string name="too_large_to_attach_multiple">یک یا چند فایل پیوست نشده است. حداکثر اندازه مجاز %1$s.</string>
     <string name="too_large_to_attach_single">فایل بزرگ‌تر از %1$s پیوست نمی‌شود.</string>
     <string name="trash_folder_selection_title">پوشه حذف‌‌شده‌های سرور را برای %s انتخاب کنید</string>
+    <string name="trashed_message_indicator">این پیام حذف شده است</string>
     <string name="turn_auto_sync_on_dialog_body">‏تغییراتی که در تمام برنامه‌ها و حساب‌ها ایجاد می‌کنید نه فقط در Gmail، بین وب، سایر دستگاه‌هایتان و %1$s شما همگام‌سازی خواهد شد.</string>
     <string name="turn_auto_sync_on_dialog_confirm_btn">روشن کردن</string>
     <string name="turn_auto_sync_on_dialog_title">همگام‌سازی خودکار روشن شود؟</string>

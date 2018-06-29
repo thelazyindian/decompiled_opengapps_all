@@ -42,6 +42,9 @@
     <string name="account_management_need_to_set_up_new_work_account">你必須設定新的公司帳戶。</string>
     <string name="account_management_new_work_account_line_item">設定這個帳戶</string>
     <string name="account_management_set_up_new_account_title">新的公司帳戶</string>
+    <string name="account_notification_level_all">全部</string>
+    <string name="account_notification_level_high_priority">僅限高優先順序</string>
+    <string name="account_notification_level_none">無</string>
     <string name="account_security_dialog_content_fmt">您必須更新裝置上的安全性設定，才能使用您的帳戶 &lt;%s>。如需更多相關資訊，請與您的管理員聯絡。</string>
     <string name="account_security_dialog_ok">立即更新</string>
     <string name="account_security_policy_explanation_fmt">%s 伺服器需要您的授權，才能從遠端控制 Android 裝置的一些安全性功能。</string>
@@ -54,6 +57,8 @@
     <string name="account_settings_conversation_view_progress_dialog_message">正在更新帳戶設定…</string>
     <string name="account_settings_conversation_view_summary">將相同主題的電子郵件分成一組。系統可能需要一些時間才能套用這項設定</string>
     <string name="account_settings_conversation_view_title">會話群組檢視</string>
+    <string name="account_settings_conversation_view_turned_off_dialog_message">系統已根據你的帳戶設定關閉會話群組檢視。你可以前往設定頁面變更這項設定。</string>
+    <string name="account_settings_conversation_view_turned_on_dialog_message">系統已根據你的帳戶設定開啟會話群組檢視。你可以前往設定頁面變更這項設定。</string>
     <string name="account_settings_data_usage">數據用量</string>
     <string name="account_settings_description_label">帳戶名稱</string>
     <string name="account_settings_edit_quick_responses_label">應答短訊</string>
@@ -843,6 +848,7 @@
     <string name="gmailify_updating_password_title">正在更新您的密碼…</string>
     <string name="google_play_logo">前往 Google Play 商店</string>
     <string name="google_terms_of_service">Google 服務條款</string>
+    <string name="got_it_option">我知道了</string>
     <string name="has_malware_website_links">請謹慎處理這封郵件，因為其中的連結會將你導向含有惡意軟體的網站。</string>
     <string name="hats_survey_promo_action_text">填寫問卷</string>
     <string name="hats_survey_promo_text">請協助我們改善 Gmail</string>
@@ -867,6 +873,7 @@
     <string name="icr_declined">%1$s已&lt;b>拒絕&lt;/b>這項活動邀請。</string>
     <string name="icr_empty_title">(無標題)</string>
     <string name="icr_hide_original">隱藏原始郵件</string>
+    <string name="icr_loading_error_msg">無法載入活動資料。</string>
     <string name="icr_location_description">地點</string>
     <string name="icr_organizer">(主辦人)</string>
     <string name="icr_responded_maybe">已回覆「不確定」</string>
@@ -876,6 +883,8 @@
     <string name="icr_show_original">顯示原始郵件</string>
     <string name="icr_tentative">%1$s已&lt;b>暫時接受&lt;/b>這項活動邀請。</string>
     <string name="icr_time_description">日期資訊</string>
+    <string name="icr_view_details">查看詳細資料</string>
+    <string name="icr_warning_description">警告</string>
     <string name="image_attached">已附加圖片</string>
     <string name="imap_name">個人 (IMAP)</string>
     <string name="important_inbox_section_title">收件匣「重要郵件」部分</string>
@@ -1063,7 +1072,7 @@
     <string name="notification_label_description_priority_inbox_all_mail">收件匣</string>
     <string name="notification_label_description_starred">已加星號</string>
     <string name="notification_level_all">所有新郵件</string>
-    <string name="notification_level_important">僅限重要郵件</string>
+    <string name="notification_level_important">僅限「重要郵件」分類夾</string>
     <string name="notification_level_none">無</string>
     <string name="notification_sender_line_snoozed">已延後：%1$s</string>
     <string name="notifications_category">通知</string>
@@ -1224,7 +1233,7 @@
     <string name="preferences_nudge_section_outbound_summary">可能需要後續追蹤的已傳送電子郵件會顯示在收件匣頂端</string>
     <string name="preferences_nudge_section_outbound_title">建議追蹤後續的電子郵件</string>
     <string name="preferences_nudging_title">回覆及後續追蹤</string>
-    <string name="preferences_priority_inbox_notification_level_title">通知層級</string>
+    <string name="preferences_priority_inbox_notification_level_title">收件匣分類夾通知</string>
     <string name="preferences_ringtone_title">音效</string>
     <string name="preferences_signature_dialog_title">簽名</string>
     <string name="preferences_signature_summary_not_set">未設定</string>
@@ -1399,7 +1408,7 @@
     <string name="server_error_certificate_error">建立安全連線時發生問題。</string>
     <string name="server_error_login_limit_exceeded">重新整理次數過多，請稍後再試。</string>
     <string name="server_error_nonexistent_folder">找不到您所要求的資料夾。</string>
-    <string name="server_error_too_many_requests">傳送的要求過多，已超過伺服器的濫用上限</string>
+    <string name="server_error_too_many_requests">重新整理次數過多，請稍後再試。</string>
     <string name="set_priority">設定優先順序</string>
     <string name="settings">設定</string>
     <string name="settings_number_of_days">同步處理特定天數的郵件量</string>
@@ -1562,6 +1571,7 @@
     <string name="too_large_to_attach_multiple">無法附加一或多個檔案 (大小上限：%1$s)。</string>
     <string name="too_large_to_attach_single">無法附加大小超過 %1$s 的檔案。</string>
     <string name="trash_folder_selection_title">選取 %s 伺服器的垃圾桶資料夾</string>
+    <string name="trashed_message_indicator">這封郵件已遭刪除</string>
     <string name="turn_auto_sync_on_dialog_body">您對所有應用程式和帳戶 (不限於 Gmail) 所做的變更一律會在網路、您的其他裝置和您的%1$s之間保持同步。</string>
     <string name="turn_auto_sync_on_dialog_confirm_btn">開啟</string>
     <string name="turn_auto_sync_on_dialog_title">開啟自動同步功能？</string>

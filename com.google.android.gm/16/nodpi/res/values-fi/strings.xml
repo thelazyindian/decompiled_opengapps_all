@@ -36,6 +36,9 @@
     <string name="account_management_need_to_set_up_new_work_account">Työpaikan uuden tilisi asetukset on määritettävä.</string>
     <string name="account_management_new_work_account_line_item">Määritä tämän tilin asetukset.</string>
     <string name="account_management_set_up_new_account_title">Uusi työpaikan tili</string>
+    <string name="account_notification_level_all">Kaikki</string>
+    <string name="account_notification_level_high_priority">Vain tärkeät</string>
+    <string name="account_notification_level_none">Ei mitään</string>
     <string name="account_security_dialog_content_fmt">Päivitä laitteen suojausasetukset, jotta voit käyttää tiliäsi &lt;%s>. Lisätietoja saat järjestelmänvalvojaltasi.</string>
     <string name="account_security_dialog_ok">Päivitä nyt</string>
     <string name="account_security_policy_explanation_fmt">Palvelin %s vaatii, että sen sallitaan hallita joitakin Android-laitteen suojaustoiminnoista etäyhteyden kautta.</string>
@@ -48,6 +51,8 @@
     <string name="account_settings_conversation_view_progress_dialog_message">Päivitetään tilin asetuksia…</string>
     <string name="account_settings_conversation_view_summary">Ryhmittele samaan aiheeseen liittyvät sähköpostit yhteen. Asetuksen voimaantulo voi kestää jonkin aikaa.</string>
     <string name="account_settings_conversation_view_title">Keskustelunäkymä</string>
+    <string name="account_settings_conversation_view_turned_off_dialog_message">Keskustelunäkymä on poistettu käytöstä tiliasetustesi mukaisesti. Voit muuttaa tätä asetuksista.</string>
+    <string name="account_settings_conversation_view_turned_on_dialog_message">Keskustelunäkymä on otettu käyttöön tiliasetustesi mukaisesti. Voit muuttaa tätä asetuksista.</string>
     <string name="account_settings_data_usage">Datan käyttö</string>
     <string name="account_settings_description_label">Tilin nimi</string>
     <string name="account_settings_edit_quick_responses_label">Pikavastaukset</string>
@@ -830,6 +835,7 @@
     <string name="gmailify_updating_password_title">Päivitetään salasanaa…</string>
     <string name="google_play_logo">Siirry Google Play Kauppaan</string>
     <string name="google_terms_of_service">Googlen käyttöehdot</string>
+    <string name="got_it_option">Selvä</string>
     <string name="has_malware_website_links">Suhtaudu varauksella tähän viestiin. Se sisältää linkkejä haittaohjelmia sisältäville verkkosivustoille.</string>
     <string name="hats_survey_promo_action_text">Vastaa kyselyyn</string>
     <string name="hats_survey_promo_text">Auta meitä parantamaan Gmailia</string>
@@ -854,6 +860,7 @@
     <string name="icr_declined">%1$s &lt;b>hylkäsi&lt;/b> tämän tapahtuman.</string>
     <string name="icr_empty_title">(ei otsikkoa)</string>
     <string name="icr_hide_original">Piilota alkuperäinen viesti</string>
+    <string name="icr_loading_error_msg">Tapahtumatietojen lataus epäonnistui.</string>
     <string name="icr_location_description">Sijainti</string>
     <string name="icr_organizer">(järjestäjä)</string>
     <string name="icr_organizer_fmt">^1, ^2</string>
@@ -864,6 +871,8 @@
     <string name="icr_show_original">Näytä alkuperäinen viesti</string>
     <string name="icr_tentative">%1$s &lt;b>hyväksyi alustavasti&lt;/b> tämän tapahtuman.</string>
     <string name="icr_time_description">Päivämäärätiedot</string>
+    <string name="icr_view_details">Näytä tiedot</string>
+    <string name="icr_warning_description">Varoitus</string>
     <string name="image_attached">Kuva liitteenä</string>
     <string name="imap_name">Oma (IMAP)</string>
     <string name="important_inbox_section_title">Postilaatikon Tärkeät-osio</string>
@@ -1049,7 +1058,7 @@
     <string name="notification_label_description_priority_inbox_all_mail">Postilaatikko</string>
     <string name="notification_label_description_starred">Tähdelliset</string>
     <string name="notification_level_all">Kaikki uudet viestit</string>
-    <string name="notification_level_important">Vain tärkeät</string>
+    <string name="notification_level_important">Vain Tärkeät-osio</string>
     <string name="notification_level_none">Ei mitään</string>
     <string name="notification_sender_line_snoozed">Siirretty myöhemmäksi: %1$s</string>
     <string name="notifications_category">Ilmoitukset</string>
@@ -1210,7 +1219,7 @@ Haluatko ottaa ilmoitukset käyttöön tilissä?"</string>
     <string name="preferences_nudge_section_outbound_summary">Lähetetyt sähköpostit, joiden asiaan sinun tarvitsee ehkä palata, näkyvät postilaatikkosi yläosassa.</string>
     <string name="preferences_nudge_section_outbound_title">Ehdota jatkotoimenpiteitä odottavia sähköposteja</string>
     <string name="preferences_nudging_title">Vastaaminen ja seuranta</string>
-    <string name="preferences_priority_inbox_notification_level_title">Ilmoitusten taso</string>
+    <string name="preferences_priority_inbox_notification_level_title">Postilaatikon osioiden ilmoitukset</string>
     <string name="preferences_ringtone_title">Ääni</string>
     <string name="preferences_signature_dialog_title">Allekirjoitus</string>
     <string name="preferences_signature_summary_not_set">Ei asetettu</string>
@@ -1383,7 +1392,7 @@ Ota toiminto käyttöön napauttamalla."</string>
     <string name="server_error_certificate_error">Yhteyden suojaamisessa tapahtui virhe.</string>
     <string name="server_error_login_limit_exceeded">Liian monta päivitystä. Yritä myöhemmin uudelleen.</string>
     <string name="server_error_nonexistent_folder">Pyydettyä kansiota ei löytynyt.</string>
-    <string name="server_error_too_many_requests">Liikaa pyyntöjä. Palvelimen väärinkäyttörajoitus ylittyi.</string>
+    <string name="server_error_too_many_requests">Liian monta päivitystä. Yritä myöhemmin uudelleen.</string>
     <string name="set_priority">Aseta tärkeysaste</string>
     <string name="settings">Asetukset</string>
     <string name="settings_number_of_days">Synkronoitavat päivät</string>
@@ -1544,6 +1553,7 @@ Ota toiminto käyttöön napauttamalla."</string>
     <string name="too_large_to_attach_multiple">Vähintään yhtä tiedostoa ei liitetty. Enimmäiskoko on %1$s.</string>
     <string name="too_large_to_attach_single">Et voi liittää tiedostoja, joiden koko on yli %1$s.</string>
     <string name="trash_folder_selection_title">Valitse roskakori tilille %s.</string>
+    <string name="trashed_message_indicator">Tämä viesti on poistettu.</string>
     <string name="turn_auto_sync_on_dialog_body">Gmailiin ja kaikkiin muihin sovelluksiin ja tileihin tekemäsi muutokset synkronoidaan seuraavissa kohteissa: verkko, muut laitteet ja %1$s.</string>
     <string name="turn_auto_sync_on_dialog_confirm_btn">Ota käyttöön</string>
     <string name="turn_auto_sync_on_dialog_title">Otetaanko automaattinen synkronointi käyttöön?</string>

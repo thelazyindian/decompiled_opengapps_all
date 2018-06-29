@@ -5,11 +5,6 @@
         <item>Rispondi a tutti</item>
         <item>Inoltra</item>
     </string-array>
-    <string-array name="notificationsStatusEntries">
-        <item>Tutte</item>
-        <item>Solo priorità elevata</item>
-        <item>Nessuna</item>
-    </string-array>
     <string-array name="prefEntries_autoAdvance">
         <item>Più recente</item>
         <item>Meno recente</item>
@@ -138,11 +133,11 @@
     </string-array>
     <string-array name="swipe_actions_perf_entries">
         <item>Archivia</item>
-        <item>Canc</item>
+        <item>Elimina</item>
         <item>Segna come letto/da leggere</item>
         <item>Sposta in</item>
         <item>Posticipa</item>
-        <item>Nessuno</item>
+        <item>Nessuna azione</item>
     </string-array>
     <string-array name="sync_status">
         <item>Operazione riuscita</item>

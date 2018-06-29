@@ -4,7 +4,7 @@
     <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_weight="1.0">
         <LinearLayout android:orientation="vertical" android:background="@drawable/tl_item_background" android:layout_width="fill_parent" android:layout_height="wrap_content">
             <LinearLayout android:orientation="horizontal" android:id="@id/single_card_rich_ad_teaser_content" android:paddingLeft="@dimen/conv_list_card_border_padding" android:paddingRight="@dimen/conv_list_card_border_padding" android:layout_width="fill_parent" android:layout_height="wrap_content">
-                <ImageView android:id="@id/single_card_rich_ad_teaser_contact_image" android:contentDescription="@null" style="@style/ConversationListContactImageStyle" />
+                <ImageView android:id="@id/single_card_rich_ad_teaser_contact_image" android:contentDescription="@null" style="@style/ItemListContactImageStyle" />
                 <LinearLayout android:orientation="vertical" android:paddingBottom="@dimen/conv_list_padding" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_weight="1.0">
                     <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content">
                         <TextView android:textSize="16.0sp" android:textColor="@color/senders_text_color" android:ellipsize="end" android:id="@id/single_card_rich_ad_teaser_advertiser_name" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_marginTop="@dimen/conv_list_padding" android:maxLines="1" android:lines="1" android:includeFontPadding="false" android:layout_weight="1.0" android:textAlignment="viewStart" />

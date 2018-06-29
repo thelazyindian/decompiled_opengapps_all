@@ -33,6 +33,9 @@
     <string name="account_management_need_to_set_up_new_work_account">Απαιτείται ρύθμιση του νέου σας λογαριασμού εργασίας.</string>
     <string name="account_management_new_work_account_line_item">Ρυθμίστε αυτόν τον λογαριασμό</string>
     <string name="account_management_set_up_new_account_title">Νέος λογαριασμός εργασίας</string>
+    <string name="account_notification_level_all">Όλα</string>
+    <string name="account_notification_level_high_priority">Μόνο υψηλής προτεραιότητας</string>
+    <string name="account_notification_level_none">Κανένα</string>
     <string name="account_security_dialog_content_fmt">Για να χρησιμοποιήσετε τον λογαριασμό σας &lt;%s> Θα πρέπει να ενημερώσετε τις ρυθμίσεις ασφαλείας στη συσκευή σας. Επικοινωνήστε με τον διαχειριστή σας για περισσότερες πληροφορίες.</string>
     <string name="account_security_dialog_ok">Ενημέρωση τώρα</string>
     <string name="account_security_policy_explanation_fmt">Ο διακομιστής %s χρειάζεται την άδειά σας για να πραγματοποιήσει απομακρυσμένο έλεγχο ορισμένων λειτουργιών ασφαλείας της συσκευής σας Android.</string>
@@ -45,6 +48,8 @@
     <string name="account_settings_conversation_view_progress_dialog_message">Ενημέρωση ρυθμίσεων λογαριασμού…</string>
     <string name="account_settings_conversation_view_summary">Ομαδοποιεί μηνύματα που αφορούν το ίδιο θέμα. Η εφαρμογή αυτής της ρύθμισης ενδέχεται να χρειαστεί κάποιο χρόνο</string>
     <string name="account_settings_conversation_view_title">Προβολή συνομιλίας</string>
+    <string name="account_settings_conversation_view_turned_off_dialog_message">Η προβολή συνομιλίας έχει απενεργοποιηθεί, για να ταιριάζει με τις ρυθμίσεις του λογαριασμού σας. Μπορείτε να το αλλάξετε αυτό στις ρυθμίσεις.</string>
+    <string name="account_settings_conversation_view_turned_on_dialog_message">Η προβολή συνομιλίας έχει ενεργοποιηθεί, για να ταιριάζει με τις ρυθμίσεις του λογαριασμού σας. Μπορείτε να το αλλάξετε αυτό στις ρυθμίσεις.</string>
     <string name="account_settings_data_usage">Χρήση δεδομένων</string>
     <string name="account_settings_description_label">Όνομα λογαριασμού</string>
     <string name="account_settings_edit_quick_responses_label">Γρήγορες απαντήσεις</string>
@@ -822,6 +827,7 @@
     <string name="gmailify_updating_password_title">Ενημέρωση κωδικού πρόσβασής σας…</string>
     <string name="google_play_logo">Μετάβαση στο Google Play Store</string>
     <string name="google_terms_of_service">Όροι Παροχής Υπηρεσιών της Google</string>
+    <string name="got_it_option">Το κατάλαβα</string>
     <string name="has_malware_website_links">Να είστε προσεκτικοί με αυτό το μήνυμα. Περιέχει συνδέσμους προς ιστοτόπους που φιλοξενούν κακόβουλα προγράμματα.</string>
     <string name="hats_survey_promo_action_text">Ερωτηματολόγιο</string>
     <string name="hats_survey_promo_text">Βοηθήστε μας να βελτιώσουμε το Gmail</string>
@@ -846,6 +852,7 @@
     <string name="icr_declined">Ο χρήστης %1$s &lt;b>απέρριψε&lt;/b> την εκδήλωση.</string>
     <string name="icr_empty_title">(χωρίς τίτλο)</string>
     <string name="icr_hide_original">Απόκρυψη αρχικού μηνύματος</string>
+    <string name="icr_loading_error_msg">Δεν είναι δυνατή η φόρτωση των δεδομένων συμβάντος.</string>
     <string name="icr_location_description">Τοποθεσία</string>
     <string name="icr_organizer">(διοργανωτής)</string>
     <string name="icr_responded_maybe">Απάντησε ίσως</string>
@@ -855,6 +862,8 @@
     <string name="icr_show_original">Εμφάνιση αρχικού μηνύματος</string>
     <string name="icr_tentative">Ο χρήστης %1$s &lt;b>δέχτηκε&lt;/b> προσωρινά την εκδήλωση.</string>
     <string name="icr_time_description">Πληροφορίες ημερομηνίας</string>
+    <string name="icr_view_details">Προβολή λεπτομερειών</string>
+    <string name="icr_warning_description">Προειδοποίηση</string>
     <string name="image_attached">Επισυνάπτεται εικόνα</string>
     <string name="imap_name">Προσωπικός (IMAP)</string>
     <string name="important_inbox_section_title">Ενότητα \"Σημαντικά\" των εισερχομένων</string>
@@ -1037,7 +1046,7 @@
     <string name="notification_label_description_priority_inbox_all_mail">Εισερχόμενα</string>
     <string name="notification_label_description_starred">Με αστέρι</string>
     <string name="notification_level_all">Όλα τα νέα μηνύματα</string>
-    <string name="notification_level_important">Μόνο τα σημαντικά</string>
+    <string name="notification_level_important">Μόνο για τα σημαντικά</string>
     <string name="notification_level_none">Κανένα</string>
     <string name="notification_sender_line_snoozed">Αναβλήθηκε: %1$s</string>
     <string name="notifications_category">Ειδοποιήσεις</string>
@@ -1198,7 +1207,7 @@
     <string name="preferences_nudge_section_outbound_summary">Τα απεσταλμένα μηνύματα ηλ. ταχυδρομείου στα οποία ίσως χρειαστεί να επανέλθετε, θα εμφανίζονται στην κορυφή των εισερχομένων σας</string>
     <string name="preferences_nudge_section_outbound_title">Πρόταση μηνυμάτων προς παρακολούθηση.</string>
     <string name="preferences_nudging_title">Απάντηση και συνέχεια</string>
-    <string name="preferences_priority_inbox_notification_level_title">Επίπεδο ειδοποιήσεων</string>
+    <string name="preferences_priority_inbox_notification_level_title">Ειδοποίηση για ενότητες εισερχομένων</string>
     <string name="preferences_ringtone_title">Ήχος</string>
     <string name="preferences_signature_dialog_title">Υπογραφή</string>
     <string name="preferences_signature_summary_not_set">Δεν ορίστηκε</string>
@@ -1372,7 +1381,7 @@
     <string name="server_error_certificate_error">Υπήρξε πρόβλημα κατά την διασφάλιση της σύνδεσης.</string>
     <string name="server_error_login_limit_exceeded">Υπερβολικός αριθμός ανανεώσεων. Δοκιμάστε ξανά αργότερα.</string>
     <string name="server_error_nonexistent_folder">Δεν βρέθηκε ο φάκελος που έχει ζητηθεί.</string>
-    <string name="server_error_too_many_requests">Πολύ μεγάλος αριθμός αιτημάτων: υπέρβαση ορίου κατάχρησης διακομιστή</string>
+    <string name="server_error_too_many_requests">Υπερβολικός αριθμός ανανεώσεων. Δοκιμάστε ξανά αργότερα.</string>
     <string name="set_priority">Ορισμός προτεραιότητας</string>
     <string name="settings">Ρυθμίσεις</string>
     <string name="settings_number_of_days">Ημέρες μηνυμάτων για συγχρονισμό</string>
@@ -1533,6 +1542,7 @@
     <string name="too_large_to_attach_multiple">Δεν έγινε επισύναψη ενός ή περισσότερων αρχείων. Όριο %1$s.</string>
     <string name="too_large_to_attach_single">Δεν είναι δυνατή η επισύναψη του αρχείου που υπερβαίνει το όριο %1$s.</string>
     <string name="trash_folder_selection_title">Επιλ.φακέλου απορ.διακομ.για %s</string>
+    <string name="trashed_message_indicator">Αυτό το μήνυμα έχει διαγραφεί</string>
     <string name="turn_auto_sync_on_dialog_body">Θα γίνει συγχρονισμός όλων των αλλαγών που πραγματοποιείτε σε όλες τις εφαρμογές και τους λογαριασμούς, όχι μόνο στο Gmail, στον ιστό, σε άλλες συσκευές και στο δικό σας %1$s.</string>
     <string name="turn_auto_sync_on_dialog_confirm_btn">Ενεργοποίηση</string>
     <string name="turn_auto_sync_on_dialog_title">Ενεργοποίηση αυτόματου συγχρονισμού;</string>

@@ -35,6 +35,9 @@
     <string name="account_management_need_to_set_up_new_work_account">I-akhawunti yakho entsha yomsebenzi idinga ukusethwa.</string>
     <string name="account_management_new_work_account_line_item">Setha le akhawunti</string>
     <string name="account_management_set_up_new_account_title">I-akhawunti yomsebenzi entsha</string>
+    <string name="account_notification_level_all">Konke</string>
+    <string name="account_notification_level_high_priority">Okubaluleke kakhulu kuphela</string>
+    <string name="account_notification_level_none">Lutho</string>
     <string name="account_security_dialog_content_fmt">Ukuze usebenzise i-akhawunti yakho &lt;%s> kumelwe ubuyekeze izilungiselelo zokuvikeleka kudivayisi yakho. Thinta umlawuli wakho ukuze uthole ulwazi olwengeziwe.</string>
     <string name="account_security_dialog_ok">Buyekeza manje</string>
     <string name="account_security_policy_explanation_fmt">Iseva %s idinga ukuba uyivumele ukuba ilawule kude ezinye izici zokuphepha kwedivayisi ye-Android.</string>
@@ -47,6 +50,8 @@
     <string name="account_settings_conversation_view_progress_dialog_message">Ibuyekeza izilungiselelo ze-akhawunti…</string>
     <string name="account_settings_conversation_view_summary">Hlanganisa ndawonye ama-imeyili anesihloko esifanayo. Lesi silungiselelo singase sithathe isikhathi ngaphambi kokusebenza</string>
     <string name="account_settings_conversation_view_title">Ukubukwa kwengxoxo</string>
+    <string name="account_settings_conversation_view_turned_off_dialog_message">Ukubuka kwengxoxo kuvaliwe ukuze kufane nezilungiselelo zakho ze-akhawunti. Ungashintsha lokhu kuzilungiselelo.</string>
+    <string name="account_settings_conversation_view_turned_on_dialog_message">Ukubuka kwengxoxo kuvuliwe ukuze kufane nezilungiselelo zakho ze-akhawunti. Ungashintsha lokhu kuzilungiselelo.</string>
     <string name="account_settings_data_usage">Ukusebenzisa idatha</string>
     <string name="account_settings_description_label">Igama le-akhawunti</string>
     <string name="account_settings_edit_quick_responses_label">Izimpendulo ezisheshayo</string>
@@ -825,6 +830,7 @@
     <string name="gmailify_updating_password_title">Ibuyekeza iphasiwedi yakho…</string>
     <string name="google_play_logo">Iya ku-Google Play Isitolo</string>
     <string name="google_terms_of_service">Imigomo Yesevisi ye-Google</string>
+    <string name="got_it_option">Ngiyezwa</string>
     <string name="has_malware_website_links">Wuqaphele lo mlayezo. Uqukethe izixhumanisi zamawebhusayithi ayizikhungo zohlelo olungayilungele ikhompyutha.</string>
     <string name="hats_survey_promo_action_text">Bamba iqhaza kunhlolovo lwethu</string>
     <string name="hats_survey_promo_text">Sisize sithuthukise i-Gmail</string>
@@ -849,6 +855,7 @@
     <string name="icr_declined">%1$s &lt;b>unqabe&lt;/b> lo mcimbi.</string>
     <string name="icr_empty_title">[asikho isihloko]</string>
     <string name="icr_hide_original">Fihla umlayezo wokuqala</string>
+    <string name="icr_loading_error_msg">Ayikwazi ukulayisha idatha yomcimbi.</string>
     <string name="icr_location_description">Indawo</string>
     <string name="icr_organizer">(umhleli)</string>
     <string name="icr_responded_maybe">Uphendule ngokuthi mhlawumbe</string>
@@ -858,6 +865,8 @@
     <string name="icr_show_original">Bonisa umlayezo wokuqala</string>
     <string name="icr_tentative">%1$s &lt;b>wamukele okwesikhashana&lt;/b> lo mcimbi.</string>
     <string name="icr_time_description">Ulwazi Lwedethi</string>
+    <string name="icr_view_details">Buka imininingwane</string>
+    <string name="icr_warning_description">Isexwayiso</string>
     <string name="image_attached">Isithombe sinamathiselwe</string>
     <string name="imap_name">Okomuntu siqu (I-IMAP)</string>
     <string name="important_inbox_section_title">Isigaba Esibalulekile Sebhokisi Lokungenayo</string>
@@ -1041,7 +1050,7 @@
     <string name="notification_label_description_priority_inbox_all_mail">I-Inbox</string>
     <string name="notification_label_description_starred">Okunenkanyezi</string>
     <string name="notification_level_all">Yonke imeyili entsha</string>
-    <string name="notification_level_important">Okubalulekile kuphela</string>
+    <string name="notification_level_important">Isigaba esibalulekile kuphela</string>
     <string name="notification_level_none">Lutho</string>
     <string name="notification_sender_line_snoozed">Kusnuziwe: %1$s</string>
     <string name="notifications_category">Izaziso</string>
@@ -1202,7 +1211,7 @@ Vula izaziso ze-akhawunti?"</string>
     <string name="preferences_nudge_section_outbound_summary">Ama-imeyili ongase udinge ukuwalandelela azovela phezulu ebhokisini lakho lokungenayo</string>
     <string name="preferences_nudge_section_outbound_title">Enza isiphakamiso sama-imeyili azolandelwa</string>
     <string name="preferences_nudging_title">Phendula futhi ulandelele</string>
-    <string name="preferences_priority_inbox_notification_level_title">Ileveli yesaziso</string>
+    <string name="preferences_priority_inbox_notification_level_title">Yazisa ezigabeni zebhokisi lokungenayo</string>
     <string name="preferences_ringtone_title">Umsindo</string>
     <string name="preferences_signature_dialog_title">Isiginesha</string>
     <string name="preferences_signature_summary_not_set">Ayisethiwe</string>
@@ -1377,7 +1386,7 @@ Thepha ukuze uvule."</string>
     <string name="server_error_certificate_error">Kube khona inkinga yokusekela uxhumano.</string>
     <string name="server_error_login_limit_exceeded">Kuningi kakhulu ukuvuselela. Sicela uzame futhi ngokuhamba kwesikhathi.</string>
     <string name="server_error_nonexistent_folder">Ifolda eceliwe ayizange itholwe.</string>
-    <string name="server_error_too_many_requests">Izicelo eziningi kakhulu. Kweqiwe imikhawulo yokuhlukunyezwa kweseva</string>
+    <string name="server_error_too_many_requests">Kuningi kakhulu ukuvuselela. Sicela uzame futhi ngokuhamba kwesikhathi.</string>
     <string name="set_priority">Setha okubalulekile</string>
     <string name="settings">Izilungiselelo</string>
     <string name="settings_number_of_days">Izinsuku ze-imeyili ukuya ekuvumelaniseni</string>
@@ -1539,6 +1548,7 @@ Thepha ukuze uvule."</string>
     <string name="too_large_to_attach_multiple">Ifayela elilodwa noma amaningi awanamathiselwe. Umkhawulo %1$s.</string>
     <string name="too_large_to_attach_single">Ayikwazi ukunamathisela ifayela elingaphezu kuka-%1$s.</string>
     <string name="trash_folder_selection_title">Khetha ifolda kadoti yeseva ye-%s</string>
+    <string name="trashed_message_indicator">Lo mlayezo ususiwe</string>
     <string name="turn_auto_sync_on_dialog_body">Ushintsho olwenza kuzo zonke izinhlelo zokusebenza nama-akhawunti, hhayi nje ku-Gmail kuphela, luzovumelaniswa phakathi kwewebhu, amanye amadivayisi wakho ne-%1$s yakho.</string>
     <string name="turn_auto_sync_on_dialog_confirm_btn">Vula</string>
     <string name="turn_auto_sync_on_dialog_title">Vula ukuvumelanisa okuzenzekalelalayo?</string>

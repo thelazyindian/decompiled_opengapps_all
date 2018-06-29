@@ -3,7 +3,7 @@
   xmlns:android="http://schemas.android.com/apk/res/android">
     <include layout="@layout/wait_fragment" />
     <com.google.android.apps.work.common.richedittext.RichTextToolbar android:id="@id/rich_text_toolbar" android:visibility="gone" android:layout_height="wrap_content" android:layout_alignParentBottom="true" style="@style/RichTextToolbar" />
-    <LinearLayout android:orientation="vertical" android:id="@id/locker_controls_container" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+    <LinearLayout android:orientation="vertical" android:id="@id/locker_fragment_container" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" />
     <ScrollView android:orientation="vertical" android:id="@id/compose" android:paddingLeft="@dimen/compose_wrapper_side_padding" android:paddingRight="@dimen/compose_wrapper_side_padding" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent" android:fillViewport="true" style="@style/ComposeScrollView">
         <LinearLayout android:paddingTop="@dimen/compose_wrapper_top_padding" android:layout_width="fill_parent" android:layout_height="fill_parent">
             <Space android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_weight="@integer/compose_padding_weight" />

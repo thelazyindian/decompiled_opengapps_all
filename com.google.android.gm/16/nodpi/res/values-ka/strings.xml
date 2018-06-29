@@ -31,6 +31,9 @@
     <string name="account_management_need_to_set_up_new_work_account">თქვენს სამსახურის ახალ ანგარიშს დაყენება სჭირდება.</string>
     <string name="account_management_new_work_account_line_item">ამ ანგარიშის დაყენება</string>
     <string name="account_management_set_up_new_account_title">სამსახურის ახალი ანგარიში</string>
+    <string name="account_notification_level_all">ყველა</string>
+    <string name="account_notification_level_high_priority">მხოლოდ მაღალი პრიორიტეტის მქონე</string>
+    <string name="account_notification_level_none">არცერთი</string>
     <string name="account_security_dialog_content_fmt">თქვენი ანგარიშის &lt;%s> გამოსაყენებლად უნდა განაახლოთ უსაფრთხოების პარამეტრები თქვენს მოწყობილობაზე. მეტი ინფორმაციისთვის დაუკავშირდით ადმინისტრატორს.</string>
     <string name="account_security_dialog_ok">განახლება ახლა</string>
     <string name="account_security_policy_explanation_fmt">სერვერს %s ესაჭიროება თქვენი Android მოწყობილობის უსაფრთხოების ზოგიერთი პარამეტრის დისტანციური მართვის ნებართვა.</string>
@@ -43,6 +46,8 @@
     <string name="account_settings_conversation_view_progress_dialog_message">მიმდინარეობს ანგარიშის პარამეტრების განახლება…</string>
     <string name="account_settings_conversation_view_summary">ერთი და იმავე თემის ელფოსტის ერთად დაჯგუფება. ამ პარამეტრის გააქტიურებას შესაძლოა გარკვეული დრო დასჭირდეს</string>
     <string name="account_settings_conversation_view_title">მიმოწერაის ხედი</string>
+    <string name="account_settings_conversation_view_turned_off_dialog_message">მიმოწერის ხედი გამორთულია თქვენი ანგარიშის პარამეტრების შესატყვისად. ამის შეცვლა პარამეტრებიდან შეგიძლიათ.</string>
+    <string name="account_settings_conversation_view_turned_on_dialog_message">მიმოწერის ხედი ჩართულია თქვენი ანგარიშის პარამეტრების შესატყვისად. ამის შეცვლა პარამეტრებიდან შეგიძლიათ.</string>
     <string name="account_settings_data_usage">მონაცემთა გადაცემის მოხმარება</string>
     <string name="account_settings_description_label">ანგარიშის სახელი</string>
     <string name="account_settings_edit_quick_responses_label">სწრაფი პასუხი</string>
@@ -817,6 +822,7 @@
     <string name="gmailify_updating_password_title">თქვენი პაროლის განახლება…</string>
     <string name="google_play_logo">Google Play Store-ზე გადასვლა</string>
     <string name="google_terms_of_service">Google-ის მომსახურების პირობები</string>
+    <string name="got_it_option">გასაგებია</string>
     <string name="has_malware_website_links">გამოიჩინეთ სიფრთხილე ამ წერილთან დაკავშირებით. ის იმ ვებსაიტების ბმულებს შეიცავს, რომლებზზეც განთავსებულია საზიანო პროგრამები.</string>
     <string name="hats_survey_promo_action_text">შეავსეთ ჩვენი კითხვარი</string>
     <string name="hats_survey_promo_text">დაგვეხმარეთ Gmail-ის გაუმჯობესებაში</string>
@@ -840,6 +846,7 @@
     <string name="icr_declined">%1$s-მა &lt;b>უარყო&lt;/b> ეს ღონისძიება.</string>
     <string name="icr_empty_title">(სათაურის გარეშე)</string>
     <string name="icr_hide_original">თავდაპირველი შეტყობინების დამალვა</string>
+    <string name="icr_loading_error_msg">ღონისძიების მონაცემების ჩატვირთვა ვერ მოხერხდა.</string>
     <string name="icr_location_description">მდებარეობა</string>
     <string name="icr_organizer">(ორგანიზატორი)</string>
     <string name="icr_responded_maybe">პასუხით „შესაძლოა“</string>
@@ -849,6 +856,8 @@
     <string name="icr_show_original">თავდაპირველი შეტყობინების ჩვენება</string>
     <string name="icr_tentative">%1$s &lt;b>სავარაუდოდ დაეთანხმა&lt;/b> მოწვევას ამ ღონისძიებაზე.</string>
     <string name="icr_time_description">თარიღის ინფორმაცია</string>
+    <string name="icr_view_details">დეტალების ნახვა</string>
+    <string name="icr_warning_description">გაფრთხილება</string>
     <string name="image_attached">სურათი თან ერთვის</string>
     <string name="imap_name">პირადი (IMAP)</string>
     <string name="important_inbox_section_title">შემოსულების მნიშვნელოვანი სექცია</string>
@@ -1033,7 +1042,7 @@
     <string name="notification_label_description_priority_inbox_all_mail">შემოსულები</string>
     <string name="notification_label_description_starred">ვარსკვლავიანი</string>
     <string name="notification_level_all">მთელი ახალი ფოსტა</string>
-    <string name="notification_level_important">მხოლოდ მნიშვნელოვანი</string>
+    <string name="notification_level_important">მხოლოდ მნიშვნელოვანი სექცია</string>
     <string name="notification_level_none">არცერთი</string>
     <string name="notification_sender_line_snoozed">ჩაჩუმებული: %1$s</string>
     <string name="notifications_category">შეტყობინებები</string>
@@ -1192,7 +1201,7 @@
     <string name="preferences_nudge_section_outbound_summary">გაგზავნილი ელფოსტა, რომელსაც შესაძლოა თვალი უნდა ადევნოთ, თქვენი შემოსულების თავში გამოჩნდება</string>
     <string name="preferences_nudge_section_outbound_title">თვალის მისადევნებლად ელფოსტის შეთავაზება</string>
     <string name="preferences_nudging_title">პასუხი და შემდგომი ქმედება</string>
-    <string name="preferences_priority_inbox_notification_level_title">შეტყობინების დონე</string>
+    <string name="preferences_priority_inbox_notification_level_title">შემოსულების სექციების შესახებ შეტყობინება</string>
     <string name="preferences_ringtone_title">ხმა</string>
     <string name="preferences_signature_dialog_title">მინაწერი</string>
     <string name="preferences_signature_summary_not_set">არ არის დაყენებული</string>
@@ -1366,7 +1375,7 @@
     <string name="server_error_certificate_error">უსაფრთხო კავშირის დამყარებისას წარმოიშვა პრობლემა.</string>
     <string name="server_error_login_limit_exceeded">ძალიან ბევრი განახლებებია. გთხოვთ, მოგვიანებით ისევ ცადოთ.</string>
     <string name="server_error_nonexistent_folder">მოთხოვნილი ფოლდერი ვერ მოიძებნა.</string>
-    <string name="server_error_too_many_requests">ძალიან ბევრი მოთხოვნაა. სერვერის გამოყენების ლიმიტი გადაჭარბებულია</string>
+    <string name="server_error_too_many_requests">ძალიან ბევრი განახლებებია. გთხოვთ, მოგვიანებით ისევ ცადოთ.</string>
     <string name="set_priority">პრიორიტეტის დაყენება</string>
     <string name="settings">პარამეტრები</string>
     <string name="settings_number_of_days">ფოსტის სინქრონიზაციისათვის დღეების რაოდენობა</string>
@@ -1527,6 +1536,7 @@
     <string name="too_large_to_attach_multiple">ვერ მოხერხდა ერთი ან რამდენიმე ფაილის მიმაგრება. ლიმიტი %1$s.</string>
     <string name="too_large_to_attach_single">%1$s-ზე დიდი ფაილის მიბმა შეუძლებელია.</string>
     <string name="trash_folder_selection_title">სერვერზე წაშლილების საქაღალდის არჩევა %s-ისთვის</string>
+    <string name="trashed_message_indicator">ეს შეტყობინება წაიშალა</string>
     <string name="turn_auto_sync_on_dialog_body">ცვლილებები, რომლებსაც თქვენ ახორციელებთ ყველა აპსა და ანგარიშში, და არა მხოლოდ Gmail-ში, სინქრონიზებული იქნება ვებს, თქვენს სხვა მოწყობილობებსა და%1$s-ს შორის.</string>
     <string name="turn_auto_sync_on_dialog_confirm_btn">ჩართვა</string>
     <string name="turn_auto_sync_on_dialog_title">ჩაირთოს ავტომატური სინქრონიზაცია?</string>

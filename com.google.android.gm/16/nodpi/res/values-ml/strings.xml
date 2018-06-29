@@ -34,6 +34,9 @@
     <string name="account_management_need_to_set_up_new_work_account">നിങ്ങളുടെ പുതിയ ഔദ്യോഗിക അക്കൗണ്ട് സജ്ജീകരിക്കേണ്ടതുണ്ട്.</string>
     <string name="account_management_new_work_account_line_item">ഈ അക്കൗണ്ട് സജ്ജീകരിക്കുക</string>
     <string name="account_management_set_up_new_account_title">പുതിയ വർക്ക് അക്കൗണ്ട്</string>
+    <string name="account_notification_level_all">എല്ലാം</string>
+    <string name="account_notification_level_high_priority">മുൻഗണനയുള്ളവ മാത്രം</string>
+    <string name="account_notification_level_none">ഒന്നുമില്ല</string>
     <string name="account_security_dialog_content_fmt">നിങ്ങളുടെ &lt;%s> എന്ന അക്കൗണ്ട് ഉപയോഗിക്കുന്നതിന്, ഉപകരണത്തിൽ സുരക്ഷാ ക്രമീകരണം അപ്ഡേറ്റുചെയ്യണം. കൂടുതൽ വിവരങ്ങൾക്ക് നിങ്ങളുടെ അഡ്മിനിസ്ട്രേറ്ററെ ബന്ധപ്പെടുക.</string>
     <string name="account_security_dialog_ok">ഇപ്പോൾ അപ്‌ഡേറ്റുചെയ്യുക</string>
     <string name="account_security_policy_explanation_fmt">%s എന്ന സെർവറിന്, നിങ്ങളുടെ Android ഉപകരണത്തിന്റെ ചില സുരക്ഷാ സവിശേഷതകൾ വിദൂരമായി നിയന്ത്രിക്കാൻ അനുവദിക്കേണ്ടത് ആവശ്യമാണ്.</string>
@@ -46,6 +49,8 @@
     <string name="account_settings_conversation_view_progress_dialog_message">അക്കൗണ്ട് ക്രമീകരണം അപ്‌ഡേറ്റ് ചെയ്യുന്നു...</string>
     <string name="account_settings_conversation_view_summary">സമാന വിഷയമുള്ള ഇമെയിലുകൾ ഒന്നിച്ച് ഗ്രൂപ്പ് ചെയ്യുക. ഈ ക്രമീകരണം ബാധകമാക്കാൻ കുറച്ച് സമയമെടുത്തേക്കാം</string>
     <string name="account_settings_conversation_view_title">സംഭാഷണ കാഴ്‌ച</string>
+    <string name="account_settings_conversation_view_turned_off_dialog_message">നിങ്ങളുടെ അക്കൗണ്ട് ക്രമീകരണവുമായി പൊരുത്തപ്പെടാൻ, സംഭാഷണ വീക്ഷണം ഓഫാക്കിയിരിക്കുന്നു. നിങ്ങൾക്ക് ഇത് ക്രമീകരണത്തിൽ മാറ്റാം.</string>
+    <string name="account_settings_conversation_view_turned_on_dialog_message">നിങ്ങളുടെ അക്കൗണ്ട് ക്രമീകരണവുമായി പൊരുത്തപ്പെടാൻ, സംഭാഷണ വീക്ഷണം ഓണാക്കുക. നിങ്ങൾക്ക് ഇത് ക്രമീകരണത്തിൽ മാറ്റാം.</string>
     <string name="account_settings_data_usage">ഡാറ്റ ഉപയോഗം</string>
     <string name="account_settings_description_label">അക്കൗണ്ടിന്റെ പേര്</string>
     <string name="account_settings_edit_quick_responses_label">ദ്രുത പ്രതികരണങ്ങൾ</string>
@@ -814,6 +819,7 @@
     <string name="gmailify_updating_password_title">നിങ്ങളുടെ പാസ്‌വേഡ് അപ്ഡേറ്റുചെയ്യുന്നു…</string>
     <string name="google_play_logo">Google Play- സ്‌റ്റോറിലേക്ക് പോകുക</string>
     <string name="google_terms_of_service">Google സേവന നിബന്ധനകൾ</string>
+    <string name="got_it_option">മനസ്സിലായി</string>
     <string name="has_malware_website_links">ഈ സന്ദേശം ശ്രദ്ധാപൂർവ്വം കൈകാര്യം ചെയ്യുക. ഇതിൽ വെബ്‌സൈറ്റ് ഹോസ്റ്റിംഗ് മാൽവെയറിലേക്കുള്ള ലിങ്കുകളുണ്ട്.</string>
     <string name="hats_survey_promo_action_text">ഞങ്ങളുടെ സര്‍വേയില്‍ പങ്കെടുക്കൂ</string>
     <string name="hats_survey_promo_text">Gmail മെച്ചപ്പെടുത്താൻ ഞങ്ങളെ സഹായിക്കുക</string>
@@ -837,6 +843,7 @@
     <string name="icr_declined">ഈ ഇവന്റ് %1$s &lt;b>നിരസിച്ചിരിക്കുന്നു&lt;/b>.</string>
     <string name="icr_empty_title">(ശീര്‍‌ഷകമൊന്നുമില്ല)</string>
     <string name="icr_hide_original">ഒറിജിനൽ സന്ദേശം മറയ്ക്കുക</string>
+    <string name="icr_loading_error_msg">ഇവന്റ് ഡാറ്റ ലോഡ് ചെയ്യാനായില്ല.</string>
     <string name="icr_location_description">ലൊക്കേഷൻ</string>
     <string name="icr_organizer">(ഓര്‍ഗനൈസര്‍)</string>
     <string name="icr_responded_maybe">ചിലപ്പോൾ എന്ന് പ്രതികരിച്ചു</string>
@@ -846,6 +853,8 @@
     <string name="icr_show_original">ഒറിജിനൽ സന്ദേശം കാണിക്കുക</string>
     <string name="icr_tentative">ഈ ഇവന്റ് %1$s &lt;b>തൽക്കാലം അംഗീകരിച്ചിരിക്കുന്നു&lt;/b>.</string>
     <string name="icr_time_description">തീയതി വിവരം</string>
+    <string name="icr_view_details">വിശദാംശങ്ങൾ കാണുക</string>
+    <string name="icr_warning_description">മുന്നറിയിപ്പ്</string>
     <string name="image_attached">ചിത്രം അറ്റാച്ചുചെയ്തു</string>
     <string name="imap_name">വ്യക്തിഗതം (IMAP)</string>
     <string name="important_inbox_section_title">ഇൻബോക്‌സിലെ പ്രധാന വിഭാഗം</string>
@@ -1027,7 +1036,7 @@
     <string name="notification_label_description_priority_inbox_all_mail">ഇൻബോക്‌സ്</string>
     <string name="notification_label_description_starred">നക്ഷത്രമിട്ടത്</string>
     <string name="notification_level_all">എല്ലാ പുതിയ മെയിലുകൾക്കും</string>
-    <string name="notification_level_important">പ്രധാനപ്പെട്ടവയ്‌ക്ക് മാത്രം</string>
+    <string name="notification_level_important">പ്രധാനപ്പെട്ട വിഭാഗം മാത്രം</string>
     <string name="notification_level_none">ഒന്നുമില്ല</string>
     <string name="notification_sender_line_snoozed">സ്‌നൂസ് ചെയ്‌തു: %1$s</string>
     <string name="notifications_category">അറിയിപ്പുകൾ</string>
@@ -1187,7 +1196,7 @@
     <string name="preferences_nudge_section_outbound_summary">"നിങ്ങൾക്ക് ‌തുടർന്നും ആവശ്യമുണ്ടായേക്കാവുന്ന 'അയച്ച മെയിലുകൾ' നിങ്ങളുടെ ഇൻബോ‌ക്‌സിന്റെ ‌മുകളിൽ ദൃശ്യമാകും"</string>
     <string name="preferences_nudge_section_outbound_title">എന്നതിൽ ഫോളോ-അപ്പ് ചെയ്യാൻ ഇമെയിലുകളെ നിർദ്ദേശിക്കുക</string>
     <string name="preferences_nudging_title">മറുപടി നൽകുക, ഫോളോ അപ്പ് ചെയ്യുക</string>
-    <string name="preferences_priority_inbox_notification_level_title">അറിയിപ്പ് നില</string>
+    <string name="preferences_priority_inbox_notification_level_title">ഇന്‍ബോക്സ് വിഭാഗങ്ങൾക്കായി അറിയിപ്പ് നൽകുക</string>
     <string name="preferences_ringtone_title">ശബ്‌ദം</string>
     <string name="preferences_signature_dialog_title">ഒപ്പ്</string>
     <string name="preferences_signature_summary_not_set">സജ്ജീകരിച്ചിട്ടില്ല</string>
@@ -1361,7 +1370,7 @@
     <string name="server_error_certificate_error">കണക്ഷൻ സുരക്ഷിതമാക്കുന്നതിൽ പ്രശ്‌നമുണ്ടായി.</string>
     <string name="server_error_login_limit_exceeded">ഒരുപാട് തവണ പുതുക്കി. പിന്നീട് വീണ്ടും ശ്രമിക്കുക.</string>
     <string name="server_error_nonexistent_folder">അഭ്യർത്ഥിച്ച ഫോൾഡർ കണ്ടെത്തിയില്ല.</string>
-    <string name="server_error_too_many_requests">വളരെ അധികം അഭ്യർത്ഥനകൾ. സെർവർ അബ്യൂസ് പരിധി കവിഞ്ഞു</string>
+    <string name="server_error_too_many_requests">നിരവധി തവണ പുതുക്കി. പിന്നീട് വീണ്ടും ശ്രമിക്കുക.</string>
     <string name="set_priority">മുൻഗണന സജ്ജമാക്കുക</string>
     <string name="settings">ക്രമീകരണം</string>
     <string name="settings_number_of_days">സമന്വയിപ്പിക്കേണ്ട മെയിൽ ദിവസം</string>
@@ -1522,6 +1531,7 @@
     <string name="too_large_to_attach_multiple">ഒന്നോ അതിലധികമോ ഫയലുകൾ അറ്റാച്ചുചെയ്‌തിട്ടില്ല. പരിധി %1$s.</string>
     <string name="too_large_to_attach_single">%1$s-ൽ കൂടുതൽ വലുപ്പമുള്ള ഫയൽ അറ്റാച്ചുചെയ്യാനാകില്ല.</string>
     <string name="trash_folder_selection_title">%s എന്നതിനായി സെർവർ ട്രാഷ് ഫോൾഡർ തിരഞ്ഞെടുക്കുക</string>
+    <string name="trashed_message_indicator">ഈ സന്ദേശം ഇല്ലാതാക്കി</string>
     <string name="turn_auto_sync_on_dialog_body">എല്ലാ അപ്ലിക്കേഷനുകളിലും അക്കൗണ്ടുകളിലും നിങ്ങൾ വരുത്തുന്ന മാറ്റങ്ങൾ Gmail-ൽ മാത്രമല്ല, വെബിലും മറ്റ് ഉപകരണങ്ങളിലും നിങ്ങളുടെ %1$s എന്നതിനിടയിലും സമന്വയിപ്പിക്കപ്പെടും.</string>
     <string name="turn_auto_sync_on_dialog_confirm_btn">ഓൺ ചെയ്യുക</string>
     <string name="turn_auto_sync_on_dialog_title">സ്വയമേവയുള്ള സമന്വയം ഓണാക്കണോ?</string>

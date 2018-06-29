@@ -19,6 +19,8 @@
     <string name="account_settings_conversation_view_progress_dialog_message">Mise à jour des paramètres du compte en cours…</string>
     <string name="account_settings_conversation_view_summary">"Regrouper les courriels sur le même sujet. L'application de ce paramètre peut prendre un certain temps"</string>
     <string name="account_settings_conversation_view_title">Vue conversation</string>
+    <string name="account_settings_conversation_view_turned_off_dialog_message">La vue Conversation a été désactivée pour correspondre à vos paramètres de compte. Vous pouvez changer cela dans les paramètres.</string>
+    <string name="account_settings_conversation_view_turned_on_dialog_message">La vue Conversation a été activée pour correspondre à vos paramètres de compte. Vous pouvez changer cela dans les paramètres.</string>
     <string name="account_settings_edit_quick_responses_summary">Modifier le texte fréquemment inséré pour rédaction de courriels</string>
     <string name="account_settings_exit_server_settings">Annuler les modifications non enregistrées?</string>
     <string name="account_settings_inbox_tips">Conseils pour gérer votre boîte de réception</string>
@@ -494,6 +496,7 @@
     <string name="icr_confirmed_yes">Vous avez répondu « Oui »…</string>
     <string name="icr_declined">"%1$s a &lt;b>refusé&lt;/b> l'invitation à cet événement."</string>
     <string name="icr_hide_original">Masquer le message original</string>
+    <string name="icr_loading_error_msg">"Impossible de charger les données de l'événement."</string>
     <string name="icr_location_description">Emplacement</string>
     <string name="icr_responded_maybe">A répondu « Peut-être »</string>
     <string name="icr_responded_no">A répondu « Non »</string>
@@ -599,7 +602,7 @@
     <string name="notification_downloading_attachments_title">Synchronisation du courrier…</string>
     <string name="notification_label_description_starred">"Marqués d'une étoile"</string>
     <string name="notification_level_all">Tous les nouveaux messages</string>
-    <string name="notification_level_important">Messages importants seulement</string>
+    <string name="notification_level_important">Section Importants uniquement</string>
     <string name="notification_sender_line_snoozed">Reporté : %1$s</string>
     <string name="notify_attachment_send_error">"Impossible d'envoyer la pièce jointe"</string>
     <string name="oauth_authentication_title">"Demande d'autorisation en cours…"</string>
@@ -704,6 +707,7 @@ Activer les notifications de compte?"</string>
     <string name="preferences_nudge_section_outbound_summary">Les courriels envoyés qui pourraient nécessiter un suivi apparaîtront en haut de votre boîte de réception</string>
     <string name="preferences_nudge_section_outbound_title">Suggérer les courriels pouvant nécessiter un suivi</string>
     <string name="preferences_nudging_title">Répondre et assurer un suivi</string>
+    <string name="preferences_priority_inbox_notification_level_title">Notifications pour les sections de la boîte de réception</string>
     <string name="preferences_ringtone_title">Son</string>
     <string name="preferences_signature_title">Signature pour appareil mobile</string>
     <string name="preferences_sync_summary_global_off">"La synchronisation automatique est désactivée.
@@ -805,7 +809,7 @@ Appuyez ici pour activer cette fonctionnalité."</string>
     <string name="server_error_certificate_error">Un problème est survenu au moment de sécuriser la connexion.</string>
     <string name="server_error_login_limit_exceeded">Trop d’actualisations. Veuillez réessayer plus tard.</string>
     <string name="server_error_nonexistent_folder">Le dossier demandé est introuvable.</string>
-    <string name="server_error_too_many_requests">"Trop de demandes. Les limites d'abus du serveur ont été dépassées"</string>
+    <string name="server_error_too_many_requests">"Trop d'actualisations. Veuillez réessayer plus tard."</string>
     <string name="setup_addresses_add_address_error">Vous devez indiquer au moins une adresse de courriel.</string>
     <string name="setup_addresses_new_user_title">Vous pouvez utiliser cette application avec toutes vos adresses de courriel. ^1</string>
     <string name="setup_addresses_upgrading_user_title">Vous pouvez maintenant ajouter toutes vos adresses de courriel. ^1</string>

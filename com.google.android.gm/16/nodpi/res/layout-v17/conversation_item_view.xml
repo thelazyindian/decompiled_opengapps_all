@@ -2,7 +2,7 @@
 <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:minHeight="@dimen/item_view_min_height"
   xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
     <LinearLayout android:orientation="horizontal" android:id="@id/conversation_item_frame" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/conv_list_padding" android:layout_marginRight="@dimen/conv_list_padding">
-        <View android:id="@id/contact_image" style="@style/ConversationListContactImageStyle" />
+        <View android:id="@id/contact_image" style="@style/ItemListContactImageStyle" />
         <LinearLayout android:orientation="vertical" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/conv_list_padding" android:layout_weight="1.0">
             <RelativeLayout android:layout_width="fill_parent" android:layout_height="wrap_content">
                 <ImageView android:id="@id/priority" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/conv_list_padding_priority" />

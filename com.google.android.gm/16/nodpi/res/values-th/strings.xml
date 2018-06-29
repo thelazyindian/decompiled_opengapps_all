@@ -36,6 +36,9 @@
     <string name="account_management_need_to_set_up_new_work_account">ต้องตั้งค่าบัญชีงานใหม่ของคุณ</string>
     <string name="account_management_new_work_account_line_item">ตั้งค่าบัญชีนี้</string>
     <string name="account_management_set_up_new_account_title">บัญชีงานใหม่</string>
+    <string name="account_notification_level_all">ทั้งหมด</string>
+    <string name="account_notification_level_high_priority">เฉพาะที่มีลำดับความสำคัญสูงเท่านั้น</string>
+    <string name="account_notification_level_none">ไม่มี</string>
     <string name="account_security_dialog_content_fmt">เมื่อต้องการใช้บัญชี &lt;%s> คุณจะต้องอัปเดตการตั้งค่าการรักษาความปลอดภัยบนอุปกรณ์ของคุณ โปรดติดต่อผู้ดูแลระบบสำหรับข้อมูลเพิ่มเติม</string>
     <string name="account_security_dialog_ok">อัปเดตเลย</string>
     <string name="account_security_policy_explanation_fmt">เซิร์ฟเวอร์ %s ต้องการให้คุณอนุญาตให้เซิร์ฟเวอร์ควบคุมฟีเจอร์ความปลอดภัยบางอย่างของอุปกรณ์ Android ของคุณได้จากระยะไกล</string>
@@ -48,6 +51,8 @@
     <string name="account_settings_conversation_view_progress_dialog_message">กำลังอัปเดตการตั้งค่าบัญชี…</string>
     <string name="account_settings_conversation_view_summary">จัดกลุ่มอีเมลที่มีหัวข้อเดียวกันไว้ด้วยกัน การตั้งค่านี้อาจใช้เวลาสักครู่จึงจะมีผล</string>
     <string name="account_settings_conversation_view_title">มุมมองการสนทนา</string>
+    <string name="account_settings_conversation_view_turned_off_dialog_message">ปิดมุมมองการสนทนาแล้วเพื่อให้ตรงกับการตั้งค่าบัญชีของคุณ คุณเปลี่ยนแปลงตัวเลือกนี้ได้ในการตั้งค่า</string>
+    <string name="account_settings_conversation_view_turned_on_dialog_message">เปิดมุมมองการสนทนาแล้วเพื่อให้ตรงกับการตั้งค่าบัญชีของคุณ คุณเปลี่ยนแปลงตัวเลือกนี้ได้ในการตั้งค่า</string>
     <string name="account_settings_data_usage">การใช้ข้อมูล</string>
     <string name="account_settings_description_label">ชื่อบัญชี</string>
     <string name="account_settings_edit_quick_responses_label">คำตอบด่วน</string>
@@ -830,6 +835,7 @@
     <string name="gmailify_updating_password_title">กำลังอัปเดตรหัสผ่านของคุณ…</string>
     <string name="google_play_logo">ไปที่ Google Play Store</string>
     <string name="google_terms_of_service">ข้อกำหนดในการให้บริการของ Google</string>
+    <string name="got_it_option">ได้เลย</string>
     <string name="has_malware_website_links">โปรดระวังข้อความนี้ เนื่องจากมีลิงก์ไปยังเว็บไซต์ที่โฮสต์มัลแวร์</string>
     <string name="hats_survey_promo_action_text">ทำแบบสอบถามของเรา</string>
     <string name="hats_survey_promo_text">ช่วยกันปรับปรุง Gmail</string>
@@ -854,6 +860,7 @@
     <string name="icr_declined">%1$s &lt;b>ปฏิเสธ&lt;/b>กิจกรรมนี้แล้ว</string>
     <string name="icr_empty_title">(ไม่มีชื่อ)</string>
     <string name="icr_hide_original">ซ่อนข้อความต้นฉบับ</string>
+    <string name="icr_loading_error_msg">โหลดข้อมูลกิจกรรมไม่ได้</string>
     <string name="icr_location_description">ตำแหน่ง</string>
     <string name="icr_organizer">(ผู้จัดงาน)</string>
     <string name="icr_responded_maybe">ตอบแล้วว่าอาจจะ</string>
@@ -863,6 +870,8 @@
     <string name="icr_show_original">แสดงข้อความต้นฉบับ</string>
     <string name="icr_tentative">%1$s &lt;b>ตอบรับ&lt;/b>กิจกรรมนี้คร่าวๆ แล้ว</string>
     <string name="icr_time_description">ข้อมูลวันที่</string>
+    <string name="icr_view_details">ดูรายละเอียด</string>
+    <string name="icr_warning_description">คำเตือน</string>
     <string name="image_attached">แนบรูปภาพแล้ว</string>
     <string name="imap_name">ส่วนตัว (IMAP)</string>
     <string name="important_inbox_section_title">ส่วนข้อความสำคัญในกล่องจดหมาย</string>
@@ -1047,7 +1056,7 @@
     <string name="notification_label_description_important">สำคัญ</string>
     <string name="notification_label_description_starred">ติดดาว</string>
     <string name="notification_level_all">อีเมลใหม่ทั้งหมด</string>
-    <string name="notification_level_important">ที่สำคัญเท่านั้น</string>
+    <string name="notification_level_important">ส่วนสำคัญเท่านั้น</string>
     <string name="notification_level_none">ไม่มี</string>
     <string name="notification_sender_line_snoozed">แจ้งเตือนทีหลัง: %1$s</string>
     <string name="notifications_category">การแจ้งเตือน</string>
@@ -1208,7 +1217,7 @@
     <string name="preferences_nudge_section_outbound_summary">อีเมลที่ส่งแล้วที่คุณอาจต้องติดตามผลจะปรากฏที่ด้านบนของกล่องจดหมาย</string>
     <string name="preferences_nudge_section_outbound_title">แนะนำอีเมลเพื่อติดตามผล</string>
     <string name="preferences_nudging_title">ตอบกลับและติดตามผล</string>
-    <string name="preferences_priority_inbox_notification_level_title">ระดับการแจ้งเตือน</string>
+    <string name="preferences_priority_inbox_notification_level_title">แจ้งเตือนสำหรับส่วนในกล่องจดหมาย</string>
     <string name="preferences_ringtone_title">เสียง</string>
     <string name="preferences_signature_dialog_title">ลายเซ็น</string>
     <string name="preferences_signature_summary_not_set">ไม่ได้ตั้งค่า</string>
@@ -1383,7 +1392,7 @@
     <string name="server_error_certificate_error">เกิดปัญหาในการเชื่อมต่อสัญญาณ</string>
     <string name="server_error_login_limit_exceeded">รีเฟรชมากเกินไป โปรดลองอีกครั้งในภายหลัง</string>
     <string name="server_error_nonexistent_folder">ไม่พบโฟลเดอร์ที่ขอ</string>
-    <string name="server_error_too_many_requests">มีคำขอมากเกินไป เกินขีดจำกัดการละเมิดของเซิร์ฟเวอร์แล้ว</string>
+    <string name="server_error_too_many_requests">รีเฟรชมากเกินไป โปรดลองอีกครั้งในภายหลัง</string>
     <string name="set_priority">ตั้งลำดับความสำคัญ</string>
     <string name="settings">การตั้งค่า</string>
     <string name="settings_number_of_days">จำนวนวันของอีเมลที่จะซิงค์</string>
@@ -1546,6 +1555,7 @@
     <string name="too_large_to_attach_multiple">ไม่ได้แนบไฟล์อย่างน้อย 1 ไฟล์ จำกัดขนาดที่ %1$s</string>
     <string name="too_large_to_attach_single">ไม่สามารถแนบไฟล์ที่มีขนาดเกิน %1$s</string>
     <string name="trash_folder_selection_title">เลือกโฟลเดอร์ถังขยะของเซิร์ฟเวอร์สำหรับ %s</string>
+    <string name="trashed_message_indicator">ข้อความนี้ถูกลบแล้ว</string>
     <string name="turn_auto_sync_on_dialog_body">การเปลี่ยนแปลงที่คุณทำกับแอปและบัญชีทั้งหมด ไม่ใช่เพียง Gmail จะมีการซิงค์กันระหว่างเว็บ อุปกรณ์อื่นๆ และ %1$s ของคุณ</string>
     <string name="turn_auto_sync_on_dialog_confirm_btn">เปิด</string>
     <string name="turn_auto_sync_on_dialog_title">เปิดซิงค์อัตโนมัติไหม</string>

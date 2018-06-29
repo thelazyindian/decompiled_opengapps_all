@@ -33,6 +33,9 @@
     <string name="account_management_need_to_set_up_new_work_account">તમારું નવું કાર્ય એકાઉન્ટ સેટ કરવું જરૂરી છે.</string>
     <string name="account_management_new_work_account_line_item">આ એકાઉન્ટ સેટ કરો</string>
     <string name="account_management_set_up_new_account_title">નવું કાર્ય એકાઉન્ટ</string>
+    <string name="account_notification_level_all">બધા</string>
+    <string name="account_notification_level_high_priority">માત્ર ઉચ્ચ પ્રાધાન્યતા</string>
+    <string name="account_notification_level_none">કોઈ નહીં</string>
     <string name="account_security_dialog_content_fmt">તમારા એકાઉન્ટ &lt;%s> નો ઉપયોગ કરવા માટે તમારે તમારા ઉપકરણ પર સુરક્ષા સેટિંગ્સ અપડેટ કરવી આવશ્યક છે. વધુ માહિતી માટે તમારા વ્યવસ્થાપકનો સંપર્ક કરો.</string>
     <string name="account_security_dialog_ok">હમણાં અપડેટ કરો</string>
     <string name="account_security_policy_explanation_fmt">સર્વર %s ને જરૂરી છે કે તમે તેને તમારા Android ઉપકરણની કેટલીક સુરક્ષા સુવિધાઓના દૂરસ્થ નિયંત્રણની મંજૂરી આપો.</string>
@@ -45,6 +48,8 @@
     <string name="account_settings_conversation_view_progress_dialog_message">એકાઉન્ટ સેટિંગ અપડેટ કરી રહ્યાં છીએ…</string>
     <string name="account_settings_conversation_view_summary">સમાન વિષયના આધારે ઇમેઇલનું જૂથ બનાવો. આ સેટિંગને લાગુ થવામાં થોડો સમય લાગી શકે છે</string>
     <string name="account_settings_conversation_view_title">વાર્તાલાપ દ્રશ્ય</string>
+    <string name="account_settings_conversation_view_turned_off_dialog_message">તમારી એકાઉન્ટ સેટિંગના મેળ માટે વાર્તાલાપ દ્રશ્ય બંધ કરવામાં આવ્યું છે. તમે આને સેટિંગમાં બદલી શકો છો.</string>
+    <string name="account_settings_conversation_view_turned_on_dialog_message">તમારી એકાઉન્ટ સેટિંગના મેળ માટે વાર્તાલાપ દ્રશ્ય ચાલુ કરવામાં આવ્યું છે. તમે આને સેટિંગમાં બદલી શકો છો.</string>
     <string name="account_settings_data_usage">ડેટા વપરાશ</string>
     <string name="account_settings_description_label">એકાઉન્ટ નામ</string>
     <string name="account_settings_edit_quick_responses_label">ઝડપી પ્રતિસાદ</string>
@@ -811,6 +816,7 @@
     <string name="gmailify_updating_password_title">તમારો પાસવર્ડ અપડેટ કરી રહ્યાં છીએ…</string>
     <string name="google_play_logo">Google Play Store પર જાઓ</string>
     <string name="google_terms_of_service">Googleની સેવાની શરતો</string>
+    <string name="got_it_option">સમજાઈ ગયું</string>
     <string name="has_malware_website_links">આ સંદેશથી સાવચેત રહો. તેમાં માલવેર હોસ્ટ કરનાર વેબસાઇટની લિંક શામેલ છે.</string>
     <string name="hats_survey_promo_action_text">સર્વેક્ષણમાં ભાગ લો</string>
     <string name="hats_survey_promo_text">Gmailને બહેતર બનાવવામાં અમારી સહાય કરો</string>
@@ -834,6 +840,7 @@
     <string name="icr_declined">%1$sએ આ ઇવેન્ટને &lt;b>નકારી&lt;/b> છે.</string>
     <string name="icr_empty_title">(કોઈ શીર્ષક નથી)</string>
     <string name="icr_hide_original">મૂળ સંદેશ છુપાવો</string>
+    <string name="icr_loading_error_msg">ઇવેન્ટનો ડેટા લોડ કરવામાં અસમર્થ છીએ.</string>
     <string name="icr_location_description">સ્થાન</string>
     <string name="icr_organizer">(આયોજક)</string>
     <string name="icr_responded_maybe">કદાચમાં પ્રતિભાવ આપ્યો</string>
@@ -843,6 +850,8 @@
     <string name="icr_show_original">મૂળ સંદેશ બતાવો</string>
     <string name="icr_tentative">%1$sએ આ ઇવેન્ટને &lt;b>અનિશ્ચિત રૂપે સ્વીકારી&lt;/b> છે.</string>
     <string name="icr_time_description">તારીખની માહિતી</string>
+    <string name="icr_view_details">વિગતો જુઓ</string>
+    <string name="icr_warning_description">ચેતવણી</string>
     <string name="image_attached">છબી જોડી</string>
     <string name="imap_name">વ્યક્તિગત (IMAP)</string>
     <string name="important_inbox_section_title">ઈનબોક્સનો મહત્વપૂર્ણ વિભાગ</string>
@@ -1025,7 +1034,7 @@
     <string name="notification_label_description_priority_inbox_all_mail">ઇનબૉકસ</string>
     <string name="notification_label_description_starred">સ્ટાર આપેલ</string>
     <string name="notification_level_all">તમામ નવી મેઇલ</string>
-    <string name="notification_level_important">ફક્ત મહત્વપૂર્ણ</string>
+    <string name="notification_level_important">માત્ર મહત્વપૂર્ણ વિભાગ</string>
     <string name="notification_level_none">કોઈ નહીં</string>
     <string name="notification_sender_line_snoozed">સ્નૂઝ કરી: %1$s</string>
     <string name="notifications_category">નોટિફિકેશન</string>
@@ -1185,7 +1194,7 @@
     <string name="preferences_nudge_section_outbound_summary">જે મોકલેલા ઇમેઇલ પર તમારે કદાચ ફૉલોઅપ કરવું જરૂરી હોઈ શકે, તે તમારા ઇનબૉક્સમાં સૌથી ઉપર દેખાશે</string>
     <string name="preferences_nudge_section_outbound_title">ને ફૉલોઅપ કરવા માટે ઇમેઇલ સૂચવો</string>
     <string name="preferences_nudging_title">જવાબ આપો અને ફૉલોઅપ કરો</string>
-    <string name="preferences_priority_inbox_notification_level_title">નોટિફિકેશનનું સ્તર</string>
+    <string name="preferences_priority_inbox_notification_level_title">ઇનબૉક્સ વિભાગ માટે સૂચિત કરો</string>
     <string name="preferences_ringtone_title">અવાજ</string>
     <string name="preferences_signature_dialog_title">સહી</string>
     <string name="preferences_signature_summary_not_set">સેટ નથી</string>
@@ -1359,7 +1368,7 @@
     <string name="server_error_certificate_error">કનેક્શન સુરક્ષિત કરવામાં સમસ્યા હતી.</string>
     <string name="server_error_login_limit_exceeded">ઘણી બધી વાર તાજુ થયું. કૃપા કરીને પછી ફરીથી પ્રયાસ કરો.</string>
     <string name="server_error_nonexistent_folder">વિનંતી કરેલ ફોલ્ડર મળ્યું ન હતું.</string>
-    <string name="server_error_too_many_requests">ઘણી બધી વિનંતીઓ. સર્વર દુરુપયોગની મર્યાદા વટાવી</string>
+    <string name="server_error_too_many_requests">ઘણી વધુ વાર રિફ્રેશ કરવામાં આવ્યું. થોડા સમય પછી ફરી પ્રયાસ કરો.</string>
     <string name="set_priority">પ્રાધાન્યતા સેટ કરો</string>
     <string name="settings">સેટિંગ્સ</string>
     <string name="settings_number_of_days">સમન્વયન માટે મેઇલના દિવસો</string>
@@ -1520,6 +1529,7 @@
     <string name="too_large_to_attach_multiple">એક અથવા વધુ ફાઇલો જોડાઈ નથી. મર્યાદા %1$s.</string>
     <string name="too_large_to_attach_single">%1$s થી વધુની ફાઇલ જોડી શકતાં નથી.</string>
     <string name="trash_folder_selection_title">%s માટે સર્વરનું ટ્રેશ ફોલ્ડર પસંદ કરો</string>
+    <string name="trashed_message_indicator">સંદેશ ડિલીટ કરવામાં આવ્યો છે</string>
     <string name="turn_auto_sync_on_dialog_body">તમે બધી ઍપ્લિકેશનો અને એકાઉન્ટ્સમાં જે ફેરફારો કરો છો, માત્ર Gmail માં નહીં, તે વેબ, તમારા અન્ય ઉપકરણો અને તમારા %1$s વચ્ચે સમન્વયિત થશે.</string>
     <string name="turn_auto_sync_on_dialog_confirm_btn">ચાલુ કરો</string>
     <string name="turn_auto_sync_on_dialog_title">સ્વતઃ-સમન્વયન ચાલુ કરીએ?</string>

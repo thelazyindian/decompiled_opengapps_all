@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView android:orientation="vertical" android:id="@id/trashed_messages_indicator" android:focusable="true" android:clipToPadding="false" android:layout_width="fill_parent" android:layout_height="fill_parent" app:cardBackgroundColor="@color/trashed_message_indicator_background" app:cardCornerRadius="@dimen/message_header_card_corner_radius" app:cardElevation="@dimen/trashed_message_indicator_card_elevation" style="@style/TrashedMessageIndicator"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <TextView android:textSize="@dimen/trashed_message_indicator_text_size" android:textColor="@color/trashed_message_indicator_text" android:padding="@dimen/trashed_message_indicator_padding" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/trashed_message_indicator" />
+</android.support.v7.widget.CardView>

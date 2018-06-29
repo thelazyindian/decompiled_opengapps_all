@@ -39,6 +39,9 @@
     <string name="account_management_need_to_set_up_new_work_account">Трэба наладзіць новы працоўны ўліковы запіс.</string>
     <string name="account_management_new_work_account_line_item">Наладзіць гэты ўліковы запіс</string>
     <string name="account_management_set_up_new_account_title">Новы працоўны ўліковы запіс</string>
+    <string name="account_notification_level_all">Усе</string>
+    <string name="account_notification_level_high_priority">Толькі з высокім прыярытэтам</string>
+    <string name="account_notification_level_none">Няма</string>
     <string name="account_security_dialog_content_fmt">Каб карыстацца сваім уліковым запісам &lt;%s>, вам трэба абнавіць налады бяспекі на сваёй прыладзе. Па дадатковую інфармацыю звярніцеся да свайго адміністратара.</string>
     <string name="account_security_dialog_ok">Абнавіць</string>
     <string name="account_security_policy_explanation_fmt">Сервер %s патрабуе дазволу аддалена кіраваць некаторымі функцыямі бяспекі вашай прылады Android.</string>
@@ -51,6 +54,8 @@
     <string name="account_settings_conversation_view_progress_dialog_message">Абнаўленне налад уліковага запісу…</string>
     <string name="account_settings_conversation_view_summary">Згрупаваць разам электронныя паведамленні па адной тэме. Гэта можа заняць некаторы час.</string>
     <string name="account_settings_conversation_view_title">Выгляд размовы</string>
+    <string name="account_settings_conversation_view_turned_off_dialog_message">Выгляд размовы быў выключаны, каб адпавядаць наладам уліковага запісу. Яго можна ўключыць у наладах.</string>
+    <string name="account_settings_conversation_view_turned_on_dialog_message">Выгляд размовы быў уключаны, каб адпавядаць наладам уліковага запісу. Яго можна выключыць у наладах.</string>
     <string name="account_settings_data_usage">Выкарыстанне трафіку</string>
     <string name="account_settings_description_label">Імя ўліковага запісу</string>
     <string name="account_settings_edit_quick_responses_label">Хуткія адказы</string>
@@ -828,6 +833,7 @@
     <string name="gmailify_updating_password_title">Ідзе абнаўленне пароля…</string>
     <string name="google_play_logo">Перайсці ў Краму Google Play</string>
     <string name="google_terms_of_service">Умовы абслугоўвання Google</string>
+    <string name="got_it_option">Зразумела</string>
     <string name="has_malware_website_links">Будзьце асцярожнымі з гэтым паведамленнем. Яно змяшчае спасылкі на вэб-сайты са шкодным праграмным забеспячэннем.</string>
     <string name="hats_survey_promo_action_text">Прым. ўдзел у апыт.</string>
     <string name="hats_survey_promo_text">Дапамажыце нам палепшыць Gmail</string>
@@ -851,6 +857,7 @@
     <string name="icr_declined">%1$s &lt;b>адхіліў(-ла)&lt;/b> запрашэнне на гэту падзею.</string>
     <string name="icr_empty_title">(без назвы)</string>
     <string name="icr_hide_original">Схаваць арыгінальнае паведамленне</string>
+    <string name="icr_loading_error_msg">Не ўдаецца загрузіць даныя падзеі.</string>
     <string name="icr_location_description">Месцазнаходжанне</string>
     <string name="icr_organizer">(арганізатар)</string>
     <string name="icr_responded_maybe">Адказ \"магчыма\"</string>
@@ -860,6 +867,8 @@
     <string name="icr_show_original">Паказаць арыгінальнае паведамленне</string>
     <string name="icr_tentative">%1$s прымае &lt;b>пад пытаннем&lt;/b> запрашэнне на падзею.</string>
     <string name="icr_time_description">Інфармацыя аб даце</string>
+    <string name="icr_view_details">Праглядзець звесткі</string>
+    <string name="icr_warning_description">Папярэджанне</string>
     <string name="image_attached">Відарыс далучаны</string>
     <string name="imap_name">Асабісты (IMAP)</string>
     <string name="important_inbox_section_title">Раздзел \"Важнае\" папкі \"Уваходныя\"</string>
@@ -1044,7 +1053,7 @@
     <string name="notification_label_description_priority_inbox_all_mail">Уваходныя</string>
     <string name="notification_label_description_starred">Пазначаныя</string>
     <string name="notification_level_all">Уся новая пошта</string>
-    <string name="notification_level_important">Толькі важныя</string>
+    <string name="notification_level_important">Раздзел толькі важных лістоў</string>
     <string name="notification_level_none">Няма</string>
     <string name="notification_sender_line_snoozed">Адкладзена: %1$s</string>
     <string name="notifications_category">Апавяшчэнні</string>
@@ -1203,7 +1212,7 @@
     <string name="preferences_nudge_section_outbound_summary">"Адпраўленыя лісты, якія трэба адсочваць, з'явяцца ўверсе спіса ўваходных паведамленняў"</string>
     <string name="preferences_nudge_section_outbound_title">Прапаноўваць лісты, якія трэба адсочваць</string>
     <string name="preferences_nudging_title">Адказаць і адсочваць</string>
-    <string name="preferences_priority_inbox_notification_level_title">Узровень апавяшчэнняў</string>
+    <string name="preferences_priority_inbox_notification_level_title">Апавяшчаць пра раздзелы ўваходных</string>
     <string name="preferences_ringtone_title">Гук</string>
     <string name="preferences_signature_dialog_title">Подпіс</string>
     <string name="preferences_signature_summary_not_set">Не зададзены</string>
@@ -1338,7 +1347,7 @@
     <string name="server_error_certificate_error">Узнікла праблема з забеспячэннем злучэння.</string>
     <string name="server_error_login_limit_exceeded">Занадта шмат абнаўленняў. Паўтарыце спробу пазней.</string>
     <string name="server_error_nonexistent_folder">Запытаная папка не знойдзена.</string>
-    <string name="server_error_too_many_requests">Колькасць запытаў перавысіла абмежаванні сервера</string>
+    <string name="server_error_too_many_requests">Занадта шмат абнаўленняў. Паўтарыце спробу пазней.</string>
     <string name="set_priority">Задаць прыярытэт</string>
     <string name="settings">Налады</string>
     <string name="settings_number_of_days">Колькасць дзён да сінхранізацыі пошты</string>
@@ -1499,6 +1508,7 @@
     <string name="too_large_to_attach_multiple">Не далучаны адзін або некалькі файлаў. Абмежаванне: %1$s.</string>
     <string name="too_large_to_attach_single">Немагчыма далучыць файл памерам, большым за: %1$s.</string>
     <string name="trash_folder_selection_title">Выб.на серв.папку-сметніцу да %s</string>
+    <string name="trashed_message_indicator">Паведамленне было выдалена</string>
     <string name="turn_auto_sync_on_dialog_body">Змены, якія вы робіце ва ўсіх праграмах і ўліковых запісах, а не толькі ў Gmail, будуць сінхранізаваны паміж інтэрнэтам, вашымі іншымі прыладамі, уключаючы %1$s.</string>
     <string name="turn_auto_sync_on_dialog_confirm_btn">Уключыць</string>
     <string name="turn_auto_sync_on_dialog_title">Уключыць аўтаматычную сінхранізацыю?</string>

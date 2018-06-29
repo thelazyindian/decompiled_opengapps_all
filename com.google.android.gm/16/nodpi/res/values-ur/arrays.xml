@@ -5,11 +5,6 @@
         <item>سب کو جواب دیں</item>
         <item>فارورڈ کریں</item>
     </string-array>
-    <string-array name="notificationsStatusEntries">
-        <item>سبھی</item>
-        <item>صرف اعلی ترجیح</item>
-        <item>کوئی نہیں</item>
-    </string-array>
     <string-array name="prefEntries_autoAdvance">
         <item>جدید تر</item>
         <item>قدیم تر</item>

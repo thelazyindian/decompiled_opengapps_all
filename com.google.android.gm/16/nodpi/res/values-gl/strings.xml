@@ -38,6 +38,9 @@
     <string name="account_management_need_to_set_up_new_work_account">É preciso configurar a túa nova conta do traballo.</string>
     <string name="account_management_new_work_account_line_item">Configurar esta conta</string>
     <string name="account_management_set_up_new_account_title">Nova conta do traballo</string>
+    <string name="account_notification_level_all">Todos</string>
+    <string name="account_notification_level_high_priority">Só os de prioridade alta</string>
+    <string name="account_notification_level_none">Ningún</string>
     <string name="account_security_dialog_content_fmt">Para utilizar a túa conta (%s), tes que actualizar a configuración de seguranza do teu dispositivo. Ponte en contacto co teu administrador para obter máis información.</string>
     <string name="account_security_dialog_ok">Actualizar</string>
     <string name="account_security_policy_explanation_fmt">É necesario que permitas que o servidor %s controle de forma remota certas funcións de seguranza do dispositivo Android.</string>
@@ -49,7 +52,9 @@
     <string name="account_settings_conversation_view_no_connection">Cómpre ter conexión a Internet para levar a cabo esta acción.</string>
     <string name="account_settings_conversation_view_progress_dialog_message">Actualizando configuración da conta…</string>
     <string name="account_settings_conversation_view_summary">Agrupa os correos electrónicos co mesmo tema. É posible que esta opción de configuración tarde un pouco en aplicarse</string>
-    <string name="account_settings_conversation_view_title">Visualización de conversa</string>
+    <string name="account_settings_conversation_view_title">Vista de conversa</string>
+    <string name="account_settings_conversation_view_turned_off_dialog_message">Desactivouse a vista de conversa para que estea acorde coa configuración da túa conta. Podes cambiar esta opción en Configuración.</string>
+    <string name="account_settings_conversation_view_turned_on_dialog_message">Activouse a vista de conversa para que estea acorde coa configuración da túa conta. Podes cambiar esta opción en Configuración.</string>
     <string name="account_settings_data_usage">Uso de datos</string>
     <string name="account_settings_description_label">Nome da conta</string>
     <string name="account_settings_edit_quick_responses_label">Respostas rápidas</string>
@@ -412,7 +417,7 @@
     <string name="blocked_sender_spam">Por que está en Spam esta mensaxe? Porque bloqueaches as mensaxes que che chegan de &lt;b>%1$s&lt;/b>.</string>
     <string name="body_hint">Redactar correo electrónico</string>
     <string name="body_hint_loading">Cargando borrador…</string>
-    <string name="bogus_bounce">Por que está en Spam esta mensaxe? Porque parece unha resposta falsa a unha mensaxe que non enviaches realmente.</string>
+    <string name="bogus_bounce">Por que está esta mensaxe en Spam? Porque parece un aviso falso de correo non entregado dunha mensaxe que en realidade non enviaches</string>
     <string name="broadcast_internal_perm_desc">Permite á aplicación acceder aos broadcast intents de Gmail, que se usan, por exemplo, para actualizar notificacións.</string>
     <string name="broadcast_internal_perm_label">difusión interna</string>
     <string name="bt_action_archive">Arquivar</string>
@@ -818,6 +823,7 @@
     <string name="gmailify_updating_password_title">Actualizando o teu contrasinal…</string>
     <string name="google_play_logo">Ir a Google Play Store</string>
     <string name="google_terms_of_service">Condicións de servizo de Google</string>
+    <string name="got_it_option">Entendido</string>
     <string name="has_malware_website_links">Ten coidado con esta mensaxe. Inclúe ligazóns a sitios web que aloxan software malicioso.</string>
     <string name="hats_survey_promo_action_text">Participa na nosa enquisa</string>
     <string name="hats_survey_promo_text">Axúdanos a mellorar Gmail</string>
@@ -841,6 +847,7 @@
     <string name="icr_declined">%1$s &lt;b>rexeitou&lt;/b> este evento.</string>
     <string name="icr_empty_title">(sen título)</string>
     <string name="icr_hide_original">Ocultar mensaxe orixinal</string>
+    <string name="icr_loading_error_msg">Non se puideron cargar os datos do evento.</string>
     <string name="icr_location_description">Localización</string>
     <string name="icr_organizer">(organizador)</string>
     <string name="icr_responded_maybe">Respondeu que quizais</string>
@@ -850,6 +857,8 @@
     <string name="icr_show_original">Mostrar mensaxe orixinal</string>
     <string name="icr_tentative">%1$s &lt;b>aceptou de modo provisional&lt;/b> este evento.</string>
     <string name="icr_time_description">Información da data</string>
+    <string name="icr_view_details">Ver detalles</string>
+    <string name="icr_warning_description">Aviso</string>
     <string name="image_attached">Imaxe anexada</string>
     <string name="imap_name">Persoal (IMAP)</string>
     <string name="important_inbox_section_title">Caixa de entrada: sección Importantes</string>
@@ -1031,7 +1040,7 @@
     <string name="notification_label_description_priority_inbox_all_mail">Caixa de entrada</string>
     <string name="notification_label_description_starred">Con estrela</string>
     <string name="notification_level_all">Todo o correo novo</string>
-    <string name="notification_level_important">Só o correo importante</string>
+    <string name="notification_level_important">Só coa sección Importantes</string>
     <string name="notification_level_none">Ningún</string>
     <string name="notification_sender_line_snoozed">Adiado: %1$s</string>
     <string name="notifications_category">Notificacións</string>
@@ -1049,7 +1058,7 @@
     <string name="ood_warning_title">Están fóra do dominio</string>
     <string name="open_google_calendar">Abrir Calendar</string>
     <string name="open_source_licenses_title">Licenzas de código aberto</string>
-    <string name="others_marked_as_phishy">Ten coidado con esta mensaxe. Moitas persoas marcaron mensaxes parecidas como trampas de suplantación de identidade, polo que pode incluír contido non seguro.</string>
+    <string name="others_marked_as_phishy">Ten coidado con esta mensaxe. Moitas persoas marcaron mensaxes parecidas como trampas de phishing, polo que pode incluír contido non seguro.</string>
     <string name="others_marked_as_spam">Ten coidado con esta mensaxe. Moitas persoas marcaron mensaxes parecidas como spam.</string>
     <string name="overflow_description">Máis opcións</string>
     <string name="password_expire_warning_content_title">Contrasinal bloq. vai caducar</string>
@@ -1190,7 +1199,7 @@ Queres activar as notificacións da conta?"</string>
     <string name="preferences_nudge_section_outbound_summary">Os correos electrónicos enviados dos que posiblemente necesites facer un seguimento aparecerán na parte superior da túa caixa de entrada</string>
     <string name="preferences_nudge_section_outbound_title">Suxerir correos dos que facer un seguimento</string>
     <string name="preferences_nudging_title">Resposta e seguimento</string>
-    <string name="preferences_priority_inbox_notification_level_title">Nivel de notificación</string>
+    <string name="preferences_priority_inbox_notification_level_title">Recibir notificacións relacionadas coas seccións da caixa de entrada</string>
     <string name="preferences_ringtone_title">Son</string>
     <string name="preferences_signature_dialog_title">Sinatura</string>
     <string name="preferences_signature_summary_not_set">Sen configurar</string>
@@ -1198,7 +1207,7 @@ Queres activar as notificacións da conta?"</string>
     <string name="preferences_sync_status">Sincronizar Gmail</string>
     <string name="preferences_sync_summary_global_off">"A sincronización automática está desactivada.
 Toca para activala."</string>
-    <string name="preferences_unobtrusive_enable">Notificar en todas as mensaxes</string>
+    <string name="preferences_unobtrusive_enable">Notificación de todas as mensaxes</string>
     <string name="preferences_unobtrusive_summary">Reproduce un son ou vibra cada vez que chega unha mensaxe nova</string>
     <string name="preferences_unsubscribe_tips_summary">Mostra consellos ocasionais para cancelar a subscrición a remitentes de correo masivo que les poucas veces</string>
     <string name="preferences_unsubscribe_tips_title">Consellos para cancelar subscricións</string>
@@ -1363,7 +1372,7 @@ Toca para activala."</string>
     <string name="server_error_certificate_error">Produciuse un problema ao protexer a conexión.</string>
     <string name="server_error_login_limit_exceeded">Hai demasiadas actualizacións. Téntao de novo máis tarde.</string>
     <string name="server_error_nonexistent_folder">Non se encontrou o cartafol solicitado.</string>
-    <string name="server_error_too_many_requests">Demasiadas solicitudes: superáronse os límites de abuso do servidor</string>
+    <string name="server_error_too_many_requests">Hai demasiadas actualizacións. Téntao de novo máis tarde.</string>
     <string name="set_priority">Definir prioridade</string>
     <string name="settings">Configuración</string>
     <string name="settings_number_of_days">Días para sincronizar correo</string>
@@ -1523,6 +1532,7 @@ Toca para activala."</string>
     <string name="too_large_to_attach_multiple">Non se anexaron un ou máis ficheiros. Límite: %1$s.</string>
     <string name="too_large_to_attach_single">Non se poden anexar ficheiros de máis de %1$s.</string>
     <string name="trash_folder_selection_title">Seleccionar o cartafol da papeleira do servidor para %s</string>
+    <string name="trashed_message_indicator">Eliminouse esta mensaxe</string>
     <string name="turn_auto_sync_on_dialog_body">Os cambios que fas en todas as aplicacións e contas, non só en Gmail, sincronizaranse na web, nos demais dispositivos e no teu %1$s.</string>
     <string name="turn_auto_sync_on_dialog_confirm_btn">Activar</string>
     <string name="turn_auto_sync_on_dialog_title">Queres activar a sincronización automática?</string>
@@ -1543,7 +1553,7 @@ Toca para activala."</string>
     <string name="unsubscribe">Cancelar subscrición</string>
     <string name="unsupported_action_state">Só as contas de Gmail admiten esta acción. En caso de que non se poida levar a cabo, desactivarase a función de pasar o dedo cara a esta dirección.</string>
     <string name="update_security_text">Continuar</string>
-    <string name="user_marked_as_phishy">Por que está en Spam esta mensaxe? Porque fixeches clic en Informar de suplantación de identidade dentro da mensaxe.</string>
+    <string name="user_marked_as_phishy">Por que está en Spam esta mensaxe? Porque fixeches clic en Informar de phishing dentro da mensaxe.</string>
     <string name="user_marked_as_spam">Por que está en Spam esta mensaxe? Porque fixeches clic en Marcar como spam dentro da mensaxe.</string>
     <string name="vacation_responder_body_hint_text">Mensaxe</string>
     <string name="vacation_responder_changes_discarded">Descartáronse os cambios na resposta automática</string>

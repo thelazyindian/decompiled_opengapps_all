@@ -168,6 +168,66 @@
         <item name="android:paddingStart">@dimen/app_install_bar_start_margin</item>
         <item name="android:paddingEnd">@dimen/app_install_bar_end_margin</item>
     </style>
+    <style name="AppInstallWithCtaRichAdTeaserDescription">
+        <item name="android:textSize">14.0sp</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textColor">@color/snippet_text_color</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:layout_marginTop">@dimen/app_install_with_cta_rich_ad_teaser_text_margin_top</item>
+        <item name="android:layout_marginRight">@dimen/app_install_with_cta_rich_ad_teaser_text_margin_right</item>
+        <item name="android:maxLines">1</item>
+        <item name="android:includeFontPadding">false</item>
+        <item name="android:fontFamily">sans-serif-light</item>
+        <item name="android:textAlignment">viewStart</item>
+        <item name="android:layout_marginEnd">@dimen/app_install_with_cta_rich_ad_teaser_text_margin_right</item>
+    </style>
+    <style name="AppInstallWithCtaRichAdTeaserInfoText">
+        <item name="android:textSize">13.0sp</item>
+        <item name="android:textColor">@color/app_install_with_cta_rich_ad_teaser_content_text_color</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:layout_marginRight">@dimen/app_install_with_cta_rich_ad_teaser_text_margin_right</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:fontFamily">Roboto</item>
+        <item name="android:textAlignment">viewStart</item>
+        <item name="android:layout_marginEnd">@dimen/app_install_with_cta_rich_ad_teaser_text_margin_right</item>
+    </style>
+    <style name="AppInstallWithCtaRichAdTeaserInstallIcon">
+        <item name="android:layout_gravity">center_vertical</item>
+        <item name="android:paddingTop">@dimen/app_install_with_cta_rich_ad_teaser_install_icon_padding_top</item>
+        <item name="android:paddingRight">@dimen/app_install_with_cta_rich_ad_teaser_install_icon_padding_right</item>
+        <item name="android:adjustViewBounds">true</item>
+        <item name="android:tint">@color/app_install_with_cta_rich_ad_teaser_install_button_content_color</item>
+        <item name="android:paddingEnd">@dimen/app_install_with_cta_rich_ad_teaser_install_icon_padding_right</item>
+    </style>
+    <style name="AppInstallWithCtaRichAdTeaserInstallText">
+        <item name="android:textSize">14.0sp</item>
+        <item name="android:textColor">@color/app_install_with_cta_rich_ad_teaser_install_button_content_color</item>
+        <item name="android:layout_gravity">center_vertical</item>
+        <item name="android:layout_marginRight">@dimen/app_install_with_cta_rich_ad_teaser_install_text_margin_right</item>
+        <item name="android:fontFamily">Roboto</item>
+        <item name="android:textAlignment">viewStart</item>
+        <item name="android:layout_marginEnd">@dimen/app_install_with_cta_rich_ad_teaser_install_text_margin_right</item>
+    </style>
+    <style name="AppInstallWithCtaRichAdTeaserRatingBar" parent="@style/Widget.AppCompat.RatingBar.Small">
+        <item name="android:layout_gravity">center_vertical</item>
+        <item name="android:layout_marginRight">@dimen/app_install_with_cta_rich_ad_teaser_rating_bar_margin_right</item>
+        <item name="android:numStars">5</item>
+        <item name="android:stepSize">0.5</item>
+        <item name="android:isIndicator">true</item>
+        <item name="android:layout_marginEnd">@dimen/app_install_with_cta_rich_ad_teaser_rating_bar_margin_right</item>
+    </style>
+    <style name="AppInstallWithCtaRichAdTeaserRatingCountText">
+        <item name="android:textSize">13.0sp</item>
+        <item name="android:textColor">@color/app_install_with_cta_rich_ad_teaser_content_text_color</item>
+        <item name="android:ellipsize">end</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:layout_marginRight">@dimen/app_install_with_cta_rich_ad_teaser_text_margin_right</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:fontFamily">Roboto</item>
+        <item name="android:textAlignment">viewStart</item>
+        <item name="android:layout_marginEnd">@dimen/app_install_with_cta_rich_ad_teaser_text_margin_right</item>
+    </style>
     <style name="AttachmentIconStyle">
         <item name="android:layout_marginLeft">@dimen/attachment_icon_padding</item>
         <item name="android:layout_marginStart">@dimen/attachment_icon_padding</item>
@@ -380,15 +440,6 @@
         <item name="android:paddingStart">@dimen/conv_list_attachment_padding_start</item>
         <item name="android:layout_toStartOf">@id/date</item>
     </style>
-    <style name="ConversationListContactImageStyle">
-        <item name="android:layout_width">@dimen/contact_image_width</item>
-        <item name="android:layout_height">@dimen/contact_image_height</item>
-        <item name="android:layout_marginLeft">@dimen/conv_list_contact_image_padding_start</item>
-        <item name="android:layout_marginTop">@dimen/conv_list_padding</item>
-        <item name="android:layout_marginRight">@dimen/conv_list_contact_image_padding_end</item>
-        <item name="android:layout_marginStart">@dimen/conv_list_contact_image_padding_start</item>
-        <item name="android:layout_marginEnd">@dimen/conv_list_contact_image_padding_end</item>
-    </style>
     <style name="ConversationListDateStyle">
         <item name="android:textSize">12.0sp</item>
         <item name="android:paddingLeft">@dimen/conv_list_date_padding_start</item>
@@ -557,6 +608,15 @@
     <style name="HatsText.PromoButton.Dismiss.WithMargin" parent="@style/HatsText.PromoButton.Dismiss">
         <item name="android:layout_marginRight">@dimen/hats_promo_button_spacing</item>
         <item name="android:layout_marginEnd">@dimen/hats_promo_button_spacing</item>
+    </style>
+    <style name="ItemListContactImageStyle">
+        <item name="android:layout_width">@dimen/contact_image_width</item>
+        <item name="android:layout_height">@dimen/contact_image_height</item>
+        <item name="android:layout_marginLeft">@dimen/conv_list_contact_image_padding_start</item>
+        <item name="android:layout_marginTop">@dimen/conv_list_padding</item>
+        <item name="android:layout_marginRight">@dimen/conv_list_contact_image_padding_end</item>
+        <item name="android:layout_marginStart">@dimen/conv_list_contact_image_padding_start</item>
+        <item name="android:layout_marginEnd">@dimen/conv_list_contact_image_padding_end</item>
     </style>
     <style name="MarginCompensationEditText" parent="@style/AccountSetupText">
         <item name="android:layout_marginLeft">@dimen/setup_edit_text_margin_side</item>

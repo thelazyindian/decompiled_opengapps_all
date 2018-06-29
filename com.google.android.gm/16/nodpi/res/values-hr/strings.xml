@@ -33,6 +33,9 @@
     <string name="account_management_need_to_set_up_new_work_account">Potrebno je postaviti novi poslovni račun</string>
     <string name="account_management_new_work_account_line_item">Postavite ovaj račun</string>
     <string name="account_management_set_up_new_account_title">Novi poslovni račun</string>
+    <string name="account_notification_level_all">Sve</string>
+    <string name="account_notification_level_high_priority">Samo vrlo važno</string>
+    <string name="account_notification_level_none">Ništa</string>
     <string name="account_security_dialog_content_fmt">Da biste koristili račun &lt;%s>, morate ažurirati sigurnosne postavke na svojem uređaju. Obratite se administratoru za više podataka.</string>
     <string name="account_security_dialog_ok">Ažurirajte sada</string>
     <string name="account_security_policy_explanation_fmt">Poslužitelj %s zahtijeva da mu omogućite daljinsko upravljanje nekim sigurnosnim značajkama vašeg Android uređaja.</string>
@@ -45,6 +48,8 @@
     <string name="account_settings_conversation_view_progress_dialog_message">Ažuriranje postavki računa...</string>
     <string name="account_settings_conversation_view_summary">Grupirajte e-poruke s istom temom. Može potrajati dok se ta postavka ne primijeni</string>
     <string name="account_settings_conversation_view_title">Prikaz razgovora</string>
+    <string name="account_settings_conversation_view_turned_off_dialog_message">Prikaz razgovora isključen je radi usklađivanja s postavkama računa. Tu postavku možete promijeniti u postavkama.</string>
+    <string name="account_settings_conversation_view_turned_on_dialog_message">Prikaz razgovora uključen je radi usklađivanja s postavkama računa. Tu postavku možete promijeniti u postavkama.</string>
     <string name="account_settings_data_usage">Potrošnja podataka</string>
     <string name="account_settings_description_label">Naziv računa</string>
     <string name="account_settings_edit_quick_responses_label">Brzi odgovori</string>
@@ -823,6 +828,7 @@
     <string name="gmailify_updating_password_title">Ažuriranje zaporke...</string>
     <string name="google_play_logo">Idi na Trgovinu Google Play</string>
     <string name="google_terms_of_service">Googleovi uvjeti pružanja usluge</string>
+    <string name="got_it_option">Shvaćam</string>
     <string name="has_malware_website_links">Budite oprezni s ovom porukom. Sadrži veze za web-lokacije sa zlonamjernim softverom.</string>
     <string name="hats_survey_promo_action_text">Sudjelujte u našoj anketi</string>
     <string name="hats_survey_promo_text">Pomozite nam da poboljšamo Gmail</string>
@@ -847,6 +853,7 @@
     <string name="icr_declined">%1$s &lt;b>odbija&lt;/b> taj događaj.</string>
     <string name="icr_empty_title">(bez naslova)</string>
     <string name="icr_hide_original">Sakrivanje izvorne poruke</string>
+    <string name="icr_loading_error_msg">Podaci o događaju ne mogu se učitati.</string>
     <string name="icr_location_description">Lokacija</string>
     <string name="icr_organizer">(organizator)</string>
     <string name="icr_responded_maybe">Odgovor je možda</string>
@@ -856,6 +863,8 @@
     <string name="icr_show_original">Prikaz izvorne poruke</string>
     <string name="icr_tentative">%1$s &lt;b>uvjetno prihvaća&lt;/b> taj događaj.</string>
     <string name="icr_time_description">Podaci o datumu</string>
+    <string name="icr_view_details">Prikaz pojedinosti</string>
+    <string name="icr_warning_description">Upozorenje</string>
     <string name="image_attached">Slika je priložena</string>
     <string name="imap_name">Osobni (IMAP)</string>
     <string name="important_inbox_section_title">Odjeljak Važno u pristigloj pošti</string>
@@ -1038,7 +1047,7 @@
     <string name="notification_label_description_priority_inbox_all_mail">Pristigla pošta</string>
     <string name="notification_label_description_starred">Sa zvjezdicom</string>
     <string name="notification_level_all">Sva nova pošta</string>
-    <string name="notification_level_important">Samo važno</string>
+    <string name="notification_level_important">Samo odjeljak Važno</string>
     <string name="notification_level_none">Ništa</string>
     <string name="notification_sender_line_snoozed">Odgođeno: %1$s</string>
     <string name="notifications_category">Obavijesti</string>
@@ -1199,7 +1208,7 @@ Dodirnite da biste je uključili."</string>
     <string name="preferences_nudge_section_outbound_summary">Poslane e-poruke na koje se trebate vratiti prikazivat će se pri vrhu pristigle pošte</string>
     <string name="preferences_nudge_section_outbound_title">Predlaganje e-poruka za praćenje</string>
     <string name="preferences_nudging_title">Praćenje i odgovaranje</string>
-    <string name="preferences_priority_inbox_notification_level_title">Razina obavijesti</string>
+    <string name="preferences_priority_inbox_notification_level_title">Obavijest za odjeljke pristigle pošte</string>
     <string name="preferences_ringtone_title">Zvuk</string>
     <string name="preferences_signature_dialog_title">Potpis</string>
     <string name="preferences_signature_summary_not_set">Nije postavljeno</string>
@@ -1373,7 +1382,7 @@ Dodirnite da biste je uključili."</string>
     <string name="server_error_certificate_error">Došlo je do problema prilikom pružanja sigurne veze.</string>
     <string name="server_error_login_limit_exceeded">Previše osvježavanja. Pokušajte ponovno kasnije.</string>
     <string name="server_error_nonexistent_folder">Tražena mapa nije pronađena.</string>
-    <string name="server_error_too_many_requests">Previše zahtjeva. Prekoračeno je ograničenje zloupotrebe poslužitelja</string>
+    <string name="server_error_too_many_requests">Previše osvježavanja. Pokušajte ponovno kasnije.</string>
     <string name="set_priority">Postavljanje važnosti</string>
     <string name="settings">Postavke</string>
     <string name="settings_number_of_days">Broj dana pošte za sinkronizaciju</string>
@@ -1534,6 +1543,7 @@ Dodirnite da biste je uključili."</string>
     <string name="too_large_to_attach_multiple">Jedna ili više datoteka nije priloženo. Ograničenje je %1$s.</string>
     <string name="too_large_to_attach_single">Nije moguće priložiti datoteku veću od %1$s.</string>
     <string name="trash_folder_selection_title">Odaberite mapu za otpad poslužitelja za %s</string>
+    <string name="trashed_message_indicator">Ta je poruka izbrisana</string>
     <string name="turn_auto_sync_on_dialog_body">Promjene koje unesete na svim aplikacijama i računima, a ne samo na Gmailu, sinkronizirat će se na webu, vašim ostalim uređajima i vašem uređaju %1$s.</string>
     <string name="turn_auto_sync_on_dialog_confirm_btn">Uključi</string>
     <string name="turn_auto_sync_on_dialog_title">Želite li uključiti automatsku sinkronizaciju?</string>

@@ -32,6 +32,9 @@
     <string name="account_management_need_to_set_up_new_work_account">Жаңы жумуш аккаунтуңуз жөндөлүшү керек.</string>
     <string name="account_management_new_work_account_line_item">Бул аккаунтту жөндөө</string>
     <string name="account_management_set_up_new_account_title">Жаңы жумуш аккаунту</string>
+    <string name="account_notification_level_all">Баары</string>
+    <string name="account_notification_level_high_priority">Өтө маанилүү гана</string>
+    <string name="account_notification_level_none">Жок</string>
     <string name="account_security_dialog_content_fmt">&lt; %s > каттоо эсебиңизди колдонуу үчүн түзмөгүңүздөгү коопсуздук жөндөөлөрүн жаңыртышыңыз керек. Көбүрөөк маалымат алуу үчүн администраторуңузга кайрылыңыз.</string>
     <string name="account_security_dialog_ok">Азыр жаңыртуу</string>
     <string name="account_security_policy_explanation_fmt">%s серверине Android түзмөгүңүздүн айрым коопсуздук функцияларын алыстан башкарууга уруксат беришиңиз керек.</string>
@@ -44,6 +47,8 @@
     <string name="account_settings_conversation_view_progress_dialog_message">Аккаунттун жөндөөлөрү жаңыртылууда…</string>
     <string name="account_settings_conversation_view_summary">Кат жазышууну бир тема аркылуу топтоо. Бул жөндөө бир аз убакытты талап кылышы мүмкүн</string>
     <string name="account_settings_conversation_view_title">Сүйлөшүүнүн көрүнүшү</string>
+    <string name="account_settings_conversation_view_turned_off_dialog_message">Аккаунтуңуздун жөндөөлөрүнө жараша жазышуунун көрүнүшү өчүрүлдү. Муну жөндөөлөрдөн өзгөртсөңүз болот.</string>
+    <string name="account_settings_conversation_view_turned_on_dialog_message">Аккаунтуңуздун жөндөөлөрүнө жараша жазышуунун көрүнүшү күйгүзүлдү. Муну жөндөөлөрдөн өзгөртсөңүз болот.</string>
     <string name="account_settings_data_usage">Дайындардын колдонулушу</string>
     <string name="account_settings_description_label">Каттоо эсебинин аталышы</string>
     <string name="account_settings_edit_quick_responses_label">Ыкчам жооптор</string>
@@ -819,6 +824,7 @@
     <string name="gmailify_updating_password_title">Сырсөзүңүз жаңыртылууда...</string>
     <string name="google_play_logo">Google Play Дүкөнүнө өтүү</string>
     <string name="google_terms_of_service">Google Тейлөө шарттары</string>
+    <string name="got_it_option">Түшүндүм</string>
     <string name="has_malware_website_links">Шектүү кат. Анда кесепеттүү сайттардын шилтемелери камтылган.</string>
     <string name="hats_survey_promo_action_text">Сурамжылоого өтүү</string>
     <string name="hats_survey_promo_text">"Gmail'ди жакшыртууга жардам бериңиз"</string>
@@ -842,6 +848,7 @@
     <string name="icr_declined">%1$s бул иш-чарадан &lt;b>баш тартты&lt;/b>.</string>
     <string name="icr_empty_title">(аталышы жок)</string>
     <string name="icr_hide_original">Түпнуска билдирүүнү жашыруу</string>
+    <string name="icr_loading_error_msg">Иш-чаралар дайындары жүктөлбөй жатат.</string>
     <string name="icr_location_description">Жайгашкан жер</string>
     <string name="icr_organizer">(уюштургуч)</string>
     <string name="icr_responded_maybe">Мүмкүн деди</string>
@@ -851,6 +858,8 @@
     <string name="icr_show_original">Түпнуска билдирүүнү көрсөтүү</string>
     <string name="icr_tentative">%1$s бул иш-чараны &lt;b>алдын ала кабыл алды&lt;/b>.</string>
     <string name="icr_time_description">Күн маалыматы</string>
+    <string name="icr_view_details">Кеңири маалымат</string>
+    <string name="icr_warning_description">Эскертүү</string>
     <string name="image_attached">Сүрөт тиркелди</string>
     <string name="imap_name">Жеке (IMAP)</string>
     <string name="important_inbox_section_title">Келген каттардын \"Маанилүүлөр\" бөлүмү</string>
@@ -1034,7 +1043,7 @@
     <string name="notification_label_description_priority_inbox_all_mail">Келген каттар кутусу</string>
     <string name="notification_label_description_starred">Белгиленгендер</string>
     <string name="notification_level_all">Бардык жаңы каттар</string>
-    <string name="notification_level_important">Маанилүүлөр гана</string>
+    <string name="notification_level_important">\"Маанилүүлөр\" бөлүмү гана</string>
     <string name="notification_level_none">Жок</string>
     <string name="notification_sender_line_snoozed">Кийинкиге калтырылды: %1$s</string>
     <string name="notifications_category">Эскертмелер</string>
@@ -1193,7 +1202,7 @@
     <string name="preferences_nudge_section_outbound_summary">Көзөмөлдөнө турган жөнөтүлгөн электрондук каттар \"Келген каттар\" кутусунун башында көрсөтүлөт</string>
     <string name="preferences_nudge_section_outbound_title">Көзөмөлдөнө турган электрондук каттар сунушталсын</string>
     <string name="preferences_nudging_title">Жооп берип, көзөмөлдөңүз</string>
-    <string name="preferences_priority_inbox_notification_level_title">Эскертмелер деңгээли</string>
+    <string name="preferences_priority_inbox_notification_level_title">\"Келген каттар\" кутусунун бөлүмдөрүнө кабарлоо</string>
     <string name="preferences_ringtone_title">Үн чыгаруу</string>
     <string name="preferences_signature_dialog_title">Колтамга</string>
     <string name="preferences_signature_summary_not_set">Коюлган эмес</string>
@@ -1328,7 +1337,7 @@
     <string name="server_error_certificate_error">Коопсуз туташуу орнотулбай койду.</string>
     <string name="server_error_login_limit_exceeded">Өтө көп жаңыланды. Бир аздан кийин кайталап көрүңүз.</string>
     <string name="server_error_nonexistent_folder">Суралган папка табылган жок.</string>
-    <string name="server_error_too_many_requests">Өтүнүчтөр өтө көп. Сервердин чектеринен ашып кетти</string>
+    <string name="server_error_too_many_requests">Өтө көп жаңыланды. Бир аздан кийин кайталап көрүңүз.</string>
     <string name="set_priority">Артыкчылыгын белгилөө</string>
     <string name="settings">Жөндөөлөр</string>
     <string name="settings_number_of_days">Почтаны шайкештирүү күндөрү</string>
@@ -1488,6 +1497,7 @@
     <string name="too_large_to_attach_multiple">Бир же бир нече файл тиркелген жок. Файлдын көлөмү %1$s ашпашы керек.</string>
     <string name="too_large_to_attach_single">Тиркеле турган файлдын көлөмү %1$s ашпаш керек.</string>
     <string name="trash_folder_selection_title">%s серврд таштанды папксн тандңз</string>
+    <string name="trashed_message_indicator">Бул билдирүү жок кылынды</string>
     <string name="turn_auto_sync_on_dialog_body">"Gmail'де гана эмес, бардык колдонмолордо жана каттоо эсептеринде жасалган өзгөртүүлөр желе интерфейси, башка түзмөктөрүңүз жана %1$s планшетиңиздин ортолорунда шайкештирилет."</string>
     <string name="turn_auto_sync_on_dialog_confirm_btn">Күйгүзүү</string>
     <string name="turn_auto_sync_on_dialog_title">Авто-шайкештирүү күйгүзүлсүнбү?</string>

@@ -39,6 +39,9 @@
     <string name="account_management_need_to_set_up_new_work_account">Teie uus töökonto tuleb seadistada.</string>
     <string name="account_management_new_work_account_line_item">Seadistage see konto</string>
     <string name="account_management_set_up_new_account_title">Uus töökonto</string>
+    <string name="account_notification_level_all">Kõik</string>
+    <string name="account_notification_level_high_priority">Ainult väga tähtsad</string>
+    <string name="account_notification_level_none">Mitte ükski</string>
     <string name="account_security_dialog_content_fmt">Oma konto &lt;%s> kasutamiseks peate oma seadmes värskendama turvaseadeid. Lisateabe saamiseks võtke ühendust administraatoriga.</string>
     <string name="account_security_dialog_ok">Värskenda kohe</string>
     <string name="account_security_policy_explanation_fmt">Server %s nõuab teie Android-seadme mõne turvafunktsiooni kaugjuhtimise lubamist.</string>
@@ -51,6 +54,8 @@
     <string name="account_settings_conversation_view_progress_dialog_message">Konto seadete värskendamine …</string>
     <string name="account_settings_conversation_view_summary">Grupeerib sama teemaga meilid kokku. Selle seade rakendumiseks võib kuluda veidi aega.</string>
     <string name="account_settings_conversation_view_title">Meilivestluse vaade</string>
+    <string name="account_settings_conversation_view_turned_off_dialog_message">Meilivestluse vaade on välja lülitatud, et vastata teie kontoseadetele. Seda saab muuta seadetes.</string>
+    <string name="account_settings_conversation_view_turned_on_dialog_message">Meilivestluse vaade on sisse lülitatud, et vastata teie kontoseadetele. Seda saab muuta seadetes.</string>
     <string name="account_settings_data_usage">Andmekasutus</string>
     <string name="account_settings_description_label">Konto nimi</string>
     <string name="account_settings_edit_quick_responses_label">Kiirvastused</string>
@@ -822,6 +827,7 @@
     <string name="gmailify_updating_password_title">Parooli värskendamine …</string>
     <string name="google_play_logo">Minge Google Play poodi</string>
     <string name="google_terms_of_service">"Google'i teenusetingimused"</string>
+    <string name="got_it_option">Selge</string>
     <string name="has_malware_website_links">Olge selle kirjaga ettevaatlik. See sisaldab pahavara hostivate veebisaitide linke.</string>
     <string name="hats_survey_promo_action_text">Täitke meie küsitlus</string>
     <string name="hats_survey_promo_text">Aidake meil Gmaili täiustada</string>
@@ -845,6 +851,7 @@
     <string name="icr_declined">%1$s &lt;b>keeldus&lt;/b> kutsest sellele sündmusele.</string>
     <string name="icr_empty_title">(pealkiri puudub)</string>
     <string name="icr_hide_original">Peida algne kiri</string>
+    <string name="icr_loading_error_msg">Sündmuse andmete laadimine ebaõnnestus.</string>
     <string name="icr_location_description">Asukoht</string>
     <string name="icr_organizer">(korraldaja)</string>
     <string name="icr_responded_maybe">Vastati kõhklevalt</string>
@@ -854,6 +861,8 @@
     <string name="icr_show_original">Kuva algne kiri</string>
     <string name="icr_tentative">%1$s &lt;b>võttis ebalevalt vastu&lt;/b> kutse sündmusele.</string>
     <string name="icr_time_description">Kuupäevateave</string>
+    <string name="icr_view_details">Kuva üksikasjad</string>
+    <string name="icr_warning_description">Hoiatus</string>
     <string name="image_attached">Kujutis on manustatud</string>
     <string name="imap_name">Isiklik (IMAP)</string>
     <string name="important_inbox_section_title">Postkasti jaotis Tähtis</string>
@@ -1036,7 +1045,7 @@
     <string name="notification_label_description_priority_inbox_all_mail">Postkast</string>
     <string name="notification_label_description_starred">Tärniga tähistatud</string>
     <string name="notification_level_all">Kõik uued kirjad</string>
-    <string name="notification_level_important">Ainult tähtsad</string>
+    <string name="notification_level_important">Ainult jaotis Tähtis</string>
     <string name="notification_level_none">Mitte ükski</string>
     <string name="notification_sender_line_snoozed">Edasi lükatud: %1$s</string>
     <string name="notifications_category">Märguanded</string>
@@ -1196,7 +1205,7 @@ Kas soovite konto märguanded sisse lülitada?"</string>
     <string name="preferences_nudge_section_outbound_summary">Saadetud meilid, millega peate võib-olla veel tegelema, kuvatakse postkasti ülaosas</string>
     <string name="preferences_nudge_section_outbound_title">Tegevust vajavate meilide soovitamine</string>
     <string name="preferences_nudging_title">Vastamine ja järeltegevused</string>
-    <string name="preferences_priority_inbox_notification_level_title">Märguannete tase</string>
+    <string name="preferences_priority_inbox_notification_level_title">Teavitamine postkasti jaotiste puhul</string>
     <string name="preferences_ringtone_title">Heli</string>
     <string name="preferences_signature_dialog_title">Allkiri</string>
     <string name="preferences_signature_summary_not_set">Määramata</string>
@@ -1368,7 +1377,7 @@ Puudutage sisselülitamiseks."</string>
     <string name="server_error_certificate_error">Ühenduse turvaliseks muutmisel ilmnes probleem.</string>
     <string name="server_error_login_limit_exceeded">Liiga palju värskendusi. Proovige hiljem uuesti.</string>
     <string name="server_error_nonexistent_folder">Taotletud kausta ei leitud.</string>
-    <string name="server_error_too_many_requests">Liiga palju taotlusi. Serveri kasutuspiirangud on ületatud</string>
+    <string name="server_error_too_many_requests">Liiga palju värskendusi. Proovige hiljem uuesti.</string>
     <string name="set_priority">Määra prioriteet</string>
     <string name="settings">Seaded</string>
     <string name="settings_number_of_days">Sünkroonitava e-posti päevade arv</string>
@@ -1529,6 +1538,7 @@ Puudutage sisselülitamiseks."</string>
     <string name="too_large_to_attach_multiple">Üht või mitut faili ei manustatud. Limiit %1$s.</string>
     <string name="too_large_to_attach_single">Ei saa manustada faile, mis ületavad mahu %1$s.</string>
     <string name="trash_folder_selection_title">Valige konto %s jaoks serveri prügikasti kaust</string>
+    <string name="trashed_message_indicator">See kiri on kustutatud</string>
     <string name="turn_auto_sync_on_dialog_body">Kõikides rakendustes ja kontodel (mitte ainult Gmailis) tehtud muudatused sünkroonitakse veebi, teiste seadmete ja seadmega %1$s.</string>
     <string name="turn_auto_sync_on_dialog_confirm_btn">Lülita sisse</string>
     <string name="turn_auto_sync_on_dialog_title">Kas lülitada automaatne sünkroonimine sisse?</string>

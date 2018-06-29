@@ -32,6 +32,9 @@
     <string name="account_management_need_to_set_up_new_work_account">Ձեր աշխատանքային հաշիվը կարգավորման կարիք ունի:</string>
     <string name="account_management_new_work_account_line_item">Կարգավորեք այս հաշիվը</string>
     <string name="account_management_set_up_new_account_title">Նոր աշխատանքային հաշիվ</string>
+    <string name="account_notification_level_all">Ցանկացած նամակ ստանալիս</string>
+    <string name="account_notification_level_high_priority">Միայն կարևոր նամակների դեպքում</string>
+    <string name="account_notification_level_none">Ոչ մի ծանուցում</string>
     <string name="account_security_dialog_content_fmt">Թարմացրեք սարքի անվտանգության կարգավորումները, որպեսզի կարողանաք օգտագործել &lt;%s> հաշիվը: Լրացուցիչ տեղեկությունների համար դիմեք ձեր ադմինիստրատորին:</string>
     <string name="account_security_dialog_ok">Թարմացնել</string>
     <string name="account_security_policy_explanation_fmt">%s սերվերը պահանջում է, որ իրեն թույլատրեք հեռակա կերպով կառավարել ձեր Android սարքի.անվտանգության որոշ գործառույթներ:</string>
@@ -44,6 +47,8 @@
     <string name="account_settings_conversation_view_progress_dialog_message">Հաշվի կարգավորումների թարմացում…</string>
     <string name="account_settings_conversation_view_summary">Խմբավորել նույն թեմայով նամակները: Կարող է որոշ ժամանակ պահանջվել, մինչև որ այս կարգավորումը գործի:</string>
     <string name="account_settings_conversation_view_title">Խոսակցությունների տեսքով</string>
+    <string name="account_settings_conversation_view_turned_off_dialog_message">Խոսակցության դիտակերպն անջատվել է՝ համաձայն ձեր հաշվի կարգավորումների: Սա կարող եք փոխել կարգավորումներում:</string>
+    <string name="account_settings_conversation_view_turned_on_dialog_message">Խոսակցության դիտակերպը միացվել է՝ համաձայն ձեր հաշվի կարգավորումների: Սա կարող եք փոխել կարգավորումներում:</string>
     <string name="account_settings_data_usage">Տվյալների օգտագործում</string>
     <string name="account_settings_description_label">Հաշվի անունը</string>
     <string name="account_settings_edit_quick_responses_label">Արագ պատասխաններ</string>
@@ -822,6 +827,7 @@
     <string name="gmailify_updating_password_title">Գաղտնաբառը թարմացվում է…</string>
     <string name="google_play_logo">Անցնել Google Play Խանութ</string>
     <string name="google_terms_of_service">Google-ի օգտագործման պայմաններ</string>
+    <string name="got_it_option">Եղավ</string>
     <string name="has_malware_website_links">Զգուշացեք այս հաղորդագրությունից: Հաղորդագրության մեջ առկա են վնասաբեր ծրագրեր պարունակող կայքերի հղումներ:</string>
     <string name="hats_survey_promo_action_text">Մասնակցել հարցմանը</string>
     <string name="hats_survey_promo_text">Օգնեք մեզ բարելավել Gmail-ը</string>
@@ -845,6 +851,7 @@
     <string name="icr_declined">%1$s օգտատերը &lt;b>մերժել է&lt;/b> այս միջոցառման հրավերը:</string>
     <string name="icr_empty_title">(անվերնագիր)</string>
     <string name="icr_hide_original">Թաքցնել սկզբնական հաղորդագրությունը</string>
+    <string name="icr_loading_error_msg">Չհաջողվեց բեռնել միջոցառման տվյալները:</string>
     <string name="icr_location_description">Վայրը</string>
     <string name="icr_organizer">(կազմակերպիչ)</string>
     <string name="icr_responded_maybe">Պատասխանել եք «միգուցե»</string>
@@ -854,6 +861,8 @@
     <string name="icr_show_original">Ցույց տալ սկզբնական հաղորդագրությունը</string>
     <string name="icr_tentative">%1$s օգտատերը &lt;b>պայմանականորեն ընդունել է&lt;/b> հրավերը:</string>
     <string name="icr_time_description">Ամսաթվի վերաբերյալ տեղեկություններ</string>
+    <string name="icr_view_details">Տեսնել մանրամասները</string>
+    <string name="icr_warning_description">Զգուշացում</string>
     <string name="image_attached">Պատկերը կցվեց</string>
     <string name="imap_name">Անձնական (IMAP)</string>
     <string name="important_inbox_section_title">Մուտքի արկղի «Կարևոր» բաժին</string>
@@ -1038,7 +1047,7 @@
     <string name="notification_label_description_priority_inbox_all_mail">Մուտքի արկղ</string>
     <string name="notification_label_description_starred">Աստղանշված</string>
     <string name="notification_level_all">Բոլոր նոր նամակները</string>
-    <string name="notification_level_important">Միայն կարևորները</string>
+    <string name="notification_level_important">Միայն «Կարևոր» բաժինը</string>
     <string name="notification_level_none">Չկա</string>
     <string name="notification_sender_line_snoozed">Հետաձգված է՝ %1$s</string>
     <string name="notifications_category">Ծանուցումներ</string>
@@ -1197,7 +1206,7 @@
     <string name="preferences_nudge_section_outbound_summary">Ուղարկված նամակները, որոնց անհրաժեշտ է հետևել, կհայտնվեն մուտքի արկղի վերևի հատվածում</string>
     <string name="preferences_nudge_section_outbound_title">Հիշեցնել նամակների մասին, որոնց պատասխան չեք ստացել</string>
     <string name="preferences_nudging_title">Պատասխանել և հետևել</string>
-    <string name="preferences_priority_inbox_notification_level_title">Ծանուցման մակարդակը</string>
+    <string name="preferences_priority_inbox_notification_level_title">Ծանուցել մուտքի արկղի բաժինների նամակների համար</string>
     <string name="preferences_ringtone_title">Ձայն</string>
     <string name="preferences_signature_dialog_title">Ստորագրություն</string>
     <string name="preferences_signature_summary_not_set">Նախադրված չէ</string>
@@ -1371,7 +1380,7 @@
     <string name="server_error_certificate_error">Անվտանգ կապակցում ապահովելիս սխալ տեղի ունեցավ:</string>
     <string name="server_error_login_limit_exceeded">Չափից շատ թարմացումներ: Քիչ հետո կրկին փորձեք:</string>
     <string name="server_error_nonexistent_folder">Հարցված պանակը չի հայտնաբերվել:</string>
-    <string name="server_error_too_many_requests">Չափազանց շատ հարցումներ են արվել: Սերվերի սահմանաչափը գերազանցվել է:</string>
+    <string name="server_error_too_many_requests">Չափից շատ թարմացումներ է կատարվել: Փորձեք ավելի ուշ:</string>
     <string name="set_priority">Նշել առաջնահերթությունը</string>
     <string name="settings">Կարգավորումներ</string>
     <string name="settings_number_of_days">Փոստի համաժամեցման օրեր</string>
@@ -1532,6 +1541,7 @@
     <string name="too_large_to_attach_multiple">Մեկ կամ ավելի ֆայլեր չեն կցվել: Սահմանաչափ՝ %1$s:</string>
     <string name="too_large_to_attach_single">Հնարավոր չէ կցել %1$s-ը գերազանցող ֆայլ:</string>
     <string name="trash_folder_selection_title">%s՝ ընտրեք աղբի պանակը</string>
+    <string name="trashed_message_indicator">Այս նամակը հեռացվել է</string>
     <string name="turn_auto_sync_on_dialog_body">Ոչ միայն Gmail-ում, այլև մյուս բոլոր հավելվածներում և հաշիվներում ձեր կատարած փոփոխությունները կհամաժամեցվեն վեբ միջերեսի, ձեր մյուս սարքերի և %1$s-ի միջև:</string>
     <string name="turn_auto_sync_on_dialog_confirm_btn">Միացնել</string>
     <string name="turn_auto_sync_on_dialog_title">Միացնե՞լ ինքնահամաժամեցումը:</string>

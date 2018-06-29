@@ -33,6 +33,9 @@
     <string name="account_management_need_to_set_up_new_work_account">新しい仕事用アカウントを設定する必要があります。</string>
     <string name="account_management_new_work_account_line_item">このアカウントを設定してください</string>
     <string name="account_management_set_up_new_account_title">新しい仕事用アカウント</string>
+    <string name="account_notification_level_all">すべて</string>
+    <string name="account_notification_level_high_priority">高優先度のみ</string>
+    <string name="account_notification_level_none">なし</string>
     <string name="account_security_dialog_content_fmt">アカウント &lt;%s> を使用するには、端末のセキュリティ設定を更新する必要があります。詳細については、管理者にお問い合わせください。</string>
     <string name="account_security_dialog_ok">今すぐ更新</string>
     <string name="account_security_policy_explanation_fmt">Android搭載端末のセキュリティ機能の一部に対するリモートコントロールをサーバー%sに許可する必要があります。</string>
@@ -45,6 +48,8 @@
     <string name="account_settings_conversation_view_progress_dialog_message">アカウント設定を更新しています…</string>
     <string name="account_settings_conversation_view_summary">メールをトピックごとにグループ化します。この設定が適用されるまでに時間がかかることがあります</string>
     <string name="account_settings_conversation_view_title">スレッド表示</string>
+    <string name="account_settings_conversation_view_turned_off_dialog_message">アカウント設定に合わせて、スレッド表示をオフにしました。設定でこれを変更することができます。</string>
+    <string name="account_settings_conversation_view_turned_on_dialog_message">アカウント設定に合わせて、スレッド表示をオンにしました。設定でこれを変更することができます。</string>
     <string name="account_settings_data_usage">データ使用量</string>
     <string name="account_settings_description_label">アカウント名</string>
     <string name="account_settings_edit_quick_responses_label">クイック返信</string>
@@ -832,6 +837,7 @@
     <string name="gmailify_updating_password_title">パスワードの更新中…</string>
     <string name="google_play_logo">Google Playストアに移動</string>
     <string name="google_terms_of_service">Google 利用規約</string>
+    <string name="got_it_option">OK</string>
     <string name="has_malware_website_links">このメールにはご注意ください。不正なソフトウェアをホストするウェブサイトへのリンクが含まれています。</string>
     <string name="hats_survey_promo_action_text">アンケートに答える</string>
     <string name="hats_survey_promo_text">Gmail の改善にご協力ください</string>
@@ -856,6 +862,7 @@
     <string name="icr_declined">%1$s さんがこの予定を&lt;b>辞退&lt;/b>しました。</string>
     <string name="icr_empty_title">（タイトルなし）</string>
     <string name="icr_hide_original">元のメッセージを表示しない</string>
+    <string name="icr_loading_error_msg">予定のデータを読み込むことができません。</string>
     <string name="icr_location_description">場所</string>
     <string name="icr_organizer">（主催者）</string>
     <string name="icr_responded_maybe">「未定」と返信しました</string>
@@ -865,6 +872,8 @@
     <string name="icr_show_original">元のメッセージを表示</string>
     <string name="icr_tentative">%1$s さんがこの予定を&lt;b>仮承諾&lt;/b>しました。</string>
     <string name="icr_time_description">日付情報</string>
+    <string name="icr_view_details">詳細を表示</string>
+    <string name="icr_warning_description">警告</string>
     <string name="image_attached">画像が添付されました</string>
     <string name="imap_name">個人用（IMAP）</string>
     <string name="important_inbox_section_title">受信トレイの [重要] セクション</string>
@@ -1050,7 +1059,7 @@
     <string name="notification_label_description_priority_inbox_all_mail">受信トレイ</string>
     <string name="notification_label_description_starred">スター付き</string>
     <string name="notification_level_all">すべての新着メール</string>
-    <string name="notification_level_important">重要なメールのみ</string>
+    <string name="notification_level_important">[重要] セクションのみ</string>
     <string name="notification_level_none">通知しない</string>
     <string name="notification_sender_line_snoozed">スヌーズ中: %1$s</string>
     <string name="notifications_category">通知</string>
@@ -1211,7 +1220,7 @@
     <string name="preferences_nudge_section_outbound_summary">送信済みメールのうち、対応が必要な可能性のあるメールが受信トレイの上部に表示されます</string>
     <string name="preferences_nudge_section_outbound_title">フォローアップするメールを提案</string>
     <string name="preferences_nudging_title">返信とフォローアップ</string>
-    <string name="preferences_priority_inbox_notification_level_title">通知レベル</string>
+    <string name="preferences_priority_inbox_notification_level_title">[受信トレイ] セクションの通知</string>
     <string name="preferences_ringtone_title">音</string>
     <string name="preferences_signature_dialog_title">署名</string>
     <string name="preferences_signature_summary_not_set">未設定</string>
@@ -1386,7 +1395,7 @@
     <string name="server_error_certificate_error">接続の保護中に問題が発生しました。</string>
     <string name="server_error_login_limit_exceeded">更新回数が多すぎます。しばらくしてからもう一度お試しください。</string>
     <string name="server_error_nonexistent_folder">リクエストされたフォルダが見つかりませんでした。</string>
-    <string name="server_error_too_many_requests">リクエストが多すぎます。サーバーの利用制限を超えました。</string>
+    <string name="server_error_too_many_requests">更新回数が多すぎます。しばらくしてからもう一度お試しください。</string>
     <string name="set_priority">優先度を設定</string>
     <string name="settings">設定</string>
     <string name="settings_number_of_days">同期するメールの日数</string>
@@ -1547,6 +1556,7 @@
     <string name="too_large_to_attach_multiple">ファイルが添付されません。上限は%1$sです。</string>
     <string name="too_large_to_attach_single">%1$sを超えるファイルは添付できません。</string>
     <string name="trash_folder_selection_title">%sのサーバーのゴミ箱フォルダを選択</string>
+    <string name="trashed_message_indicator">このメッセージは削除されました</string>
     <string name="turn_auto_sync_on_dialog_body">Gmailだけでなく、すべてのアプリとアカウントへの変更は、ウェブ、その他の端末、お使いの%1$sの間で同期されます。</string>
     <string name="turn_auto_sync_on_dialog_confirm_btn">オンにする</string>
     <string name="turn_auto_sync_on_dialog_title">自動同期をオンにしますか？</string>

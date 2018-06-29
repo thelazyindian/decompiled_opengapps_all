@@ -35,6 +35,9 @@
     <string name="account_management_need_to_set_up_new_work_account">Be kell állítania az új munkahelyi fiókját.</string>
     <string name="account_management_new_work_account_line_item">Állítsa be a fiókot,</string>
     <string name="account_management_set_up_new_account_title">Új munkahelyi fiók</string>
+    <string name="account_notification_level_all">Mind</string>
+    <string name="account_notification_level_high_priority">Csak fontos</string>
+    <string name="account_notification_level_none">Nincs</string>
     <string name="account_security_dialog_content_fmt">A fiókja &lt;%s> használatához frissíteni kell a biztonsági beállításokat az eszközön. További információért forduljon a rendszergazdához.</string>
     <string name="account_security_dialog_ok">Frissítés most</string>
     <string name="account_security_policy_explanation_fmt">A(z) %s szerver engedélyt kér arra, hogy távolról vezérelhesse az Android-eszköz egyes biztonsági funkcióit.</string>
@@ -47,6 +50,8 @@
     <string name="account_settings_conversation_view_progress_dialog_message">A fiók beállításainak frissítése…</string>
     <string name="account_settings_conversation_view_summary">Az egyező témájú e-maileket csoportosíthatja. A beállítás alkalmazása eltarthat egy ideig.</string>
     <string name="account_settings_conversation_view_title">Beszélgetési nézet</string>
+    <string name="account_settings_conversation_view_turned_off_dialog_message">A beszélgetési nézet kikapcsolt annak érdekében, hogy a megjelenés illeszkedjen a fiók beállításaihoz. Ezt a beállításokban módosíthatja.</string>
+    <string name="account_settings_conversation_view_turned_on_dialog_message">A beszélgetési nézet bekapcsolt annak érdekében, hogy a megjelenés illeszkedjen a fiók beállításaihoz. Ezt a beállításokban módosíthatja.</string>
     <string name="account_settings_data_usage">Adathasználat</string>
     <string name="account_settings_description_label">Fióknév</string>
     <string name="account_settings_edit_quick_responses_label">Gyors válaszok</string>
@@ -827,6 +832,7 @@
     <string name="gmailify_updating_password_title">A jelszó frissítése…</string>
     <string name="google_play_logo">A Google Play Áruház megnyitása</string>
     <string name="google_terms_of_service">Google Általános Szerződési Feltételek</string>
+    <string name="got_it_option">Értem</string>
     <string name="has_malware_website_links">Legyen óvatos ezzel az üzenettel. Rosszindulatú programokat tartalmazó webhelyek linkjeit tartalmazza.</string>
     <string name="hats_survey_promo_action_text">Felmérés kitöltése</string>
     <string name="hats_survey_promo_text">Segítsen a Gmail fejlesztésében</string>
@@ -851,6 +857,7 @@
     <string name="icr_declined">%1$s &lt;b>elutasította&lt;/b> ezt az eseményt.</string>
     <string name="icr_empty_title">(nincs cím)</string>
     <string name="icr_hide_original">Eredeti üzenet elrejtése</string>
+    <string name="icr_loading_error_msg">Nem tölthetők be az eseményadatok.</string>
     <string name="icr_location_description">Hely</string>
     <string name="icr_organizer">(szervező)</string>
     <string name="icr_responded_maybe">Talánnal válaszolt</string>
@@ -860,6 +867,8 @@
     <string name="icr_show_original">Eredeti üzenet megjelenítése</string>
     <string name="icr_tentative">%1$s &lt;b>feltételesen elfogadta&lt;/b> ezt az eseményt.</string>
     <string name="icr_time_description">Dátumadatok</string>
+    <string name="icr_view_details">Részletek</string>
+    <string name="icr_warning_description">Figyelmeztetés</string>
     <string name="image_attached">Kép csatolva</string>
     <string name="imap_name">Személyes (IMAP)</string>
     <string name="important_inbox_section_title">Beérkező levelek – Fontos szakasz</string>
@@ -1202,7 +1211,7 @@ Bekapcsolja a fiókértesítéseket?"</string>
     <string name="preferences_nudge_section_outbound_summary">A beérkező levelek listájának tetején megjelennek azok az elküldött e-mailek, amelyekkel esetleg még foglalkozni kell</string>
     <string name="preferences_nudge_section_outbound_title">Teendőt igénylő e-mailek javaslása</string>
     <string name="preferences_nudging_title">Válasz és emlékeztető</string>
-    <string name="preferences_priority_inbox_notification_level_title">Értesítési szint</string>
+    <string name="preferences_priority_inbox_notification_level_title">A Beérkező levelek szakaszainak értesítései</string>
     <string name="preferences_ringtone_title">Hang</string>
     <string name="preferences_signature_dialog_title">Aláírás</string>
     <string name="preferences_signature_summary_not_set">Nincs megadva</string>
@@ -1378,7 +1387,7 @@ Koppintson a bekapcsoláshoz."</string>
     <string name="server_error_certificate_error">Hiba történt a kapcsolat biztonságossá tételekor.</string>
     <string name="server_error_login_limit_exceeded">Túl sok frissítés. Kérjük, később próbálkozzon újra.</string>
     <string name="server_error_nonexistent_folder">A kért mappa nem található.</string>
-    <string name="server_error_too_many_requests">Túl sok kérelem. Túllépte a szerver visszaélési korlátait.</string>
+    <string name="server_error_too_many_requests">Túl sokszor frissített. Próbálkozzon újra később.</string>
     <string name="set_priority">Prioritás beállítása</string>
     <string name="settings">Beállítások</string>
     <string name="settings_number_of_days">Ennyi nap leveleinek szinkronizálása</string>
@@ -1540,6 +1549,7 @@ Koppintson a bekapcsoláshoz."</string>
     <string name="too_large_to_attach_multiple">Egy vagy több fájl nem lett csatolva. A korlát %1$s.</string>
     <string name="too_large_to_attach_single">Nem lehet nagyobb fájlt csatolni, mint %1$s.</string>
     <string name="trash_folder_selection_title">Szerver Kuka mappájának kiválasztása – %s</string>
+    <string name="trashed_message_indicator">Ezt az üzenetet törölték</string>
     <string name="turn_auto_sync_on_dialog_body">Az összes alkalmazásban és fiókban (nem csak a Gmailben) végrehajtott módosítások szinkronizálva lesznek az internet, az egyéb eszközök és a %1$s között.</string>
     <string name="turn_auto_sync_on_dialog_confirm_btn">Bekapcsolás</string>
     <string name="turn_auto_sync_on_dialog_title">Bekapcsolja az automatikus szinkronizálást?</string>

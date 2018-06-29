@@ -36,6 +36,9 @@
     <string name="account_management_need_to_set_up_new_work_account">您需要设置新的工作帐号。</string>
     <string name="account_management_new_work_account_line_item">设置此帐号</string>
     <string name="account_management_set_up_new_account_title">新工作帐号</string>
+    <string name="account_notification_level_all">全部</string>
+    <string name="account_notification_level_high_priority">仅限优先事项</string>
+    <string name="account_notification_level_none">无</string>
     <string name="account_security_dialog_content_fmt">要使用帐号“&lt;%s>”，您必须更新设备上的安全设置。请与您的管理员联系，以了解详情。</string>
     <string name="account_security_dialog_ok">立即更新</string>
     <string name="account_security_policy_explanation_fmt">服务器“%s”要求您允许其远程控制您 Android 设备的某些安全功能。</string>
@@ -48,6 +51,8 @@
     <string name="account_settings_conversation_view_progress_dialog_message">正在更新帐号设置…</string>
     <string name="account_settings_conversation_view_summary">将同一主题的电子邮件归为一组。系统可能需要一段时间才能应用此设置</string>
     <string name="account_settings_conversation_view_title">会话视图</string>
+    <string name="account_settings_conversation_view_turned_off_dialog_message">系统已根据您的帐号设置停用会话视图。您可以在设置中进行更改。</string>
+    <string name="account_settings_conversation_view_turned_on_dialog_message">系统已根据您的帐号设置启用会话视图。您可以在设置中进行更改。</string>
     <string name="account_settings_data_usage">流量使用情况</string>
     <string name="account_settings_description_label">帐号名称</string>
     <string name="account_settings_edit_quick_responses_label">快速回复</string>
@@ -837,6 +842,7 @@
     <string name="gmailify_updating_password_title">正在更新密码…</string>
     <string name="google_play_logo">前往 Google Play 商店</string>
     <string name="google_terms_of_service">Google 服务条款</string>
+    <string name="got_it_option">知道了</string>
     <string name="has_malware_website_links">请谨慎对待此邮件。因为其中包含托管恶意软件的网站链接。</string>
     <string name="hats_survey_promo_action_text">参与我们的调查</string>
     <string name="hats_survey_promo_text">帮助我们改进 Gmail</string>
@@ -861,6 +867,7 @@
     <string name="icr_declined">%1$s已&lt;b>拒绝&lt;/b>此活动。</string>
     <string name="icr_empty_title">（无标题）</string>
     <string name="icr_hide_original">隐藏原始邮件</string>
+    <string name="icr_loading_error_msg">无法加载活动数据。</string>
     <string name="icr_location_description">地点</string>
     <string name="icr_organizer">（组织者）</string>
     <string name="icr_organizer_fmt">^1^2</string>
@@ -871,6 +878,8 @@
     <string name="icr_show_original">显示原始邮件</string>
     <string name="icr_tentative">%1$s已&lt;b>暂时接受&lt;/b>此活动。</string>
     <string name="icr_time_description">日期信息</string>
+    <string name="icr_view_details">查看详情</string>
+    <string name="icr_warning_description">警告</string>
     <string name="image_attached">已附加图片</string>
     <string name="imap_name">个人 (IMAP)</string>
     <string name="important_inbox_section_title">收件箱“重要邮件”部分</string>
@@ -1055,7 +1064,7 @@
     <string name="notification_label_description_priority_inbox_all_mail">收件箱</string>
     <string name="notification_label_description_starred">已加星标</string>
     <string name="notification_level_all">所有新邮件</string>
-    <string name="notification_level_important">仅重要邮件</string>
+    <string name="notification_level_important">仅“重要邮件”部分</string>
     <string name="notification_level_none">无</string>
     <string name="notification_sender_line_snoozed">已延后：%1$s</string>
     <string name="notifications_category">通知</string>
@@ -1216,7 +1225,7 @@
     <string name="preferences_nudge_section_outbound_summary">可能需要后续跟进的已发电子邮件会显示在您的收件箱顶部</string>
     <string name="preferences_nudge_section_outbound_title">建议要后续跟进的电子邮件</string>
     <string name="preferences_nudging_title">回复和后续跟进</string>
-    <string name="preferences_priority_inbox_notification_level_title">通知等级</string>
+    <string name="preferences_priority_inbox_notification_level_title">针对收件箱部分的通知</string>
     <string name="preferences_ringtone_title">提示音</string>
     <string name="preferences_signature_dialog_title">签名</string>
     <string name="preferences_signature_summary_not_set">未设置</string>
@@ -1391,7 +1400,7 @@
     <string name="server_error_certificate_error">建立安全连接时出现问题。</string>
     <string name="server_error_login_limit_exceeded">刷新次数过多，请稍后再试。</string>
     <string name="server_error_nonexistent_folder">找不到请求的文件夹。</string>
-    <string name="server_error_too_many_requests">请求过多，已超过服务器滥用行为上限</string>
+    <string name="server_error_too_many_requests">刷新次数过多，请稍后再试。</string>
     <string name="set_priority">设置优先级</string>
     <string name="settings">设置</string>
     <string name="settings_number_of_days">同步最近多少天的邮件</string>
@@ -1554,6 +1563,7 @@
     <string name="too_large_to_attach_multiple">未能添加一个或多个附件。上限为 %1$s。</string>
     <string name="too_large_to_attach_single">无法添加大小超过 %1$s 的附件。</string>
     <string name="trash_folder_selection_title">选择 %s 在服务器上的已删除邮件文件夹</string>
+    <string name="trashed_message_indicator">此邮件已被删除</string>
     <string name="turn_auto_sync_on_dialog_body">您对所有应用和帐号（不只是 Gmail）所做的更改都会在网络、您的其他设备和您的%1$s之间同步。</string>
     <string name="turn_auto_sync_on_dialog_confirm_btn">开启</string>
     <string name="turn_auto_sync_on_dialog_title">要开启自动同步功能吗？</string>

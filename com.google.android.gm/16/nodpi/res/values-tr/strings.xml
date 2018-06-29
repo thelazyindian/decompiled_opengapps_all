@@ -37,6 +37,9 @@
     <string name="account_management_need_to_set_up_new_work_account">Yeni iş hesabınızın ayarlanması gerekiyor.</string>
     <string name="account_management_new_work_account_line_item">Bu hesabı ayarlayın</string>
     <string name="account_management_set_up_new_account_title">Yeni iş hesabı</string>
+    <string name="account_notification_level_all">Tümü</string>
+    <string name="account_notification_level_high_priority">Yalnızca yüksek öncelikli olanlar</string>
+    <string name="account_notification_level_none">Yok</string>
     <string name="account_security_dialog_content_fmt">&lt;%s> hesabınızı kullanabilmek için cihazınızda güvenlik ayarlarını güncellemelisiniz. Daha fazla bilgi edinmek için yöneticinizle iletişime geçin.</string>
     <string name="account_security_dialog_ok">Şimdi güncelle</string>
     <string name="account_security_policy_explanation_fmt">%s sunucusu, Android telefonunuzdaki bazı güvenlik özelliklerini uzaktan denetlemesine izin vermenizi gerektiriyor.</string>
@@ -49,6 +52,8 @@
     <string name="account_settings_conversation_view_progress_dialog_message">Hesap ayarları güncelleniyor…</string>
     <string name="account_settings_conversation_view_summary">Aynı konuya sahip e-postalar bir arada gruplandırılır. Bu ayarın uygulanması biraz zaman alabilir.</string>
     <string name="account_settings_conversation_view_title">İleti dizisi görünümü</string>
+    <string name="account_settings_conversation_view_turned_off_dialog_message">İleti dizisi görünümü, hesap ayarlarınızla eşleşecek şekilde devre dışı bırakıldı. Bunu ayarlarda değiştirebilirsiniz.</string>
+    <string name="account_settings_conversation_view_turned_on_dialog_message">İleti dizisi görünümü, hesap ayarlarınızla eşleşecek şekilde etkinleştirildi. Bunu ayarlarda değiştirebilirsiniz.</string>
     <string name="account_settings_data_usage">Veri kullanımı</string>
     <string name="account_settings_description_label">Hesap adı</string>
     <string name="account_settings_edit_quick_responses_label">Hızlı yanıtlar</string>
@@ -823,6 +828,7 @@
     <string name="gmailify_updating_password_title">Şifreniz güncelleniyor…</string>
     <string name="google_play_logo">"Google Play Store'a git"</string>
     <string name="google_terms_of_service">Google Hizmet Şartları</string>
+    <string name="got_it_option">Anladım</string>
     <string name="has_malware_website_links">Bu iletiye dikkat edin. İleti, kötü amaçlı yazılım barındıran web sitelerinin bağlantılarını içeriyor.</string>
     <string name="hats_survey_promo_action_text">Anketimize katılın</string>
     <string name="hats_survey_promo_text">"Gmail'i geliştirmemize yardımcı olun"</string>
@@ -847,6 +853,7 @@
     <string name="icr_declined">%1$s bu etkinliği &lt;b>reddetti&lt;/b>.</string>
     <string name="icr_empty_title">(başlık yok)</string>
     <string name="icr_hide_original">Orijinal iletiyi gizle</string>
+    <string name="icr_loading_error_msg">Etkinlik verileri yüklenemedi.</string>
     <string name="icr_location_description">Konum</string>
     <string name="icr_organizer">(düzenleyen)</string>
     <string name="icr_responded_maybe">Belki yanıtı verildi</string>
@@ -856,6 +863,8 @@
     <string name="icr_show_original">Orijinal iletiyi göster</string>
     <string name="icr_tentative">%1$s bu etkinliği &lt;b>geçici olarak kabul etti&lt;/b>.</string>
     <string name="icr_time_description">Tarih Bilgisi</string>
+    <string name="icr_view_details">Ayrıntıları göster</string>
+    <string name="icr_warning_description">Uyarı</string>
     <string name="image_attached">Resim eklendi</string>
     <string name="imap_name">Kişisel (IMAP erişimi)</string>
     <string name="important_inbox_section_title">Gelen Kutusu Önemli bölümü</string>
@@ -1038,7 +1047,7 @@
     <string name="notification_label_description_priority_inbox_all_mail">Gelen kutusu</string>
     <string name="notification_label_description_starred">Yıldızlı</string>
     <string name="notification_level_all">Tüm yeni postalar</string>
-    <string name="notification_level_important">Yalnızca önemli olanlar</string>
+    <string name="notification_level_important">Yalnızca Önemli bölümü</string>
     <string name="notification_level_none">Yok</string>
     <string name="notification_sender_line_snoozed">Ertelendi: %1$s</string>
     <string name="notifications_category">Bildirimler</string>
@@ -1146,7 +1155,7 @@
     <string name="preference_sender_image_title">Gönderen resmi</string>
     <string name="preference_show_images_title">Resimler</string>
     <string name="preference_swipe_description">İleti dizisi listesinde</string>
-    <string name="preference_swipe_title">Hızlıca kaydırma işlemleri</string>
+    <string name="preference_swipe_title">Kaydırma işlemleri</string>
     <string name="preferences_conversation_mode_summary">İletileri ekrana sığacak şekilde küçült</string>
     <string name="preferences_conversation_mode_title">İletileri otomatik sığdır</string>
     <string name="preferences_default_reply_action_title">Varsayılan yanıtlama işlemi</string>
@@ -1199,7 +1208,7 @@ Hesap bildirimleri etkinleştirilsin mi?"</string>
     <string name="preferences_nudge_section_outbound_summary">Gönderdiğiniz, takip etmeniz gerekebilecek e-postalar gelen kutunuzun üst kısmında görünür</string>
     <string name="preferences_nudge_section_outbound_title">Takip edilecek e-postalar için öneri göster</string>
     <string name="preferences_nudging_title">Yanıtlama ve takip</string>
-    <string name="preferences_priority_inbox_notification_level_title">Bildirim düzeyi</string>
+    <string name="preferences_priority_inbox_notification_level_title">Gelen kutusu bölümleri için bildirimde bulun</string>
     <string name="preferences_ringtone_title">Ses</string>
     <string name="preferences_signature_dialog_title">İmza</string>
     <string name="preferences_signature_summary_not_set">Ayarlanmadı</string>
@@ -1373,7 +1382,7 @@ Açmak için hafifçe dokunun."</string>
     <string name="server_error_certificate_error">Bağlantının güvenliği sağlanmaya çalışılırken bir sorun oluştu.</string>
     <string name="server_error_login_limit_exceeded">Çok fazla sayıda yenileme yapıldı. Lütfen daha sonra tekrar deneyin.</string>
     <string name="server_error_nonexistent_folder">İstenen klasör bulunamadı.</string>
-    <string name="server_error_too_many_requests">Çok fazla istek var. Sunucuyu kötüye kullanım sınırı aşıldı.</string>
+    <string name="server_error_too_many_requests">Çok fazla sayıda yenileme yapıldı. Lütfen daha sonra tekrar deneyin.</string>
     <string name="set_priority">Öncelik belirle</string>
     <string name="settings">Ayarlar</string>
     <string name="settings_number_of_days">Postanın senkronize edileceği gün sayısı</string>
@@ -1533,6 +1542,7 @@ Açmak için hafifçe dokunun."</string>
     <string name="too_large_to_attach_multiple">Bir veya daha fazla dosya eklenmedi. Boyut sınırı: %1$s.</string>
     <string name="too_large_to_attach_single">%1$s boyutundan büyük dosyalar eklenemez.</string>
     <string name="trash_folder_selection_title">%s sunucu çöp kut. klasörü seçin</string>
+    <string name="trashed_message_indicator">Bu ileti silindi</string>
     <string name="turn_auto_sync_on_dialog_body">Yalnızca Gmail değil, tüm uygulamalarda ve hesaplarda yaptığınız değişiklikler web ile diğer cihazlarınız ve %1$s arasında senkronize edilir.</string>
     <string name="turn_auto_sync_on_dialog_confirm_btn">Aç</string>
     <string name="turn_auto_sync_on_dialog_title">Otomatik senkronizasyon açılsın mı?</string>

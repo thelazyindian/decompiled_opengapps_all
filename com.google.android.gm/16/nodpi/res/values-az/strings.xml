@@ -34,6 +34,9 @@
     <string name="account_management_need_to_set_up_new_work_account">Yeni iş hesabınız quraşdırılmalıdır.</string>
     <string name="account_management_new_work_account_line_item">Bu hesabı quraşdırın</string>
     <string name="account_management_set_up_new_account_title">Yeni iş hesabı</string>
+    <string name="account_notification_level_all">Hamısı</string>
+    <string name="account_notification_level_high_priority">Yalnız mühüm olanlar</string>
+    <string name="account_notification_level_none">Yoxdur</string>
     <string name="account_security_dialog_content_fmt">&lt;%s> hesabınızı istifadə etmək üçün, cihazınızda təlükəsizlik ayarlarını yeniləməlisiniz. Ətraflı məlumat üçün administratorunuz ilə əlaqə saxlayın.</string>
     <string name="account_security_dialog_ok">İndi yeniləyin</string>
     <string name="account_security_policy_explanation_fmt">%s serveri Android cihazınızın bəzi təhlükəsizlik özəlliklərini uzaqdan kontrol etmək üçün icazə istəyir.</string>
@@ -46,6 +49,8 @@
     <string name="account_settings_conversation_view_progress_dialog_message">Hesab ayarları yenilənir...</string>
     <string name="account_settings_conversation_view_summary">Eyni mövzusu olan qrup e-məktubları. Bu ayarın tətbiq olunması bir az vaxt ala bilər</string>
     <string name="account_settings_conversation_view_title">Söhbət görünüşü</string>
+    <string name="account_settings_conversation_view_turned_off_dialog_message">Hesab ayarlarına uyğun olması üçün söhbət görünüşü deaktiv edilib. Bunu ayarlardan dəyişə bilərsiniz.</string>
+    <string name="account_settings_conversation_view_turned_on_dialog_message">Hesab ayarlarına uyğun olması üçün söhbət görünüşü deaktiv edilib. Bunu ayarlardan dəyişə bilərsiniz.</string>
     <string name="account_settings_data_usage">Data istifadəsi</string>
     <string name="account_settings_description_label">Hesab adı</string>
     <string name="account_settings_edit_quick_responses_label">Qısa cavablar</string>
@@ -811,6 +816,7 @@
     <string name="gmailify_updating_password_title">Parol yenilənir…</string>
     <string name="google_play_logo">Google Play Marketə gedin</string>
     <string name="google_terms_of_service">Google İstifadə Qaydaları</string>
+    <string name="got_it_option">Anladım</string>
     <string name="has_malware_website_links">Bu mesaj ilə diqqətli olun. Onun daxilində viruslu vebsaytlara aparan linklər var.</string>
     <string name="hats_survey_promo_action_text">Sorğumuza qatılın</string>
     <string name="hats_survey_promo_text">"Gmail'i təkmilləşdirməyə kömək edin"</string>
@@ -834,6 +840,7 @@
     <string name="icr_declined">%1$s bu tədbirdən &lt;b>imtina etdi&lt;/b>.</string>
     <string name="icr_empty_title">(başlıq yoxdur)</string>
     <string name="icr_hide_original">Orijinal mesajı gizlədin</string>
+    <string name="icr_loading_error_msg">Tədbir datasını yükləmək alınmadı.</string>
     <string name="icr_location_description">Məkan</string>
     <string name="icr_organizer">(təşkilatçı)</string>
     <string name="icr_responded_maybe">Bəlkə cavabı göndərildi</string>
@@ -843,6 +850,8 @@
     <string name="icr_show_original">Orijinal mesajı göstərin</string>
     <string name="icr_tentative">%1$s bu tədbiri &lt;b>şərti olaraq qəbul etdi&lt;/b>.</string>
     <string name="icr_time_description">Tarix Məlumatı</string>
+    <string name="icr_view_details">Detallara baxın</string>
+    <string name="icr_warning_description">Xəbərdarlıq</string>
     <string name="image_attached">Təsvir əlavə edildi</string>
     <string name="imap_name">Şəxsi (IMAP)</string>
     <string name="important_inbox_section_title">Gələnlər qutusunda Mühüm bölmə</string>
@@ -1023,7 +1032,7 @@
     <string name="notification_label_description_priority_inbox_all_mail">Gələnlər qutusu</string>
     <string name="notification_label_description_starred">Ulduzlu</string>
     <string name="notification_level_all">Bütün yeni e-poçtlar</string>
-    <string name="notification_level_important">Yalnız mühüm olanlar</string>
+    <string name="notification_level_important">Yalnız mühüm bölmə</string>
     <string name="notification_level_none">Heç biri</string>
     <string name="notification_sender_line_snoozed">Ertələndi: %1$s</string>
     <string name="notifications_category">Bildirişlər</string>
@@ -1182,7 +1191,7 @@ Hesab bildirişləri aktiv edilsin?"</string>
     <string name="preferences_nudge_section_outbound_summary">İzləmək üçün seçdiyiniz e-məktublar gələnlər qutusunun yuxarısında görünəcək</string>
     <string name="preferences_nudge_section_outbound_title">İzləmək üçün e-məktublar təklif edin</string>
     <string name="preferences_nudging_title">Cavab verin və izləyin</string>
-    <string name="preferences_priority_inbox_notification_level_title">Bildiriş səviyyəsi</string>
+    <string name="preferences_priority_inbox_notification_level_title">Gələnlər qutusunun bölmələri haqqında bildiriş göndərin</string>
     <string name="preferences_ringtone_title">Səs</string>
     <string name="preferences_signature_dialog_title">İmza</string>
     <string name="preferences_signature_summary_not_set">Ayarlanmayıb</string>
@@ -1355,7 +1364,7 @@ Açmaq üçün tıklayın."</string>
     <string name="server_error_certificate_error">Bağlantı təminatında problem baş verdi.</string>
     <string name="server_error_login_limit_exceeded">Həddən çox yeniləmələr var. Lütfən, daha sonra yenidən cəhd edin.</string>
     <string name="server_error_nonexistent_folder">Tələb olunan qovluq tapılmadı.</string>
-    <string name="server_error_too_many_requests">Həddindən çox sorğu var. Serverdən istifadə limitini keçib</string>
+    <string name="server_error_too_many_requests">Həddindən çox yeniləmələr var. Sonra yenidən cəhd edin.</string>
     <string name="set_priority">Prioritet edin</string>
     <string name="settings">Ayarlar</string>
     <string name="settings_number_of_days">Məktubun sinxronlaşma günləri</string>
@@ -1515,6 +1524,7 @@ Açmaq üçün tıklayın."</string>
     <string name="too_large_to_attach_multiple">Bir və ya daha çox fayl qoşulmadı. Limit %1$s.</string>
     <string name="too_large_to_attach_single">%1$s ölçüdən çox fayl qoşula bilməz.</string>
     <string name="trash_folder_selection_title">%s üçün server zibil qovluğu seçin.</string>
+    <string name="trashed_message_indicator">Bu mesaj silinib</string>
     <string name="turn_auto_sync_on_dialog_body">Sadəcə Gmail deyil, bütün tətbiqlər və hesablarda edəcəyiniz bütün dəyişikliklər veb, %1$s cihazınız və digər cihazlarınız arasında sinxronlaşdırılacaq.</string>
     <string name="turn_auto_sync_on_dialog_confirm_btn">Yandır</string>
     <string name="turn_auto_sync_on_dialog_title">Avto-sinxronizasiya yandırılsın?</string>

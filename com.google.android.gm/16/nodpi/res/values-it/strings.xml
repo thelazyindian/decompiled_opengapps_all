@@ -39,6 +39,9 @@
     <string name="account_management_need_to_set_up_new_work_account">Il tuo account di lavoro deve essere configurato.</string>
     <string name="account_management_new_work_account_line_item">Configura questo account</string>
     <string name="account_management_set_up_new_account_title">Nuovo account di lavoro</string>
+    <string name="account_notification_level_all">Tutte</string>
+    <string name="account_notification_level_high_priority">Solo priorità elevata</string>
+    <string name="account_notification_level_none">Nessuna</string>
     <string name="account_security_dialog_content_fmt">"Per utilizzare l'account &lt;%s> è necessario aggiornare le impostazioni di sicurezza del tuo dispositivo. Contatta il tuo amministratore per ulteriori informazioni."</string>
     <string name="account_security_dialog_ok">Aggiorna ora</string>
     <string name="account_security_policy_explanation_fmt">Il server %s richiede che tu consenta il controllo remoto di alcune funzionalità di sicurezza del tuo dispositivo Android.</string>
@@ -51,6 +54,8 @@
     <string name="account_settings_conversation_view_progress_dialog_message">"Aggiornamento delle impostazioni dell'account…"</string>
     <string name="account_settings_conversation_view_summary">"Raggruppa le email sullo stesso argomento. L'applicazione di questa impostazione potrebbe richiedere del tempo."</string>
     <string name="account_settings_conversation_view_title">Visualizzazione per conversazione</string>
+    <string name="account_settings_conversation_view_turned_off_dialog_message">La visualizzazione per conversazione è stata disattivata secondo le impostazioni del tuo account. Puoi modificare questa opzione nelle impostazioni.</string>
+    <string name="account_settings_conversation_view_turned_on_dialog_message">La visualizzazione per conversazione è stata attivata secondo le impostazioni del tuo account. Puoi modificare questa opzione nelle impostazioni.</string>
     <string name="account_settings_data_usage">Utilizzo dati</string>
     <string name="account_settings_description_label">Nome account</string>
     <string name="account_settings_edit_quick_responses_label">Risposte rapide</string>
@@ -814,6 +819,7 @@
     <string name="gmailify_updating_password_title">Aggiornamento password…</string>
     <string name="google_play_logo">Vai al Google Play Store</string>
     <string name="google_terms_of_service">Termini di servizio di Google</string>
+    <string name="got_it_option">OK</string>
     <string name="has_malware_website_links">Fai attenzione a questo messaggio. Contiene link a siti web con malware.</string>
     <string name="hats_survey_promo_action_text">Vai al sondaggio</string>
     <string name="hats_survey_promo_text">Aiutaci a migliorare Gmail</string>
@@ -838,6 +844,7 @@
     <string name="icr_declined">%1$s ha &lt;b>rifiutato&lt;/b> questo evento.</string>
     <string name="icr_empty_title">(senza titolo)</string>
     <string name="icr_hide_original">Nascondi messaggio originale</string>
+    <string name="icr_loading_error_msg">"Impossibile caricare i dati dell'evento."</string>
     <string name="icr_location_description">Luogo</string>
     <string name="icr_organizer">(organizzatore)</string>
     <string name="icr_responded_maybe">Hai risposto \"Forse\"</string>
@@ -847,6 +854,8 @@
     <string name="icr_show_original">Mostra messaggio originale</string>
     <string name="icr_tentative">"%1$s ha &lt;b>accettato provvisoriamente&lt;/b> l'evento."</string>
     <string name="icr_time_description">Informazioni sulla data</string>
+    <string name="icr_view_details">Mostra dettagli</string>
+    <string name="icr_warning_description">Avviso</string>
     <string name="image_attached">Immagine allegata</string>
     <string name="imap_name">Personale (IMAP)</string>
     <string name="important_inbox_section_title">Sezione \"Importanti\" Posta in arrivo</string>
@@ -1025,7 +1034,7 @@
     <string name="notification_label_description_priority_inbox_all_mail">Posta in arrivo</string>
     <string name="notification_label_description_starred">Speciali</string>
     <string name="notification_level_all">Tutti i nuovi messaggi</string>
-    <string name="notification_level_important">Solo importanti</string>
+    <string name="notification_level_important">Solo sezione \"Importanti\"</string>
     <string name="notification_level_none">Nessuno</string>
     <string name="notification_sender_line_snoozed">Posticipato: %1$s</string>
     <string name="notifications_category">Notifiche</string>
@@ -1185,7 +1194,7 @@ Attivare le notifiche account?"</string>
     <string name="preferences_nudge_section_outbound_summary">Le email inviate a cui potresti dover dare seguito verranno visualizzate nella parte superiore della Posta in arrivo.</string>
     <string name="preferences_nudge_section_outbound_title">Suggerisci email per il follow-up</string>
     <string name="preferences_nudging_title">Risposta e follow-up</string>
-    <string name="preferences_priority_inbox_notification_level_title">Livello di notifica</string>
+    <string name="preferences_priority_inbox_notification_level_title">Notifica per le sezioni della Posta in arrivo</string>
     <string name="preferences_ringtone_title">Suono di notifica</string>
     <string name="preferences_signature_dialog_title">Firma</string>
     <string name="preferences_signature_summary_not_set">Non impostata</string>
@@ -1359,7 +1368,7 @@ Tocca per attivarla."</string>
     <string name="server_error_certificate_error">Si è verificato un problema di protezione della connessione.</string>
     <string name="server_error_login_limit_exceeded">Troppi aggiornamenti. Riprova più tardi.</string>
     <string name="server_error_nonexistent_folder">La cartella richiesta non è stata trovata.</string>
-    <string name="server_error_too_many_requests">Troppe richieste. Limiti di violazione server superati</string>
+    <string name="server_error_too_many_requests">Troppi aggiornamenti. Riprova più tardi.</string>
     <string name="set_priority">Imposta priorità</string>
     <string name="settings">Impostazioni</string>
     <string name="settings_number_of_days">Giorni di posta da sincronizzare</string>
@@ -1429,8 +1438,8 @@ Tocca per attivarla."</string>
     <string name="swipe_action_pref_item_change">CAMBIA</string>
     <string name="swipe_action_pref_item_left_title">Scorri a sinistra</string>
     <string name="swipe_action_pref_item_right_title">Scorri a destra</string>
-    <string name="swipe_left_actions_dialog_title">Scorri a sinistra per</string>
-    <string name="swipe_right_actions_dialog_title">Scorri a destra per</string>
+    <string name="swipe_left_actions_dialog_title">Scorri a sinistra</string>
+    <string name="swipe_right_actions_dialog_title">Scorri a destra</string>
     <string name="sync_all">Tutte</string>
     <string name="sync_error">Sincronizzazione non riuscita.</string>
     <string name="sync_error_message">Il dispositivo non dispone di spazio sufficiente per la sincronizzazione.</string>
@@ -1520,6 +1529,7 @@ Tocca per attivarla."</string>
     <string name="too_large_to_attach_multiple">Uno o più file non allegati. Limite: %1$s.</string>
     <string name="too_large_to_attach_single">Impossibile allegare un file di dimensioni superiori a %1$s.</string>
     <string name="trash_folder_selection_title">Seleziona Cestino server (%s)</string>
+    <string name="trashed_message_indicator">Questo messaggio è stato eliminato</string>
     <string name="turn_auto_sync_on_dialog_body">Le modifiche apportate a tutti gli account (non solo Gmail) e le app verranno sincronizzate tra il Web, gli altri tuoi dispositivi e il tuo %1$s.</string>
     <string name="turn_auto_sync_on_dialog_confirm_btn">Attiva</string>
     <string name="turn_auto_sync_on_dialog_title">Attivare la sincronizzazione automatica?</string>

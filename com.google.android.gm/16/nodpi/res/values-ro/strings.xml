@@ -34,6 +34,9 @@
     <string name="account_management_need_to_set_up_new_work_account">Noul tău cont de serviciu trebuie configurat.</string>
     <string name="account_management_new_work_account_line_item">Configurează acest cont</string>
     <string name="account_management_set_up_new_account_title">Cont nou de serviciu</string>
+    <string name="account_notification_level_all">Toate</string>
+    <string name="account_notification_level_high_priority">Doar prioritate ridicată</string>
+    <string name="account_notification_level_none">Niciuna</string>
     <string name="account_security_dialog_content_fmt">Pentru a-ți folosi contul &lt;%s> trebuie să actualizezi setările de securitate pe dispozitiv. Contactează administratorul pentru mai multe informații.</string>
     <string name="account_security_dialog_ok">Actualizează</string>
     <string name="account_security_policy_explanation_fmt">Serverul %s îți solicită permisiunea de a controla de la distanță unele caracteristici de securitate ale dispozitivului Android.</string>
@@ -46,6 +49,8 @@
     <string name="account_settings_conversation_view_progress_dialog_message">Se actualizează setările contului…</string>
     <string name="account_settings_conversation_view_summary">Grupează laolaltă e-mailurile cu același subiect. Aplicarea acestei setări poate dura ceva timp.</string>
     <string name="account_settings_conversation_view_title">Afișarea de tip conversație</string>
+    <string name="account_settings_conversation_view_turned_off_dialog_message">Afișarea de tip conversație a fost dezactivată pentru a corespunde setărilor din cont. Puteți modica în setări.</string>
+    <string name="account_settings_conversation_view_turned_on_dialog_message">Afișarea de tip conversație a fost activată pentru a corespunde setărilor din cont. Puteți modifica în setări.</string>
     <string name="account_settings_data_usage">Utilizarea datelor</string>
     <string name="account_settings_description_label">Numele contului</string>
     <string name="account_settings_edit_quick_responses_label">Răspunsuri rapide</string>
@@ -806,6 +811,7 @@
     <string name="gmailify_updating_password_title">Se actualizează parola…</string>
     <string name="google_play_logo">Accesează Magazinul Google Play</string>
     <string name="google_terms_of_service">Termenii și condițiile Google</string>
+    <string name="got_it_option">Am înțeles</string>
     <string name="has_malware_website_links">Tratează cu atenție acest mesaj. Conține linkuri către site-uri care găzduiesc programe malware.</string>
     <string name="hats_survey_promo_action_text">Participă la sondaj</string>
     <string name="hats_survey_promo_text">Ajută-ne să îmbunătățim Gmail</string>
@@ -830,6 +836,7 @@
     <string name="icr_declined">%1$s a &lt;b>refuzat&lt;/b> acest eveniment.</string>
     <string name="icr_empty_title">(fără titlu)</string>
     <string name="icr_hide_original">Ascunde mesajul inițial</string>
+    <string name="icr_loading_error_msg">Nu se pot încărca datele evenimentului.</string>
     <string name="icr_location_description">Locație</string>
     <string name="icr_organizer">(organizator)</string>
     <string name="icr_responded_maybe">Ai răspuns „Poate”</string>
@@ -839,6 +846,8 @@
     <string name="icr_show_original">Afișează mesajul inițial</string>
     <string name="icr_tentative">%1$s a &lt;b>acceptat provizoriu&lt;/b> acest eveniment.</string>
     <string name="icr_time_description">Informații despre dată</string>
+    <string name="icr_view_details">Afișează detalii</string>
+    <string name="icr_warning_description">Avertisment</string>
     <string name="image_attached">Imaginea este atașată</string>
     <string name="important_inbox_section_title">Secțiunea Importante din Mesaje primite</string>
     <string name="in_bad_sender_list">De ce se află acest mesaj în Spam? Anterior, ai marcat drept spam mesajele trimise de &lt;b>%1$s&lt;/b>.</string>
@@ -1018,7 +1027,7 @@
     <string name="notification_label_description_priority_inbox_all_mail">Mesaje primite</string>
     <string name="notification_label_description_starred">Cu stea</string>
     <string name="notification_level_all">Toate e-mailurile noi</string>
-    <string name="notification_level_important">Doar cele importante</string>
+    <string name="notification_level_important">Numai secțiunea Importante</string>
     <string name="notification_level_none">Niciuna</string>
     <string name="notification_sender_line_snoozed">Amânat: %1$s</string>
     <string name="notifications_category">Notificări</string>
@@ -1177,7 +1186,7 @@ Activează notificările pentru cont?"</string>
     <string name="preferences_nudge_section_outbound_summary">E-mailurile trimise, care probabil vor necesita atenție pe viitor, se afișează în partea de sus a mesajelor primite.</string>
     <string name="preferences_nudge_section_outbound_title">Sugerează e-mailuri care necesită atenție</string>
     <string name="preferences_nudging_title">Răspunde</string>
-    <string name="preferences_priority_inbox_notification_level_title">Nivel de notificare</string>
+    <string name="preferences_priority_inbox_notification_level_title">Notificare pentru secțiunile de mesaje primite</string>
     <string name="preferences_ringtone_title">Sunet</string>
     <string name="preferences_signature_dialog_title">Semnătură</string>
     <string name="preferences_signature_summary_not_set">Nesetată</string>
@@ -1351,7 +1360,7 @@ Atinge pentru a o activa."</string>
     <string name="server_error_certificate_error">A apărut o problemă la securizarea conexiunii.</string>
     <string name="server_error_login_limit_exceeded">Prea multe actualizări. Încearcă din nou mai târziu.</string>
     <string name="server_error_nonexistent_folder">Dosarul solicitat nu a fost găsit.</string>
-    <string name="server_error_too_many_requests">Prea multe solicitări. Au fost depășite limitele de abuz pe server.</string>
+    <string name="server_error_too_many_requests">Prea multe actualizări. Încearcă din nou mai târziu.</string>
     <string name="set_priority">Setează prioritatea</string>
     <string name="settings">Setări</string>
     <string name="settings_number_of_days">Perioada de sincronizare a mesajelor</string>
@@ -1513,6 +1522,7 @@ Atinge pentru a o activa."</string>
     <string name="too_large_to_attach_multiple">Nu s-a atașat cel puțin un fișier. Limita maximă este de %1$s.</string>
     <string name="too_large_to_attach_single">%1$s.</string>
     <string name="trash_folder_selection_title">Coș de gunoi pe server pentru %s</string>
+    <string name="trashed_message_indicator">Acest mesaj a fost șters.</string>
     <string name="turn_auto_sync_on_dialog_body">Modificările din toate aplicațiile și conturile, nu doar din Gmail, vor fi sincronizate între versiunile pentru web, alte dispozitive și %1$s.</string>
     <string name="turn_auto_sync_on_dialog_confirm_btn">Activează</string>
     <string name="turn_auto_sync_on_dialog_title">Activezi sincronizarea automată?</string>

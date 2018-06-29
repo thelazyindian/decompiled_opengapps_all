@@ -36,6 +36,9 @@
     <string name="account_management_need_to_set_up_new_work_account">יש להגדיר את חשבון העבודה החדש שלך.</string>
     <string name="account_management_new_work_account_line_item">יש להגדיר את החשבון</string>
     <string name="account_management_set_up_new_account_title">חשבון עבודה חדש</string>
+    <string name="account_notification_level_all">הכול</string>
+    <string name="account_notification_level_high_priority">עדיפות גבוהה בלבד</string>
+    <string name="account_notification_level_none">ללא</string>
     <string name="account_security_dialog_content_fmt">כדי להשתמש בחשבון שלך &lt;%s> עליך לעדכן את הגדרות האבטחה במכשיר. למידע נוסף, פנה למנהל המערכת.</string>
     <string name="account_security_dialog_ok">עדכן עכשיו</string>
     <string name="account_security_policy_explanation_fmt">‏השרת %s דורש שתאפשר לו שליטה מרחוק על תכונות אבטחה מסוימות במכשיר ה-Android שלך.</string>
@@ -48,6 +51,8 @@
     <string name="account_settings_conversation_view_progress_dialog_message">מתבצע עדכון של הגדרות החשבון…</string>
     <string name="account_settings_conversation_view_summary">קיבוץ הודעות אימייל בעלות נושא זהה יחד. החלת ההגדרת תימשך זמן מה.</string>
     <string name="account_settings_conversation_view_title">תצוגת שיחה</string>
+    <string name="account_settings_conversation_view_turned_off_dialog_message">תצוגת שיחה הושבתה בהתאם להגדרות החשבון שלך. אפשר לשנות זאת בהגדרות.</string>
+    <string name="account_settings_conversation_view_turned_on_dialog_message">תצוגת שיחה הופעלה בהתאם להגדרות החשבון שלך. אפשר לשנות זאת בהגדרות.</string>
     <string name="account_settings_data_usage">שימוש בנתונים</string>
     <string name="account_settings_description_label">שם חשבון</string>
     <string name="account_settings_edit_quick_responses_label">תגובות מהירות</string>
@@ -337,7 +342,7 @@
     <string name="ad_teaser_dismiss_survey_label">ספר לנו מדוע</string>
     <string name="ad_will_not_save">המודעה לא תישמר כהודעה</string>
     <string name="ad_will_save">המודעה תישמר כהודעה</string>
-    <string name="add_account">הוסף חשבון</string>
+    <string name="add_account">הוספת חשבון</string>
     <string name="add_account_disallowed_by_admin_fragment_title">לא ניתן להוסיף חשבון עבודה</string>
     <string name="add_authentication_label">הוסף אימות</string>
     <string name="add_cc_label">הוסף עותק/עותק מוסתר</string>
@@ -638,7 +643,7 @@
     <string name="eaaur_connecting_to_email_server">מתבצע חיבור לשרת האימייל…</string>
     <string name="eaaur_tap_to_complete_auto_activation">הקש כדי להשלים את ההפעלה האוטומטית</string>
     <string name="eas_promo_description">‏אם תוסף את חשבון Exchange שלך תוכל להשתמש באפליקציית Gmail ביעילות רבה עוד יותר.</string>
-    <string name="eas_promo_positive_button">הוסף חשבון</string>
+    <string name="eas_promo_positive_button">הוספת חשבון</string>
     <string name="eas_promo_title">רוצה לעבוד מתיבת הדואר הנכנס שלך?</string>
     <string name="edit_certificate_option_subtitle">עריכת האישור</string>
     <string name="edit_quick_response_dialog">תגובה מהירה</string>
@@ -832,6 +837,7 @@
     <string name="gmailify_updating_password_title">מעדכן את הסיסמה...</string>
     <string name="google_play_logo">‏לחנות Google Play</string>
     <string name="google_terms_of_service">‏תנאים והגבלות של Google</string>
+    <string name="got_it_option">הבנתי</string>
     <string name="has_malware_website_links">כדאי להיזהר מההודעה הזו. היא מכילה קישורים לאתרים שמארחים תוכנה זדונית.</string>
     <string name="hats_survey_promo_action_text">השתתף בסקר שלנו</string>
     <string name="hats_survey_promo_text">‏רוצה לעזור לנו לשפר את Gmail?</string>
@@ -856,6 +862,7 @@
     <string name="icr_declined">‏התגובה של %1$s לאירוע: &lt;b>דחייה&lt;/b>.</string>
     <string name="icr_empty_title">(ללא כותרת)</string>
     <string name="icr_hide_original">הסתר את ההודעה המקורית</string>
+    <string name="icr_loading_error_msg">לא ניתן לטעון נתוני אירועים.</string>
     <string name="icr_location_description">מיקום</string>
     <string name="icr_organizer">(מארגן)</string>
     <string name="icr_responded_maybe">"הגבת 'אולי'"</string>
@@ -865,6 +872,8 @@
     <string name="icr_show_original">הצג את ההודעה המקורית</string>
     <string name="icr_tentative">‏התגובה של %1$s לאירוע: &lt;b>אישור לא סופי&lt;/b>.</string>
     <string name="icr_time_description">פרטי תאריך</string>
+    <string name="icr_view_details">לפרטים</string>
+    <string name="icr_warning_description">אזהרה</string>
     <string name="image_attached">מצורפת תמונה</string>
     <string name="imap_name">‏אישי (IMAP)</string>
     <string name="important_inbox_section_title">"הקטע 'חשוב' בתיבת הדואר הנכנס"</string>
@@ -1049,7 +1058,7 @@
     <string name="notification_label_description_priority_inbox_all_mail">תיבת דואר נכנס</string>
     <string name="notification_label_description_starred">מסומן בכוכב</string>
     <string name="notification_level_all">כל האימייל החדש</string>
-    <string name="notification_level_important">חשוב בלבד</string>
+    <string name="notification_level_important">"הקטע 'חשוב' בלבד"</string>
     <string name="notification_level_none">אף אימייל</string>
     <string name="notification_sender_line_snoozed">לטיפול בהמשך: %1$s</string>
     <string name="notifications_category">התראות</string>
@@ -1210,7 +1219,7 @@
     <string name="preferences_nudge_section_outbound_summary">הודעות אימיילים ששלחת, שייתכן שמצריכות מעקב, יופיעו בחלק העליון של תיבת הדואר הנכנס.</string>
     <string name="preferences_nudge_section_outbound_title">הצגת הצעות להודעות אימייל שמצריכות המשך טיפול</string>
     <string name="preferences_nudging_title">תשובה והמשך טיפול</string>
-    <string name="preferences_priority_inbox_notification_level_title">רמת ההודעות</string>
+    <string name="preferences_priority_inbox_notification_level_title">הודעות לגבי קטעים בתיבת הדואר הנכנס</string>
     <string name="preferences_ringtone_title">צליל</string>
     <string name="preferences_signature_dialog_title">חתימה</string>
     <string name="preferences_signature_summary_not_set">לא הוגדרה</string>
@@ -1385,7 +1394,7 @@
     <string name="server_error_certificate_error">הייתה בעיה באבטחת החיבור.</string>
     <string name="server_error_login_limit_exceeded">רענונים רבים מדי. נסה שוב מאוחר יותר.</string>
     <string name="server_error_nonexistent_folder">התיקייה המבוקשת לא נמצאה.</string>
-    <string name="server_error_too_many_requests">שלחת בקשות רבות מדי וחרגת ממגבלות השימוש לרעה של השרת</string>
+    <string name="server_error_too_many_requests">רענונים רבים מדי. אפשר לנסות שוב מאוחר יותר.</string>
     <string name="set_priority">הגדר עדיפות</string>
     <string name="settings">הגדרות</string>
     <string name="settings_number_of_days">כמה ימי דואר לסנכרן</string>
@@ -1547,6 +1556,7 @@
     <string name="too_large_to_attach_multiple">קובץ אחד או יותר לא צורפו. המגבלה היא %1$s.</string>
     <string name="too_large_to_attach_single">לא ניתן לצרף קובץ שגודלו עולה על %1$s.</string>
     <string name="trash_folder_selection_title">בחר את תיקיית האשפה של השרת בשביל %s</string>
+    <string name="trashed_message_indicator">ההודעה נמחקה</string>
     <string name="turn_auto_sync_on_dialog_body">‏שינויים שתבצע בכל האפליקציות והחשבונות, ולא רק ב-Gmail, יסונכרנו בין האינטרנט, המכשירים האחרים שלך וה%1$s שלך.</string>
     <string name="turn_auto_sync_on_dialog_confirm_btn">הפעל</string>
     <string name="turn_auto_sync_on_dialog_title">האם להפעיל סנכרון אוטומטי?</string>

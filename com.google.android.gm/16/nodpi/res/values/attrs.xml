@@ -361,6 +361,7 @@
     <attr name="chipStrokeWidth" format="dimension" />
     <attr name="chipIconEnabled" format="boolean" />
     <attr name="chipIcon" format="reference" />
+    <attr name="chipIconTint" format="color" />
     <attr name="chipIconSize" format="dimension" />
     <attr name="closeIconEnabled" format="boolean" />
     <attr name="closeIcon" format="reference" />
@@ -740,10 +741,6 @@
         <flag name="clip_vertical" value="0x00000080" />
         <flag name="fill" value="0x00000077" />
     </attr>
-    <attr name="layout_spaceStart" format="dimension" />
-    <attr name="layout_spaceEnd" format="dimension" />
-    <attr name="layout_spaceBetween" format="dimension" />
-    <attr name="layout_maxItemWidthHint" format="dimension" />
     <attr name="inputEnabled" format="boolean" />
     <attr name="sourceClass">
         <enum name="contact" value="1" />
@@ -771,6 +768,10 @@
     <attr name="circleCrop" format="boolean" />
     <attr name="iconSize" format="dimension" />
     <attr name="iconPadding" format="dimension" />
+    <attr name="iconGravity">
+        <flag name="start" value="0x00000001" />
+        <flag name="textStart" value="0x00000002" />
+    </attr>
     <attr name="iconTint" format="color" />
     <attr name="additionalPaddingStartForIcon" format="dimension" />
     <attr name="additionalPaddingEndForIcon" format="dimension" />

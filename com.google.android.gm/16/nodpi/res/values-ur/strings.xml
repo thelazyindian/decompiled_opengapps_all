@@ -36,6 +36,9 @@
     <string name="account_management_need_to_set_up_new_work_account">آپ کے نئے دفتری اکاؤنٹ کے لئے سیٹ اپ درکار ہے۔</string>
     <string name="account_management_new_work_account_line_item">اس اکاؤنٹ کو سیٹ کریں</string>
     <string name="account_management_set_up_new_account_title">نیا دفتری اکاؤنٹ</string>
+    <string name="account_notification_level_all">تمام</string>
+    <string name="account_notification_level_high_priority">صرف اعلی ترجیح</string>
+    <string name="account_notification_level_none">کوئی نہیں</string>
     <string name="account_security_dialog_content_fmt">اپنا اکاؤنٹ &lt;%s> استعمال کرنے کیلئے آپ کو اپنے آلہ پر سیکیورٹی ترتیبات اپ ڈیٹ کرنا چاہئیں۔ مزید معلومات کیلئے اپنے منتظم سے رابطہ کریں۔</string>
     <string name="account_security_dialog_ok">اپ ڈیٹ کریں</string>
     <string name="account_security_policy_explanation_fmt">‏سرور %s کا تقاضہ ہے کہ آپ اسے اپنے Android آلہ کی کچھ سیکیورٹی کی خصوصیات کو دور سے کنٹرول کرنے کی اجازت دیں۔</string>
@@ -48,6 +51,8 @@
     <string name="account_settings_conversation_view_progress_dialog_message">اکاؤنٹ کی ترتیبات اپ ڈیٹ ہو رہی ہیں…</string>
     <string name="account_settings_conversation_view_summary">ایک ہی موضوع کی ای میلز کو اکٹھا کر کے ان کا گروپ بنائیں۔ اس ترتیب کو لاگو کرنے میں کچھ وقت لگ سکتا ہے</string>
     <string name="account_settings_conversation_view_title">گفتگو کا منظر</string>
+    <string name="account_settings_conversation_view_turned_off_dialog_message">آپ کے اکاؤنٹ کی ترتیبات کو مماثل کرنے کے لیے بات چیت کے منظر کو آف کر دیا گیا ہے۔ آپ اسے ترتیبات میں تبدیل کر سکتے ہیں۔</string>
+    <string name="account_settings_conversation_view_turned_on_dialog_message">آپ کے اکاؤنٹ کی ترتیبات کو مماثل کرنے کے لیے بات چیت کے منظر کو آن کر دیا گیا ہے۔ آپ اسے ترتیبات میں تبدیل کر سکتے ہیں۔</string>
     <string name="account_settings_data_usage">ڈیٹا کا استعمال</string>
     <string name="account_settings_description_label">اکاؤنٹ کا نام</string>
     <string name="account_settings_edit_quick_responses_label">فوری جوابات</string>
@@ -826,6 +831,7 @@
     <string name="gmailify_updating_password_title">آپ کا پاسورڈ اپ ڈیٹ ہو رہا ہے…</string>
     <string name="google_play_logo">‏Google Play اسٹور پر جائیں</string>
     <string name="google_terms_of_service">‏Google کی سروس کی شرائط</string>
+    <string name="got_it_option">سمجھ آ گئی</string>
     <string name="has_malware_website_links">اس پیغام کے ساتھ محتاط رہیں۔ اس میں میلوئیر کی میزبانی کرنے والی ویب سائٹس کے لنکس شامل ہیں۔</string>
     <string name="hats_survey_promo_action_text">ہمارا سروے مکمل کریں</string>
     <string name="hats_survey_promo_text">‏Gmail کو بہتر بنانے میں ہماری مدد کریں</string>
@@ -849,6 +855,7 @@
     <string name="icr_declined">‏%1$s نے اس ایونٹ کو &lt;b>رد کر دیا ہے&lt;‎/b>۔</string>
     <string name="icr_empty_title">(کوئی عنوان نہیں ہے)</string>
     <string name="icr_hide_original">اصل پیغام چھپائیں</string>
+    <string name="icr_loading_error_msg">ایونٹ ڈیٹا لوڈ کرنے سے قاصر ہے۔</string>
     <string name="icr_location_description">مقام</string>
     <string name="icr_organizer">(منتظم)</string>
     <string name="icr_responded_maybe">"'شاید' میں جواب دیا"</string>
@@ -858,6 +865,8 @@
     <string name="icr_show_original">اصل پیغام دکھائیں</string>
     <string name="icr_tentative">‏%1$s نے اس ایونٹ کو &lt;b>عارضی طور پر قبول کیا ہے&lt;‎/b>۔</string>
     <string name="icr_time_description">تاریخ کی معلومات</string>
+    <string name="icr_view_details">تفاصیل دیکھیں</string>
+    <string name="icr_warning_description">تنبیہ</string>
     <string name="image_attached">تصویر منسلک ہو گئی</string>
     <string name="imap_name">‏ذاتی (IMAP)</string>
     <string name="important_inbox_section_title">ان باکس کا اہم سیکشن</string>
@@ -1039,7 +1048,7 @@
     <string name="notification_label_description_priority_inbox_all_mail">ان باکس</string>
     <string name="notification_label_description_starred">ستارہ لگا ہوا</string>
     <string name="notification_level_all">سبھی نئے میل</string>
-    <string name="notification_level_important">صرف اہم</string>
+    <string name="notification_level_important">صرف اہم سیکشن</string>
     <string name="notification_level_none">کوئی نہیں</string>
     <string name="notification_sender_line_snoozed">اسنوز کردہ: %1$s</string>
     <string name="notifications_category">اطلاعات</string>
@@ -1198,7 +1207,7 @@
     <string name="preferences_nudge_section_outbound_summary">ایسی ارسال کردہ ای میلز جنہیں آپ کو بعد میں فالو اپ کرنا پڑ سکتا ہے، وہ آپ کے ان باکس میں اوپر دکھائی دیں گی</string>
     <string name="preferences_nudge_section_outbound_title">وہ ای میلز تجویز کریں جنہیں فالو اپ کرنا ہے</string>
     <string name="preferences_nudging_title">جواب دیں اور فالو اپ کریں</string>
-    <string name="preferences_priority_inbox_notification_level_title">اطلاع کی سطح</string>
+    <string name="preferences_priority_inbox_notification_level_title">ان باکس سیکشنز کے لیے اطلاع دیں</string>
     <string name="preferences_ringtone_title">آواز</string>
     <string name="preferences_signature_dialog_title">دستخط</string>
     <string name="preferences_signature_summary_not_set">سیٹ نہیں ہے</string>
@@ -1373,7 +1382,7 @@
     <string name="server_error_certificate_error">کنکشن محفوظ کرتے ہوئے ایک مسئلہ پیش آگیا۔</string>
     <string name="server_error_login_limit_exceeded">کافی زيادہ ریفریشز ہیں۔ براہ کرم بعد میں دوبارہ کوشش کریں۔</string>
     <string name="server_error_nonexistent_folder">مطلوبہ فولڈر نہیں ملا۔</string>
-    <string name="server_error_too_many_requests">بہت زیادہ درخواستیں۔ سرور کا بیجا استعمال حد سے تجاوز کر گیا</string>
+    <string name="server_error_too_many_requests">کافی مرتبہ ریفریش کیا گيا۔ براہ کرم بعد میں دوبارہ کوشش کریں۔</string>
     <string name="set_priority">ترجیح سیٹ کریں</string>
     <string name="settings">ترتیبات</string>
     <string name="settings_number_of_days">سنک کیلئے میل کے دن</string>
@@ -1534,6 +1543,7 @@
     <string name="too_large_to_attach_multiple">ایک یا زائد فائلیں منسلک نہیں ہوئیں۔ حد %1$s۔</string>
     <string name="too_large_to_attach_single">%1$s سے بڑی فائل منسلک نہیں ہوسکتی۔</string>
     <string name="trash_folder_selection_title">%s کیلئے سرور کے کوڑے دان کا فولڈر منتخب کریں</string>
+    <string name="trashed_message_indicator">یہ پیغام حذف کر دیا گیا ہے</string>
     <string name="turn_auto_sync_on_dialog_body">‏صرف Gmail نہیں بلکہ سبھی ایپس اور اکاؤنٹس میں آپ جو تبدیلیاں کرتے ہیں وہ ویب، آپ کے دوسرے آلات اور آپ کے %1$s کے درمیان سنک ہوں گی۔</string>
     <string name="turn_auto_sync_on_dialog_confirm_btn">آن کریں</string>
     <string name="turn_auto_sync_on_dialog_title">خودکار سنک آن کریں؟</string>

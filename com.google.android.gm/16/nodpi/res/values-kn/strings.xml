@@ -29,6 +29,9 @@
     <string name="account_management_need_to_set_up_new_work_account">ನಿಮ್ಮ ಹೊಸ ಕೆಲಸದ ಖಾತೆಯನ್ನು ಸೆಟಪ್‌ ಮಾಡುವ ಅಗತ್ಯವಿದೆ.</string>
     <string name="account_management_new_work_account_line_item">ಈ ಖಾತೆಯನ್ನು ಸೆಟಪ್‌ ಮಾಡಿ</string>
     <string name="account_management_set_up_new_account_title">ಹೊಸ ಕೆಲಸದ ಖಾತೆ</string>
+    <string name="account_notification_level_all">ಎಲ್ಲಾ</string>
+    <string name="account_notification_level_high_priority">ಹೆಚ್ಚಿನ ಪ್ರಾಶಸ್ತ್ಯ ಮಾತ್ರ</string>
+    <string name="account_notification_level_none">ಯಾವುದೂ ಬೇಡ</string>
     <string name="account_security_dialog_content_fmt">ನಿಮ್ಮ &lt;%s> ಖಾತೆಯನ್ನು ಬಳಸಲು ನಿಮ್ಮ ಸಾಧನದಲ್ಲಿ ಭದ್ರತೆ ಸೆಟ್ಟಿಂಗ್‌ಗಳನ್ನು ನೀವು ಅಪ್‌ಡೇಟ್‌ ಮಾಡಬೇಕು. ಹೆಚ್ಚಿನ ಮಾಹಿತಿಗಾಗಿ ನಿಮ್ಮ ನಿರ್ವಾಹಕರನ್ನು ಸಂಪರ್ಕಿಸಿ.</string>
     <string name="account_security_dialog_ok">ಅಪ್‌ಡೇಟ್ ಮಾಡಿ</string>
     <string name="account_security_policy_explanation_fmt">ನಿಮ್ಮ Android ಸಾಧನದ ಕೆಲವು ಭದ್ರತೆ ವೈಶಿಷ್ಟ್ಯಗಳನ್ನು ದೂರದಿಂದಲೇ ನಿಯಂತ್ರಿಸಲು %s ಸರ್ವರ್‌ಗೆ ನೀವು ಅನುಮತಿಸುವ ಅಗತ್ಯವಿದೆ.</string>
@@ -41,6 +44,8 @@
     <string name="account_settings_conversation_view_progress_dialog_message">ಖಾತೆ ಸೆಟ್ಟಿಂಗ್‌ಗಳನ್ನು ಅಪ್‌‍ಡೇಟ್ ಮಾಡಲಾಗುತ್ತಿದೆ...</string>
     <string name="account_settings_conversation_view_summary">ಒಂದೇ ವಿಷಯದ ಇಮೇಲ್‌ಗಳನ್ನು ಒಟ್ಟಿಗೆ ಸೇರಿಸಿ ಗುಂಪು ಮಾಡಿ. ಅನ್ವಯಿಸಲು ಈ ಸೆಟ್ಟಿಂಗ್‌ ಕೆಲವು ಸಮಯ ತೆಗೆದುಕೊಳ್ಳಬಹುದು</string>
     <string name="account_settings_conversation_view_title">ಸಂವಾದ ವೀಕ್ಷಣೆ</string>
+    <string name="account_settings_conversation_view_turned_off_dialog_message">ನಿಮ್ಮ ಖಾತೆಯ ಸೆಟ್ಟಿಂಗ್‌ಗಳನ್ನು ಹೊಂದಾಣಿಕೆ ಮಾಡಲು ಸಂಭಾಷಣೆ ವೀಕ್ಷಣೆಯನ್ನು ಆಫ್‌ ಮಾಡಲಾಗಿದೆ. ನೀವು ಇದನ್ನು ಸೆಟ್ಟಿಂಗ್‌ಗಳಲ್ಲಿ ಬದಲಾಯಿಸಬಹುದು.</string>
+    <string name="account_settings_conversation_view_turned_on_dialog_message">ನಿಮ್ಮ ಖಾತೆಯ ಸೆಟ್ಟಿಂಗ್‌ಗಳನ್ನು ಹೊಂದಾಣಿಕೆ ಮಾಡಲು ಸಂಭಾಷಣೆ ವೀಕ್ಷಣೆಯನ್ನು ಆನ್‌ ಮಾಡಲಾಗಿದೆ. ನೀವು ಇದನ್ನು ಸೆಟ್ಟಿಂಗ್‌ಗಳಲ್ಲಿ ಬದಲಾಯಿಸಬಹುದು.</string>
     <string name="account_settings_data_usage">ಡೇಟಾ ಬಳಕೆ</string>
     <string name="account_settings_description_label">ಖಾತೆ ಹೆಸರು</string>
     <string name="account_settings_edit_quick_responses_label">ತ್ವರಿತ ಪ್ರತಿಕ್ರಿಯೆಗಳು</string>
@@ -807,6 +812,7 @@
     <string name="gmailify_updating_password_title">ನಿಮ್ಮ ಪಾಸ್‌ವರ್ಡ್ ಅಪ್‌ಡೇಟ್‌ ಮಾಡಲಾಗುತ್ತಿದೆ…</string>
     <string name="google_play_logo">Google Play Store ಗೆ ಹೋಗಿ</string>
     <string name="google_terms_of_service">Google ಸೇವಾ ನಿಯಮಗಳು</string>
+    <string name="got_it_option">ಅರ್ಥವಾಯಿತು</string>
     <string name="has_malware_website_links">ಈ ಸಂದೇಶದ ಬಗ್ಗೆ ಎಚ್ಚರಿಕೆವಹಿಸಿ. ಅದು ಮಾಲ್‌ವೇರ್‌ಗಳನ್ನು ಹೋಸ್ಟ್ ಮಾಡುವ ವೆಬ್‌ಸೈಟ್‌ಗಳಿಗೆ ಲಿಂಕ್‌ಗಳನ್ನು ಹೊಂದಿದೆ.</string>
     <string name="hats_survey_promo_action_text">ಸಮೀಕ್ಷೆಯಲ್ಲಿ ಪಾಲ್ಗೊಳ್ಳಿ</string>
     <string name="hats_survey_promo_text">Gmail ಸುಧಾರಿಸಲು ನಮಗೆ ಸಹಾಯ ಮಾಡಿ</string>
@@ -830,6 +836,7 @@
     <string name="icr_declined">%1$s ಅವರು ಈ ಈವೆಂಟ್ ಅನ್ನು &lt;b>ತಿರಸ್ಕರಿಸಿದ್ದಾರೆ&lt;/b>.</string>
     <string name="icr_empty_title">(ಶೀರ್ಷಿಕೆಯಿಲ್ಲ)</string>
     <string name="icr_hide_original">ಮೂಲ ಸಂದೇಶವನ್ನು ಮರೆಮಾಡು</string>
+    <string name="icr_loading_error_msg">ಈವೆಂಟ್‌ ಡೇಟಾವನ್ನು ಲೋಡ್‌ ಮಾಡಲು ಸಾಧ್ಯವಾಗಲಿಲ್ಲ.</string>
     <string name="icr_location_description">ಸ್ಥಳ</string>
     <string name="icr_organizer">(ಆಯೋಜಕರು)</string>
     <string name="icr_responded_maybe">ಬಹುಶಃ ಎಂದು ಪ್ರತಿಕ್ರಿಯಿಸಿದ್ದಾರೆ</string>
@@ -839,6 +846,8 @@
     <string name="icr_show_original">ಮೂಲ ಸಂದೇಶವನ್ನು ತೋರಿಸು</string>
     <string name="icr_tentative">ಈ ಈವೆಂಟ್‌ಗೆ %1$s &lt;b>ತಾತ್ಕಾಲಿಕ ಒಪ್ಪಿಗೆ ನೀಡಿದ್ದಾರೆ&lt;/b>.</string>
     <string name="icr_time_description">ದಿನಾಂಕ ಮಾಹಿತಿ</string>
+    <string name="icr_view_details">ವಿವರಗಳನ್ನು ವೀಕ್ಷಿಸಿ</string>
+    <string name="icr_warning_description">ಎಚ್ಚರಿಕೆ</string>
     <string name="image_attached">ಚಿತ್ರ ಲಗತ್ತಿಸಲಾಗಿದೆ</string>
     <string name="imap_name">ವೈಯಕ್ತಿಕ (IMAP)</string>
     <string name="important_inbox_section_title">ಇನ್‌ಬಾಕ್ಸ್ ಪ್ರಮುಖ ವಿಭಾಗ</string>
@@ -1020,7 +1029,7 @@
     <string name="notification_label_description_priority_inbox_all_mail">ಇನ್‌ಬಾಕ್ಸ್‌‌</string>
     <string name="notification_label_description_starred">ನಕ್ಷತ್ರ ಹಾಕಿರುವುದು</string>
     <string name="notification_level_all">ಎಲ್ಲಾ ಹೊಸ ಮೇಲ್</string>
-    <string name="notification_level_important">ಪ್ರಮುಖ ಮಾತ್ರ</string>
+    <string name="notification_level_important">ಪ್ರಮುಖ ವಿಭಾಗಕ್ಕೆ ಮಾತ್ರ</string>
     <string name="notification_level_none">ಯಾವುದೂ ಅಲ್ಲ</string>
     <string name="notification_sender_line_snoozed">ಇವರನ್ನು ಸ್ನೂಜ್ ಮಾಡಲಾಗಿದೆ: %1$s</string>
     <string name="notifications_category">ಅಧಿಸೂಚನೆಗಳು</string>
@@ -1180,7 +1189,7 @@
     <string name="preferences_nudge_section_outbound_summary">ನೀವು ಕಳುಹಿಸಿರುವ ಇಮೇಲ್‌ಗಳಲ್ಲಿ ಅನುಸರಿಸಬೇಕಾದ ಇಮೇಲ್‌ಗಳನ್ನು ನಿಮ್ಮ ಇನ್‌ಬಾಕ್ಸ್‌ನೊಳಗೆ ಮೇಲ್ಗಡೆಯಲ್ಲಿ ತೋರಿಸಲಾಗುತ್ತದೆ</string>
     <string name="preferences_nudge_section_outbound_title">ಅನುಸರಿಸಬೇಕಾದ ಇಮೇಲ್‌ಗಳ ಕುರಿತು ಸಲಹೆ ನೀಡಿ</string>
     <string name="preferences_nudging_title">ಪ್ರತ್ಯುತ್ತರಿಸಿ ಮತ್ತು ಅನುಸರಿಸಿ</string>
-    <string name="preferences_priority_inbox_notification_level_title">ಅಧಿಸೂಚನೆ ಹಂತ</string>
+    <string name="preferences_priority_inbox_notification_level_title">ಇನ್‌ಬಾಕ್ಸ್‌ ವಿಭಾಗಗಳಿಗೆ ಸೂಚಿಸಿ</string>
     <string name="preferences_ringtone_title">ಧ್ವನಿ</string>
     <string name="preferences_signature_dialog_title">ಸಹಿ</string>
     <string name="preferences_signature_summary_not_set">ಹೊಂದಿಸಿಲ್ಲ</string>
@@ -1354,7 +1363,7 @@
     <string name="server_error_certificate_error">ಸಂಪರ್ಕವನ್ನು ರಕ್ಷಿಸುವಲ್ಲಿ ಸಮಸ್ಯೆ ಕಂಡುಬಂದಿದೆ.</string>
     <string name="server_error_login_limit_exceeded">ಹಲವಾರು ರಿಫ್ರೆಶ್‌ಗಳು. ದಯವಿಟ್ಟು ನಂತರ ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಿ.</string>
     <string name="server_error_nonexistent_folder">ವಿನಂತಿಸಲಾದ ಫೋಲ್ಡರ್ ಕಂಡುಬಂದಿಲ್ಲ.</string>
-    <string name="server_error_too_many_requests">ಅತೀ ಹೆಚ್ಚು ವಿನಂತಿಗಳು. ಸರ್ವರ್ ನಿಂದನೆಯ ಮಿತಿಯಗಳನ್ನು ಮೀರಿದೆ</string>
+    <string name="server_error_too_many_requests">ಹಲವಾರು ರಿಫ್ರೆಶ್‌ಗಳು. ನಂತರ ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಿ.</string>
     <string name="set_priority">ಆದ್ಯತೆ ಹೊಂದಿಸು</string>
     <string name="settings">ಸೆಟ್ಟಿಂಗ್‌ಗಳು</string>
     <string name="settings_number_of_days">ಸಿಂಕ್ ಮಾಡಲು ಮೇಲ್‌ನ ದಿನಗಳ ಸಂಖ್ಯೆ</string>
@@ -1515,6 +1524,7 @@
     <string name="too_large_to_attach_multiple">ಒಂದು ಅಥವಾ ಹೆಚ್ಚಿನ ಫೈಲ್‍ಗಳನ್ನು ಲಗತ್ತಿಸಿಲ್ಲ. ಮಿತಿ %1$s.</string>
     <string name="too_large_to_attach_single">%1$s ಗೂ ಹೆಚ್ಚು ಗಾತ್ರ ಇರುವ ಫೈಲ್ ಲಗತ್ತಿಸಲು ಸಾಧ್ಯವಿಲ್ಲ.</string>
     <string name="trash_folder_selection_title">%s ಖಾತೆಗೆ ಸರ್ವರ್‌ನ ಅನುಪಯುಕ್ತ ಫೋಲ್ಡರ್ ಆಯ್ಕೆಮಾಡಿ</string>
+    <string name="trashed_message_indicator">ಈ ಸಂದೇಶವನ್ನು ಅಳಿಸಲಾಗಿದೆ</string>
     <string name="turn_auto_sync_on_dialog_body">ಕೇವಲ Gmail ಮಾತ್ರವಲ್ಲ, ಎಲ್ಲಾ ಅಪ್ಲಿಕೇಶನ್‍‍ಗಳು ಮತ್ತು ಖಾತೆಗಳಿಗೆ ನೀವು ಮಾಡುವ ಬದಲಾವಣೆಗಳು, ವೆಬ್, ನಿಮ್ಮ ಇತರೆ ಸಾಧನಗಳು ಮತ್ತು ನಿಮ್ಮ %1$s ನ ನಡುವೆ ಸಿಂಕ್ರೊನೈಸ್ ಆಗುತ್ತವೆ.</string>
     <string name="turn_auto_sync_on_dialog_confirm_btn">ಆನ್‌ ಮಾಡಿ</string>
     <string name="turn_auto_sync_on_dialog_title">ಸ್ವಯಂ-ಸಿಂಕ್‌ ಆನ್‌‌ ಮಾಡುವುದೇ?</string>

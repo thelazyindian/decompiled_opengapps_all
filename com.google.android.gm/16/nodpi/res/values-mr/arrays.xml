@@ -5,11 +5,6 @@
         <item>सर्वांना उत्तर द्या</item>
         <item>अग्रेषित करा</item>
     </string-array>
-    <string-array name="notificationsStatusEntries">
-        <item>सर्व</item>
-        <item>केवळ उच्च प्राधान्य</item>
-        <item>कोणत्याही नाहीत.</item>
-    </string-array>
     <string-array name="prefEntries_autoAdvance">
         <item>नवीनतर</item>
         <item>अधिक जुने</item>

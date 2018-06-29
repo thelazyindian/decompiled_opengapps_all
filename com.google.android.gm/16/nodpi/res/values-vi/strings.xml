@@ -33,6 +33,9 @@
     <string name="account_management_need_to_set_up_new_work_account">Tài khoản công việc mới của bạn cần được thiết lập.</string>
     <string name="account_management_new_work_account_line_item">Thiết lập tài khoản này</string>
     <string name="account_management_set_up_new_account_title">Tài khoản công việc mới</string>
+    <string name="account_notification_level_all">Tất cả email</string>
+    <string name="account_notification_level_high_priority">Chỉ email có mức độ ưu tiên cao</string>
+    <string name="account_notification_level_none">Không email nào</string>
     <string name="account_security_dialog_content_fmt">Để sử dụng tài khoản của bạn &lt;%s> bạn phải cập nhật cài đặt bảo mật trên thiết bị của mình. Hãy liên hệ quản trị viên của bạn để biết thêm thông tin.</string>
     <string name="account_security_dialog_ok">C.nhật bây giờ</string>
     <string name="account_security_policy_explanation_fmt">Máy chủ %s yêu cầu bạn cho phép kiểm soát từ xa một số tính năng bảo mật của thiết bị Android của bạn.</string>
@@ -45,6 +48,8 @@
     <string name="account_settings_conversation_view_progress_dialog_message">Đang cập nhật cài đặt tài khoản…</string>
     <string name="account_settings_conversation_view_summary">Nhóm các email có cùng chủ đề với nhau. Cài đặt này có thể mất chút thời gian để có hiệu lực</string>
     <string name="account_settings_conversation_view_title">Chế độ xem cuộc hội thoại</string>
+    <string name="account_settings_conversation_view_turned_off_dialog_message">Chế độ xem cuộc trò chuyện đã bị tắt để phù hợp với tùy chọn cài đặt tài khoản của bạn. Bạn có thể thay đổi tùy chọn này trong mục cài đặt.</string>
+    <string name="account_settings_conversation_view_turned_on_dialog_message">Chế độ xem cuộc trò chuyện đã được bật để phù hợp với tùy chọn cài đặt tài khoản của bạn. Bạn có thể thay đổi tùy chọn này trong mục cài đặt.</string>
     <string name="account_settings_data_usage">Sử dụng dữ liệu</string>
     <string name="account_settings_description_label">Tên tài khoản</string>
     <string name="account_settings_edit_quick_responses_label">Trả lời nhanh</string>
@@ -567,7 +572,7 @@
     <string name="default_reply_action_reply_all">Trả lời tất cả</string>
     <string name="default_reply_action_reply_all_summary">Trả lời tất cả</string>
     <string name="default_reply_action_reply_summary">Trả lời</string>
-    <string name="default_reply_action_unset_summary">Chọn tác vụ trả lời mặc định của bạn</string>
+    <string name="default_reply_action_unset_summary">Chọn thao tác trả lời mặc định của bạn</string>
     <string name="default_spam_warning">Tại sao thư này nằm trong thư mục thư mụcSpam? Thư này tương tự thư đã bị bộ lọc spam của chúng tôi phát hiện.</string>
     <string name="delete">Xóa</string>
     <string name="deleted">Đã xóa</string>
@@ -816,6 +821,7 @@
     <string name="gmailify_updating_password_title">Đang cập nhật mật khẩu của bạn...</string>
     <string name="google_play_logo">Truy cập Cửa hàng Google Play</string>
     <string name="google_terms_of_service">Điều khoản dịch vụ của Google</string>
+    <string name="got_it_option">Đã hiểu</string>
     <string name="has_malware_website_links">Hãy thận trọng với thư này. Thư này chứa các liên kết đến các trang web lưu trữ phần mềm độc hại.</string>
     <string name="hats_survey_promo_action_text">Thực hiện khảo sát</string>
     <string name="hats_survey_promo_text">Giúp chúng tôi cải thiện Gmail</string>
@@ -840,6 +846,7 @@
     <string name="icr_declined">%1$s đã &lt;b>từ chối&lt;/b> sự kiện này.</string>
     <string name="icr_empty_title">(không có tiêu đề)</string>
     <string name="icr_hide_original">Ẩn thư gốc</string>
+    <string name="icr_loading_error_msg">Không thể tải dữ liệu sự kiện.</string>
     <string name="icr_location_description">Vị trí</string>
     <string name="icr_organizer">(người tổ chức)</string>
     <string name="icr_responded_maybe">Đã trả lời là có thể</string>
@@ -849,6 +856,8 @@
     <string name="icr_show_original">Hiển thị thư gốc</string>
     <string name="icr_tentative">%1$s đã &lt;b>tạm chấp nhận&lt;/b> sự kiện này.</string>
     <string name="icr_time_description">Thông tin ngày</string>
+    <string name="icr_view_details">Xem chi tiết</string>
+    <string name="icr_warning_description">Cảnh báo</string>
     <string name="image_attached">Hình ảnh được đính kèm</string>
     <string name="imap_name">Cá nhân (IMAP)</string>
     <string name="important_inbox_section_title">Mục quan trọng của hộp thư đến</string>
@@ -1030,7 +1039,7 @@
     <string name="notification_label_description_priority_inbox_all_mail">Hộp thư đến</string>
     <string name="notification_label_description_starred">Có gắn dấu sao</string>
     <string name="notification_level_all">Tất cả thư mới</string>
-    <string name="notification_level_important">Chỉ quan trọng</string>
+    <string name="notification_level_important">Chỉ phần quan trọng</string>
     <string name="notification_level_none">Không</string>
     <string name="notification_sender_line_snoozed">Đã tạm hoãn: %1$s</string>
     <string name="notifications_category">Thông báo</string>
@@ -1130,7 +1139,7 @@
     <string name="preference_enable_threading_description">Nhóm các email trong cùng cuộc hội thoại lại với nhau cho các tài khoản IMAP và POP3</string>
     <string name="preference_enable_threading_inc_exchange_description">Nhóm các email trong cùng cuộc hội thoại lại với nhau cho các tài khoản IMAP, POP3 và Exchange</string>
     <string name="preference_enable_threading_title">Chế độ xem cuộc hội thoại</string>
-    <string name="preference_header_action_confirmations">Xác nhận tác vụ</string>
+    <string name="preference_header_action_confirmations">Xác nhận hành động</string>
     <string name="preference_manage_notifications_title">Quản lý thông báo</string>
     <string name="preference_notification_action_title">Hành động thông báo mặc định</string>
     <string name="preference_removal_action_title">Tác vụ mặc định của Gmail</string>
@@ -1138,10 +1147,10 @@
     <string name="preference_sender_image_title">Hình ảnh người gửi</string>
     <string name="preference_show_images_title">Hình ảnh</string>
     <string name="preference_swipe_description">Trong danh sách cuộc hội thoại</string>
-    <string name="preference_swipe_title">Tác vụ vuốt</string>
+    <string name="preference_swipe_title">Thao tác vuốt</string>
     <string name="preferences_conversation_mode_summary">Thu hẹp kích thước thư cho vừa với màn hình</string>
     <string name="preferences_conversation_mode_title">Tự động chỉnh kích thước thư</string>
-    <string name="preferences_default_reply_action_title">Tác vụ trả lời mặc định</string>
+    <string name="preferences_default_reply_action_title">Thao tác trả lời mặc định</string>
     <string name="preferences_default_reply_all_summary">Sử dụng làm mặc định cho trả lời thư</string>
     <string name="preferences_default_reply_all_title">Trả lời tất cả</string>
     <string name="preferences_g6y_linked_address">Được liên kết với %1$s</string>
@@ -1191,7 +1200,7 @@ Bật thông báo tài khoản?"</string>
     <string name="preferences_nudge_section_outbound_summary">Email đã gửi mà bạn có thể cần phải theo dõi sẽ xuất hiện ở trên cùng hộp thư đến</string>
     <string name="preferences_nudge_section_outbound_title">Đề xuất email để theo dõi</string>
     <string name="preferences_nudging_title">Trả lời và theo dõi</string>
-    <string name="preferences_priority_inbox_notification_level_title">Cấp độ thông báo</string>
+    <string name="preferences_priority_inbox_notification_level_title">Thông báo cho các phần trong hộp thư đến</string>
     <string name="preferences_ringtone_title">Đổ chuông</string>
     <string name="preferences_signature_dialog_title">Chữ ký</string>
     <string name="preferences_signature_summary_not_set">Chưa đặt</string>
@@ -1365,7 +1374,7 @@ Hãy nhấn để bật."</string>
     <string name="server_error_certificate_error">Đã có sự cố khi bảo mật kết nối.</string>
     <string name="server_error_login_limit_exceeded">Quá nhiều lần làm mới. Vui lòng thử lại sau.</string>
     <string name="server_error_nonexistent_folder">Không tìm thấy thư mục được yêu cầu.</string>
-    <string name="server_error_too_many_requests">Quá nhiều yêu cầu. Đã vượt quá giới hạn lạm dụng máy chủ</string>
+    <string name="server_error_too_many_requests">Quá nhiều lần làm mới. Vui lòng thử lại sau.</string>
     <string name="set_priority">Đặt mức độ ưu tiên</string>
     <string name="settings">Cài đặt</string>
     <string name="settings_number_of_days">Số ngày của thư sẽ đồng bộ hóa</string>
@@ -1527,6 +1536,7 @@ Hãy nhấn để bật."</string>
     <string name="too_large_to_attach_multiple">Một hoặc nhiều tệp không được đính kèm. Giới hạn là %1$s.</string>
     <string name="too_large_to_attach_single">Không thể đính kèm tệp lớn hơn %1$s.</string>
     <string name="trash_folder_selection_title">Chọn TM th.rác trên m.chủ cho %s</string>
+    <string name="trashed_message_indicator">Thư này đã bị xóa</string>
     <string name="turn_auto_sync_on_dialog_body">Các thay đổi bạn thực hiện đối với tất cả ứng dụng và tài khoản, không chỉ với Gmail, sẽ được đồng bộ hóa giữa web, các thiết bị khác của bạn và %1$s của bạn.</string>
     <string name="turn_auto_sync_on_dialog_confirm_btn">Bật</string>
     <string name="turn_auto_sync_on_dialog_title">Bật tự động đồng bộ hóa?</string>

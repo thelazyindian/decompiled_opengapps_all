@@ -3,6 +3,8 @@
     <string name="account_security_dialog_content_fmt">In order to use your account &lt;%s>, you must update the security settings on your device. Contact your administrator for more information.</string>
     <string name="account_settings_background_attachments_summary">Auto-download attachments to recent messages via WiFi</string>
     <string name="account_settings_conversation_view_no_connection">This action requires an Internet connection.</string>
+    <string name="account_settings_conversation_view_turned_off_dialog_message">Conversation view has been turned off to match your account settings. You can change this in Settings.</string>
+    <string name="account_settings_conversation_view_turned_on_dialog_message">Conversation view has been turned on to match your account settings. You can change this in Settings.</string>
     <string name="account_settings_edit_quick_responses_summary">Edit text that you frequently insert when composing emails</string>
     <string name="account_settings_inbox_tips">Inbox tips</string>
     <string name="account_settings_incoming_summary">Username, password and other incoming server settings</string>
@@ -139,6 +141,7 @@
     <string name="gmailify_err_thirdparty_server_error">Third-party email service error.</string>
     <string name="gmailify_success_text">By default, your emails will be sent from:</string>
     <string name="gmailify_target_text_fmt">"A copy of your emails will be synced to Gmail and kept in this mailbox. Your email address won't change. ^1"</string>
+    <string name="got_it_option">OK</string>
     <string name="icr_canceled">This event has been <b>cancelled</b>.</string>
     <string name="icr_organizer">(organiser)</string>
     <string name="icr_time_description">Date information</string>

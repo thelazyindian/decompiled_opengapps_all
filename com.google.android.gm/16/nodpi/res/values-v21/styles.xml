@@ -26,6 +26,16 @@
     <style name="AdAppInstallButton" parent="@style/BaseAdAppInstallButton">
         <item name="android:fontFamily">sans-serif-medium</item>
     </style>
+    <style name="AppInstallWithCtaRichAdTeaserRatingBar" parent="@style/Widget.AppCompat.RatingBar.Small">
+        <item name="android:layout_gravity">center_vertical</item>
+        <item name="android:layout_marginRight">@dimen/app_install_with_cta_rich_ad_teaser_rating_bar_margin_right</item>
+        <item name="android:numStars">5</item>
+        <item name="android:stepSize">0.5</item>
+        <item name="android:isIndicator">true</item>
+        <item name="android:layout_marginEnd">@dimen/app_install_with_cta_rich_ad_teaser_rating_bar_margin_right</item>
+        <item name="android:progressTint">@color/app_install_with_cta_rich_ad_teaser_star_primary_color</item>
+        <item name="android:secondaryProgressTint">@color/app_install_with_cta_rich_ad_teaser_star_secondary_color</item>
+    </style>
     <style name="Base.TextAppearance.AppCompat" parent="@android:style/TextAppearance.Material" />
     <style name="Base.TextAppearance.AppCompat.Body1" parent="@android:style/TextAppearance.Material.Body1" />
     <style name="Base.TextAppearance.AppCompat.Body2" parent="@android:style/TextAppearance.Material.Body2" />

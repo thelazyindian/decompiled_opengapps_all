@@ -36,6 +36,9 @@
     <string name="account_management_need_to_set_up_new_work_account">Jou nuwe werkrekening moet opgestel word.</string>
     <string name="account_management_new_work_account_line_item">Stel hierdie rekening op</string>
     <string name="account_management_set_up_new_account_title">Nuwe werkrekening</string>
+    <string name="account_notification_level_all">Alle</string>
+    <string name="account_notification_level_high_priority">Slegs hoëprioriteit</string>
+    <string name="account_notification_level_none">Geen</string>
     <string name="account_security_dialog_content_fmt">Om jou &lt;%s>-rekening te kan gebruik, moet jy die sekuriteitinstellings op jou toestel opdateer. Kontak jou administrateur vir meer inligting.</string>
     <string name="account_security_dialog_ok">Dateer nou op</string>
     <string name="account_security_policy_explanation_fmt">"Die bediener %s vereis dat jy dit toelaat om sekere van jou Android-toestel se sekuriteitskenmerke van 'n afstand af te beheer."</string>
@@ -48,6 +51,8 @@
     <string name="account_settings_conversation_view_progress_dialog_message">Dateer tans rekeninginstellings op …</string>
     <string name="account_settings_conversation_view_summary">"Groepeer e-posse oor dieselfde onderwerp. Die instelling kan 'n rukkie neem om in werking te tree."</string>
     <string name="account_settings_conversation_view_title">Gesprekaansig</string>
+    <string name="account_settings_conversation_view_turned_off_dialog_message">Gesprekaansig is afgeskakel om by jou rekeninginstellings te pas. Jy kan dit in instellings verander.</string>
+    <string name="account_settings_conversation_view_turned_on_dialog_message">Gesprekaansig is aangeskakel om by jou rekeninginstellings te pas. Jy kan dit in instellings verander.</string>
     <string name="account_settings_data_usage">Datagebruik</string>
     <string name="account_settings_description_label">Rekeningnaam</string>
     <string name="account_settings_edit_quick_responses_label">Vinnige antwoorde</string>
@@ -821,6 +826,7 @@
     <string name="gmailify_updating_password_title">Dateer tans jou wagwoord op …</string>
     <string name="google_play_logo">Gaan na Google Play Winkel</string>
     <string name="google_terms_of_service">Google se diensbepalings</string>
+    <string name="got_it_option">Het dit</string>
     <string name="has_malware_website_links">Wees versigtig met hierdie boodskap. Dit bevat skakels na webwerwe wat wanware huisves.</string>
     <string name="hats_survey_promo_action_text">Vul ons opname in</string>
     <string name="hats_survey_promo_text">Help ons om Gmail te verbeter</string>
@@ -844,6 +850,7 @@
     <string name="icr_declined">%1$s het hierdie geleentheid &lt;b>afgewys&lt;/b>.</string>
     <string name="icr_empty_title">(geen titel nie)</string>
     <string name="icr_hide_original">Versteek oorspronklike boodskap</string>
+    <string name="icr_loading_error_msg">Kan nie geleentheiddata laai nie.</string>
     <string name="icr_location_description">Ligging</string>
     <string name="icr_organizer">(organiseerder)</string>
     <string name="icr_responded_maybe">Het miskien geantwoord</string>
@@ -853,6 +860,8 @@
     <string name="icr_show_original">Wys oorspronklike boodskap</string>
     <string name="icr_tentative">%1$s het hierdie geleentheid &lt;b>voorlopig aanvaar&lt;/b>.</string>
     <string name="icr_time_description">Datuminligting</string>
+    <string name="icr_view_details">Bekyk besonderhede</string>
+    <string name="icr_warning_description">Waarskuwing</string>
     <string name="image_attached">Prent aangeheg</string>
     <string name="imap_name">Persoonlik (IMAP)</string>
     <string name="important_inbox_section_title">Inkassie Belangrike afdeling</string>
@@ -1035,7 +1044,7 @@
     <string name="notification_label_description_priority_inbox_all_mail">Inkassie</string>
     <string name="notification_label_description_starred">Gester</string>
     <string name="notification_level_all">Alle nuwe e-pos</string>
-    <string name="notification_level_important">Slegs belangrik</string>
+    <string name="notification_level_important">Slegs belangrike afdeling</string>
     <string name="notification_level_none">Geen</string>
     <string name="notification_sender_line_snoozed">Gesluimer: %1$s</string>
     <string name="notifications_category">Kennisgewings</string>
@@ -1196,7 +1205,7 @@ Skakel rekeningkennisgewings aan?"</string>
     <string name="preferences_nudge_section_outbound_summary">Gestuurde e-posse waarop jy dalk moet opvolg, sal boaan jou inkassie verskyn</string>
     <string name="preferences_nudge_section_outbound_title">Stel e-posse voor om op op te volg</string>
     <string name="preferences_nudging_title">Antwoord en volg op</string>
-    <string name="preferences_priority_inbox_notification_level_title">Kennisgewingvlak</string>
+    <string name="preferences_priority_inbox_notification_level_title">Kennisgewings vir inkassieafdelings</string>
     <string name="preferences_ringtone_title">Klank</string>
     <string name="preferences_signature_dialog_title">Handtekening</string>
     <string name="preferences_signature_summary_not_set">Nie gestel nie</string>
@@ -1370,7 +1379,7 @@ Tik om aan te skakel."</string>
     <string name="server_error_certificate_error">"Daar was 'n probleem met beveiliging van die verbinding."</string>
     <string name="server_error_login_limit_exceeded">Te veel keer herlaai. Probeer asseblief later weer.</string>
     <string name="server_error_nonexistent_folder">Die versoekte vouer is nie gevind nie.</string>
-    <string name="server_error_too_many_requests">Te veel versoeke. Het bedienermisbruiklimiete oorskry</string>
+    <string name="server_error_too_many_requests">Te veel keer herlaai. Probeer asseblief later weer.</string>
     <string name="set_priority">Stel prioriteit</string>
     <string name="settings">Instellings</string>
     <string name="settings_number_of_days">Dae se e-pos om te sinkroniseer</string>
@@ -1530,6 +1539,7 @@ Tik om aan te skakel."</string>
     <string name="too_large_to_attach_multiple">Een of meer lêers nie aangeheg nie. Beperking %1$s.</string>
     <string name="too_large_to_attach_single">Kan nie lêer van meer as %1$s aanheg nie.</string>
     <string name="trash_folder_selection_title">Kies bediener se asblikvouer vir %s</string>
+    <string name="trashed_message_indicator">Hierdie boodskap is uitgevee</string>
     <string name="turn_auto_sync_on_dialog_body">Veranderinge wat jy in alle programme en rekeninge maak, nie net in Gmail nie, sal tussen die web, jou ander toestelle en jou %1$s gesinkroniseer word.</string>
     <string name="turn_auto_sync_on_dialog_confirm_btn">Skakel aan</string>
     <string name="turn_auto_sync_on_dialog_title">Skakel outo-sinkroniseer aan?</string>

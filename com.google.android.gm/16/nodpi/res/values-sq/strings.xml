@@ -32,6 +32,9 @@
     <string name="account_management_need_to_set_up_new_work_account">Llogaria jote e re e punës duhet të konfigurohet.</string>
     <string name="account_management_new_work_account_line_item">Konfiguro këtë llogari</string>
     <string name="account_management_set_up_new_account_title">Llogaria e re e punës</string>
+    <string name="account_notification_level_all">Të gjitha</string>
+    <string name="account_notification_level_high_priority">Vetëm me prioritet të lartë</string>
+    <string name="account_notification_level_none">Asnjë</string>
     <string name="account_security_dialog_content_fmt">Që të përdorësh llogarinë tënde &lt;%s>, duhet të përditësosh cilësimet e sigurisë në pajisje. Kontakto me administratorin për më shumë informacion.</string>
     <string name="account_security_dialog_ok">Përditëso tani</string>
     <string name="account_security_policy_explanation_fmt">Serveri %s kërkon që të lejosh që ajo të kontrollojë në distancë disa funksione të sigurisë të pajisjes tënde \"android\".</string>
@@ -44,6 +47,8 @@
     <string name="account_settings_conversation_view_progress_dialog_message">Cilësimet e llogarisë po përditësohen…</string>
     <string name="account_settings_conversation_view_summary">"Grupo së bashku email-et me të njëjtën temë. Ky cilësim mund të kërkojë pak kojë për t'u zbatuar"</string>
     <string name="account_settings_conversation_view_title">Pamja e bisedës</string>
+    <string name="account_settings_conversation_view_turned_off_dialog_message">"Pamja e bisedës është çaktivizuar për t'u përputhur me cilësimet e llogarisë sate. Mund ta ndryshosh këtë te cilësimet."</string>
+    <string name="account_settings_conversation_view_turned_on_dialog_message">"Pamja e bisedës është aktivizuar për t'u përputhur me cilësimet e llogarisë sate. Mund ta ndryshosh këtë te cilësimet."</string>
     <string name="account_settings_data_usage">Përdorimi i të dhënave</string>
     <string name="account_settings_description_label">Emri i llogarisë</string>
     <string name="account_settings_edit_quick_responses_label">Përgjigje të shpejta</string>
@@ -806,6 +811,7 @@
     <string name="gmailify_updating_password_title">Po përditëson fjalëkalimin tënd…</string>
     <string name="google_play_logo">Shko te dyqani i \"Luaj me Google\"</string>
     <string name="google_terms_of_service">Kushtet e shërbimit të Google</string>
+    <string name="got_it_option">E kuptova</string>
     <string name="has_malware_website_links">Ki kujdes me këtë mesazh. Përmban lidhje me sajte uebi ku strehohen softuerë keqdashës.</string>
     <string name="hats_survey_promo_action_text">Merr pjesë në sondazhin tonë</string>
     <string name="hats_survey_promo_text">Na ndihmo të përmirësojmë Gmail</string>
@@ -829,6 +835,7 @@
     <string name="icr_declined">%1$s e ka &lt;b>refuzuar&lt;/b> këtë ngjarje.</string>
     <string name="icr_empty_title">(pa titull)</string>
     <string name="icr_hide_original">Fshih mesazhin origjinal</string>
+    <string name="icr_loading_error_msg">Të dhënat e ngjarjes nuk mund të ngarkohen.</string>
     <string name="icr_location_description">Vendndodhja</string>
     <string name="icr_organizer">(organizuesi)</string>
     <string name="icr_responded_maybe">U përgjigj \"Ndoshta\"</string>
@@ -838,6 +845,8 @@
     <string name="icr_show_original">Shfaq mesazhin origjinal</string>
     <string name="icr_tentative">%1$s e ka &lt;b>pranuar paraprakisht&lt;/b> këtë ngjarje.</string>
     <string name="icr_time_description">Informacioni i datës</string>
+    <string name="icr_view_details">Shiko detajet</string>
+    <string name="icr_warning_description">Paralajmërim</string>
     <string name="image_attached">Imazhi i bashkëngjitur</string>
     <string name="imap_name">Personale (IMAP)</string>
     <string name="important_inbox_section_title">Seksioni \"Të rëndësishme\" i kutisë hyrëse</string>
@@ -1019,7 +1028,7 @@
     <string name="notification_label_description_priority_inbox_all_mail">Kutia hyrëse</string>
     <string name="notification_label_description_starred">Me yll</string>
     <string name="notification_level_all">Të gjitha email-et e reja</string>
-    <string name="notification_level_important">Vetëm të rëndësishmet</string>
+    <string name="notification_level_important">Vetëm seksioni i rëndësishëm</string>
     <string name="notification_level_none">Asnjë</string>
     <string name="notification_sender_line_snoozed">Shtyrë: %1$s</string>
     <string name="notifications_category">Njoftimet</string>
@@ -1178,7 +1187,7 @@ Të aktivizohen njoftimet e llogarisë?"</string>
     <string name="preferences_nudge_section_outbound_summary">"Email-et e dërguara që mund të duhet t'i ndjekësh do të shfaqen në krye të kutisë hyrëse"</string>
     <string name="preferences_nudge_section_outbound_title">"Sugjero email-e për t'i ndjekur"</string>
     <string name="preferences_nudging_title">Përgjigjja dhe ndjekja</string>
-    <string name="preferences_priority_inbox_notification_level_title">Niveli i njoftimeve</string>
+    <string name="preferences_priority_inbox_notification_level_title">Njofto për seksionet e kutisë hyrëse</string>
     <string name="preferences_ringtone_title">Tingulli</string>
     <string name="preferences_signature_dialog_title">Nënshkrimi</string>
     <string name="preferences_signature_summary_not_set">Nuk është caktuar</string>
@@ -1352,7 +1361,7 @@ Të aktivizohen njoftimet e llogarisë?"</string>
     <string name="server_error_certificate_error">Pati një problem gjatë sigurimit të lidhjes së internetit.</string>
     <string name="server_error_login_limit_exceeded">Shumë rifreskime. Provo sërish më vonë.</string>
     <string name="server_error_nonexistent_folder">Dosja e kërkuar nuk u gjet.</string>
-    <string name="server_error_too_many_requests">Shumë kërkesa. Janë kaluar kufijtë e abuzimit të serverit</string>
+    <string name="server_error_too_many_requests">Shumë rifreskime. Provo përsëri më vonë.</string>
     <string name="set_priority">Cakto përparësinë</string>
     <string name="settings">Cilësimet</string>
     <string name="settings_number_of_days">Ditët e postës për sinkronizim</string>
@@ -1512,6 +1521,7 @@ Të aktivizohen njoftimet e llogarisë?"</string>
     <string name="too_large_to_attach_multiple">Një ose disa fotografi nuk janë bashkëngjitur. Kufiri maksimal është %1$s.</string>
     <string name="too_large_to_attach_single">Nuk mund të bashkëngjitet skedar më i madh se %1$s.</string>
     <string name="trash_folder_selection_title">Përzgjidh dosjen e postës së pavlerë të serverit për %s</string>
+    <string name="trashed_message_indicator">Ky mesazh është fshirë</string>
     <string name="turn_auto_sync_on_dialog_body">Ndryshimet që bën për të gjitha aplikacionet dhe llogaritë, jo vetëm Gmail, do të sinkronizohen ndërmjet uebit, pajisjes tënde \"%1$s\" dhe të tjera.</string>
     <string name="turn_auto_sync_on_dialog_confirm_btn">Aktivizo</string>
     <string name="turn_auto_sync_on_dialog_title">Të aktivizohet sinkronizimi automatik?</string>

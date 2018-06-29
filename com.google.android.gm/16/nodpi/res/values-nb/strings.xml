@@ -35,6 +35,9 @@
     <string name="account_management_need_to_set_up_new_work_account">Den nye jobbkontoen din må konfigureres.</string>
     <string name="account_management_new_work_account_line_item">Konfigurer denne kontoen</string>
     <string name="account_management_set_up_new_account_title">Ny jobbkonto</string>
+    <string name="account_notification_level_all">Alle</string>
+    <string name="account_notification_level_high_priority">Kun høy prioritet</string>
+    <string name="account_notification_level_none">Ingen</string>
     <string name="account_security_dialog_content_fmt">For å kunne bruke kontoen &lt;%s> må du oppdatere sikkerhetsinnstillingene på enheten. Kontakt administratoren for mer informasjon.</string>
     <string name="account_security_dialog_ok">Oppdater nå</string>
     <string name="account_security_policy_explanation_fmt">Tjeneren %s krever at den får kontrollere noen av sikkerhetsfunksjonene på Android-enheten eksternt.</string>
@@ -47,6 +50,8 @@
     <string name="account_settings_conversation_view_progress_dialog_message">Oppdaterer kontoinnstillingene …</string>
     <string name="account_settings_conversation_view_summary">Gruppér e-poster med samme emne. Det kan ta litt tid før denne innstillingen blir implementert</string>
     <string name="account_settings_conversation_view_title">Samtalevisning</string>
+    <string name="account_settings_conversation_view_turned_off_dialog_message">Samtalevisning er slått av, slik at innstillingen samsvarer med kontoinnstillingene dine. Du kan endre dette i Innstillinger.</string>
+    <string name="account_settings_conversation_view_turned_on_dialog_message">Samtalevisning er slått på, slik at innstillingen samsvarer med kontoinnstillingene dine. Du kan endre dette i Innstillinger.</string>
     <string name="account_settings_data_usage">Databruk</string>
     <string name="account_settings_description_label">Kontonavn</string>
     <string name="account_settings_edit_quick_responses_label">Hurtigsvar</string>
@@ -826,6 +831,7 @@
     <string name="gmailify_updating_password_title">Oppdaterer passordet ditt …</string>
     <string name="google_play_logo">Gå til Google Play-butikken</string>
     <string name="google_terms_of_service">Googles vilkår for bruk</string>
+    <string name="got_it_option">Greit</string>
     <string name="has_malware_website_links">Vær forsiktig med denne e-posten. Den inneholder linker til nettsteder med skadelig programvare.</string>
     <string name="hats_survey_promo_action_text">Besvar undersøkelsen</string>
     <string name="hats_survey_promo_text">Hjelp oss med å forbedre Gmail</string>
@@ -850,6 +856,7 @@
     <string name="icr_declined">%1$s har &lt;b>takket nei&lt;/b> til denne aktiviteten.</string>
     <string name="icr_empty_title">(uten tittel)</string>
     <string name="icr_hide_original">Skjul den opprinnelige e-posten</string>
+    <string name="icr_loading_error_msg">Kan ikke laste inn aktivitetsdataene.</string>
     <string name="icr_location_description">Sted</string>
     <string name="icr_organizer">(arrangør)</string>
     <string name="icr_responded_maybe">Svarte «kanskje»</string>
@@ -859,6 +866,8 @@
     <string name="icr_show_original">Vis den opprinnelige e-posten</string>
     <string name="icr_tentative">%1$s har &lt;b>takket ja m/forbehold&lt;/b> til aktiviteten.</string>
     <string name="icr_time_description">Datoinformasjon</string>
+    <string name="icr_view_details">Se detaljer</string>
+    <string name="icr_warning_description">Advarsel</string>
     <string name="image_attached">Bildet er lagt ved</string>
     <string name="imap_name">Personlig (IMAP)</string>
     <string name="important_inbox_section_title">Inbox Viktig-del</string>
@@ -1043,7 +1052,7 @@
     <string name="notification_label_description_priority_inbox_all_mail">Innboks</string>
     <string name="notification_label_description_starred">Stjernemerket</string>
     <string name="notification_level_all">Alle nye e-poster</string>
-    <string name="notification_level_important">Bare viktige</string>
+    <string name="notification_level_important">Kun Viktig-delen</string>
     <string name="notification_level_none">Ingen</string>
     <string name="notification_sender_line_snoozed">Utsatt: %1$s</string>
     <string name="notifications_category">Varsler</string>
@@ -1204,7 +1213,7 @@ Vil du sette kontovarsler til «Alle»?"</string>
     <string name="preferences_nudge_section_outbound_summary">Sendte e-poster du kanskje bør følge opp, vises øverst i innboksen</string>
     <string name="preferences_nudge_section_outbound_title">Foreslå e-poster jeg bør følge opp</string>
     <string name="preferences_nudging_title">Svar og følg opp</string>
-    <string name="preferences_priority_inbox_notification_level_title">Varselnivå</string>
+    <string name="preferences_priority_inbox_notification_level_title">Varsling for innboksdeler</string>
     <string name="preferences_ringtone_title">Lyd</string>
     <string name="preferences_signature_dialog_title">Signatur</string>
     <string name="preferences_signature_summary_not_set">Ikke angitt</string>
@@ -1378,7 +1387,7 @@ Trykk for å slå det på."</string>
     <string name="server_error_certificate_error">Det oppsto et problem ved sikring av forbindelsen.</string>
     <string name="server_error_login_limit_exceeded">For mange oppdateringer. Prøv igjen senere.</string>
     <string name="server_error_nonexistent_folder">Den forespurte mappen ble ikke funnet.</string>
-    <string name="server_error_too_many_requests">For mange forespørsler. Grensen for misbruk av tjeneren er overskredet</string>
+    <string name="server_error_too_many_requests">For mange oppdateringer. Prøv igjen senere.</string>
     <string name="set_priority">Angi prioritet</string>
     <string name="settings">Innstillinger</string>
     <string name="settings_number_of_days">Antall dager e-post skal synkroniseres</string>
@@ -1539,6 +1548,7 @@ Trykk for å slå det på."</string>
     <string name="too_large_to_attach_multiple">Én eller flere av filene er ikke vedlagt. Grensen er på %1$s.</string>
     <string name="too_large_to_attach_single">Kan ikke legge ved filer på mer enn %1$s.</string>
     <string name="trash_folder_selection_title">Velg tjenerens papirkurv for %s</string>
+    <string name="trashed_message_indicator">Denne e-posten er slettet</string>
     <string name="turn_auto_sync_on_dialog_body">Endringer du gjør i apper og kontoer (ikke bare i Gmail) blir synkronisert mellom nettet, de andre enhetene dine og %1$s.</string>
     <string name="turn_auto_sync_on_dialog_confirm_btn">Slå på</string>
     <string name="turn_auto_sync_on_dialog_title">Vil du slå på automatisk synkronisering?</string>

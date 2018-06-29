@@ -33,6 +33,9 @@
     <string name="account_management_need_to_set_up_new_work_account">Akun kerja baru Anda perlu disiapkan.</string>
     <string name="account_management_new_work_account_line_item">Siapkan akun ini</string>
     <string name="account_management_set_up_new_account_title">Akun kerja baru</string>
+    <string name="account_notification_level_all">Semua</string>
+    <string name="account_notification_level_high_priority">Hanya prioritas tinggi</string>
+    <string name="account_notification_level_none">Tak Ada</string>
     <string name="account_security_dialog_content_fmt">Untuk menggunakan akun &lt;%s> Anda harus memperbarui setelan keamanan di perangkat. Hubungi administrator untuk informasi lebih lanjut.</string>
     <string name="account_security_dialog_ok">Perbarui sekarang</string>
     <string name="account_security_policy_explanation_fmt">Server %s meminta izin untuk mengontrol beberapa fitur keamanan perangkat Android dari jarak jauh.</string>
@@ -45,6 +48,8 @@
     <string name="account_settings_conversation_view_progress_dialog_message">Memperbarui setelan akun...</string>
     <string name="account_settings_conversation_view_summary">Kelompokkan email dengan topik yang sama. Mungkin diperlukan beberapa saat agar setelan diterapkan.</string>
     <string name="account_settings_conversation_view_title">Tampilan percakapan</string>
+    <string name="account_settings_conversation_view_turned_off_dialog_message">Tampilan percakapan dinonaktifkan agar sesuai dengan setelan akun. Anda dapat mengubahnya di setelan.</string>
+    <string name="account_settings_conversation_view_turned_on_dialog_message">Tampilan percakapan diaktifkan agar sesuai dengan setelan akun. Anda dapat mengubahnya di setelan.</string>
     <string name="account_settings_data_usage">Penggunaan data</string>
     <string name="account_settings_description_label">Nama akun</string>
     <string name="account_settings_edit_quick_responses_label">Respons cepat</string>
@@ -806,6 +811,7 @@
     <string name="gmailify_updating_password_title">Memperbarui sandi Anda...</string>
     <string name="google_play_logo">Buka Google Play Store</string>
     <string name="google_terms_of_service">Persyaratan Layanan Google</string>
+    <string name="got_it_option">OK</string>
     <string name="has_malware_website_links">Berhati-hatilah dengan pesan ini. Pesan ini berisi link ke situs yang menghosting malware.</string>
     <string name="hats_survey_promo_action_text">Ikuti survei kami</string>
     <string name="hats_survey_promo_text">Bantu kami menyempurnakan Gmail</string>
@@ -829,6 +835,7 @@
     <string name="icr_declined">%1$s telah &lt;b>menolak&lt;/b> acara ini.</string>
     <string name="icr_empty_title">(tanpa judul)</string>
     <string name="icr_hide_original">Sembunyikan pesan asli</string>
+    <string name="icr_loading_error_msg">Tidak dapat memuat informasi acara.</string>
     <string name="icr_location_description">Lokasi</string>
     <string name="icr_organizer">(penyelenggara)</string>
     <string name="icr_responded_maybe">Ditanggapi mungkin</string>
@@ -838,6 +845,8 @@
     <string name="icr_show_original">Tampilkan pesan asli</string>
     <string name="icr_tentative">%1$s &lt;b>sementara menerima&lt;/b> acara ini.</string>
     <string name="icr_time_description">Informasi Tanggal</string>
+    <string name="icr_view_details">Lihat detail</string>
+    <string name="icr_warning_description">Peringatan</string>
     <string name="image_attached">Gambar dilampirkan</string>
     <string name="imap_name">Pribadi (IMAP)</string>
     <string name="important_inbox_section_title">Bagian Penting kotak masuk</string>
@@ -1018,7 +1027,7 @@
     <string name="notification_label_description_priority_inbox_all_mail">Kotak Masuk</string>
     <string name="notification_label_description_starred">Berbintang</string>
     <string name="notification_level_all">Semua email baru</string>
-    <string name="notification_level_important">Penting saja</string>
+    <string name="notification_level_important">Hanya bagian penting</string>
     <string name="notification_level_none">Tidak ada</string>
     <string name="notification_sender_line_snoozed">Ditunda: %1$s</string>
     <string name="notifications_category">Notifikasi</string>
@@ -1179,7 +1188,7 @@ Aktifkan pemberitahuan akun?"</string>
     <string name="preferences_nudge_section_outbound_summary">Email terkirim yang mungkin perlu ditindaklanjuti akan muncul di bagian atas kotak masuk Anda</string>
     <string name="preferences_nudge_section_outbound_title">Sarankan email untuk ditindaklanjuti</string>
     <string name="preferences_nudging_title">Balasan dan tindak lanjut</string>
-    <string name="preferences_priority_inbox_notification_level_title">Tingkat notifikasi</string>
+    <string name="preferences_priority_inbox_notification_level_title">Beri tahu untuk bagian kotak masuk</string>
     <string name="preferences_ringtone_title">Suara</string>
     <string name="preferences_signature_dialog_title">Tanda Tangan</string>
     <string name="preferences_signature_summary_not_set">Tidak disetel</string>
@@ -1347,7 +1356,7 @@ Ketuk untuk mengaktifkan."</string>
     <string name="server_error_certificate_error">Ada masalah saat mengamankan sambungan.</string>
     <string name="server_error_login_limit_exceeded">Penyegaran terlalu sering. Coba lagi nanti.</string>
     <string name="server_error_nonexistent_folder">Folder yang diminta tidak ditemukan.</string>
-    <string name="server_error_too_many_requests">Terlalu banyak permintaan. Batas penyalahgunaan server terlampaui</string>
+    <string name="server_error_too_many_requests">Terlalu sering muat ulang. Coba lagi nanti.</string>
     <string name="set_priority">Setel prioritas</string>
     <string name="settings">Setelan</string>
     <string name="settings_number_of_days">Jumlah hari untuk menyinkronkan email</string>
@@ -1507,6 +1516,7 @@ Ketuk untuk mengaktifkan."</string>
     <string name="too_large_to_attach_multiple">Satu atau beberapa file tidak dilampirkan. Batas %1$s.</string>
     <string name="too_large_to_attach_single">Tidak dapat melampirkan file lebih dari %1$s.</string>
     <string name="trash_folder_selection_title">Pilih folder sampah server %s</string>
+    <string name="trashed_message_indicator">Pesan ini telah dihapus</string>
     <string name="turn_auto_sync_on_dialog_body">Perubahan yang Anda lakukan pada semua aplikasi dan akun, bukan hanya Gmail, akan disinkronkan di web, perangkat lainnya, dan %1$s Anda.</string>
     <string name="turn_auto_sync_on_dialog_confirm_btn">Aktifkan</string>
     <string name="turn_auto_sync_on_dialog_title">Aktifkan sinkronisasi otomatis?</string>

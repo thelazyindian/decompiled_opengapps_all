@@ -30,6 +30,9 @@
     <string name="account_management_need_to_set_up_new_work_account">మీ కొత్త కార్యాలయ ఖాతా సెటప్ చేయబడాలి.</string>
     <string name="account_management_new_work_account_line_item">ఈ ఖాతాను సెటప్ చేయండి</string>
     <string name="account_management_set_up_new_account_title">కొత్త కార్యాలయ ఖాతా</string>
+    <string name="account_notification_level_all">అన్ని</string>
+    <string name="account_notification_level_high_priority">అధిక ప్రాధాన్యత మాత్రమే</string>
+    <string name="account_notification_level_none">ఏదీ కాదు</string>
     <string name="account_security_dialog_content_fmt">మీ &lt;%s> ఖాతాను ఉపయోగించడానికి, మీరు తప్పనిసరిగా మీ పరికరంలో భద్రతా సెట్టింగ్‌లను నవీకరించాలి. మరింత సమాచారం కోసం మీ నిర్వాహకులను సంప్రదించండి.</string>
     <string name="account_security_dialog_ok">ఇప్పుడే నవీకరించు</string>
     <string name="account_security_policy_explanation_fmt">%s సర్వర్ మీ Android పరికరం యొక్క కొన్ని భద్రతా లక్షణాలను రిమోట్‌గా నియంత్రించడానికి మీరు దాన్ని అనుమతించడం అవసరం.</string>
@@ -42,6 +45,8 @@
     <string name="account_settings_conversation_view_progress_dialog_message">ఖాతా సెట్టింగ్‌లను అప్‌డేట్ చేస్తోంది…</string>
     <string name="account_settings_conversation_view_summary">ఒకే విషయం ఉన్న ఇమెయిల్‌లను ఒక చోట సమూహపరచండి. వర్తింపజేయడానికి ఈ సెట్టింగ్‌కు చేయడానికి కొంత సమయం పట్టవచ్చు</string>
     <string name="account_settings_conversation_view_title">సంభాషణ వీక్షణ</string>
+    <string name="account_settings_conversation_view_turned_off_dialog_message">మీ ఖాతా సెట్టింగ్‌లను సరిపోల్చడానికి సంభాషణ వీక్షణ ఆఫ్ చేయబడింది. మీరు దీనిని సెట్టింగ్‌లలో మార్చవచ్చు.</string>
+    <string name="account_settings_conversation_view_turned_on_dialog_message">మీ ఖాతా సెట్టింగ్‌లను సరిపోల్చడానికి సంభాషణ వీక్షణ ఆన్ చేయబడింది. మీరు దీనిని సెట్టింగ్‌లలో మార్చవచ్చు.</string>
     <string name="account_settings_data_usage">డేటా వినియోగం</string>
     <string name="account_settings_description_label">ఖాతా పేరు</string>
     <string name="account_settings_edit_quick_responses_label">శీఘ్ర ప్రతిస్పందనలు</string>
@@ -809,6 +814,7 @@
     <string name="gmailify_updating_password_title">మీ పాస్‌వర్డ్‌ను నవీకరిస్తోంది…</string>
     <string name="google_play_logo">Google Play Storeకి వెళ్లండి</string>
     <string name="google_terms_of_service">Google సేవా నిబంధనలు</string>
+    <string name="got_it_option">అర్థమైంది</string>
     <string name="has_malware_website_links">ఈ సందేశంతో జాగ్రత్తగా ఉండండి. ఇది మాల్వేర్‌ను హోస్ట్ చేస్తున్న వెబ్‌సైట్‌లకు లింక్‌లను కలిగి ఉంది.</string>
     <string name="hats_survey_promo_action_text">మా సర్వేలో పాల్గొనం.</string>
     <string name="hats_survey_promo_text">Gmailను మెరుగుపరచడంలో సహాయపడండి</string>
@@ -832,6 +838,7 @@
     <string name="icr_declined">%1$s ఈ ఈవెంట్‌ను &lt;b>నిరాకరించారు&lt;/b>.</string>
     <string name="icr_empty_title">(శీర్షిక లేదు)</string>
     <string name="icr_hide_original">అసలు సందేశాన్ని దాచు</string>
+    <string name="icr_loading_error_msg">ఈవెంట్ డేటాను లోడ్ చేయడం సాధ్యపడలేదు.</string>
     <string name="icr_location_description">స్థానం</string>
     <string name="icr_organizer">(నిర్వాహకులు)</string>
     <string name="icr_responded_maybe">హాజరు కావచ్చని ప్రతిస్పందించారు</string>
@@ -841,6 +848,8 @@
     <string name="icr_show_original">అసలు సందేశాన్ని చూపు</string>
     <string name="icr_tentative">%1$s ఈ ఈవెంట్‌ను &lt;b>తాత్కాలికంగా ఆమోదించారు&lt;/b>.</string>
     <string name="icr_time_description">తేదీ సమాచారం</string>
+    <string name="icr_view_details">వివరాలను చూడండి</string>
+    <string name="icr_warning_description">హెచ్చరిక</string>
     <string name="image_attached">చిత్రం జోడించబడింది</string>
     <string name="imap_name">వ్యక్తిగతం (IMAP)</string>
     <string name="important_inbox_section_title">ఇన్‌బాక్స్ ముఖ్యమైన విభాగం</string>
@@ -1023,7 +1032,7 @@
     <string name="notification_label_description_priority_inbox_all_mail">ఇన్‌బాక్స్</string>
     <string name="notification_label_description_starred">నక్షత్రం ఉంచినవి</string>
     <string name="notification_level_all">అన్ని కొత్త మెయిల్‌లు</string>
-    <string name="notification_level_important">ముఖ్యమైనవి మాత్రమే</string>
+    <string name="notification_level_important">ముఖ్యమైన విభాగం మాత్రమే</string>
     <string name="notification_level_none">ఏమీ లేవు</string>
     <string name="notification_sender_line_snoozed">తాత్కాలికంగా ఆపివేయబడినది: %1$s</string>
     <string name="notifications_category">నోటిఫికేషన్‌లు</string>
@@ -1183,7 +1192,7 @@
     <string name="preferences_nudge_section_outbound_summary">మీరు అనుసరించాల్సిన పంపిన ఇమెయిల్‌లు మీ ఇన్‌బాక్స్‌ పైభాగాన కనిపిస్తాయి</string>
     <string name="preferences_nudge_section_outbound_title">అనుసరణీయ ఇమెయిల్‌లను సూచించు</string>
     <string name="preferences_nudging_title">ప్రత్యుత్తరం మరియు అనుసరణ</string>
-    <string name="preferences_priority_inbox_notification_level_title">నోటిఫికేషన్ స్థాయి</string>
+    <string name="preferences_priority_inbox_notification_level_title">ఇన్‌బాక్స్ విభాగాలకు తెలియజేయి</string>
     <string name="preferences_ringtone_title">ధ్వని</string>
     <string name="preferences_signature_dialog_title">సంతకం</string>
     <string name="preferences_signature_summary_not_set">సెట్ చేయలేదు</string>
@@ -1357,7 +1366,7 @@
     <string name="server_error_certificate_error">కనెక్షన్‌ను సురక్షితం చేయడంలో సమస్య ఏర్పడింది.</string>
     <string name="server_error_login_limit_exceeded">చాలా ఎక్కువసార్లు రిఫ్రెష్ చేసారు. దయచేసి తర్వాత మళ్లీ ప్రయత్నించండి.</string>
     <string name="server_error_nonexistent_folder">అభ్యర్థించిన ఫోల్డర్ కనుగొనబడలేదు.</string>
-    <string name="server_error_too_many_requests">చాలా ఎక్కువ అభ్యర్థనలు. సర్వర్ దుర్వినియోగ పరిమితులను అధిగమించింది</string>
+    <string name="server_error_too_many_requests">చాలా ఎక్కువసార్లు రిఫ్రెష్ చేసారు. దయచేసి తర్వాత మళ్లీ ప్రయత్నించండి.</string>
     <string name="set_priority">ప్రాధాన్యతను సెట్ చేయి</string>
     <string name="settings">సెట్టింగ్‌లు</string>
     <string name="settings_number_of_days">మెయిల్‌ను సమకాలీకరించాల్సిన రోజులు</string>
@@ -1518,6 +1527,7 @@
     <string name="too_large_to_attach_multiple">ఒకటి లేదా అంతకంటే ఎక్కువ ఫైల్‌లు జోడించబడలేదు. పరిమితి %1$s.</string>
     <string name="too_large_to_attach_single">%1$s కంటే ఎక్కువ పరిమాణం గల ఫైల్‌ను జోడించలేరు.</string>
     <string name="trash_folder_selection_title">%s సర్వర్ ట్రాష్ ఫోల్డర్‌ను ఎంచుకోండి</string>
+    <string name="trashed_message_indicator">ఈ సందేశం తొలగించబడింది</string>
     <string name="turn_auto_sync_on_dialog_body">మీరు కేవలం Gmailకే కాకుండా అన్ని అనువర్తనాలు మరియు ఖాతాలకు చేసే మార్పులు వెబ్, మీ ఇతర పరికరాలు మరియు మీ %1$s మధ్య సమకాలీకరించబడతాయి.</string>
     <string name="turn_auto_sync_on_dialog_confirm_btn">ఆన్ చేయి</string>
     <string name="turn_auto_sync_on_dialog_title">స్వీయ-సమకాలీకరణను ఆన్ చేయాలా?</string>

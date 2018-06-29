@@ -5,11 +5,6 @@
         <item>બધાને જવાબ આપો</item>
         <item>ફોર્વર્ડ કરો</item>
     </string-array>
-    <string-array name="notificationsStatusEntries">
-        <item>બધા</item>
-        <item>માત્ર ઉચ્ચ પ્રાધાન્યતા</item>
-        <item>કંઈ નહીં</item>
-    </string-array>
     <string-array name="prefEntries_autoAdvance">
         <item>વધુ નવું</item>
         <item>જૂનું</item>

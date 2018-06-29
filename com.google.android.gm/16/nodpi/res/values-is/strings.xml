@@ -32,6 +32,9 @@
     <string name="account_management_need_to_set_up_new_work_account">Setja þarf upp nýja vinnureikninginn þinn.</string>
     <string name="account_management_new_work_account_line_item">Setja upp þennan reikning</string>
     <string name="account_management_set_up_new_account_title">Nýr vinnureikningur</string>
+    <string name="account_notification_level_all">Öll</string>
+    <string name="account_notification_level_high_priority">Aðeins áríðandi skeyti</string>
+    <string name="account_notification_level_none">Engin</string>
     <string name="account_security_dialog_content_fmt">Þú þarft að uppfæra öryggisstillingarnar á tækinu til að nota reikninginn &lt;%s>. Hafðu samband við kerfisstjóra til að fá frekari upplýsingar.</string>
     <string name="account_security_dialog_ok">Uppfæra núna</string>
     <string name="account_security_policy_explanation_fmt">Þjónninn %s krefst þess að þú veitir honum heimild til að fjarstýra einhverjum öryggiseiginleikum Android tækisins.</string>
@@ -44,6 +47,8 @@
     <string name="account_settings_conversation_view_progress_dialog_message">Uppfærir stillingar reiknings…</string>
     <string name="account_settings_conversation_view_summary">Flokka saman tölvupóst um sama umfjöllunarefni. Nokkur tími getur liðið þar til stillingin verður virk</string>
     <string name="account_settings_conversation_view_title">Samtalayfirsýn</string>
+    <string name="account_settings_conversation_view_turned_off_dialog_message">Slökkt hefur verið á samtalayfirsýn til samræmis við reikningsstillingarnar þínar. Þú getur breytt þessu í stillingunum.</string>
+    <string name="account_settings_conversation_view_turned_on_dialog_message">Kveikt hefur verið á samtalayfirsýn til samræmis við reikningsstillingarnar þínar. Þú getur breytt þessu í stillingunum.</string>
     <string name="account_settings_data_usage">Gagnanotkun</string>
     <string name="account_settings_description_label">Heiti reiknings</string>
     <string name="account_settings_edit_quick_responses_label">Snarsvör</string>
@@ -822,6 +827,7 @@
     <string name="gmailify_updating_password_title">Uppfærir aðgangsorð…</string>
     <string name="google_play_logo">Fara í Google Play Store</string>
     <string name="google_terms_of_service">Þjónustuskilmálar Google</string>
+    <string name="got_it_option">Ég skil</string>
     <string name="has_malware_website_links">Vertu á varðbergi gagnvart þessu skeyti. Það inniheldur tengla á vefsvæði sem hýsa spilliforrit.</string>
     <string name="hats_survey_promo_action_text">Svara könnuninni</string>
     <string name="hats_survey_promo_text">Hjálpaðu okkur að gera Gmail betra</string>
@@ -845,6 +851,7 @@
     <string name="icr_declined">%1$s hefur &lt;b>hafnað&lt;/b> boði á þennan viðburð.</string>
     <string name="icr_empty_title">(enginn titill)</string>
     <string name="icr_hide_original">Fela upprunalegt skeyti</string>
+    <string name="icr_loading_error_msg">Mistókst að hlaða viðburðargögnum.</string>
     <string name="icr_location_description">Staðsetning</string>
     <string name="icr_organizer">(skipuleggjandi)</string>
     <string name="icr_responded_maybe">Svaraði með kannski</string>
@@ -854,6 +861,8 @@
     <string name="icr_show_original">Sýna upprunalegt skeyti</string>
     <string name="icr_tentative">%1$s hefur &lt;b>með fyrirvara þegið&lt;/b> boð á þennan viðburð.</string>
     <string name="icr_time_description">Dagsetningarupplýsingar</string>
+    <string name="icr_view_details">Sjá nánar</string>
+    <string name="icr_warning_description">Viðvörun</string>
     <string name="image_attached">Mynd í viðhengi</string>
     <string name="imap_name">Persónulegur (IMAP)</string>
     <string name="important_inbox_section_title">Hlutinn „Mikilvægt“ í pósthólfi</string>
@@ -1037,7 +1046,7 @@
     <string name="notification_label_description_priority_inbox_all_mail">Pósthólf</string>
     <string name="notification_label_description_starred">Stjörnumerkt</string>
     <string name="notification_level_all">Allur nýr póstur</string>
-    <string name="notification_level_important">Aðeins mikilvægt</string>
+    <string name="notification_level_important">Aðeins mikilvægur hluti</string>
     <string name="notification_level_none">Ekkert</string>
     <string name="notification_sender_line_snoozed">Þaggað: %1$s</string>
     <string name="notifications_category">Tilkynningar</string>
@@ -1197,7 +1206,7 @@ Kveikja á reikningstilkynningum?"</string>
     <string name="preferences_nudge_section_outbound_summary">Sendur tölvupóstur sem þú gætir þurft að fylgja eftir birtist efst í pósthólfinu</string>
     <string name="preferences_nudge_section_outbound_title">Tillögur að tölvupósti sem þarf að fylgja eftir</string>
     <string name="preferences_nudging_title">Svara og bregðast við</string>
-    <string name="preferences_priority_inbox_notification_level_title">Tilkynningastig</string>
+    <string name="preferences_priority_inbox_notification_level_title">Tilkynna fyrir hluta innhólfs</string>
     <string name="preferences_ringtone_title">Hljóð</string>
     <string name="preferences_signature_dialog_title">Undirskrift</string>
     <string name="preferences_signature_summary_not_set">Ekki valin</string>
@@ -1370,7 +1379,7 @@ Kveikja á reikningstilkynningum?"</string>
     <string name="server_error_certificate_error">Vandamál kom upp við að tryggja öryggi tengingarinnar.</string>
     <string name="server_error_login_limit_exceeded">Of margar endurhleðslur, reyndu aftur síðar.</string>
     <string name="server_error_nonexistent_folder">Umbeðin mappa fannst ekki.</string>
-    <string name="server_error_too_many_requests">Of margar beiðnir. Farið var yfir misnotkunarmörk þjóns</string>
+    <string name="server_error_too_many_requests">Of margar endurhleðslur, reyndu aftur síðar.</string>
     <string name="set_priority">Forgangsraða</string>
     <string name="settings">Stillingar</string>
     <string name="settings_number_of_days">Dagar af pósti til að samstilla</string>
@@ -1531,6 +1540,7 @@ Kveikja á reikningstilkynningum?"</string>
     <string name="too_large_to_attach_multiple">Ein eða fleiri skrár voru ekki hengdar við. Hámarkið er %1$s.</string>
     <string name="too_large_to_attach_single">Ekki er hægt að hengja við skrá sem er stærri en %1$s.</string>
     <string name="trash_folder_selection_title">Veldu möppu fyrir rusl fyrir %s</string>
+    <string name="trashed_message_indicator">Þessu skeyti hefur verið eytt</string>
     <string name="turn_auto_sync_on_dialog_body">Breytingar sem þú gerir á öllum forritum og reikningum, ekki bara Gmail, verða samstilltar á milli vefs, annarra tækja og %1$s.</string>
     <string name="turn_auto_sync_on_dialog_confirm_btn">Kveikja</string>
     <string name="turn_auto_sync_on_dialog_title">Kveikja á sjálfvirkri samstillingu?</string>

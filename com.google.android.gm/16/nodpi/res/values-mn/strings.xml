@@ -35,6 +35,9 @@
     <string name="account_management_need_to_set_up_new_work_account">Та шинэ ажлын бүртгэлээ тохируулах шаардлагатай.</string>
     <string name="account_management_new_work_account_line_item">Энэ бүртгэлийг тохируулах</string>
     <string name="account_management_set_up_new_account_title">Шинэ ажлын бүртгэл</string>
+    <string name="account_notification_level_all">Бүх</string>
+    <string name="account_notification_level_high_priority">Зөвхөн өндөр ач холбогдолтой</string>
+    <string name="account_notification_level_none">Алийг нь ч биш</string>
     <string name="account_security_dialog_content_fmt">Та &lt;%s> бүртгэлээ ашиглахын тулд төхөөрөмжийнхөө нууцлалын тохиргоог шинэчлэх шаардлагатай. Дэлгэрэнгүй мэдээллийг админтайгаа холбогдож авна уу.</string>
     <string name="account_security_dialog_ok">Яг одоо шинэчлэх</string>
     <string name="account_security_policy_explanation_fmt">%s сервер таны Андройд төхөөрөмжийн аюулгүй байдлын зарим функцийг алсаас удирдах зөвшөөрөл өгөхийг шаардаж байна.</string>
@@ -47,6 +50,8 @@
     <string name="account_settings_conversation_view_progress_dialog_message">Бүртгэлийн тохиргоог шинэчилж байна...</string>
     <string name="account_settings_conversation_view_summary">Ижил сэдэвтэй имэйлүүдийг хамтад нь бүлэглэх. Энэ тохиргоог ашиглах хүртэл хэсэг хугацаа зарцуулагдаж болно</string>
     <string name="account_settings_conversation_view_title">Харилцан яриаг үзэх</string>
+    <string name="account_settings_conversation_view_turned_off_dialog_message">Таны бүртгэлийн тохиргоотой тааруулахын тулд харилцан яриа харахыг унтраасан болно. Та үүнийг тохиргоо хэсэгт өөрчлөх боломжтой.</string>
+    <string name="account_settings_conversation_view_turned_on_dialog_message">Таны бүртгэлийн тохиргоотой тааруулахын тулд харилцаа яриа харахыг асаасан болно. Та үүнийг тохиргоо хэсэгт өөрчлөх боломжтой.</string>
     <string name="account_settings_data_usage">Дата ашиглалт</string>
     <string name="account_settings_description_label">Акаунтын нэр</string>
     <string name="account_settings_edit_quick_responses_label">Шуурхай хариултууд</string>
@@ -819,6 +824,7 @@
     <string name="gmailify_updating_password_title">Таны нууц үгийг шинэчилж байна...</string>
     <string name="google_play_logo">Google Play Store руу очих</string>
     <string name="google_terms_of_service">Google Үйлчилгээний Нөхцөл</string>
+    <string name="got_it_option">Ойлголоо</string>
     <string name="has_malware_website_links">Энэ зурвасаас болгоомжилно уу. Үүнд хортой код агуулсан вебсайтууд руу орох холбоос агуулагдсан байна.</string>
     <string name="hats_survey_promo_action_text">Санал асуулгад оролцох</string>
     <string name="hats_survey_promo_text">Gmail-г сайжруулахад тусална уу</string>
@@ -842,6 +848,7 @@
     <string name="icr_declined">%1$s энэ үйл явдалд оролцохоос &lt;b>татгалзсан&lt;/b>.</string>
     <string name="icr_empty_title">(гарчиггүй)</string>
     <string name="icr_hide_original">Эх зурвасыг нуух</string>
+    <string name="icr_loading_error_msg">Үйл явдлын өгөгдлийг ачаалах боломжгүй.</string>
     <string name="icr_location_description">Байршил</string>
     <string name="icr_organizer">(зохион байгуулагч)</string>
     <string name="icr_responded_maybe">Магадгүй гэж хариулсан</string>
@@ -851,6 +858,8 @@
     <string name="icr_show_original">Эх зурвасыг харуулах</string>
     <string name="icr_tentative">%1$s үйл явдалд оролцохыг &lt;b>урьдчилан зөвшөөрсөн&lt;/b>.</string>
     <string name="icr_time_description">Огнооны Мэдээлэл</string>
+    <string name="icr_view_details">Дэлгэрэнгүй үзэх</string>
+    <string name="icr_warning_description">Анхааруулга</string>
     <string name="image_attached">Зураг хавсаргасан</string>
     <string name="imap_name">Хувийн (IMAP)</string>
     <string name="important_inbox_section_title">Ирсэн имэйлийн чухал хэсэг</string>
@@ -1034,7 +1043,7 @@
     <string name="notification_label_description_priority_inbox_all_mail">Ирсэн имэйл</string>
     <string name="notification_label_description_starred">Одтой</string>
     <string name="notification_level_all">Бүх шинэ имэйл</string>
-    <string name="notification_level_important">Зөвхөн чухал</string>
+    <string name="notification_level_important">Зөвхөн чухал хэсэг</string>
     <string name="notification_level_none">Байхгүй</string>
     <string name="notification_sender_line_snoozed">Түр хойшлуулсан: %1$s</string>
     <string name="notifications_category">Мэдэгдэл</string>
@@ -1193,7 +1202,7 @@
     <string name="preferences_nudge_section_outbound_summary">Таны дагах шаардлагатай байж болох илгээсэн имэйлүүд таны ирсэн имэйл хайрцгийн дээд хэсэгт харагдах болно</string>
     <string name="preferences_nudge_section_outbound_title">Дагах имэйлийг санал болгох</string>
     <string name="preferences_nudging_title">Хариу өгч, дагах</string>
-    <string name="preferences_priority_inbox_notification_level_title">Мэдэгдлийн түвшин</string>
+    <string name="preferences_priority_inbox_notification_level_title">Ирсэн мэйлийн мэдэгдэл</string>
     <string name="preferences_ringtone_title">Дуу</string>
     <string name="preferences_signature_dialog_title">Гарын үсэг</string>
     <string name="preferences_signature_summary_not_set">Тохируулаагүй</string>
@@ -1368,7 +1377,7 @@
     <string name="server_error_certificate_error">Аюулгүй холболт хийхтэй холбоотой гарсан.</string>
     <string name="server_error_login_limit_exceeded">Хэт олон удаа дахин сэргээлээ. Дараа дахин оролдоно уу.</string>
     <string name="server_error_nonexistent_folder">Фолдер олдсонгүй.</string>
-    <string name="server_error_too_many_requests">Хэт олон хүсэлт байна. Сервирийн урвуулан ашиглалтын хязгаар хэтэрсэн</string>
+    <string name="server_error_too_many_requests">Хэт олон удаа сэргээлээ. Дараа дахин оролдоно уу.</string>
     <string name="set_priority">Ач холбогдлыг тохируулах</string>
     <string name="settings">Тохиргоо</string>
     <string name="settings_number_of_days">Мэйл синк хийх хугацаа</string>
@@ -1529,6 +1538,7 @@
     <string name="too_large_to_attach_multiple">Нэг буюу хэд хэдэн файл хавсрагдаагүй. Хязгаар %1$s.</string>
     <string name="too_large_to_attach_single">%1$s-аас хэтэрсэн файлыг хавсаргах боломжгүй.</string>
     <string name="trash_folder_selection_title">%s-ын серверийн хогийн савны фолдерыг сонгоно уу</string>
+    <string name="trashed_message_indicator">Энэ зурвасыг устгасан</string>
     <string name="turn_auto_sync_on_dialog_body">Gmail төдөөгүй бүх апп болон бүртгэлд таны хийсэн өөрчлөлтүүд нь вэб болон таны бусад төхөөрөмжүүд, %1$s хооронд синк хийгдэх болно.</string>
     <string name="turn_auto_sync_on_dialog_confirm_btn">Асаах</string>
     <string name="turn_auto_sync_on_dialog_title">Автомат синкийг асаах уу?</string>

@@ -32,6 +32,9 @@
     <string name="account_management_need_to_set_up_new_work_account">Akaun kerja baharu anda perlu disediakan.</string>
     <string name="account_management_new_work_account_line_item">Sediakan akaun ini</string>
     <string name="account_management_set_up_new_account_title">Akaun kerja baharu</string>
+    <string name="account_notification_level_all">Semua</string>
+    <string name="account_notification_level_high_priority">Keutamaan tinggi sahaja</string>
+    <string name="account_notification_level_none">Tiada</string>
     <string name="account_security_dialog_content_fmt">Anda mesti mengemas kini tetapan keselamatan pada peranti untuk menggunakan akaun &lt;%s>. Hubungi pentadbir untuk mendapatkan maklumat lanjut.</string>
     <string name="account_security_dialog_ok">Kemas kini skrg</string>
     <string name="account_security_policy_explanation_fmt">Pelayan %s menghendaki anda membenarkannya mengawal beberapa ciri keselamatan peranti Android anda secara jauh.</string>
@@ -44,6 +47,8 @@
     <string name="account_settings_conversation_view_progress_dialog_message">Mengemas kini tetapan akaun…</string>
     <string name="account_settings_conversation_view_summary">Himpunkan e-mel dengan topik yang sama. Tetapan ini mungkin mengambil masa yang agak lama untuk dilaksanakan</string>
     <string name="account_settings_conversation_view_title">Paparan perbualan</string>
+    <string name="account_settings_conversation_view_turned_off_dialog_message">Paparan perbualan telah dimatikan supaya sesuai dengan tetapan akaun anda. Anda boleh menukar pilihan ini dalam tetapan.</string>
+    <string name="account_settings_conversation_view_turned_on_dialog_message">Paparan perbualan telah dihidupkan supaya sesuai dengan tetapan akaun anda. Anda boleh menukar pilihan ini dalam tetapan.</string>
     <string name="account_settings_data_usage">Penggunaan data</string>
     <string name="account_settings_description_label">Nama akaun</string>
     <string name="account_settings_edit_quick_responses_label">Balasan pantas</string>
@@ -809,6 +814,7 @@
     <string name="gmailify_updating_password_title">Mengemas kini kata laluan anda…</string>
     <string name="google_play_logo">Pergi ke Gedung Google Play</string>
     <string name="google_terms_of_service">Syarat Perkhidmatan Google</string>
+    <string name="got_it_option">OK</string>
     <string name="has_malware_website_links">Berwaspada dengan mesej ini. Mesej mengandungi pautan ke tapak web yang mengehos perisian hasad.</string>
     <string name="hats_survey_promo_action_text">Ambil tinjauan kami</string>
     <string name="hats_survey_promo_text">Bantu kami meningkatkan Gmail</string>
@@ -831,6 +837,7 @@
     <string name="icr_declined">%1$s telah &lt;b>menolak&lt;/b> acara ini.</string>
     <string name="icr_empty_title">(tiada tajuk)</string>
     <string name="icr_hide_original">Sembunyikan mesej asal</string>
+    <string name="icr_loading_error_msg">Tidak dapat memuatkan data acara.</string>
     <string name="icr_location_description">Lokasi</string>
     <string name="icr_organizer">(penganjur)</string>
     <string name="icr_responded_maybe">Menjawab mungkin</string>
@@ -840,6 +847,8 @@
     <string name="icr_show_original">Tunjukkan mesej asal</string>
     <string name="icr_tentative">%1$s telah &lt;b>menerima sementara waktu&lt;/b> acara ini.</string>
     <string name="icr_time_description">Maklumat Tarikh</string>
+    <string name="icr_view_details">Lihat butiran</string>
+    <string name="icr_warning_description">Amaran</string>
     <string name="image_attached">Imej dilampirkan</string>
     <string name="imap_name">Peribadi (IMAP)</string>
     <string name="important_inbox_section_title">Bahagian Penting Peti Masuk</string>
@@ -1021,7 +1030,7 @@
     <string name="notification_label_description_priority_inbox_all_mail">Peti masuk</string>
     <string name="notification_label_description_starred">Dibintangi</string>
     <string name="notification_level_all">Semua mel baharu</string>
-    <string name="notification_level_important">Penting sahaja</string>
+    <string name="notification_level_important">Bahagian penting sahaja</string>
     <string name="notification_level_none">Tiada</string>
     <string name="notification_sender_line_snoozed">Ditunda: %1$s</string>
     <string name="notifications_category">Pemberitahuan</string>
@@ -1181,7 +1190,7 @@ Hidupkan pemberitahuan akaun?"</string>
     <string name="preferences_nudge_section_outbound_summary">E-mel dihantar yang anda mungkin perlu membuat susulan akan kelihatan di bahagian atas peti masuk anda</string>
     <string name="preferences_nudge_section_outbound_title">Cadangkan e-mel untuk dibuat susulan</string>
     <string name="preferences_nudging_title">Balas dan buat susulan</string>
-    <string name="preferences_priority_inbox_notification_level_title">Tahap pemberitahuan</string>
+    <string name="preferences_priority_inbox_notification_level_title">Beritahu untuk bahagian peti masuk</string>
     <string name="preferences_ringtone_title">Bunyi</string>
     <string name="preferences_signature_dialog_title">Tandatangan</string>
     <string name="preferences_signature_summary_not_set">Tidak ditetapkan</string>
@@ -1351,7 +1360,7 @@ Ketik untuk menghidupkan."</string>
     <string name="server_error_certificate_error">Berlaku masalah semasa mendapatkan sambungan.</string>
     <string name="server_error_login_limit_exceeded">Terlalu banyak muat semula. Sila cuba sebentar lagi.</string>
     <string name="server_error_nonexistent_folder">Folder yang diminta tidak ditemui.</string>
-    <string name="server_error_too_many_requests">Terlalu banyak permintaan. Melebihi had penyalahgunaan pelayan</string>
+    <string name="server_error_too_many_requests">Terlalu banyak muat semula. Sila cuba sebentar lagi.</string>
     <string name="set_priority">Tetapkan keutamaan</string>
     <string name="settings">Tetapan</string>
     <string name="settings_number_of_days">Bilangan hari mel hendak disegerakkan</string>
@@ -1511,6 +1520,7 @@ Ketik untuk menghidupkan."</string>
     <string name="too_large_to_attach_multiple">Satu atau beberapa fail tidak dilampirkan. Had %1$s.</string>
     <string name="too_large_to_attach_single">Tidak boleh melampirkan fail melebihi %1$s.</string>
     <string name="trash_folder_selection_title">Plih folder smpah pelayan utk %s</string>
+    <string name="trashed_message_indicator">Mesej ini telah dipadamkan</string>
     <string name="turn_auto_sync_on_dialog_body">Perubahan yang anda lakukan kepada semua apl dan akaun, bukan hanya Gmail, akan disegerakkan antara web, peranti anda yang lain dan %1$s anda.</string>
     <string name="turn_auto_sync_on_dialog_confirm_btn">Hidupkan</string>
     <string name="turn_auto_sync_on_dialog_title">Hidupkan autosegerak?</string>

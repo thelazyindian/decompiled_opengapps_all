@@ -42,6 +42,9 @@
     <string name="account_management_need_to_set_up_new_work_account">Ваш новый рабочий аккаунт готов к настройке.</string>
     <string name="account_management_new_work_account_line_item">Настройте этот аккаунт</string>
     <string name="account_management_set_up_new_account_title">Новый рабочий аккаунт</string>
+    <string name="account_notification_level_all">Все</string>
+    <string name="account_notification_level_high_priority">Только важные</string>
+    <string name="account_notification_level_none">Отключить</string>
     <string name="account_security_dialog_content_fmt">Чтобы пользоваться аккаунтом &lt;%s>, необходимо обновить параметры безопасности на устройстве. За дополнительной информацией обратитесь к системному администратору.</string>
     <string name="account_security_dialog_ok">Обновить</string>
     <string name="account_security_policy_explanation_fmt">Серверу %s требуется разрешение на удаленное управление некоторыми функциями безопасности устройства Android.</string>
@@ -54,6 +57,8 @@
     <string name="account_settings_conversation_view_progress_dialog_message">Обновление настроек аккаунта…</string>
     <string name="account_settings_conversation_view_summary">Группировать письма с одной темой в цепочки (может занять некоторое время после включения)</string>
     <string name="account_settings_conversation_view_title">В виде цепочек</string>
+    <string name="account_settings_conversation_view_turned_off_dialog_message">Группировка в цепочки отключена в соответствии с вашими настройками. Этот параметр можно изменить.</string>
+    <string name="account_settings_conversation_view_turned_on_dialog_message">Группировка в цепочки включена в соответствии с вашими настройками. Этот параметр можно изменить.</string>
     <string name="account_settings_data_usage">Настройки синхронизации</string>
     <string name="account_settings_description_label">Название аккаунта</string>
     <string name="account_settings_edit_quick_responses_label">Шаблоны ответов</string>
@@ -838,6 +843,7 @@
     <string name="gmailify_updating_password_title">Обновление пароля…</string>
     <string name="google_play_logo">Перейти в Google Play Маркет</string>
     <string name="google_terms_of_service">Условия использования Google</string>
+    <string name="got_it_option">ОК</string>
     <string name="has_malware_website_links">Будьте осторожны! Письмо содержит ссылки на вредоносные сайты.</string>
     <string name="hats_survey_promo_action_text">Перейти к опросу</string>
     <string name="hats_survey_promo_text">Помогите нам улучшить Gmail</string>
@@ -862,6 +868,7 @@
     <string name="icr_declined">%1$s – приглашение &lt;b>не принято&lt;/b>.</string>
     <string name="icr_empty_title">(без названия)</string>
     <string name="icr_hide_original">Скрыть исходное сообщение</string>
+    <string name="icr_loading_error_msg">Не удается загрузить данные мероприятия.</string>
     <string name="icr_location_description">Место</string>
     <string name="icr_organizer">(организатор)</string>
     <string name="icr_responded_maybe">Вы, возможно, пойдете</string>
@@ -871,6 +878,8 @@
     <string name="icr_show_original">Показать исходное сообщение</string>
     <string name="icr_tentative">%1$s – приглашение &lt;b>предварительно принято&lt;/b>.</string>
     <string name="icr_time_description">Дата и время</string>
+    <string name="icr_view_details">Подробнее</string>
+    <string name="icr_warning_description">Предупреждение</string>
     <string name="image_attached">Изображение прикреплено</string>
     <string name="imap_name">Личный (IMAP)</string>
     <string name="important_inbox_section_title">Раздел \"Важные\"</string>
@@ -1218,7 +1227,7 @@
     <string name="preferences_nudge_section_outbound_summary">Отправленные сообщения, требующие вашего внимания, будут отображаться вверху списка.</string>
     <string name="preferences_nudge_section_outbound_title">Напоминать о письмах, на которые вам не ответили</string>
     <string name="preferences_nudging_title">Напоминания о письмах, требующих ответа</string>
-    <string name="preferences_priority_inbox_notification_level_title">Уровень уведомлений</string>
+    <string name="preferences_priority_inbox_notification_level_title">Уведомлять о письмах в папках</string>
     <string name="preferences_ringtone_title">Звук</string>
     <string name="preferences_signature_dialog_title">Подпись</string>
     <string name="preferences_signature_summary_not_set">Не задано</string>
@@ -1393,7 +1402,7 @@
     <string name="server_error_certificate_error">Не удалось установить безопасное соединение.</string>
     <string name="server_error_login_limit_exceeded">Слишком высокая частота обновлений. Повторите попытку позже.</string>
     <string name="server_error_nonexistent_folder">Папка не найдена.</string>
-    <string name="server_error_too_many_requests">Превышено ограничение сервера на количество запросов</string>
+    <string name="server_error_too_many_requests">Слишком высокая частота обновлений. Повторите попытку позже.</string>
     <string name="set_priority">Задать приоритет</string>
     <string name="settings">Настройки</string>
     <string name="settings_number_of_days">Период синхронизации</string>
@@ -1555,6 +1564,7 @@
     <string name="too_large_to_attach_multiple">Не удалось прикрепить файлы: превышен лимит (%1$s).</string>
     <string name="too_large_to_attach_single">Размер файла не должен превышать %1$s.</string>
     <string name="trash_folder_selection_title">%s: выберите папку на сервере</string>
+    <string name="trashed_message_indicator">Это сообщение удалено.</string>
     <string name="turn_auto_sync_on_dialog_body">Изменения, которые вы вносите во все приложения и аккаунты (не только Gmail), будут синхронизироваться между веб-интерфейсом, другими вашими устройствами и вашим %1$s.</string>
     <string name="turn_auto_sync_on_dialog_confirm_btn">Включить</string>
     <string name="turn_auto_sync_on_dialog_title">Включить автосинхронизацию?</string>

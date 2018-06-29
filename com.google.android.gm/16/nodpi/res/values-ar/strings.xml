@@ -33,6 +33,9 @@
     <string name="account_management_need_to_set_up_new_work_account">يحتاج حساب العمل الجديد للإعداد.</string>
     <string name="account_management_new_work_account_line_item">إعداد هذا الحساب</string>
     <string name="account_management_set_up_new_account_title">حساب عمل جديد</string>
+    <string name="account_notification_level_all">الكل</string>
+    <string name="account_notification_level_high_priority">ذات الأولوية القصوى فقط</string>
+    <string name="account_notification_level_none">بدون إشعارات</string>
     <string name="account_security_dialog_content_fmt">لاستخدام حساب &lt;%s>، يتعيّن عليك تحديث إعدادات الأمان على جهازك. يمكنك الاتصال بالمشرف للحصول على مزيد من المعلومات.</string>
     <string name="account_security_dialog_ok">تحديث الآن</string>
     <string name="account_security_policy_explanation_fmt">‏يتطلب الخادم %s أن تسمح له بالتحكم في بعض ميزات الأمان في جهاز Android عن بعد.</string>
@@ -45,6 +48,8 @@
     <string name="account_settings_conversation_view_progress_dialog_message">جارٍ تحديث إعدادات الحساب...</string>
     <string name="account_settings_conversation_view_summary">تجميع الرسائل الإلكترونية ذات الموضوع نفسه معًا. قد يستغرق تطبيق هذا الإعداد بعض الوقت</string>
     <string name="account_settings_conversation_view_title">عرض المحادثة</string>
+    <string name="account_settings_conversation_view_turned_off_dialog_message">تم إيقاف عرض المحادثة ليطابق إعدادات الحساب. يُمكنك تغيير ذلك في الإعدادات.</string>
+    <string name="account_settings_conversation_view_turned_on_dialog_message">تم تفعيل عرض المحادثة ليطابق إعدادات الحساب. يُمكنك تغيير ذلك في الإعدادات.</string>
     <string name="account_settings_data_usage">استخدام البيانات</string>
     <string name="account_settings_description_label">اسم الحساب</string>
     <string name="account_settings_edit_quick_responses_label">الردود السريعة</string>
@@ -834,6 +839,7 @@
     <string name="gmailify_updating_password_title">جارٍ تحديث كلمة المرور…</string>
     <string name="google_play_logo">‏الانتقال إلى متجر Google Play</string>
     <string name="google_terms_of_service">‏بنود خدمة Google</string>
+    <string name="got_it_option">حسنًا</string>
     <string name="has_malware_website_links">يُرجى التعامل بحرص مع هذه الرسالة، لأنها تحتوي على روابط لمواقع إلكترونية تستضيف برامج ضارة.</string>
     <string name="hats_survey_promo_action_text">مشاركة في الاستبيان</string>
     <string name="hats_survey_promo_text">‏المساعدة في تحسين Gmail</string>
@@ -858,6 +864,7 @@
     <string name="icr_declined">‏&lt;b>تم رفض&lt;/b> هذا الحدث من قِبل %1$s.</string>
     <string name="icr_empty_title">(بدون عنوان)</string>
     <string name="icr_hide_original">إخفاء الرسالة الأصلية</string>
+    <string name="icr_loading_error_msg">يتعذّر تحميل بيانات الحدث.</string>
     <string name="icr_location_description">الموقع</string>
     <string name="icr_organizer">(المنظم)</string>
     <string name="icr_responded_maybe">تم الرد بـ \"ربما\"</string>
@@ -867,6 +874,8 @@
     <string name="icr_show_original">عرض الرسالة الأصلية</string>
     <string name="icr_tentative">‏&lt;b>تمت الموافقة مبدئيًا&lt;/b> على هذا الحدث من قِبل %1$s.</string>
     <string name="icr_time_description">معلومات التاريخ</string>
+    <string name="icr_view_details">عرض التفاصيل</string>
+    <string name="icr_warning_description">تحذير</string>
     <string name="image_attached">مُرفق صورة</string>
     <string name="imap_name">‏الحساب الشخصي (IMAP)</string>
     <string name="important_inbox_section_title">قسم \"المهم\" في البريد الوارد</string>
@@ -1053,7 +1062,7 @@
     <string name="notification_label_description_priority_inbox_all_mail">البريد الوارد</string>
     <string name="notification_label_description_starred">المميّزة بنجمة</string>
     <string name="notification_level_all">كل رسائل البريد الجديدة</string>
-    <string name="notification_level_important">الهام فقط</string>
+    <string name="notification_level_important">قسم \"الرسائل المهمّة\" فقط</string>
     <string name="notification_level_none">لا شيء</string>
     <string name="notification_sender_line_snoozed">تم التأجيل: %1$s</string>
     <string name="notifications_category">الإشعارات</string>
@@ -1214,7 +1223,7 @@
     <string name="preferences_nudge_section_outbound_summary">ستظهر رسائل البريد الإلكتروني المُرسلَة التي ربما تحتاج إلى متابعتها في أعلى البريد الوارد</string>
     <string name="preferences_nudge_section_outbound_title">اقتراح رسائل بريد إلكتروني لمتابعتها</string>
     <string name="preferences_nudging_title">الرد والمتابعة</string>
-    <string name="preferences_priority_inbox_notification_level_title">مستوى الإشعار</string>
+    <string name="preferences_priority_inbox_notification_level_title">إشعار لأقسام البريد الوارد</string>
     <string name="preferences_ringtone_title">الصوت</string>
     <string name="preferences_signature_dialog_title">التوقيع</string>
     <string name="preferences_signature_summary_not_set">لم يتم التعيين</string>
@@ -1392,7 +1401,7 @@
     <string name="server_error_certificate_error">حدثت مشكلة أثناء تأمين الاتصال.</string>
     <string name="server_error_login_limit_exceeded">عدد مرات التحديث أكثر من اللازم. يُرجى المحاولة مرة أخرى في وقت لاحق.</string>
     <string name="server_error_nonexistent_folder">لم يتم العثور على المجلد المطلوب.</string>
-    <string name="server_error_too_many_requests">أُرسلت طلبات كثيرة جدًا. تم تجاوز الحد الأقصى لإساءة استخدام الخادم.</string>
+    <string name="server_error_too_many_requests">تمت إعادة التحميل مرات كثرة جدًا. يُرجى إعادة المحاولة لاحقًا.</string>
     <string name="set_priority">تعيين الأولوية</string>
     <string name="settings">الإعدادات</string>
     <string name="settings_number_of_days">أيام مزامنة البريد</string>
@@ -1555,6 +1564,7 @@
     <string name="too_large_to_attach_multiple">لم يتم إرفاق ملف أو أكثر. الحد الأقصى هو %1$s.</string>
     <string name="too_large_to_attach_single">لا يمكن إرفاق ملف يزيد حجمه عن %1$s.</string>
     <string name="trash_folder_selection_title">حدد مجلد المهملات التابع للخادم لـ %s</string>
+    <string name="trashed_message_indicator">تم حذف هذه الرسالة.</string>
     <string name="turn_auto_sync_on_dialog_body">‏ستتم مزامنة التغييرات التي تجريها على جميع التطبيقات والحسابات، وليس Gmail فقط، بين الويب والأجهزة الأخرى و%1$s.</string>
     <string name="turn_auto_sync_on_dialog_confirm_btn">تشغيل</string>
     <string name="turn_auto_sync_on_dialog_title">تشغيل المزامنة التلقائية؟</string>

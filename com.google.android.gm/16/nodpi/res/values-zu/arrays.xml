@@ -5,11 +5,6 @@
         <item>Phendula konke</item>
         <item>Dlulisela Phambili</item>
     </string-array>
-    <string-array name="notificationsStatusEntries">
-        <item>Konke</item>
-        <item>Okubaluleke kakhulu kuphela</item>
-        <item>Lutho</item>
-    </string-array>
     <string-array name="prefEntries_autoAdvance">
         <item>Okusha kakhulu</item>
         <item>Okudala</item>

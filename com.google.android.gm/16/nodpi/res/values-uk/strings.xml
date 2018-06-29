@@ -33,6 +33,9 @@
     <string name="account_management_need_to_set_up_new_work_account">Потрібно налаштувати ваш новий робочий обліковий запис.</string>
     <string name="account_management_new_work_account_line_item">Налаштуйте цей обліковий запис</string>
     <string name="account_management_set_up_new_account_title">Новий робочий обліковий запис</string>
+    <string name="account_notification_level_all">Усі</string>
+    <string name="account_notification_level_high_priority">Лише пріоритетні</string>
+    <string name="account_notification_level_none">Жодних</string>
     <string name="account_security_dialog_content_fmt">Щоб використовувати обліковий запис &lt;%s>, потрібно оновити налаштування безпеки на пристрої. Зверніться до адміністратора по додаткову інформацію.</string>
     <string name="account_security_dialog_ok">Оновити зараз</string>
     <string name="account_security_policy_explanation_fmt">Сервер %s потребує вашого дозволу віддалено контролювати деякі функції безпеки вашого пристрою Android.</string>
@@ -45,6 +48,8 @@
     <string name="account_settings_conversation_view_progress_dialog_message">Оновлення налаштувань облікового запису…</string>
     <string name="account_settings_conversation_view_summary">Групувати листи на одну тему разом. Це налаштування застосовується з певною затримкою.</string>
     <string name="account_settings_conversation_view_title">Перегляд ланцюжка повідомлень</string>
+    <string name="account_settings_conversation_view_turned_off_dialog_message">Режим перегляду ланцюжка повідомлень вимкнено відповідно до ваших налаштувань облікового запису. Ви можете змінити це налаштування.</string>
+    <string name="account_settings_conversation_view_turned_on_dialog_message">Режим перегляду ланцюжка повідомлень увімкнено відповідно до ваших налаштувань облікового запису. Ви можете змінити це налаштування.</string>
     <string name="account_settings_data_usage">Використання даних</string>
     <string name="account_settings_description_label">Назва облікового запису</string>
     <string name="account_settings_edit_quick_responses_label">Швидкі відповіді</string>
@@ -827,6 +832,7 @@
     <string name="gmailify_updating_password_title">Оновлення пароля…</string>
     <string name="google_play_logo">Перейти в Google Play</string>
     <string name="google_terms_of_service">Загальні положення та умови Google</string>
+    <string name="got_it_option">OK</string>
     <string name="has_malware_website_links">Підозріле повідомлення. Воно містить посилання на веб-сайти зі зловмисним програмним забезпеченням.</string>
     <string name="hats_survey_promo_action_text">Пройти опитування</string>
     <string name="hats_survey_promo_text">Допоможіть нам покращити Gmail</string>
@@ -851,6 +857,7 @@
     <string name="icr_declined">%1$s &lt;b>відхиляє&lt;/b> це запрошення.</string>
     <string name="icr_empty_title">(без назви)</string>
     <string name="icr_hide_original">Сховати оригінальне повідомлення</string>
+    <string name="icr_loading_error_msg">Не вдається завантажити дані про подію.</string>
     <string name="icr_location_description">Місце проведення</string>
     <string name="icr_organizer">(організатор)</string>
     <string name="icr_responded_maybe">Відповідь \"Можливо\"</string>
@@ -860,6 +867,8 @@
     <string name="icr_show_original">Показати оригінальне повідомлення</string>
     <string name="icr_tentative">%1$s &lt;b>попередньо приймає&lt;/b> це запрошення.</string>
     <string name="icr_time_description">Відомості про дату</string>
+    <string name="icr_view_details">Докладніше</string>
+    <string name="icr_warning_description">Застереження</string>
     <string name="image_attached">Зображення вкладено</string>
     <string name="imap_name">Особистий (IMAP)</string>
     <string name="important_inbox_section_title">Розділ \"Важливі\" в папці \"Вхідні\"</string>
@@ -1045,7 +1054,7 @@
     <string name="notification_label_description_priority_inbox_all_mail">Вхідні</string>
     <string name="notification_label_description_starred">Із зірочкою</string>
     <string name="notification_level_all">Усі нові листи</string>
-    <string name="notification_level_important">Лише важливі</string>
+    <string name="notification_level_important">Лише розділ \"Важливі\"</string>
     <string name="notification_level_none">Жодних</string>
     <string name="notification_sender_line_snoozed">Відкладено: %1$s</string>
     <string name="notifications_category">Сповіщення</string>
@@ -1206,7 +1215,7 @@
     <string name="preferences_nudge_section_outbound_summary">Надіслані електронні листи, які потребують уваги, відображатимуться вгорі папки \"Вхідні\"</string>
     <string name="preferences_nudge_section_outbound_title">Пропонувати листи для повторного надсилання</string>
     <string name="preferences_nudging_title">Відповіді та надіслані листи</string>
-    <string name="preferences_priority_inbox_notification_level_title">Рівень сповіщень</string>
+    <string name="preferences_priority_inbox_notification_level_title">Сповіщення з розділів папки \"Вхідні\"</string>
     <string name="preferences_ringtone_title">Звук</string>
     <string name="preferences_signature_dialog_title">Підпис</string>
     <string name="preferences_signature_summary_not_set">Немає</string>
@@ -1382,7 +1391,7 @@
     <string name="server_error_certificate_error">Не вдалося встановити з’єднання.</string>
     <string name="server_error_login_limit_exceeded">Забагато оновлень. Повторіть спробу пізніше.</string>
     <string name="server_error_nonexistent_folder">Потрібну папку не знайдено.</string>
-    <string name="server_error_too_many_requests">Забагато запитів. Перевищено обмеження сервера.</string>
+    <string name="server_error_too_many_requests">Забагато оновлень. Повторіть спробу пізніше.</string>
     <string name="set_priority">Установити пріоритет</string>
     <string name="settings">Налаштування</string>
     <string name="settings_number_of_days">Період синхронізації</string>
@@ -1544,6 +1553,7 @@
     <string name="too_large_to_attach_multiple">Один або декілька файлів не вкладено. Максимальний розмір: %1$s.</string>
     <string name="too_large_to_attach_single">Неможливо вкласти файл розміром понад %1$s.</string>
     <string name="trash_folder_selection_title">%s: виберіть \"Кошик\" на сервері</string>
+    <string name="trashed_message_indicator">Це повідомлення видалено</string>
     <string name="turn_auto_sync_on_dialog_body">Зміни, які ви вносите до всіх додатків і облікових записів (не лише Gmail), синхронізуватимуться з веб-службами, іншими пристроями та вашим %1$s.</string>
     <string name="turn_auto_sync_on_dialog_confirm_btn">Увімкнути</string>
     <string name="turn_auto_sync_on_dialog_title">Увімкнути автоматичну синхронізацію?</string>

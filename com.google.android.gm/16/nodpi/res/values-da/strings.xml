@@ -34,6 +34,9 @@
     <string name="account_management_need_to_set_up_new_work_account">Din nye arbejdskonto skal konfigureres.</string>
     <string name="account_management_new_work_account_line_item">Konfigurer denne konto</string>
     <string name="account_management_set_up_new_account_title">Ny arbejdskonto</string>
+    <string name="account_notification_level_all">Alle</string>
+    <string name="account_notification_level_high_priority">Kun høj prioritet</string>
+    <string name="account_notification_level_none">Ingen</string>
     <string name="account_security_dialog_content_fmt">Du skal opdatere sikkerhedsindstillingerne på din enhed for at kunne bruge din konto &lt;%s>. Kontakt din administrator for at få flere oplysninger.</string>
     <string name="account_security_dialog_ok">Opdater nu</string>
     <string name="account_security_policy_explanation_fmt">Serveren %s kræver, at du giver den tilladelse til at administrere visse af Android-enhedens sikkerhedsfunktioner på afstand.</string>
@@ -46,6 +49,8 @@
     <string name="account_settings_conversation_view_progress_dialog_message">Opdaterer kontoindstillingerne…</string>
     <string name="account_settings_conversation_view_summary">Gruppér mails med samme emne. Der kan gå noget tid, før indstillingen anvendes</string>
     <string name="account_settings_conversation_view_title">Samtalevisning</string>
+    <string name="account_settings_conversation_view_turned_off_dialog_message">Samtalevisning er deaktiveret, så indstillingen stemmer overens med dine kontoindstillinger. Du kan ændre dette under Indstillinger.</string>
+    <string name="account_settings_conversation_view_turned_on_dialog_message">Samtalevisning er aktiveret, så indstillingen stemmer overens med dine kontoindstillinger. Du kan ændre dette under Indstillinger.</string>
     <string name="account_settings_data_usage">Dataforbrug</string>
     <string name="account_settings_description_label">Kontonavn</string>
     <string name="account_settings_edit_quick_responses_label">Hurtige svar</string>
@@ -131,7 +136,7 @@
     <string name="account_setup_failed_security_policies_unsupported">Denne server kræver sikkerhedsfunktioner, som din Android-enhed ikke understøtter, herunder: %s</string>
     <string name="account_setup_failed_ssl_exception">TLSv1.2-sessionen kunne ikke etableres. Kontakt din it-administrator.</string>
     <string name="account_setup_failed_starttls_required">STARTTLS understøttes ikke af serveren. Prøv at vælge en anden sikkerhedstype.</string>
-    <string name="account_setup_gmailify_promo_text">Med Gmailify får du alt det bedste fra Gmail på din ^1-konto. Bedre spambeskyttelse og e-mailkategorier hjælper med at holde din indbakke ren. Du kan når som helst skifte tilbage. ^2</string>
+    <string name="account_setup_gmailify_promo_text">Med Gmailify får du alt det bedste fra Gmail på din ^1-konto. Bedre spambeskyttelse og mailkategorier hjælper med at holde din indbakke ren. Du kan skifte tilbage når som helst. ^2</string>
     <string name="account_setup_gmailify_setup_description">Vælg Gmail-konto</string>
     <string name="account_setup_gmailify_setup_text" formatted="false">E-mails fra %s synkroniseres til din Gmail-indbakke nedenfor. Din %s-adresse ændres ikke.</string>
     <string name="account_setup_gmailify_setup_warning">Kontoen er tilknyttet via Gmailify</string>
@@ -405,7 +410,7 @@
     <string name="bogus_bounce">Hvorfor er denne meddelelse i spammappen? Den ser ud til at være en falsk meddelelse om manglende levering af en meddelelse, som du faktisk ikke har sendt.</string>
     <string name="broadcast_internal_perm_desc">Tillad, at appen får adgang til udsendelse af hensigter i Gmail, der bl.a. bruges til at opdatere underretninger.</string>
     <string name="broadcast_internal_perm_label">intern udsendelse</string>
-    <string name="bt_action_archive">Arkiv</string>
+    <string name="bt_action_archive">Arkivér</string>
     <string name="bt_action_delete">Slet</string>
     <string name="bt_action_direct_reply">Skriv svar</string>
     <string name="bt_action_remove_label">Fjern etiket</string>
@@ -766,7 +771,7 @@
     <string name="gm_i18n_snooze_option_this_week">Denne uge</string>
     <string name="gm_i18n_snooze_option_this_weekend">Denne weekend</string>
     <string name="gm_i18n_snooze_option_tomorrow">I morgen</string>
-    <string name="gmailify_about_text1">Med Gmailify får du de bedste funktioner fra Gmail på din nuværende e-mailkonto – bl.a. bedre spamfiltre og e-mailkategorier, som gør det nemmere at organisere din indbakke. Du kan til enhver tid skifte tilbage. ^1</string>
+    <string name="gmailify_about_text1">Med Gmailify får du de bedste funktioner fra Gmail på din nuværende mailkonto – bl.a. bedre spamfiltre og mailkategorier, som gør det nemmere at organisere din indbakke. Du kan til enhver tid skifte tilbage. ^1</string>
     <string name="gmailify_about_title">Mindre spam, mere kontrol</string>
     <string name="gmailify_activity_label">Konfigurer Gmailify</string>
     <string name="gmailify_add_gmail_account">Tilføj en Gmail-postkasse</string>
@@ -809,6 +814,7 @@
     <string name="gmailify_updating_password_title">Opdaterer din adgangskode…</string>
     <string name="google_play_logo">Gå til Google Play Butik</string>
     <string name="google_terms_of_service">Google Servicevilkår</string>
+    <string name="got_it_option">OK</string>
     <string name="has_malware_website_links">Vær forsigtig med denne meddelelse. Den indeholder links til websites, der hoster malware.</string>
     <string name="hats_survey_promo_action_text">Besvar spørgeskemaet</string>
     <string name="hats_survey_promo_text">Hjælp os med at forbedre Gmail</string>
@@ -832,6 +838,7 @@
     <string name="icr_declined">%1$s har &lt;b>afvist&lt;/b> denne begivenhed.</string>
     <string name="icr_empty_title">(ingen titel)</string>
     <string name="icr_hide_original">Skjul den oprindelige meddelelse</string>
+    <string name="icr_loading_error_msg">Oplysninger om begivenheden kunne ikke indlæses.</string>
     <string name="icr_location_description">Sted</string>
     <string name="icr_organizer">(arrangør)</string>
     <string name="icr_responded_maybe">Du har svaret måske</string>
@@ -841,6 +848,8 @@
     <string name="icr_show_original">Vis den oprindelige meddelelse</string>
     <string name="icr_tentative">%1$s har &lt;b>foreløbigt accepteret&lt;/b> begivenheden.</string>
     <string name="icr_time_description">Datooplysninger</string>
+    <string name="icr_view_details">Se info</string>
+    <string name="icr_warning_description">Advarsel</string>
     <string name="image_attached">Der er vedhæftet et billede</string>
     <string name="imap_name">Personlig (IMAP)</string>
     <string name="important_inbox_section_title">Sektionen Vigtigt i Inbox</string>
@@ -1021,7 +1030,7 @@
     <string name="notification_label_description_priority_inbox_all_mail">Indbakke</string>
     <string name="notification_label_description_starred">Stjernemarkerede</string>
     <string name="notification_level_all">Alle nye mails</string>
-    <string name="notification_level_important">Kun vigtige</string>
+    <string name="notification_level_important">Kun fra sektionen Vigtige</string>
     <string name="notification_level_none">Ingen</string>
     <string name="notification_sender_line_snoozed">Udsat: %1$s</string>
     <string name="notifications_category">Underretninger</string>
@@ -1182,7 +1191,7 @@ Vil du slå kontounderretninger til?"</string>
     <string name="preferences_nudge_section_outbound_summary">Sendte mails, du eventuelt skal følge op på, vises øverst i din indbakke</string>
     <string name="preferences_nudge_section_outbound_title">Foreslå mails, du kan følge op på</string>
     <string name="preferences_nudging_title">Svar og opfølgning</string>
-    <string name="preferences_priority_inbox_notification_level_title">Underretningsniveau</string>
+    <string name="preferences_priority_inbox_notification_level_title">Underret for indbakkesektioner</string>
     <string name="preferences_ringtone_title">Lyd</string>
     <string name="preferences_signature_dialog_title">Signatur</string>
     <string name="preferences_signature_summary_not_set">Ikke angivet</string>
@@ -1356,7 +1365,7 @@ Tryk for at slå funktionen til."</string>
     <string name="server_error_certificate_error">Der opstod et problem med at sikre forbindelsen.</string>
     <string name="server_error_login_limit_exceeded">For mange opdateringer. Prøv igen senere.</string>
     <string name="server_error_nonexistent_folder">Den anmodede mappe blev ikke fundet.</string>
-    <string name="server_error_too_many_requests">Der er for mange anmodninger. Grænsen for servermisbrug er overskredet</string>
+    <string name="server_error_too_many_requests">Der er foretaget for mange opdateringer. Prøv igen senere.</string>
     <string name="set_priority">Angiv prioritet</string>
     <string name="settings">Indstillinger</string>
     <string name="settings_number_of_days">Antal dages e-mails, der synkroniseres</string>
@@ -1516,6 +1525,7 @@ Tryk for at slå funktionen til."</string>
     <string name="too_large_to_attach_multiple">Én eller flere filer blev ikke vedhæftet. Grænsen er %1$s.</string>
     <string name="too_large_to_attach_single">Du kan ikke vedhæfte en fil på over %1$s.</string>
     <string name="trash_folder_selection_title">Vælg serverens papirkurv for %s</string>
+    <string name="trashed_message_indicator">Denne meddelelse er slettet.</string>
     <string name="turn_auto_sync_on_dialog_body">Ændringer, du foretager i alle apps og konti, ikke kun Gmail, synkroniseres mellem nettet, dine andre enheder og din %1$s.</string>
     <string name="turn_auto_sync_on_dialog_confirm_btn">Slå til</string>
     <string name="turn_auto_sync_on_dialog_title">Vil du slå automatisk synkronisering til?</string>

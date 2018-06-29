@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <menu
-  xmlns:android="http://schemas.android.com/apk/res/android">
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
     <group android:id="@id/photo_view_menu_group">
+        <item android:id="@id/save_to_photos" android:visible="false" app:showAsAction="always" />
         <item android:id="@id/menu_save" android:title="@string/save_attachment" android:alphabeticShortcut="@string/trigger_save_char" android:showAsAction="never" />
         <item android:id="@id/menu_save_all" android:title="@string/menu_photo_save_all" android:showAsAction="never" />
         <item android:id="@id/save_to_cloud" android:title="@string/attachment_extra_option1" android:showAsAction="never" />

@@ -34,6 +34,9 @@
     <string name="account_management_need_to_set_up_new_work_account">Yangi ishchi hisobingizni sozlash lozim.</string>
     <string name="account_management_new_work_account_line_item">Mazkur hisobni sozlang</string>
     <string name="account_management_set_up_new_account_title">Yangi ishchi hisob</string>
+    <string name="account_notification_level_all">Hammasi</string>
+    <string name="account_notification_level_high_priority">Faqat o‘ta muhimlari</string>
+    <string name="account_notification_level_none">Yo‘q</string>
     <string name="account_security_dialog_content_fmt">&lt;%s> hisobidan foydalanish uchun qurilmaning xavfsizlik sozlamalarini yangilash zarur. Batafsil ma’lumot uchun administrator bilan bog‘laning.</string>
     <string name="account_security_dialog_ok">Hozir yangilash</string>
     <string name="account_security_policy_explanation_fmt">%s serveri Android qurilmangizning ayrim xavfsizlik funksiyalarini masofadan turib boshqarishga ruxsat berishingizni talab qiladi.</string>
@@ -46,6 +49,8 @@
     <string name="account_settings_conversation_view_progress_dialog_message">Hisob sozlamalari yangilanmoqda…</string>
     <string name="account_settings_conversation_view_summary">Bir xil mavzudagi xatlar bitta suhbatga guruhlansin. Bu sozlama yoqilgandan keyin biroz vaqt o‘tib qo‘llaniladi.</string>
     <string name="account_settings_conversation_view_title">Suhbat shaklida</string>
+    <string name="account_settings_conversation_view_turned_off_dialog_message">Hisobingiz sozlamalariga muvofiq xatlarni guruhlash funksiyasi o‘chirib qo‘yildi. Uni sozlamalar menyusidan o‘zgartirishingiz mumkin.</string>
+    <string name="account_settings_conversation_view_turned_on_dialog_message">Hisobingiz sozlamalariga muvofiq xatlarni guruhlash funksiyasi yoqildi. Uni sozlamalar menyusidan o‘zgartirishingiz mumkin.</string>
     <string name="account_settings_data_usage">Trafik sarfi</string>
     <string name="account_settings_description_label">Hisob nomi</string>
     <string name="account_settings_edit_quick_responses_label">Tezkor javoblar</string>
@@ -339,7 +344,7 @@
     <string name="add_cloud_attachment">Google Drive’dan fayl qo‘shish</string>
     <string name="add_file_attachment">Fayl biriktirish</string>
     <string name="add_flag">Bayroqcha bilan belgilash</string>
-    <string name="add_label">Yorliq qo‘shish</string>
+    <string name="add_label">Yorliq bilan nomlash</string>
     <string name="add_photo_attachment">Rasm biriktirish</string>
     <string name="add_shortcut_confirm_btn">Gmail qo‘shish</string>
     <string name="add_shortcut_dialog_body">Gmail hisobiga tezkor kirish uchun uning nishonchasini bosh ekranga qo‘shib qo‘ying.</string>
@@ -479,7 +484,7 @@
     <string name="ces_not_supported_generic">Bu xat shifrlanmadi. ^1</string>
     <string name="ces_not_supported_specific">Bu xat ^1 domenida shifrlanmadi. ^2</string>
     <string name="ces_supported">Standart shifrlash (TLS). ^1</string>
-    <string name="change_folders_selection_dialog_title">Yorliq qo‘shish</string>
+    <string name="change_folders_selection_dialog_title">Yorliq bilan nomlash</string>
     <string name="change_sync_settings">Sinxronizatsiya sozlamalari</string>
     <string name="check_data_connection">Internet aloqasini tekshiring va qayta urinib ko‘ring.</string>
     <string name="choosertitle_sharevia">Ulashish usuli</string>
@@ -559,7 +564,7 @@
     <string name="custom_from_account_label">Kimning nomidan:</string>
     <string name="custom_snooze_time_passed_message">Allaqachon o‘tib ketgan vaqtga kechiktirib bo‘lmaydi. Boshqa vaqtni tanlang.</string>
     <string name="custom_swipe_preference_description">Varaqlashda suhbat ro‘yxatidagi xatlar bilan bog‘liq amallarning tezkor bajarilishini sozlang</string>
-    <string name="date_and_view_details">"%1$s &lt;a href='http://www.example.com'>Tafsilotlarni ko‘rish&lt;/a>"</string>
+    <string name="date_and_view_details">"%1$s &lt;a href='http://www.example.com'>Tafsilotlar&lt;/a>"</string>
     <string name="date_heading">Sana:</string>
     <string name="date_message_received_print">%2$s, %1$s</string>
     <string name="date_none">Muddatsiz</string>
@@ -620,7 +625,7 @@
     <string name="eaaur_account_setup_credentials_enter_password">Parolingizni kiriting</string>
     <string name="eaaur_account_setup_credentials_hard_error">Serverga ulanib bo‘lmadi. Batafsil ma’lumot olish uchun IT administratoringiz bilan bog‘laning.</string>
     <string name="eaaur_account_setup_credentials_select_certificate_and_password">Sertifikatni tanlang va parolingizni kiriting (ixtiyoriy)</string>
-    <string name="eaaur_account_setup_error_view_details">Tafsilotlarni ko‘rish</string>
+    <string name="eaaur_account_setup_error_view_details">Tafsilotlar</string>
     <string name="eaaur_account_setup_security_update_explanation">%1$s uchun xavfsizlik sozlamalarini yangilash zarur</string>
     <string name="eaaur_account_setup_security_update_headline">Xavfsizlikni yangilash zarur</string>
     <string name="eaaur_connecting_to_email_server">E-pochta serveriga ulanmoqda…</string>
@@ -818,6 +823,7 @@
     <string name="gmailify_updating_password_title">Parol yangilanmoqda…</string>
     <string name="google_play_logo">Google Play Marketga o‘tish</string>
     <string name="google_terms_of_service">Google foydalanish shartlari</string>
+    <string name="got_it_option">OK</string>
     <string name="has_malware_website_links">Bu shubhali xatdan ehtiyot bo‘ling. Uning tarkibida zararli veb-saytlarga havolalar mavjud.</string>
     <string name="hats_survey_promo_action_text">So‘rovnomaga o‘tish</string>
     <string name="hats_survey_promo_text">Gmail’ni yaxshilashga yordam bering</string>
@@ -841,6 +847,7 @@
     <string name="icr_declined">%1$s ishtirok etish taklifini &lt;b>rad etdi&lt;/b>.</string>
     <string name="icr_empty_title">(nomsiz)</string>
     <string name="icr_hide_original">Asl xabarni yopish</string>
+    <string name="icr_loading_error_msg">Tadbir axboroti yuklanmadi.</string>
     <string name="icr_location_description">O‘tkazish joyi</string>
     <string name="icr_organizer">(tashkilotchi)</string>
     <string name="icr_responded_maybe">Siz balki ishtirok etasiz</string>
@@ -850,6 +857,8 @@
     <string name="icr_show_original">Asl xabarni ko‘rsatish</string>
     <string name="icr_tentative">%1$s isht. et. taklifini &lt;b>ikkilanib qabul qildi&lt;/b>.</string>
     <string name="icr_time_description">Tadbir sanasi va vaqti</string>
+    <string name="icr_view_details">Tafsilotlar</string>
+    <string name="icr_warning_description">Ogohlantirish</string>
     <string name="image_attached">Rasm biriktirildi</string>
     <string name="imap_name">Shaxsiy (IMAP)</string>
     <string name="important_inbox_section_title">Muhim xatlar bo‘limi</string>
@@ -1030,7 +1039,7 @@
     <string name="notification_label_description_priority_inbox_all_mail">Kiruvchi xatlar</string>
     <string name="notification_label_description_starred">Belgilangan</string>
     <string name="notification_level_all">Barcha yangi xatlar</string>
-    <string name="notification_level_important">Faqat muhimlari</string>
+    <string name="notification_level_important">Faqat muhim xatlar haqida bildirishnoma kelsin</string>
     <string name="notification_level_none">Yo‘q</string>
     <string name="notification_sender_line_snoozed">Keyinga qoldirildi: %1$s</string>
     <string name="notifications_category">Bildirishnomalar</string>
@@ -1189,7 +1198,7 @@ Ohoglantirish signallari faollashtirilsinmi?"</string>
     <string name="preferences_nudge_section_outbound_summary">Siz yuborgan, lekin javob olmagan xatlaringiz ro‘yxat boshida ko‘rsatiladi.</string>
     <string name="preferences_nudge_section_outbound_title">Javob olinmagan xatlar haqida eslatilsin</string>
     <string name="preferences_nudging_title">Javob talab qiluvchi xatlar haqidagi eslatmalar</string>
-    <string name="preferences_priority_inbox_notification_level_title">Bildirishnoma darajasi</string>
+    <string name="preferences_priority_inbox_notification_level_title">Kiruvchi xatlar jildiga tushgan xatlar haqida bildirishnoma kelsin</string>
     <string name="preferences_ringtone_title">Ovoz</string>
     <string name="preferences_signature_dialog_title">Imzo</string>
     <string name="preferences_signature_summary_not_set">Kiritilmagan</string>
@@ -1364,7 +1373,7 @@ Uni faollashtirish uchun bosing."</string>
     <string name="server_error_certificate_error">Xavfsiz ulanib bo‘lmadi.</string>
     <string name="server_error_login_limit_exceeded">Juda tez-tez yangilanyapti. Keyinroq qayta urinib ko‘ring.</string>
     <string name="server_error_nonexistent_folder">So‘ralgan jild topilmadi.</string>
-    <string name="server_error_too_many_requests">So‘rovlar miqdori serverdagi cheklovdan oshib ketdi.</string>
+    <string name="server_error_too_many_requests">Juda tez-tez yangilanmoqda. Keyinroq qayta urining.</string>
     <string name="set_priority">Muhimligini belgilash</string>
     <string name="settings">Sozlamalar</string>
     <string name="settings_number_of_days">Pochtani sinxronlash kunlari</string>
@@ -1526,6 +1535,7 @@ Uni faollashtirish uchun bosing."</string>
     <string name="too_large_to_attach_multiple">Bir yoki undan ortiq fayl biriktirilmadi: cheklovdan oshib ketdi (%1$s).</string>
     <string name="too_large_to_attach_single">Fayl hajmi %1$sdan oshib ketmasligi lozim.</string>
     <string name="trash_folder_selection_title">%s: serverdagi jildni tanlang</string>
+    <string name="trashed_message_indicator">Ushbu xabar o‘chirib tashlandi</string>
     <string name="turn_auto_sync_on_dialog_body">Barcha ilova va hisoblarga (nafaqat Gmail) kiritgan o‘zgartirishlaringiz Internet, boshqa qurilmalaringiz va %1$s o‘rtasida sinxronlanadi.</string>
     <string name="turn_auto_sync_on_dialog_confirm_btn">Yoqish</string>
     <string name="turn_auto_sync_on_dialog_title">Avto-sinxronizatsiya yoqilsinmi?</string>

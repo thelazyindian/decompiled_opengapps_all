@@ -42,6 +42,9 @@
     <string name="account_management_need_to_set_up_new_work_account">Jāiestata jūsu jaunais darba konts.</string>
     <string name="account_management_new_work_account_line_item">Iestatiet šo kontu.</string>
     <string name="account_management_set_up_new_account_title">Jauns darba konts</string>
+    <string name="account_notification_level_all">Visi</string>
+    <string name="account_notification_level_high_priority">Tikai augstas prioritātes</string>
+    <string name="account_notification_level_none">Neviens</string>
     <string name="account_security_dialog_content_fmt">Lai izmantotu kontu &lt;%s>, jums ir jāatjaunina drošības iestatījumi savā ierīcē. Lai iegūtu plašāku informāciju, sazinieties ar administratoru.</string>
     <string name="account_security_dialog_ok">Atjaunināt</string>
     <string name="account_security_policy_explanation_fmt">Serveris %s pieprasa, lai jūs tam atļautu attālināti vadīt dažas jūsu Android ierīces drošības funkcijas.</string>
@@ -54,6 +57,8 @@
     <string name="account_settings_conversation_view_progress_dialog_message">Notiek konta iestatījumu atjaunināšana…</string>
     <string name="account_settings_conversation_view_summary">Grupējiet e-pasta ziņojumus ar vienādu tēmu. Var paiet laiks, līdz tiks piemērots šis iestatījums.</string>
     <string name="account_settings_conversation_view_title">Sarunas skats</string>
+    <string name="account_settings_conversation_view_turned_off_dialog_message">Sarunas skats tika izslēgts, lai atbilstu jūsu konta iestatījumiem. Varat to mainīt iestatījumos.</string>
+    <string name="account_settings_conversation_view_turned_on_dialog_message">Sarunas skats tika ieslēgts, lai atbilstu jūsu konta iestatījumiem. Varat to mainīt iestatījumos.</string>
     <string name="account_settings_data_usage">Datu lietojums</string>
     <string name="account_settings_description_label">Konta nosaukums</string>
     <string name="account_settings_edit_quick_responses_label">Ātrās atbildes</string>
@@ -832,6 +837,7 @@
     <string name="gmailify_updating_password_title">Notiek paroles atjaunināšana…</string>
     <string name="google_play_logo">Doties uz Google Play veikalu</string>
     <string name="google_terms_of_service">Google pakalpojumu sniegšanas noteikumi</string>
+    <string name="got_it_option">Labi</string>
     <string name="has_malware_website_links">Esiet piesardzīgs ar šo ziņojumu. Tajā ir saites uz vietnēm, kurās tiek mitināta ļaunprātīga programmatūra.</string>
     <string name="hats_survey_promo_action_text">Piedalīties aptaujā</string>
     <string name="hats_survey_promo_text">Palīdziet mums uzlabot Gmail</string>
@@ -856,6 +862,7 @@
     <string name="icr_declined">%1$s &lt;b>noraidīja&lt;/b> dalību šajā pasākumā.</string>
     <string name="icr_empty_title">(bez nosaukuma)</string>
     <string name="icr_hide_original">Paslēpt sākotnējo ziņojumu</string>
+    <string name="icr_loading_error_msg">Nevar ielādēt pasākuma datus.</string>
     <string name="icr_location_description">Atrašanās vieta</string>
     <string name="icr_organizer">(rīkotājs)</string>
     <string name="icr_responded_maybe">Atbildēts ar “Varbūt”</string>
@@ -865,6 +872,8 @@
     <string name="icr_show_original">Rādīt sākotnējo ziņojumu</string>
     <string name="icr_tentative">%1$s &lt;b>pagaidām apstiprināja&lt;/b> dalību šajā pasākumā.</string>
     <string name="icr_time_description">Datums</string>
+    <string name="icr_view_details">Skatīt detalizētu informāciju</string>
+    <string name="icr_warning_description">Brīdinājums</string>
     <string name="image_attached">Attēls pievienots</string>
     <string name="imap_name">Personīgs (IMAP)</string>
     <string name="important_inbox_section_title">Iesūtnes sadaļa “Svarīgie”</string>
@@ -1049,7 +1058,7 @@
     <string name="notification_label_description_priority_inbox_all_mail">Iesūtne</string>
     <string name="notification_label_description_starred">Ar zvaigznīti</string>
     <string name="notification_level_all">Visi jaunie ziņojumi</string>
-    <string name="notification_level_important">Tikai svarīgie</string>
+    <string name="notification_level_important">Tikai sadaļa “Svarīgie”</string>
     <string name="notification_level_none">Nav</string>
     <string name="notification_sender_line_snoozed">Atlikts: %1$s</string>
     <string name="notifications_category">Paziņojumi</string>
@@ -1210,7 +1219,7 @@ Vai ieslēgt konta paziņojumus?"</string>
     <string name="preferences_nudge_section_outbound_summary">Jūsu iesūtnes augšdaļā tiks parādīti nosūtītie e-pasta ziņojumi, kas jums varētu būt nepieciešami vēlāk.</string>
     <string name="preferences_nudge_section_outbound_title">Ieteikt e-pasta ziņojumus, kuriem sekot</string>
     <string name="preferences_nudging_title">Atbildēt un sekot</string>
-    <string name="preferences_priority_inbox_notification_level_title">Paziņojumu līmenis</string>
+    <string name="preferences_priority_inbox_notification_level_title">Paziņot par iesūtnes sadaļām</string>
     <string name="preferences_ringtone_title">Skaņa</string>
     <string name="preferences_signature_dialog_title">Paraksts</string>
     <string name="preferences_signature_summary_not_set">Nav iestatīts</string>
@@ -1385,7 +1394,7 @@ Pieskarieties, lai to ieslēgtu."</string>
     <string name="server_error_certificate_error">Uzturot savienojuma drošību, radās problēma.</string>
     <string name="server_error_login_limit_exceeded">Pārāk daudz atsvaidzināšanas gadījumu. Lūdzu, vēlāk mēģiniet vēlreiz.</string>
     <string name="server_error_nonexistent_folder">Pieprasītā mape netika atrasta.</string>
-    <string name="server_error_too_many_requests">Pārāk daudz pieprasījumu. Pārsniegti servera izmantošanas ierobežojumi</string>
+    <string name="server_error_too_many_requests">Pārāk daudz atsvaidzināšanas gadījumu. Lūdzu, vēlāk mēģiniet vēlreiz.</string>
     <string name="set_priority">Iestatīt prioritāti</string>
     <string name="settings">Iestatījumi</string>
     <string name="settings_number_of_days">Pasta sinhronizēšanas dienu skaits</string>
@@ -1548,6 +1557,7 @@ Pieskarieties, lai to ieslēgtu."</string>
     <string name="too_large_to_attach_multiple">Viens vai vairāki faili nav pievienoti. Maksimālais lielums ir %1$s.</string>
     <string name="too_large_to_attach_single">Nevar pievienot failu, kas ir lielāks par %1$s.</string>
     <string name="trash_folder_selection_title">Servera miskastes mape kontam %s</string>
+    <string name="trashed_message_indicator">Šis ziņojums ir izdzēsts.</string>
     <string name="turn_auto_sync_on_dialog_body">Izmaiņas, ko veicāt visām lietotnēm un kontiem (ne tikai Gmail), tiks sinhronizētas tīmeklī, citās jūsu ierīcēs un šādā jūsu ierīcē: %1$s.</string>
     <string name="turn_auto_sync_on_dialog_confirm_btn">Ieslēgt</string>
     <string name="turn_auto_sync_on_dialog_title">Vai ieslēgt automātisko sinhronizāciju?</string>

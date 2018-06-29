@@ -39,6 +39,9 @@
     <string name="account_management_need_to_set_up_new_work_account">Laneko kontu berria konfiguratu behar da.</string>
     <string name="account_management_new_work_account_line_item">Konfiguratu kontua</string>
     <string name="account_management_set_up_new_account_title">Laneko kontu berria</string>
+    <string name="account_notification_level_all">Guztiak</string>
+    <string name="account_notification_level_high_priority">Lehentasun handikoak</string>
+    <string name="account_notification_level_none">Bat ere ez</string>
     <string name="account_security_dialog_content_fmt">Zure kontua erabili ahal izateko (&lt;%s>), gailuko segurtasun-ezarpenak eguneratu behar dituzu. Jarri harremanetan administratzailearekin informazio gehiago lortzeko.</string>
     <string name="account_security_dialog_ok">Eguneratu</string>
     <string name="account_security_policy_explanation_fmt">%s zerbitzariak Android gailuaren segurtasun-eginbide batzuk urrunetik kontrolatzea eskatzen du.</string>
@@ -51,6 +54,8 @@
     <string name="account_settings_conversation_view_progress_dialog_message">Kontuaren ezarpenak eguneratzen…</string>
     <string name="account_settings_conversation_view_summary">Taldekatu gai bereko mezu elektronikoak. Baliteke ezarpen honek denbora pixka bat behar izatea aplikatzeko.</string>
     <string name="account_settings_conversation_view_title">Elkarrizketa-ikuspegia</string>
+    <string name="account_settings_conversation_view_turned_off_dialog_message">Elkarrizketa-ikuspegia desaktibatu egin da zure web-ezarpenekin bat etortzeko. Ezarpenetan alda dezakezu aukera hau.</string>
+    <string name="account_settings_conversation_view_turned_on_dialog_message">Elkarrizketa-ikuspegia aktibatu egin da zure web-ezarpenekin bat etortzeko. Ezarpenetan alda dezakezu aukera hau.</string>
     <string name="account_settings_data_usage">Datuen erabilera</string>
     <string name="account_settings_description_label">Kontuaren izena</string>
     <string name="account_settings_edit_quick_responses_label">Erantzun bizkorrak</string>
@@ -822,6 +827,7 @@
     <string name="gmailify_updating_password_title">Pasahitza eguneratzen…</string>
     <string name="google_play_logo">Joan Google Play Store dendara</string>
     <string name="google_terms_of_service">Google Zerbitzu-baldintzak</string>
+    <string name="got_it_option">Ados</string>
     <string name="has_malware_website_links">Kontuz mezu honekin. Malwarea ostatatzen duten webguneetarako estekak ditu.</string>
     <string name="hats_survey_promo_action_text">Hartu parte inkestan</string>
     <string name="hats_survey_promo_text">Lagun iezaguzu Gmail hobetzen</string>
@@ -844,6 +850,7 @@
     <string name="icr_declined">Gertaera &lt;b>baztertu&lt;/b> du %1$s erabiltzaileak.</string>
     <string name="icr_empty_title">(izengabea)</string>
     <string name="icr_hide_original">Ezkutatu jatorrizko mezua</string>
+    <string name="icr_loading_error_msg">Ezin dira kargatu gertaeraren datuak.</string>
     <string name="icr_location_description">Kokapena</string>
     <string name="icr_organizer">(antolatzailea)</string>
     <string name="icr_organizer_fmt">^1 (^2)</string>
@@ -854,6 +861,8 @@
     <string name="icr_show_original">Erakutsi jatorrizko mezua</string>
     <string name="icr_tentative">&lt;b>Behin-behinean onartu&lt;/b> du %1$s erabiltzaileak.</string>
     <string name="icr_time_description">Datari buruzko informazioa</string>
+    <string name="icr_view_details">Ikusi xehetasunak</string>
+    <string name="icr_warning_description">Abisua</string>
     <string name="image_attached">Erantsi da irudia</string>
     <string name="imap_name">Pertsonala (IMAP)</string>
     <string name="important_inbox_section_title">Sarrera-ontziko Garrantzitsuak atala</string>
@@ -998,7 +1007,7 @@
     <string name="minute_picker_description">Minutuak aukeratzeko ikuspegi zirkularra</string>
     <string name="miscellaneous">Askotarikoak</string>
     <string name="more_info_attachment">Informazioa</string>
-    <string name="move_to_selection_dialog_title">Eraman hona:</string>
+    <string name="move_to_selection_dialog_title">Eraman hona</string>
     <string name="move_to_trip_dialog_title">Eraman Bidaia leihora</string>
     <string name="multiple_new_message_notification_item"><b>%1$s</b> %2$s</string>
     <string name="mute">Ezkutatu</string>
@@ -1035,7 +1044,7 @@
     <string name="notification_label_description_priority_inbox_all_mail">Sarrera-ontzia</string>
     <string name="notification_label_description_starred">Izardunak</string>
     <string name="notification_level_all">Mezu elektroniko berri guztiak</string>
-    <string name="notification_level_important">Garrantzitsuak bakarrik</string>
+    <string name="notification_level_important">Garrantzitsuak atala bakarrik</string>
     <string name="notification_level_none">Bat ere ez</string>
     <string name="notification_sender_line_snoozed">Atzeratu da: %1$s</string>
     <string name="notifications_category">Jakinarazpenak</string>
@@ -1194,7 +1203,7 @@ Kontuaren jakinarazpenak aktibatu nahi dituzu?"</string>
     <string name="preferences_nudge_section_outbound_summary">Bidalitako mezuren baten jarraipena egin behar baduzu, sarrera-ontziaren goialdean agertuko da</string>
     <string name="preferences_nudge_section_outbound_title">Iradoki jarraipena egiteko mezu elektronikoak</string>
     <string name="preferences_nudging_title">Erantzun eta egin jarraipena</string>
-    <string name="preferences_priority_inbox_notification_level_title">Jakinarazpen-maila</string>
+    <string name="preferences_priority_inbox_notification_level_title">Jaso sarrera-ontziko atalen jakinarazpenak</string>
     <string name="preferences_ringtone_title">Soinua</string>
     <string name="preferences_signature_dialog_title">Sinadura</string>
     <string name="preferences_signature_summary_not_set">Ezarri gabe</string>
@@ -1368,7 +1377,7 @@ Aktibatzeko, sakatu hau."</string>
     <string name="server_error_certificate_error">Arazo bat izan da konexio segurua ezartzean.</string>
     <string name="server_error_login_limit_exceeded">Gehiegitan freskatu da. Saiatu berriro geroago.</string>
     <string name="server_error_nonexistent_folder">Ez da aurkitu eskatutako karpeta.</string>
-    <string name="server_error_too_many_requests">Eskaera gehiegi daude. Gainditu dira zerbitzariaren erabilera okerren mugak.</string>
+    <string name="server_error_too_many_requests">Gehiegitan freskatu da. Saiatu berriro geroago.</string>
     <string name="set_priority">Ezarri lehentasuna</string>
     <string name="settings">Ezarpenak</string>
     <string name="settings_number_of_days">Posta sinkronizatu beharreko egunak</string>
@@ -1413,7 +1422,7 @@ Aktibatzeko, sakatu hau."</string>
     <string name="snooze_option_specific_day_morning">Goizean</string>
     <string name="snooze_option_specific_day_night">Gauean</string>
     <string name="snooze_option_specific_day_no_specific_time">Isila</string>
-    <string name="snoozed_date_less_than_one_hour_ago">Duela ordubete baino gutxiago atzeratu da</string>
+    <string name="snoozed_date_less_than_one_hour_ago">Duela ordubete baino gutxiago atzeratuta</string>
     <string name="snoozed_folder_feature_highlight_body">Sarrera-ontzira itzuli arte, Zain utzitakoak zerrendara joaten da zain uzten duzun guztia</string>
     <string name="snoozed_folder_feature_highlight_title">Zain utzitako mezuak atzitzeko aukera</string>
     <string name="spam_warning_similar_messages_to_obtain_personal_info">Antzeko mezuak erabili dira jendearen informazio pertsonala lapurtzeko. Igorleaz fidatu ezean, ez egin klik esteketan eta ez bidali informazio pertsonalik erantzunean.</string>
@@ -1529,6 +1538,7 @@ Aktibatzeko, sakatu hau."</string>
     <string name="too_large_to_attach_multiple">Ez dira fitxategi bat edo gehiago erantsi. Muga: %1$s.</string>
     <string name="too_large_to_attach_single">Ezin da erantsi %1$s baino gehiagoko fitxategirik.</string>
     <string name="trash_folder_selection_title">Hautatu zerbitz. %s Zaborrontzia karpeta</string>
+    <string name="trashed_message_indicator">Mezua ezabatu da</string>
     <string name="turn_auto_sync_on_dialog_body">Aplikazio eta kontu guztietan (ez soilik Gmail) egiten dituzun aldaketak webgunearekin, zure beste gailuekin eta %1$srekin sinkronizatuko dira.</string>
     <string name="turn_auto_sync_on_dialog_confirm_btn">Aktibatu</string>
     <string name="turn_auto_sync_on_dialog_title">Sinkronizazio automatikoa aktibatu nahi duzu?</string>

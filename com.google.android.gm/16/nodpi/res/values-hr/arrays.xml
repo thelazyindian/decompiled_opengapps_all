@@ -5,11 +5,6 @@
         <item>Odgovaranje svima</item>
         <item>Prosljeđivanje</item>
     </string-array>
-    <string-array name="notificationsStatusEntries">
-        <item>Sve</item>
-        <item>Samo vrlo važno</item>
-        <item>Ništa</item>
-    </string-array>
     <string-array name="prefEntries_autoAdvance">
         <item>Novije</item>
         <item>Starije</item>

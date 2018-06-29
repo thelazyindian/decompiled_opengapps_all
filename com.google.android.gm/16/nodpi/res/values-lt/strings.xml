@@ -42,6 +42,9 @@
     <string name="account_management_need_to_set_up_new_work_account">Naują darbo paskyrą reikia nustatyti.</string>
     <string name="account_management_new_work_account_line_item">Nustatykite šią paskyrą</string>
     <string name="account_management_set_up_new_account_title">Nauja darbo paskyra</string>
+    <string name="account_notification_level_all">Visi</string>
+    <string name="account_notification_level_high_priority">Tik aukšto prioriteto</string>
+    <string name="account_notification_level_none">Jokio</string>
     <string name="account_security_dialog_content_fmt">Kad galėtumėte naudoti paskyrą &lt;%s>, įrenginyje turite atnaujinti saugos nustatymus. Jei reikia daugiau informacijos, susisiekite su administratoriumi.</string>
     <string name="account_security_dialog_ok">Atnauj. dabar</string>
     <string name="account_security_policy_explanation_fmt">Serveris „%s“ reikalauja leisti jam nuotoliniu būdu valdyti kai kurias „Android“ įrenginio saugos funkcijas.</string>
@@ -54,6 +57,8 @@
     <string name="account_settings_conversation_view_progress_dialog_message">Atnaujinami paskyros nustatymai…</string>
     <string name="account_settings_conversation_view_summary">Grupuokite el. laiškus ta pačia tema. Gali praeiti šiek tiek laiko, kol šis nustatymas bus pritaikytas</string>
     <string name="account_settings_conversation_view_title">Pokalbio peržiūra</string>
+    <string name="account_settings_conversation_view_turned_off_dialog_message">Pokalbio peržiūra buvo išjungta, kad atitiktų paskyros nustatymus. Tai galite pakeisti skiltyje „Nustatymai“.</string>
+    <string name="account_settings_conversation_view_turned_on_dialog_message">Pokalbio peržiūra buvo įjungta, kad atitiktų paskyros nustatymus. Tai galite atlikti skiltyje „Nustatymai“.</string>
     <string name="account_settings_data_usage">Duomenų naudojimas</string>
     <string name="account_settings_description_label">Paskyros pavadinimas</string>
     <string name="account_settings_edit_quick_responses_label">Greiti atsakai</string>
@@ -832,6 +837,7 @@
     <string name="gmailify_updating_password_title">Atnaujinamas slaptažodis…</string>
     <string name="google_play_logo">Eiti į „Google Play“ parduotuvę</string>
     <string name="google_terms_of_service">„Google“ paslaugų teikimo sąlygos</string>
+    <string name="got_it_option">Supratau</string>
     <string name="has_malware_website_links">Atsargiai elkitės su šiuo pranešimu. Jame yra nuorodų į svetaines, kuriose priglobiamos kenkėjiškos programos.</string>
     <string name="hats_survey_promo_action_text">Dalyv. apklausoje</string>
     <string name="hats_survey_promo_text">Padėkite patobulinti „Gmail“</string>
@@ -856,6 +862,7 @@
     <string name="icr_declined">%1$s &lt;b>atmetė&lt;/b> kvietimą į šį įvykį.</string>
     <string name="icr_empty_title">(nėra pavadinimo)</string>
     <string name="icr_hide_original">Slėpti pradinį pranešimą</string>
+    <string name="icr_loading_error_msg">Nepavyko įkelti įvykio duomenų.</string>
     <string name="icr_location_description">Vietovė</string>
     <string name="icr_organizer">(organizatorius)</string>
     <string name="icr_responded_maybe">Atsakyta „Galbūt“</string>
@@ -865,6 +872,8 @@
     <string name="icr_show_original">Rodyti pradinį pranešimą</string>
     <string name="icr_tentative">%1$s &lt;b>preliminariai priėmė&lt;/b> kvietimą į šį įvykį.</string>
     <string name="icr_time_description">Datos informacija</string>
+    <string name="icr_view_details">Žr. išsamią informaciją</string>
+    <string name="icr_warning_description">Įspėjimas</string>
     <string name="image_attached">Vaizdas pridėtas</string>
     <string name="imap_name">Asmeninė (IMAP)</string>
     <string name="important_inbox_section_title">„Inbox“ skiltis „Svarbu“</string>
@@ -1049,7 +1058,7 @@
     <string name="notification_label_description_priority_inbox_all_mail">Gautieji</string>
     <string name="notification_label_description_starred">Pažymėta žvaigždute</string>
     <string name="notification_level_all">Visi nauji laiškai</string>
-    <string name="notification_level_important">Tik svarbūs</string>
+    <string name="notification_level_important">Tik skiltis „Svarbūs“</string>
     <string name="notification_level_none">Nėra</string>
     <string name="notification_sender_line_snoozed">Nustatyta snausti: %1$s</string>
     <string name="notifications_category">Pranešimai</string>
@@ -1210,7 +1219,7 @@ Jei norite įjungti, palieskite."</string>
     <string name="preferences_nudge_section_outbound_summary">Išsiųsti el. laiškai, kuriuos jums galbūt reikia stebėti, bus rodomi gautųjų viršuje</string>
     <string name="preferences_nudge_section_outbound_title">Siūlyti el. laiškus, kuriuos reikėtų stebėti</string>
     <string name="preferences_nudging_title">Atsakyti ir stebėti</string>
-    <string name="preferences_priority_inbox_notification_level_title">Pranešimų lygis</string>
+    <string name="preferences_priority_inbox_notification_level_title">Pranešti apie gautųjų skiltis</string>
     <string name="preferences_ringtone_title">Garsas</string>
     <string name="preferences_signature_dialog_title">Parašas</string>
     <string name="preferences_signature_summary_not_set">Nenustatyta</string>
@@ -1385,7 +1394,7 @@ Jei norite įjungti, palieskite."</string>
     <string name="server_error_certificate_error">Apsaugant ryšį kilo problema.</string>
     <string name="server_error_login_limit_exceeded">Per daug atnaujinimų. Vėliau bandykite dar kartą.</string>
     <string name="server_error_nonexistent_folder">Aplankas, dėl kurio pateikta užklausa, nerastas.</string>
-    <string name="server_error_too_many_requests">Per daug užklausų. Viršytas serverio piktnaudžiavimo apribojimas</string>
+    <string name="server_error_too_many_requests">Per daug atnaujinimų. Vėliau bandykite dar kartą.</string>
     <string name="set_priority">Nustatyti prioritetą</string>
     <string name="settings">Nustatymai</string>
     <string name="settings_number_of_days">Dienų, kai gautieji sinchroniz., skaič.</string>
@@ -1547,6 +1556,7 @@ Jei norite įjungti, palieskite."</string>
     <string name="too_large_to_attach_multiple">Mažiausiai vienas failas nepridėtas. Apribojimas %1$s.</string>
     <string name="too_large_to_attach_single">Negalima pridėti didesnių nei %1$s failų.</string>
     <string name="trash_folder_selection_title">Pas. %s server. šiukšliad. apl.</string>
+    <string name="trashed_message_indicator">Šis pranešimas ištrintas</string>
     <string name="turn_auto_sync_on_dialog_body">Pakeitimai, atliekami visose programose ir paskyrose, o ne tik „Gmail“, bus sinchronizuojami žiniatinklyje, kituose įrenginiuose ir %1$s.</string>
     <string name="turn_auto_sync_on_dialog_confirm_btn">Įjungti</string>
     <string name="turn_auto_sync_on_dialog_title">Įjungti automatinį sinchronizavimą?</string>

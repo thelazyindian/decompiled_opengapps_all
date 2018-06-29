@@ -29,6 +29,9 @@
     <string name="account_management_need_to_set_up_new_work_account">तपाईंको नयाँ कार्य खाता सेटअप गर्न आवश्यक छ।</string>
     <string name="account_management_new_work_account_line_item">यो खाता सेटअप गर्नुहोस्</string>
     <string name="account_management_set_up_new_account_title">नयाँ कार्य खाता</string>
+    <string name="account_notification_level_all">सबै</string>
+    <string name="account_notification_level_high_priority">उच्च प्राथमिकता मात्र</string>
+    <string name="account_notification_level_none">कुनै पनि होइन</string>
     <string name="account_security_dialog_content_fmt">आफ्नो &lt;%s> खाता प्रयोग गर्नाका लागि तपाईंले आफ्नो यन्त्रको सुरक्षा सेटिङलाई अनिवार्य रूपले अद्यावधिक गर्नुपर्छ। थप जानकारीका लागि आफ्ना प्रशासकसँग सम्पर्क गर्नुहोस्।</string>
     <string name="account_security_dialog_ok">अहिले अद्यावधिक गर्नुहोस्</string>
     <string name="account_security_policy_explanation_fmt">सर्भर %s ले आवश्यक्ता राख्दछ कि तपाईंले त्यसलाई आफ्नो Android यन्त्रको केही सुरक्षा सुविधाहरूलाई दूर नियन्त्रण गर्न अनुमति दिनुहोस्।</string>
@@ -41,6 +44,8 @@
     <string name="account_settings_conversation_view_progress_dialog_message">खाताका सेटिङहरू अद्यावधिक गर्दै…</string>
     <string name="account_settings_conversation_view_summary">उही विषय भएका इमेलहरू एक साथ समूहबद्ध गर्नुहोस्। यो सेटिङ लागू हुनाका लागि केही समय लाग्न सक्छ।</string>
     <string name="account_settings_conversation_view_title">वार्तालापको दृश्य</string>
+    <string name="account_settings_conversation_view_turned_off_dialog_message">तपाईंको खाताका सेटिङहरूसँग मेल खुवाउन वार्तालाप दृश्य निष्क्रिय पारिएको छ। तपाईं सेटिङहरूमा गई यसलाई बदल्न सक्नुहुन्छ।</string>
+    <string name="account_settings_conversation_view_turned_on_dialog_message">तपाईंको खाताका सेटिङहरूसँग मेल खुवाउन वार्तालाप दृश्य सक्रिय गरिएको छ। तपाईं सेटिङहरूमा गई यसलाई बदल्न सक्नुहुन्छ।</string>
     <string name="account_settings_data_usage">डेटाको प्रयोग</string>
     <string name="account_settings_description_label">खाता नाम</string>
     <string name="account_settings_edit_quick_responses_label">द्रुत जवाफहरू</string>
@@ -672,7 +677,7 @@
     <string name="fix_permissions_add_collaborators_button">यो इमेलका प्राप्तकर्ताहरू:</string>
     <string name="fix_permissions_google_account_not_required_warning">प्रापकहरूलाई एउटा Google खाता आवश्यक पर्दैन।</string>
     <string name="fix_permissions_google_account_required_warning">प्रापकहरूसँग एउटा Google खाता हुनु पर्छ।</string>
-    <string name="fix_permissions_increase_domain_visibility_button">व्यक्तिहरू लिंकको साथमा &lt;b>%1$s&lt;/b> मा:</string>
+    <string name="fix_permissions_increase_domain_visibility_button">मान्छेहरू लिंकको साथमा &lt;b>%1$s&lt;/b> मा:</string>
     <string name="fix_permissions_increase_public_visibility_button">लिंक भएका जो कोही पनि:</string>
     <string name="fix_permissions_more_options">थप विकल्पहरु</string>
     <string name="fix_permissions_outside_domain_warning_title">के तपाईं निश्चित हुनुहुन्छ?</string>
@@ -813,6 +818,7 @@
     <string name="gmailify_updating_password_title">तपाईंको पासवर्ड अद्यावधिक गरिँदै…</string>
     <string name="google_play_logo">Google प्ले स्टोरमा जानुहोस्</string>
     <string name="google_terms_of_service">Google सेवाका सर्तहरू</string>
+    <string name="got_it_option">बुझेँ</string>
     <string name="has_malware_website_links">यो सन्देशदेखि सावधान रहनुहोस्। यसमा मालवेयर होस्ट गर्ने वेबसाइटका लिंकहरू समावेश छन्।</string>
     <string name="hats_survey_promo_action_text">हाम्रो सर्वेक्षण लिनुहोस्</string>
     <string name="hats_survey_promo_text">हामीलाई Gmail को सुधार गर्नमा मद्दत गर्नु…</string>
@@ -827,8 +833,8 @@
     <string name="icr_agenda_description">एजेन्डा</string>
     <string name="icr_agenda_settings">%1$s को एजेन्डा हेर्न, सेटिङहरूमा गई पात्रो सम्बन्धी अनुमतिलाई सक्षम पार्नुहोस्।</string>
     <string name="icr_all_day">दिनभरि</string>
-    <string name="icr_attendees_description">उपस्थित व्यक्तिहरू</string>
-    <string name="icr_attendees_title">उपस्थित व्यक्तिहरू</string>
+    <string name="icr_attendees_description">उपस्थित मान्छेहरू</string>
+    <string name="icr_attendees_title">उपस्थित मान्छेहरू</string>
     <string name="icr_canceled">यो कार्यक्रम <b>रद्द गरिएको</b> छ।</string>
     <string name="icr_confirmed_maybe">हुन पनि सक्छ भनी जवाफ दिँदै…</string>
     <string name="icr_confirmed_no">सम्भव छैन भनी जवाफ दिँदै…</string>
@@ -836,6 +842,7 @@
     <string name="icr_declined">%1$s ले यो कार्यक्रमलाई &lt;b>अस्वीकार गर्नुभएको&lt;/b> छ।</string>
     <string name="icr_empty_title">(कुनै पनि शीर्षक छैन)</string>
     <string name="icr_hide_original">मूल सन्देश लुकाउनुहोस्</string>
+    <string name="icr_loading_error_msg">कार्यक्रमको डेटा लोड गर्न सकिएन।</string>
     <string name="icr_location_description">स्थान</string>
     <string name="icr_organizer">(आयोजक)</string>
     <string name="icr_organizer_fmt">^1^2</string>
@@ -846,6 +853,8 @@
     <string name="icr_show_original">मूल सन्देश देखाउनुहोस्</string>
     <string name="icr_tentative">%1$s ले यो कार्यक्रमलाई &lt;b>लगभग स्वीकार गर्नुभएको&lt;/b> छ।</string>
     <string name="icr_time_description">मितिको जानकारी</string>
+    <string name="icr_view_details">विवरणहरू हेर्नुहोस्</string>
+    <string name="icr_warning_description">चेतावनी</string>
     <string name="image_attached">छवि समावेश गरियो</string>
     <string name="imap_name">व्यक्तिगत (IMAP)</string>
     <string name="important_inbox_section_title">इनबक्सको महत्त्वपूर्ण खण्ड</string>
@@ -1027,7 +1036,7 @@
     <string name="notification_label_description_priority_inbox_all_mail">इनबक्स</string>
     <string name="notification_label_description_starred">ताराङ्कित</string>
     <string name="notification_level_all">सबै नयाँ मेल</string>
-    <string name="notification_level_important">महत्त्वपूर्ण मात्र</string>
+    <string name="notification_level_important">महत्त्वपूर्ण खण्ड मात्र</string>
     <string name="notification_level_none">कुनै पनि होइन</string>
     <string name="notification_sender_line_snoozed">स्नुज गरियो: %1$s</string>
     <string name="notifications_category">सूचनाहरू</string>
@@ -1186,7 +1195,7 @@
     <string name="preferences_nudge_section_outbound_summary">फलो अप गर्नु आवश्यक हुन सक्ने तपाईंले पठाउनुभएका इमेलहरू तपाईंको इनबक्सको शीर्ष स्थानमा देखिने छन्</string>
     <string name="preferences_nudge_section_outbound_title">फलो अप गर्नु पर्ने इमेलहरूबारे सुझाव दिनुहोस्</string>
     <string name="preferences_nudging_title">जवाफ पठाउनुहोस् र फलो अप गर्नुहोस्</string>
-    <string name="preferences_priority_inbox_notification_level_title">सूचनाको स्तर</string>
+    <string name="preferences_priority_inbox_notification_level_title">इनबक्सका खण्डहरूबारे सूचित गर्नुहोस्</string>
     <string name="preferences_ringtone_title">आवाज</string>
     <string name="preferences_signature_dialog_title">हस्ताक्षर</string>
     <string name="preferences_signature_summary_not_set">सेट गरेको छैन</string>
@@ -1361,7 +1370,7 @@
     <string name="server_error_certificate_error">जडान सुरक्षित गर्नमा समस्या भयो।</string>
     <string name="server_error_login_limit_exceeded">धेरै पटक पुन:ताजा गरिएको छ। कृपया पछि फेरि प्रयास गर्नुहोला।</string>
     <string name="server_error_nonexistent_folder">अनुरोध गरिएको फोल्डर फेला परेन।</string>
-    <string name="server_error_too_many_requests">अत्यधिक अनुरोधहरू गरिए। सर्भरको दुरुपयोगसम्बन्धी सीमा नाघ्यो</string>
+    <string name="server_error_too_many_requests">धेरै पटक पुनः ताजा गरियो। कृपया पछि फेरि प्रयास गर्नुहोला।</string>
     <string name="set_priority">प्राथमिकता सेट गर्नुहोस्</string>
     <string name="settings">सेटिङहरू</string>
     <string name="settings_number_of_days">सिंक गर्नु पर्ने मेलका दिन</string>
@@ -1522,6 +1531,7 @@
     <string name="too_large_to_attach_multiple">एक वा धेरै फाइल संलग्न गरिएको छैन। सीमा %1$s।</string>
     <string name="too_large_to_attach_single">%1$s भन्दा ठूलो फाइललाई संलग्न गर्न सकिदैन।</string>
     <string name="trash_folder_selection_title">%s को लागि सर्भर रद्दीटोकरी फोल्डर चयन गर्नुहोस्</string>
+    <string name="trashed_message_indicator">यो सन्देश मेटाइएको छ</string>
     <string name="turn_auto_sync_on_dialog_body">Gmail मा मात्र नभई सबै अनुप्रयोगहरू र खाताहरूमा गरिएका परिवर्तनहरू वेब, तपाईंको अन्य उपकरणहरू र तपाईंको %1$s को बीचमा सिंक गरिनेछ।</string>
     <string name="turn_auto_sync_on_dialog_confirm_btn">सक्रिय पार्नुहोस्</string>
     <string name="turn_auto_sync_on_dialog_title">स्वचालित सिंक सक्रिय पार्ने हो?</string>
@@ -1587,7 +1597,7 @@
     <string name="welcome_tour_promo_text">Gmail ले तपाईँलाई प्रबर्धक र सामाजिक इमेल क्रमबद्ध गरेर राम्रो काम गर्न मद्दत पुर्याउँछ।</string>
     <string name="welcome_tour_welcome_new_text">तपाईंको सबै इमेलको लागि एउटा अनुप्रयोग</string>
     <string name="welcome_tour_welcome_new_title">जिमेलमा स्वागत छ</string>
-    <string name="welcome_tour_welcome_upgrade_text">एकै हेराइमा तपाईँलाई सबै सुविधाहरू मनपर्ने छन्</string>
+    <string name="welcome_tour_welcome_upgrade_text">एकै हेराइमा तपाईँलाई सबै सुविधाहरू मन पर्ने छन्</string>
     <string name="welcome_tour_welcome_upgrade_title">Gmail मा नयाँ</string>
     <string name="with_option_unsubscribe">यो सन्देश किन स्प्याममा छ? तपाईंले यस प्रेषकसँगको सदस्यता रद्द गर्ने प्रयास गर्नुभयो तर उहाँले तपाईंलाई इमेल पठाउने कार्य जारी राख्नुभयो, त्यसैले नयाँ सन्देशहरूलाई तपाईंको इनबक्सभन्दा बाहिरै राख्नका लागि तिनलाई सीधै स्प्याममा पठाइन्छ।</string>
     <string name="write_perm_desc">मेल पठाउन र मेटाउन गरी तपाईँको Gmail परिमार्जन गर्न अनुप्रयोगलाई अनुमति दिन्छ।</string>

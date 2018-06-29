@@ -30,6 +30,9 @@
     <string name="account_management_need_to_set_up_new_work_account">သင့်အလုပ်အကောင့် အသစ်ကို သတ်မှတ်ရန် လိုအပ်သည်။</string>
     <string name="account_management_new_work_account_line_item">ဤအကောင့်ကို သတ်မှတ်ပါ</string>
     <string name="account_management_set_up_new_account_title">အလုပ် အကောင့် အသစ်</string>
+    <string name="account_notification_level_all">အားလုံး</string>
+    <string name="account_notification_level_high_priority">ဦးစားပေးများသာ</string>
+    <string name="account_notification_level_none">မရှိ</string>
     <string name="account_security_dialog_content_fmt">သင့်အကောင့် &lt;%s> ကို အသုံးပြုရန်အတွက် သင့်ကိရိယာရှိ လုံခြုံရေးဆက်တင်များကို ပြင်ရပါမည်။ ပိုမိုသိရှိလိုပါက သင်၏စီမံခန့်ခွဲသူကို ဆက်သွယ်ပါ။</string>
     <string name="account_security_dialog_ok">ယခုပြင်ပါ</string>
     <string name="account_security_policy_explanation_fmt">ဆာဗာ %s အား သင့် Android ကိရိယာ၏ လုံခြုံရေးဝန်ဆောင်မှုအချို့ကို အဝေးမှ ထိန်းချုပ်ခွင့်ပြုရန် လိုအပ်သည်။</string>
@@ -42,6 +45,8 @@
     <string name="account_settings_conversation_view_progress_dialog_message">အကောင့်ဆက်တင်များကို အပ်ဒိတ်လုပ်နေသည်…</string>
     <string name="account_settings_conversation_view_summary">ခေါင်းစဉ်တူ အီးမေးလ်များ အုပ်စုဖွဲ့ပါ။ ဤဆက်တင် သက်ရောက်ရန် အချိန်အနည်းငယ်ကြာနိုင်ပါသည်။</string>
     <string name="account_settings_conversation_view_title">အီးမေးလ်စာတွဲမြင်ကွင်း</string>
+    <string name="account_settings_conversation_view_turned_off_dialog_message">သင့်အကောင့်ဆက်တင်များနှင့် ကိုက်ညီရန် အီးမေးလ်စာတွဲမြင်ကွင်းကို ပိတ်ထားပါသည်။ ၎င်းကို ဆက်တင်များတွင် ပြောင်းနိုင်ပါသည်။</string>
+    <string name="account_settings_conversation_view_turned_on_dialog_message">သင့်အကောင့်ဆက်တင်များနှင့် ကိုက်ညီရန် အီးမေးလ်စာတွဲမြင်ကွင်းကို ဖွင့်ထားပါသည်။ ၎င်းကို ဆက်တင်များတွင် ပြောင်းနိုင်ပါသည်။</string>
     <string name="account_settings_data_usage">ဒေတာ သုံးစွဲမှု</string>
     <string name="account_settings_description_label">အကောင့် အမည်</string>
     <string name="account_settings_edit_quick_responses_label">အမြန် တုံ့ပြန်ချက်များ</string>
@@ -822,6 +827,7 @@
     <string name="gmailify_updating_password_title">သင့်စကားဝှက်ကို အပ်ဒိတ်လုပ်နေသည်…</string>
     <string name="google_play_logo">Google Play Store သို့သွားပါ။</string>
     <string name="google_terms_of_service">Google ဝန်ဆောင်မှုဆိုင်ရာစည်းမျဉ်းများ</string>
+    <string name="got_it_option">ရပါပြီ</string>
     <string name="has_malware_website_links">ဤမက်ဆေ့ဂျ်ကို သတိပြုပါ။၎င်းတွင် မဲလ်ဝဲပါရှိသည့် ဝဘ်ဆိုက်များသို့ လင့်ခ်များပါဝင်သည်။</string>
     <string name="hats_survey_promo_action_text">စစ်တမ်းကောက်ခွင့်ပြုပါ။</string>
     <string name="hats_survey_promo_text">Gmail ပိုကောင်းလာစေရန် ကူညီပါ</string>
@@ -845,6 +851,7 @@
     <string name="icr_declined">%1$s သည် ဤအစီအစဉ်ကို &lt;b>ငြင်းပယ်ထားပါသည်&lt;/b>။</string>
     <string name="icr_empty_title">(ခေါင်းစဉ် မရှိပါ)</string>
     <string name="icr_hide_original">မူရင်း မက်ဆေ့ဂျ်ကို ဖျောက်ထားပါ</string>
+    <string name="icr_loading_error_msg">အစီအစဉ်ဒေတာများ ဖွင့်၍မရပါ။</string>
     <string name="icr_location_description">တည်နေရာ</string>
     <string name="icr_organizer">(စီစဉ်သူ)</string>
     <string name="icr_responded_maybe">မသေချာကြောင်း ပြန်ကြားထားသည်</string>
@@ -854,6 +861,8 @@
     <string name="icr_show_original">မူရင်း မက်ဆေ့ဂျ်ကို ပြပါ</string>
     <string name="icr_tentative">%1$s သည် ဤအစီအစဉ်ကို &lt;b>ယာယီလက်ခံထားပါသည်&lt;/b>။</string>
     <string name="icr_time_description">ရက်စွဲ အချက်အလက်များ</string>
+    <string name="icr_view_details">အသေးစိတ် ကြည့်ရန်</string>
+    <string name="icr_warning_description">သတိပေးချက်</string>
     <string name="image_attached">ပုံကို ပူးတွဲထားပါသည်</string>
     <string name="imap_name">ကိုယ်ရေး (IMAP)</string>
     <string name="important_inbox_section_title">အရေးကြီးဝင်စာများ ကဏ္ဍ</string>
@@ -1035,7 +1044,7 @@
     <string name="notification_label_description_priority_inbox_all_mail">ဝင်စာများ</string>
     <string name="notification_label_description_starred">ကြယ်ပွင့်ပြထားသော</string>
     <string name="notification_level_all">စာအသစ် အားလုံး</string>
-    <string name="notification_level_important">အရေးကြီးသည်များသာ</string>
+    <string name="notification_level_important">အရေးကြီးကဏ္ဍ သီးသန့်</string>
     <string name="notification_level_none">မရှိ</string>
     <string name="notification_sender_line_snoozed">ဆိုင်းငံ့ထားသည်- %1$s</string>
     <string name="notifications_category">သတိပေးချက်များ</string>
@@ -1194,7 +1203,7 @@
     <string name="preferences_nudge_section_outbound_summary">သင်ပြန်မေးမြန်းရန် လိုအပ်နိုင်သည့် ပို့ထားသောအီးမေးလ်များသည် ဝင်စာများအပေါ်ပိုင်းတွင် ပေါ်လာပါမည်</string>
     <string name="preferences_nudge_section_outbound_title">ပြန်စစ်ဆေးရမည့် အီးမေးလ်များ အကြံပြုခြင်း</string>
     <string name="preferences_nudging_title">စာပြန်ရန်နှင့် စစ်ဆေးရန်</string>
-    <string name="preferences_priority_inbox_notification_level_title">အကြောင်းကြားချက် အဆင့်</string>
+    <string name="preferences_priority_inbox_notification_level_title">ဝင်စာများကဏ္ဍအတွက် သတိပေးရန်</string>
     <string name="preferences_ringtone_title">အသံ</string>
     <string name="preferences_signature_dialog_title">လက်မှတ်</string>
     <string name="preferences_signature_summary_not_set">မသတ်မှတ်ရသေးပါ</string>
@@ -1371,7 +1380,7 @@
     <string name="server_error_certificate_error">ချိတ်ဆက်မှု လုံခြုံမှုနှင့် ပတ်သတ်၍ ပြဿနာရှိနေပါသည်။</string>
     <string name="server_error_login_limit_exceeded">အသစ်ပြုလုပ်မှုများ အလွန်များလွန်းနေပါသည်။ ကျေးဇူးပြုပြီး နောက်မှ ပြန်လည်ကြိုးစားကြည့်ပါ။</string>
     <string name="server_error_nonexistent_folder">တောင်းဆိုထားသော ဖိုလ်ဒါကို ရှာမတွေ့ပါ။</string>
-    <string name="server_error_too_many_requests">တောင်းဆိုချက် များလွန်းသည်။ ဆာဗာတိုက်ခိုက်မှု ကန့်သတ်ချက်ကျော်သွားပြီ။</string>
+    <string name="server_error_too_many_requests">အသစ်ပြန်စမှုများ အလွန်များလွန်းနေပါသည်။ နောက်မှ ထပ်စမ်းကြည့်ပါ။</string>
     <string name="set_priority">ဦးစားပေး သတ်မှတ်ရန်</string>
     <string name="settings">ဆက်တင်များ</string>
     <string name="settings_number_of_days">မေးလ်ကို ချိန်ကိုက်ရန် ရက်များ</string>
@@ -1532,6 +1541,7 @@
     <string name="too_large_to_attach_multiple">ဖိုင် တစ်ခု သို့မဟုတ် တစ်ခုထက်ပိုသောဖိုင်များကို မပူးတွဲခဲ့ပါ။ %1$s ကန့်သတ်မှု။</string>
     <string name="too_large_to_attach_single">%1$sထက် ပိုကြီးသော ဖိုင်ကို မပူးတွဲနိုင်ပါ။</string>
     <string name="trash_folder_selection_title">%sတွက် ဆာဗာ အမှိုက် ဖိုလ်ဒါ ရွေး</string>
+    <string name="trashed_message_indicator">ဤမက်ဆေ့ဂျ်ကို ဖျက်လိုက်ပါပြီ</string>
     <string name="turn_auto_sync_on_dialog_body">Gmail သာမက၊ အက်ပ်များနှင့် အကောင့်များ အားလုံးတွင် သင်ပြုလုပ်ခဲ့သော အပြောင်းအလဲများကို ဝဘ်၊ သင်၏ ကိရိယာများ နှင့် သင်၏%1$s အကြားမှာ ချိန်ညှိပေးသွားမည်။</string>
     <string name="turn_auto_sync_on_dialog_confirm_btn">ဖွင့်ရန်</string>
     <string name="turn_auto_sync_on_dialog_title">အကောင့် တပြိုင်တည်းချိန်ကိုက်ခြင်းကို ဖွင့်မလား?</string>

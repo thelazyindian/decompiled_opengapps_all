@@ -2,7 +2,7 @@
 <FrameLayout android:orientation="vertical" android:background="@drawable/tl_item_background" android:layout_width="fill_parent" android:layout_height="wrap_content"
   xmlns:android="http://schemas.android.com/apk/res/android">
     <RelativeLayout android:padding="@dimen/conv_list_padding" android:layout_width="fill_parent" android:layout_height="wrap_content">
-        <ImageView android:id="@id/topic_avatar" android:layout_marginTop="0.0dip" android:contentDescription="@null" style="@style/ConversationListContactImageStyle" />
+        <ImageView android:id="@id/topic_avatar" android:layout_marginTop="0.0dip" android:contentDescription="@null" style="@style/ItemListContactImageStyle" />
         <TextView android:id="@id/topic_date" android:text="@string/date" style="@style/ConversationListDateStyle" />
         <TextView android:textSize="@dimen/topic_title_text_size" android:id="@id/topic_title" android:textAlignment="viewStart" android:layout_toStartOf="@id/topic_date" android:layout_toEndOf="@id/topic_avatar" style="@style/TopicItemTextStyle" />
         <ImageView android:id="@id/topic_star" android:paddingLeft="@dimen/item_list_star_padding_start" android:paddingRight="@dimen/item_list_star_padding_end" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/ic_star_outline_20dp" android:layout_alignParentRight="true" android:layout_alignParentBottom="true" android:contentDescription="@null" android:paddingStart="@dimen/item_list_star_padding_start" android:paddingEnd="@dimen/item_list_star_padding_end" android:layout_alignParentEnd="true" />
