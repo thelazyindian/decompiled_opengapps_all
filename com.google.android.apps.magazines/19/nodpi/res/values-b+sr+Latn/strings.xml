@@ -112,8 +112,8 @@
     <string name="continue_button">Nastavi</string>
     <string name="continue_reading">Nastavite čitanje</string>
     <string name="continue_reading_label">Nastavi sa čitanjem: %s</string>
-    <string name="countdown_days">dana</string>
-    <string name="countdown_hours">sata(i)</string>
+    <string name="countdown_days">dan</string>
+    <string name="countdown_hours">sat</string>
     <string name="countdown_mins">min</string>
     <string name="countdown_secs">sek</string>
     <string name="crash_report_message">Nažalost, proces %s se zaustavio.</string>

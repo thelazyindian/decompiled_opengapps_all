@@ -221,11 +221,11 @@
     <string name="go_to_saved_search">Μετάβαση στην αποθηκευμένη αναζήτηση</string>
     <string name="go_to_source">Μετάβαση στην πηγή</string>
     <string name="go_to_story_360">Προβολή πλήρους κάλυψης</string>
-    <string name="go_to_team_topic">Μετάβαση στις ειδήσεις για την ομάδα</string>
+    <string name="go_to_team_topic">Ειδήσεις για την ομάδα</string>
     <string name="go_to_topic">Μετάβαση στο θέμα</string>
-    <string name="go_to_worldcup_topic">Μετάβαση στις ειδήσεις για το Παγκόσμιο Κύπελλο</string>
+    <string name="go_to_worldcup_topic">Ειδήσεις για το Παγκόσμιο Κύπελλο</string>
     <string name="graph_content_group_game_description">Τροχός, επιλέχθηκε το στοιχείο: %s</string>
-    <string name="graph_content_knockout_game_description">Τροχός, επιλέχθηκαν τα στοιχεία: %1$s, %2$s εναντίον %3$s</string>
+    <string name="graph_content_knockout_game_description">Τροχός, επιλέχθηκαν τα στοιχεία: %1$s, %2$s - %3$s</string>
     <string name="graph_header_group">Ομάδα</string>
     <string name="graph_header_knockout">Νοκ-άουτ</string>
     <string name="graph_hint_tap_game">Πατήστε σε κάποιον αγώνα</string>

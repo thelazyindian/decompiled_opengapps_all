@@ -542,7 +542,7 @@
     <string name="sync_failed_notification_title">Nem sikerült frissíteni a Google Híreket.</string>
     <string name="sync_progress_notification_title">Tartalom letöltése a Google Hírekről</string>
     <string name="team_eliminated">Kiesett</string>
-    <string name="team_more_coverage">További információ a következő csapatról: %s</string>
+    <string name="team_more_coverage">További információ – %s</string>
     <string name="team_unknown">---</string>
     <string name="teams_page_title">Csapatok</string>
     <string name="temperature_unit_celsius">Celsius</string>

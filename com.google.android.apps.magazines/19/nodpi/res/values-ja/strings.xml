@@ -221,9 +221,9 @@
     <string name="go_to_saved_search">保存済み検索に移動</string>
     <string name="go_to_source">ニュース提供元に移動</string>
     <string name="go_to_story_360">すべての記事を表示</string>
-    <string name="go_to_team_topic">チームに関するニュースに移動</string>
+    <string name="go_to_team_topic">チームに関するニュースにアクセス</string>
     <string name="go_to_topic">トピックに移動</string>
-    <string name="go_to_worldcup_topic">ワールドカップに関するニュースに移動</string>
+    <string name="go_to_worldcup_topic">ワールドカップに関するニュースにアクセス</string>
     <string name="graph_content_group_game_description">ホイール、%s を選択済み</string>
     <string name="graph_content_knockout_game_description">ホイール、%1$s、%2$s対%3$sを選択済み</string>
     <string name="graph_header_group">グループ</string>
@@ -359,9 +359,9 @@
     <string name="privacy_policy">プライバシー ポリシー</string>
     <string name="profile_icon_description">アカウントと設定</string>
     <string name="progress_label_final">決勝</string>
-    <string name="progress_label_game_one">試合 1</string>
-    <string name="progress_label_game_three">試合 3</string>
-    <string name="progress_label_game_two">試合 2</string>
+    <string name="progress_label_game_one">第 1 節</string>
+    <string name="progress_label_game_three">第 3 節</string>
+    <string name="progress_label_game_two">第 2 節</string>
     <string name="progress_label_quarter_final">準々決勝</string>
     <string name="progress_label_round_of_sixteen">R16</string>
     <string name="progress_label_semi_final">準決勝</string>
@@ -605,7 +605,7 @@
     <string name="wifi_only_download_override_dialog_button_download_now">今すぐダウンロード</string>
     <string name="wifi_only_download_override_dialog_message">このコンテンツを今すぐダウンロードしますか？データ通信料が発生する場合があります。</string>
     <string name="wifi_only_download_override_dialog_title">Wi-Fi 接続なし</string>
-    <string name="world_cup_2018">2018 年ワールドカップ</string>
+    <string name="world_cup_2018">2018 ワールドカップ</string>
     <string name="year_and_month">%1$s %2$s</string>
     <string name="year_and_month_range">%1$s %2$s～%3$s</string>
 </resources>

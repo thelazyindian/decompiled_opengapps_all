@@ -119,7 +119,7 @@
     <string name="continue_reading">Hou aan lees</string>
     <string name="continue_reading_label">Lees verder: %s</string>
     <string name="countdown_days">dae</string>
-    <string name="countdown_hours">uur</string>
+    <string name="countdown_hours">ure</string>
     <string name="countdown_mins">minute</string>
     <string name="countdown_secs">sekondes</string>
     <string name="crash_report_message">Ongelukkig het %s gestop.</string>
@@ -223,7 +223,7 @@
     <string name="go_to_story_360">Bekyk Volledige Verslag</string>
     <string name="go_to_team_topic">Gaan na die spannuus</string>
     <string name="go_to_topic">Gaan na onderwerp toe</string>
-    <string name="go_to_worldcup_topic">Gaan na Wêreldbeker-nuus</string>
+    <string name="go_to_worldcup_topic">Gaan na Wêreldbekernuus</string>
     <string name="graph_content_group_game_description">Wiel; %s is gekies</string>
     <string name="graph_content_knockout_game_description">Wiel; %1$s, %2$s vs. %3$s is gekies</string>
     <string name="graph_header_group">Groep</string>
@@ -358,13 +358,13 @@
     <string name="previous_match_content_description">Gaan na vorige wedstryd</string>
     <string name="privacy_policy">Privaatheidbeleid</string>
     <string name="profile_icon_description">Rekening en instellings</string>
-    <string name="progress_label_final">Eind.</string>
+    <string name="progress_label_final">Eindstd.</string>
     <string name="progress_label_game_one">Wedst. 1</string>
     <string name="progress_label_game_three">Wedst. 3</string>
     <string name="progress_label_game_two">Wedst. 2</string>
-    <string name="progress_label_quarter_final">Kwart.</string>
+    <string name="progress_label_quarter_final">Kwarteind</string>
     <string name="progress_label_round_of_sixteen">R van 16</string>
-    <string name="progress_label_semi_final">Half.</string>
+    <string name="progress_label_semi_final">Halfeind</string>
     <string name="progress_title_group_stage">Groepfase</string>
     <string name="progress_title_knockout_stage">Uitklopfase</string>
     <string name="psv_challenge_continue_to_publisher">Gaan voort na die webwerf van %1$s om aan te meld en jou intekening te verifieer.</string>
@@ -543,7 +543,7 @@
     <string name="sync_progress_notification_title">Laai tans Google Nuus-inhoud af</string>
     <string name="team_eliminated">Uitgeskakel</string>
     <string name="team_more_coverage">Meer dekking oor %s</string>
-    <string name="team_unknown">ONBEPAALD</string>
+    <string name="team_unknown">Onbepaald</string>
     <string name="teams_page_title">Spanne</string>
     <string name="temperature_unit_celsius">Celsius</string>
     <string name="temperature_unit_fahrenheit">Fahrenheit</string>
@@ -605,7 +605,7 @@
     <string name="wifi_only_download_override_dialog_button_download_now">Laai nou af</string>
     <string name="wifi_only_download_override_dialog_message">Wil jy hierdie inhoud nou aflaai? Datakostes kan van toepassing wees.</string>
     <string name="wifi_only_download_override_dialog_title">Geen Wi-Fi-verbinding nie</string>
-    <string name="world_cup_2018">2018-wêreldbeker</string>
+    <string name="world_cup_2018">Wêreldbeker 2018</string>
     <string name="year_and_month">%2$s %1$s</string>
     <string name="year_and_month_range">%2$s-%3$s %1$s</string>
 </resources>

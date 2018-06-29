@@ -120,7 +120,7 @@
     <string name="continue_reading_label">தொடர்ந்து படிக்கவும்: %s</string>
     <string name="countdown_days">நாட்கள்</string>
     <string name="countdown_hours">மணிநேரம்</string>
-    <string name="countdown_mins">நிமிட</string>
+    <string name="countdown_mins">நிமி</string>
     <string name="countdown_secs">வினாடி</string>
     <string name="crash_report_message">எதிர்பாராதவிதமாக, %s நிறுத்தப்பட்டது.</string>
     <string name="current_issue_tab">நடப்பு வெளியீடு</string>
@@ -352,7 +352,7 @@
     <string name="progress_label_game_three">போட்டி 3</string>
     <string name="progress_label_game_two">போட்டி 2</string>
     <string name="progress_label_quarter_final">காலிறுதி</string>
-    <string name="progress_label_round_of_sixteen">16 அணிகள் சுற்று</string>
+    <string name="progress_label_round_of_sixteen">16 அணிசுற்று</string>
     <string name="progress_label_semi_final">அரையிறுதி</string>
     <string name="progress_title_group_stage">குழுச் சுற்று</string>
     <string name="progress_title_knockout_stage">நாக்அவுட் சுற்று</string>

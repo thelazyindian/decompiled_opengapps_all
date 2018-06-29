@@ -224,7 +224,7 @@
     <string name="go_to_team_topic">"Accédez aux actualités de l'équipe"</string>
     <string name="go_to_topic">Accéder au sujet</string>
     <string name="go_to_worldcup_topic">Accédez aux actualités de la Coupe du Monde</string>
-    <string name="graph_content_group_game_description">Roue, %s sélectionnée(s)</string>
+    <string name="graph_content_group_game_description">Roue, %s sélectionné</string>
     <string name="graph_content_knockout_game_description">Roue, %1$s, %2$s contre %3$s sélectionnée(s)</string>
     <string name="graph_header_group">Groupe</string>
     <string name="graph_header_knockout">Éliminatoires</string>

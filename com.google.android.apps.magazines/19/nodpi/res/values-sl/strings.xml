@@ -118,9 +118,9 @@
     <string name="continue_button">Naprej</string>
     <string name="continue_reading">Nadaljevanje branja</string>
     <string name="continue_reading_label">Nadaljujte branje: %s</string>
-    <string name="countdown_days">dnevi</string>
-    <string name="countdown_hours">ure</string>
-    <string name="countdown_mins">min</string>
+    <string name="countdown_days">d</string>
+    <string name="countdown_hours">h</string>
+    <string name="countdown_mins">m</string>
     <string name="countdown_secs">s</string>
     <string name="crash_report_message">Aplikacija %s je žal prenehala delovati.</string>
     <string name="current_issue_tab">Trenutna številka</string>
@@ -363,7 +363,7 @@
     <string name="progress_label_game_three">3. tekma</string>
     <string name="progress_label_game_two">2. tekma</string>
     <string name="progress_label_quarter_final">Četrtf.</string>
-    <string name="progress_label_round_of_sixteen">Četrtf.</string>
+    <string name="progress_label_round_of_sixteen">Osm. f.</string>
     <string name="progress_label_semi_final">Polfin.</string>
     <string name="progress_title_group_stage">Skupinski del</string>
     <string name="progress_title_knockout_stage">Izločilni boji</string>

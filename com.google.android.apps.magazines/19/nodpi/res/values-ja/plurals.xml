@@ -57,8 +57,8 @@
         <item quantity="one">%d 人のメンバーを選択中</item>
     </plurals>
     <plurals name="standings_content_description_team">
-        <item quantity="other">%1$s、%2$s ポイント</item>
-        <item quantity="one">%1$s、1 ポイント</item>
+        <item quantity="other">%1$s、勝ち点 %2$s</item>
+        <item quantity="one">%1$s、勝ち点 1</item>
     </plurals>
     <plurals name="subscription_trial_period_length_day">
         <item quantity="other">最初の %1$s 日間</item>

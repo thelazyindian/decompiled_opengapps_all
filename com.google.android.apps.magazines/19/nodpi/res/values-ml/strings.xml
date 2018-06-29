@@ -212,7 +212,7 @@
     <string name="gallery">ഗാലറി</string>
     <string name="game_status_final">ഫൈനൽ</string>
     <string name="game_status_live">തത്സമയം</string>
-    <string name="game_status_upcoming">വരാൻ പോകുന്നത്</string>
+    <string name="game_status_upcoming">വരാനിരിക്കുന്നത്</string>
     <string name="gcm_fallback_notification_channel_label">പലവക</string>
     <string name="general_capitalized">പൊതുവായവ</string>
     <string name="go_to_location">ലൊക്കേഷനിലേക്ക് പോവുക</string>
@@ -228,8 +228,8 @@
     <string name="graph_content_knockout_game_description">വീൽ, %1$s, %2$s vs %3$s തിരഞ്ഞെടുത്തു</string>
     <string name="graph_header_group">ഗ്രൂപ്പ്</string>
     <string name="graph_header_knockout">നോക്ക്ഔട്ട്</string>
-    <string name="graph_hint_tap_game">പൊരുത്തം ടാപ്പ് ചെയ്യുക</string>
-    <string name="graph_hint_tap_group">ഒരു ഗ്രൂപ്പ് ടാപ്പ് ചെയ്യുക</string>
+    <string name="graph_hint_tap_game">ഒരു മൽസരത്തിൽ സ്പർശിക്കൂ</string>
+    <string name="graph_hint_tap_group">ഒരു ഗ്രൂപ്പ് സ്പർശിക്കുക</string>
     <string name="headlines_title">തലക്കെട്ടുകൾ</string>
     <string name="help_feedback">സഹായവും ഫീഡ്‌ബാക്കും</string>
     <string name="iap_failure_to_open">ഈ ഉള്ളടക്കത്തിനുള്ള ആപ്പ് തുറക്കാനായില്ല</string>
@@ -508,7 +508,7 @@
     <string name="source_capitalized">ഉറവിടം</string>
     <string name="sport_game_score_seperator">-</string>
     <string name="sports_game_time">%1$s, %2$s-ന്</string>
-    <string name="standings_content_description">%1$s-നുള്ള നില</string>
+    <string name="standings_content_description">%1$s-ന്റെ നില</string>
     <string name="star_rating">5-ൽ %1$s നക്ഷത്രചിഹ്നമിട്ടു</string>
     <string name="start_offline">ആദ്യത്തെ തവണ Google വാർത്ത ഉപയോഗിക്കുമ്പോൾ നിങ്ങൾ ഓൺലൈനായിരിക്കണം.</string>
     <string name="start_offline_updated_version">ആദ്യമായി Google വാർത്തയുടെ ഈ പതിപ്പ് ഉപയോഗിക്കുമ്പോൾ, നിങ്ങൾ ഓൺലൈനായിരിക്കണം.</string>
@@ -530,8 +530,8 @@
     <string name="sync_failed_notification_body">മതിയായ സ്‌റ്റോറേജ് ഇല്ല.</string>
     <string name="sync_failed_notification_title">Google വാർത്ത പുതുക്കാനാകുന്നില്ല.</string>
     <string name="sync_progress_notification_title">Google വാർത്താ ഉള്ളടക്കങ്ങൾ ഡൗൺലോഡ് ചെയ്യുന്നു</string>
-    <string name="team_eliminated">ഒഴിവാക്കി</string>
-    <string name="team_more_coverage">%s-നെ കുറിച്ച് കൂടുതൽ കവറേജ്</string>
+    <string name="team_eliminated">പുറത്തായി</string>
+    <string name="team_more_coverage">%s ടീമിനേക്കുറിച്ച് കൂടുതൽ വാർത്ത</string>
     <string name="team_unknown">TBD</string>
     <string name="teams_page_title">ടീമുകൾ</string>
     <string name="temperature_unit_celsius">സെല്‍‌ഷ്യസ്</string>

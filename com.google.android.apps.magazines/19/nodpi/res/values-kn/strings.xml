@@ -530,7 +530,7 @@
     <string name="sync_failed_notification_body">ಸಾಕಷ್ಟು ಸಂಗ್ರಹಣೆ ಸ್ಥಳ ಇಲ್ಲ</string>
     <string name="sync_failed_notification_title">Google News ಅನ್ನು ರಿಫ್ರೆಶ್ ಮಾಡಲು ಸಾಧ್ಯವಾಗುತ್ತಿಲ್ಲ.</string>
     <string name="sync_progress_notification_title">Google News ವಿಷಯವನ್ನು ಡೌನ್‌ಲೋಡ್ ಮಾಡಲಾಗುತ್ತಿದೆ</string>
-    <string name="team_eliminated">ತೆಗೆದುಹಾಕಲಾಗಿದೆ</string>
+    <string name="team_eliminated">ತೆಗೆದುಹಾಕಿದ್ದು</string>
     <string name="team_more_coverage">%s ಕುರಿತು ಇನ್ನಷ್ಟು ಕವರೇಜ್‌</string>
     <string name="team_unknown">TBD</string>
     <string name="teams_page_title">ತಂಡಗಳು</string>

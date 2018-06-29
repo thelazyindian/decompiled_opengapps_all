@@ -228,7 +228,7 @@
     <string name="graph_content_knockout_game_description">عجلة، تم اختيار %1$s، %2$s في مواجهة %3$s</string>
     <string name="graph_header_group">المجموعة</string>
     <string name="graph_header_knockout">جولة الخروج</string>
-    <string name="graph_hint_tap_game">انقر على المباراة.</string>
+    <string name="graph_hint_tap_game">انقر على مباراة</string>
     <string name="graph_hint_tap_group">انقر على مجموعة.</string>
     <string name="headlines_title">أهم عناوين</string>
     <string name="help">المساعدة</string>
@@ -280,7 +280,7 @@
     <string name="media_progress">%1$s من %2$s</string>
     <string name="media_stop">إيقاف</string>
     <string name="mini_cards">بطاقات مصغّرة</string>
-    <string name="more_info">معلومات أكثر</string>
+    <string name="more_info">مزيد من المعلومات</string>
     <string name="more_options_description">خيارات أخرى</string>
     <string name="move_to_bottom">الانتقال إلى النهاية</string>
     <string name="move_to_top">الانتقال إلى البداية</string>

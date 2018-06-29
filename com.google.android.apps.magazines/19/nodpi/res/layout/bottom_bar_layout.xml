@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<LinearLayout android:orientation="vertical" android:id="@id/tab_bar_layout" android:focusable="true" style="@style/BottomBar"
+<LinearLayout android:orientation="vertical" android:id="@id/bottom_bar_layout" android:focusable="true" style="@style/BottomBar"
   xmlns:android="http://schemas.android.com/apk/res/android" xmlns:ns="http://schemas.android.com/apk/res-auto">
     <LinearLayout android:gravity="center" android:orientation="horizontal" android:background="@color/bottom_bar_background_color" android:layout_width="fill_parent" android:layout_height="wrap_content">
         <com.google.apps.dots.android.modules.widgets.bound.viewgroup.NSLinearLayout android:id="@id/tab_for_you" style="@style/BottomBarButton">

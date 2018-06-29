@@ -227,7 +227,7 @@
     <string name="graph_content_group_game_description">Roată, ați selectat %s</string>
     <string name="graph_content_knockout_game_description">Roată, ați selectat %1$s, %2$s contra %3$s</string>
     <string name="graph_header_group">Grupe</string>
-    <string name="graph_header_knockout">Eliminatorie</string>
+    <string name="graph_header_knockout">Eliminatorii</string>
     <string name="graph_hint_tap_game">Atingeți un meci</string>
     <string name="graph_hint_tap_group">Atingeți o grupă</string>
     <string name="headlines_title">Titluri</string>

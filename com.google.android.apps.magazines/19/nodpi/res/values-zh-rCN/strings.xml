@@ -359,9 +359,9 @@
     <string name="privacy_policy">隐私权政策</string>
     <string name="profile_icon_description">帐户和设置</string>
     <string name="progress_label_final">决赛</string>
-    <string name="progress_label_game_one">分组赛第 1 场</string>
-    <string name="progress_label_game_three">分组赛第 3 场</string>
-    <string name="progress_label_game_two">分组赛第 2 场</string>
+    <string name="progress_label_game_one">第 1 场</string>
+    <string name="progress_label_game_three">第 3 场</string>
+    <string name="progress_label_game_two">第 2 场</string>
     <string name="progress_label_quarter_final">8 强赛</string>
     <string name="progress_label_round_of_sixteen">16 强赛</string>
     <string name="progress_label_semi_final">半决赛</string>

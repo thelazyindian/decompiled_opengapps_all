@@ -199,7 +199,7 @@
     <string name="favorites_cluster_title_topics">Теми</string>
     <string name="favorites_title">Вибране</string>
     <string name="favorites_view_all">Переглянути все й керувати</string>
-    <string name="follow_tournament">Підписатися на новини чемпіонату</string>
+    <string name="follow_tournament">Слідкуйте на новинами чемпіонату</string>
     <string name="for_you_pinned">Завантажити вміст \"Для вас\"</string>
     <string name="for_you_pinned_summary">"Зберігати на пристрої вміст із розділу \"Для вас\", щоб читати його без з'єднання з Інтернетом"</string>
     <string name="for_you_title">Для вас</string>
@@ -210,7 +210,7 @@
     <string name="frictionless_free_articles_left_week">%1$s з %2$s безкоштовних статей залишилося на цей тиждень</string>
     <string name="frictionless_free_articles_left_year">%1$s з %2$s безкоштовних статей залишилося на цей рік</string>
     <string name="gallery">Галерея</string>
-    <string name="game_status_final">Кінець</string>
+    <string name="game_status_final">Зіграно</string>
     <string name="game_status_live">Наживо</string>
     <string name="game_status_upcoming">Очікується</string>
     <string name="gcm_fallback_notification_channel_label">Інше</string>
@@ -221,12 +221,12 @@
     <string name="go_to_saved_search">Перейти до збережених результатів пошуку</string>
     <string name="go_to_source">Перейти до джерела</string>
     <string name="go_to_story_360">Відкрити повний огляд</string>
-    <string name="go_to_team_topic">Перейти на сторінку новин команди</string>
+    <string name="go_to_team_topic">Новини про команду</string>
     <string name="go_to_topic">Перейти до теми</string>
     <string name="go_to_worldcup_topic">Перейти до новин чемпіонату</string>
-    <string name="graph_content_group_game_description">Колесо, вибрано %s</string>
-    <string name="graph_content_knockout_game_description">Колесо, вибрано: %1$s, %2$s проти %3$s</string>
-    <string name="graph_header_group">Група</string>
+    <string name="graph_content_group_game_description">Колесо, вибрано: %s</string>
+    <string name="graph_content_knockout_game_description">Колесо, вибрано: %1$s, %2$s – %3$s</string>
+    <string name="graph_header_group">Груповий етап</string>
     <string name="graph_header_knockout">Плей-оф</string>
     <string name="graph_hint_tap_game">Торкніться матчу</string>
     <string name="graph_hint_tap_group">Торкніться групи</string>
@@ -363,7 +363,7 @@
     <string name="progress_label_game_three">Матч 3</string>
     <string name="progress_label_game_two">Матч 2</string>
     <string name="progress_label_quarter_final">1/4</string>
-    <string name="progress_label_round_of_sixteen">1/8 фіналу</string>
+    <string name="progress_label_round_of_sixteen">1/8</string>
     <string name="progress_label_semi_final">Півфінал</string>
     <string name="progress_title_group_stage">Груповий етап</string>
     <string name="progress_title_knockout_stage">Плей-оф</string>
@@ -541,9 +541,9 @@
     <string name="sync_failed_notification_body">Недостатньо пам’яті.</string>
     <string name="sync_failed_notification_title">Не вдається оновити Новини Google.</string>
     <string name="sync_progress_notification_title">Завантажується вміст Новин Google</string>
-    <string name="team_eliminated">Виключено</string>
-    <string name="team_more_coverage">Більше інформації про команду \"%s\"</string>
-    <string name="team_unknown">Невідомо</string>
+    <string name="team_eliminated">Команда вибула</string>
+    <string name="team_more_coverage">Дізнайтеся, як грає %s</string>
+    <string name="team_unknown">\?</string>
     <string name="teams_page_title">Команди</string>
     <string name="temperature_unit_celsius">Градуси Цельсія</string>
     <string name="temperature_unit_fahrenheit">Градуси Фаренгейта</string>

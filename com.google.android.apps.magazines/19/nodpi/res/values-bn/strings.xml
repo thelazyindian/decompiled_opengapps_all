@@ -15,7 +15,7 @@
     <string name="abc_searchview_description_submit">ক্যোয়ারী জমা দিন</string>
     <string name="abc_searchview_description_voice">ভয়েস অনুসন্ধান</string>
     <string name="abc_toolbar_collapse_description">সঙ্কুচিত করুন</string>
-    <string name="activity">কার্যকলাপ</string>
+    <string name="activity">অ্যাক্টিভিটি</string>
     <string name="ad_free">বিনামূল্যে</string>
     <string name="add_account">অ্যাকাউন্ট জুড়ুন</string>
     <string name="add_subscription_failed">আপনার পছন্দ তালিকাতে যোগ করা যায়নি। অনুগ্রহ করে পরে আবার চেষ্টা করুন।</string>
@@ -284,7 +284,7 @@
     <string name="move_to_bottom">শেষে যান</string>
     <string name="move_to_top">শুরুতে যান</string>
     <string name="must_be_online">নিশ্চিত করুন যে আপনি ইন্টারনেটের সাথে সংযুক্ত আছেন</string>
-    <string name="my_activity">আমার কার্যকলাপ</string>
+    <string name="my_activity">আমার অ্যাক্টিভিটি</string>
     <string name="my_activity_summary">%1$s হিসেবে সাইন-ইন করেছেন</string>
     <string name="nativeAd_sponsored">স্পন্সর করা</string>
     <string name="native_store_title">সংবাদ পত্রিকা</string>

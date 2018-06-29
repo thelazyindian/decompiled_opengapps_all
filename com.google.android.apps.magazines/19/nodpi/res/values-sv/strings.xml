@@ -221,7 +221,7 @@
     <string name="go_to_saved_search">Öppna den sparade sökningen</string>
     <string name="go_to_source">Öppna källan</string>
     <string name="go_to_story_360">Visa allt om ämnet</string>
-    <string name="go_to_team_topic">Visa nyheter om lagen</string>
+    <string name="go_to_team_topic">Visa nyheter om laget</string>
     <string name="go_to_topic">Öppna ämnet</string>
     <string name="go_to_worldcup_topic">Visa nyheter om VM</string>
     <string name="graph_content_group_game_description">Hjul, %s har valts</string>
@@ -362,8 +362,8 @@
     <string name="progress_label_game_one">Match 1</string>
     <string name="progress_label_game_three">Match 3</string>
     <string name="progress_label_game_two">Match 2</string>
-    <string name="progress_label_quarter_final">1/4-fin</string>
-    <string name="progress_label_round_of_sixteen">1/8-fin</string>
+    <string name="progress_label_quarter_final">Kvart</string>
+    <string name="progress_label_round_of_sixteen">Åttondel</string>
     <string name="progress_label_semi_final">Semi</string>
     <string name="progress_title_group_stage">Gruppspel</string>
     <string name="progress_title_knockout_stage">Slutspel</string>
@@ -542,7 +542,7 @@
     <string name="sync_failed_notification_title">Det gick inte att uppdatera Google Nyheter.</string>
     <string name="sync_progress_notification_title">Innehåll från Google Nyheter laddas ned</string>
     <string name="team_eliminated">Utslaget</string>
-    <string name="team_more_coverage">Fler artiklar om %s</string>
+    <string name="team_more_coverage">Fler nyheter om %s</string>
     <string name="team_unknown">Ej bestämt</string>
     <string name="teams_page_title">Lag</string>
     <string name="temperature_unit_celsius">Celsius</string>

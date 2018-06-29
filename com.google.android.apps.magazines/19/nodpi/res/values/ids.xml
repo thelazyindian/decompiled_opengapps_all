@@ -931,6 +931,7 @@
     <item type="id" name="audioNotificationExpanded" />
     <item type="id" name="bind__card_group_parent" />
     <item type="id" name="bind__tagDataPagerAdapterObject" />
+    <item type="id" name="bottom_bar_layout" />
     <item type="id" name="downloadProgressNotification" />
     <item type="id" name="dummy_placeholder" />
     <item type="id" name="exo_artwork" />
@@ -1018,7 +1019,6 @@
     <item type="id" name="snackbar_text" />
     <item type="id" name="snapping_seekbar__tag_guideline_id" />
     <item type="id" name="split_action_bar" />
-    <item type="id" name="tab_bar_layout" />
     <item type="id" name="tagA2Context" />
     <item type="id" name="tagA2Referrer" />
     <item type="id" name="tagAdapterId" />
@@ -1231,6 +1231,11 @@
     <item type="id" name="spinner" />
     <item type="id" name="main_fragment" />
     <item type="id" name="recycler_view" />
+    <item type="id" name="tab_for_you" />
+    <item type="id" name="tab_headlines" />
+    <item type="id" name="tab_video" />
+    <item type="id" name="tab_following" />
+    <item type="id" name="tab_store" />
     <item type="id" name="toggle" />
     <item type="id" name="browser_actions_menu_view" />
     <item type="id" name="browser_actions_header_text" />
@@ -1458,6 +1463,7 @@
     <item type="id" name="home_fragment" />
     <item type="id" name="home_fragment_content" />
     <item type="id" name="floating_action_button_feedback" />
+    <item type="id" name="bottom_bar_shadow" />
     <item type="id" name="contextual_header_stub" />
     <item type="id" name="image_rotator_0" />
     <item type="id" name="image_rotator_1" />
@@ -1855,12 +1861,6 @@
     <item type="id" name="start_activity_onboarding" />
     <item type="id" name="dummy_briefing_header" />
     <item type="id" name="view_all_suggestions_fragment" />
-    <item type="id" name="tab_for_you" />
-    <item type="id" name="tab_headlines" />
-    <item type="id" name="tab_video" />
-    <item type="id" name="tab_following" />
-    <item type="id" name="tab_store" />
-    <item type="id" name="tab_bar_shadow" />
     <item type="id" name="topic_button" />
     <item type="id" name="teams_view" />
     <item type="id" name="team_name" />

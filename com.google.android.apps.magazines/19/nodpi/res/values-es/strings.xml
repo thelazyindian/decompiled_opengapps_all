@@ -224,8 +224,8 @@
     <string name="go_to_team_topic">Ir a noticias del equipo</string>
     <string name="go_to_topic">Ver el tema</string>
     <string name="go_to_worldcup_topic">Ir a noticias del Mundial</string>
-    <string name="graph_content_group_game_description">Rueda, seleccionado %s</string>
-    <string name="graph_content_knockout_game_description">Rueda, seleccionado: %1$s, %2$s‑%3$s</string>
+    <string name="graph_content_group_game_description">Se ha seleccionado %s en la rueda</string>
+    <string name="graph_content_knockout_game_description">Se ha seleccionado: %1$s, %2$s‑%3$s en la rueda</string>
     <string name="graph_header_group">Grupo</string>
     <string name="graph_header_knockout">Eliminatoria</string>
     <string name="graph_hint_tap_game">Toca un partido</string>

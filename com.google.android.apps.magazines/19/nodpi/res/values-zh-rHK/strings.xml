@@ -120,7 +120,7 @@
     <string name="continue_reading_label">繼續閱讀：「%s」</string>
     <string name="countdown_days">日</string>
     <string name="countdown_hours">小時</string>
-    <string name="countdown_mins">分鐘</string>
+    <string name="countdown_mins">分</string>
     <string name="countdown_secs">秒</string>
     <string name="crash_report_message">很抱歉，%s 已停止。</string>
     <string name="current_issue_tab">今期雜誌</string>
@@ -199,7 +199,7 @@
     <string name="favorites_cluster_title_topics">主題</string>
     <string name="favorites_title">收藏</string>
     <string name="favorites_view_all">查看全部及管理</string>
-    <string name="follow_tournament">追蹤賽程</string>
+    <string name="follow_tournament">緊貼賽程</string>
     <string name="for_you_pinned">下載「為您推薦」內容</string>
     <string name="for_you_pinned_summary">下載「為您推薦」內容供離線閱讀</string>
     <string name="for_you_title">為您推薦</string>
@@ -221,11 +221,11 @@
     <string name="go_to_saved_search">前往已儲存的搜尋項目頁面</string>
     <string name="go_to_source">前往來源頁面</string>
     <string name="go_to_story_360">查看完整報導</string>
-    <string name="go_to_team_topic">前往此隊伍的新聞</string>
+    <string name="go_to_team_topic">查看此隊伍的新聞</string>
     <string name="go_to_topic">前往主題頁面</string>
-    <string name="go_to_worldcup_topic">前往世界盃新聞</string>
-    <string name="graph_content_group_game_description">轉輪，已選取「%s」</string>
-    <string name="graph_content_knockout_game_description">轉輪，已選取「%1$s：%2$s對%3$s」</string>
+    <string name="go_to_worldcup_topic">查看世界盃新聞</string>
+    <string name="graph_content_group_game_description">轉輪，已選取 %s</string>
+    <string name="graph_content_knockout_game_description">轉輪，%1$s：已選取%2$s對%3$s</string>
     <string name="graph_header_group">組別</string>
     <string name="graph_header_knockout">淘汰賽</string>
     <string name="graph_hint_tap_game">輕按賽事</string>
@@ -280,7 +280,7 @@
     <string name="media_progress">第 %1$s 頁，共 %2$s 頁</string>
     <string name="media_stop">停止</string>
     <string name="mini_cards">Mini 卡</string>
-    <string name="more_info">更多資料</string>
+    <string name="more_info">詳情</string>
     <string name="more_options_description">更多選項</string>
     <string name="move_to_bottom">移到最後</string>
     <string name="move_to_top">移到最前</string>
@@ -296,7 +296,7 @@
     <string name="new_multi_magazine_notification_content">輕按即可查看您的雜誌</string>
     <string name="news_notification_channel_description">「Google 新聞」的新聞通知設定</string>
     <string name="news_notification_channel_name">新聞</string>
-    <string name="next_page_content_description">前往下一頁</string>
+    <string name="next_page_content_description">下一頁</string>
     <string name="no_account_selected">未選取帳戶</string>
     <string name="no_google_account_error">如要使用「Google 新聞」，請先在裝置上新增 Google 帳戶。</string>
     <string name="no_network_connection">未連線</string>
@@ -358,9 +358,9 @@
     <string name="privacy_policy">私隱權政策</string>
     <string name="profile_icon_description">帳戶和設定</string>
     <string name="progress_label_final">決賽</string>
-    <string name="progress_label_game_one">第 1 場賽事</string>
-    <string name="progress_label_game_three">第 3 場賽事</string>
-    <string name="progress_label_game_two">第 2 場賽事</string>
+    <string name="progress_label_game_one">第 1 場</string>
+    <string name="progress_label_game_three">第 3 場</string>
+    <string name="progress_label_game_two">第 2 場</string>
     <string name="progress_label_quarter_final">半準決賽</string>
     <string name="progress_label_round_of_sixteen">十六強</string>
     <string name="progress_label_semi_final">準決賽</string>

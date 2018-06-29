@@ -118,8 +118,8 @@
     <string name="continue_button">Настави</string>
     <string name="continue_reading">Наставите читање</string>
     <string name="continue_reading_label">Настави са читањем: %s</string>
-    <string name="countdown_days">дана</string>
-    <string name="countdown_hours">сата(и)</string>
+    <string name="countdown_days">дан</string>
+    <string name="countdown_hours">сат</string>
     <string name="countdown_mins">мин</string>
     <string name="countdown_secs">сек</string>
     <string name="crash_report_message">Нажалост, процес %s се зауставио.</string>

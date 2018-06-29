@@ -224,8 +224,8 @@
     <string name="go_to_team_topic">"Ves a les notícies de l'equip"</string>
     <string name="go_to_topic">Ves al tema</string>
     <string name="go_to_worldcup_topic">Ves a les notícies de la Copa del Món</string>
-    <string name="graph_content_group_game_description">Roda; selecció: %s</string>
-    <string name="graph_content_knockout_game_description">Roda; selecció: %1$s, %2$s contra %3$s</string>
+    <string name="graph_content_group_game_description">"A la roda, s'ha seleccionat: %s"</string>
+    <string name="graph_content_knockout_game_description">"A la roda s'ha seleccionat: %1$s, %2$s contra %3$s"</string>
     <string name="graph_header_group">Grup</string>
     <string name="graph_header_knockout">Eliminatòria</string>
     <string name="graph_hint_tap_game">Toca un partit</string>
@@ -542,7 +542,7 @@
     <string name="sync_failed_notification_title">No es pot actualitzar Google Notícies.</string>
     <string name="sync_progress_notification_title">"S'està baixant contingut de Google Notícies"</string>
     <string name="team_eliminated">Eliminat</string>
-    <string name="team_more_coverage">Més cobertura sobre %s</string>
+    <string name="team_more_coverage">Més informació sobre %s</string>
     <string name="team_unknown">Per determinar</string>
     <string name="teams_page_title">Equips</string>
     <string name="temperature_unit_celsius">Celsius</string>
