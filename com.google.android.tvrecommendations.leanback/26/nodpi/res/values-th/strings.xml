@@ -46,6 +46,7 @@
     <string name="connectivity_notification_wifi_not_connected_title">ไม่ได้เชื่อมต่อกับ Wi-Fi</string>
     <string name="details">รายละเอียด</string>
     <string name="dismiss">ปิด</string>
+    <string name="failed_launch">เปิดรายการนี้ไม่ได้ในขณะนี้</string>
     <string name="google_account_notification_channel">การแจ้งเตือนการเข้าสู่ระบบบัญชี Google</string>
     <string name="google_account_notification_text">ใช้บัญชี Google เพื่อดาวน์โหลดแอปและเกมใหม่ๆ ดูรายการล่าสุดจาก YouTube และค้นหาเนื้อหาโดยใช้ Google Assistant</string>
     <string name="google_account_notification_title">ลงชื่อเข้าใช้ Google</string>

@@ -46,6 +46,7 @@
     <string name="connectivity_notification_wifi_not_connected_title">אין חיבור לרשת Wi-Fi</string>
     <string name="details">פרטים</string>
     <string name="dismiss">סגור</string>
+    <string name="failed_launch">לא ניתן לפתוח עכשיו את הפריט</string>
     <string name="google_account_notification_channel">הודעה לגבי כניסה לחשבון Google</string>
     <string name="google_account_notification_text">עם חשבון Google אפשר להוריד אפליקציות ומשחקים, לקבל את כל העדכונים מ-YouTube ולמצוא תוכן באמצעות Google Assistant.</string>
     <string name="google_account_notification_title">כניסה לחשבון Google</string>

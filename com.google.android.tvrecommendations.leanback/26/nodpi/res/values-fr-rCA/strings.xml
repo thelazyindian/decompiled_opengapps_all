@@ -46,6 +46,7 @@
     <string name="connectivity_notification_wifi_not_connected_title">Aucune connexion Wi-Fi</string>
     <string name="details">Détails</string>
     <string name="dismiss">Fermer</string>
+    <string name="failed_launch">"Impossible d'ouvrir cet élément pour le moment"</string>
     <string name="google_account_notification_channel">Notification de connexion au compte Google</string>
     <string name="google_account_notification_text">"Utilisez votre compte Google pour télécharger de nouveaux jeux et applications, regarder les dernières vidéos YouTube et trouver du contenu à l'aide de l'Assistant Google."</string>
     <string name="google_account_notification_title">Connectez-vous à Google</string>

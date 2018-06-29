@@ -46,6 +46,7 @@
     <string name="connectivity_notification_wifi_not_connected_title">未連接 Wi-Fi</string>
     <string name="details">詳細資料</string>
     <string name="dismiss">關閉</string>
+    <string name="failed_launch">目前無法開啟這個項目</string>
     <string name="google_account_notification_channel">Google 帳戶登入通知</string>
     <string name="google_account_notification_text">使用您的 Google 帳戶下載新的應用程式和遊戲、接收 YouTube 上的最新內容，以及透過 Google 助理尋找內容。</string>
     <string name="google_account_notification_title">登入 Google</string>

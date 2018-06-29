@@ -46,6 +46,7 @@
     <string name="connectivity_notification_wifi_not_connected_title">Wifi is niet verbonden</string>
     <string name="details">Meer informatie</string>
     <string name="dismiss">Sluiten</string>
+    <string name="failed_launch">Kan dit nu niet openen</string>
     <string name="google_account_notification_channel">Melding over inloggen op Google-account</string>
     <string name="google_account_notification_text">"Gebruik je Google-account om nieuwe apps en games te downloaden, de nieuwste video's van YouTube te bekijken en content te vinden via de Google Assistent."</string>
     <string name="google_account_notification_title">Inloggen bij Google</string>

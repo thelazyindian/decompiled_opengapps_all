@@ -46,6 +46,7 @@
     <string name="connectivity_notification_wifi_not_connected_title">Nav izveidots savienojums ar Wi-Fi</string>
     <string name="details">Detalizēta informācija</string>
     <string name="dismiss">Nerādīt</string>
+    <string name="failed_launch">Pašlaik nevar atvērt</string>
     <string name="google_account_notification_channel">Paziņojums par pieteikšanos Google kontā</string>
     <string name="google_account_notification_text">Izmantojiet savu Google kontu, lai lejupielādētu jaunas lietotnes un spēles, saņemtu jaunumus no YouTube un atrastu saturu ar Google asistenta palīdzību.</string>
     <string name="google_account_notification_title">Pierakstieties Google kontā</string>

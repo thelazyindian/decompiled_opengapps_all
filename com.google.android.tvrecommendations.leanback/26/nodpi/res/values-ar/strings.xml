@@ -46,8 +46,9 @@
     <string name="connectivity_notification_wifi_not_connected_title">لم يتم الاتّصال بشبكة Wi-Fi</string>
     <string name="details">التفاصيل</string>
     <string name="dismiss">رفض</string>
+    <string name="failed_launch">يتعذّر فتح هذا التطبيق الآن.</string>
     <string name="google_account_notification_channel">إشعار تسجيل الدخول إلى حساب Google</string>
-    <string name="google_account_notification_text">استخدم حسابك في Google لتنزيل التطبيقات والألعاب الجديدة، والحصول على أحدث مقاطع الفيديو من YouTube، والعثور على المحتوى باستخدام مساعد Google.</string>
+    <string name="google_account_notification_text">استخدم حسابك في Google لتنزيل التطبيقات والألعاب الجديدة، والحصول على أحدث الفيديوهات من YouTube، والعثور على المحتوى باستخدام مساعد Google.</string>
     <string name="google_account_notification_title">تسجيل الدخول إلى Google</string>
     <string name="lb_control_display_fast_forward_multiplier">%1$dX</string>
     <string name="lb_control_display_rewind_multiplier">%1$dX</string>

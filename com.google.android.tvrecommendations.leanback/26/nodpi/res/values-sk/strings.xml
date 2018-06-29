@@ -46,6 +46,7 @@
     <string name="connectivity_notification_wifi_not_connected_title">Sieť Wi‑Fi nie je pripojená</string>
     <string name="details">Podrobnosti</string>
     <string name="dismiss">Zrušiť</string>
+    <string name="failed_launch">Túto položku teraz nie je možné otvori</string>
     <string name="google_account_notification_channel">Upozornenie na prihlásenie do účtu Google</string>
     <string name="google_account_notification_text">Stiahnite si prostredníctvom účtu Google nové aplikácie a hry, získajte novinky zo služby YouTube a nájdite obsah pomocou Asistenta Google.</string>
     <string name="google_account_notification_title">Prihláste sa do Googlu</string>

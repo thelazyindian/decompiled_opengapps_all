@@ -46,6 +46,7 @@
     <string name="connectivity_notification_wifi_not_connected_title">Wi-Fi nije povezan</string>
     <string name="details">Pojedinosti</string>
     <string name="dismiss">Odbaci</string>
+    <string name="failed_launch">Trenutačno se ne može otvoriti</string>
     <string name="google_account_notification_channel">Obavijest o prijavi na Google račun</string>
     <string name="google_account_notification_text">Putem svojeg Google računa preuzmite nove aplikacije i igre, pogledajte najnovije sadržaje na YouTubeu i pronađite sadržaje pomoću Google asistenta.</string>
     <string name="google_account_notification_title">Prijavite se na Google</string>

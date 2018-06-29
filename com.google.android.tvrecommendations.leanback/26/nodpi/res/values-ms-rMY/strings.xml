@@ -12,6 +12,7 @@
     <string name="connectivity_notification_wifi_not_connected_title">Wi-Fi tidak disambungkan</string>
     <string name="details">Butiran</string>
     <string name="dismiss">Ketepikan</string>
+    <string name="failed_launch">Tidak dapat membukanya sekarang</string>
     <string name="google_account_notification_channel">Pemberitahuan log masuk akaun Google</string>
     <string name="google_account_notification_text">Gunakan Akaun Google anda untuk memuat turun apl dan permainan baharu, mendapatkan yang terbaharu daripada YouTube dan mencari kandungan menggunakan Google Assistant.</string>
     <string name="google_account_notification_title">Log masuk ke Google</string>

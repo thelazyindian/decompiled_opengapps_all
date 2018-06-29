@@ -41,13 +41,13 @@
                 <action android:name="android.intent.action.PRE_BOOT_COMPLETED"/>
             </intent-filter>
         </receiver>
-        <activity android:excludeFromRecents="true" android:label="@string/add_channel_label" android:launchMode="singleInstance" android:name="com.google.android.tvrecommendations.AddChannelActivity" android:screenOrientation="landscape" android:theme="@style/AddChannelDialog">
+        <activity android:excludeFromRecents="true" android:label="@string/add_channel_label" android:launchMode="singleInstance" android:name="com.google.android.tvrecommendations.AddChannelActivity" android:theme="@style/AddChannelDialog">
             <intent-filter>
                 <action android:name="android.media.tv.action.REQUEST_CHANNEL_BROWSABLE"/>
                 <category android:name="android.intent.category.DEFAULT"/>
             </intent-filter>
         </activity>
-        <activity android:excludeFromRecents="true" android:name="com.google.android.tvrecommendations.NotificationsSidePanelActivity" android:noHistory="true" android:screenOrientation="landscape" android:theme="@style/Theme.Settings.SidePanel">
+        <activity android:excludeFromRecents="true" android:name="com.google.android.tvrecommendations.NotificationsSidePanelActivity" android:noHistory="true" android:theme="@style/Theme.Settings.SidePanel">
             <intent-filter>
                 <action android:name="com.android.tv.action.OPEN_NOTIFICATIONS_PANEL"/>
                 <action android:name="com.android.tv.NOTIFICATIONS_PANEL"/>
@@ -123,6 +123,5 @@
         <receiver android:exported="false" android:name="com.google.android.libraries.social.silentfeedback.nobinder.SilentFeedbackReceiver" android:process=":crash_report"/>
         <activity android:exported="false" android:name="com.google.android.gms.common.api.GoogleApiActivity" android:theme="@android:style/Theme.Translucent.NoTitleBar"/>
         <meta-data android:name="com.google.android.gms.version" android:value="@integer/google_play_services_version"/>
-        <meta-data android:name="android.arch.lifecycle.VERSION" android:value="27.0.0-SNAPSHOT"/>
     </application>
 </manifest>

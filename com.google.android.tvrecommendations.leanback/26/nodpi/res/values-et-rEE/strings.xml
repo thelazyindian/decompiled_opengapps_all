@@ -12,6 +12,7 @@
     <string name="connectivity_notification_wifi_not_connected_title">WiFi-ühendus puudub</string>
     <string name="details">Üksikasjad</string>
     <string name="dismiss">Loobu</string>
+    <string name="failed_launch">Seda ei saa praegu avada</string>
     <string name="google_account_notification_channel">"Google'i konto sisselogimise märguanne"</string>
     <string name="google_account_notification_text">"Kasutage oma Google'i kontot uute rakenduste ja mängude allalaadimiseks, YouTube'i viimaste uudiste hankimiseks ning Google'i assistendi abil sisu leidmiseks."</string>
     <string name="google_account_notification_title">Logige sisse teenusesse Google</string>

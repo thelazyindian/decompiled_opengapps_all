@@ -12,6 +12,7 @@
     <string name="connectivity_notification_wifi_not_connected_title">Wi-Fi සම්බන්ධ වී නැත</string>
     <string name="details">විස්තර</string>
     <string name="dismiss">ඉවත ලන්න</string>
+    <string name="failed_launch">මෙය මේ අවස්ථාවේදී විවෘත කළ නොහැකිය</string>
     <string name="google_account_notification_channel">Google ගිණුම් පිරීම් දැනුම්දීම</string>
     <string name="google_account_notification_text">නව යෙදුම් සහ ක්‍රීඩා බාගැනීමට, YouTube වෙතින් අලුත්ම දේවල් ලබා ගැනීමට, සහ Google සහායක භාවිතයෙන් අන්තර්ගතය සොයා ගැනීමට ඔබේ Google ගිණුම භාවිත කරන්න.</string>
     <string name="google_account_notification_title">Google වෙත පුරන්න</string>

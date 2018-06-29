@@ -46,6 +46,7 @@
     <string name="connectivity_notification_wifi_not_connected_title">A rede Wi-Fi não está ligada</string>
     <string name="details">Detalhes</string>
     <string name="dismiss">Ignorar</string>
+    <string name="failed_launch">De momento, não é possível abrir este item.</string>
     <string name="google_account_notification_channel">Notificação de início de sessão em Conta Google</string>
     <string name="google_account_notification_text">Utilize a sua Conta Google para transferir novos jogos e aplicações, obter os conteúdos mais recentes do YouTube e encontrar conteúdo através do Assistente Google.</string>
     <string name="google_account_notification_title">Iniciar sessão no Google</string>

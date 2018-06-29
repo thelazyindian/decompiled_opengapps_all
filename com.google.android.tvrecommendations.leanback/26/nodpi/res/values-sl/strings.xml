@@ -46,6 +46,7 @@
     <string name="connectivity_notification_wifi_not_connected_title">Ni vzpostavljene povezave Wi-Fi</string>
     <string name="details">Podrobnosti</string>
     <string name="dismiss">Opusti</string>
+    <string name="failed_launch">Tega trenutno ni mogoče odpreti</string>
     <string name="google_account_notification_channel">Obvestila o prijavi v Google Račun</string>
     <string name="google_account_notification_text">Z Google Računom je mogoče prenesti nove aplikacije in igre, si ogledati najnovejšo vsebino v YouTubu in poiskati vsebino s Pomočnikom Google.</string>
     <string name="google_account_notification_title">Prijava v Google</string>

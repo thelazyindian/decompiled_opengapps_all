@@ -29,6 +29,7 @@
     <string name="connectivity_notification_wifi_not_connected_title">Niste povezani sa Wi-Fi-jem</string>
     <string name="details">Detalji</string>
     <string name="dismiss">Odbaci</string>
+    <string name="failed_launch">Ovo trenutno ne može da se otvori</string>
     <string name="google_account_notification_channel">Obaveštenje u vezi sa prijavljivanjem na Google nalog</string>
     <string name="google_account_notification_text">Koristite Google nalog da biste preuzimali nove aplikacije i igre, pristupali najnovijem sadržaju sa YouTube-a i pronašli sadržaj preko Google pomoćnika.</string>
     <string name="google_account_notification_title">Prijavite se na Google</string>

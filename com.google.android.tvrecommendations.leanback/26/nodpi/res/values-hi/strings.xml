@@ -46,6 +46,7 @@
     <string name="connectivity_notification_wifi_not_connected_title">वाई-फ़ाई कनेक्‍ट नहीं है</string>
     <string name="details">विवरण</string>
     <string name="dismiss">खारिज करें</string>
+    <string name="failed_launch">इसे अभी नहीं खोला जा सकता है</string>
     <string name="google_account_notification_channel">Google खाता लॉगिन नोटिफ़िकेशन</string>
     <string name="google_account_notification_text">नए ऐप्लिकेशन और गेम डाउनलोड करने, YouTube से नवीनतम सामग्री पाने और Google Assistant का उपयोग करके सामग्री ढूंढने के लिए अपने Google खाते का उपयोग करें.</string>
     <string name="google_account_notification_title">Google में प्रवेश करें</string>

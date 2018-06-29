@@ -46,6 +46,7 @@
     <string name="connectivity_notification_wifi_not_connected_title">Prie „Wi-Fi“ neprisijungta</string>
     <string name="details">Išsami informacija</string>
     <string name="dismiss">Atsisakyti</string>
+    <string name="failed_launch">Dabar nepavyksta atidaryti</string>
     <string name="google_account_notification_channel">„Google“ paskyros prisijungimo pranešimas</string>
     <string name="google_account_notification_text">Naudodami „Google“ paskyrą atsisiųskite naujų programų ir žaidimų, gaukite naujausio turinio iš sistemos „YouTube“ ir raskite turinio per „Google“ padėjėją.</string>
     <string name="google_account_notification_title">Prisijungimas prie „Google“</string>

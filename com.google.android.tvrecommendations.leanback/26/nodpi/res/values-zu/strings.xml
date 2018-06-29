@@ -46,6 +46,7 @@
     <string name="connectivity_notification_wifi_not_connected_title">I-Wi-Fi ayixhunyiwe</string>
     <string name="details">Imininingwane</string>
     <string name="dismiss">Cashisa</string>
+    <string name="failed_launch">Ayikwazi ukuvula lokhu manje</string>
     <string name="google_account_notification_channel">Isaziso sokungena ngemvume se-akhawunti ye-Google</string>
     <string name="google_account_notification_text">Sebenzisa i-akhawunti yakho ye-Google ukulanda izinhlelo zokusebenza ezintsha namageyimu, thola okwakamuva kusuka ku-YouTube, futhi uthole okuqukethwe usebenzisa umsizi we-Google.</string>
     <string name="google_account_notification_title">Ngena ngemvume ku-Google</string>

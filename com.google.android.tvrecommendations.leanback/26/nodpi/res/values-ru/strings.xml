@@ -46,6 +46,7 @@
     <string name="connectivity_notification_wifi_not_connected_title">Нет подключения к Wi-Fi</string>
     <string name="details">Сведения</string>
     <string name="dismiss">Закрыть</string>
+    <string name="failed_launch">Не удалось открыть</string>
     <string name="google_account_notification_channel">Уведомления о входе в аккаунт Google</string>
     <string name="google_account_notification_text">Аккаунт Google позволяет скачивать новые приложения и игры, следить за обновлениями в YouTube и находить интересный контент с помощью Ассистента.</string>
     <string name="google_account_notification_title">Войдите в аккаунт Google</string>

@@ -12,6 +12,7 @@
     <string name="connectivity_notification_wifi_not_connected_title">A wifi non está conectada</string>
     <string name="details">Detalles</string>
     <string name="dismiss">Ignorar</string>
+    <string name="failed_launch">Non se pode abrir neste momento</string>
     <string name="google_account_notification_channel">Notificación de inicio de sesión na conta de Google</string>
     <string name="google_account_notification_text">Utiliza a túa conta de Google para descargar novos xogos e aplicacións, gozar das últimas novidades de YouTube e atopar contido co Asistente de Google.</string>
     <string name="google_account_notification_title">Inicia sesión en Google</string>

@@ -12,6 +12,7 @@
     <string name="connectivity_notification_wifi_not_connected_title">Wi-Fi не падключаны</string>
     <string name="details">Падрабязнасці</string>
     <string name="dismiss">Адхіліць</string>
+    <string name="failed_launch">Немагчыма адкрыць гэта зараз</string>
     <string name="google_account_notification_channel">Апавяшчэнне пра ўваход ва ўліковы запіс Google</string>
     <string name="google_account_notification_text">Выкарыстоўвайце свой уліковы запіс Google, каб спампоўваць новыя праграмы і гульні, атрымлівайце апошнія навіны ад YouTube і знаходзьце змесціва з дапамогай Памочніка Google.</string>
     <string name="google_account_notification_title">Увайдзіце ў Google</string>

@@ -12,6 +12,7 @@
     <string name="connectivity_notification_wifi_not_connected_title">WiFi mreža nije povezana</string>
     <string name="details">Pojedinosti</string>
     <string name="dismiss">Odbaci</string>
+    <string name="failed_launch">Nije moguće otvoriti sada</string>
     <string name="google_account_notification_channel">Informacije o prijavljivanju na Google račun</string>
     <string name="google_account_notification_text">Koristite Google račun da preuzmete nove aplikacije i igre, gledajte najnovije sadržaje na servisu YouTube, pronađite sadržaj koristeći Google Asistenta.</string>
     <string name="google_account_notification_title">Prijavite se na Google</string>

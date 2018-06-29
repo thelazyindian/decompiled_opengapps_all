@@ -46,6 +46,7 @@
     <string name="connectivity_notification_wifi_not_connected_title">Ei Wi-Fi-yhteyttä</string>
     <string name="details">Tietoja</string>
     <string name="dismiss">Ohita</string>
+    <string name="failed_launch">Avaaminen ei onnistu juuri nyt.</string>
     <string name="google_account_notification_channel">Google-tilin kirjautumisilmoitus</string>
     <string name="google_account_notification_text">Google-tilin avulla voit ladata uusia sovelluksia ja pelejä, katsoa uusimman YouTube-sisällön ja hakea sisältöä Google Assistantilla.</string>
     <string name="google_account_notification_title">Kirjaudu Googleen</string>

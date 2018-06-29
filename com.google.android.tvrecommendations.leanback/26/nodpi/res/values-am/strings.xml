@@ -46,6 +46,7 @@
     <string name="connectivity_notification_wifi_not_connected_title">Wi-Fi አልተገናኘም</string>
     <string name="details">ዝርዝሮች</string>
     <string name="dismiss">አሰናብት</string>
+    <string name="failed_launch">ይህን አሁን መክፈት አይቻልም</string>
     <string name="google_account_notification_channel">በGoogle መለያ የመግባት ማሳወቂያ</string>
     <string name="google_account_notification_text">አዳዲስ መተግበሪያዎችን እና ጨዋታዎችን ለማውረድ የእርስዎን የGoogle መለያ ይጠቀሙ፣ ከYouTube የቅርብ ጊዜውን ያግኙ እና የGoogle መለያን በመጠቀም ይዘትን ያግኙ።</string>
     <string name="google_account_notification_title">ወደ Google በመለያ ይግቡ</string>

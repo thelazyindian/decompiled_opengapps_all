@@ -46,6 +46,7 @@
     <string name="connectivity_notification_wifi_not_connected_title">Hujaunganisha Wi-Fi</string>
     <string name="details">Maelezo</string>
     <string name="dismiss">Ondoa</string>
+    <string name="failed_launch">Imeshindwa kufungua kwa sasa</string>
     <string name="google_account_notification_channel">Arifa ya kuingia katika akaunti ya Google</string>
     <string name="google_account_notification_text">Unaweza kutumia Akaunti yako ya Google kupakua programu na michezo mipya, kupata taarifa za hivi karibuni kutoka YouTube na kupata maudhui kwa kutumia Mratibu wa Google.</string>
     <string name="google_account_notification_title">Ingia katika akaunti ya Google</string>

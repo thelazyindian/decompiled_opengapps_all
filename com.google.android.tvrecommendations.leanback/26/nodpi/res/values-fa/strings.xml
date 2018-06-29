@@ -46,6 +46,7 @@
     <string name="connectivity_notification_wifi_not_connected_title">Wi-Fi متصل نیست</string>
     <string name="details">جزئیات</string>
     <string name="dismiss">نپذیرفتن</string>
+    <string name="failed_launch">درحال‌حاضر باز نمی‌شود</string>
     <string name="google_account_notification_channel">اعلان ورود به سیستم Google</string>
     <string name="google_account_notification_text">از حساب Google خود برای بارگیری برنامه‌ها و بازی‌های جدید استفاده کنید، با استفاده از «دستیار Google» محتوای موردنظرتان را پیدا کنید و جدیدترین محتوای YouTube را دریافت کنید.</string>
     <string name="google_account_notification_title">ورود به سیستم Google</string>

@@ -46,6 +46,7 @@
     <string name="connectivity_notification_wifi_not_connected_title">Nincs Wi-Fi-kapcsolat</string>
     <string name="details">Részletek</string>
     <string name="dismiss">Elvetés</string>
+    <string name="failed_launch">Jelenleg nem lehet megnyitni</string>
     <string name="google_account_notification_channel">A Google-fiók bejelentkezési értesítése</string>
     <string name="google_account_notification_text">Google-fiókját új alkalmazások és játékok letöltésére, valamint a legfrissebb YouTube-videók megtekintésére használhatja, a Google Segéddel pedig új tartalmakat találhat.</string>
     <string name="google_account_notification_title">Bejelentkezés a Google rendszerébe</string>

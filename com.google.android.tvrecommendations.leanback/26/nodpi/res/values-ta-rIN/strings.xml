@@ -12,6 +12,7 @@
     <string name="connectivity_notification_wifi_not_connected_title">வைஃபை இணைக்கப்படவில்லை</string>
     <string name="details">விவரங்கள்</string>
     <string name="dismiss">நிராகரி</string>
+    <string name="failed_launch">இப்போது இதைத் திறக்க முடியாது</string>
     <string name="google_account_notification_channel">Google கணக்கு உள்நுழைவு தொடர்பான அறிவிப்பு</string>
     <string name="google_account_notification_text">புதிய பயன்பாடுகளையும் கேம்களையும் பதிவிறக்க, YouTube இலிருந்து சமீபத்தியவற்றைப் பெற, Google அசிஸ்டண்ட்டைப் பயன்படுத்தி உள்ளடக்கத்தைக் கண்டறிய, உங்கள் Google கணக்கைப் பயன்படுத்தவும்.</string>
     <string name="google_account_notification_title">Google இல் உள்நுழையவும்</string>

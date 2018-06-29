@@ -104,6 +104,7 @@
         <flag name="bottom" value="0x00000050" />
         <flag name="top" value="0x00000030" />
     </attr>
+    <attr name="buttonIconDimen" format="dimension" />
     <attr name="buttonPanelSideLayout" format="reference" />
     <attr name="buttonSize" format="reference">
         <enum name="icon_only" value="2" />
@@ -166,6 +167,7 @@
     <attr name="contentInsetStart" format="dimension" />
     <attr name="contentInsetStartWithNavigation" format="dimension" />
     <attr name="controlBackground" format="reference" />
+    <attr name="coordinatorLayoutStyle" format="reference" />
     <attr name="customNavigationLayout" format="reference" />
     <attr name="datePickerFormat" format="string" />
     <attr name="defaultBrandColor" format="reference|color" />
@@ -349,13 +351,53 @@
         <enum name="selected" value="2" />
     </attr>
     <attr name="initialActivityCount" format="string" />
+    <attr name="initialExpandedChildrenCount" format="integer" />
     <attr name="is24HourFormat" format="boolean" />
     <attr name="isLightTheme" format="boolean" />
     <attr name="itemPadding" format="dimension" />
     <attr name="itemsVerticalGridStyle" format="reference" />
     <attr name="key" format="string" />
+    <attr name="keylines" format="reference" />
     <attr name="layout" format="reference" />
     <attr name="layoutManager" format="string" />
+    <attr name="layout_anchor" format="reference" />
+    <attr name="layout_anchorGravity">
+        <flag name="bottom" value="0x00000050" />
+        <flag name="center" value="0x00000011" />
+        <flag name="center_horizontal" value="0x00000001" />
+        <flag name="center_vertical" value="0x00000010" />
+        <flag name="clip_horizontal" value="0x00000008" />
+        <flag name="clip_vertical" value="0x00000080" />
+        <flag name="end" value="0x00800005" />
+        <flag name="fill" value="0x00000077" />
+        <flag name="fill_horizontal" value="0x00000007" />
+        <flag name="fill_vertical" value="0x00000070" />
+        <flag name="left" value="0x00000003" />
+        <flag name="right" value="0x00000005" />
+        <flag name="start" value="0x00800003" />
+        <flag name="top" value="0x00000030" />
+    </attr>
+    <attr name="layout_behavior" format="string" />
+    <attr name="layout_dodgeInsetEdges">
+        <flag name="all" value="0x00000077" />
+        <flag name="bottom" value="0x00000050" />
+        <flag name="end" value="0x00800005" />
+        <flag name="left" value="0x00000003" />
+        <flag name="none" value="0x00000000" />
+        <flag name="right" value="0x00000005" />
+        <flag name="start" value="0x00800003" />
+        <flag name="top" value="0x00000030" />
+    </attr>
+    <attr name="layout_insetEdge">
+        <enum name="bottom" value="80" />
+        <enum name="end" value="8388613" />
+        <enum name="left" value="3" />
+        <enum name="none" value="0" />
+        <enum name="right" value="5" />
+        <enum name="start" value="8388611" />
+        <enum name="top" value="48" />
+    </attr>
+    <attr name="layout_keyline" format="integer" />
     <attr name="layout_viewType">
         <enum name="extra" value="2" />
         <enum name="info" value="1" />
@@ -556,6 +598,7 @@
     <attr name="srcCompat" format="reference" />
     <attr name="stackFromEnd" format="boolean" />
     <attr name="state_above_anchor" format="boolean" />
+    <attr name="statusBarBackground" format="reference|color" />
     <attr name="subMenuArrow" format="reference" />
     <attr name="submitBackground" format="reference" />
     <attr name="subtitle" format="string" />
@@ -647,6 +690,7 @@
     </attr>
     <attr name="useCurrentTime" format="boolean" />
     <attr name="verticalMargin" format="dimension" />
+    <attr name="viewInflaterClass" format="string" />
     <attr name="voiceIcon" format="reference" />
     <attr name="widgetLayout" format="reference" />
     <attr name="windowActionBar" format="boolean" />

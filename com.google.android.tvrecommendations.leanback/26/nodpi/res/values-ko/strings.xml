@@ -46,6 +46,7 @@
     <string name="connectivity_notification_wifi_not_connected_title">Wi-Fi가 연결되어 있지 않음</string>
     <string name="details">세부정보</string>
     <string name="dismiss">닫기</string>
+    <string name="failed_launch">지금 실행할 수 없음</string>
     <string name="google_account_notification_channel">Google 계정 로그인 알림</string>
     <string name="google_account_notification_text">새로운 앱과 게임을 다운로드하고, YouTube에서 최신 콘텐츠를 받고, Google 어시스턴트를 통해 콘텐츠를 찾으려면 Google 계정을 사용하세요.</string>
     <string name="google_account_notification_title">Google에 로그인</string>

@@ -12,6 +12,7 @@
     <string name="connectivity_notification_wifi_not_connected_title">Wi-Fi қосылмаған</string>
     <string name="details">Мәліметтер</string>
     <string name="dismiss">Қабылдамау</string>
+    <string name="failed_launch">Қазір ашылмайды</string>
     <string name="google_account_notification_channel">Google есептік жазбасына кіру жөніндегі хабарландыру</string>
     <string name="google_account_notification_text">Google есептік жазбасын жаңа қолданбалар мен ойындарды жүктеп алу, YouTube сайтының соңғы жаңалықтарын алу және мазмұнды Google Assistant арқылы табу үшін пайдаланыңыз.</string>
     <string name="google_account_notification_title">Google жүйесіне кіру</string>

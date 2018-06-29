@@ -12,6 +12,7 @@
     <string name="connectivity_notification_wifi_not_connected_title">មិនមាន​ការតភ្ជាប់ Wi-Fi ទេ</string>
     <string name="details">ព័ត៌មាន​លម្អិត</string>
     <string name="dismiss">បដិសេធ</string>
+    <string name="failed_launch">មិនអាច​បើក​វាឥឡូវនេះ​បានទេ</string>
     <string name="google_account_notification_channel">ការជូនដំណឹងអំពីការចូលគណនី Google</string>
     <string name="google_account_notification_text">ប្រើគណនី Google របស់អ្នកដើម្បីទាញយកកម្មវិធី និងហ្គេមថ្មីៗ ទទួលអ្វីដែលថ្មីបំផុតពី YouTube និងស្វែងរកមាតិកាដោយប្រើប្រាស់ Google ជំនួយការ។</string>
     <string name="google_account_notification_title">ចូល Google</string>

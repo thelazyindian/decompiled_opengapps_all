@@ -46,6 +46,7 @@
     <string name="connectivity_notification_wifi_not_connected_title">Det finns ingen Wi-Fi-anslutning</string>
     <string name="details">Information</string>
     <string name="dismiss">Ignorera</string>
+    <string name="failed_launch">Kan inte öppnas just nu</string>
     <string name="google_account_notification_channel">Avisering för inloggning på Google-kontot</string>
     <string name="google_account_notification_text">Använd Google-kontot för att ladda ned nya appar och spel, få det senaste från YouTube och hitta innehåll med hjälp av Google Assistent.</string>
     <string name="google_account_notification_title">Logga in på Google</string>

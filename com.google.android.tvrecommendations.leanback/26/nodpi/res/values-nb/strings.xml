@@ -46,6 +46,7 @@
     <string name="connectivity_notification_wifi_not_connected_title">Wi-Fi er ikke tilkoblet</string>
     <string name="details">Detaljer</string>
     <string name="dismiss">Avvis</string>
+    <string name="failed_launch">Kan ikke åpnes akkurat nå</string>
     <string name="google_account_notification_channel">Påloggingsvarsel for Google-konto</string>
     <string name="google_account_notification_text">Bruk Google-kontoen til å laste ned nye apper og spill, få siste nytt fra YouTube, og finn innhold med Google-assistenten.</string>
     <string name="google_account_notification_title">Logg på Google</string>

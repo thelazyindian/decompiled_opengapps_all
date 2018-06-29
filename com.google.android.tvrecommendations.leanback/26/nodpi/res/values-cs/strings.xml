@@ -46,6 +46,7 @@
     <string name="connectivity_notification_wifi_not_connected_title">Nejste připojeni přes Wi-Fi</string>
     <string name="details">Podrobnosti</string>
     <string name="dismiss">Zavřít</string>
+    <string name="failed_launch">Tuto položku teď nelze otevřít</string>
     <string name="google_account_notification_channel">Oznámení o přihlášení k účtu Google</string>
     <string name="google_account_notification_text">Pomocí účtu Google můžete stahovat nové aplikace a hry, sledovat novinky na YouTube a vyhledávat obsah pomocí Asistenta Google.</string>
     <string name="google_account_notification_title">Přihlaste se do Googlu</string>

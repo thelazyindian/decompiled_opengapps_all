@@ -46,6 +46,7 @@
     <string name="connectivity_notification_wifi_not_connected_title">Не е установена връзка с Wi-Fi</string>
     <string name="details">Подробности</string>
     <string name="dismiss">Отхвърляне</string>
+    <string name="failed_launch">В момента не може да се отвори</string>
     <string name="google_account_notification_channel">Известие за влизане в профила в Google</string>
     <string name="google_account_notification_text">Използвайте профила си в Google, за да изтегляте нови приложения и игри, да получавате най-новите неща от YouTube и да намирате съдържание посредством Асистент.</string>
     <string name="google_account_notification_title">Вход в Google</string>

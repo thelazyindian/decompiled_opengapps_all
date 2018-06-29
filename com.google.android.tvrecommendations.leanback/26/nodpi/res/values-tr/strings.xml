@@ -46,6 +46,7 @@
     <string name="connectivity_notification_wifi_not_connected_title">Kablosuz ağ bağlı değil</string>
     <string name="details">Ayrıntılar</string>
     <string name="dismiss">Kapat</string>
+    <string name="failed_launch">Şu anda açılamıyor</string>
     <string name="google_account_notification_channel">Google hesabı giriş bilgileri</string>
     <string name="google_account_notification_text">"Yeni uygulamaları ve oyunları indirmek, YouTube'dan son videoları almak ve Google Asistan'ı kullanarak içerik bulmak için Google Hesabınızı kullanın."</string>
     <string name="google_account_notification_title">"Google'da oturum açın"</string>

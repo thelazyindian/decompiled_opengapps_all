@@ -12,6 +12,7 @@
     <string name="connectivity_notification_wifi_not_connected_title">Wi-Fi туташпай турат</string>
     <string name="details">Чоо-жайы</string>
     <string name="dismiss">Четке кагуу</string>
+    <string name="failed_launch">Бул азыр ачылбай жатат</string>
     <string name="google_account_notification_channel">Google каттоо эсебине кирүү боюнча эскертме</string>
     <string name="google_account_notification_text">"Жаңы колдонмолорду жана оюндарды жүктөп алуу, YouTube'да акыркы видеолорду көрүү жана Google Жардамчыны пайдаланып, жаңы мазмунду табуу үчүн Google каттоо эсебиңизди колдонуңуз."</string>
     <string name="google_account_notification_title">"Google'га кириңиз"</string>

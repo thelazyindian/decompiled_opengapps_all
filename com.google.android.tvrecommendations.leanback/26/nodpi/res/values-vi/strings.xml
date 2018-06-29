@@ -46,6 +46,7 @@
     <string name="connectivity_notification_wifi_not_connected_title">Chưa kết nối với Wi-Fi</string>
     <string name="details">Chi tiết</string>
     <string name="dismiss">Loại bỏ</string>
+    <string name="failed_launch">Không thể mở mục này bây giờ</string>
     <string name="google_account_notification_channel">Thông báo đăng nhập tài khoản Google</string>
     <string name="google_account_notification_text">Sử dụng Tài khoản Google của bạn để tải xuống ứng dụng và trò chơi mới, nhận nội dung mới nhất từ ​​YouTube và tìm nội dung bằng Trợ lý Google.</string>
     <string name="google_account_notification_title">Đăng nhập vào Google</string>

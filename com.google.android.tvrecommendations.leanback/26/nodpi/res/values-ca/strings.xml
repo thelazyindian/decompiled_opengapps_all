@@ -46,6 +46,7 @@
     <string name="connectivity_notification_wifi_not_connected_title">No hi ha connexió Wi-Fi</string>
     <string name="details">Detalls</string>
     <string name="dismiss">Ignora</string>
+    <string name="failed_launch">Ara mateix no es pot obrir</string>
     <string name="google_account_notification_channel">"Notificació d'inici de sessió al compte de Google"</string>
     <string name="google_account_notification_text">"Utilitza el teu compte de Google per baixar aplicacions i jocs nous, veure les últimes novetats de YouTube i trobar contingut mitjançant l'Assistent de Google."</string>
     <string name="google_account_notification_title">Inicia la sessió a Google</string>

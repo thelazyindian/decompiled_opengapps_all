@@ -46,6 +46,7 @@
     <string name="connectivity_notification_wifi_not_connected_title">Nu există conexiune Wi-Fi</string>
     <string name="details">Detalii</string>
     <string name="dismiss">Închideți</string>
+    <string name="failed_launch">Momentan, nu se poate deschide</string>
     <string name="google_account_notification_channel">Notificare privind conectarea la Contul Google</string>
     <string name="google_account_notification_text">Folosiți Contul Google ca să descărcați aplicații și jocuri noi, să aflați cele mai recente noutăți de pe YouTube și să găsiți conținut folosind Asistentul Google.</string>
     <string name="google_account_notification_title">Conectați-vă pe Google</string>

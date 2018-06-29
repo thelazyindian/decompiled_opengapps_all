@@ -12,6 +12,7 @@
     <string name="connectivity_notification_wifi_not_connected_title">Wi-Fi કનેક્ટ થયેલ નથી</string>
     <string name="details">વિગતો</string>
     <string name="dismiss">છોડી દો</string>
+    <string name="failed_launch">આ હમણાં ખોલી શકતાં નથી</string>
     <string name="google_account_notification_channel">Google એકાઉન્ટ લૉગિન સૂચના</string>
     <string name="google_account_notification_text">નવી ઍપ્લિકેશનો અને રમતો ડાઉનલોડ કરવા માટે તમારા Google એકાઉન્ટનો ઉપયોગ કરો, YouTube માંથી નવીનત્તમ મેળવો અને Google સહાયકનો ઉપયોગ કરીને સામગ્રી શોધો.</string>
     <string name="google_account_notification_title">Google માં સાઇન ઇન કરો</string>

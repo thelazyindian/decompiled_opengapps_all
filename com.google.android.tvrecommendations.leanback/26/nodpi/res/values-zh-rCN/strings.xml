@@ -46,6 +46,7 @@
     <string name="connectivity_notification_wifi_not_connected_title">未连接到 WLAN 网络</string>
     <string name="details">详细信息</string>
     <string name="dismiss">关闭</string>
+    <string name="failed_launch">目前无法打开这项内容</string>
     <string name="google_account_notification_channel">Google 帐号登录通知</string>
     <string name="google_account_notification_text">使用您的 Google 帐号下载新应用和游戏，获取 YouTube 上的最新内容，并通过 Google 智能助理查找内容。</string>
     <string name="google_account_notification_title">登录 Google</string>

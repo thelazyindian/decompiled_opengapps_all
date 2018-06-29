@@ -12,6 +12,7 @@
     <string name="connectivity_notification_wifi_not_connected_title">Wi-Fi er ekki tengt</string>
     <string name="details">Upplýsingar</string>
     <string name="dismiss">Hunsa</string>
+    <string name="failed_launch">Ekki er hægt að opna þetta núna</string>
     <string name="google_account_notification_channel">Innskráningartilkynning Google reiknings</string>
     <string name="google_account_notification_text">Notaðu Google reikninginn til að sækja ný forrit og leiki, fá það nýjasta frá YouTube og finna efni með Google hjálparanum.</string>
     <string name="google_account_notification_title">Skrá inn á Google</string>

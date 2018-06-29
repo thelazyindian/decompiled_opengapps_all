@@ -12,6 +12,7 @@
     <string name="connectivity_notification_wifi_not_connected_title">Ez zaude konektatuta Wi-Fi bidez</string>
     <string name="details">Xehetasunak</string>
     <string name="dismiss">Baztertu</string>
+    <string name="failed_launch">Ezin da ireki une honetan</string>
     <string name="google_account_notification_channel">Google kontuaren saio-hasierari buruzko jakinarazpena</string>
     <string name="google_account_notification_text">Erabili Google kontua aplikazio eta joko berriak deskargatzeko, YouTube-ko azken bideoak ikusteko eta Google Laguntzailea eginbidearen bidez edukia bilatzeko.</string>
     <string name="google_account_notification_title">Hasi saioa Google-n</string>

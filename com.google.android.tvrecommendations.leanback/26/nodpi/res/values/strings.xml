@@ -59,6 +59,8 @@
     <string name="connectivity_notification_wifi_not_connected_title">Wi-Fi is not connected</string>
     <string name="details">Details</string>
     <string name="dismiss">Dismiss</string>
+    <string name="expand_button_title">Advanced</string>
+    <string name="failed_launch">"Can't open this right now"</string>
     <string name="google_account_notification_channel">Google account login notification</string>
     <string name="google_account_notification_text">Use your Google Account to download new apps and games, get the latest from YouTube, and find content using the Google Assistant.</string>
     <string name="google_account_notification_title">Sign in to Google</string>
@@ -122,10 +124,11 @@
     <string name="open">Open</string>
     <string name="orb_search_action">Search Action</string>
     <string name="primes_marker">PrImEs</string>
-    <string name="primes_version">174122153</string>
+    <string name="primes_version">199564157</string>
     <string name="search_menu_title">Search</string>
     <string name="status_bar_notification_info_overflow">999+</string>
     <string name="stop">Stop</string>
+    <string name="summary_collapsed_preference_list">%1$s, %2$s</string>
     <string name="system_notifications">Notifications</string>
     <string name="unknown_album">Unknown</string>
     <string name="unknown_album_artist">Unknown</string>

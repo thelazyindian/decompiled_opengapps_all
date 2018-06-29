@@ -46,6 +46,7 @@
     <string name="connectivity_notification_wifi_not_connected_title">Wi-Fi に接続していません</string>
     <string name="details">詳細</string>
     <string name="dismiss">閉じる</string>
+    <string name="failed_launch">開けません</string>
     <string name="google_account_notification_channel">Google アカウントのログインに関する通知</string>
     <string name="google_account_notification_text">Google アカウントにログインすると、新しいアプリやゲームのダウンロード、YouTube の最新情報の入手、Google アシスタントを利用したコンテンツの検索を行えるようになります。</string>
     <string name="google_account_notification_title">Google にログインすることをおすすめします</string>

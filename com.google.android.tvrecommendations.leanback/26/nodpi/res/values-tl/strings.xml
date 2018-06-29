@@ -46,6 +46,7 @@
     <string name="connectivity_notification_wifi_not_connected_title">Hindi nakakonekta sa Wi-Fi</string>
     <string name="details">Mga Detalye</string>
     <string name="dismiss">I-dismiss</string>
+    <string name="failed_launch">Hindi ito mabuksan sa ngayon</string>
     <string name="google_account_notification_channel">Notification sa pag-log in sa Google account</string>
     <string name="google_account_notification_text">Gamitin ang iyong Google Account upang mag-download ng mga bagong app at laro, makuha ang pinakabago sa YouTube, at maghanap ng content gamit ang Google Assistant.</string>
     <string name="google_account_notification_title">Mag-sign in sa Google</string>

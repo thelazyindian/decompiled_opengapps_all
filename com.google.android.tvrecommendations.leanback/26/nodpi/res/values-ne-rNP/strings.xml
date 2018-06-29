@@ -12,6 +12,7 @@
     <string name="connectivity_notification_wifi_not_connected_title">Wi-Fi जडान गरिएको छैन</string>
     <string name="details">विवरणहरू</string>
     <string name="dismiss">खारेज गर्नुहोस्</string>
+    <string name="failed_launch">यसलाई अहिले खोल्न सकिएन</string>
     <string name="google_account_notification_channel">Google खातामा लग इन गर्ने सम्बन्धी सूचना</string>
     <string name="google_account_notification_text">नयाँ अनुप्रयोग र खेलहरू डाउनलोड गर्न, YouTube का पछिल्ला सामग्रीहरू प्राप्त गर्न र Google सहायक प्रयोग गरी सामग्री भेट्टाउन आफ्नो Google खाता प्रयोग गर्नुहोस्।</string>
     <string name="google_account_notification_title">Google मा साइन इन गर्नुहोस्</string>

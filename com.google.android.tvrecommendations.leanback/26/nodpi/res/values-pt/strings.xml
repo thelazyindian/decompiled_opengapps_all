@@ -29,6 +29,7 @@
     <string name="connectivity_notification_wifi_not_connected_title">O Wi-Fi não está conectado</string>
     <string name="details">Detalhes</string>
     <string name="dismiss">Dispensar</string>
+    <string name="failed_launch">Não é possível abrir este item no momento</string>
     <string name="google_account_notification_channel">Notificação de login na Conta do Google</string>
     <string name="google_account_notification_text">Usar sua Conta do Google para fazer o download de novos apps e jogos, receber novidades do YouTube e encontrar conteúdo usando o Google Assistente.</string>
     <string name="google_account_notification_title">Fazer login no Google</string>

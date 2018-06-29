@@ -29,6 +29,7 @@
     <string name="connectivity_notification_wifi_not_connected_title">Wi-Fi is not connected</string>
     <string name="details">Details</string>
     <string name="dismiss">Dismiss</string>
+    <string name="failed_launch">"Can't open this right now"</string>
     <string name="google_account_notification_channel">Google account login notification</string>
     <string name="google_account_notification_text">Use your Google account to download new apps and games, get the latest from YouTube and find content using the Google Assistant.</string>
     <string name="google_account_notification_title">Sign in to Google</string>

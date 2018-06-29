@@ -46,6 +46,7 @@
     <string name="connectivity_notification_wifi_not_connected_title">Wi-Fi is nie gekoppel nie</string>
     <string name="details">Besonderhede</string>
     <string name="dismiss">Maak toe</string>
+    <string name="failed_launch">Kan dit nie op die oomblik oopmaak nie</string>
     <string name="google_account_notification_channel">Google-rekeningaanmeldkennisgewing</string>
     <string name="google_account_notification_text">Gebruik jou Google-rekening om nuwe programme en speletjies af te laai, die jongste in YouTube te kry, en inhoud met die Google-assistent te kry.</string>
     <string name="google_account_notification_title">Meld by Google aan</string>

@@ -46,6 +46,7 @@
     <string name="connectivity_notification_wifi_not_connected_title">Wi-Fi tidak tersambung</string>
     <string name="details">Detail</string>
     <string name="dismiss">Tutup</string>
+    <string name="failed_launch">Saat ini tidak dapat dibuka</string>
     <string name="google_account_notification_channel">Notifikasi login akun Google</string>
     <string name="google_account_notification_text">Gunakan Akun Google Anda untuk mendownload aplikasi dan game baru, mendapatkan konten terbaru dari YouTube, dan mencari konten menggunakan Asisten Google.</string>
     <string name="google_account_notification_title">Login ke Google</string>

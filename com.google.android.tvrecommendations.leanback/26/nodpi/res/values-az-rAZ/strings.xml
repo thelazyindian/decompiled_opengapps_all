@@ -12,6 +12,7 @@
     <string name="connectivity_notification_wifi_not_connected_title">Wifi qoşulu deyil</string>
     <string name="details">Ətraflı</string>
     <string name="dismiss">Silin</string>
+    <string name="failed_launch">Hazırda bunu açmaq olmur</string>
     <string name="google_account_notification_channel">Google hesabına giriş bildirişi</string>
     <string name="google_account_notification_text">"Yeni tətbiq və oyunlar endirmək üçün Google Hesabından istifadə edin, ən son məlumatları YouTube'dan əldə edin və Google Assistent istifadə edərək kontent tapın."</string>
     <string name="google_account_notification_title">"Google'a daxil olun"</string>

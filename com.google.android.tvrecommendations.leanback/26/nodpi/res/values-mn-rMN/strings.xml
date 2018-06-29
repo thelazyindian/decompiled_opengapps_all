@@ -12,6 +12,7 @@
     <string name="connectivity_notification_wifi_not_connected_title">Wi-Fi холбогдоогүй байна</string>
     <string name="details">Дэлгэрэнгүй</string>
     <string name="dismiss">Хаах</string>
+    <string name="failed_launch">Үүнийг одоо нээх боломжгүй байна</string>
     <string name="google_account_notification_channel">Google бүртгэлийн нэвтрэлтийн мэдэгдэл</string>
     <string name="google_account_notification_text">Google Бүртгэлээ ашиглан шинэ апп, тоглоом татах, YouTube-с сүүлийн үеийн мэдээлэл авах, Google Туслахаар контент хайна уу.</string>
     <string name="google_account_notification_title">Google-д нэвтрэх</string>

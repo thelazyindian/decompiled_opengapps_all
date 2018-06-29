@@ -12,6 +12,7 @@
     <string name="connectivity_notification_wifi_not_connected_title">Wi-Fi-ը կապակցված չէ</string>
     <string name="details">Մանրամասներ</string>
     <string name="dismiss">Փակել</string>
+    <string name="failed_launch">Այս պահին հնարավոր չէ բացել</string>
     <string name="google_account_notification_channel">Google հաշվի մուտքի ծանուցում</string>
     <string name="google_account_notification_text">Օգտվեք ձեր Google հաշվից՝ ներբեռնելու նոր հավելվածներ և խաղեր, ստանալու YouTube-ի ամենավերջին նորությունները և գտնելու բովանդակություն Google Օգնականի միջոցով։</string>
     <string name="google_account_notification_title">Մուտք գործել Google</string>

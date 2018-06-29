@@ -12,6 +12,7 @@
     <string name="connectivity_notification_wifi_not_connected_title">Wi-Fi мрежата не е поврзана</string>
     <string name="details">Детали</string>
     <string name="dismiss">Отфрли</string>
+    <string name="failed_launch">Ова не може да се отвори во моментов</string>
     <string name="google_account_notification_channel">Известувања за најавување на сметката на Google</string>
     <string name="google_account_notification_text">Користете ја сметката на Google за да преземате нови апликации и игри, да го добивате најновото од YouTube и за да наоѓате содржини со „Помошникот на Google“.</string>
     <string name="google_account_notification_title">Најавете се на Google</string>

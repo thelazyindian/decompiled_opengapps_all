@@ -12,6 +12,7 @@
     <string name="connectivity_notification_wifi_not_connected_title">Wi-Fi არ არის დაკავშირებული</string>
     <string name="details">დეტალები</string>
     <string name="dismiss">დახურვა</string>
+    <string name="failed_launch">გახსნა ამჟამად ვერ ხერხდება</string>
     <string name="google_account_notification_channel">Google ანგარიშში შესვლასთან დაკავშირებული შეტყობინება</string>
     <string name="google_account_notification_text">გამოიყენეთ თქვენი Google ანგარიში ახალი აპებისა და თამაშების ჩამოსატვირთად, გაეცანით YouTube-ის უახლეს შემოთავაზებებს და იპოვეთ კონტენტი Google ასისტენტის მეშვეობით.</string>
     <string name="google_account_notification_title">Google-ში შესვლა</string>

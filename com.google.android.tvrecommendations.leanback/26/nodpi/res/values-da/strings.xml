@@ -46,6 +46,7 @@
     <string name="connectivity_notification_wifi_not_connected_title">Der er ikke forbindelse til Wi-Fi</string>
     <string name="details">Oplysninger</string>
     <string name="dismiss">Luk</string>
+    <string name="failed_launch">Elementet kan ikke åbnes lige nu</string>
     <string name="google_account_notification_channel">Underretning om Google-kontologin</string>
     <string name="google_account_notification_text">Brug din Google-konto til at downloade nye apps og spil, se det sidste nye på YouTube og finde indhold ved hjælp af Google Assistent.</string>
     <string name="google_account_notification_title">Log ind på Google</string>

@@ -12,6 +12,7 @@
     <string name="connectivity_notification_wifi_not_connected_title">ບໍ່ໄດ້ເຊື່ອມຕໍ່ Wi-Fi</string>
     <string name="details">ລາຍລະອຽດ</string>
     <string name="dismiss">ປິດໄວ້</string>
+    <string name="failed_launch">ບໍ່ສາມາດເປີດໄດ້ໃນຕອນນີ້ເທື່ອ</string>
     <string name="google_account_notification_channel">ການແຈ້ງເຕືອນການເຂົ້າສູ່ລະບົບບັນຊີ Google</string>
     <string name="google_account_notification_text">ໃຊ້ບັນຊີ Google ຂອງທ່ານເພື່ອດາວໂຫລດແອັບ ແລະ ເກມໃໝ່, ຮັບອັບເດດຫຼ້າສຸດຈາກ YouTube ແລະ ຊອກເນື້ອຫາໂດຍໃຊ້ຜູ້ຊ່ວຍ Google.</string>
     <string name="google_account_notification_title">ເຂົ້າສູ່ລະບົບ Google</string>
