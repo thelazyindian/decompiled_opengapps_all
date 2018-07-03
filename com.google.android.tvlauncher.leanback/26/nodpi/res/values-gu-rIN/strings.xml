@@ -135,7 +135,6 @@
     <string name="description_us_tv_y">આ પ્રોગ્રામ બધા બાળકો માટે યોગ્ય હોય તે માટે બનાવેલ છે.</string>
     <string name="description_us_tv_y7">આ પ્રોગ્રામ 7 વર્ષ અને તેથી વધુની ઉંમરનાં બાળકો માટે બનાવેલ છે.</string>
     <string name="downloading">ડાઉનલોડ કરી રહ્યાં છે</string>
-    <string name="empty_channel_content_description">આ ચૅનલ માટે કોઈ પ્રોગ્રામ ઉપલબ્ધ નથી</string>
     <string name="empty_channel_message">ચૅનલ ખાલી છે</string>
     <string name="exo_controls_fastforward_description">ઝડપી ફોરવર્ડ કરો</string>
     <string name="exo_controls_next_description">આગલો ટ્રૅક</string>
@@ -156,6 +155,8 @@
     <string name="greater_than_nine_notifs_text">9+</string>
     <string name="guide_view_title">ચેનલો</string>
     <string name="home_configure_channels_description_text">તમારી હોમ સ્ક્રીનમાં ચૅનલ ઉમેરો અથવા તેમાંથી દૂર કરો</string>
+    <string name="home_screen_channels_group_summary">હોમ સ્ક્રીન પર કઈ ચૅનલ દેખાવી જોઈએ તે પસંદ કરો. કોઈપણ ખાલી ચૅનલ બતાવવામાં આવશે નહીં.</string>
+    <string name="home_screen_channels_group_title">હોમ સ્ક્રીન ચૅનલ</string>
     <string name="home_screen_preview_audio_enable">ઑડિઓ પ્રીવ્યૂ સક્ષમ કરો</string>
     <string name="home_screen_preview_video_enable">વીડિઓ પ્રીવ્યૂ સક્ષમ કરો</string>
     <string name="input_name_and_input_status">%1$s - %2$s</string>
@@ -182,6 +183,7 @@
     <string name="other_countries">અન્ય દેશો</string>
     <string name="play_next_channel_title">આગળ ચલાવો</string>
     <string name="play_next_last_item_message">તમે જોવાનું શરૂ કરો છો તે ટીવી શો અને મૂવી આપમેળે અહીં દેખાશે. તમે મૂવી અથવા ટીવી શો પર થોડીવાર દબાવી રાખીને અને તેને પસંદ કરીને પણ પ્રોગ્રામને ઉમેરી શકો છો: \"આગળ ચલાવોમાં ઉમેરો\".</string>
+    <string name="play_next_setting_summary">આના પછી શું જોવું તે કસ્ટમાઇઝ કરો</string>
     <string name="play_next_setting_title">આગળ ચલાવો</string>
     <string name="play_next_settings_panel_title">આના પછીની ચૅનલ ચલાવો</string>
     <string name="play_next_type_watch_list_text">આગલી ચૅનલ ચલાવોમાં ઉમેરાયેલ</string>

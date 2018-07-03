@@ -135,7 +135,6 @@
     <string name="description_us_tv_y">இந்த நிகழ்ச்சி எல்லா வயதினருக்கும் ஏற்றவாறு உருவாக்கப்பட்டது.</string>
     <string name="description_us_tv_y7">இந்த நிகழ்ச்சி 7 மற்றும் அதற்கு மேற்பட்ட வயதினருக்கு ஏற்றவாறு உருவாக்கப்பட்டது.</string>
     <string name="downloading">பதிவிறக்குகிறது</string>
-    <string name="empty_channel_content_description">இந்தச் சேனலில் நிகழ்ச்சிகள் எதுவும் இல்லை</string>
     <string name="empty_channel_message">சேனலில் எதுவுமில்லை</string>
     <string name="exo_controls_fastforward_description">வேகமாக முன்செல்</string>
     <string name="exo_controls_next_description">அடுத்த ட்ராக்</string>
@@ -156,6 +155,8 @@
     <string name="greater_than_nine_notifs_text">9+</string>
     <string name="guide_view_title">சேனல்கள்</string>
     <string name="home_configure_channels_description_text">முகப்புத் திரையிலிருந்தே சேனல்களைச் சேர்க்கலாம், அகற்றலாம்</string>
+    <string name="home_screen_channels_group_summary">முகப்புத் திரைச் சேனல்களைத் தேர்ந்தெடுக்கவும். காலி சேனல்கள் தோன்றாது.</string>
+    <string name="home_screen_channels_group_title">முகப்புத் திரை சேனல்கள்</string>
     <string name="home_screen_preview_audio_enable">ஆடியோ முன்னோட்டங்களை இயக்கு</string>
     <string name="home_screen_preview_video_enable">வீடியோ முன்னோட்டங்களை இயக்கு</string>
     <string name="input_name_and_input_status">%1$s - %2$s</string>
@@ -182,6 +183,7 @@
     <string name="other_countries">பிற நாடுகள்</string>
     <string name="play_next_channel_title">அடுத்து நீங்கள் விரும்பக்கூடியது</string>
     <string name="play_next_last_item_message">நீங்கள் பார்க்கத் தொடங்கும் டிவி நிகழ்ச்சிகளும் திரைப்படங்களும் தானாகவே இங்குத் தெரியும். திரைப்படம் அல்லது டிவி நிகழ்ச்சி மீது நீண்ட நேரம் அழுத்தி, ’அடுத்து நீங்கள் விரும்பக்கூடியது என்பதில் சேர்’ என்பதைத் தேர்ந்தெடுத்து, நிகழ்ச்சிகளை நேரடியாகவும் சேர்க்கலாம்.</string>
+    <string name="play_next_setting_summary">’அடுத்து நீங்கள் விரும்பக்கூடிய’ சேனலைத் தனிப்பயனாக்கலாம்</string>
     <string name="play_next_setting_title">அடுத்து நீங்கள் விரும்பக்கூடியது</string>
     <string name="play_next_settings_panel_title">அடுத்து விரும்பக்கூடியது</string>
     <string name="play_next_type_watch_list_text">’அடுத்து நீங்கள் விரும்பக்கூடியது’ என்பதில் சேர்க்கப்பட்டது</string>

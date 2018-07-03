@@ -135,7 +135,6 @@
     <string name="description_us_tv_y">Este programa está deseñado para ser adecuado para todos os nenos.</string>
     <string name="description_us_tv_y7">Este programa está deseñado para nenos de 7 anos ou máis.</string>
     <string name="downloading">Descargando</string>
-    <string name="empty_channel_content_description">Non hai programas dispoñibles para esta canle</string>
     <string name="empty_channel_message">A canle está baleira</string>
     <string name="exo_controls_fastforward_description">Avance rápido</string>
     <string name="exo_controls_next_description">Seguinte pista</string>
@@ -156,6 +155,8 @@
     <string name="greater_than_nine_notifs_text">9+</string>
     <string name="guide_view_title">Canles</string>
     <string name="home_configure_channels_description_text">Engadir e eliminar canles na pantalla de inicio</string>
+    <string name="home_screen_channels_group_summary">Selecciona que canles aparecen na pantalla de inicio. Non aparecerán as baleiras.</string>
+    <string name="home_screen_channels_group_title">Canles da pantalla de inicio</string>
     <string name="home_screen_preview_audio_enable">Activar reproducións previas de audio</string>
     <string name="home_screen_preview_video_enable">Activar vistas previas de vídeo</string>
     <string name="input_name_and_input_status">%1$s: %2$s</string>
@@ -182,6 +183,7 @@
     <string name="other_countries">Outros países</string>
     <string name="play_next_channel_title">A continuación...</string>
     <string name="play_next_last_item_message">Os programas e as películas que empezas a ver aparecerán aquí de forma automática. Para engadilos directamente, mantenos premidos e selecciona a opción Engadir a A continuación...</string>
+    <string name="play_next_setting_summary">Personal. a canle A continuación…</string>
     <string name="play_next_setting_title">A continuación...</string>
     <string name="play_next_settings_panel_title">A continuación…</string>
     <string name="play_next_type_watch_list_text">Engadiuse a A continuación...</string>

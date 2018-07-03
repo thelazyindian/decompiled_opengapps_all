@@ -169,7 +169,6 @@
     <string name="description_us_tv_y">Cette émission est adaptée à tous les enfants.</string>
     <string name="description_us_tv_y7">Cette émission est adaptée aux enfants de sept ans et plus.</string>
     <string name="downloading">Téléchargement…</string>
-    <string name="empty_channel_content_description">"Il n'y a aucun programme disponible pour cette chaîne"</string>
     <string name="empty_channel_message">La chaîne est vide</string>
     <string name="exo_controls_fastforward_description">Avance rapide</string>
     <string name="exo_controls_next_description">Piste suivante</string>
@@ -190,6 +189,8 @@
     <string name="greater_than_nine_notifs_text">9+</string>
     <string name="guide_view_title">Chaînes</string>
     <string name="home_configure_channels_description_text">"Ajouter et supprimer des chaînes sur l'écran d'accueil"</string>
+    <string name="home_screen_channels_group_summary">"Sélectionnez les chaînes visibles sur l'écran d'accueil (chaînes vides non affichées)."</string>
+    <string name="home_screen_channels_group_title">"Chaînes de l'écran d'accueil"</string>
     <string name="home_screen_preview_audio_enable">Activer les aperçus audio</string>
     <string name="home_screen_preview_video_enable">Activer les aperçus vidéo</string>
     <string name="input_name_and_input_status">%1$s – %2$s</string>
@@ -255,6 +256,7 @@
     <string name="other_countries">Autres pays</string>
     <string name="play_next_channel_title">Ma sélection</string>
     <string name="play_next_last_item_message">"Les séries/films que vous regardez s'affichent automatiquement ici. Pour en ajouter directement, appuyez de manière prolongée dessus et sélectionnez \"Ajouter à Ma sélection\"."</string>
+    <string name="play_next_setting_summary">Personnaliser chaîne Ma sélection</string>
     <string name="play_next_setting_title">Ma sélection</string>
     <string name="play_next_settings_panel_title">Ma sélection</string>
     <string name="play_next_type_watch_list_text">Ajoutée à Ma sélection</string>

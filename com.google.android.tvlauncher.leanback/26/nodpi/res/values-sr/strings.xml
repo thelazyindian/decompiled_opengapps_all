@@ -169,7 +169,6 @@
     <string name="description_us_tv_y">Овај програм је намењен деци свих узраста.</string>
     <string name="description_us_tv_y7">Овај програм је намењен деци која имају 7 и више година.</string>
     <string name="downloading">Преузима се</string>
-    <string name="empty_channel_content_description">Ниједан програм није доступан за овај канал</string>
     <string name="empty_channel_message">Канал је празан</string>
     <string name="exo_controls_fastforward_description">Премотај унапред</string>
     <string name="exo_controls_next_description">Следећа песма</string>
@@ -190,6 +189,8 @@
     <string name="greater_than_nine_notifs_text">9+</string>
     <string name="guide_view_title">Канали</string>
     <string name="home_configure_channels_description_text">Додајте канале на почетни екран и уклоните их са њега</string>
+    <string name="home_screen_channels_group_summary">Изаберите канале који ће се приказивати на почетном екрану. Празни канали се неће приказивати.</string>
+    <string name="home_screen_channels_group_title">Канали на почетном екрану</string>
     <string name="home_screen_preview_audio_enable">Омогући преглед аудио снимака</string>
     <string name="home_screen_preview_video_enable">Омогући преглед видео снимака</string>
     <string name="input_name_and_input_status">%1$s – %2$s</string>
@@ -255,6 +256,7 @@
     <string name="other_countries">Друге земље</string>
     <string name="play_next_channel_title">Следеће</string>
     <string name="play_next_last_item_message">ТВ емисије и филмови које почињете да гледате ће се аутоматски појавити овде. Можете и директно да додајете програме ако притиснете и задржите филм или ТВ емисију и изаберете: „Додај на канал Следеће“.</string>
+    <string name="play_next_setting_summary">Прилагодите канал Следеће</string>
     <string name="play_next_setting_title">Следеће</string>
     <string name="play_next_settings_panel_title">Следеће</string>
     <string name="play_next_type_watch_list_text">Додато на канал Следеће</string>

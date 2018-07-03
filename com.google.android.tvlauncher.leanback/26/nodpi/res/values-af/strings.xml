@@ -169,7 +169,6 @@
     <string name="description_us_tv_y">Hierdie program is ontwerp om geskik vir alle kinders te wees.</string>
     <string name="description_us_tv_y7">Hierdie program is ontwerp vir kinders van 7 jaar of ouer.</string>
     <string name="downloading">Laai tans af</string>
-    <string name="empty_channel_content_description">Daar is geen programme vir hierdie kanaal beskikbaar nie.</string>
     <string name="empty_channel_message">Kanaal is leeg</string>
     <string name="exo_controls_fastforward_description">Vinnig vorentoe</string>
     <string name="exo_controls_next_description">Volgende snit</string>
@@ -190,6 +189,8 @@
     <string name="greater_than_nine_notifs_text">9+</string>
     <string name="guide_view_title">Kanale</string>
     <string name="home_configure_channels_description_text">Voeg kanale by of verwyder hulle van jou tuisskerm af</string>
+    <string name="home_screen_channels_group_summary">Kies watter kanale op die tuisskerm verskyn. Leë kanale sal nie gewys word nie.</string>
+    <string name="home_screen_channels_group_title">Tuisskerm-kanale</string>
     <string name="home_screen_preview_audio_enable">Aktiveer oudiovoorskoue</string>
     <string name="home_screen_preview_video_enable">Aktiveer videovoorskoue</string>
     <string name="input_name_and_input_status">%1$s – %2$s</string>
@@ -255,6 +256,7 @@
     <string name="other_countries">Ander lande</string>
     <string name="play_next_channel_title">Speel Volgende</string>
     <string name="play_next_last_item_message">"TV-programme en flieks wat jy begin kyk, sal outomaties hier verskyn. Jy kan programme ook direk byvoeg deur lank op 'n fliek of TV-program te druk en \"Voeg by Speel Volgende\" te kies."</string>
+    <string name="play_next_setting_summary">Pasmaak jou Speel Volgende-kanaal</string>
     <string name="play_next_setting_title">Speel Volgende</string>
     <string name="play_next_settings_panel_title">Speel Volgende</string>
     <string name="play_next_type_watch_list_text">By Speel Volgende gevoeg</string>

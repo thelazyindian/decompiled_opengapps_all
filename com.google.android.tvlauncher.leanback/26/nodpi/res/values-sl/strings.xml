@@ -169,7 +169,6 @@
     <string name="description_us_tv_y">Ta oddaja je primerna za otroke vseh starosti.</string>
     <string name="description_us_tv_y7">Ta oddaja je primerna za otroke starosti 7 let in starejše.</string>
     <string name="downloading">Prenašanje</string>
-    <string name="empty_channel_content_description">Za ta kanal ni na voljo nobena oddaja</string>
     <string name="empty_channel_message">Kanal je prazen</string>
     <string name="exo_controls_fastforward_description">Previj naprej</string>
     <string name="exo_controls_next_description">Naslednja skladba</string>
@@ -190,6 +189,8 @@
     <string name="greater_than_nine_notifs_text">9+</string>
     <string name="guide_view_title">Kanali</string>
     <string name="home_configure_channels_description_text">Dodajanje kanalov na začetni zaslon in njihovo odstranjevanje</string>
+    <string name="home_screen_channels_group_summary">Izberite, kateri kanali so prikazani na začetnem zaslonu. Prazni kanali ne bodo prikazani.</string>
+    <string name="home_screen_channels_group_title">Kanali na začetnem zaslonu</string>
     <string name="home_screen_preview_audio_enable">Omogoči predhodna poslušanja zvoka</string>
     <string name="home_screen_preview_video_enable">Omogoči predhodne oglede videoposnetkov</string>
     <string name="input_name_and_input_status">%1$s – %2$s</string>
@@ -255,6 +256,7 @@
     <string name="other_countries">Druge države</string>
     <string name="play_next_channel_title">Predvajaj naslednje</string>
     <string name="play_next_last_item_message">TV-oddaje in filmi, ki jih začnete gledati, bodo samodejno prikazani tu. Programe lahko dodate tudi neposredno – pridržite film ali TV-oddajo in izberete »Dodaj v kanal Predvajaj naslednje«.</string>
+    <string name="play_next_setting_summary">Pril. kan. »Predvajaj naslednje«</string>
     <string name="play_next_setting_title">Predvajaj naslednje</string>
     <string name="play_next_settings_panel_title">Predvajaj naslednje</string>
     <string name="play_next_type_watch_list_text">Dodano v kanal Predvajaj naslednje</string>

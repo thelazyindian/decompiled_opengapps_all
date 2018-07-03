@@ -169,7 +169,6 @@
     <string name="description_us_tv_y">Este programa va dirigido a niños de todas las edades.</string>
     <string name="description_us_tv_y7">Este programa va dirigido a niños mayores de 7 años.</string>
     <string name="downloading">Se está descargando</string>
-    <string name="empty_channel_content_description">No hay programas disponibles en este canal</string>
     <string name="empty_channel_message">El canal está vacío</string>
     <string name="exo_controls_fastforward_description">Avance rápido</string>
     <string name="exo_controls_next_description">Siguiente canción</string>
@@ -190,6 +189,8 @@
     <string name="greater_than_nine_notifs_text">9+</string>
     <string name="guide_view_title">Canales</string>
     <string name="home_configure_channels_description_text">Añade o quita canales en la pantalla de inicio</string>
+    <string name="home_screen_channels_group_summary">Elige los canales de la pantalla de inicio. No se mostrarán los que estén vacíos.</string>
+    <string name="home_screen_channels_group_title">Canales de la pantalla de inicio</string>
     <string name="home_screen_preview_audio_enable">Habilitar vistas previas de audio</string>
     <string name="home_screen_preview_video_enable">Habilitar vistas previas de vídeo</string>
     <string name="input_name_and_input_status">%1$s: %2$s</string>
@@ -255,6 +256,7 @@
     <string name="other_countries">Otros países</string>
     <string name="play_next_channel_title">Mi lista</string>
     <string name="play_next_last_item_message">Los programas de TV y las películas que empieces a ver aparecerán aquí automáticamente. Para añadir programas de TV y películas directamente, mantenlos pulsados unos segundos y selecciona Añadir a Mi lista.</string>
+    <string name="play_next_setting_summary">Personalizar el canal Mi lista</string>
     <string name="play_next_setting_title">Mi lista</string>
     <string name="play_next_settings_panel_title">Mi lista</string>
     <string name="play_next_type_watch_list_text">Añadido a Mi lista</string>

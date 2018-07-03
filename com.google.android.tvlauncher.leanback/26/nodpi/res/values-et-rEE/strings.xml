@@ -135,7 +135,6 @@
     <string name="description_us_tv_y">See saade on sobilik kõikidele lastele.</string>
     <string name="description_us_tv_y7">See saade on mõeldud vähemalt 7-aastastele lastele.</string>
     <string name="downloading">Allalaadimine</string>
-    <string name="empty_channel_content_description">Selle kanali jaoks pole saadaval ühtegi programmi</string>
     <string name="empty_channel_message">Kanal on tühi</string>
     <string name="exo_controls_fastforward_description">Keri edasi</string>
     <string name="exo_controls_next_description">Järgmine lugu</string>
@@ -156,6 +155,8 @@
     <string name="greater_than_nine_notifs_text">9+</string>
     <string name="guide_view_title">Kanalid</string>
     <string name="home_configure_channels_description_text">Lisage või eemaldage kanaleid avaekraanil</string>
+    <string name="home_screen_channels_group_summary">Valige, millised kanalid avaekraanil kuvatakse. Tühjasid kanaleid ei kuvata.</string>
+    <string name="home_screen_channels_group_title">Avaekraani kanalid</string>
     <string name="home_screen_preview_audio_enable">Luba eelvaadete heli</string>
     <string name="home_screen_preview_video_enable">Luba eelvaadete video</string>
     <string name="input_name_and_input_status">%1$s – %2$s</string>
@@ -182,6 +183,7 @@
     <string name="other_countries">Muud riigid</string>
     <string name="play_next_channel_title">Mängi järgmisena</string>
     <string name="play_next_last_item_message">Telesaated ja filmid, mida hakkate vaatama, kuvatakse automaatselt siin. Programmide otse lisamiseks vajutage pikalt filmil või telesaatel ja valige käsk „Lisa kanalile Mängi järgmisena”.</string>
+    <string name="play_next_setting_summary">Kohandage kanalit Mängi järgmisena</string>
     <string name="play_next_setting_title">Mängi järgmisena</string>
     <string name="play_next_settings_panel_title">Mängi järgmisena</string>
     <string name="play_next_type_watch_list_text">Lisatud kanalile Mängi järgmisena</string>

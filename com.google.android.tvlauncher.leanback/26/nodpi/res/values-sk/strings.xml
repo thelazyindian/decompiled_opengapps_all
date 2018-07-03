@@ -169,7 +169,6 @@
     <string name="description_us_tv_y">Tento program je vhodný pre všetky deti.</string>
     <string name="description_us_tv_y7">Tento program je vhodný pre deti od sedem rokov.</string>
     <string name="downloading">Sťahuje sa</string>
-    <string name="empty_channel_content_description">Nenašli sa žiadne programy pre tento kanál</string>
     <string name="empty_channel_message">Kanál je prázdny</string>
     <string name="exo_controls_fastforward_description">Pretočiť dopredu</string>
     <string name="exo_controls_next_description">Ďalšia stopa</string>
@@ -190,6 +189,8 @@
     <string name="greater_than_nine_notifs_text">9+</string>
     <string name="guide_view_title">Kanály</string>
     <string name="home_configure_channels_description_text">Pridajte alebo odoberte kanály z plochy</string>
+    <string name="home_screen_channels_group_summary">Vyberte kanály, ktoré sa zobrazia na ploche. Prázdne kanály sa zobrazovať nebudú.</string>
+    <string name="home_screen_channels_group_title">Kanály na ploche</string>
     <string name="home_screen_preview_audio_enable">Povoliť ukážky zvuku</string>
     <string name="home_screen_preview_video_enable">Povoliť ukážky videa</string>
     <string name="input_name_and_input_status">%1$s – %2$s</string>
@@ -255,6 +256,7 @@
     <string name="other_countries">Iné krajiny</string>
     <string name="play_next_channel_title">Čaká na vás</string>
     <string name="play_next_last_item_message">Televízne relácie a filmy, ktoré začnete pozerať, sa automaticky zobrazia na tomto mieste. Môžete tiež priamo pridávať programy dlhým stlačením požadovaného filmu alebo televíznej relácie a následným výberom možnosti Pridať k čakajúcim.</string>
+    <string name="play_next_setting_summary">Prispôsobte si kanál Čaká na vás</string>
     <string name="play_next_setting_title">Čaká na vás</string>
     <string name="play_next_settings_panel_title">Čaká na vás</string>
     <string name="play_next_type_watch_list_text">Pridané k čakajúcim</string>

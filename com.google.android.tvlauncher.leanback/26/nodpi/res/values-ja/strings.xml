@@ -169,7 +169,6 @@
     <string name="description_us_tv_y">この番組は全年齢層のお子様を対象としています。</string>
     <string name="description_us_tv_y7">この番組は7歳以上のお子様を対象としています。</string>
     <string name="downloading">ダウンロードしています</string>
-    <string name="empty_channel_content_description">このチャンネルには番組がありません</string>
     <string name="empty_channel_message">空のチャンネルです</string>
     <string name="exo_controls_fastforward_description">早送り</string>
     <string name="exo_controls_next_description">次のトラック</string>
@@ -190,6 +189,8 @@
     <string name="greater_than_nine_notifs_text">9+</string>
     <string name="guide_view_title">チャンネル</string>
     <string name="home_configure_channels_description_text">ホーム画面のチャンネルを追加または削除します</string>
+    <string name="home_screen_channels_group_summary">ホーム画面に表示するチャンネルを選択します。空のチャンネルは表示されません。</string>
+    <string name="home_screen_channels_group_title">ホーム画面のチャンネル</string>
     <string name="home_screen_preview_audio_enable">音声のプレビューを有効にする</string>
     <string name="home_screen_preview_video_enable">動画のプレビューを有効にする</string>
     <string name="input_name_and_input_status">%1$s - %2$s</string>
@@ -255,6 +256,7 @@
     <string name="other_countries">その他の国</string>
     <string name="play_next_channel_title">次のおすすめ</string>
     <string name="play_next_last_item_message">ここには、視聴を開始したテレビ番組や映画が自動的に表示されます。テレビ番組や映画を押し続けて [[次のおすすめ] に追加] を選択し、直接追加することもできます。</string>
+    <string name="play_next_setting_summary">[次のおすすめ] チャンネルのカスタマイズ</string>
     <string name="play_next_setting_title">次のおすすめ</string>
     <string name="play_next_settings_panel_title">次のおすすめ</string>
     <string name="play_next_type_watch_list_text">[次のおすすめ] に追加済み</string>

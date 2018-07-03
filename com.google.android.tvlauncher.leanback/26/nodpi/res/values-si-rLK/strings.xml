@@ -135,7 +135,6 @@
     <string name="description_us_tv_y">සියලුම ළමයි සඳහා සුදුසු ලෙස මෙම වැඩසටහන නිර්මාණය කර තිබේ.</string>
     <string name="description_us_tv_y7">වයස 7 සහ ඊට වැඩි ළමයින් සඳහා මෙම වැඩසටහන නිර්මාණය කර තිබේ.</string>
     <string name="downloading">බාගනිමින්</string>
-    <string name="empty_channel_content_description">මෙම නාලිකාව සඳහා වැඩසටහන් කිසිවක් නොමැත</string>
     <string name="empty_channel_message">නාලිකාව හිස්ය</string>
     <string name="exo_controls_fastforward_description">වේගයෙන් ඉදිරියට යන</string>
     <string name="exo_controls_next_description">ඊළඟ ගීතය</string>
@@ -156,6 +155,8 @@
     <string name="greater_than_nine_notifs_text">9+</string>
     <string name="guide_view_title">නාලිකා</string>
     <string name="home_configure_channels_description_text">ඔබේ මුල් පිටු තිරය වෙත නාලිකා එක් කිරීම සහ එයින් ඉවත් කිරීම කරන්න</string>
+    <string name="home_screen_channels_group_summary">මුල් පිටු තිරය මත දිස් වන නාලිකා තෝරන්න. හිස් නාලිකා පෙන්වනු නොලැබේ.</string>
+    <string name="home_screen_channels_group_title">මුල් පිටු තිර නාලිකා</string>
     <string name="home_screen_preview_audio_enable">ශ්‍රව්‍ය පෙරදසුන් සබල කරන්න</string>
     <string name="home_screen_preview_video_enable">වීඩියෝ පෙරදසුන් සබල කරන්න</string>
     <string name="input_name_and_input_status">%1$s - %2$s</string>
@@ -182,6 +183,7 @@
     <string name="other_countries">වෙනත් රටවල්</string>
     <string name="play_next_channel_title">Play Next</string>
     <string name="play_next_last_item_message">ඔබ නැරඹීම අරඹන TV වැඩසටහන් සහ චිත්‍රපට මෙහි ස්වයංක්‍රියව දිස් වනු ඇත. ඔබට චිත්‍රපටයක් හෝ TV වැඩසටහනක් මත දිගු-එබීමෙන් සහ මෙය තේරීමෙන් වැඩසටහන් සෘජුවම එක් කිරීමටද හැකිය: \"Play Next වෙත එක් කරන්න\".</string>
+    <string name="play_next_setting_summary">ඔබගේ Play Next නාලිකාව අභිමත කරන්න</string>
     <string name="play_next_setting_title">Play Next</string>
     <string name="play_next_settings_panel_title">Play Next</string>
     <string name="play_next_type_watch_list_text">Play Next වෙත එක් කරන ලදී</string>

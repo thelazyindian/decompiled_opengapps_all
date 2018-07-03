@@ -169,7 +169,6 @@
     <string name="description_us_tv_y">Chương trình này được thiết kế để phù hợp với tất cả trẻ em.</string>
     <string name="description_us_tv_y7">Chương trình này được thiết kế cho trẻ em từ 7 tuổi trở lên.</string>
     <string name="downloading">Đang tải xuống</string>
-    <string name="empty_channel_content_description">Không có chương trình nào cho kênh này</string>
     <string name="empty_channel_message">Kênh trống</string>
     <string name="exo_controls_fastforward_description">Tua đi</string>
     <string name="exo_controls_next_description">Bản nhạc tiếp theo</string>
@@ -190,6 +189,8 @@
     <string name="greater_than_nine_notifs_text">9+</string>
     <string name="guide_view_title">Kênh</string>
     <string name="home_configure_channels_description_text">Thêm hoặc xóa kênh khỏi Màn hình chính</string>
+    <string name="home_screen_channels_group_summary">Chọn kênh hiện ở Màn hình chính. Kênh trống không hiện.</string>
+    <string name="home_screen_channels_group_title">Kênh trên màn hình chính</string>
     <string name="home_screen_preview_audio_enable">Bật tính năng xem trước âm thanh</string>
     <string name="home_screen_preview_video_enable">Bật tính năng xem trước video</string>
     <string name="input_name_and_input_status">%1$s - %2$s</string>
@@ -255,6 +256,7 @@
     <string name="other_countries">Các quốc gia khác</string>
     <string name="play_next_channel_title">Play Next</string>
     <string name="play_next_last_item_message">Chương trình truyền hình và phim bạn bắt đầu xem sẽ tự động xuất hiện ở đây. Để thêm trực tiếp, hãy nhấn và giữ phim hoặc chương trình truyền hình và chọn: \"Thêm vào Play Next\".</string>
+    <string name="play_next_setting_summary">Tùy chỉnh kênh Play Next</string>
     <string name="play_next_setting_title">Play Next</string>
     <string name="play_next_settings_panel_title">Play Next</string>
     <string name="play_next_type_watch_list_text">Đã thêm vào kênh Play Next</string>

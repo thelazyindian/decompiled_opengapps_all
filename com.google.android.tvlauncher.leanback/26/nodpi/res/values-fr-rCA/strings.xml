@@ -169,7 +169,6 @@
     <string name="description_us_tv_y">Cette émission est conçue pour des enfants de tous âges.</string>
     <string name="description_us_tv_y7">Cette émission est conçue pour des enfants de sept ans et plus.</string>
     <string name="downloading">Téléchargement en cours…</string>
-    <string name="empty_channel_content_description">"Il n'y a aucun programme pour ce canal"</string>
     <string name="empty_channel_message">La chaîne est vide</string>
     <string name="exo_controls_fastforward_description">Avance rapide</string>
     <string name="exo_controls_next_description">Chanson suivante</string>
@@ -190,6 +189,8 @@
     <string name="greater_than_nine_notifs_text">9+</string>
     <string name="guide_view_title">Chaînes</string>
     <string name="home_configure_channels_description_text">"Ajouter ou supprimer des chaînes de l'écran d'accueil"</string>
+    <string name="home_screen_channels_group_summary">"Sélectionnez les chaînes visibles sur l'écran d'accueil (chaînes vides non affichées)."</string>
+    <string name="home_screen_channels_group_title">"Chaînes sur l'écran d'accueil"</string>
     <string name="home_screen_preview_audio_enable">Activer les aperçus audio</string>
     <string name="home_screen_preview_video_enable">Activer les aperçus vidéo</string>
     <string name="input_name_and_input_status">%1$s : %2$s</string>
@@ -255,6 +256,7 @@
     <string name="other_countries">Autres pays</string>
     <string name="play_next_channel_title">Mon répertoire</string>
     <string name="play_next_last_item_message">"Les émissions et les films que vous commencez à regarder s'affichent ici. Pour en ajouter, maintenez le doigt sur un film ou une émission, puis sélectionnez « Ajouter à Mon répertoire »."</string>
+    <string name="play_next_setting_summary">Personn. votre ch. Mon répertoire</string>
     <string name="play_next_setting_title">Mon répertoire</string>
     <string name="play_next_settings_panel_title">Mon répertoire</string>
     <string name="play_next_type_watch_list_text">Ajoutée à Mon répertoire</string>

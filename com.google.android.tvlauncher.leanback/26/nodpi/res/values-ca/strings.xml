@@ -169,7 +169,6 @@
     <string name="description_us_tv_y">El programa està concebut perquè el puguin mirar nens de totes les edats.</string>
     <string name="description_us_tv_y7">El programa està concebut perquè el mirin nens a partir dels 7 anys.</string>
     <string name="downloading">"S'està baixant"</string>
-    <string name="empty_channel_content_description">No hi ha programes disponibles en aquest canal</string>
     <string name="empty_channel_message">El canal està buit</string>
     <string name="exo_controls_fastforward_description">Avança ràpidament</string>
     <string name="exo_controls_next_description">Ruta següent</string>
@@ -190,6 +189,8 @@
     <string name="greater_than_nine_notifs_text">9+</string>
     <string name="guide_view_title">Canals</string>
     <string name="home_configure_channels_description_text">"Afegeix o suprimeix canals de la pantalla d'inici"</string>
+    <string name="home_screen_channels_group_summary">Selecciona canals per mostrar a pantalla inici. Els canals buits no es mostraran.</string>
+    <string name="home_screen_channels_group_title">"Canals de la pantalla d'inici"</string>
     <string name="home_screen_preview_audio_enable">"Activa l'àudio de les previsualitzacions"</string>
     <string name="home_screen_preview_video_enable">Activa el vídeo de les previsualitzacions</string>
     <string name="input_name_and_input_status">%1$s - %2$s</string>
@@ -255,6 +256,7 @@
     <string name="other_countries">Altres països</string>
     <string name="play_next_channel_title">La meva llista</string>
     <string name="play_next_last_item_message">"Les sèries i pel·lícules que veus es mostren aquí automàticament. Per afegir-n'hi directament, mantén-les premudes i selecciona Afegeix a La meva llista."</string>
+    <string name="play_next_setting_summary">Personalitza La meva llista</string>
     <string name="play_next_setting_title">La meva llista</string>
     <string name="play_next_settings_panel_title">La meva llista</string>
     <string name="play_next_type_watch_list_text">"S'ha afegit a La meva llista"</string>

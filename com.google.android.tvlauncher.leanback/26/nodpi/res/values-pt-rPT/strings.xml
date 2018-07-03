@@ -169,7 +169,6 @@
     <string name="description_us_tv_y">Este programa foi concebido para ser adequado para todas as crianças.</string>
     <string name="description_us_tv_y7">Este programa foi concebido para crianças com 7 e mais anos.</string>
     <string name="downloading">A transferir…</string>
-    <string name="empty_channel_content_description">Não há programas disponíveis para este canal</string>
     <string name="empty_channel_message">O canal está vazio.</string>
     <string name="exo_controls_fastforward_description">Avançar</string>
     <string name="exo_controls_next_description">Faixa seguinte</string>
@@ -190,6 +189,8 @@
     <string name="greater_than_nine_notifs_text">9+</string>
     <string name="guide_view_title">Canais</string>
     <string name="home_configure_channels_description_text">Adicionar e remover canais do ecrã principal</string>
+    <string name="home_screen_channels_group_summary">Selecione os canais apresentados no ecrã principal. Os canais vazios não aparecem.</string>
+    <string name="home_screen_channels_group_title">Canais do ecrã principal</string>
     <string name="home_screen_preview_audio_enable">Ativar áudio das pré-visualizações</string>
     <string name="home_screen_preview_video_enable">Ativar vídeo das pré-visualizações</string>
     <string name="input_name_and_input_status">%1$s - %2$s</string>
@@ -255,6 +256,7 @@
     <string name="other_countries">Outros países</string>
     <string name="play_next_channel_title">Novidades Play</string>
     <string name="play_next_last_item_message">Os prog. de TV e os filmes que começar a ver serão apresentados aqui. Também pode adic. prog. diretam. ao manter premido um filme ou um prog. e selecionar \"Adicionar ao Novidades Play\".</string>
+    <string name="play_next_setting_summary">Personalizar canal Novidades Play</string>
     <string name="play_next_setting_title">Novidades Play</string>
     <string name="play_next_settings_panel_title">Novidades Play</string>
     <string name="play_next_type_watch_list_text">Adicionado ao Novidades Play</string>

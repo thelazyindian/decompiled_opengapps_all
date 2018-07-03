@@ -152,7 +152,6 @@
     <string name="description_us_tv_y">Este programa foi criado para crianças de todas as idades.</string>
     <string name="description_us_tv_y7">Este programa foi criado para crianças de sete anos ou mais.</string>
     <string name="downloading">Fazendo o download</string>
-    <string name="empty_channel_content_description">Não há programas disponíveis para esse canal</string>
     <string name="empty_channel_message">O canal está vazio</string>
     <string name="exo_controls_fastforward_description">Avançar</string>
     <string name="exo_controls_next_description">Próxima faixa</string>
@@ -173,6 +172,8 @@
     <string name="greater_than_nine_notifs_text">9+</string>
     <string name="guide_view_title">Canais</string>
     <string name="home_configure_channels_description_text">Adicione e remova canais da sua tela inicial</string>
+    <string name="home_screen_channels_group_summary">Selec. os canais exibidos na tela inicial. Os vazios não serão mostrados.</string>
+    <string name="home_screen_channels_group_title">Canais da tela inicial</string>
     <string name="home_screen_preview_audio_enable">Ativar pré-reprodução de áudio</string>
     <string name="home_screen_preview_video_enable">Ativar pré-reprodução de vídeo</string>
     <string name="input_name_and_input_status">%1$s - %2$s</string>
@@ -238,6 +239,7 @@
     <string name="other_countries">Outros países</string>
     <string name="play_next_channel_title">Reproduzir a seguir</string>
     <string name="play_next_last_item_message">Programas de TV e filmes que você começar a assistir aparecerão aqui. Adicione programas também tocando neles, mantendo-os pressionados e selecionando Adicionar à lista Reproduzir a seguir.</string>
+    <string name="play_next_setting_summary">Person. seu canal Novidades Play</string>
     <string name="play_next_setting_title">Novidades Play</string>
     <string name="play_next_settings_panel_title">Reproduzir a seguir</string>
     <string name="play_next_type_watch_list_text">Adicionado à lista Reproduzir a seguir</string>

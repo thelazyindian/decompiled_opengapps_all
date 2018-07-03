@@ -169,7 +169,6 @@
     <string name="description_us_tv_y">تم تصميم هذا البرنامج ليكون مناسبًا لجميع الأطفال.</string>
     <string name="description_us_tv_y7">تم تصميم هذا البرنامج للأطفال من عمر 7 سنوات فما فوقها.</string>
     <string name="downloading">جارٍ التنزيل</string>
-    <string name="empty_channel_content_description">ليست هناك برامج متاحة لهذه القناة</string>
     <string name="empty_channel_message">القناة فارغة.</string>
     <string name="exo_controls_fastforward_description">تقديم سريع</string>
     <string name="exo_controls_next_description">المقطع الصوتي التالي</string>
@@ -190,6 +189,8 @@
     <string name="greater_than_nine_notifs_text">9+</string>
     <string name="guide_view_title">القنوات</string>
     <string name="home_configure_channels_description_text">إضافة القنوات وإزالتها من الشاشة الرئيسية</string>
+    <string name="home_screen_channels_group_summary">اختر القنوات المُراد عرضها على \"الشاشة الرئيسية\". لن تظهر القنوات الخالية.</string>
+    <string name="home_screen_channels_group_title">قنوات الشاشة الرئيسية</string>
     <string name="home_screen_preview_audio_enable">تفعيل معاينات الصوت</string>
     <string name="home_screen_preview_video_enable">تفعيل معاينات الفيديو</string>
     <string name="input_name_and_input_status">%1$s - %2$s</string>
@@ -255,6 +256,7 @@
     <string name="other_countries">بلدان أخرى</string>
     <string name="play_next_channel_title">تشغيل التالي</string>
     <string name="play_next_last_item_message">سيظهر هنا ما تشاهده من عروض تلفزيونية وأفلام تلقائيًا. ويمكنك أيضًا إضافة برامج مباشرة عن طريق الضغط مع الاستمرار على أحد الأفلام أو العروض التلفزيونية، ثم اختيار \"إضافة إلى تشغيل التالي\".</string>
+    <string name="play_next_setting_summary">تخصيص قناة \"تشغيل التالي\"</string>
     <string name="play_next_setting_title">تشغيل التالي</string>
     <string name="play_next_settings_panel_title">تشغيل التالي</string>
     <string name="play_next_type_watch_list_text">تمت الإضافة إلى قناة \"تشغيل التالي\"</string>

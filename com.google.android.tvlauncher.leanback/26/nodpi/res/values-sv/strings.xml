@@ -169,7 +169,6 @@
     <string name="description_us_tv_y">Det här programmet är utformat så att det ska vara lämpligt för alla barn.</string>
     <string name="description_us_tv_y7">Det här programmet är utformat för barn i åldern 7 år och äldre.</string>
     <string name="downloading">Laddas ned</string>
-    <string name="empty_channel_content_description">Det finns inga tillgängliga program för den här kanalen</string>
     <string name="empty_channel_message">Kanalen är tom</string>
     <string name="exo_controls_fastforward_description">Snabbspola framåt</string>
     <string name="exo_controls_next_description">Nästa spår</string>
@@ -190,6 +189,8 @@
     <string name="greater_than_nine_notifs_text">9+</string>
     <string name="guide_view_title">Kanaler</string>
     <string name="home_configure_channels_description_text">Lägg till och ta bort kanaler på startskärmen</string>
+    <string name="home_screen_channels_group_summary">Välj vilka kanaler som ska visas på startskärmen. Tomma kanaler visas inte.</string>
+    <string name="home_screen_channels_group_title">Kanaler på startskärmen</string>
     <string name="home_screen_preview_audio_enable">Aktivera förhandsgranskning av ljud</string>
     <string name="home_screen_preview_video_enable">Aktivera förhandsgranskning av video</string>
     <string name="input_name_and_input_status">%1$s–%2$s</string>
@@ -255,6 +256,7 @@
     <string name="other_countries">Övriga länder</string>
     <string name="play_next_channel_title">Nästa</string>
     <string name="play_next_last_item_message">Här visas automatiskt TV-program och filmer som du börjat titta på. Du kan även lägga till program och filmer direkt genom att trycka länge på dem och välja Lägg till i Nästa.</string>
+    <string name="play_next_setting_summary">Anpassa kanalen Nästa</string>
     <string name="play_next_setting_title">Nästa</string>
     <string name="play_next_settings_panel_title">Nästa</string>
     <string name="play_next_type_watch_list_text">Har lagts till i Nästa</string>

@@ -169,7 +169,6 @@
     <string name="description_us_tv_y">Kipindi hiki kimetayarishwa kuwafaa watoto wa marika yote.</string>
     <string name="description_us_tv_y7">Kipindi hiki kimetayarishwa kwa ajili ya watoto walio na umri wa miaka 7 na zaidi.</string>
     <string name="downloading">Inapakua</string>
-    <string name="empty_channel_content_description">Hakuna vipindi vinavyopatikana kwa kituo hiki</string>
     <string name="empty_channel_message">Hamna vipindi katika kituo hiki</string>
     <string name="exo_controls_fastforward_description">Peleka mbele kwa kasi</string>
     <string name="exo_controls_next_description">Wimbo unaofuata</string>
@@ -190,6 +189,8 @@
     <string name="greater_than_nine_notifs_text">9+</string>
     <string name="guide_view_title">Vituo</string>
     <string name="home_configure_channels_description_text">Ongeza na uondoe vituo kwenye Skrini yako ya kwanza</string>
+    <string name="home_screen_channels_group_summary">Teua vituo vya Skrini ya kwanza. Vituo vitupu havitaonyeshwa.</string>
+    <string name="home_screen_channels_group_title">Vituo vya Skrini ya kwanza</string>
     <string name="home_screen_preview_audio_enable">Washa kipengele cha kusikiliza kwanza sauti</string>
     <string name="home_screen_preview_video_enable">Washa kipengele cha kuchungulia kwanza video</string>
     <string name="input_name_and_input_status">%1$s - %2$s</string>
@@ -255,6 +256,7 @@
     <string name="other_countries">Nchi nyingine</string>
     <string name="play_next_channel_title">Zinazofuata</string>
     <string name="play_next_last_item_message">Filamu na vipindi vya TV utakavyotazama vitaonekana hapa kiotomatiki. Unaweza pia kuongeza vipindi moja kwa moja kwa kubonyeza filamu au kipindi kwa muda mrefu na kuchagua: \"Ongeza kwenye Zinazofuata\".</string>
+    <string name="play_next_setting_summary">Badilisha kituo Kinachofuata</string>
     <string name="play_next_setting_title">Zinazofuata</string>
     <string name="play_next_settings_panel_title">Zinazofuata</string>
     <string name="play_next_type_watch_list_text">Imeongezwa kwenye Zinazofuata</string>

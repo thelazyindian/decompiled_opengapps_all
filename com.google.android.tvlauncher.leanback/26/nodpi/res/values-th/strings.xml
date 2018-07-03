@@ -169,7 +169,6 @@
     <string name="description_us_tv_y">รายการนี้ออกแบบมาสำหรับเด็กทุกวัย</string>
     <string name="description_us_tv_y7">รายการนี้ออกแบบมาสำหรับเด็กอายุ 7 ปีขึ้นไป</string>
     <string name="downloading">กำลังดาวน์โหลด</string>
-    <string name="empty_channel_content_description">ไม่มีรายการที่พร้อมใช้งานสำหรับช่องนี้</string>
     <string name="empty_channel_message">ช่องว่างเปล่า</string>
     <string name="exo_controls_fastforward_description">กรอไปข้างหน้า</string>
     <string name="exo_controls_next_description">แทร็กถัดไป</string>
@@ -190,6 +189,8 @@
     <string name="greater_than_nine_notifs_text">9+</string>
     <string name="guide_view_title">ช่อง</string>
     <string name="home_configure_channels_description_text">เพิ่มและนำช่องออกจากหน้าจอหลัก</string>
+    <string name="home_screen_channels_group_summary">เลือกช่องที่จะปรากฏในหน้าจอหลัก ช่องที่ไม่มีเนื้อหาจะไม่ปรากฏ</string>
+    <string name="home_screen_channels_group_title">ช่องในหน้าจอหลัก</string>
     <string name="home_screen_preview_audio_enable">เปิดใช้เสียงตัวอย่าง</string>
     <string name="home_screen_preview_video_enable">เปิดใช้วิดีโอตัวอย่าง</string>
     <string name="input_name_and_input_status">%1$s - %2$s</string>
@@ -255,6 +256,7 @@
     <string name="other_countries">ประเทศอื่นๆ</string>
     <string name="play_next_channel_title">เล่นต่อ</string>
     <string name="play_next_last_item_message">รายการทีวีและภาพยนตร์ที่คุณเริ่มดูจะปรากฏขึ้นที่นี่โดยอัตโนมัติ และคุณเพิ่มรายการได้โดยตรงด้วยการกดภาพยนตร์หรือรายการทีวีค้างไว้แล้วเลือก \"เพิ่มลงใน \"เล่นต่อ\"\"</string>
+    <string name="play_next_setting_summary">ปรับแต่งช่อง \"เล่นต่อ\"</string>
     <string name="play_next_setting_title">เล่นต่อ</string>
     <string name="play_next_settings_panel_title">เล่นต่อ</string>
     <string name="play_next_type_watch_list_text">เพิ่มลงใน \"เล่นต่อ\" แล้ว</string>

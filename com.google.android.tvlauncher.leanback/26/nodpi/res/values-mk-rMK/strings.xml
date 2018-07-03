@@ -133,7 +133,6 @@
     <string name="description_us_tv_y">Програмава е направена да биде соодветна за сите деца.</string>
     <string name="description_us_tv_y7">Програмава е наменета за деца од 7 години, па нагоре.</string>
     <string name="downloading">Се презема</string>
-    <string name="empty_channel_content_description">Нема достапни програми за каналов</string>
     <string name="empty_channel_message">Каналот е празен</string>
     <string name="exo_controls_fastforward_description">Брзо премотај напред</string>
     <string name="exo_controls_next_description">Следна песна</string>
@@ -154,6 +153,8 @@
     <string name="greater_than_nine_notifs_text">9+</string>
     <string name="guide_view_title">Канали</string>
     <string name="home_configure_channels_description_text">Додавајте или отстранувајте канали од почетниот екран</string>
+    <string name="home_screen_channels_group_summary">Изберете канали за почетниот екран. Празните канали нема да се прикажуваат.</string>
+    <string name="home_screen_channels_group_title">Канали на почетниот екран</string>
     <string name="home_screen_preview_audio_enable">Овозможи прегледи на аудио</string>
     <string name="home_screen_preview_video_enable">Овозможи прегледи на видео</string>
     <string name="input_name_and_input_status">%1$s - %2$s</string>
@@ -180,6 +181,7 @@
     <string name="other_countries">Останати земји</string>
     <string name="play_next_channel_title">Play Next</string>
     <string name="play_next_last_item_message">ТВ-сериите и филмовите што ќе почнете да ги гледате автоматски ќе се појават тука. Може и директно да додавате програми ако долго притиснете на нив и изберете: Додај во Play Next.</string>
+    <string name="play_next_setting_summary">Приспособете го каналот Play Next</string>
     <string name="play_next_setting_title">Play Next</string>
     <string name="play_next_settings_panel_title">Play Next</string>
     <string name="play_next_type_watch_list_text">Додадено во Play Next</string>

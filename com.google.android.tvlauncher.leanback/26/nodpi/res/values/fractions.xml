@@ -17,6 +17,7 @@
     <fraction name="lb_view_dimmed_level">60.000004%</fraction>
     <fraction name="program_focused_scale">117.49878%</fraction>
     <fraction name="program_logo_dimmer_center_x">29.999996%</fraction>
+    <fraction name="sponsored_program_focused_scale">139.99939%</fraction>
     <fraction name="store_button_focused_scale">110.998535%</fraction>
     <fraction name="top_row_item_focused_zoom">119.99817%</fraction>
 </resources>

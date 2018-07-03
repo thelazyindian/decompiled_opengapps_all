@@ -33,7 +33,6 @@
     <color name="channel_action_button_icon_tint">#ffeeeeee</color>
     <color name="channel_action_button_icon_tint_selected">#ff252b30</color>
     <color name="channel_actions_hint">#7fffffff</color>
-    <color name="channel_empty_card_default_background">#ff4688f1</color>
     <color name="channel_items_title_default_color">@color/reference_white_30</color>
     <color name="channel_items_title_selected_color">@color/reference_white_100</color>
     <color name="channel_logo_default_background">#ff333333</color>
@@ -157,7 +156,7 @@
     <color name="notification_tray_focused_button_color">#ff3e82f7</color>
     <color name="notification_tray_primary_text_color">#ffeeeeee</color>
     <color name="notification_tray_secondary_text_color">#99eeeeee</color>
-    <color name="notification_tray_unfocused_button_color">#00ffffff</color>
+    <color name="notification_tray_unfocused_button_color">@color/reference_white_5</color>
     <color name="preference_fallback_accent_color">#ff80cbc4</color>
     <color name="preference_item_banner_background">#ff455a64</color>
     <color name="primary_dark_material_dark">@android:color/black</color>

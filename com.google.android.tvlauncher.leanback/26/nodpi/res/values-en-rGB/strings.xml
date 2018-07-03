@@ -169,7 +169,6 @@
     <string name="description_us_tv_y">This programme is designed to be appropriate for all children.</string>
     <string name="description_us_tv_y7">This programme is designed for children aged 7 and above.</string>
     <string name="downloading">Downloading</string>
-    <string name="empty_channel_content_description">There are no programmes available for this channel</string>
     <string name="empty_channel_message">Channel is empty</string>
     <string name="exo_controls_fastforward_description">Fast-forward</string>
     <string name="exo_controls_next_description">Next track</string>
@@ -190,6 +189,8 @@
     <string name="greater_than_nine_notifs_text">9+</string>
     <string name="guide_view_title">Channels</string>
     <string name="home_configure_channels_description_text">Add and remove channels from your Home screen</string>
+    <string name="home_screen_channels_group_summary">Select which channels appear on the Home screen. Empty channels will not be shown.</string>
+    <string name="home_screen_channels_group_title">Home screen channels</string>
     <string name="home_screen_preview_audio_enable">Enable audio previews</string>
     <string name="home_screen_preview_video_enable">Enable video previews</string>
     <string name="input_name_and_input_status">%1$s - %2$s</string>
@@ -255,6 +256,7 @@
     <string name="other_countries">Other countries</string>
     <string name="play_next_channel_title">Play Next</string>
     <string name="play_next_last_item_message">"TV shows and movies that you begin watching will automatically appear here. You can also add programmes directly by long-pressing on a movie or TV show and selecting: 'Add to Play Next'."</string>
+    <string name="play_next_setting_summary">Customise your Play Next channel</string>
     <string name="play_next_setting_title">Play Next</string>
     <string name="play_next_settings_panel_title">Play Next</string>
     <string name="play_next_type_watch_list_text">Added to Play Next</string>

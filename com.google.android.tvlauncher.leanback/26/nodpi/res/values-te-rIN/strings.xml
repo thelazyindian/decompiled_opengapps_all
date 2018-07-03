@@ -135,7 +135,6 @@
     <string name="description_us_tv_y">ఈ కార్యక్రమం అన్ని వయస్సుల పిల్లలకు తగినట్లుగా రూపొందించబడింది.</string>
     <string name="description_us_tv_y7">ఈ కార్యక్రమం 7 ఏళ్లు అంతకంటే పైబడిన పిల్లల కోసం రూపొందించబడింది.</string>
     <string name="downloading">డౌన్‌లోడ్ అవుతోంది</string>
-    <string name="empty_channel_content_description">ఈ ఛానెల్ కోసం కార్యక్రమాలు అందుబాటులో లేవు</string>
     <string name="empty_channel_message">ఛానెల్ ఖాళీగా ఉంది</string>
     <string name="exo_controls_fastforward_description">వేగంగా ఫార్వార్డ్ చేయి</string>
     <string name="exo_controls_next_description">తదుపరి ట్రాక్</string>
@@ -156,6 +155,8 @@
     <string name="greater_than_nine_notifs_text">9+</string>
     <string name="guide_view_title">ఛానెల్‌లు</string>
     <string name="home_configure_channels_description_text">మీ హోమ్ స్క్రీన్‌కు ఛానెల్‌లను జోడించండి మరియు దాని నుండి తీసివేయండి</string>
+    <string name="home_screen_channels_group_summary">హోమ్ స్క్రీన్‌పై ఏ ఛానెల్‌లు కనిపించాలో ఎంచుకోండి. ఖాళీ ఛానెల్‌లు ప్రదర్శించబడవు.</string>
+    <string name="home_screen_channels_group_title">హోమ్ స్క్రీన్ ఛానెల్‌లు</string>
     <string name="home_screen_preview_audio_enable">ఆడియో ప్రివ్యూలను ప్రారంభించండి</string>
     <string name="home_screen_preview_video_enable">వీడియో ప్రివ్యూలను ప్రారంభించండి</string>
     <string name="input_name_and_input_status">%1$s - %2$s</string>
@@ -182,6 +183,7 @@
     <string name="other_countries">ఇతర దేశాలు</string>
     <string name="play_next_channel_title">తదుపరి ప్లే</string>
     <string name="play_next_last_item_message">మీరు చూడటం ప్రారంభించిన టీవీ కార్యక్రమాలు, చలనచిత్రాలు ఇక్కడ కనిపిస్తాయి. మీరు చలనచిత్రం లేదా టీవీ కార్యక్రమంపై ఎక్కువసేపు నొక్కి ఉంచి \"తదుపరి ప్లే\"ను ఎంచుకోవడం ద్వారా నేరుగా కార్యక్రమాలను జోడించవచ్చు.</string>
+    <string name="play_next_setting_summary">మీ తదుపరి ప్లే ఛానెల్‌ను అనుకూలీకరించండి</string>
     <string name="play_next_setting_title">తదుపరి ప్లే</string>
     <string name="play_next_settings_panel_title">తదుపరి ప్లే</string>
     <string name="play_next_type_watch_list_text">తదుపరి ప్లేకి జోడించబడింది</string>

@@ -169,7 +169,6 @@
     <string name="description_us_tv_y">Este programa es apto para todas las edades.</string>
     <string name="description_us_tv_y7">Este programa está diseñado para mayores de 7 años.</string>
     <string name="downloading">Descargando</string>
-    <string name="empty_channel_content_description">No hay programas disponibles para este canal</string>
     <string name="empty_channel_message">El canal está vacío</string>
     <string name="exo_controls_fastforward_description">Avanzar</string>
     <string name="exo_controls_next_description">Siguiente pista</string>
@@ -190,6 +189,8 @@
     <string name="greater_than_nine_notifs_text">9+</string>
     <string name="guide_view_title">Canales</string>
     <string name="home_configure_channels_description_text">Agrega y quita canales de tu pantalla principal</string>
+    <string name="home_screen_channels_group_summary">Elige canales Pantalla principal. No verás los vacíos.</string>
+    <string name="home_screen_channels_group_title">Canales de la Pantalla principal</string>
     <string name="home_screen_preview_audio_enable">Habilitar vistas previas de audio</string>
     <string name="home_screen_preview_video_enable">Habilitar vistas previas de video</string>
     <string name="input_name_and_input_status">%1$s - %2$s</string>
@@ -255,6 +256,7 @@
     <string name="other_countries">Otros países</string>
     <string name="play_next_channel_title">Mi lista</string>
     <string name="play_next_last_item_message">Los programas de TV y las películas que veas aparecerán aquí de forma automática. Para agregar otros, mantén presionado el elemento y selecciona \"Agregar a Mi lista\".</string>
+    <string name="play_next_setting_summary">Personaliza tu canal Mi lista</string>
     <string name="play_next_setting_title">Mi lista</string>
     <string name="play_next_settings_panel_title">Mi lista</string>
     <string name="play_next_type_watch_list_text">Se agregó a Mi lista</string>

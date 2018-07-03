@@ -135,7 +135,6 @@
     <string name="description_us_tv_y">កម្មវិធីនេះត្រូវបានបង្កើតឡើងឲ្យសមស្របសម្រាប់កុមារទាំងអស់។</string>
     <string name="description_us_tv_y7">កម្មវិធីនេះត្រូវបានបង្កើតឡើងសម្រាប់កុមារដែលមានអាយុ 7 ឡើងទៅ។</string>
     <string name="downloading">កំពុង​ទាញយក</string>
-    <string name="empty_channel_content_description">មិនមានកម្មវិធី​សម្រាប់​ប៉ុស្តិ៍​នេះទេ</string>
     <string name="empty_channel_message">ប៉ុស្តិ៍​គឺ​ទទេ</string>
     <string name="exo_controls_fastforward_description">ទៅ​មុខ​​​រហ័ស</string>
     <string name="exo_controls_next_description">បទ​បន្ទាប់</string>
@@ -156,6 +155,8 @@
     <string name="greater_than_nine_notifs_text">9+</string>
     <string name="guide_view_title">ប៉ុស្តិ៍</string>
     <string name="home_configure_channels_description_text">បញ្ចូល និង​លុប​ប៉ុស្តិ៍​ចេញ​ពី​អេក្រង់​ដើម​របស់អ្នក</string>
+    <string name="home_screen_channels_group_summary">ជ្រើសរើស​ប៉ុស្តិ៍​ដែល​បង្ហាញនៅលើអេក្រង់ដើម។ ប៉ុស្តិ៍ទទេ​នឹង​មិនបង្ហាញទេ។</string>
+    <string name="home_screen_channels_group_title">ប៉ុស្តិ៍អេក្រង់ដើម</string>
     <string name="home_screen_preview_audio_enable">បើក​ការស្តាប់សំឡេងសាកល្បង</string>
     <string name="home_screen_preview_video_enable">បើក​ការមើលវីដេអូសាកល្បង</string>
     <string name="input_name_and_input_status">%1$s - %2$s</string>
@@ -182,6 +183,7 @@
     <string name="other_countries">ប្រទេស​ផ្សេងទៀត</string>
     <string name="play_next_channel_title">លេងបន្ទាប់</string>
     <string name="play_next_last_item_message">កម្មវិធីទូរទស្សន៍ និងភាពយន្តដែលអ្នក​ចាប់ផ្តើមទស្សនានឹង​បង្ហាញនៅទីនេះដោយស្វ័យប្រវត្តិ។ អ្នកក៏អាចបញ្ចូលកម្មវិធីដោយផ្ទាល់ដោយចុចឱ្យយូរលើភាពយន្ត ឬកម្មវិធីទូរទស្សន៍ រួច​ជ្រើសរើស៖ \"បញ្ចូលទៅ​ប៉ុស្តិ៍លេង​បន្ទាប់\"។</string>
+    <string name="play_next_setting_summary">ប្ដូរ​ប៉ុស្តិ៍លេងបន្ទាប់​របស់អ្នក​តាមបំណង</string>
     <string name="play_next_setting_title">លេងបន្ទាប់</string>
     <string name="play_next_settings_panel_title">លេងបន្ទាប់</string>
     <string name="play_next_type_watch_list_text">បាន​បញ្ចូល​ទៅ​​ប៉ុស្តិ៍លេង​បន្ទាប់</string>

@@ -135,7 +135,6 @@
     <string name="description_us_tv_y">এই প্রোগ্রামটিকে সব বয়সী বাচ্চাদের জন্য উপযুক্ত হিসাবে তৈরি করা হয়েছে।</string>
     <string name="description_us_tv_y7">এই প্রোগ্রামটিকে ৭ বছর ও তার বেশি বয়সী বাচ্চাদের জন্য তৈরি করা হয়েছে।</string>
     <string name="downloading">ডাউনলোড হচ্ছে</string>
-    <string name="empty_channel_content_description">এই চ্যানেলে কোনও প্রোগ্রাম নেই</string>
     <string name="empty_channel_message">চ্যানেলে কিছু নেই</string>
     <string name="exo_controls_fastforward_description">দ্রুত সামনে এগোন</string>
     <string name="exo_controls_next_description">পরবর্তী ট্র্যাক</string>
@@ -149,13 +148,15 @@
     <string name="exo_controls_stop_description">থামান</string>
     <string name="failed_launch">এটিকে এখন খোলা গেল না</string>
     <string name="favorite_more_apps">পছন্দসইতে অ্যাপ যোগ করুন</string>
-    <string name="focused_search_hint_text">অনুসন্ধান করার জন্য ক্লিক করুন</string>
+    <string name="focused_search_hint_text">সার্চ করার জন্য ক্লিক করুন</string>
     <string name="focused_search_keyboard_hint_text">লেখার জন্য ক্লিক করুন</string>
     <string name="focused_search_mic_hint_text">কথা বলার জন্য ক্লিক করুন</string>
     <string name="game_folder_title">গেম্স</string>
     <string name="greater_than_nine_notifs_text">৯+</string>
     <string name="guide_view_title">চ্যানেল</string>
     <string name="home_configure_channels_description_text">হোম স্ক্রিনে চ্যানেল যোগ করুন এবং সেখান থেকে সরান</string>
+    <string name="home_screen_channels_group_summary">হোম স্ক্রিনে কোন চ্যানেলগুলি দেখানো হবে সেগুলি বেছে নিন। ফাঁকা চ্যানেল দেখানো হবে না।</string>
+    <string name="home_screen_channels_group_title">হোম স্ক্রিন চ্যানেল</string>
     <string name="home_screen_preview_audio_enable">অডিও প্রিভিউ সক্ষম করুন</string>
     <string name="home_screen_preview_video_enable">ভিডিও প্রিভিউ সক্ষম করুন</string>
     <string name="input_name_and_input_status">%1$s - %2$s</string>
@@ -168,7 +169,7 @@
     <string name="inputs_icon_title">ইনপুট</string>
     <string name="install_pending">ইনস্টল করা মুলতবি রয়েছে</string>
     <string name="installing">ইনস্টল করা হচ্ছে</string>
-    <string name="keyboard_search_accessibility_hint">আপনার অনুসন্ধানের প্রশ্ন লেখার জন্য বেছে নিন</string>
+    <string name="keyboard_search_accessibility_hint">আপনার সার্চের প্রশ্ন লেখার জন্য বেছে নিন</string>
     <string name="mic_disabled_icon_content_description">হ্যান্ডস-ফ্রি মাইক্রোফোন মিউট করা আছে।</string>
     <string name="mic_search_accessibility_hint">আপনি যা খুঁজতে চান তা বলার জন্য বেছে নিন</string>
     <string name="no_notifications_message">কোনো বিজ্ঞপ্তি নেই</string>
@@ -182,6 +183,7 @@
     <string name="other_countries">অন্যান্য দেশ</string>
     <string name="play_next_channel_title">পরবর্তী</string>
     <string name="play_next_last_item_message">"আপনি দেখতে শুরু করেছেন এমন টিভি শো এবং সিনেমাগুলি নিজে থেকেই এখানে দেখানো হয়। এছাড়াও, যদি কোনও প্রোগ্রাম যোগ করতে চান তাহলে কোনও টিভি শো অথবা সিনেমার নাম ট্যাপ করে ধরে থাকুন এবং ''পরবর্তী-তে রাখুন'' বিকল্পটি বেছে নিন।"</string>
+    <string name="play_next_setting_summary">আপনার \"এর পর চলবে\" চ্যানেলটি কাস্টমাইজ করুন</string>
     <string name="play_next_setting_title">পরবর্তী</string>
     <string name="play_next_settings_panel_title">পরবর্তী</string>
     <string name="play_next_type_watch_list_text">পরবর্তী-তে রাখা হয়েছে</string>

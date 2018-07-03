@@ -135,7 +135,6 @@
     <string name="description_us_tv_y">Այս ծրագիրը հարմար է բոլոր տարիքի երեխաների կողմից դիտելու համար:</string>
     <string name="description_us_tv_y7">Այս ծրագիրը նախատեսված է 7 և բարձր տարիքի երեխաների համար:</string>
     <string name="downloading">Ներբեռնվում է</string>
-    <string name="empty_channel_content_description">Այս ալիքով ծրագրեր չկան</string>
     <string name="empty_channel_message">Ալիքում ոչինչ չկա</string>
     <string name="exo_controls_fastforward_description">Արագ առաջ անցնել</string>
     <string name="exo_controls_next_description">Հաջորդը</string>
@@ -156,6 +155,8 @@
     <string name="greater_than_nine_notifs_text">9+</string>
     <string name="guide_view_title">Ալիքներ</string>
     <string name="home_configure_channels_description_text">Ավելացրեք և հեռացրեք ալիքներ հիմնական էկրանից</string>
+    <string name="home_screen_channels_group_summary">Ընտրեք՝ որ ալիքները ցուցադրվեն հիմնական էկրանին:</string>
+    <string name="home_screen_channels_group_title">Ալիքներ հիմնական էկրանին</string>
     <string name="home_screen_preview_audio_enable">Միացնել աուդիո ֆայլերի նախալսումը</string>
     <string name="home_screen_preview_video_enable">Միացնել տեսանյութերի նախադիտումը</string>
     <string name="input_name_and_input_status">%1$s – %2$s</string>
@@ -182,6 +183,7 @@
     <string name="other_countries">Այլ երկրներ</string>
     <string name="play_next_channel_title">«Հաջորդը» ալիք</string>
     <string name="play_next_last_item_message">Այստեղ կհայտնվեն ֆիլմերն ու հաղորդումները, որոնք սկսել եք դիտել: Դուք կարող եք ինքներդ ավելացնել ծրագրեր՝ երկար սեղմելով տեսանյութի վրա և ընտրելով «Ավելացնել «Հաջորդը» ալիքում» ընտրանքը:</string>
+    <string name="play_next_setting_summary">Կարգավորել «Դիտել հաջորդ ալիքը» բաժինը</string>
     <string name="play_next_setting_title">«Հաջորդը» ալիք</string>
     <string name="play_next_settings_panel_title">Ընտրանի</string>
     <string name="play_next_type_watch_list_text">Ավելացվել է «Հաջորդը» ալիքին</string>

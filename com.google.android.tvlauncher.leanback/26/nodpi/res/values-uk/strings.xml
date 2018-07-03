@@ -169,7 +169,6 @@
     <string name="description_us_tv_y">Ця передача підходить для дітей будь-якого віку.</string>
     <string name="description_us_tv_y7">Ця передача підходить для дітей віком від 7 років.</string>
     <string name="downloading">Завантаження</string>
-    <string name="empty_channel_content_description">Немає пере</string>
     <string name="empty_channel_message">Канал порожній</string>
     <string name="exo_controls_fastforward_description">Перемотати вперед</string>
     <string name="exo_controls_next_description">Наступна композиція</string>
@@ -190,6 +189,8 @@
     <string name="greater_than_nine_notifs_text">9+</string>
     <string name="guide_view_title">Канали</string>
     <string name="home_configure_channels_description_text">Додавайте й видаляйте канали на головному екрані</string>
+    <string name="home_screen_channels_group_summary">Виберіть, які канали показувати на головному екрані. Порожніх не буде видно.</string>
+    <string name="home_screen_channels_group_title">Канали на головному екрані</string>
     <string name="home_screen_preview_audio_enable">Вмикати аудіо під час попереднього перегляду</string>
     <string name="home_screen_preview_video_enable">Вмикати відео під час попереднього перегляду</string>
     <string name="input_name_and_input_status">%1$s – %2$s</string>
@@ -255,6 +256,7 @@
     <string name="other_countries">Інші країни</string>
     <string name="play_next_channel_title">Вибране</string>
     <string name="play_next_last_item_message">Серіали та фільми, які ви дивитеся, автоматично з’являються тут. Ви також можете самі додавати передачі. Для цього утримуйте фільм чи серіал і виберіть \"Додати у \"Вибране\"\".</string>
+    <string name="play_next_setting_summary">Налаштуйте канал \"Вибране\"</string>
     <string name="play_next_setting_title">Вибране</string>
     <string name="play_next_settings_panel_title">Вибране</string>
     <string name="play_next_type_watch_list_text">Додано у \"Вибране\"</string>

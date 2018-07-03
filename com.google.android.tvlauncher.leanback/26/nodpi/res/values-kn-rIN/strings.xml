@@ -135,7 +135,6 @@
     <string name="description_us_tv_y">ಈ ಕಾರ್ಯಕ್ರಮವನ್ನು ಎಲ್ಲಾ ಮಕ್ಕಳಿಗೆ ಸೂಕ್ತವಾಗಿರುವಂತೆ ರಚಿಸಲಾಗಿದೆ.</string>
     <string name="description_us_tv_y7">ಈ ಕಾರ್ಯಕ್ರಮವನ್ನು 7 ಮತ್ತು ಅದಕ್ಕಿಂತ ಹೆಚ್ಚಿನ ವಯಸ್ಸಿನ ಮಕ್ಕಳಿಗಾಗಿ ರಚಿಸಲಾಗಿದೆ.</string>
     <string name="downloading">ಡೌನ್‌ಲೋಡ್ ಮಾಡಲಾಗುತ್ತಿದೆ</string>
-    <string name="empty_channel_content_description">ಈ ಚಾನಲ್‌ಗಾಗಿ ಯಾವುದೇ ಕಾರ್ಯಕ್ರಮಗಳು ಲಭ್ಯವಿಲ್ಲ</string>
     <string name="empty_channel_message">ಚಾನಲ್‌ನಲ್ಲಿ ಯಾವುದೇ ಪ್ರದರ್ಶನಗಳಿಲ್ಲ</string>
     <string name="exo_controls_fastforward_description">ವೇಗವಾಗಿ ಮುಂದಕ್ಕೆ</string>
     <string name="exo_controls_next_description">ಮುಂದಿನ ಟ್ರ್ಯಾಕ್</string>
@@ -156,6 +155,8 @@
     <string name="greater_than_nine_notifs_text">9+</string>
     <string name="guide_view_title">ಚಾನಲ್‌ಗಳು</string>
     <string name="home_configure_channels_description_text">ನಿಮ್ಮ ಮುಖಪುಟ ಪರದೆಯಿಂದ ಚಾನಲ್‌ಗಳನ್ನು ಸೇರಿಸಿ ಅಥವಾ ತೆಗೆದುಹಾಕಿ</string>
+    <string name="home_screen_channels_group_summary">ಮುಖಪುಟ ಪರದೆಯಲ್ಲಿ ಯಾವ ಚಾನಲ್‌ಗಳು ಗೋಚರಿಸುತ್ತವೆ ಎಂಬುದನ್ನು ಆಯ್ಕೆಮಾಡಿ. ಖಾಲಿ ಚಾನಲ್‌ಗಳನ್ನು ತೋರಿಸುವುದಿಲ್ಲ.</string>
+    <string name="home_screen_channels_group_title">ಮುಖಪುಟ ಪರದೆ ಚಾನಲ್‌ಗಳು</string>
     <string name="home_screen_preview_audio_enable">ಆಡಿಯೊ ಪೂರ್ವವೀಕ್ಷಣೆಗಳನ್ನು ಸಕ್ರಿಯಗೊಳಿಸಿ</string>
     <string name="home_screen_preview_video_enable">ವೀಡಿಯೊ ಪೂರ್ವವೀಕ್ಷಣೆಗಳನ್ನು ಸಕ್ರಿಯಗೊಳಿಸಿ</string>
     <string name="input_name_and_input_status">%1$s - %2$s</string>
@@ -182,6 +183,7 @@
     <string name="other_countries">ಇತರ ದೇಶಗಳು</string>
     <string name="play_next_channel_title">ಮುಂದಿನ ಸಂಚಿಕೆ ವೀಕ್ಷಿಸಿ</string>
     <string name="play_next_last_item_message">ನೀವು ವೀಕ್ಷಿಸುವ ಟಿವಿ ಶೋ ಮತ್ತು ಚಲನಚಿತ್ರಗಳು ಸ್ವಯಂಚಾಲಿತವಾಗಿ ಇಲ್ಲಿ ಕಾಣುತ್ತವೆ. ಇವನ್ನು ಆರಿಸಿ ದೀರ್ಘವಾಗಿ ಒತ್ತುವ ಹಾಗೂ \"ಮುಂದಿನ ಸಂಚಿಕೆ ವೀಕ್ಷಿಸಿಗೆ ಸೇರಿಸಿ\" ಆಯ್ಕೆ ಮಾಡುವ ಮೂಲಕ ನೇರವಾಗಿ ಶೋಗಳನ್ನು ಸೇರಿಸಬಹುದು.</string>
+    <string name="play_next_setting_summary">ನಿಮ್ಮ ಮುಂದಿನ ಸಂಚಿಕೆ ಚಾನಲ್‌ ಅನ್ನು ಕಸ್ಟಮೈಸ್ ಮಾಡಿ</string>
     <string name="play_next_setting_title">ಮುಂದಿನ ಸಂಚಿಕೆ ವೀಕ್ಷಿಸಿ</string>
     <string name="play_next_settings_panel_title">ಮುಂದಿನದನ್ನು ಪ್ಲೇ ಮಾಡಿ</string>
     <string name="play_next_type_watch_list_text">ಮುಂದಿನ ಸಂಚಿಕೆ ವೀಕ್ಷಿಸಿಗೆ ಸೇರಿಸಲಾಗಿದೆ</string>

@@ -169,7 +169,6 @@
     <string name="description_us_tv_y">ይህ ፕሮግራም ለሁሉም ልጆች ተገቢ እንዲሆን የተነደፈ ነው።</string>
     <string name="description_us_tv_y7">ይህ ፕሮግራም ዕድሜያቸው 7 ዓመት እና ከዚያ በላይ ለሆኑ ልጆች ተገቢ እንዲሆን የተነደፈ ነው።</string>
     <string name="downloading">በማውረድ ላይ</string>
-    <string name="empty_channel_content_description">ለዚህ ሰርጥ ሊገኙ የሚችሉ ምንም ፕሮግራሞች የሉም</string>
     <string name="empty_channel_message">ሰርጥ ባዶ ነው</string>
     <string name="exo_controls_fastforward_description">በፍጥነት አሳልፍ</string>
     <string name="exo_controls_next_description">ቀጣይ ትራክ</string>
@@ -190,6 +189,8 @@
     <string name="greater_than_nine_notifs_text">9+</string>
     <string name="guide_view_title">ሰርጦች</string>
     <string name="home_configure_channels_description_text">ከእርስዎ መነሻ ማያ ገጽ ሰርጦችን ያክሉ እና ያስወግዱ</string>
+    <string name="home_screen_channels_group_summary">የትኛዎቹ ሰርጦች በመነሻ ማያ ገጹ ላይ እንደሚመጡ ይምረጡ። ባዶ ሰርጦች እንዲታዩ አይደረጉም።</string>
+    <string name="home_screen_channels_group_title">የመነሻ ማያ ገጽ ሰርጦች</string>
     <string name="home_screen_preview_audio_enable">የኦዲዮ ቅድመ ዕይታዎችን አንቃ</string>
     <string name="home_screen_preview_video_enable">የቪድዮ ቅድመ ዕይታዎችን አንቃ</string>
     <string name="input_name_and_input_status">%1$s - %2$s</string>
@@ -255,6 +256,7 @@
     <string name="other_countries">ሌሎች አገሮች</string>
     <string name="play_next_channel_title">ቀጣይ አጫውት</string>
     <string name="play_next_last_item_message">መመልከት የጀመሯቸው የቴሌቪዥን ትርዒቶች እና ፊልሞች በራስ ሰር እዚህ ይታያሉ። በተጨማሪም በፊልም ወይም የቴሌቪዥን ትርዒት ላይ ተጭነው በመቆየትና «ወደ ቀጣይ አጫውት አክል»ን በመምረጥ ፕሮግራሞችን ማከል ይችላሉ።</string>
+    <string name="play_next_setting_summary">የቀጣዩን አጫውት ሰርጥዎን ያብጁ</string>
     <string name="play_next_setting_title">ቀጣይ አጫውት</string>
     <string name="play_next_settings_panel_title">ቀጣይ አጫውት</string>
     <string name="play_next_type_watch_list_text">ወደ ቀጣይ አጫውት ታክሏል</string>

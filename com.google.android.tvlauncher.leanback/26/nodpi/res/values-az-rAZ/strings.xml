@@ -135,7 +135,6 @@
     <string name="description_us_tv_y">Bu proqram bütün uşaqlara uyğun şəkildə hazırlanmışdır.</string>
     <string name="description_us_tv_y7">Bu proqram 7 yaşdan böyük uşaqlar üçün hazırlanmışdır.</string>
     <string name="downloading">Endirilir</string>
-    <string name="empty_channel_content_description">Bu kanal üçün əlçatan olan proqram yoxdur</string>
     <string name="empty_channel_message">Kanal boşdur</string>
     <string name="exo_controls_fastforward_description">Sürətlə irəli</string>
     <string name="exo_controls_next_description">Növbəti trek</string>
@@ -156,6 +155,8 @@
     <string name="greater_than_nine_notifs_text">9+</string>
     <string name="guide_view_title">Kanallar</string>
     <string name="home_configure_channels_description_text">Əsas səhifə ekranından kanallar əlavə edin və ya silin</string>
+    <string name="home_screen_channels_group_summary">Əsas səhifə ekranında görünəcək kanalları seçin. Boş kanallar görünməyəcək.</string>
+    <string name="home_screen_channels_group_title">Əsas səhifə ekranının kanalları</string>
     <string name="home_screen_preview_audio_enable">Audio önizləmələrini aktiv edin</string>
     <string name="home_screen_preview_video_enable">Video önizləmələrini aktiv edin</string>
     <string name="input_name_and_input_status">%1$s - %2$s</string>
@@ -182,6 +183,7 @@
     <string name="other_countries">Digər ölkələr</string>
     <string name="play_next_channel_title">Sonrakını Oxudun</string>
     <string name="play_next_last_item_message">Baxdığınız videolar burada görünəcək. Proqramları birbaşa əlavə etmək üçün videoya basıb saxlayın və \"Sonrakını Oxudun\"u seçin.</string>
+    <string name="play_next_setting_summary">\"Növbətini Oxudun\" kanalını fərdiləşdirin</string>
     <string name="play_next_setting_title">Sonrakını Oxudun</string>
     <string name="play_next_settings_panel_title">Növbətini Oxudun</string>
     <string name="play_next_type_watch_list_text">\"Sonrakını Oxudun\"a əlavə edin</string>

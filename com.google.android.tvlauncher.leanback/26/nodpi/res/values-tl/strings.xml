@@ -169,7 +169,6 @@
     <string name="description_us_tv_y">Idinisenyo ang programang ito upang maging angkop para sa lahat ng bata.</string>
     <string name="description_us_tv_y7">Idinisenyo ang programang ito para sa mga batang may edad 7 pataas.</string>
     <string name="downloading">Dina-download</string>
-    <string name="empty_channel_content_description">Walang programang available para sa channel na ito</string>
     <string name="empty_channel_message">Channel: walang laman</string>
     <string name="exo_controls_fastforward_description">I-fast forward</string>
     <string name="exo_controls_next_description">Susunod na track</string>
@@ -190,6 +189,8 @@
     <string name="greater_than_nine_notifs_text">9+</string>
     <string name="guide_view_title">Mga Channel</string>
     <string name="home_configure_channels_description_text">Magdagdag at mag-alis ng mga channel sa iyong Home screen</string>
+    <string name="home_screen_channels_group_summary">Pumili ng channel na lalabas sa Home screen. Hindi ipapakita ang walang laman.</string>
+    <string name="home_screen_channels_group_title">Mga channel sa Home screen</string>
     <string name="home_screen_preview_audio_enable">I-enable ang mga preview ng audio</string>
     <string name="home_screen_preview_video_enable">I-enable ang mga preview ng video</string>
     <string name="input_name_and_input_status">%1$s - %2$s</string>
@@ -255,6 +256,7 @@
     <string name="other_countries">Iba pang bansa</string>
     <string name="play_next_channel_title">Play Next</string>
     <string name="play_next_last_item_message">Lalabas dito ang TV show at movie na papanoorin mo. Makakapagdagdag ka ng programa sa pamamagitan ng matagal na pagpindot sa isang movie o TV show, at pagpili sa: \"Idagdag sa Play Next.\"</string>
+    <string name="play_next_setting_summary">I-customize ang Play Next channel</string>
     <string name="play_next_setting_title">Play Next</string>
     <string name="play_next_settings_panel_title">Play Next</string>
     <string name="play_next_type_watch_list_text">Naidagdag sa Play Next</string>

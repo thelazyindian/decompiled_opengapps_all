@@ -629,6 +629,7 @@
     <attr name="srcCompat" format="reference" />
     <attr name="stackFromEnd" format="boolean" />
     <attr name="state_above_anchor" format="boolean" />
+    <attr name="state_notification_selected" format="boolean" />
     <attr name="statusBarBackground" format="reference|color" />
     <attr name="subMenuArrow" format="reference" />
     <attr name="submitBackground" format="reference" />

@@ -169,7 +169,6 @@
     <string name="description_us_tv_y">此節目內容適合所有年齡層的兒童收看。</string>
     <string name="description_us_tv_y7">此節目內容適合 7 歲以上兒童收看。</string>
     <string name="downloading">下載中</string>
-    <string name="empty_channel_content_description">這個頻道沒有任何節目</string>
     <string name="empty_channel_message">頻道中沒有節目</string>
     <string name="exo_controls_fastforward_description">快轉</string>
     <string name="exo_controls_next_description">下一首曲目</string>
@@ -190,6 +189,8 @@
     <string name="greater_than_nine_notifs_text">9+</string>
     <string name="guide_view_title">頻道</string>
     <string name="home_configure_channels_description_text">在主螢幕上新增及移除頻道</string>
+    <string name="home_screen_channels_group_summary">選取要顯示在主螢幕上的頻道。系統不會顯示空白的頻道。</string>
+    <string name="home_screen_channels_group_title">主螢幕頻道</string>
     <string name="home_screen_preview_audio_enable">啟用音訊預覽功能</string>
     <string name="home_screen_preview_video_enable">啟用視訊預覽功能</string>
     <string name="input_name_and_input_status">%1$s - %2$s</string>
@@ -255,6 +256,7 @@
     <string name="other_countries">其他國家/地區</string>
     <string name="play_next_channel_title">接著播放</string>
     <string name="play_next_last_item_message">你開始觀看的電視節目和電影會自動顯示在這裡。你也可以長按特定電影或電視節目，然後選取 [新增到「接著播放」]，這樣就能直接新增節目。</string>
+    <string name="play_next_setting_summary">自訂你的「接著播放」頻道</string>
     <string name="play_next_setting_title">接著播放</string>
     <string name="play_next_settings_panel_title">接著播放</string>
     <string name="play_next_type_watch_list_text">已新增到「接著播放」</string>

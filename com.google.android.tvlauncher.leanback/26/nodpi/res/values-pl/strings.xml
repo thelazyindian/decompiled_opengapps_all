@@ -169,7 +169,6 @@
     <string name="description_us_tv_y">Program został przygotowany tak, by był odpowiedni dla wszystkich dzieci.</string>
     <string name="description_us_tv_y7">Program został przygotowany dla dzieci od 7 roku życia.</string>
     <string name="downloading">Pobieram</string>
-    <string name="empty_channel_content_description">Na tym kanale nie ma dostępnych programów</string>
     <string name="empty_channel_message">Kanał jest pusty</string>
     <string name="exo_controls_fastforward_description">Przewiń do przodu</string>
     <string name="exo_controls_next_description">Następny utwór</string>
@@ -190,6 +189,8 @@
     <string name="greater_than_nine_notifs_text">9+</string>
     <string name="guide_view_title">Kanały</string>
     <string name="home_configure_channels_description_text">Na ekranie głównym możesz dodawać i usuwać kanały</string>
+    <string name="home_screen_channels_group_summary">Wybierz kanały na ekran główny. Puste się nie pokażą.</string>
+    <string name="home_screen_channels_group_title">Kanały na ekranie głównym</string>
     <string name="home_screen_preview_audio_enable">Włącz podgląd dźwięku</string>
     <string name="home_screen_preview_video_enable">Włącz podgląd obrazu</string>
     <string name="input_name_and_input_status">%1$s – %2$s</string>
@@ -255,6 +256,7 @@
     <string name="other_countries">Inne kraje</string>
     <string name="play_next_channel_title">Następne</string>
     <string name="play_next_last_item_message">Tu pojawiają się programy i filmy, które zaczynasz oglądać. Jeśli chcesz dodać film lub program samodzielnie, przytrzymaj na nim przycisk i wybierz: „Dodaj do kolejki Następne”.</string>
+    <string name="play_next_setting_summary">Dostosuj kanał Następne</string>
     <string name="play_next_setting_title">Następne</string>
     <string name="play_next_settings_panel_title">Następne</string>
     <string name="play_next_type_watch_list_text">Dodano do kolejki Następne</string>

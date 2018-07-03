@@ -49,7 +49,6 @@
     <item type="id" name="bar3">false</item>
     <item type="id" name="big_picture">false</item>
     <item type="id" name="blocking_loading">false</item>
-    <item type="id" name="bottom_layer">false</item>
     <item type="id" name="bottom_spacer">false</item>
     <item type="id" name="browse_container_dock">false</item>
     <item type="id" name="browse_dummy">false</item>
@@ -68,6 +67,7 @@
     <item type="id" name="button_title">false</item>
     <item type="id" name="cancel_action">false</item>
     <item type="id" name="channel_actions_padding">false</item>
+    <item type="id" name="channel_empty_message">false</item>
     <item type="id" name="channel_logo">false</item>
     <item type="id" name="checkbox">false</item>
     <item type="id" name="chronometer">false</item>
@@ -229,7 +229,6 @@
     <item type="id" name="list">false</item>
     <item type="id" name="list_item">false</item>
     <item type="id" name="logo">false</item>
-    <item type="id" name="logo_layer">false</item>
     <item type="id" name="logo_title">false</item>
     <item type="id" name="logo_title_zoomed_out">false</item>
     <item type="id" name="main_container">false</item>
@@ -252,7 +251,6 @@
     <item type="id" name="meta_container_without_description">false</item>
     <item type="id" name="mic_disabled_icon">false</item>
     <item type="id" name="mic_orb">false</item>
-    <item type="id" name="middle_layer">false</item>
     <item type="id" name="more_actions_dock">false</item>
     <item type="id" name="move">false</item>
     <item type="id" name="move_channel_padding">false</item>
@@ -387,7 +385,6 @@
     <item type="id" name="title_template">false</item>
     <item type="id" name="title_text">false</item>
     <item type="id" name="topPanel">false</item>
-    <item type="id" name="top_layer">false</item>
     <item type="id" name="top_row">false</item>
     <item type="id" name="total_time">false</item>
     <item type="id" name="transitionPosition">false</item>

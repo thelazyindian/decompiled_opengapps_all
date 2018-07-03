@@ -169,7 +169,6 @@
     <string name="description_us_tv_y">Эта программа предназначена для детей любого возраста.</string>
     <string name="description_us_tv_y7">Эта программа предназначена для детей старше 7 лет.</string>
     <string name="downloading">Скачивание…</string>
-    <string name="empty_channel_content_description">На этом канале нет программ</string>
     <string name="empty_channel_message">На канале ничего нет</string>
     <string name="exo_controls_fastforward_description">Перемотать вперед</string>
     <string name="exo_controls_next_description">Следующий трек</string>
@@ -190,6 +189,8 @@
     <string name="greater_than_nine_notifs_text">9+</string>
     <string name="guide_view_title">Каналы</string>
     <string name="home_configure_channels_description_text">Добавить каналы на главный экран или удалить их оттуда</string>
+    <string name="home_screen_channels_group_summary">Выбор каналов, доступных на главном экране (пустые каналы не будут видны).</string>
+    <string name="home_screen_channels_group_title">Каналы на главном экране</string>
     <string name="home_screen_preview_audio_enable">Включить предпрослушивание аудио</string>
     <string name="home_screen_preview_video_enable">Включить предпросмотр видео</string>
     <string name="input_name_and_input_status">%1$s – %2$s</string>
@@ -255,6 +256,7 @@
     <string name="other_countries">Другие страны</string>
     <string name="play_next_channel_title">Избранное</string>
     <string name="play_next_last_item_message">Здесь будет собрано все, что вы начали смотреть. Чтобы добавить ещё, нажмите на видео и удерживайте, а затем выберите \"Добавить в Избранное\".</string>
+    <string name="play_next_setting_summary">Настройка канала \"Избранное\"</string>
     <string name="play_next_setting_title">Избранное</string>
     <string name="play_next_settings_panel_title">Избранное</string>
     <string name="play_next_type_watch_list_text">Добавлено в \"Избранное\"</string>

@@ -169,7 +169,6 @@
     <string name="description_us_tv_y">이 프로그램은 모든 어린이에게 적합하도록 제작되었습니다.</string>
     <string name="description_us_tv_y7">이 프로그램은 만 7세 이상의 어린이를 위해 제작되었습니다.</string>
     <string name="downloading">다운로드 중</string>
-    <string name="empty_channel_content_description">이 채널에는 시청 가능한 프로그램이 없습니다.</string>
     <string name="empty_channel_message">채널이 비어 있음</string>
     <string name="exo_controls_fastforward_description">빨리 감기</string>
     <string name="exo_controls_next_description">다음 트랙</string>
@@ -190,6 +189,8 @@
     <string name="greater_than_nine_notifs_text">9+</string>
     <string name="guide_view_title">채널</string>
     <string name="home_configure_channels_description_text">홈 화면의 채널 추가 및 삭제</string>
+    <string name="home_screen_channels_group_summary">홈 화면에 표시되는 채널을 선택하세요. 빈 채널은 표시되지 않습니다.</string>
+    <string name="home_screen_channels_group_title">홈 화면 채널</string>
     <string name="home_screen_preview_audio_enable">모디오 미리보기 사용 설정</string>
     <string name="home_screen_preview_video_enable">동영상 미리보기 사용 설정</string>
     <string name="input_name_and_input_status">%1$s - %2$s</string>
@@ -255,6 +256,7 @@
     <string name="other_countries">기타 국가</string>
     <string name="play_next_channel_title">관심 목록</string>
     <string name="play_next_last_item_message">"시청하기 시작한 TV 프로그램 및 영화가 여기에 자동으로 표시됩니다. 또한 영화 또는 TV 프로그램을 길게 누르고 '관심 목록에 추가'를 선택하여 프로그램을 바로 추가할 수도 있습니다."</string>
+    <string name="play_next_setting_summary">관심 목록 채널 맞춤설정</string>
     <string name="play_next_setting_title">관심 목록</string>
     <string name="play_next_settings_panel_title">관심 목록</string>
     <string name="play_next_type_watch_list_text">관심 목록에 추가됨</string>

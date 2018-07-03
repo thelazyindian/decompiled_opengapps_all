@@ -169,7 +169,6 @@
     <string name="description_us_tv_y">Тази програма е създадена, за да бъде подходяща за всички деца.</string>
     <string name="description_us_tv_y7">Тази програма е създадена за деца на възраст над 7 години.</string>
     <string name="downloading">Изтегля се</string>
-    <string name="empty_channel_content_description">За този канал няма налични програми</string>
     <string name="empty_channel_message">В канала няма нищо</string>
     <string name="exo_controls_fastforward_description">Превъртане напред</string>
     <string name="exo_controls_next_description">Следващ запис</string>
@@ -190,6 +189,8 @@
     <string name="greater_than_nine_notifs_text">9+</string>
     <string name="guide_view_title">Канали</string>
     <string name="home_configure_channels_description_text">Добавяйте канали на началния си екран и ги премахвайте от него</string>
+    <string name="home_screen_channels_group_summary">Изберете кои канали да се показват на нач. екран. Празните няма да се показват.</string>
+    <string name="home_screen_channels_group_title">Канали на началния екран</string>
     <string name="home_screen_preview_audio_enable">Активиране на аудиоизвадките</string>
     <string name="home_screen_preview_video_enable">Активиране на визуализацията на видеоклипове</string>
     <string name="input_name_and_input_status">%1$s – %2$s</string>
@@ -255,6 +256,7 @@
     <string name="other_countries">Други държави</string>
     <string name="play_next_channel_title">За пускане</string>
     <string name="play_next_last_item_message">ТВ пред./филмите, които почнете да гледате, автом. ще се показват тук. Можете да добавяте програми и директно, като натиснете продълж. върху филм/ТВ пред. и изберете „Добавяне към „За пускане“.</string>
+    <string name="play_next_setting_summary">Персонал. на канала „За пускане“</string>
     <string name="play_next_setting_title">За пускане</string>
     <string name="play_next_settings_panel_title">За пускане</string>
     <string name="play_next_type_watch_list_text">Добавено към „За пускане“</string>
