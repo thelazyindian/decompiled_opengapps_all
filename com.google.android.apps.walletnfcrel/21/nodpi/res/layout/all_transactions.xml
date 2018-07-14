@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:id="@id/BottomShadow" android:layout_width="fill_parent" android:layout_height="8.0dip" android:src="@drawable/tp_bottom_shadow_white" android:contentDescription="@null" />
+    <TextView android:textAppearance="@style/Text_Caption.Black54" android:gravity="center" android:id="@id/ViewAllTransactionsItem" android:padding="@dimen/default_spacing" android:layout_width="fill_parent" android:layout_height="wrap_content" android:minHeight="48.0dip" android:text="@string/all_transactions_note_text" />
+</LinearLayout>

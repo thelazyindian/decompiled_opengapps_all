@@ -5,12 +5,12 @@
         <item quantity="one">Lisää enintään %d muu henkilö</item>
     </plurals>
     <plurals name="notification_message_nfc_event_ticket_clo">
-        <item quantity="other">%1$d tarjousta käytettävissä %2$s-tapahtumalipulla</item>
-        <item quantity="one">%1$d tarjous käytettävissä %2$s-tapahtumalipulla</item>
+        <item quantity="other">%1$d tarjousta saatavilla lipullasi</item>
+        <item quantity="one">%1$d tarjous saatavilla lipullasi</item>
     </plurals>
     <plurals name="notification_message_nfc_flight_clo">
-        <item quantity="other">%1$d tarjous käytettävissä lentoyhtiön %2$s lennolla</item>
-        <item quantity="one">%1$d tarjous käytettävissä lentoyhtiön %2$s lennolla</item>
+        <item quantity="other">%1$d tarjousta saatavilla kortilla</item>
+        <item quantity="one">%1$d tarjous saatavilla kortilla</item>
     </plurals>
     <plurals name="notification_message_nfc_gift_clo">
         <item quantity="other">%1$d tarjousta käytettävissä %2$s-lahjakortilla</item>
@@ -31,10 +31,6 @@
     <plurals name="notification_title_clo_at_place">
         <item quantity="other">%1$d tarjousta käytettävissä, tarjoajana %2$s</item>
         <item quantity="one">%1$d tarjous käytettävissä, tarjoajana %2$s</item>
-    </plurals>
-    <plurals name="requests_quantity">
-        <item quantity="other">%d pyyntöä</item>
-        <item quantity="one">%d pyyntö</item>
     </plurals>
     <plurals name="split_subtitle">
         <item quantity="other">Jaa %1$s tasan %2$d henkilön kesken</item>

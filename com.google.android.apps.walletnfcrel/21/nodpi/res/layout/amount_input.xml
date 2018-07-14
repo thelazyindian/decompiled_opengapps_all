@@ -6,5 +6,5 @@
     <FrameLayout android:id="@id/EntryContainer" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_below="@id/AmountLabel" android:layout_toEndOf="@id/AmountIcon">
         <Spinner android:id="@id/SelectAmount" android:layout_width="fill_parent" android:layout_height="@dimen/minimum_touch_target" style="@style/ProcessPaymentDropDown" />
     </FrameLayout>
-    <TextView android:textAppearance="@style/Text_Caption.Black54" android:gravity="top" android:id="@id/CurrentBalance" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="@dimen/dropdown_bottom_spacing" android:layout_below="@id/EntryContainer" android:layout_toEndOf="@id/AmountIcon" />
+    <TextView android:textAppearance="@style/Text_Caption.Black54" android:gravity="top" android:id="@id/CurrentBalance" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_below="@id/EntryContainer" android:layout_toEndOf="@id/AmountIcon" />
 </RelativeLayout>

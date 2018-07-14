@@ -4,12 +4,18 @@
     <android.support.v7.widget.Toolbar android:id="@id/Toolbar" style="@style/Toolbar" />
     <ScrollView android:layout_width="fill_parent" android:layout_height="fill_parent">
         <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:divider="@drawable/settings_divider" android:showDividers="middle">
-            <com.google.commerce.tapandpay.android.settings.widgets.SettingSwitch android:id="@id/email_opted_in_switch" android:title="@string/email_opted_in_switch_title" android:summary="@string/email_opted_in_switch_description" style="@style/SettingContainerStyle" />
+            <com.google.commerce.tapandpay.android.settings.widgets.SettingSwitch android:id="@id/email_opted_in_switch" android:title="@string/email_opted_in_switch_title" android:summary="@string/email_opted_in_switch_description" style="@style/SettingSwitchStyle" />
+            <RelativeLayout android:id="@id/edit_account_info" android:layout_width="fill_parent" android:layout_height="wrap_content" style="@style/SettingContainerStyle">
+                <ImageView android:id="@id/EditAccountLink" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/quantum_ic_launch_grey600_24" android:layout_centerVertical="true" android:paddingStart="@dimen/default_spacing" android:layout_alignParentEnd="true" />
+                <TextView android:id="@id/EditAccountTitle" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/edit_account_info_title" android:layout_toStartOf="@id/EditAccountLink" android:layout_alignParentStart="true" style="@style/SettingTitle" />
+                <TextView android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/edit_account_info_description" android:layout_below="@id/EditAccountTitle" android:layout_toStartOf="@id/EditAccountLink" android:layout_alignParentStart="true" style="@style/SettingDescription" />
+            </RelativeLayout>
             <LinearLayout android:orientation="vertical" android:id="@id/customer_selector_item" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" style="@style/SettingContainerStyle">
                 <TextView android:textAppearance="@style/Text_Header" android:paddingBottom="@dimen/narrow_spacing" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/default_payments_profile_heading" />
                 <TextView android:textAppearance="@style/Text_Subhead" android:paddingBottom="@dimen/narrow_spacing" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/default_payments_profile_subheading" />
                 <TextView android:textAppearance="@style/Text_Subhead" android:id="@id/payments_profile_name" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" />
                 <TextView android:textAppearance="@style/Text_Subhead" android:id="@id/payments_profile_id" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+                <TextView android:textAppearance="@style/Text_Subhead" android:id="@id/payments_profile_country" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" />
                 <TextView android:id="@id/customer_selector_link" android:paddingTop="@dimen/narrow_spacing" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/customer_selector_link_text" style="@style/Text_Button.Action" />
             </LinearLayout>
         </LinearLayout>

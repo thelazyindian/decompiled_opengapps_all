@@ -1,35 +1,55 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ScrollView android:scrollbarStyle="outsideOverlay" android:layout_width="fill_parent" android:layout_height="fill_parent" android:fillViewport="true"
+<RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
   xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
-    <LinearLayout android:layout_gravity="center_horizontal" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:paddingStart="@dimen/medium_spacing" android:paddingEnd="@dimen/medium_spacing">
-        <ImageView android:layout_gravity="center" android:id="@id/Avatar" android:focusable="true" android:focusableInTouchMode="true" android:layout_width="@dimen/reminder_avatar_size" android:layout_height="@dimen/reminder_avatar_size" android:layout_margin="@dimen/default_spacing" android:src="@drawable/product_logo_avatar_anonymous_color_48" android:contentDescription="@string/reminder_editor_avatar_content_description">
-            <requestFocus />
-        </ImageView>
-        <TextView android:gravity="center" android:id="@id/Name" android:layout_width="fill_parent" android:layout_height="wrap_content" android:textAlignment="center" style="@style/Text_Subhead" />
-        <TextView android:gravity="center" android:id="@id/Identifier" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/very_narrow_spacing" android:layout_marginBottom="@dimen/narrow_spacing" android:textAlignment="center" style="@style/Text_Body.Black54" />
-        <com.google.commerce.tapandpay.android.widgets.validation.ValidatedCurrencyEditText android:id="@id/MoneyEntry" android:paddingTop="@dimen/very_narrow_spacing" android:layout_width="fill_parent" android:layout_height="wrap_content" android:maxLength="10" />
-        <View android:background="@color/tp_divider_black_12_percent" android:layout_width="fill_parent" android:layout_height="1.0dip" android:layout_marginTop="0.0dip" android:layout_marginBottom="@dimen/default_spacing" />
-        <RadioGroup android:orientation="horizontal" android:id="@id/TransferType" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/default_spacing">
-            <RadioButton android:textAppearance="@style/Text_Subhead.Black54" android:id="@id/RadioSend" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/reminder_editor_radio_type_send" android:layout_marginEnd="@dimen/default_spacing" />
-            <RadioButton android:textAppearance="@style/Text_Subhead.Black54" android:id="@id/RadioRequest" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/reminder_editor_radio_type_request" />
-        </RadioGroup>
-        <Spinner android:id="@id/Frequency" android:layout_width="fill_parent" android:layout_height="wrap_content" />
-        <include layout="@layout/reminder_list_divider" />
-        <RelativeLayout android:layout_width="fill_parent" android:layout_height="wrap_content">
-            <Spinner android:id="@id/Occurrence" android:layout_width="fill_parent" android:layout_height="wrap_content" />
-            <View android:id="@id/OccurrenceInterceptor" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_alignTop="@id/Occurrence" android:layout_alignBottom="@id/Occurrence" android:layout_alignStart="@id/Occurrence" android:layout_alignEnd="@id/Occurrence" />
-        </RelativeLayout>
-        <include layout="@layout/reminder_list_divider" />
-        <Spinner android:id="@id/Time" android:layout_width="fill_parent" android:layout_height="wrap_content" />
-        <include android:layout_width="fill_parent" android:layout_height="1.0dip" android:layout_marginTop="@dimen/very_narrow_spacing" android:layout_marginBottom="@dimen/narrow_spacing" layout="@layout/reminder_list_divider" />
-        <android.support.design.widget.TextInputLayout android:layout_width="fill_parent" android:layout_height="wrap_content" android:paddingStart="0.0dip" android:paddingEnd="0.0dip">
-            <android.support.design.widget.TextInputEditText android:textAppearance="@style/Text_Subhead.Thin" android:id="@id/Note" android:background="@android:color/transparent" android:paddingTop="@dimen/very_narrow_spacing" android:layout_width="fill_parent" android:layout_height="wrap_content" android:hint="@string/reminder_editor_note_hint" android:inputType="textMultiLine" />
-        </android.support.design.widget.TextInputLayout>
-        <include layout="@layout/reminder_list_divider" />
-        <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/narrow_spacing">
-            <ImageView android:layout_width="24.0dip" android:layout_height="24.0dip" android:tint="@color/tp_text_black_54_percent" android:contentDescription="@string/reminders_item_icon_content_description" android:layout_marginEnd="@dimen/default_spacing" app:srcCompat="@drawable/quantum_ic_reminder_vd_theme_24" />
-            <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/reminder_editor_other_apps" style="@style/Text_Subhead.Thin.Black38" />
+    <android.support.v7.widget.Toolbar android:id="@id/Toolbar" android:layout_alignParentTop="true" style="@style/Toolbar" />
+    <ScrollView android:scrollbarStyle="outsideOverlay" android:layout_width="fill_parent" android:layout_height="fill_parent" android:fillViewport="true" android:layout_below="@id/Toolbar">
+        <LinearLayout android:layout_gravity="center_horizontal" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:paddingStart="@dimen/medium_spacing" android:paddingEnd="@dimen/medium_spacing">
+            <ImageView android:layout_gravity="center" android:id="@id/Avatar" android:focusable="true" android:focusableInTouchMode="true" android:layout_width="@dimen/reminder_avatar_size" android:layout_height="@dimen/reminder_avatar_size" android:layout_margin="@dimen/narrow_spacing" android:src="@drawable/product_logo_avatar_anonymous_color_48" android:contentDescription="@string/reminder_editor_avatar_content_description">
+                <requestFocus />
+            </ImageView>
+            <TextView android:gravity="center" android:id="@id/Name" android:layout_width="fill_parent" android:layout_height="wrap_content" android:textAlignment="center" style="@style/Text_Header.Sans.Large" />
+            <TextView android:gravity="center" android:id="@id/Identifier" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/very_narrow_spacing" android:layout_marginBottom="@dimen/narrow_spacing" android:textAlignment="center" style="@style/Text_Body.Black54" />
+            <RadioGroup android:gravity="center" android:orientation="horizontal" android:id="@id/TransferType" android:layout_width="fill_parent" android:layout_height="@dimen/reminder_radio_button_view_height" android:layout_marginBottom="@dimen/reminder_radio_button_bottom_margin">
+                <RadioButton android:textAppearance="@style/Text_Header" android:id="@id/RadioSend" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/reminder_editor_radio_type_send" android:layout_marginEnd="@dimen/medium_spacing" />
+                <RadioButton android:textAppearance="@style/Text_Header" android:id="@id/RadioRequest" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/reminder_editor_radio_type_request" />
+            </RadioGroup>
+            <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/large_spacing">
+                <TextView android:textSize="24.0sp" android:textColor="@color/googlepay_gray700" android:gravity="center" android:id="@id/RemindersCurrencySymbol" android:layout_width="@dimen/medium_spacing" android:layout_height="wrap_content" android:layout_marginTop="@dimen/very_narrow_spacing" android:fontFamily="@font/google_sans" android:layout_marginStart="@dimen/very_narrow_spacing" android:layout_marginEnd="@dimen/medium_spacing" />
+                <LinearLayout android:orientation="vertical" android:layout_width="wrap_content" android:layout_height="wrap_content">
+                    <com.google.commerce.tapandpay.android.widgets.validation.ValidatedCurrencyEditText android:id="@id/MoneyEntry" android:layout_width="fill_parent" android:layout_height="wrap_content" android:maxLength="10" />
+                    <include android:layout_width="fill_parent" android:layout_height="1.0dip" layout="@layout/reminder_list_divider" />
+                </LinearLayout>
+            </LinearLayout>
+            <LinearLayout android:orientation="horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/large_spacing">
+                <ImageView android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/very_narrow_spacing" android:src="@drawable/quantum_ic_event_vd_theme_24" android:tint="@color/googlepay_gray700" android:contentDescription="@string/reminder_editor_recurrence_content_description" android:layout_marginStart="@dimen/very_narrow_spacing" android:layout_marginEnd="@dimen/medium_spacing" />
+                <LinearLayout android:layout_gravity="bottom" android:orientation="vertical" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_weight="1.0">
+                    <Spinner android:id="@id/Frequency" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+                    <include android:layout_width="fill_parent" android:layout_height="1.0dip" layout="@layout/reminder_list_divider" />
+                </LinearLayout>
+                <View android:layout_width="@dimen/medium_spacing" android:layout_height="fill_parent" />
+                <RelativeLayout android:layout_gravity="bottom" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_weight="1.0">
+                    <Spinner android:id="@id/Occurrence" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+                    <View android:id="@id/OccurrenceInterceptor" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_alignTop="@id/Occurrence" android:layout_alignBottom="@id/Occurrence" android:layout_alignStart="@id/Occurrence" android:layout_alignEnd="@id/Occurrence" />
+                    <include android:layout_width="wrap_content" android:layout_height="1.0dip" android:layout_alignBottom="@id/Occurrence" android:layout_alignStart="@id/Occurrence" android:layout_alignEnd="@id/Occurrence" layout="@layout/reminder_list_divider" />
+                </RelativeLayout>
+            </LinearLayout>
+            <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/medium_spacing">
+                <ImageView android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/very_narrow_spacing" android:src="@drawable/quantum_ic_schedule_vd_theme_24" android:tint="@color/googlepay_gray700" android:contentDescription="@string/reminder_editor_time_content_description" android:layout_marginStart="@dimen/very_narrow_spacing" android:layout_marginEnd="@dimen/medium_spacing" />
+                <LinearLayout android:orientation="vertical" android:layout_width="wrap_content" android:layout_height="wrap_content">
+                    <Spinner android:id="@id/Time" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+                    <include android:layout_width="fill_parent" android:layout_height="1.0dip" layout="@layout/reminder_list_divider" />
+                </LinearLayout>
+            </LinearLayout>
+            <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/large_spacing">
+                <ImageView android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="18.0dip" android:src="@drawable/quantum_ic_edit_vd_theme_24" android:tint="@color/googlepay_gray700" android:contentDescription="@string/reminder_editor_personal_note_content_description" android:layout_marginStart="@dimen/very_narrow_spacing" android:layout_marginEnd="@dimen/medium_spacing" />
+                <LinearLayout android:orientation="vertical" android:id="@id/NoteContainer" android:layout_width="wrap_content" android:layout_height="wrap_content">
+                    <android.support.design.widget.TextInputLayout android:layout_width="fill_parent" android:layout_height="wrap_content" android:minHeight="@dimen/minimum_touch_target" android:paddingStart="0.0dip" android:paddingEnd="0.0dip">
+                        <android.support.design.widget.TextInputEditText android:textAppearance="@style/Text_Header" android:id="@id/Note" android:background="@android:color/transparent" android:layout_width="fill_parent" android:layout_height="fill_parent" android:hint="@string/reminder_editor_note_hint" android:inputType="textMultiLine" />
+                    </android.support.design.widget.TextInputLayout>
+                    <include android:layout_width="fill_parent" android:layout_height="1.0dip" layout="@layout/reminder_list_divider" />
+                </LinearLayout>
+            </LinearLayout>
+            <android.support.design.button.MaterialButton android:layout_gravity="center" android:id="@id/SaveButton" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/default_spacing" android:minWidth="@dimen/reminder_min_button_width" android:text="@string/reminder_editor_save_button" style="@style/Widget.GoogleMaterial.Button" />
         </LinearLayout>
-        <android.support.design.button.MaterialButton android:layout_gravity="end" android:id="@id/SaveButton" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/default_spacing" android:layout_marginBottom="@dimen/default_spacing" android:minWidth="@dimen/reminder_min_button_width" android:text="@string/reminder_editor_save_button" style="@style/Widget.GoogleMaterial.Button" />
-    </LinearLayout>
-</ScrollView>
+    </ScrollView>
+</RelativeLayout>

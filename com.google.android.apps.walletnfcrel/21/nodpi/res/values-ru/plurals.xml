@@ -7,16 +7,16 @@
         <item quantity="many">Вы можете добавить ещё %d пользователей.</item>
     </plurals>
     <plurals name="notification_message_nfc_event_ticket_clo">
-        <item quantity="other">Действуют %1$d специального предложения от билетного сервиса \"%2$s\"</item>
-        <item quantity="one">Действует %1$d специальное предложение от билетного сервиса \"%2$s\"</item>
-        <item quantity="few">Действуют %1$d специальных предложения от билетного сервиса \"%2$s\"</item>
-        <item quantity="many">Действуют %1$d специальных предложений от билетного сервиса \"%2$s\"</item>
+        <item quantity="other">С вашим билетом действуют %1$d предложения</item>
+        <item quantity="one">С вашим билетом действует %1$d предложение</item>
+        <item quantity="few">С вашим билетом действуют %1$d предложения</item>
+        <item quantity="many">С вашим билетом действуют %1$d предложений</item>
     </plurals>
     <plurals name="notification_message_nfc_flight_clo">
-        <item quantity="other">Действуют %1$d специального предложения от авиакомпании \"%2$s\"</item>
-        <item quantity="one">Действует %1$d специальное предложение от авиакомпании \"%2$s\"</item>
-        <item quantity="few">Действуют %1$d специальных предложения от авиакомпании \"%2$s\"</item>
-        <item quantity="many">Действуют %1$d специальных предложений от авиакомпании \"%2$s\"</item>
+        <item quantity="other">С вашим посадочным талоном действуют %1$d предложения</item>
+        <item quantity="one">С вашим посадочным талоном действует %1$d предложение</item>
+        <item quantity="few">С вашим посадочным талоном действуют %1$d предложения</item>
+        <item quantity="many">С вашим посадочным талоном действуют %1$d предложений</item>
     </plurals>
     <plurals name="notification_message_nfc_gift_clo">
         <item quantity="other">Действуют %1$d специального предложения для держателей подарочных карт \"%2$s\"</item>
@@ -47,12 +47,6 @@
         <item quantity="one">%2$s: действует %1$d специальное предложение</item>
         <item quantity="few">%2$s: действуют %1$d специальных предложения</item>
         <item quantity="many">%2$s: действуют %1$d специальных предложений</item>
-    </plurals>
-    <plurals name="requests_quantity">
-        <item quantity="other">%d запроса</item>
-        <item quantity="one">%d запрос</item>
-        <item quantity="few">%d запроса</item>
-        <item quantity="many">%d запросов</item>
     </plurals>
     <plurals name="split_subtitle">
         <item quantity="other">Разделить счет на сумму %1$s с %2$d пользователями</item>

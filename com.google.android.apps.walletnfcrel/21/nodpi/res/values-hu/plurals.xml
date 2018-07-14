@@ -5,12 +5,12 @@
         <item quantity="one">Legfeljebb még %d személy adható meg</item>
     </plurals>
     <plurals name="notification_message_nfc_event_ticket_clo">
-        <item quantity="other">%1$d ajánlat áll rendelkezésre a(z) %2$s-belépőjeggyel</item>
-        <item quantity="one">%1$d ajánlat áll rendelkezésre a(z) %2$s-belépőjeggyel</item>
+        <item quantity="other">%1$d ajánlat áll rendelkezésre a jegyével</item>
+        <item quantity="one">%1$d ajánlat áll rendelkezésre a jegyével</item>
     </plurals>
     <plurals name="notification_message_nfc_flight_clo">
-        <item quantity="other">%1$d ajánlat várja a(z) %2$s járatán</item>
-        <item quantity="one">%1$d ajánlat várja a(z) %2$s járatán</item>
+        <item quantity="other">%1$d ajánlat áll rendelkezésre a beszállókártyájával</item>
+        <item quantity="one">%1$d ajánlat áll rendelkezésre a beszállókártyájával</item>
     </plurals>
     <plurals name="notification_message_nfc_gift_clo">
         <item quantity="other">%1$d ajánlat áll rendelkezésre a(z) %2$s-ajándékutalvánnyal</item>
@@ -31,10 +31,6 @@
     <plurals name="notification_title_clo_at_place">
         <item quantity="other">%1$d ajánlat várja itt: %2$s</item>
         <item quantity="one">%1$d ajánlat várja itt: %2$s</item>
-    </plurals>
-    <plurals name="requests_quantity">
-        <item quantity="other">%d kérelem</item>
-        <item quantity="one">%d kérelem</item>
     </plurals>
     <plurals name="split_subtitle">
         <item quantity="other">%1$s megosztása %2$d személlyel</item>

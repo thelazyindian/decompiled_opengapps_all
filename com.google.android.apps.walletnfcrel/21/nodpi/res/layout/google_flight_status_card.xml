@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView android:id="@id/Card" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_margin="6.0dip" app:cardCornerRadius="8.0dip" app:cardElevation="4.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="8.0dip" android:layout_marginBottom="16.0dip" android:layout_marginStart="12.0dip" android:layout_marginEnd="12.0dip">
+            <TextView android:textAppearance="@style/Text_GooglePay_Overline" android:textColor="@color/google_grey700" android:gravity="start" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="4.0dip" android:text="@string/flight_status_card_from_google" />
+            <TextView android:textAppearance="@style/Text_GooglePay_Headline5" android:gravity="start" android:id="@id/FlightStatusCardFlightNumber" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="4.0dip" android:layout_marginBottom="4.0dip" />
+            <LinearLayout android:orientation="horizontal" android:id="@id/FlightStatusCardBoardingLayout" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="4.0dip" android:layout_marginBottom="4.0dip">
+                <TextView android:textAppearance="@style/Text_GooglePay_Headline6" android:textColor="@color/google_grey700" android:gravity="start" android:id="@id/FlightStatusCardTerminal" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_weight="1.0" />
+                <TextView android:textAppearance="@style/Text_GooglePay_Headline6" android:textColor="@color/google_grey700" android:gravity="end" android:id="@id/FlightStatusCardGate" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_weight="1.0" />
+            </LinearLayout>
+            <LinearLayout android:orientation="horizontal" android:id="@id/FlightStatusCardStatusLayout" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="4.0dip" android:layout_marginBottom="4.0dip">
+                <TextView android:textAppearance="@style/Text_GooglePay_Headline6" android:gravity="start" android:id="@id/FlightStatusCardStatus" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_weight="1.0" />
+                <TextView android:textAppearance="@style/Text_GooglePay_Headline6" android:textColor="@color/google_grey700" android:gravity="end" android:id="@id/FlightStatusCardActivity" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_weight="1.0" />
+            </LinearLayout>
+            <TextView android:textAppearance="@style/Text_GooglePay_Headline6" android:textColor="@color/google_grey700" android:gravity="center" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="8.0dip" android:text="@string/flight_status_card_instructions" />
+        </LinearLayout>
+        <LinearLayout android:orientation="vertical" android:id="@id/ViewOnWebLayout" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <View android:background="@color/quantum_black_divider" android:layout_width="fill_parent" android:layout_height="1.0dip" />
+            <android.support.design.button.MaterialButton android:id="@id/ViewOnWebButton" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/flight_status_card_view_on_web" style="@style/Widget.GoogleMaterial.TextButton" />
+        </LinearLayout>
+    </LinearLayout>
+</android.support.v7.widget.CardView>

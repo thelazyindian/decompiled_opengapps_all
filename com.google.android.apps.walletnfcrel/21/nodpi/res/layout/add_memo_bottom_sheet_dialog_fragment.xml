@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:gravity="center_vertical" android:padding="@dimen/default_spacing" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:id="@id/EditIcon" android:background="@drawable/quantum_ic_mode_edit_black_24" android:layout_width="wrap_content" android:layout_height="wrap_content" android:adjustViewBounds="true" android:layout_centerVertical="true" android:contentDescription="@null" android:layout_marginEnd="@dimen/default_spacing" android:layout_alignParentStart="true" />
+    <android.support.design.button.MaterialButton android:id="@id/MemoDoneButton" android:layout_width="wrap_content" android:layout_height="wrap_content" android:maxWidth="@dimen/bottom_sheet_dialog_positive_button_max_width" android:text="@string/done_button_memo" android:maxLines="1" android:layout_centerVertical="true" android:layout_alignParentEnd="true" style="@style/Widget.GoogleMaterial.TextButton" />
+    <EditText android:gravity="center_vertical" android:id="@id/EditTextMarquee" android:background="@android:color/transparent" android:layout_width="fill_parent" android:layout_height="wrap_content" android:hint="@string/memo_hint" android:singleLine="true" android:layout_centerVertical="true" android:inputType="textCapSentences" android:layout_toStartOf="@id/MemoDoneButton" android:layout_toEndOf="@id/EditIcon" style="@style/Text_Body_2" />
+</RelativeLayout>

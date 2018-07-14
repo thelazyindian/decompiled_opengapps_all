@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:id="@id/EmptyView" android:background="@color/googlepay_white" android:paddingBottom="@dimen/empty_state_bottom_padding" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent" android:paddingStart="@dimen/medium_spacing" android:paddingEnd="@dimen/medium_spacing"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:id="@id/EmptyViewTitle" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/large_spacing" android:textAlignment="center" style="@style/Text_Headline" />
+    <TextView android:id="@id/EmptyViewSubtitle" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/narrow_spacing" android:textAlignment="center" style="@style/Text_Body" />
+    <com.airbnb.lottie.LottieAnimationView android:layout_gravity="center_horizontal" android:id="@id/EmptyViewAnimation" android:focusable="false" android:layout_width="wrap_content" android:layout_height="0.0dip" android:layout_weight="1.0" android:contentDescription="@null" />
+</LinearLayout>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <android.support.constraint.Guideline android:orientation="horizontal" android:id="@id/guidelineHorizontal" android:layout_width="wrap_content" android:layout_height="wrap_content" app:layout_constraintGuide_percent="0.17" />
+    <android.support.constraint.Guideline android:orientation="vertical" android:id="@id/guidelineVertical" android:layout_width="wrap_content" android:layout_height="wrap_content" app:layout_constraintGuide_percent="0.5" />
+    <ImageView android:id="@id/animationView" android:layout_width="@dimen/tp_tap_ui_animationView_size" android:layout_height="@dimen/tp_tap_ui_animationView_size" android:scaleType="fitXY" android:elevation="8.0dip" app:layout_constraintBottom_toTopOf="@id/guidelineHorizontal" app:layout_constraintLeft_toLeftOf="@id/guidelineVertical" app:layout_constraintRight_toLeftOf="@id/guidelineVertical" app:layout_constraintTop_toTopOf="@id/guidelineHorizontal" app:srcCompat="@drawable/nfc_logo" />
+    <LinearLayout android:gravity="center_horizontal" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" app:layout_constraintTop_toBottomOf="@id/animationView">
+        <Space android:layout_width="fill_parent" android:layout_height="12.0dip" />
+        <TextView android:textAppearance="@style/Text_GooglePay_Headline4" android:gravity="center" android:id="@id/SmartTapValuablesDisambigSelectionPrompt" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_margin="16.0dip" android:text="@string/smarttap_disambig_selection_prompt" />
+        <android.support.v7.widget.RecyclerView android:orientation="horizontal" android:id="@id/SmartTapValuablesCarousel" android:paddingTop="8.0dip" android:paddingBottom="8.0dip" android:scrollbars="none" android:clipToPadding="false" android:layout_width="fill_parent" android:layout_height="wrap_content" android:elevation="4.0dip" app:layoutManager="android.support.v7.widget.LinearLayoutManager" />
+        <TextView android:textAppearance="@style/Text_GooglePay_Subhead1.Regular.Grey700" android:gravity="center" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_margin="24.0dip" android:text="@string/smarttap_disambig_hold_near_terminal_prompt" />
+    </LinearLayout>
+</android.support.constraint.ConstraintLayout>

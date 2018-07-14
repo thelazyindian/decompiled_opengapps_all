@@ -7,16 +7,16 @@
         <item quantity="many">אפשר להוסיף עוד %d משתמשים לכל היותר.</item>
     </plurals>
     <plurals name="notification_message_nfc_event_ticket_clo">
-        <item quantity="other">%1$d מבצעים זמינים ברכישת כרטיס לאירוע דרך %2$s</item>
-        <item quantity="one">מבצע %1$d זמין ברכישת כרטיס לאירוע דרך %2$s</item>
-        <item quantity="two">%1$d מבצעים זמינים ברכישת כרטיס לאירוע דרך %2$s</item>
-        <item quantity="many">%1$d מבצעים זמינים ברכישת כרטיס לאירוע דרך %2$s</item>
+        <item quantity="other">‏%1$d מבצעים זמינים עם הכרטיס שלך</item>
+        <item quantity="one">מבצע אחד (%1$d) זמין עם הכרטיס שלך</item>
+        <item quantity="two">‏%1$d מבצעים זמינים עם הכרטיס שלך</item>
+        <item quantity="many">‏%1$d מבצעים זמינים עם הכרטיס שלך</item>
     </plurals>
     <plurals name="notification_message_nfc_flight_clo">
-        <item quantity="other">%1$d מבצעים זמינים ברכישת טיסה של %2$s</item>
-        <item quantity="one">מבצע %1$d זמין ברכישת טיסה של %2$s</item>
-        <item quantity="two">%1$d מבצעים זמינים ברכישת טיסה של %2$s</item>
-        <item quantity="many">%1$d מבצעים זמינים ברכישת טיסה של %2$s</item>
+        <item quantity="other">‏%1$d מבצעים זמינים עם כרטיס העלייה שלך למטוס</item>
+        <item quantity="one">מבצע אחד (%1$d) זמין עם כרטיס העלייה שלך למטוס</item>
+        <item quantity="two">‏%1$d מבצעים זמינים עם כרטיס העלייה שלך למטוס</item>
+        <item quantity="many">‏%1$d מבצעים זמינים עם כרטיס העלייה שלך למטוס</item>
     </plurals>
     <plurals name="notification_message_nfc_gift_clo">
         <item quantity="other">%1$d מבצעים זמינים לבעלי כרטיס מתנה של %2$s</item>
@@ -47,12 +47,6 @@
         <item quantity="one">מבצע %1$d מחכה לך ב-%2$s</item>
         <item quantity="two">%1$d מבצעים מחכים לך ב-%2$s</item>
         <item quantity="many">%1$d מבצעים מחכים לך ב-%2$s</item>
-    </plurals>
-    <plurals name="requests_quantity">
-        <item quantity="other">‏%d בקשות</item>
-        <item quantity="one">בקשה אחת (%d)</item>
-        <item quantity="two">‏%d בקשות</item>
-        <item quantity="many">‏%d בקשות</item>
     </plurals>
     <plurals name="split_subtitle">
         <item quantity="other">לחלק תשלום בסך %1$s עם %2$d אנשים</item>

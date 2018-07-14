@@ -7,16 +7,16 @@
         <item quantity="many">Įveskite ne daugiau nei dar %d asmens</item>
     </plurals>
     <plurals name="notification_message_nfc_event_ticket_clo">
-        <item quantity="other">Galite pasinaudoti %1$d pasiūlymų su „%2$s“ renginio bilietu</item>
-        <item quantity="one">Galite pasinaudoti %1$d pasiūlymu su „%2$s“ renginio bilietu</item>
-        <item quantity="few">Galite pasinaudoti %1$d pasiūlymais su „%2$s“ renginio bilietu</item>
-        <item quantity="many">Galite pasinaudoti %1$d pasiūlymo su „%2$s“ renginio bilietu</item>
+        <item quantity="other">Su bilietu galite pasinaudoti %1$d pasiūlymų</item>
+        <item quantity="one">Su bilietu galite pasinaudoti %1$d pasiūlymu</item>
+        <item quantity="few">Su bilietu galite pasinaudoti %1$d pasiūlymais</item>
+        <item quantity="many">Su bilietu galite pasinaudoti %1$d pasiūlymo</item>
     </plurals>
     <plurals name="notification_message_nfc_flight_clo">
-        <item quantity="other">Galite pasinaudoti %1$d pasiūlymų su „%2$s“ skrydžiu</item>
-        <item quantity="one">Galite pasinaudoti %1$d pasiūlymu su „%2$s“ skrydžiu</item>
-        <item quantity="few">Galite pasinaudoti %1$d pasiūlymais su „%2$s“ skrydžiu</item>
-        <item quantity="many">Galite pasinaudoti %1$d pasiūlymo su „%2$s“ skrydžiu</item>
+        <item quantity="other">Su įlaipinimo bilietu galite pasinaudoti %1$d pasiūlymų</item>
+        <item quantity="one">Su įlaipinimo bilietu galite pasinaudoti %1$d pasiūlymu</item>
+        <item quantity="few">Su įlaipinimo bilietu galite pasinaudoti %1$d pasiūlymais</item>
+        <item quantity="many">Su įlaipinimo bilietu galite pasinaudoti %1$d pasiūlymo</item>
     </plurals>
     <plurals name="notification_message_nfc_gift_clo">
         <item quantity="other">Galite pasinaudoti %1$d pasiūlymų su „%2$s“ dovanų kortele</item>
@@ -47,12 +47,6 @@
         <item quantity="one">%1$d pasiūlymu galite pasinaudoti „%2$s“</item>
         <item quantity="few">%1$d pasiūlymais galite pasinaudoti „%2$s“</item>
         <item quantity="many">%1$d pasiūlymo galite pasinaudoti „%2$s“</item>
-    </plurals>
-    <plurals name="requests_quantity">
-        <item quantity="other">%d užklausų</item>
-        <item quantity="one">%d užklausa</item>
-        <item quantity="few">%d užklausos</item>
-        <item quantity="many">%d užklausos</item>
     </plurals>
     <plurals name="split_subtitle">
         <item quantity="other">Pasidalyti %1$s su %2$d žmonių</item>

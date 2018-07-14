@@ -12,7 +12,7 @@
     <style name="CardView" parent="@style/Base.CardView">
         <item name="cardBackgroundColor">?android:colorBackgroundFloating</item>
     </style>
-    <style name="Theme.GooglePay" parent="@style/Theme.GoogleMaterial.Light">
+    <style name="Theme.GooglePay.NoActionBar" parent="@style/Theme.GoogleMaterial.Light.NoActionBar">
         <item name="android:windowBackground">@color/googlepay_white</item>
         <item name="android:windowDrawsSystemBarBackgrounds">true</item>
         <item name="android:statusBarColor">@color/google_transparent</item>
@@ -20,6 +20,7 @@
         <item name="materialButtonStyle">@style/Widget.GoogleMaterial.Button</item>
         <item name="selectableItemBackground">@drawable/bounded_rippleable</item>
         <item name="selectableItemBackgroundBorderless">@drawable/unbounded_rippleable</item>
+        <item name="popupMenuStyle">@style/Widget.AppCompat.PopupMenu.Overflow</item>
         <item name="colorPrimary">@color/googlepay_white</item>
         <item name="colorPrimaryDark">@color/google_transparent</item>
         <item name="colorAccent">@color/google_blue600</item>

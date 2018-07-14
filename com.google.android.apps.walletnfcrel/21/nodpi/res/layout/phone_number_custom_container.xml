@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:paddingTop="@dimen/narrow_spacing" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/linked_phone_description" style="@style/Text_Body.Black54" />
+    <TextView android:gravity="center_vertical" android:id="@id/unlink_phone_number" android:paddingTop="@dimen/narrow_spacing" android:layout_width="fill_parent" android:layout_height="@dimen/minimum_touch_target" android:text="@string/unlink_phone_number" style="@style/Text_Button.Action" />
+</LinearLayout>

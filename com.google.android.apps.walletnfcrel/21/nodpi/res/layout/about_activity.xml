@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:focusable="true" android:focusableInTouchMode="true" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <android.support.v7.widget.Toolbar android:id="@id/Toolbar" style="@style/Toolbar">
+        <ImageView android:layout_gravity="center" android:id="@id/GooglePayLogo" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/default_spacing" android:src="@drawable/tp_google_pay_logo_color_72x29dp" android:contentDescription="@null" />
+    </android.support.v7.widget.Toolbar>
+    <LinearLayout android:layout_gravity="center" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <TextView android:textAppearance="@style/Text_Body.Black54" android:layout_gravity="center_horizontal" android:id="@id/Version" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+        <android.support.design.button.MaterialButton android:layout_gravity="center_horizontal" android:id="@id/upgrade_button" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/narrow_spacing" android:layout_marginBottom="@dimen/default_spacing" android:text="@string/update_button_text" style="@style/Widget.GoogleMaterial.Button" />
+        <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/application_name" style="@style/AboutHeading" />
+        <TextView android:id="@id/TermsOfServiceLink" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/terms_of_service" style="@style/AboutLink" />
+        <TextView android:id="@id/PrivacyPolicyLink" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/privacy_notice" style="@style/AboutLink" />
+        <TextView android:id="@id/SoftwareNoticesLink" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/medium_spacing" android:text="@string/about_software_notices_label" style="@style/AboutLink" />
+        <LinearLayout android:orientation="vertical" android:id="@id/P2pSection" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/sending_money_heading" style="@style/AboutHeading" />
+            <LinearLayout android:orientation="vertical" android:id="@id/P2pDocumentLinksSection" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+            <TextView android:id="@id/Footer" android:paddingTop="@dimen/medium_spacing" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/funds_transferred" android:paddingStart="@dimen/medium_spacing" android:paddingEnd="@dimen/medium_spacing" style="@style/Text_GooglePay_Caption" />
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

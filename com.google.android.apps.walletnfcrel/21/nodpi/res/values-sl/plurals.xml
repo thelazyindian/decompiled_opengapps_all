@@ -7,16 +7,16 @@
         <item quantity="few">Vnesite največ %d dodatne osebe</item>
     </plurals>
     <plurals name="notification_message_nfc_event_ticket_clo">
-        <item quantity="other">Z vstopnico ponudnika %2$s je na voljo %1$d ponudb</item>
-        <item quantity="one">Z vstopnico ponudnika %2$s je na voljo %1$d ponudba</item>
-        <item quantity="two">Z vstopnico ponudnika %2$s sta na voljo %1$d ponudbi</item>
-        <item quantity="few">Z vstopnico ponudnika %2$s so na voljo %1$d ponudbe</item>
+        <item quantity="other">Z vstopnico je na voljo %1$d ponudb</item>
+        <item quantity="one">Z vstopnico je na voljo %1$d ponudba</item>
+        <item quantity="two">Z vstopnico sta na voljo %1$d ponudbi</item>
+        <item quantity="few">Z vstopnico so na voljo %1$d ponudbe</item>
     </plurals>
     <plurals name="notification_message_nfc_flight_clo">
-        <item quantity="other">Pri letu z letalsko družbo %2$s je na voljo %1$d ponudb</item>
-        <item quantity="one">Pri letu z letalsko družbo %2$s je na voljo %1$d ponudba</item>
-        <item quantity="two">Pri letu z letalsko družbo %2$s sta na voljo %1$d ponudbi</item>
-        <item quantity="few">Pri letu z letalsko družbo %2$s so na voljo %1$d ponudbe</item>
+        <item quantity="other">Z vstopnim kuponom je na voljo %1$d ponudb</item>
+        <item quantity="one">Z vstopnim kuponom je na voljo %1$d ponudba</item>
+        <item quantity="two">Z vstopnim kuponom sta na voljo %1$d ponudbi</item>
+        <item quantity="few">Z vstopnim kuponom so na voljo %1$d ponudbe</item>
     </plurals>
     <plurals name="notification_message_nfc_gift_clo">
         <item quantity="other">Z darilno kartico ponudnika %2$s je na voljo %1$d ponudb</item>
@@ -47,12 +47,6 @@
         <item quantity="one">%1$d ponudba je na voljo pri ponudniku %2$s</item>
         <item quantity="two">%1$d ponudbi sta na voljo pri ponudniku %2$s</item>
         <item quantity="few">%1$d ponudbe so na voljo pri ponudniku %2$s</item>
-    </plurals>
-    <plurals name="requests_quantity">
-        <item quantity="other">%d zahtev</item>
-        <item quantity="one">%d zahteva</item>
-        <item quantity="two">%d zahtevi</item>
-        <item quantity="few">%d zahteve</item>
     </plurals>
     <plurals name="split_subtitle">
         <item quantity="other">Delitev zneska %1$s s toliko osebami: %2$d</item>

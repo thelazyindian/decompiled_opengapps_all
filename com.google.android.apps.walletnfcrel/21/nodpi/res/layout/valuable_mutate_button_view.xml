@@ -5,7 +5,7 @@
         <RelativeLayout android:id="@id/IconLayout" android:layout_width="@dimen/standalone_button_view_width" android:layout_height="@dimen/standalone_button_view_height">
             <ImageView android:id="@id/IconImage" android:layout_width="@dimen/standalone_button_icon_size" android:layout_height="@dimen/standalone_button_icon_size" android:layout_centerInParent="true" android:contentDescription="@string/button_icon_description" />
         </RelativeLayout>
-        <TextView android:id="@id/StandaloneButtonText" style="@style/StandaloneButtonText" />
+        <TextView android:textAppearance="@style/Text_GooglePay_Body1" android:ellipsize="end" android:id="@id/StandaloneButtonText" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginEnd="@dimen/standalone_item_padding" />
     </LinearLayout>
-    <TextView android:id="@id/StandaloneButtonSubtext" android:visibility="gone" style="@style/StandaloneButtonSubtext" />
+    <TextView android:textAppearance="@style/Text_GooglePay_Body1.Italic.Grey700" android:ellipsize="end" android:id="@id/StandaloneButtonSubtext" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginStart="@dimen/standalone_button_view_width" android:layout_marginEnd="@dimen/standalone_item_padding" />
 </LinearLayout>

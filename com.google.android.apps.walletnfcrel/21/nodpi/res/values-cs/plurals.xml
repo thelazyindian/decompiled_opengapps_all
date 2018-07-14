@@ -7,16 +7,16 @@
         <item quantity="many">Zadejte až %d dalších osob</item>
     </plurals>
     <plurals name="notification_message_nfc_event_ticket_clo">
-        <item quantity="other">%1$d dostupných nabídek u vstupenky na akci společnosti %2$s</item>
-        <item quantity="one">%1$d dostupná nabídka u vstupenky na akci společnosti %2$s</item>
-        <item quantity="few">%1$d dostupné nabídky u vstupenky na akci společnosti %2$s</item>
-        <item quantity="many">%1$d dostupných nabídek u vstupenky na akci společnosti %2$s</item>
+        <item quantity="other">Ke vstupence je k dispozici %1$d nabídek</item>
+        <item quantity="one">Ke vstupence je k dispozici %1$d nabídka</item>
+        <item quantity="few">Ke vstupence jsou k dispozici %1$d nabídky</item>
+        <item quantity="many">Ke vstupence je k dispozici %1$d nabídky</item>
     </plurals>
     <plurals name="notification_message_nfc_flight_clo">
-        <item quantity="other">%1$d dostupných nabídek pro let u společnosti %2$s</item>
-        <item quantity="one">%1$d dostupná nabídka pro let u společnosti %2$s</item>
-        <item quantity="few">%1$d dostupné nabídky pro let u společnosti %2$s</item>
-        <item quantity="many">%1$d dostupných nabídek pro let u společnosti %2$s</item>
+        <item quantity="other">K palubní vstupence je k dispozici %1$d nabídek</item>
+        <item quantity="one">K palubní vstupence je k dispozici %1$d nabídka</item>
+        <item quantity="few">K palubní vstupence jsou k dispozici %1$d nabídky</item>
+        <item quantity="many">K palubní vstupence je k dispozici %1$d nabídky</item>
     </plurals>
     <plurals name="notification_message_nfc_gift_clo">
         <item quantity="other">%1$d dostupných nabídek u věrnostní karty společnosti %2$s</item>
@@ -47,12 +47,6 @@
         <item quantity="one">%1$d dostupná nabídka u společnosti %2$s</item>
         <item quantity="few">%1$d dostupné nabídky u společnosti %2$s</item>
         <item quantity="many">%1$d dostupných nabídek u společnosti %2$s</item>
-    </plurals>
-    <plurals name="requests_quantity">
-        <item quantity="other">%d žádostí</item>
-        <item quantity="one">%d žádost</item>
-        <item quantity="few">%d žádosti</item>
-        <item quantity="many">%d žádosti</item>
     </plurals>
     <plurals name="split_subtitle">
         <item quantity="other">Rozdělit %1$s s %2$d kontakty</item>

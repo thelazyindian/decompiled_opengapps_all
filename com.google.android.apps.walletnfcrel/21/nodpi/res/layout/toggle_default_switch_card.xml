@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView android:id="@id/ToggleDefaultCard" android:layout_width="fill_parent" android:layout_height="wrap_content" style="@style/CardViewStyle"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <include android:id="@id/DefaultTokenToggleContainer" android:visibility="gone" layout="@layout/toggle_default_switch_item" />
+        <View android:id="@id/ToggleDefaultCardDivider" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginStart="@dimen/default_spacing" android:layout_marginEnd="@dimen/default_spacing" style="@style/HorizontalDivider" />
+        <include android:id="@id/DefaultP2pToggleContainer" android:visibility="gone" layout="@layout/toggle_default_switch_item" />
+    </LinearLayout>
+</android.support.v7.widget.CardView>

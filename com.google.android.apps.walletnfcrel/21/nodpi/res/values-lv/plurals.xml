@@ -6,14 +6,14 @@
         <item quantity="one">Ievadiet vēl līdz %d personai</item>
     </plurals>
     <plurals name="notification_message_nfc_event_ticket_clo">
-        <item quantity="other">Pieejami %1$d piedāvājumi ar %2$s pasākuma biļeti.</item>
-        <item quantity="zero">Pieejami %1$d piedāvājumi ar %2$s pasākuma biļeti.</item>
-        <item quantity="one">Pieejams %1$d piedāvājums ar %2$s pasākuma biļeti.</item>
+        <item quantity="other">Pieejami %1$d piedāvājumi ar jūsu biļeti.</item>
+        <item quantity="zero">Pieejami %1$d piedāvājumi ar jūsu biļeti.</item>
+        <item quantity="one">Pieejams %1$d piedāvājums ar jūsu biļeti.</item>
     </plurals>
     <plurals name="notification_message_nfc_flight_clo">
-        <item quantity="other">Pieejami %1$d piedāvājumi ar %2$s lidojumu.</item>
-        <item quantity="zero">Pieejami %1$d piedāvājumi ar %2$s lidojumu.</item>
-        <item quantity="one">Pieejams %1$d piedāvājums ar %2$s lidojumu.</item>
+        <item quantity="other">Pieejami %1$d piedāvājumi ar jūsu iekāpšanas karti.</item>
+        <item quantity="zero">Pieejami %1$d piedāvājumi ar jūsu iekāpšanas karti.</item>
+        <item quantity="one">Pieejams %1$d piedāvājums ar jūsu iekāpšanas karti.</item>
     </plurals>
     <plurals name="notification_message_nfc_gift_clo">
         <item quantity="other">Pieejami %1$d piedāvājumi ar %2$s dāvanu karti.</item>
@@ -39,11 +39,6 @@
         <item quantity="other">%1$d piedāvājumi pieejami šeit: %2$s.</item>
         <item quantity="zero">%1$d piedāvājumi pieejami šeit: %2$s.</item>
         <item quantity="one">%1$d piedāvājums pieejams šeit: %2$s.</item>
-    </plurals>
-    <plurals name="requests_quantity">
-        <item quantity="other">%d pieprasījumi</item>
-        <item quantity="zero">%d pieprasījumi</item>
-        <item quantity="one">%d pieprasījums</item>
     </plurals>
     <plurals name="split_subtitle">
         <item quantity="other">Sadaliet %1$s ar %2$d personām</item>

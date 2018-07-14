@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="@dimen/smarttap_disambig_carousel_item_width" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.google.commerce.tapandpay.android.valuable.activity.widget.CompactHeaderCardView android:id="@id/HeaderCard" android:focusableInTouchMode="true" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_centerInParent="true" />
+</RelativeLayout>

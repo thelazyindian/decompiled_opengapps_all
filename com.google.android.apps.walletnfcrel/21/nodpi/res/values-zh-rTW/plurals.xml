@@ -5,36 +5,32 @@
         <item quantity="one">最多可再輸入 %d 位聯絡人</item>
     </plurals>
     <plurals name="notification_message_nfc_event_ticket_clo">
-        <item quantity="other">「%2$s」的活動票券可使用 %1$d 項優惠</item>
-        <item quantity="one">「%2$s」的活動票券可使用 %1$d 項優惠</item>
+        <item quantity="other">您的活動票券有 %1$d 項優惠可用</item>
+        <item quantity="one">您的活動票券有 %1$d 項優惠可用</item>
     </plurals>
     <plurals name="notification_message_nfc_flight_clo">
-        <item quantity="other">「%2$s」的登機證可使用 %1$d 項優惠</item>
-        <item quantity="one">「%2$s」的登機證可使用 %1$d 項優惠</item>
+        <item quantity="other">您的登機證有 %1$d 項優惠可用</item>
+        <item quantity="one">您的登機證有 %1$d 項優惠可用</item>
     </plurals>
     <plurals name="notification_message_nfc_gift_clo">
-        <item quantity="other">「%2$s」的儲值卡可使用 %1$d 項優惠</item>
-        <item quantity="one">「%2$s」的儲值卡可使用 %1$d 項優惠</item>
+        <item quantity="other">使用%2$s的儲值卡可享 %1$d 項優惠</item>
+        <item quantity="one">使用%2$s的儲值卡可享 %1$d 項優惠</item>
     </plurals>
     <plurals name="notification_message_nfc_loyalty_clo">
-        <item quantity="other">「%2$s」的會員卡可使用 %1$d 項優惠</item>
-        <item quantity="one">「%2$s」的會員卡可使用 %1$d 項優惠</item>
+        <item quantity="other">使用%2$s的會員卡可享 %1$d 項優惠</item>
+        <item quantity="one">使用%2$s的會員卡可享 %1$d 項優惠</item>
     </plurals>
     <plurals name="notification_message_nfc_offer_clo">
-        <item quantity="other">可在「%2$s」使用 %1$d 項優惠</item>
-        <item quantity="one">可在「%2$s」使用 %1$d 項優惠</item>
+        <item quantity="other">使用%2$s的優惠票卡可享 %1$d 項優惠</item>
+        <item quantity="one">使用%2$s的優惠票卡可享 %1$d 項優惠</item>
     </plurals>
     <plurals name="notification_title_clo">
-        <item quantity="other">可使用 %1$d 項優惠</item>
-        <item quantity="one">可使用 %1$d 項優惠</item>
+        <item quantity="other">可享有 %1$d 項優惠</item>
+        <item quantity="one">可享有 %1$d 項優惠</item>
     </plurals>
     <plurals name="notification_title_clo_at_place">
-        <item quantity="other">可在「%2$s」使用 %1$d 項優惠</item>
-        <item quantity="one">可在「%2$s」使用 %1$d 項優惠</item>
-    </plurals>
-    <plurals name="requests_quantity">
-        <item quantity="other">%d 項請款要求</item>
-        <item quantity="one">%d 項請款要求</item>
+        <item quantity="other">可在%2$s享有 %1$d 項優惠</item>
+        <item quantity="one">可在%2$s享有 %1$d 項優惠</item>
     </plurals>
     <plurals name="split_subtitle">
         <item quantity="other">與 %2$d 人拆分帳單 (金額：%1$s)</item>

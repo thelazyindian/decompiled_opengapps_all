@@ -12,7 +12,7 @@
                 <ImageView android:id="@id/TemplateLogo" android:layout_width="@dimen/template_logo_diameter" android:layout_height="@dimen/template_logo_diameter" android:layout_marginTop="@dimen/large_spacing" android:adjustViewBounds="true" android:contentDescription="@null" android:layout_marginEnd="@dimen/default_spacing" />
             </LinearLayout>
             <LinearLayout android:orientation="vertical" android:id="@id/ButtonContainer" android:background="@color/google_grey900" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/medium_spacing">
-                <android.support.design.button.MaterialButton android:layout_gravity="center_horizontal" android:id="@id/RaisedButton" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/raised_button_top_margin" android:layout_marginBottom="@dimen/raised_button_bottom_margin" />
+                <android.support.design.button.MaterialButton android:layout_gravity="center_horizontal" android:id="@id/RaisedButton" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="@dimen/raised_button_top_margin" android:layout_marginBottom="@dimen/raised_button_bottom_margin" style="@style/Widget.GoogleMaterial.Button" />
                 <android.support.design.button.MaterialButton android:layout_gravity="center_horizontal" android:id="@id/FlatButton" android:layout_width="fill_parent" android:layout_height="@dimen/minimum_touch_target" android:insetTop="0.0dip" android:insetBottom="0.0dip" style="@style/Widget.GoogleMaterial.TextButton" />
             </LinearLayout>
         </LinearLayout>

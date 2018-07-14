@@ -3,13 +3,13 @@
   xmlns:android="http://schemas.android.com/apk/res/android">
     <View android:id="@id/FlightSeatingTopDivider" android:layout_width="fill_parent" android:layout_height="1.0dip" />
     <LinearLayout android:gravity="top" android:orientation="horizontal" android:id="@id/FlightSeatingLayout" android:paddingTop="20.0dip" android:paddingBottom="20.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:baselineAligned="false" android:minHeight="72.0dip">
-        <LinearLayout android:orientation="vertical" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_weight="1.0">
-            <TextView android:gravity="start" android:id="@id/FlightSeatingNameTitleText" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/flight_seating_name_title" style="@style/Text_Section_Header" />
-            <TextView android:gravity="start" android:id="@id/FlightSeatingNameValueText" android:layout_width="fill_parent" android:layout_height="wrap_content" style="@style/Text_Headline" />
+        <LinearLayout android:orientation="vertical" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_weight="1.0">
+            <TextView android:textAppearance="@style/Text_GooglePay_Overline" android:gravity="start" android:id="@id/FlightSeatingNameTitleText" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/flight_seating_name_title" android:maxLines="1" />
+            <TextView android:textAppearance="@style/Text_GooglePay_Headline6" android:gravity="start" android:id="@id/FlightSeatingNameValueText" android:layout_width="fill_parent" android:layout_height="wrap_content" />
         </LinearLayout>
-        <LinearLayout android:orientation="vertical" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_weight="1.0">
-            <TextView android:gravity="end" android:id="@id/FlightSeatingSeatGroupTitleText" android:layout_width="fill_parent" android:layout_height="wrap_content" style="@style/Text_Section_Header" />
-            <TextView android:gravity="end" android:id="@id/FlightSeatingSeatGroupValueText" android:layout_width="fill_parent" android:layout_height="wrap_content" style="@style/Text_Headline" />
+        <LinearLayout android:orientation="vertical" android:id="@id/FlightSeatingInfoLayout" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_weight="1.0">
+            <TextView android:textAppearance="@style/Text_GooglePay_Overline" android:gravity="end" android:id="@id/FlightSeatingInfoTitleText" android:layout_width="fill_parent" android:layout_height="wrap_content" android:maxLines="1" />
+            <TextView android:textAppearance="@style/Text_GooglePay_Headline6" android:gravity="end" android:id="@id/FlightSeatingInfoValueText" android:layout_width="fill_parent" android:layout_height="wrap_content" />
         </LinearLayout>
     </LinearLayout>
 </LinearLayout>

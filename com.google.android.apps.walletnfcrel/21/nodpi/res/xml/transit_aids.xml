@@ -3,5 +3,7 @@
   xmlns:android="http://schemas.android.com/apk/res/android">
     <aid-group android:description="@string/TransitAidGroupDescription" android:category="other">
         <aid-filter android:name="A00000039656434103F1216000000000" />
+        <aid-filter android:name="A00000F21100" />
+        <aid-filter android:name="A0000002164954534F2D31" />
     </aid-group>
 </host-apdu-service>

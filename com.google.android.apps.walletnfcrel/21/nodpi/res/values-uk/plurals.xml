@@ -7,16 +7,16 @@
         <item quantity="many">Введіть ще не більше %d осіб</item>
     </plurals>
     <plurals name="notification_message_nfc_event_ticket_clo">
-        <item quantity="other">%1$d пропозиції, доступної з квитком від \"%2$s\"</item>
-        <item quantity="one">%1$d пропозиція, доступна з квитком від \"%2$s\"</item>
-        <item quantity="few">%1$d пропозиції, доступні з квитком від \"%2$s\"</item>
-        <item quantity="many">%1$d пропозицій, доступних із квитком від \"%2$s\"</item>
+        <item quantity="other">%1$d пропозиції, доступної з вашим квитком</item>
+        <item quantity="one">%1$d пропозиція, доступна з вашим квитком</item>
+        <item quantity="few">%1$d пропозиції, доступні з вашим квитком</item>
+        <item quantity="many">%1$d пропозицій, доступних із вашим квитком</item>
     </plurals>
     <plurals name="notification_message_nfc_flight_clo">
-        <item quantity="other">%1$d пропозиції, доступної з авіарейсом компанії %2$s</item>
-        <item quantity="one">%1$d пропозиція, доступна з авіарейсом компанії %2$s</item>
-        <item quantity="few">%1$d пропозиції, доступні з авіарейсом компанії %2$s</item>
-        <item quantity="many">%1$d пропозицій, доступних з авіарейсом компанії %2$s</item>
+        <item quantity="other">%1$d пропозиції, доступної з вашим посадковим талоном</item>
+        <item quantity="one">%1$d пропозиція, доступна з вашим посадковим талоном</item>
+        <item quantity="few">%1$d пропозиції, доступні з вашим посадковим талоном</item>
+        <item quantity="many">%1$d пропозицій, доступних із вашим посадковим талоном</item>
     </plurals>
     <plurals name="notification_message_nfc_gift_clo">
         <item quantity="other">%1$d пропозиції, доступної з подарунковою карткою від \"%2$s\"</item>
@@ -47,12 +47,6 @@
         <item quantity="one">%2$s: доступна %1$d пропозиція</item>
         <item quantity="few">%2$s: доступні %1$d пропозиції</item>
         <item quantity="many">%2$s: доступно %1$d пропозицій</item>
-    </plurals>
-    <plurals name="requests_quantity">
-        <item quantity="other">%d запиту</item>
-        <item quantity="one">%d запит</item>
-        <item quantity="few">%d запити</item>
-        <item quantity="many">%d запитів</item>
     </plurals>
     <plurals name="split_subtitle">
         <item quantity="other">Розділити %1$s з %2$d користувача</item>

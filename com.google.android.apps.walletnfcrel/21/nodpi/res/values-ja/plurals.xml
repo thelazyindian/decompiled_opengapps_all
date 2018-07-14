@@ -5,12 +5,12 @@
         <item quantity="one">あと %d 人追加できます</item>
     </plurals>
     <plurals name="notification_message_nfc_event_ticket_clo">
-        <item quantity="other">%2$s のイベント チケットに使用できるクーポンが %1$d 枚あります</item>
-        <item quantity="one">%2$s のイベント チケットに使用できるクーポンが %1$d 枚あります</item>
+        <item quantity="other">お持ちのチケットに使用できるクーポンが %1$d 枚あります</item>
+        <item quantity="one">お持ちのチケットに使用できるクーポンが %1$d 枚あります</item>
     </plurals>
     <plurals name="notification_message_nfc_flight_clo">
-        <item quantity="other">%2$s のフライトに使用できるクーポンが %1$d 枚あります</item>
-        <item quantity="one">%2$s のフライトに使用できるクーポンが %1$d 枚あります</item>
+        <item quantity="other">お持ちの搭乗券に使用できるクーポンが %1$d 枚あります</item>
+        <item quantity="one">お持ちの搭乗券に使用できるクーポンが %1$d 枚あります</item>
     </plurals>
     <plurals name="notification_message_nfc_gift_clo">
         <item quantity="other">%2$s のギフトカードに使用できるクーポンが %1$d 枚あります</item>
@@ -31,10 +31,6 @@
     <plurals name="notification_title_clo_at_place">
         <item quantity="other">%2$s で使用できるクーポンが %1$d 枚あります</item>
         <item quantity="one">%2$s で使用できるクーポンが %1$d 枚あります</item>
-    </plurals>
-    <plurals name="requests_quantity">
-        <item quantity="other">%d 件のリクエスト</item>
-        <item quantity="one">%d 件のリクエスト</item>
     </plurals>
     <plurals name="split_subtitle">
         <item quantity="other">%1$s を %2$d 人で分割</item>

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="no"?><manifest xmlns:android="http://schemas.android.com/apk/res/android" android:compileSdkVersion="27" android:compileSdkVersionCodename="P" package="com.google.android.apps.walletnfcrel" platformBuildVersionCode="27" platformBuildVersionName="P">
+<?xml version="1.0" encoding="utf-8" standalone="no"?><manifest xmlns:android="http://schemas.android.com/apk/res/android" android:compileSdkVersion="28" android:compileSdkVersionCodename="9" package="com.google.android.apps.walletnfcrel" platformBuildVersionCode="28" platformBuildVersionName="9">
     <uses-feature android:name="android.hardware.camera.autofocus" android:required="false"/>
     <permission android:name="com.google.android.apps.walletnfcrel.permission.C2D_MESSAGE" android:protectionLevel="signature"/>
     <uses-permission android:name="com.google.android.apps.walletnfcrel.permission.C2D_MESSAGE"/>
@@ -33,6 +33,7 @@
         <meta-data android:name="com.google.android.nearby.messages.API_KEY" android:value="AIzaSyAApHi-MvLY-vA4xRiTHAvnEW-4OikJ1iU"/>
         <meta-data android:name="com.google.android.backup.api_key" android:value="@string/prod_backup_api_key"/>
         <meta-data android:name="com.google.android.gms.version" android:value="@integer/google_play_services_version"/>
+        <meta-data android:name="firebase_analytics_collection_deactivated" android:value="false"/>
         <receiver android:exported="true" android:name="com.google.android.libraries.notifications.entrypoints.accountchanged.AccountChangedReceiver">
             <intent-filter>
                 <action android:name="android.accounts.LOGIN_ACCOUNTS_CHANGED"/>
@@ -72,68 +73,9 @@
             </intent-filter>
         </receiver>
         <service android:exported="false" android:name="com.google.android.libraries.notifications.executor.impl.basic.ChimeExecutorApiService"/>
-        <service android:exported="false" android:name="com.google.android.libraries.social.async.BackgroundTaskService"/>
-        <service android:exported="false" android:name="com.google.android.libraries.social.async.BackgroundTaskJobService" android:permission="android.permission.BIND_JOB_SERVICE"/>
-        <receiver android:enabled="@bool/social_jobscheduler_enabled" android:exported="true" android:name="com.google.android.libraries.social.jobscheduler.JobSchedulerOnPackageUpgrade">
-            <intent-filter>
-                <action android:name="android.intent.action.MY_PACKAGE_REPLACED"/>
-            </intent-filter>
-        </receiver>
-        <receiver android:enabled="@bool/social_jobscheduler_enabled" android:exported="true" android:name="com.google.android.libraries.social.jobscheduler.JobSchedulerOnBootComplete">
-            <intent-filter>
-                <action android:name="android.intent.action.BOOT_COMPLETED"/>
-            </intent-filter>
-        </receiver>
         <activity android:exported="true" android:label="@string/preferences_license_title" android:name="com.google.android.libraries.social.licenses.LicenseMenuActivity" android:theme="@style/Theme.AppCompat.Light"/>
         <activity android:exported="false" android:label="@string/preferences_license_title" android:name="com.google.android.libraries.social.licenses.LicenseActivity" android:theme="@style/Theme.AppCompat.Light"/>
-        <activity android:exported="false" android:name="com.google.android.libraries.social.login.LoginActivity" android:theme="@style/Oob.Transparent"/>
-        <receiver android:exported="true" android:name="com.google.android.libraries.social.notifications.impl.gcm.receiver.GcmReceiver" android:permission="com.google.android.c2dm.permission.SEND">
-            <intent-filter>
-                <action android:name="com.google.android.c2dm.intent.RECEIVE"/>
-            </intent-filter>
-        </receiver>
-        <receiver android:exported="true" android:name="com.google.android.libraries.social.notifications.impl.AppUpgradeReceiver">
-            <intent-filter>
-                <action android:name="android.intent.action.MY_PACKAGE_REPLACED"/>
-            </intent-filter>
-        </receiver>
-        <receiver android:exported="true" android:name="com.google.android.libraries.social.notifications.impl.LocaleChangeReceiver">
-            <intent-filter>
-                <action android:name="android.intent.action.LOCALE_CHANGED"/>
-            </intent-filter>
-        </receiver>
-        <receiver android:exported="true" android:name="com.google.android.libraries.social.notifications.impl.TimezoneChangeReceiver">
-            <intent-filter>
-                <action android:name="android.intent.action.TIMEZONE_CHANGED"/>
-            </intent-filter>
-        </receiver>
-        <receiver android:exported="true" android:name="com.google.android.libraries.social.notifications.impl.BootCompletedReceiver">
-            <intent-filter>
-                <action android:name="android.intent.action.BOOT_COMPLETED"/>
-            </intent-filter>
-        </receiver>
-        <activity android:enabled="false" android:exported="true" android:name="com.google.android.libraries.social.notifications.impl.systemtray.NotificationSettingsActivity">
-            <intent-filter>
-                <action android:name="android.intent.action.MAIN"/>
-                <category android:name="android.intent.category.DEFAULT"/>
-                <category android:name="android.intent.category.NOTIFICATION_PREFERENCES"/>
-            </intent-filter>
-        </activity>
-        <receiver android:exported="true" android:name="com.google.android.libraries.social.notifications.installation.impl.AndroidAccountsChangedReceiver">
-            <intent-filter>
-                <action android:name="android.accounts.LOGIN_ACCOUNTS_CHANGED"/>
-            </intent-filter>
-        </receiver>
-        <service android:exported="false" android:name="com.google.android.libraries.social.notifications.scheduled.GunsScheduledTaskService" android:permission="android.permission.BIND_JOB_SERVICE"/>
-        <service android:exported="true" android:name="com.google.android.libraries.social.notifications.service.GunsService">
-            <intent-filter>
-                <action android:name="com.google.android.libraries.social.notifications.impl.NOTIFICATION_SELECTED"/>
-                <action android:name="com.google.android.libraries.social.notifications.impl.ACTOR_SELECTED"/>
-                <action android:name="com.google.android.libraries.social.notifications.impl.SYSTEM_NOTIFICATION_DISMISSED"/>
-                <action android:name="com.google.android.libraries.social.notifications.impl.SYNC_REGISTRATION_STATUS"/>
-                <action android:name="com.google.android.libraries.social.notifications.installation.ANDROID_ACCOUNT_CHANGED"/>
-            </intent-filter>
-        </service>
+        <activity android:name="com.google.commerce.tapandpay.android.about.AboutActivity" android:parentActivityName="com.google.commerce.tapandpay.android.home.HomeActivity" android:theme="@style/Theme.GooglePay.NoActionBar"/>
         <service android:exported="true" android:name="com.google.commerce.tapandpay.android.acceptedhere.beacons.RefreshBeaconService" android:permission="com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE">
             <intent-filter>
                 <action android:name="com.google.android.gms.gcm.ACTION_TASK_READY"/>
@@ -231,6 +173,13 @@
                 <action android:name="com.android.vending.INSTALL_REFERRER"/>
             </intent-filter>
         </receiver>
+        <receiver android:enabled="true" android:exported="false" android:name="com.google.android.gms.measurement.AppMeasurementReceiver">
+            <intent-filter>
+                <action android:name="com.google.android.gms.measurement.UPLOAD"/>
+            </intent-filter>
+        </receiver>
+        <service android:enabled="true" android:exported="false" android:name="com.google.android.gms.measurement.AppMeasurementService"/>
+        <service android:enabled="true" android:exported="false" android:name="com.google.android.gms.measurement.AppMeasurementJobService" android:permission="android.permission.BIND_JOB_SERVICE"/>
         <service android:name="com.google.commerce.tapandpay.android.chime.ChimeRegistrationService" android:permission="com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE">
             <intent-filter>
                 <action android:name="com.google.android.gms.gcm.ACTION_TASK_READY"/>
@@ -305,22 +254,6 @@
                 <action android:name="com.google.android.gms.gcm.ACTION_TASK_READY"/>
             </intent-filter>
         </service>
-        <meta-data android:name="com.google.commerce.tapandpay.app.view_id" android:value="tapandpay"/>
-        <service android:exported="true" android:name="com.google.commerce.tapandpay.android.guns.GunsRegistrationService" android:permission="com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE">
-            <intent-filter>
-                <action android:name="com.google.android.gms.gcm.ACTION_TASK_READY"/>
-            </intent-filter>
-        </service>
-        <service android:exported="false" android:name="com.google.commerce.tapandpay.android.guns.GunsPromoNotificationService">
-            <intent-filter>
-                <action android:name="com.google.commerce.tapandpay.android.guns.PROMO_OPT_OUT"/>
-            </intent-filter>
-        </service>
-        <service android:name="com.google.commerce.tapandpay.android.guns.GunsNotificationDismissTaskService" android:permission="com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE">
-            <intent-filter>
-                <action android:name="com.google.android.gms.gcm.ACTION_TASK_READY"/>
-            </intent-filter>
-        </service>
         <service android:exported="true" android:name="com.google.commerce.tapandpay.android.hce.record.SmartTapUploadService" android:permission="com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE">
             <intent-filter>
                 <action android:name="com.google.android.gms.gcm.ACTION_TASK_READY"/>
@@ -359,9 +292,20 @@
             </intent-filter>
         </receiver>
         <activity android:name="com.google.commerce.tapandpay.android.minversion.MinVersionMustUpgradeActivity" android:theme="@style/MinVersionTheme"/>
+        <activity android:name="com.google.commerce.tapandpay.android.notifications.click.PlatformActionHandlerActivity" android:theme="@style/Theme.GooglePay.NoActionBar.Transparent"/>
+        <activity android:name="com.google.commerce.tapandpay.android.p2p.availability.AwaitP2pAvailabilityActivity" android:theme="@style/Theme.GooglePay.NoActionBar"/>
         <activity android:exported="false" android:label="@string/google_pay" android:name="com.google.commerce.tapandpay.android.p2p.contacts.ContactSearchActivity" android:theme="@style/Theme.GooglePay.NoActionBar"/>
         <activity android:name="com.google.commerce.tapandpay.android.p2p.instruments.InstrumentPickerActivity" android:theme="@style/Theme.GooglePay.NoActionBar"/>
-        <activity android:name="com.google.commerce.tapandpay.android.p2p.reminders.ReminderEditorActivity" android:theme="@style/Theme.GooglePay"/>
+        <activity android:exported="false" android:name="com.google.commerce.tapandpay.android.p2p.qrcodes.QRCodeActivity" android:theme="@style/Theme.GooglePay.NoActionBar"/>
+        <activity android:name="com.google.commerce.tapandpay.android.p2p.reminders.ReminderEditorActivity" android:theme="@style/Theme.GooglePay.NoActionBar"/>
+        <activity android:excludeFromRecents="true" android:launchMode="singleInstance" android:name="com.google.commerce.tapandpay.android.p2p.reminders.RemindersUrlActivity" android:taskAffinity="com.google.commerce.tapandpay.android.p2p.reminders.RemindersUrlActivity" android:theme="@style/Theme.GooglePay.NoActionBar.LaunchScreen">
+            <intent-filter android:autoVerify="true">
+                <action android:name="android.intent.action.VIEW"/>
+                <category android:name="android.intent.category.DEFAULT"/>
+                <category android:name="android.intent.category.BROWSABLE"/>
+                <data android:host="pay.google.com" android:pathPrefix="/r/reminders" android:scheme="https"/>
+            </intent-filter>
+        </activity>
         <activity android:name="com.google.commerce.tapandpay.android.p2p.transfer.CreateBalanceTransferActivity" android:theme="@style/Theme.GooglePay.NoActionBar"/>
         <activity android:name="com.google.commerce.tapandpay.android.p2p.transfer.CompleteP2pTransferActivity" android:theme="@style/Theme.GooglePay.NoActionBar"/>
         <activity android:name="com.google.commerce.tapandpay.android.p2p.transfer.ConfirmP2pTransferActivity" android:theme="@style/Theme.GooglePay.NoActionBar.Transparent"/>
@@ -374,15 +318,9 @@
             </intent-filter>
         </activity>
         <activity android:name="com.google.commerce.tapandpay.android.paymentmethod.PaymentMethodDetailsActivity" android:theme="@style/Theme.GooglePay.NoActionBar"/>
-        <meta-data android:name="com.google.android.gms.phenotype.registration.xml" android:resource="@xml/phenotype"/>
         <service android:exported="false" android:name="com.google.commerce.tapandpay.android.phenotype.PhenotypeCommitTask"/>
-        <receiver android:name="com.google.commerce.tapandpay.android.phenotype.PhenotypeBroadcastReceiver">
-            <intent-filter>
-                <action android:name="com.google.android.gms.phenotype.UPDATE"/>
-            </intent-filter>
-        </receiver>
         <meta-data android:name="com.google.android.gms.wallet.api.enabled" android:value="true"/>
-        <activity android:launchMode="singleTop" android:name="com.google.commerce.tapandpay.android.processpayment.TopUpActivity" android:parentActivityName="com.google.commerce.tapandpay.android.processpayment.TopUpActivity" android:screenOrientation="portrait" android:theme="@style/Theme.GooglePay.NoActionBar"/>
+        <activity android:launchMode="singleTop" android:name="com.google.commerce.tapandpay.android.processpayment.TopUpActivity" android:parentActivityName="com.google.commerce.tapandpay.android.processpayment.TopUpActivity" android:screenOrientation="portrait" android:theme="@style/Theme.GooglePay.NoActionBar" android:windowSoftInputMode="adjustResize"/>
         <activity android:launchMode="singleTop" android:name="com.google.commerce.tapandpay.android.processpayment.TopUpSettingsActivity" android:parentActivityName="com.google.commerce.tapandpay.android.processpayment.TopUpSettingsActivity" android:screenOrientation="portrait" android:theme="@style/Theme.GooglePay.NoActionBar"/>
         <activity android:launchMode="singleTop" android:name="com.google.commerce.tapandpay.android.processpayment.LowBalanceNotificationActivity" android:parentActivityName="com.google.commerce.tapandpay.android.processpayment.LowBalanceNotificationActivity" android:screenOrientation="portrait" android:theme="@style/Theme.GooglePay.NoActionBar"/>
         <activity android:name="com.google.commerce.tapandpay.android.promocode.EnterPromoCodeActivity" android:parentActivityName="com.google.commerce.tapandpay.android.home.HomeActivity" android:theme="@style/Theme.GooglePay.NoActionBar" android:windowSoftInputMode="stateHidden"/>
@@ -400,6 +338,11 @@
         <activity android:name="com.google.commerce.tapandpay.android.secard.RedirectWithBlindActivity" android:theme="@style/Theme.GooglePay.NoActionBar"/>
         <activity android:name="com.google.commerce.tapandpay.android.secard.AddSeCardDeepLinkActivity" android:theme="@style/Theme.GooglePay.NoActionBar"/>
         <service android:exported="true" android:name="com.google.commerce.tapandpay.android.secard.ReadSecureElementService" android:permission="com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE">
+            <intent-filter>
+                <action android:name="com.google.android.gms.gcm.ACTION_TASK_READY"/>
+            </intent-filter>
+        </service>
+        <service android:exported="true" android:name="com.google.commerce.tapandpay.android.secard.UpdateEnrichedStationDbService" android:permission="com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE">
             <intent-filter>
                 <action android:name="com.google.android.gms.gcm.ACTION_TASK_READY"/>
             </intent-filter>
@@ -475,7 +418,9 @@
         <activity android:name="com.google.commerce.tapandpay.android.transaction.TransactionDetailsActivity" android:theme="@style/Theme.GooglePay.NoActionBar"/>
         <activity android:name="com.google.commerce.tapandpay.android.transaction.TransactionListActivity" android:theme="@style/Theme.GoogleMaterial.Light"/>
         <activity android:name="com.google.commerce.tapandpay.android.transaction.GpTransactionDetailsActivity" android:theme="@style/Theme.GooglePay.NoActionBar"/>
-        <activity android:name="com.google.commerce.tapandpay.android.transit.purchase.SelectTransitAgencyActivity" android:theme="@style/Theme.GooglePay.NoActionBar"/>
+        <activity android:name="com.google.commerce.tapandpay.android.transit.purchase.SelectPurchasableCardActivity" android:theme="@style/Theme.GooglePay.NoActionBar"/>
+        <activity android:name="com.google.commerce.tapandpay.android.transit.purchase.SelectFareTypeActivity" android:theme="@style/Theme.GooglePay.NoActionBar"/>
+        <activity android:name="com.google.commerce.tapandpay.android.transit.purchase.TicketPurchasePreviewActivity" android:theme="@style/Theme.GooglePay.NoActionBar"/>
         <activity android:autoRemoveFromRecents="true" android:name="com.google.commerce.tapandpay.android.transit.s2apt.TransitTicketPreviewActivity" android:taskAffinity="com.google.commerce.tapandpay.android.transit.s2apt" android:theme="@style/Theme.GooglePay.NoActionBar"/>
         <provider android:authorities="com.google.commerce.tapandpay.android.transit.tap.imageprovider" android:exported="true" android:name="com.google.commerce.tapandpay.android.transit.tap.imageprovider.TransitTapImageProvider" android:readPermission="com.google.android.gms.permission.READ_VALUABLES_IMAGES"/>
         <service android:exported="true" android:name="com.google.commerce.tapandpay.android.transit.tap.imageprovider.TransitArtFetchTaskService" android:permission="com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE">
@@ -515,6 +460,7 @@
         </service>
         <activity android:name="com.google.commerce.tapandpay.android.userauthentication.VerifyPinActivity" android:theme="@style/Theme.GooglePay.NoActionBar"/>
         <activity android:name="com.google.commerce.tapandpay.android.userauthentication.AuthenticateUserActivity" android:theme="@style/Theme.GooglePay.NoActionBar.Transparent.NoAnimation"/>
+        <activity android:name="com.google.commerce.tapandpay.android.userauthentication.VerifyFingerprintActivity" android:theme="@style/Theme.GooglePay.NoActionBar.Transparent"/>
         <receiver android:name="com.google.commerce.tapandpay.android.util.network.NetworkStateReceiver">
             <intent-filter>
                 <action android:name="android.intent.action.AIRPLANE_MODE"/>
@@ -565,6 +511,7 @@
         <activity android:name="com.google.commerce.tapandpay.android.valuable.activity.s2ap.SaveResultActivity" android:taskAffinity="com.google.commerce.tapandpay.android.valuable.activity.s2ap" android:theme="@style/Theme.GooglePay.NoActionBar.Transparent"/>
         <activity android:name="com.google.commerce.tapandpay.android.valuable.activity.search.SearchGiftCardMerchantActivity" android:theme="@style/Theme.GooglePay.NoActionBar"/>
         <activity android:name="com.google.commerce.tapandpay.android.valuable.activity.search.SearchLoyaltyCardProgramActivity" android:theme="@style/Theme.GooglePay.NoActionBar"/>
+        <activity android:name="com.google.commerce.tapandpay.android.valuable.activity.smarttap.SmartTapValuableDisambigActivity" android:theme="@style/Theme.GooglePay.NoActionBar"/>
         <service android:exported="false" android:name="com.google.commerce.tapandpay.android.valuable.notification.expiration.ExpirationNotificationService">
             <intent-filter>
                 <action android:name="com.google.commerce.tapandpay.android.valuable.notification.expiration.EXPIRATION_NOTIFICATION_OPT_OUT"/>
@@ -575,6 +522,13 @@
             <intent-filter>
                 <action android:name="com.google.commerce.tapandpay.android.valuable.notification.pendingvaluable.PROMO_OPT_OUT"/>
                 <action android:name="com.google.commerce.tapandpay.android.valuable.notification.pendingvaluable.AUTO_DISMISS"/>
+            </intent-filter>
+        </service>
+        <service android:exported="false" android:name="com.google.commerce.tapandpay.android.valuable.notification.scheduled.ScheduledNotificationService">
+            <intent-filter>
+                <action android:name="com.google.commerce.tapandpay.android.valuable.notification.scheduled.SCHEDULED_NOTIFICATION_OPT_OUT"/>
+                <action android:name="com.google.commerce.tapandpay.android.valuable.notification.scheduled.AUTO_DISMISS"/>
+                <action android:name="com.google.commerce.tapandpay.android.valuable.notification.scheduled.CONTENT"/>
             </intent-filter>
         </service>
         <service android:exported="true" android:name="com.google.commerce.tapandpay.android.valuable.service.ExpirationNotificationTaskService" android:permission="com.google.android.gms.permission.BIND_NETWORK_TASK_SERVICE">
@@ -593,6 +547,7 @@
             </intent-filter>
         </service>
         <provider android:authorities="com.google.commerce.tapandpay.android.valuable.imageprovider" android:exported="true" android:name="com.google.commerce.tapandpay.android.valuable.smarttap.common.ValuablesImageProvider" android:readPermission="com.google.android.gms.permission.READ_VALUABLES_IMAGES" android:writePermission="com.google.android.gms.permission.WRITE_VALUABLES_IMAGES_DO_NOT_USE"/>
+        <activity android:name="com.google.commerce.tapandpay.android.webview.ContinueSessionOnWebActivity" android:theme="@style/Theme.GooglePay.NoActionBar" android:windowSoftInputMode="stateHidden"/>
         <provider android:authorities="android.android_sdk_linux.extras.android.compatibility.arch_components.lifecycle.extensions.lifecycle-trojan" android:exported="false" android:multiprocess="true" android:name="android.arch.lifecycle.ProcessLifecycleOwnerInitializer"/>
         <receiver android:enabled="true" android:exported="false" android:name="com.google.android.gms.analytics.AnalyticsReceiver"/>
         <service android:enabled="true" android:exported="false" android:name="com.google.android.gms.analytics.AnalyticsService"/>
@@ -606,5 +561,20 @@
         <activity android:excludeFromRecents="true" android:exported="false" android:name="com.google.android.gms.auth.api.signin.internal.SignInHubActivity" android:theme="@android:style/Theme.Translucent.NoTitleBar"/>
         <service android:exported="true" android:name="com.google.android.gms.auth.api.signin.RevocationBoundService" android:permission="com.google.android.gms.auth.api.signin.permission.REVOCATION_NOTIFICATION"/>
         <activity android:exported="false" android:name="com.google.android.gms.common.api.GoogleApiActivity" android:theme="@android:style/Theme.Translucent.NoTitleBar"/>
+        <receiver android:enabled="true" android:exported="true" android:name="com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver" android:permission="android.permission.INSTALL_PACKAGES">
+            <intent-filter>
+                <action android:name="com.android.vending.INSTALL_REFERRER"/>
+            </intent-filter>
+        </receiver>
+        <receiver android:exported="true" android:name="com.google.firebase.iid.FirebaseInstanceIdReceiver" android:permission="com.google.android.c2dm.permission.SEND">
+            <intent-filter>
+                <action android:name="com.google.android.c2dm.intent.RECEIVE"/>
+            </intent-filter>
+        </receiver>
+        <service android:exported="true" android:name="com.google.firebase.iid.FirebaseInstanceIdService">
+            <intent-filter android:priority="-500">
+                <action android:name="com.google.firebase.INSTANCE_ID_EVENT"/>
+            </intent-filter>
+        </service>
     </application>
 </manifest>

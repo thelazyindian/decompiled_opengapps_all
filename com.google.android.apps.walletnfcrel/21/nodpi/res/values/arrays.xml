@@ -136,7 +136,7 @@
         <item>26th</item>
         <item>27th</item>
         <item>28th</item>
-        <item>last day of the month</item>
+        <item>Last day</item>
     </string-array>
     <string-array name="reminder_editor_time_options">
         <item>Morning (9AM)</item>

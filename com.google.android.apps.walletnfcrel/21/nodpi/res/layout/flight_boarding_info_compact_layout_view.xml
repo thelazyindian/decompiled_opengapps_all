@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="top" android:orientation="horizontal" android:id="@id/FlightBoardingLayout" android:paddingTop="12.0dip" android:paddingBottom="12.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:baselineAligned="false"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_weight="1.0">
+        <TextView android:textAppearance="@style/Text_GooglePay_Overline" android:gravity="start" android:id="@id/FlightNumberTitleText" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/flight_number_title_default" android:maxLines="1" />
+        <TextView android:textAppearance="@style/Text_GooglePay_Caption" android:gravity="start" android:id="@id/FlightNumberValueText" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+    </LinearLayout>
+    <LinearLayout android:orientation="vertical" android:id="@id/FlightTerminalLayout" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_weight="1.0">
+        <TextView android:textAppearance="@style/Text_GooglePay_Overline" android:gravity="center" android:id="@id/FlightTerminalTitleText" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/flight_terminal_title" android:maxLines="1" />
+        <TextView android:textAppearance="@style/Text_GooglePay_Caption" android:gravity="center" android:id="@id/FlightTerminalValueText" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+    </LinearLayout>
+    <LinearLayout android:orientation="vertical" android:id="@id/FlightGateLayout" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_weight="1.0">
+        <TextView android:textAppearance="@style/Text_GooglePay_Overline" android:gravity="center" android:id="@id/FlightGateTitleText" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/flight_gate_title" android:maxLines="1" />
+        <TextView android:textAppearance="@style/Text_GooglePay_Headline6" android:gravity="center" android:id="@id/FlightGateValueText" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+    </LinearLayout>
+    <LinearLayout android:orientation="vertical" android:id="@id/FlightBoardingTimeLayout" android:layout_width="wrap_content" android:layout_height="wrap_content" android:minWidth="@dimen/minimum_touch_target" android:minHeight="@dimen/minimum_touch_target" android:layout_weight="1.0">
+        <TextView android:textAppearance="@style/Text_GooglePay_Overline" android:gravity="end" android:id="@id/FlightBoardingTimeTitleText" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/flight_boarding_time_title" android:maxLines="1" />
+        <LinearLayout android:gravity="end|center" android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <TextView android:textAppearance="@style/Text_GooglePay_Headline6" android:gravity="end" android:id="@id/FlightBoardingTimeValueText" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+            <ImageView android:id="@id/BoardingTimeAlertImage" android:visibility="gone" android:layout_width="20.0dip" android:layout_height="20.0dip" android:src="@drawable/quantum_ic_error_grey600_24" android:contentDescription="@string/boarding_time_alert_description" />
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

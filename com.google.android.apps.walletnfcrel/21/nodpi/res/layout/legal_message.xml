@@ -9,5 +9,5 @@
         <TextView android:id="@id/LegalText" android:layout_width="fill_parent" android:layout_height="wrap_content" />
     </ScrollView>
     <View android:background="@color/quantum_grey200" android:layout_width="fill_parent" android:layout_height="1.0dip" />
-    <android.support.design.button.MaterialButton android:layout_gravity="center" android:id="@id/ConfirmButton" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_margin="@dimen/default_spacing" android:text="@string/legal_message_dialog_button_accept" android:paddingStart="32.0dip" android:paddingEnd="32.0dip" />
+    <android.support.design.button.MaterialButton android:layout_gravity="center" android:id="@id/ConfirmButton" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_margin="@dimen/default_spacing" android:text="@string/legal_message_dialog_button_accept" android:paddingStart="32.0dip" android:paddingEnd="32.0dip" style="@style/Widget.GoogleMaterial.Button" />
 </LinearLayout>

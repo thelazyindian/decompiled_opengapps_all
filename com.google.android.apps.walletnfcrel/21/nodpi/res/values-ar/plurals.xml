@@ -9,20 +9,20 @@
         <item quantity="many">يمكن إضافة %d شخصًا آخر على الأكثر</item>
     </plurals>
     <plurals name="notification_message_nfc_event_ticket_clo">
-        <item quantity="other">يتوفّر %1$d عرض مرتبط ببطاقة حضور حدث %2$s.</item>
-        <item quantity="zero">يتوفّر %1$d عرض مرتبط ببطاقة حضور حدث %2$s.</item>
-        <item quantity="one">يتوفّر عرضٌ واحد (%1$d) مرتبط ببطاقة حضور حدث %2$s.</item>
-        <item quantity="two">يتوفّر عرضان (%1$d) مرتبطان ببطاقة حضور حدث %2$s.</item>
-        <item quantity="few">تتوفّر %1$d عروض مرتبطة ببطاقة حضور حدث %2$s.</item>
-        <item quantity="many">يتوفّر %1$d عرضًا مرتبطًا ببطاقة حضور حدث %2$s.</item>
+        <item quantity="other">تخوّلك تذكرتك الاستفادة من %1$d عرض.</item>
+        <item quantity="zero">تخوّلك تذكرتك الاستفادة من %1$d عرض.</item>
+        <item quantity="one">تخوّلك تذكرتك الاستفادة من عرض واحد (%1$d).</item>
+        <item quantity="two">تخوّلك تذكرتك الاستفادة من عرضَين (%1$d).</item>
+        <item quantity="few">تخوّلك تذكرتك الاستفادة من %1$d عروض.</item>
+        <item quantity="many">تخوّلك تذكرتك الاستفادة من %1$d عرضًا.</item>
     </plurals>
     <plurals name="notification_message_nfc_flight_clo">
-        <item quantity="other">يتوفّر %1$d عرضٍ مرتبط برحلة %2$s.</item>
-        <item quantity="zero">يتوفّر %1$d عرض مرتبط برحلة %2$s.</item>
-        <item quantity="one">يتوفر عرضٌ واحدٌ (%1$d) مرتبط برحلة %2$s.</item>
-        <item quantity="two">يتوفّر عرضان (%1$d) مرتبطان برحلة %2$s.</item>
-        <item quantity="few">تتوفّر %1$d عروض مرتبطة برحلة %2$s.</item>
-        <item quantity="many">يتوفّر %1$d عرضًا مرتبطًا برحلة %2$s.</item>
+        <item quantity="other">تخوّلك بطاقة الصعود إلى الطائرة الاستفادة من %1$d عرض.</item>
+        <item quantity="zero">تخوّلك بطاقة الصعود إلى الطائرة الاستفادة من %1$d عرض.</item>
+        <item quantity="one">تخوّلك بطاقة الصعود إلى الطائرة الاستفادة من عرض واحد (%1$d).</item>
+        <item quantity="two">تخوّلك بطاقة الصعود إلى الطائرة الاستفادة من عرضَين %1$d.</item>
+        <item quantity="few">تخوّلك بطاقة الصعود إلى الطائرة الاستفادة من %1$d عروض.</item>
+        <item quantity="many">تخوّلك بطاقة الصعود إلى الطائرة الاستفادة من %1$d عرضًا.</item>
     </plurals>
     <plurals name="notification_message_nfc_gift_clo">
         <item quantity="other">يتوفّر %1$d عرضٍ مرتبط ببطاقة الهدايا من %2$s.</item>
@@ -63,14 +63,6 @@
         <item quantity="two">يتوفّر عرضان (%1$d) في %2$s.</item>
         <item quantity="few">تتوفّر %1$d عروض في %2$s.</item>
         <item quantity="many">يتوفّر %1$d عرضًا في %2$s.</item>
-    </plurals>
-    <plurals name="requests_quantity">
-        <item quantity="other">%d طلب</item>
-        <item quantity="zero">%d طلب</item>
-        <item quantity="one">طلب واحد (%d)</item>
-        <item quantity="two">طلبان (%d)</item>
-        <item quantity="few">%d طلبات</item>
-        <item quantity="many">%d طلبًا</item>
     </plurals>
     <plurals name="split_subtitle">
         <item quantity="other">تقاسُم مبلغ %1$s مع %2$d شخص</item>

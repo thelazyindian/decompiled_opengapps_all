@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:orientation="vertical" android:id="@id/barcode_scan_overlay" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:material="http://schemas.android.com/apk/res-auto">
+    <FrameLayout android:id="@id/barcode_scanner_container" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_centerInParent="true" android:layout_marginStart="@dimen/large_spacing" android:layout_marginEnd="@dimen/large_spacing">
+        <com.google.android.libraries.material.aspectratio.FixedAspectRatioFrameLayout android:id="@id/region_of_interest" android:layout_width="fill_parent" android:layout_height="wrap_content" material:aspectRatio="1.0" />
+    </FrameLayout>
+    <TextView android:textAppearance="@style/Text_GooglePay_Headline6" android:textColor="@color/googlepay_white" android:gravity="center_horizontal" android:paddingBottom="@dimen/default_spacing" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/barcode_guide_text" android:layout_above="@id/barcode_scanner_container" android:paddingStart="@dimen/default_spacing" android:paddingEnd="@dimen/default_spacing" />
+</RelativeLayout>

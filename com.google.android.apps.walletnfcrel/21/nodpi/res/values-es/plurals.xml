@@ -5,12 +5,12 @@
         <item quantity="one">Puedes añadir hasta %d persona más</item>
     </plurals>
     <plurals name="notification_message_nfc_event_ticket_clo">
-        <item quantity="other">Hay %1$d ofertas disponibles con la entrada del evento de %2$s</item>
-        <item quantity="one">Hay %1$d oferta disponible con la entrada del evento de %2$s</item>
+        <item quantity="other">Hay %1$d ofertas disponibles con tu entrada</item>
+        <item quantity="one">Hay %1$d oferta disponible con tu entrada</item>
     </plurals>
     <plurals name="notification_message_nfc_flight_clo">
-        <item quantity="other">Hay %1$d ofertas disponibles con el vuelo de %2$s</item>
-        <item quantity="one">Hay %1$d oferta disponible con el vuelo de %2$s</item>
+        <item quantity="other">Hay %1$d ofertas disponibles con tu tarjeta de embarque</item>
+        <item quantity="one">Hay %1$d oferta disponible con tu tarjeta de embarque</item>
     </plurals>
     <plurals name="notification_message_nfc_gift_clo">
         <item quantity="other">Hay %1$d ofertas disponibles con la tarjeta regalo de %2$s</item>
@@ -31,10 +31,6 @@
     <plurals name="notification_title_clo_at_place">
         <item quantity="other">Hay %1$d ofertas disponibles en %2$s</item>
         <item quantity="one">Hay %1$d oferta disponible en %2$s</item>
-    </plurals>
-    <plurals name="requests_quantity">
-        <item quantity="other">%d solicitudes</item>
-        <item quantity="one">%d solicitud</item>
     </plurals>
     <plurals name="split_subtitle">
         <item quantity="other">Compartir %1$s con %2$d personas</item>

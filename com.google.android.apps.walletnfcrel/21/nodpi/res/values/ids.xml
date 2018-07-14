@@ -8,7 +8,6 @@
     <item type="id" name="default_speed_dial_item" />
     <item type="id" name="dummy_placeholder" />
     <item type="id" name="ghost_view" />
-    <item type="id" name="google_account_added_result" />
     <item type="id" name="home" />
     <item type="id" name="item_touch_helper_previous_elevation" />
     <item type="id" name="line1" />
@@ -31,6 +30,8 @@
     <item type="id" name="snackbar_text" />
     <item type="id" name="split_action_bar" />
     <item type="id" name="tag_transition_group" />
+    <item type="id" name="tag_unhandled_key_event_manager" />
+    <item type="id" name="tag_unhandled_key_listeners" />
     <item type="id" name="text" />
     <item type="id" name="text2" />
     <item type="id" name="textinput_counter" />
@@ -68,13 +69,13 @@
     <item type="id" name="title_template" />
     <item type="id" name="alertTitle" />
     <item type="id" name="titleDividerNoCustom" />
-    <item type="id" name="expanded_menu" />
-    <item type="id" name="checkbox" />
-    <item type="id" name="shortcut" />
-    <item type="id" name="radio" />
     <item type="id" name="group_divider" />
     <item type="id" name="content" />
+    <item type="id" name="shortcut" />
     <item type="id" name="submenuarrow" />
+    <item type="id" name="expanded_menu" />
+    <item type="id" name="checkbox" />
+    <item type="id" name="radio" />
     <item type="id" name="action_bar_root" />
     <item type="id" name="action_mode_bar_stub" />
     <item type="id" name="action_mode_bar" />
@@ -96,6 +97,16 @@
     <item type="id" name="search_voice_btn" />
     <item type="id" name="select_dialog_listview" />
     <item type="id" name="message" />
+    <item type="id" name="Toolbar" />
+    <item type="id" name="GooglePayLogo" />
+    <item type="id" name="Version" />
+    <item type="id" name="upgrade_button" />
+    <item type="id" name="TermsOfServiceLink" />
+    <item type="id" name="PrivacyPolicyLink" />
+    <item type="id" name="SoftwareNoticesLink" />
+    <item type="id" name="P2pSection" />
+    <item type="id" name="P2pDocumentLinksSection" />
+    <item type="id" name="Footer" />
     <item type="id" name="avatar" />
     <item type="id" name="account_address" />
     <item type="id" name="accounts_list" />
@@ -109,10 +120,6 @@
     <item type="id" name="nav_container" />
     <item type="id" name="selected_account_container" />
     <item type="id" name="accounts_wrapper" />
-    <item type="id" name="Icon" />
-    <item type="id" name="Title" />
-    <item type="id" name="Subtitle" />
-    <item type="id" name="ActionButton" />
     <item type="id" name="TicketListTicketName" />
     <item type="id" name="TicketListButton" />
     <item type="id" name="HeaderBodyText" />
@@ -153,6 +160,7 @@
     <item type="id" name="currencySymbolEnd" />
     <item type="id" name="LinearLayout" />
     <item type="id" name="Recycler" />
+    <item type="id" name="Icon" />
     <item type="id" name="Header" />
     <item type="id" name="SubHeader" />
     <item type="id" name="TopUpButtonWrapper" />
@@ -160,9 +168,14 @@
     <item type="id" name="TopupDivider" />
     <item type="id" name="TopupButton" />
     <item type="id" name="TopupButtonProgressBar" />
+    <item type="id" name="EditIcon" />
+    <item type="id" name="MemoDoneButton" />
+    <item type="id" name="EditTextMarquee" />
     <item type="id" name="TitleIcon" />
     <item type="id" name="TitleIconSpacing" />
     <item type="id" name="TitleText" />
+    <item type="id" name="BottomShadow" />
+    <item type="id" name="ViewAllTransactionsItem" />
     <item type="id" name="AllTransactionsNote" />
     <item type="id" name="AmountIcon" />
     <item type="id" name="EntryContainer" />
@@ -178,13 +191,12 @@
     <item type="id" name="AppName" />
     <item type="id" name="AppDeveloperName" />
     <item type="id" name="RootView" />
-    <item type="id" name="Toolbar" />
+    <item type="id" name="ContinueButton" />
+    <item type="id" name="ScrollView" />
     <item type="id" name="Providers" />
     <item type="id" name="ChipLockedWarning" />
     <item type="id" name="OpenNfcSettings" />
-    <item type="id" name="ToSScrollView" />
     <item type="id" name="TosMessage" />
-    <item type="id" name="ContinueButton" />
     <item type="id" name="RadioButton" />
     <item type="id" name="CardTitle" />
     <item type="id" name="CardSubtitle" />
@@ -195,12 +207,16 @@
     <item type="id" name="ContactThree" />
     <item type="id" name="ContactFour" />
     <item type="id" name="ContactFive" />
+    <item type="id" name="Subtitle" />
     <item type="id" name="offscreen_avatar" />
     <item type="id" name="crossfade_avatar_recents_one" />
     <item type="id" name="avatar_recents_one_image" />
     <item type="id" name="crossfade_avatar_recents_two" />
     <item type="id" name="avatar_recents_two" />
     <item type="id" name="avatar_recents_two_image" />
+    <item type="id" name="barcode_scan_overlay" />
+    <item type="id" name="barcode_scanner_container" />
+    <item type="id" name="region_of_interest" />
     <item type="id" name="bottom_sheet_dialog_icon" />
     <item type="id" name="bottom_sheet_title" />
     <item type="id" name="bottom_sheet_message" />
@@ -219,17 +235,17 @@
     <item type="id" name="browser_actions_menu_items" />
     <item type="id" name="browser_actions_menu_item_icon" />
     <item type="id" name="browser_actions_menu_item_text" />
-    <item type="id" name="BulletinView" />
-    <item type="id" name="Description" />
-    <item type="id" name="Background" />
+    <item type="id" name="PrimaryButton" />
     <item type="id" name="MainText" />
     <item type="id" name="BulletPointContainer" />
     <item type="id" name="TosText" />
-    <item type="id" name="PrimaryButton" />
     <item type="id" name="SecondaryButton" />
+    <item type="id" name="BulletinView" />
     <item type="id" name="CategoryIcon" />
     <item type="id" name="CategoryText" />
     <item type="id" name="FullWidthImage" />
+    <item type="id" name="Title" />
+    <item type="id" name="Description" />
     <item type="id" name="SideImage" />
     <item type="id" name="ButtonDivider" />
     <item type="id" name="Button" />
@@ -237,6 +253,7 @@
     <item type="id" name="RaisedButton" />
     <item type="id" name="FlatButtonDivider" />
     <item type="id" name="FlatButton" />
+    <item type="id" name="Background" />
     <item type="id" name="ToolbarContainer" />
     <item type="id" name="Divider" />
     <item type="id" name="SubText" />
@@ -248,10 +265,6 @@
     <item type="id" name="CloseIcon" />
     <item type="id" name="MerchantLogo" />
     <item type="id" name="OverflowIcon" />
-    <item type="id" name="FabScrim" />
-    <item type="id" name="FabMenu" />
-    <item type="id" name="FabWrapper" />
-    <item type="id" name="Fab" />
     <item type="id" name="MessageCard" />
     <item type="id" name="IssuerMessage" />
     <item type="id" name="MessageHeadline" />
@@ -266,6 +279,7 @@
     <item type="id" name="Message" />
     <item type="id" name="CardView" />
     <item type="id" name="Container" />
+    <item type="id" name="Spinner" />
     <item type="id" name="BackgroundView" />
     <item type="id" name="MainContent" />
     <item type="id" name="ContentView" />
@@ -275,14 +289,12 @@
     <item type="id" name="ShareButton" />
     <item type="id" name="SocialImage" />
     <item type="id" name="ProgressButton" />
-    <item type="id" name="Footer" />
     <item type="id" name="RootLayout" />
     <item type="id" name="BarcodeCard" />
     <item type="id" name="BarcodeViewFrame" />
     <item type="id" name="BarcodeImage" />
     <item type="id" name="HumanReadableTextLayout" />
     <item type="id" name="HumanReadableText" />
-    <item type="id" name="Spinner" />
     <item type="id" name="single_recipient_layout" />
     <item type="id" name="recipient_avatar" />
     <item type="id" name="multiple_recipient_layout" />
@@ -293,22 +305,22 @@
     <item type="id" name="default_instrument_set" />
     <item type="id" name="done_button" />
     <item type="id" name="reminders_button" />
-    <item type="id" name="GooglePayLogo" />
     <item type="id" name="ContactSearch" />
+    <item type="id" name="RequestContactsPermission" />
     <item type="id" name="EnableContactsButton" />
-    <item type="id" name="CreateGroupRequest" />
+    <item type="id" name="StrangerRow" />
     <item type="id" name="ContactList" />
     <item type="id" name="LocalContactList" />
     <item type="id" name="Chips" />
     <item type="id" name="SearchEditText" />
+    <item type="id" name="WebView" />
     <item type="id" name="balance_transfer_ui" />
     <item type="id" name="error_text" />
     <item type="id" name="keypad_view" />
     <item type="id" name="continue_button" />
     <item type="id" name="spinner" />
     <item type="id" name="SingleContact" />
-    <item type="id" name="memo_layout" />
-    <item type="id" name="memo_edit_text" />
+    <item type="id" name="add_memo_button" />
     <item type="id" name="request_money_button" />
     <item type="id" name="button_spacer" />
     <item type="id" name="send_money_button" />
@@ -323,6 +335,9 @@
     <item type="id" name="BalanceCenterRow" />
     <item type="id" name="LowBalanceStatusBelowBalance" />
     <item type="id" name="BalanceAndTopUpWrapper" />
+    <item type="id" name="List" />
+    <item type="id" name="Quicpay" />
+    <item type="id" name="NfcAb" />
     <item type="id" name="passwordInput" />
     <item type="id" name="smallLabel" />
     <item type="id" name="largeLabel" />
@@ -340,6 +355,7 @@
     <item type="id" name="HeaderImage" />
     <item type="id" name="Body" />
     <item type="id" name="Balance" />
+    <item type="id" name="ProgressBar" />
     <item type="id" name="LoyaltyPointDivider" />
     <item type="id" name="LoyaltyPointBalance" />
     <item type="id" name="AddMoneyButton" />
@@ -370,20 +386,23 @@
     <item type="id" name="EventSeatingSeatTitleText" />
     <item type="id" name="EventSeatingSeatValueText" />
     <item type="id" name="DetailsFragmentContent" />
+    <item type="id" name="HeaderCard" />
     <item type="id" name="SmarttapLayout" />
     <item type="id" name="MessagesLayout" />
+    <item type="id" name="TicketHolderName" />
     <item type="id" name="VenueAddress" />
     <item type="id" name="DoorsOpenTime" />
     <item type="id" name="EventStartDateTime" />
     <item type="id" name="EventEndDateTime" />
     <item type="id" name="BarcodeNumber" />
     <item type="id" name="MainImageLayout" />
-    <item type="id" name="IssuerMessagesLayout" />
-    <item type="id" name="ConfirmationNumber" />
-    <item type="id" name="EventTicketNumber" />
+    <item type="id" name="AdditionalMessagesLayout" />
     <item type="id" name="EventTicketType" />
+    <item type="id" name="EventTicketNumber" />
+    <item type="id" name="ConfirmationNumber" />
     <item type="id" name="EvenTicketFaceValue" />
     <item type="id" name="EventTicketTerms" />
+    <item type="id" name="IssuerMessagesLayout" />
     <item type="id" name="LinksLayout" />
     <item type="id" name="SwitchesLayout" />
     <item type="id" name="AutoRedemptionSwitch" />
@@ -396,42 +415,72 @@
     <item type="id" name="ArrivalTime" />
     <item type="id" name="TrainCarName" />
     <item type="id" name="SeatNumber" />
-    <item type="id" name="ActionText" />
+    <item type="id" name="FabMenu" />
     <item type="id" name="ActionImage" />
+    <item type="id" name="ActionText" />
+    <item type="id" name="CheckmarkImage" />
+    <item type="id" name="FareTypeHeader" />
     <item type="id" name="FeedSwipeRefreshView" />
     <item type="id" name="FeedRecyclerView" />
     <item type="id" name="FingerprintDisplay" />
-    <item type="id" name="FingerprintIcon" />
+    <item type="id" name="FingerprintIconContainer" />
+    <item type="id" name="FingerprintIconIdle" />
+    <item type="id" name="FingerprintIconFailure" />
+    <item type="id" name="FingerprintIconSuccess" />
     <item type="id" name="bottom_sheet_button" />
+    <item type="id" name="FlightAirlineGroupLayout" />
+    <item type="id" name="FlightAirlineGroupLogo" />
     <item type="id" name="FlightBoardingLayout" />
     <item type="id" name="FlightNumberTitleText" />
     <item type="id" name="FlightNumberValueText" />
-    <item type="id" name="FlightTerminalGateLayout" />
-    <item type="id" name="FlightTerminalGateTitleText" />
-    <item type="id" name="FlightTerminalGateValueText" />
+    <item type="id" name="FlightTerminalLayout" />
+    <item type="id" name="FlightTerminalTitleText" />
+    <item type="id" name="FlightTerminalValueText" />
+    <item type="id" name="FlightGateLayout" />
+    <item type="id" name="FlightGateTitleText" />
+    <item type="id" name="FlightGateValueText" />
+    <item type="id" name="FlightBoardingTimeLayout" />
     <item type="id" name="FlightBoardingTimeTitleText" />
     <item type="id" name="FlightBoardingTimeValueText" />
-    <item type="id" name="Expiration" />
+    <item type="id" name="BoardingTimeAlertImage" />
+    <item type="id" name="GoogleFlightStatusCard" />
+    <item type="id" name="BoardingPosition" />
+    <item type="id" name="SeatClass" />
+    <item type="id" name="SequenceNumber" />
+    <item type="id" name="BoardingDoor" />
+    <item type="id" name="ETicketNumberView" />
+    <item type="id" name="FlyerNumber" />
+    <item type="id" name="BoardingTime" />
+    <item type="id" name="GateClosesTime" />
+    <item type="id" name="ArrivalTerminalAndGate" />
     <item type="id" name="FlightInfoLayout" />
     <item type="id" name="FlightDepartureTitleText" />
-    <item type="id" name="FlightDepartureValueText" />
-    <item type="id" name="FlightStatusText" />
     <item type="id" name="FlightArrivalTitleText" />
+    <item type="id" name="FlightDepartureValueText" />
+    <item type="id" name="FlightPlaneIcon" />
     <item type="id" name="FlightArrivalValueText" />
     <item type="id" name="FlightSeatingTopDivider" />
     <item type="id" name="FlightSeatingLayout" />
     <item type="id" name="FlightSeatingNameTitleText" />
     <item type="id" name="FlightSeatingNameValueText" />
-    <item type="id" name="FlightSeatingSeatGroupTitleText" />
-    <item type="id" name="FlightSeatingSeatGroupValueText" />
+    <item type="id" name="FlightSeatingInfoLayout" />
+    <item type="id" name="FlightSeatingInfoTitleText" />
+    <item type="id" name="FlightSeatingInfoValueText" />
+    <item type="id" name="FlightSecurityProgramLayout" />
+    <item type="id" name="FlightSecurityProgramLogo" />
+    <item type="id" name="FlightBoardingPrivilegeImage" />
     <item type="id" name="FooterItemIcon" />
     <item type="id" name="FooterItemIconImage" />
     <item type="id" name="ItemDescription" />
     <item type="id" name="MoreInfo" />
     <item type="id" name="ItemDescriptionText" />
     <item type="id" name="SubDescription" />
+    <item type="id" name="qr_generator_fragment" />
+    <item type="id" name="fragment_container" />
+    <item type="id" name="barcode_fragment_container" />
     <item type="id" name="PositiveButton" />
     <item type="id" name="LinkedOffersCarouselLayout" />
+    <item type="id" name="Expiration" />
     <item type="id" name="Pin" />
     <item type="id" name="Notes" />
     <item type="id" name="EventId" />
@@ -439,10 +488,24 @@
     <item type="id" name="UpdateBalanceButton" />
     <item type="id" name="ChainImage" />
     <item type="id" name="SubTitle" />
+    <item type="id" name="Card" />
+    <item type="id" name="FlightStatusCardFlightNumber" />
+    <item type="id" name="FlightStatusCardBoardingLayout" />
+    <item type="id" name="FlightStatusCardTerminal" />
+    <item type="id" name="FlightStatusCardGate" />
+    <item type="id" name="FlightStatusCardStatusLayout" />
+    <item type="id" name="FlightStatusCardStatus" />
+    <item type="id" name="FlightStatusCardActivity" />
+    <item type="id" name="ViewOnWebLayout" />
+    <item type="id" name="ViewOnWebButton" />
     <item type="id" name="email_opted_in_switch" />
+    <item type="id" name="edit_account_info" />
+    <item type="id" name="EditAccountLink" />
+    <item type="id" name="EditAccountTitle" />
     <item type="id" name="customer_selector_item" />
     <item type="id" name="payments_profile_name" />
     <item type="id" name="payments_profile_id" />
+    <item type="id" name="payments_profile_country" />
     <item type="id" name="customer_selector_link" />
     <item type="id" name="transaction_notifications_switch" />
     <item type="id" name="p2p_notifications_switch" />
@@ -452,14 +515,17 @@
     <item type="id" name="master_valuable_switch" />
     <item type="id" name="valuable_list_container" />
     <item type="id" name="p2p_pin_required_switch" />
+    <item type="id" name="p2p_fingerprint_required_switch" />
+    <item type="id" name="link_phone_number_switch" />
     <item type="id" name="general_settings_item" />
     <item type="id" name="notification_settings_item" />
     <item type="id" name="p2p_settings_item" />
-    <item type="id" name="ScrollView" />
     <item type="id" name="TransactionCard" />
     <item type="id" name="TransactionCardLayout" />
+    <item type="id" name="BackButton" />
     <item type="id" name="HeaderMerchantLogo" />
     <item type="id" name="StatusNotice" />
+    <item type="id" name="Memo" />
     <item type="id" name="PrimaryActionButton" />
     <item type="id" name="SecondaryActionButton" />
     <item type="id" name="DateTimeLayout" />
@@ -474,41 +540,65 @@
     <item type="id" name="DisclaimerText" />
     <item type="id" name="TapList" />
     <item type="id" name="InferredDetailsLayout" />
+    <item type="id" name="InferredMerchantNameLayout" />
+    <item type="id" name="MerchantNameIcon" />
+    <item type="id" name="InferredStoreName" />
+    <item type="id" name="MerchantNameHeader" />
+    <item type="id" name="InferredMerchantName" />
     <item type="id" name="InferredAddressLayout" />
     <item type="id" name="AddressIcon" />
-    <item type="id" name="InferredStoreName" />
-    <item type="id" name="InferredMerchantName" />
+    <item type="id" name="LocationHeader" />
     <item type="id" name="InferredAddress" />
     <item type="id" name="InferredPhoneNumberLayout" />
     <item type="id" name="PhoneIcon" />
     <item type="id" name="InferredPhoneNumber" />
+    <item type="id" name="PhoneHeader" />
     <item type="id" name="InferredUrlLayout" />
     <item type="id" name="WebIcon" />
     <item type="id" name="InferredUrl" />
+    <item type="id" name="WebsiteHeader" />
     <item type="id" name="FeedbackAcknowledgementLayout" />
     <item type="id" name="AdditionalActionsLayout" />
+    <item type="id" name="P2pMetaData" />
+    <item type="id" name="RecipientAccountLayout" />
+    <item type="id" name="RecipientAccountHeader" />
+    <item type="id" name="RecipientAccount" />
+    <item type="id" name="TxnIdLayout" />
+    <item type="id" name="TxnIdHeader" />
+    <item type="id" name="TxnId" />
+    <item type="id" name="TxnStatusLayout" />
+    <item type="id" name="TxnStatusHeader" />
+    <item type="id" name="TxnStatus" />
     <item type="id" name="PaidWithExplanation" />
-    <item type="id" name="TransactionQuestionsButton" />
+    <item type="id" name="TokenizedTxnQuestionsButton" />
     <item type="id" name="PendingTransactionsDisclaimer" />
     <item type="id" name="LegalDisclaimer" />
+    <item type="id" name="ContactSupport" />
     <item type="id" name="DepartureDateTitle" />
     <item type="id" name="DepartureDate" />
     <item type="id" name="FareType" />
     <item type="id" name="Content" />
     <item type="id" name="ContentViewForTesting" />
     <item type="id" name="MainImage" />
+    <item type="id" name="spinnerGroup" />
     <item type="id" name="hint" />
     <item type="id" name="DrawerLayout" />
     <item type="id" name="CoordinatorLayout" />
     <item type="id" name="BottomNavigation" />
     <item type="id" name="ViewPager" />
-    <item type="id" name="FabFragment" />
+    <item type="id" name="ExtendedFab" />
     <item type="id" name="NavDrawerFragment" />
+    <item type="id" name="EmptyView" />
+    <item type="id" name="EmptyViewTitle" />
+    <item type="id" name="EmptyViewSubtitle" />
+    <item type="id" name="EmptyViewAnimation" />
+    <item type="id" name="Body2" />
     <item type="id" name="TitleDismissButton" />
     <item type="id" name="ImageGrid" />
     <item type="id" name="InstrumentOptionLogo" />
     <item type="id" name="InstrumentDescription" />
     <item type="id" name="InstrumentNotice" />
+    <item type="id" name="legal_message" />
     <item type="id" name="LogoContainer" />
     <item type="id" name="PaymentInstrument" />
     <item type="id" name="InstrumentOptionProgress" />
@@ -538,7 +628,6 @@
     <item type="id" name="CardViewCropperForTransition" />
     <item type="id" name="CardViewForTransitionSlide" />
     <item type="id" name="CardViewForTransitionFade" />
-    <item type="id" name="ProgressBar" />
     <item type="id" name="TosHeader" />
     <item type="id" name="Tos" />
     <item type="id" name="DetailedMessage" />
@@ -548,8 +637,8 @@
     <item type="id" name="LandingScreenContainer" />
     <item type="id" name="RichCardArtView" />
     <item type="id" name="BasicCardArtView" />
-    <item type="id" name="BottomGuideline" />
     <item type="id" name="CtaButton" />
+    <item type="id" name="NfcInstruction" />
     <item type="id" name="MainMessage" />
     <item type="id" name="LegalText" />
     <item type="id" name="ConfirmButton" />
@@ -558,8 +647,10 @@
     <item type="id" name="license_activity_textview" />
     <item type="id" name="license_menu_fragment_container" />
     <item type="id" name="license_list" />
+    <item type="id" name="LineItemLayout" />
+    <item type="id" name="ItemName" />
+    <item type="id" name="Cost" />
     <item type="id" name="LinkText" />
-    <item type="id" name="Card" />
     <item type="id" name="OfferFooterLayout" />
     <item type="id" name="OfferFooter" />
     <item type="id" name="OfferImageContainer" />
@@ -591,9 +682,10 @@
     <item type="id" name="BalanceThresholdContainer" />
     <item type="id" name="EnableNotificationButton" />
     <item type="id" name="DisableNotificationButton" />
-    <item type="id" name="MemberName" />
-    <item type="id" name="Tier" />
-    <item type="id" name="SecondaryTier" />
+    <item type="id" name="LoyaltyCardMemberName" />
+    <item type="id" name="LoyaltyCardMemberId" />
+    <item type="id" name="LoyaltyCardTier" />
+    <item type="id" name="LoyaltyCardSecondaryTier" />
     <item type="id" name="ButtonLayout" />
     <item type="id" name="CancelButton" />
     <item type="id" name="FormLayout" />
@@ -603,9 +695,7 @@
     <item type="id" name="UserDataPrompts" />
     <item type="id" name="SignUpAgreement" />
     <item type="id" name="WebBanner" />
-    <item type="id" name="WebView" />
     <item type="id" name="MainImageCard" />
-    <item type="id" name="MainImageDivider" />
     <item type="id" name="manage_accounts_text" />
     <item type="id" name="MessageHeader" />
     <item type="id" name="NavigateImage" />
@@ -618,7 +708,6 @@
     <item type="id" name="list" />
     <item type="id" name="text_heading" />
     <item type="id" name="text_message" />
-    <item type="id" name="upgrade_button" />
     <item type="id" name="NavDrawer" />
     <item type="id" name="MenuItem" />
     <item type="id" name="ItemLauncherIcon" />
@@ -626,7 +715,6 @@
     <item type="id" name="ErrorMessage" />
     <item type="id" name="RetryButton" />
     <item type="id" name="ListContainer" />
-    <item type="id" name="List" />
     <item type="id" name="NearbyStoresCardView" />
     <item type="id" name="NearbyStoresImageView" />
     <item type="id" name="NearbyStores" />
@@ -718,19 +806,14 @@
     <item type="id" name="Details" />
     <item type="id" name="Terms" />
     <item type="id" name="Provider" />
-    <item type="id" name="PrimaryText" />
-    <item type="id" name="SecondaryText" />
-    <item type="id" name="AddBankAccount" />
-    <item type="id" name="AddPaypal" />
-    <item type="id" name="AddVisaCheckout" />
     <item type="id" name="Avatar" />
     <item type="id" name="DisplayName" />
     <item type="id" name="Address" />
-    <item type="id" name="p2p_title" />
+    <item type="id" name="P2pSwipeRefreshView" />
     <item type="id" name="suggested_contacts" />
     <item type="id" name="recent_transactions_container" />
     <item type="id" name="reminders_card_view" />
-    <item type="id" name="legal_string" />
+    <item type="id" name="PassesRecycler" />
     <item type="id" name="CardDetailsContainer" />
     <item type="id" name="CardDetailsLayout" />
     <item type="id" name="CardViewContainer" />
@@ -744,11 +827,20 @@
     <item type="id" name="PrivacyNotice" />
     <item type="id" name="Contact" />
     <item type="id" name="RemoveCard" />
+    <item type="id" name="SwipeRefreshLayout" />
     <item type="id" name="Row" />
     <item type="id" name="Guideline" />
+    <item type="id" name="Switch" />
+    <item type="id" name="PrimaryText" />
+    <item type="id" name="SecondaryText" />
     <item type="id" name="TertiaryText" />
     <item type="id" name="CardUsedRow" />
+    <item type="id" name="PaymentMethodSectionHeader" />
     <item type="id" name="PaymentMethodTitle" />
+    <item type="id" name="CardArtViewContainer" />
+    <item type="id" name="CardArtView" />
+    <item type="id" name="unlink_phone_number" />
+    <item type="id" name="action_link" />
     <item type="id" name="pin_entry_1" />
     <item type="id" name="pin_entry_2" />
     <item type="id" name="pin_entry_3" />
@@ -790,9 +882,11 @@
     <item type="id" name="Main" />
     <item type="id" name="RightContainer" />
     <item type="id" name="Right" />
-    <item type="id" name="GoogleTosTitle" />
-    <item type="id" name="GoogleTosMessage" />
-    <item type="id" name="GoogleTosSubMessage" />
+    <item type="id" name="pager" />
+    <item type="id" name="tab_layout" />
+    <item type="id" name="generate_tab" />
+    <item type="id" name="scan_tab" />
+    <item type="id" name="view_pager" />
     <item type="id" name="StatusText" />
     <item type="id" name="ScreenLockOptOutCheckBox" />
     <item type="id" name="RedeemPointsTitle" />
@@ -810,25 +904,26 @@
     <item type="id" name="fragment_popup" />
     <item type="id" name="Name" />
     <item type="id" name="Identifier" />
-    <item type="id" name="MoneyEntry" />
     <item type="id" name="TransferType" />
     <item type="id" name="RadioSend" />
     <item type="id" name="RadioRequest" />
+    <item type="id" name="RemindersCurrencySymbol" />
+    <item type="id" name="MoneyEntry" />
     <item type="id" name="Frequency" />
     <item type="id" name="Occurrence" />
     <item type="id" name="OccurrenceInterceptor" />
+    <item type="id" name="NoteContainer" />
     <item type="id" name="Note" />
     <item type="id" name="SaveButton" />
     <item type="id" name="Reminders" />
-    <item type="id" name="SetReminder" />
-    <item type="id" name="reminders_active_label" />
     <item type="id" name="RemindersEmptyList" />
     <item type="id" name="RemindersLogo" />
-    <item type="id" name="RemindersExample" />
     <item type="id" name="RemindersRecyclerView" />
+    <item type="id" name="RemindersItemIcon" />
     <item type="id" name="RemindersItemTitle" />
     <item type="id" name="RemindersItemSubTitle" />
     <item type="id" name="RemindersItemButton" />
+    <item type="id" name="reminders_section_header" />
     <item type="id" name="RescanButton" />
     <item type="id" name="RewardListCard" />
     <item type="id" name="RewardItemContainer" />
@@ -845,7 +940,6 @@
     <item type="id" name="SecondaryRewardsTitleText" />
     <item type="id" name="SecondaryRewardsValueText" />
     <item type="id" name="ImmediateSaveWithTextSection" />
-    <item type="id" name="ImmediateSaveCardPreview" />
     <item type="id" name="ToolbarClose" />
     <item type="id" name="CardBackground" />
     <item type="id" name="TemplateValuable" />
@@ -900,7 +994,6 @@
     <item type="id" name="ListHeaderSpinner" />
     <item type="id" name="SuggestionList" />
     <item type="id" name="QueryCard" />
-    <item type="id" name="BackButton" />
     <item type="id" name="Input" />
     <item type="id" name="ClearButton" />
     <item type="id" name="SectionHeaderText" />
@@ -908,6 +1001,7 @@
     <item type="id" name="CurrentAccountSelectionView" />
     <item type="id" name="Owners" />
     <item type="id" name="TopItems" />
+    <item type="id" name="FareTypeItemsLayout" />
     <item type="id" name="Subheader" />
     <item type="id" name="TrasitAgencyItemsLayout" />
     <item type="id" name="account_switcher_lib_view_wrapper" />
@@ -924,9 +1018,9 @@
     <item type="id" name="ServiceProviderStateCard" />
     <item type="id" name="WarningIcon" />
     <item type="id" name="ResolveCardStateButton" />
-    <item type="id" name="Switch" />
     <item type="id" name="SettingTitle" />
     <item type="id" name="SettingDescription" />
+    <item type="id" name="CustomContainer" />
     <item type="id" name="sign_in" />
     <item type="id" name="errorCode" />
     <item type="id" name="activity_main" />
@@ -961,7 +1055,6 @@
     <item type="id" name="street_address_edit_text" />
     <item type="id" name="phonenumber" />
     <item type="id" name="phone_number_edit_text" />
-    <item type="id" name="yearEdit" />
     <item type="id" name="birthday" />
     <item type="id" name="birthday_edit_text" />
     <item type="id" name="birthdayHint" />
@@ -973,9 +1066,20 @@
     <item type="id" name="disclaimer" />
     <item type="id" name="sign_up" />
     <item type="id" name="progressbar" />
-    <item type="id" name="FirstRowTitleText" />
-    <item type="id" name="SecondaryRowText" />
-    <item type="id" name="RightJustifiedText" />
+    <item type="id" name="guidelineHorizontal" />
+    <item type="id" name="guidelineVertical" />
+    <item type="id" name="animationView" />
+    <item type="id" name="SmartTapValuablesDisambigSelectionPrompt" />
+    <item type="id" name="SmartTapValuablesCarousel" />
+    <item type="id" name="SmarttapTutorialImage" />
+    <item type="id" name="TutorialTitle" />
+    <item type="id" name="TutorialBody" />
+    <item type="id" name="TutorialDismiss" />
+    <item type="id" name="TextSpinner" />
+    <item type="id" name="SuggestedContactsTitle" />
+    <item type="id" name="LoadingPlaceholder" />
+    <item type="id" name="contacts_list" />
+    <item type="id" name="NoSuggestedContacts" />
     <item type="id" name="PassContainer" />
     <item type="id" name="PassTitle" />
     <item type="id" name="FirstZone" />
@@ -986,14 +1090,6 @@
     <item type="id" name="GreenZone" />
     <item type="id" name="ExpirationTitle" />
     <item type="id" name="ExpirationDate" />
-    <item type="id" name="SmarttapTutorialImage" />
-    <item type="id" name="TutorialTitle" />
-    <item type="id" name="TutorialBody" />
-    <item type="id" name="TutorialDismiss" />
-    <item type="id" name="TextSpinner" />
-    <item type="id" name="SuggestedContactsTitle" />
-    <item type="id" name="contacts_list" />
-    <item type="id" name="NoSuggestedContacts" />
     <item type="id" name="close_survey_button" />
     <item type="id" name="survey_title" />
     <item type="id" name="survey_question_container" />
@@ -1052,7 +1148,13 @@
     <item type="id" name="Area" />
     <item type="id" name="Gender" />
     <item type="id" name="YearOfBirth" />
+    <item type="id" name="LineItems" />
+    <item type="id" name="TotalAmount" />
+    <item type="id" name="PurchaseButton" />
     <item type="id" name="ToggleDefaultCard" />
+    <item type="id" name="DefaultTokenToggleContainer" />
+    <item type="id" name="ToggleDefaultCardDivider" />
+    <item type="id" name="DefaultP2pToggleContainer" />
     <item type="id" name="CardImageView" />
     <item type="id" name="Label" />
     <item type="id" name="PaymentInstrumentContainer" />
@@ -1068,6 +1170,7 @@
     <item type="id" name="tp_dialog_positive_button" />
     <item type="id" name="tp_dialog_negative_button" />
     <item type="id" name="TransactionActionButtonRow" />
+    <item type="id" name="ActionButton" />
     <item type="id" name="CardViewLayout" />
     <item type="id" name="TransactionHeader" />
     <item type="id" name="UndoFeedbackButton" />
@@ -1087,6 +1190,7 @@
     <item type="id" name="ReportWrongAddress" />
     <item type="id" name="InstallAppInfoSpacer" />
     <item type="id" name="TfLDisclaimer" />
+    <item type="id" name="TransactionQuestionsButton" />
     <item type="id" name="BottomTransactionSection" />
     <item type="id" name="TransactionStatus" />
     <item type="id" name="DateLayout" />
@@ -1095,16 +1199,26 @@
     <item type="id" name="Timestamp" />
     <item type="id" name="CardLayout" />
     <item type="id" name="CardName" />
+    <item type="id" name="NoTransactionsLayout" />
+    <item type="id" name="NoTransactionsTitle" />
+    <item type="id" name="NoTransactionsBody" />
+    <item type="id" name="SeTransactionDisclaimer" />
+    <item type="id" name="FilterBanner" />
+    <item type="id" name="FilterLabel" />
+    <item type="id" name="ClearFilter" />
     <item type="id" name="TransactionsListCard" />
     <item type="id" name="NoTransactionsHeader" />
-    <item type="id" name="NoTransactionsBody" />
     <item type="id" name="TransactionItemContainer" />
+    <item type="id" name="AmountContainer" />
     <item type="id" name="SubheaderContainer" />
-    <item type="id" name="StatusContainer" />
+    <item type="id" name="MemoDivider" />
     <item type="id" name="TakeActionButtonPadding" />
     <item type="id" name="TakeActionButton" />
     <item type="id" name="TransactionSummary" />
     <item type="id" name="BottomSheetContent" />
+    <item type="id" name="add_payment_image_view" />
+    <item type="id" name="bottom_sheet_button_holder" />
+    <item type="id" name="bottom_sheet_additional_button" />
     <item type="id" name="AgencyHeader" />
     <item type="id" name="AgencySubheader" />
     <item type="id" name="StationMapCard" />
@@ -1133,7 +1247,6 @@
     <item type="id" name="PrefixMoneySymbol" />
     <item type="id" name="SuffixMoneySymbol" />
     <item type="id" name="AddLoyaltyLayout" />
-    <item type="id" name="HeaderCard" />
     <item type="id" name="PendingValuableLayout" />
     <item type="id" name="PendingValuableTitle" />
     <item type="id" name="PendingValuableAddButton" />
@@ -1144,8 +1257,10 @@
     <item type="id" name="ScanButton" />
     <item type="id" name="ManualButton" />
     <item type="id" name="ValuableBarcodeLayout" />
-    <item type="id" name="ValuableDetailsLayout" />
-    <item type="id" name="FragmentContainer" />
+    <item type="id" name="AdditionalInfoLayout" />
+    <item type="id" name="AdditionalInfoTopDivider" />
+    <item type="id" name="AdditionalInfoContent" />
+    <item type="id" name="TabLayout" />
     <item type="id" name="Barcode" />
     <item type="id" name="NotificationSwitch" />
     <item type="id" name="TransitionContainer" />
@@ -1165,6 +1280,7 @@
     <item type="id" name="ValuablePreviewMessageSubheader" />
     <item type="id" name="ActionButtonLayout" />
     <item type="id" name="PostSaveLayout" />
+    <item type="id" name="StartSpace" />
     <item type="id" name="Summary" />
     <item type="id" name="PinDotsView" />
     <item type="id" name="KeypadView" />
@@ -1178,13 +1294,17 @@
     <item type="id" name="WalletCardRow" />
     <item type="id" name="WalletCardView" />
     <item type="id" name="WalletCardViewBackgroundContainer" />
-    <item type="id" name="WalletCardLogo" />
+    <item type="id" name="WalletCardSquareLogo" />
+    <item type="id" name="WalletCardRectangleLogo" />
+    <item type="id" name="FirstRowTitleText" />
+    <item type="id" name="SecondaryRowText" />
     <item type="id" name="RightSecondaryRowText" />
     <item type="id" name="TertiaryRow" />
     <item type="id" name="DefaultCardIcon" />
     <item type="id" name="TertiaryRowAlternateIcon" />
     <item type="id" name="TertiaryRowText" />
     <item type="id" name="wallet_label_text" />
+    <item type="id" name="RecyclerContainer" />
     <item type="id" name="fancy_money_container" />
     <item type="id" name="integer_part" />
     <item type="id" name="integer_part_thousands" />
@@ -1199,8 +1319,10 @@
     <item type="id" name="launchscreens_logo_text" />
     <item type="id" name="visible" />
     <item type="id" name="masked" />
+    <item type="id" name="filter" />
     <item type="id" name="HomeItem" />
     <item type="id" name="WalletItem" />
+    <item type="id" name="PassesItem" />
     <item type="id" name="P2pItem" />
     <item type="id" name="itemOptOut" />
     <item type="id" name="DeleteButton" />

@@ -5,12 +5,12 @@
         <item quantity="one">Въведете само още %d човек</item>
     </plurals>
     <plurals name="notification_message_nfc_event_ticket_clo">
-        <item quantity="other">Налице са %1$d оферти с билет за събитие от %2$s</item>
-        <item quantity="one">Налице е %1$d оферта с билет за събитие от %2$s</item>
+        <item quantity="other">Налице са %1$d оферти с билета ви</item>
+        <item quantity="one">Налице е %1$d оферта с билета ви</item>
     </plurals>
     <plurals name="notification_message_nfc_flight_clo">
-        <item quantity="other">Налице са %1$d оферти с полет на %2$s</item>
-        <item quantity="one">Налице е %1$d оферта с полет на %2$s</item>
+        <item quantity="other">Налице са %1$d оферти с бордната ви карта</item>
+        <item quantity="one">Налице е %1$d оферта с бордната ви карта</item>
     </plurals>
     <plurals name="notification_message_nfc_gift_clo">
         <item quantity="other">Налице са %1$d оферти с карта за подарък от %2$s</item>
@@ -31,10 +31,6 @@
     <plurals name="notification_title_clo_at_place">
         <item quantity="other">Налице са %1$d оферти за %2$s</item>
         <item quantity="one">Налице е %1$d оферта за %2$s</item>
-    </plurals>
-    <plurals name="requests_quantity">
-        <item quantity="other">%d заявки</item>
-        <item quantity="one">%d заявка</item>
     </plurals>
     <plurals name="split_subtitle">
         <item quantity="other">Разделяне на %1$s с/ъс %2$d души</item>

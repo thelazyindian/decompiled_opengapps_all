@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="top" android:orientation="vertical" android:id="@id/FlightInfoLayout" android:paddingTop="12.0dip" android:paddingBottom="12.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <TextView android:textAppearance="@style/Text_GooglePay_Overline" android:gravity="start" android:id="@id/FlightDepartureTitleText" android:layout_width="0.0dip" android:layout_height="wrap_content" android:maxLines="1" android:layout_weight="1.0" />
+        <TextView android:textAppearance="@style/Text_GooglePay_Overline" android:gravity="end" android:id="@id/FlightArrivalTitleText" android:layout_width="0.0dip" android:layout_height="wrap_content" android:maxLines="1" android:layout_weight="1.0" />
+    </LinearLayout>
+    <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <TextView android:textAppearance="@style/Text_GooglePay_Headline1" android:gravity="start" android:id="@id/FlightDepartureValueText" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_weight="1.0" />
+        <ImageView android:id="@id/FlightPlaneIcon" android:layout_width="18.0dip" android:layout_height="18.0dip" android:src="@drawable/quantum_ic_flight_grey600_48" android:scaleType="fitCenter" android:contentDescription="@string/flight_icon_description" android:rotation="90.0" />
+        <TextView android:textAppearance="@style/Text_GooglePay_Headline1" android:gravity="end" android:id="@id/FlightArrivalValueText" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_weight="1.0" />
+    </LinearLayout>
+</LinearLayout>

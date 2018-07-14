@@ -8,7 +8,7 @@
                 <com.google.commerce.tapandpay.android.cardview.RoundedCardView android:id="@id/Card" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/medium_spacing" android:layout_marginRight="@dimen/medium_spacing" app:cardBackgroundColor="@android:color/transparent" app:cardCornerRadius="16.0dip" app:cardElevation="@dimen/card_elevation">
                     <ImageView android:id="@id/CardView" android:layout_width="fill_parent" android:layout_height="wrap_content" android:adjustViewBounds="true" />
                 </com.google.commerce.tapandpay.android.cardview.RoundedCardView>
-                <TextView android:gravity="center" android:id="@id/HoldNearTerminalText" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="48.0dip" android:layout_marginTop="@dimen/narrow_spacing" android:layout_marginBottom="@dimen/default_spacing" android:text="@string/hold_phone_near_terminal_to_pay" style="@style/Text_Value.Gray700" />
+                <TextView android:gravity="center" android:id="@id/HoldNearTerminalText" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="48.0dip" android:layout_marginTop="@dimen/narrow_spacing" android:layout_marginBottom="@dimen/default_spacing" android:text="@string/hold_phone_near_terminal_to_pay" style="@style/Text_GooglePay_Subhead1.Regular.Grey700" />
             </LinearLayout>
             <android.support.v7.widget.RecyclerView android:orientation="vertical" android:id="@id/Content" android:visibility="visible" android:layout_width="fill_parent" android:layout_height="wrap_content" android:importantForAccessibility="no" />
         </LinearLayout>

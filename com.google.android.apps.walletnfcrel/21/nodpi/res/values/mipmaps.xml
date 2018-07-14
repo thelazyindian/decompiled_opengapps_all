@@ -5,6 +5,11 @@
     <item type="mipmap" name="APKTOOL_DUMMY_1">false</item>
     <item type="mipmap" name="APKTOOL_DUMMY_2">false</item>
     <item type="mipmap" name="APKTOOL_DUMMY_6">false</item>
+    <item type="mipmap" name="APKTOOL_DUMMY_7">false</item>
     <item type="mipmap" name="APKTOOL_DUMMY_8">false</item>
     <item type="mipmap" name="APKTOOL_DUMMY_9">false</item>
+    <item type="mipmap" name="APKTOOL_DUMMY_a">false</item>
+    <item type="mipmap" name="APKTOOL_DUMMY_b">false</item>
+    <item type="mipmap" name="APKTOOL_DUMMY_d">false</item>
+    <item type="mipmap" name="APKTOOL_DUMMY_e">false</item>
 </resources>

@@ -5,12 +5,12 @@
         <item quantity="one">Ange upp till %d person till</item>
     </plurals>
     <plurals name="notification_message_nfc_event_ticket_clo">
-        <item quantity="other">%1$d tillgängliga erbjudanden med evenemangsbiljett från %2$s</item>
-        <item quantity="one">%1$d tillgängligt erbjudande med evenemangsbiljett från %2$s</item>
+        <item quantity="other">%1$d erbjudanden tillgängliga med biljetten</item>
+        <item quantity="one">%1$d erbjudande tillgängligt med biljetten</item>
     </plurals>
     <plurals name="notification_message_nfc_flight_clo">
-        <item quantity="other">%1$d tillgängligt erbjudande för flyg med %2$s</item>
-        <item quantity="one">%1$d tillgängligt erbjudande för flyg med %2$s</item>
+        <item quantity="other">%1$d erbjudanden tillgängliga med boardingkortet</item>
+        <item quantity="one">%1$d erbjudande tillgängligt med boardingkortet</item>
     </plurals>
     <plurals name="notification_message_nfc_gift_clo">
         <item quantity="other">%1$d tillgängliga erbjudanden med presentkort från %2$s</item>
@@ -31,10 +31,6 @@
     <plurals name="notification_title_clo_at_place">
         <item quantity="other">%1$d tillgängliga erbjudanden på %2$s</item>
         <item quantity="one">%1$d tillgängligt erbjudande på %2$s</item>
-    </plurals>
-    <plurals name="requests_quantity">
-        <item quantity="other">%d begäranden</item>
-        <item quantity="one">%d begäran</item>
     </plurals>
     <plurals name="split_subtitle">
         <item quantity="other">Dela%1$s med %2$d personer</item>

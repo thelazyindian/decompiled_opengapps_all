@@ -12,10 +12,10 @@
                 <ImageView android:id="@id/Arrow" android:layout_width="@dimen/ico_paytoarrow_width" android:layout_height="@dimen/ico_paytoarrow_height" android:src="@drawable/ico_arrow" android:contentDescription="@string/arrow_description" android:layout_marginStart="@dimen/narrow_spacing" android:layout_marginEnd="@dimen/narrow_spacing" />
                 <ImageView android:id="@id/MerchantLogo" android:layout_width="@dimen/ico_logo_size" android:layout_height="@dimen/ico_logo_size" android:contentDescription="@string/merchant_logo" />
             </LinearLayout>
-            <TextView android:id="@id/ShareConfirmation" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/narrow_spacing" style="@style/Text_Headline" />
-            <TextView android:id="@id/SignUpDescription" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/signup_info_description" style="@style/Text_Body_2" />
+            <TextView android:textAppearance="@style/Text_GooglePay_Headline5" android:id="@id/ShareConfirmation" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/narrow_spacing" />
+            <TextView android:textAppearance="@style/Text_GooglePay_Body2" android:id="@id/SignUpDescription" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/signup_info_description" />
             <LinearLayout android:orientation="vertical" android:id="@id/UserDataPrompts" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/form_margin_top" android:layout_marginBottom="@dimen/form_margin_bottom" />
-            <TextView android:id="@id/SignUpAgreement" android:layout_width="fill_parent" android:layout_height="wrap_content" style="@style/Text_Caption" />
+            <TextView android:textAppearance="@style/Text_GooglePay_Caption" android:id="@id/SignUpAgreement" android:layout_width="fill_parent" android:layout_height="wrap_content" />
         </LinearLayout>
     </ScrollView>
     <ProgressBar android:id="@id/ProgressBar" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_centerInParent="true" />

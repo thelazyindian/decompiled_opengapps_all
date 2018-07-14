@@ -7,16 +7,16 @@
         <item quantity="many">Wpisz jeszcze maks. %d osób</item>
     </plurals>
     <plurals name="notification_message_nfc_event_ticket_clo">
-        <item quantity="other">%1$d dostępnej oferty powiązanej z biletem na wydarzenie wydawcy %2$s</item>
-        <item quantity="one">%1$d dostępna oferta powiązana z biletem na wydarzenie wydawcy %2$s</item>
-        <item quantity="few">%1$d dostępne oferty powiązane z biletem na wydarzenie wydawcy %2$s</item>
-        <item quantity="many">%1$d dostępnych ofert powiązanych z biletem na wydarzenie wydawcy %2$s</item>
+        <item quantity="other">%1$d oferty powiązanej z Twoim biletem</item>
+        <item quantity="one">%1$d oferta powiązana z Twoim biletem</item>
+        <item quantity="few">%1$d oferty powiązane z Twoim biletem</item>
+        <item quantity="many">%1$d ofert powiązanych z Twoim biletem</item>
     </plurals>
     <plurals name="notification_message_nfc_flight_clo">
-        <item quantity="other">%1$d dostępnej oferty powiązanej z lotem liniami %2$s</item>
-        <item quantity="one">%1$d dostępna oferta powiązana z lotem liniami %2$s</item>
-        <item quantity="few">%1$d dostępne oferty powiązane z lotem liniami %2$s</item>
-        <item quantity="many">%1$d dostępnych ofert powiązanych z lotem liniami %2$s</item>
+        <item quantity="other">%1$d oferty powiązanej z Twoją kartą pokładową</item>
+        <item quantity="one">%1$d oferta powiązana z Twoją kartą pokładową</item>
+        <item quantity="few">%1$d oferty powiązane z Twoją kartą pokładową</item>
+        <item quantity="many">%1$d ofert powiązanych z Twoją kartą pokładową</item>
     </plurals>
     <plurals name="notification_message_nfc_gift_clo">
         <item quantity="other">%1$d dostępnej oferty powiązanej z kartą podarunkową wydawcy %2$s</item>
@@ -47,12 +47,6 @@
         <item quantity="one">%1$d oferta dostępna w: %2$s</item>
         <item quantity="few">%1$d oferty dostępne w: %2$s</item>
         <item quantity="many">%1$d ofert dostępnych w: %2$s</item>
-    </plurals>
-    <plurals name="requests_quantity">
-        <item quantity="other">%d prośby</item>
-        <item quantity="one">%d prośba</item>
-        <item quantity="few">%d prośby</item>
-        <item quantity="many">%d prósb</item>
     </plurals>
     <plurals name="split_subtitle">
         <item quantity="other">Podziel %1$s między siebie i %2$d innej osoby</item>

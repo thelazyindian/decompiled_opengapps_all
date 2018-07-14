@@ -6,14 +6,14 @@
         <item quantity="few">Unesite još najviše %d osobe</item>
     </plurals>
     <plurals name="notification_message_nfc_event_ticket_clo">
-        <item quantity="other">%1$d ponuda je dostupno uz kartu izdavaoca %2$s</item>
-        <item quantity="one">%1$d ponuda je dostupna uz kartu izdavaoca %2$s</item>
-        <item quantity="few">%1$d ponude su dostupne uz kartu izdavaoca %2$s</item>
+        <item quantity="other">%1$d ponuda je dostupno uz kartu</item>
+        <item quantity="one">%1$d ponuda je dostupna uz kartu</item>
+        <item quantity="few">%1$d ponude su dostupne uz kartu</item>
     </plurals>
     <plurals name="notification_message_nfc_flight_clo">
-        <item quantity="other">%1$d ponuda je dostupno uz let avio-kompanije %2$s</item>
-        <item quantity="one">%1$d ponuda je dostupna uz let avio-kompanije %2$s</item>
-        <item quantity="few">%1$d ponude su dostupne uz let avio-kompanije %2$s</item>
+        <item quantity="other">%1$d ponuda je dostupno uz kartu za ukrcavanje</item>
+        <item quantity="one">%1$d ponuda je dostupna uz kartu za ukrcavanje</item>
+        <item quantity="few">%1$d ponude su dostupne uz kartu za ukrcavanje</item>
     </plurals>
     <plurals name="notification_message_nfc_gift_clo">
         <item quantity="other">%1$d ponuda je dostupno uz poklon karticu za %2$s</item>
@@ -39,11 +39,6 @@
         <item quantity="other">%1$d ponuda je dostupno kod prodavca %2$s</item>
         <item quantity="one">%1$d ponuda je dostupna kod prodavca %2$s</item>
         <item quantity="few">%1$d ponude su dostupne kod prodavca %2$s</item>
-    </plurals>
-    <plurals name="requests_quantity">
-        <item quantity="other">%d zahteva</item>
-        <item quantity="one">%d zahtev</item>
-        <item quantity="few">%d zahteva</item>
     </plurals>
     <plurals name="split_subtitle">
         <item quantity="other">Podelite %1$s sa %2$d korisnika</item>

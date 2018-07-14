@@ -29,56 +29,40 @@
 304002:10693 Compatibility Libraries for Android localbroadcastmanager.
 314742:10693 Compatibility Libraries for Android print.
 325494:10693 Compatibility Libraries for Android slidingpanelayout.
-336247:10693 Compatibility Libraries for Android swiperefreshlayout.
-346991:10693 Compatibility Libraries for Android viewpager.
-357702:11358 Crunchy Crypt
-369071:11358 Dagger
-380445:11357 Error Prone
-391815:11358 EventBus
-403189:11358 Google Auto
-414562:11358 Guava JDK5
-425935:11362 Guava JDK7
-437308:11358 J2ObjC
-448678:11358 JSR 250
-460048:11365 JSR 330
-471424:11356 Lottie
-482816:11358 Material Components for Android
-494183:11358 Okio
-505562:11850 RoundedImageView
-517443:11343 YouTube Android Player API
-528796:11357 ZXing
-540162:11365 absl
-551538:11358 backup
-562908:11358 flexbox
-574275:11358 gson
-585652:10173 libphonenumber
-595837:11358 okhttp3
-607210:11357 pcg_random
-618579:11358 picasso
-629953:16013 Android SDK
-645988:22655 Checker Framework
-668652:26536 GRTE
-695205:7364 bouncycastle
-702580:20240 libcap
-722839:1096 Animal Sniffer
-723946:1084 Brotli
-725042:5416 Libxml2
-730466:680 STL
-731154:731 UTF
-731894:694 ares
-732612:1115 bouncycastle_bcpkix
-733737:1104 jsoup
-734850:2500 zlib
-737364:12517 BoringSSL
-749892:43785 Cronet
-793687:4771 Glide
-798468:21000 ICU4C
-819478:19442 ICU4J
-838952:1559 Chrome Certificate Verifier
-840523:1602 JSR 305
-842134:3182 PCRE
-845334:1732 Protobuf Nano
-847074:1558 RE2
-848648:1481 darts_clone
-850139:2655 zippy
-852806:1530 zstdlib
+336247:10695 Compatibility Libraries for Android support-slices_core
+347002:10693 Compatibility Libraries for Android swiperefreshlayout.
+357746:10693 Compatibility Libraries for Android viewpager.
+368450:11358 Dagger
+379824:11357 Error Prone
+391194:11358 EventBus
+402568:11358 Google Auto
+413941:11358 Guava JDK5
+425314:11362 Guava JDK7
+436687:11358 J2ObjC
+448057:11358 JSR 250
+459427:11365 JSR 330
+470803:11356 Lottie
+482195:11358 Material Components for Android
+493562:11358 Okio
+504941:11850 RoundedImageView
+516822:11343 YouTube Android Player API
+528175:11357 ZXing
+539541:11365 absl
+550915:10219 ahat
+561145:11358 backup
+572515:11358 flexbox
+583882:11358 gson
+595259:10173 libphonenumber
+605444:11358 okhttp3
+616814:11358 picasso
+628188:16013 Android SDK
+644212:43738 Cronet
+687960:19442 ICU4J
+707421:1096 Animal Sniffer
+708551:1846 Checker Framework Annotations
+710421:1115 bouncycastle_bcpkix
+711546:1104 jsoup
+712660:4771 Glide
+717448:7364 bouncycastle
+724824:1602 JSR 305
+726444:1732 Protobuf Nano

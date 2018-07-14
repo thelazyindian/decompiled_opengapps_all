@@ -5,12 +5,12 @@
         <item quantity="one">Εισαγωγή έως %d ακόμα ατόμου</item>
     </plurals>
     <plurals name="notification_message_nfc_event_ticket_clo">
-        <item quantity="other">%1$d προσφορές διαθέσιμες με το εισιτήριο εκδήλωσης %2$s</item>
-        <item quantity="one">%1$d προσφορά διαθέσιμη με το εισιτήριο εκδήλωσης %2$s</item>
+        <item quantity="other">%1$d προσφορές διαθέσιμες με το εισιτήριό σας</item>
+        <item quantity="one">%1$d προσφορά διαθέσιμη με το εισιτήριό σας</item>
     </plurals>
     <plurals name="notification_message_nfc_flight_clo">
-        <item quantity="other">%1$d προσφορές διαθέσιμες με την πτήση %2$s</item>
-        <item quantity="one">%1$d προσφορά διαθέσιμη με την πτήση %2$s</item>
+        <item quantity="other">%1$d προσφορές διαθέσιμες με την κάρτα επιβίβασης</item>
+        <item quantity="one">%1$d προσφορά διαθέσιμη με την κάρτα επιβίβασης</item>
     </plurals>
     <plurals name="notification_message_nfc_gift_clo">
         <item quantity="other">%1$d προσφορές διαθέσιμες με τη δωροκάρτα %2$s</item>
@@ -31,10 +31,6 @@
     <plurals name="notification_title_clo_at_place">
         <item quantity="other">%1$d προσφορές διαθέσιμες για το %2$s</item>
         <item quantity="one">%1$d προσφορά διαθέσιμη για το %2$s</item>
-    </plurals>
-    <plurals name="requests_quantity">
-        <item quantity="other">%d αιτήματα</item>
-        <item quantity="one">%d αίτημα</item>
     </plurals>
     <plurals name="split_subtitle">
         <item quantity="other">Επιμερισμός%1$s μεταξύ %2$d ατόμων</item>

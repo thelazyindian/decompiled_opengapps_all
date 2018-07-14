@@ -12,29 +12,16 @@
     <integer name="design_tab_indicator_anim_duration_ms">300</integer>
     <integer name="google_btn_anim_delay_ms">100</integer>
     <integer name="google_btn_anim_duration_ms">100</integer>
-    <integer name="google_play_services_version">12509000</integer>
-    <integer name="heap_48_bitmap_pool_max_bytes">8000000</integer>
-    <integer name="heap_48_image_cache_max_bytes">16000000</integer>
-    <integer name="heap_64_bitmap_pool_max_bytes">32000000</integer>
-    <integer name="heap_64_image_cache_max_bytes">24000000</integer>
+    <integer name="google_play_services_version">12662000</integer>
     <integer name="hide_password_duration">320</integer>
-    <integer name="large_heap_download_pool_full_screens">40</integer>
-    <integer name="large_heap_image_cache_max_full_screens">200</integer>
-    <integer name="large_heap_max_direct_to_disk_download_size">100000000</integer>
-    <integer name="large_heap_max_download_size">20000000</integer>
-    <integer name="large_heap_pool_max_full_screens">600</integer>
     <integer name="mtrl_btn_anim_delay_ms">100</integer>
     <integer name="mtrl_btn_anim_duration_ms">100</integer>
     <integer name="mtrl_chip_anim_duration">100</integer>
     <integer name="mtrl_tab_indicator_anim_duration_ms">250</integer>
     <integer name="show_password_duration">200</integer>
-    <integer name="small_heap_bitmap_pool_max_bytes">1000000</integer>
-    <integer name="small_heap_download_pool_bytes">128000</integer>
-    <integer name="small_heap_image_cache_max_bytes">2000000</integer>
-    <integer name="small_heap_max_download_size">8000000</integer>
     <integer name="valuable_details_max_chars">18</integer>
     <item type="integer" name="APKTOOL_DUMMY_5">false</item>
     <item type="integer" name="APKTOOL_DUMMY_6">false</item>
-    <item type="integer" name="APKTOOL_DUMMY_1d">false</item>
-    <item type="integer" name="APKTOOL_DUMMY_23">false</item>
+    <item type="integer" name="APKTOOL_DUMMY_14">false</item>
+    <item type="integer" name="APKTOOL_DUMMY_16">false</item>
 </resources>

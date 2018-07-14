@@ -1,11 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <RelativeLayout android:padding="@dimen/medium_spacing" android:layout_width="fill_parent" android:layout_height="fill_parent"
-  xmlns:android="http://schemas.android.com/apk/res/android">
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
     <ProgressBar android:id="@id/Spinner" android:visibility="gone" android:layout_width="72.0dip" android:layout_height="72.0dip" android:indeterminate="true" android:layout_centerInParent="true" android:importantForAccessibility="no" />
     <RelativeLayout android:id="@id/FingerprintDisplay" android:layout_width="fill_parent" android:layout_height="wrap_content">
         <TextView android:id="@id/Title" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/narrow_spacing" android:layout_alignParentTop="true" android:layout_centerHorizontal="true" style="@style/Text_Label" />
         <TextView android:id="@id/Message" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/narrow_spacing" android:layout_below="@id/Title" android:layout_centerHorizontal="true" style="@style/Text_Body_2.Gray700" />
-        <ImageView android:id="@id/FingerprintIcon" android:layout_width="45.0dip" android:layout_height="45.0dip" android:layout_below="@id/Message" android:layout_centerHorizontal="true" android:contentDescription="@null" />
-        <android.support.design.button.MaterialButton android:id="@id/bottom_sheet_button" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_below="@id/FingerprintIcon" android:layout_centerHorizontal="true" style="@style/Widget.GoogleMaterial.TextButton" />
+        <FrameLayout android:id="@id/FingerprintIconContainer" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_below="@id/Message" android:layout_centerHorizontal="true">
+            <com.airbnb.lottie.LottieAnimationView android:id="@id/FingerprintIconIdle" android:layout_width="45.0dip" android:layout_height="45.0dip" app:lottie_fileName="fingerprint_idle.json" app:lottie_autoPlay="true" app:lottie_loop="true" />
+            <com.airbnb.lottie.LottieAnimationView android:id="@id/FingerprintIconFailure" android:visibility="gone" android:layout_width="45.0dip" android:layout_height="45.0dip" app:lottie_fileName="fingerprint_failure.json" app:lottie_autoPlay="false" app:lottie_loop="false" />
+            <com.airbnb.lottie.LottieAnimationView android:id="@id/FingerprintIconSuccess" android:visibility="gone" android:layout_width="45.0dip" android:layout_height="45.0dip" app:lottie_fileName="fingerprint_success.json" app:lottie_autoPlay="false" app:lottie_loop="false" />
+        </FrameLayout>
+        <android.support.design.button.MaterialButton android:id="@id/bottom_sheet_button" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_below="@id/FingerprintIconContainer" android:layout_centerHorizontal="true" style="@style/Widget.GoogleMaterial.TextButton" />
     </RelativeLayout>
 </RelativeLayout>

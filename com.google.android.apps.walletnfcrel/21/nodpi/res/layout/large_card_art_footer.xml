@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:minHeight="32.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:gravity="center" android:id="@id/NfcInstruction" android:layout_width="fill_parent" android:layout_height="48.0dip" android:layout_marginTop="@dimen/narrow_spacing" android:layout_marginBottom="@dimen/default_spacing" android:text="@string/nfc_instruction" style="@style/Text_GooglePay_Subhead1.Regular.Grey700" />
+</LinearLayout>

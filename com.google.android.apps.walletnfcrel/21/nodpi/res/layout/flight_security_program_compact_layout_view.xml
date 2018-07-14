@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center_horizontal" android:orientation="horizontal" android:id="@id/FlightSecurityProgramLayout" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageView android:id="@id/FlightSecurityProgramLogo" android:layout_width="wrap_content" android:layout_height="12.0dip" android:scaleType="fitCenter" android:adjustViewBounds="true" android:contentDescription="@string/security_program_description" />
+    <ImageView android:id="@id/FlightBoardingPrivilegeImage" android:layout_width="wrap_content" android:layout_height="12.0dip" android:scaleType="fitCenter" android:adjustViewBounds="true" android:contentDescription="@string/boarding_privilege_description" />
+</LinearLayout>

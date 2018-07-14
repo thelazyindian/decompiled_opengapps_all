@@ -5,12 +5,12 @@
         <item quantity="one">最多还能输入 %d 个人</item>
     </plurals>
     <plurals name="notification_message_nfc_event_ticket_clo">
-        <item quantity="other">%2$s活动门票提供了 %1$d 项优惠</item>
-        <item quantity="one">%2$s活动门票提供了 %1$d 项优惠</item>
+        <item quantity="other">您的票提供了 %1$d 项优惠</item>
+        <item quantity="one">您的票提供了 %1$d 项优惠</item>
     </plurals>
     <plurals name="notification_message_nfc_flight_clo">
-        <item quantity="other">%2$s航班提供了 %1$d 项优惠</item>
-        <item quantity="one">%2$s航班提供了 %1$d 项优惠</item>
+        <item quantity="other">您的登机牌提供了 %1$d 项优惠</item>
+        <item quantity="one">您的登机牌提供了 %1$d 项优惠</item>
     </plurals>
     <plurals name="notification_message_nfc_gift_clo">
         <item quantity="other">%2$s储值卡提供了 %1$d 项优惠</item>
@@ -31,10 +31,6 @@
     <plurals name="notification_title_clo_at_place">
         <item quantity="other">%2$s提供了 %1$d 项优惠</item>
         <item quantity="one">%2$s提供了 %1$d 项优惠</item>
-    </plurals>
-    <plurals name="requests_quantity">
-        <item quantity="other">%d 项请求</item>
-        <item quantity="one">%d 项请求</item>
     </plurals>
     <plurals name="split_subtitle">
         <item quantity="other">与 %2$d 人拆分 %1$s</item>

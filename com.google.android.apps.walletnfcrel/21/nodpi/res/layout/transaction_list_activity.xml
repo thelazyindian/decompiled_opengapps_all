@@ -1,6 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout android:gravity="center" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
   xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
-    <TextView android:gravity="center" android:id="@id/Message" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/no_transactions_available" android:paddingStart="@dimen/medium_spacing" android:paddingEnd="@dimen/medium_spacing" style="@style/Text_Headline" />
-    <android.support.v7.widget.RecyclerView android:id="@id/Content" android:background="@color/quantum_white_100" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent" android:importantForAccessibility="no" app:layout_behavior="@string/appbar_scrolling_view_behavior" />
+    <LinearLayout android:gravity="center" android:orientation="vertical" android:id="@id/NoTransactionsLayout" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent" android:paddingStart="@dimen/large_spacing" android:paddingEnd="@dimen/large_spacing">
+        <TextView android:gravity="center" android:id="@id/NoTransactionsTitle" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/default_spacing" android:text="@string/no_transactions_available_for_txn_list_activity" style="@style/Text_Headline" />
+        <TextView android:gravity="center" android:id="@id/NoTransactionsBody" android:layout_width="fill_parent" android:layout_height="wrap_content" style="@style/Text_Body" />
+    </LinearLayout>
+    <android.support.v4.widget.SwipeRefreshLayout android:id="@id/SwipeRefreshLayout" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="1.0">
+        <android.support.v7.widget.RecyclerView android:id="@id/Content" android:background="@color/quantum_white_100" android:layout_width="fill_parent" android:layout_height="fill_parent" android:importantForAccessibility="no" app:layout_behavior="@string/appbar_scrolling_view_behavior" />
+    </android.support.v4.widget.SwipeRefreshLayout>
+    <TextView android:gravity="center" android:id="@id/SeTransactionDisclaimer" android:paddingTop="@dimen/narrow_spacing" android:paddingBottom="@dimen/default_spacing" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" android:paddingStart="@dimen/medium_spacing" android:paddingEnd="@dimen/medium_spacing" style="@style/Text_Caption" />
+    <LinearLayout android:gravity="center" android:orientation="horizontal" android:id="@id/FilterBanner" android:background="@color/google_blue600" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="@dimen/transaction_details_item_height" android:paddingStart="@dimen/default_spacing">
+        <TextView android:textColor="@color/google_white" android:id="@id/FilterLabel" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_weight="1.0" />
+        <android.support.design.button.MaterialButton android:textColor="@color/google_white" android:id="@id/ClearFilter" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/clear_filter" style="@style/Widget.GoogleMaterial.TextButton" />
+    </LinearLayout>
 </LinearLayout>

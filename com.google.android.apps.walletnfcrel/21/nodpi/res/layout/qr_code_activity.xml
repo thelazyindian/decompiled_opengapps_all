@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:id="@id/pager" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <android.support.design.tabs.TabLayout android:layout_gravity="top" android:id="@id/tab_layout" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <android.support.design.tabs.TabItem android:id="@id/generate_tab" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/generate_qrcode_tab" />
+        <android.support.design.tabs.TabItem android:id="@id/scan_tab" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/scan_qrcode_tab" />
+    </android.support.design.tabs.TabLayout>
+    <android.support.v4.view.ViewPager android:id="@id/view_pager" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_below="@id/tab_layout" />
+</RelativeLayout>
