@@ -421,9 +421,7 @@
     <string name="bcc">رونوشت مخفی</string>
     <string name="bcc_header_for_recipient_summary">"رونوشت مخفی: "</string>
     <string name="bcc_heading">رونوشت مخفی:</string>
-    <string name="bd12n_account_settings_permission_summary">‏Gmail برای ارائه اعلان‌هایتان به‌محض ورود، به مجوز نیاز دارد. می‌توانید این مورد را در &lt;a href=%1$s>تنظیمات دستگاه&lt;/a> تغییر دهید.</string>
     <string name="bd12n_conversation_push_tip_text">برای اینکه از رسیدن رایانامه‌های جدید مطلع شوید ضربه بزنید.</string>
-    <string name="bd12n_conversation_tip_text">‏اگر می‌خواهید از رسیدن رایانامه‌های جدید مطلع شوید به Gmail اجازه دهید در پس‌زمینه اجرا شود. &lt;a href=%1$s>اجازه دادن&lt;/a></string>
     <string name="block_sender_menu_item">مسدود کردن «%s»</string>
     <string name="blocked_sender_spam">‏چرا این پیام در هرزنامه است؟ شما پیام‌های ورودی ازطرف &lt;b>%1$s&lt;/b> را مسدود کردید.</string>
     <string name="body_hint">نوشتن رایانامه</string>
@@ -433,7 +431,6 @@
     <string name="broadcast_internal_perm_label">پخش داخلی</string>
     <string name="bt_action_archive">بایگانی</string>
     <string name="bt_action_delete">حذف</string>
-    <string name="bt_action_direct_reply">نوشتن پاسخ</string>
     <string name="bt_action_remove_label">برداشتن برچسب</string>
     <string name="bt_action_reply">پاسخ</string>
     <string name="bt_action_reply_all">پاسخ به همه</string>
@@ -580,7 +577,7 @@
     <string name="current_date">تاریخ کنونی:</string>
     <string name="custom_date">سفارشی</string>
     <string name="custom_from_account_label">ارسال رایانامه به‌عنوان:</string>
-    <string name="custom_snooze_time_passed_message">امکان به تعویق انداختن به زمانی که سپری شده است وجود ندارد</string>
+    <string name="custom_snooze_time_passed_message">امکان به‌تعویق انداختن به زمانی‌که سپری شده است وجود ندارد</string>
     <string name="custom_swipe_preference_description">برای اقدام سریع در رایانامه‌های موجود در فهرست مکالمه، کنش‌های کشیدن را پیکربندی کنید</string>
     <string name="date_and_view_details">"‏%1$s &lt;a href='http://www.example.com'>مشاهده جزئیات&lt;/a>"</string>
     <string name="date_heading">تاریخ:</string>
@@ -660,6 +657,8 @@
     <string name="email_account_transfer_notification_channel_description">‏وقتی حساب‌های رایانامه غیر Google شما درحال انتقال به دستگاه دیگری باشد، اعلان نشان می‌دهد.</string>
     <string name="email_account_transfer_notification_channel_name">انتقال دستگاه به دستگاه حساب رایانامه</string>
     <string name="email_account_transfer_notification_title">‏درحال انتقال حساب‌های رایانامه غیر Google به دستگاه دیگری.</string>
+    <string name="email_confirmation_state_unknown_description">ممکن است پیامتان ارسال شده باشد.</string>
+    <string name="email_confirmation_state_unknown_title">وای، مشکلی در برقراری ارتباط وجود داشت!</string>
     <string name="email_provider_label">نامه</string>
     <string name="eml_loader_error_toast">این فایل باز نمی‌شود</string>
     <string name="eml_viewer_subtitle">‏مشاهده‌گر پیام EML</string>
@@ -798,7 +797,6 @@
     <string name="gm_i18n_snooze_option_later_today">امروز در فرصتی دیگر</string>
     <string name="gm_i18n_snooze_option_next_week">هفته آینده</string>
     <string name="gm_i18n_snooze_option_next_weekend">آخر هفته بعدی</string>
-    <string name="gm_i18n_snooze_option_someday">روزی</string>
     <string name="gm_i18n_snooze_option_this_week">این هفته</string>
     <string name="gm_i18n_snooze_option_this_weekend">آخر این هفته</string>
     <string name="gm_i18n_snooze_option_tomorrow">فردا</string>
@@ -1022,6 +1020,7 @@
     <string name="message_priority">اولویت پیام</string>
     <string name="message_queued">در صف قرار گرفت</string>
     <string name="message_saved">پیام به‌عنوان پیش‌نویس ذخیره شد.</string>
+    <string name="message_sent">ارسال شد</string>
     <string name="message_too_large">پیام خیلی بزرگ است و نمی‌توانید آن را در این دستگاه باز کنید</string>
     <string name="message_uploading_attachments">درحال بارگذاری کردن</string>
     <string name="message_view_forwarded_attachment_background_load">قبل از ارسال ، یک یا چند پیوست در پیام هدایت‌شده بارگیری خواهد شد.</string>
@@ -1073,6 +1072,8 @@
     <string name="notifications_category">اعلان‌ها</string>
     <string name="notify_attachment_save_error">پیوست ذخیره نشد</string>
     <string name="notify_attachment_send_error">پیوست ارسال نشد</string>
+    <string name="nudge_dismiss_button_text">نپذیرفتن</string>
+    <string name="nudge_dismiss_success_message">سقلمه رد شد.</string>
     <string name="oauth_authentication_title">درحال درخواست صدور مجوز…</string>
     <string name="oauth_error_description">احراز هویت انجام نشد</string>
     <string name="oauth_server_error">سرور غیر قابل دسترسی است. لطفاً بعداً دوباره امتحان کنید</string>
@@ -1440,7 +1441,7 @@
     <string name="snooze_datepicker_drop_down_list">فهرست کرکره‌ای</string>
     <string name="snooze_info_someday">روزی</string>
     <string name="snooze_info_time">تا %s به تعویق افتاد</string>
-    <string name="snooze_menu_item_feature_highlight_body">رایانامه‌ای را تا زمان خاصی در آینده به حالت تعویق بیندازید</string>
+    <string name="snooze_menu_item_feature_highlight_body">رایانامه‌ای را تا زمان خاصی در آینده به‌تعویق بیندازید</string>
     <string name="snooze_menu_item_feature_highlight_title">بعداً انجام شود</string>
     <string name="snooze_option_custom_time">انتخاب تاریخ و زمان</string>
     <string name="snooze_option_last_snooze">آخرین</string>
@@ -1451,7 +1452,7 @@
     <string name="snooze_option_specific_day_night">شب</string>
     <string name="snooze_option_specific_day_no_specific_time">بی‌صدا</string>
     <string name="snoozed_date_less_than_one_hour_ago">کمتر از ۱ ساعت قبل به تعویق افتاد</string>
-    <string name="snoozed_folder_feature_highlight_body">همه چیزهایی که به تعویق می‌اندازید به بخش «به تعویق افتاده» می‌روند تا زمانی که به صندوق ورودی برگردانده شوند</string>
+    <string name="snoozed_folder_feature_highlight_body">همه چیزهایی که به‌تعویق می‌اندازید به بخش «به‌تعویق افتاده» می‌رود تا زمانی‌که به صندوق ورودی برگردانده شود</string>
     <string name="snoozed_folder_feature_highlight_title">دسترسی به پیام‌های به تعویق افتاده</string>
     <string name="spam_warning_similar_messages_to_obtain_personal_info">از پیام‌های مشابه این پیام برای سرقت اطلاعات شخصی افراد استفاده شده است. روی پیوندها کلیک نکنید یا با اطلاعات شخصی پاسخ ندهید مگراینکه به فرستنده اطمینان داشته باشید.</string>
     <string name="sr_callout">برای ویرایش پاسخ، ضربه بزنید</string>
@@ -1565,7 +1566,7 @@
     <string name="to_message_header">به %1$s</string>
     <string name="toggle_read_unread">جابه‌جایی بین خوانده شده و خوانده نشده</string>
     <string name="too_large_to_attach_multiple">یک یا چند فایل پیوست نشده است. حداکثر اندازه مجاز %1$s.</string>
-    <string name="too_large_to_attach_single">فایل بزرگ‌تر از %1$s پیوست نمی‌شود.</string>
+    <string name="too_large_to_attach_single">حجم فایل‌هایی که سعی دارید ارسال کنید بیش از %1$s (حداکثر اندازه کلی پیوست) است.</string>
     <string name="trash_folder_selection_title">پوشه حذف‌‌شده‌های سرور را برای %s انتخاب کنید</string>
     <string name="trashed_message_indicator">این پیام حذف شده است</string>
     <string name="turn_auto_sync_on_dialog_body">‏تغییراتی که در تمام برنامه‌ها و حساب‌ها ایجاد می‌کنید نه فقط در Gmail، بین وب، سایر دستگاه‌هایتان و %1$s شما همگام‌سازی خواهد شد.</string>
@@ -1608,7 +1609,7 @@
     <string name="virtual_dmarc">‏ظاهراً این پیام ازطرف &lt;b>%2$s&lt;/b> ارسال شده است اما پاسخ‌ها به نشانی رایانامه‌ای در دامنه دیگری ارسال می‌شوند. مراقب این پیام باشید.</string>
     <string name="voice_search_not_supported">جستجوی گفتاری در این دستگاه پشتیبانی نمی‌شود.</string>
     <string name="wa_chip_generic_error">پیوست باگیری نشد</string>
-    <string name="wa_chip_network_error">نیاز به اتصال شبکه</string>
+    <string name="wa_chip_network_error">باید اتصال شبکه داشته باشید</string>
     <string name="wa_delete_button_description">حذف پیوست</string>
     <string name="wa_multiple_recipient_error_request">رایانامه حاوی پیوست درخواست پول را فقط می‌توانید برای یک نفر ارسال کنید</string>
     <string name="wa_multiple_recipient_error_send">رایانامه حاوی پیوست پول را فقط می‌توانید برای یک نفر ارسال کنید</string>

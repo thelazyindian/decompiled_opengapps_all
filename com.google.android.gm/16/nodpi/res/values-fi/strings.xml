@@ -414,9 +414,7 @@
     <string name="bcc">Piilokopio</string>
     <string name="bcc_header_for_recipient_summary">"piilokop.: "</string>
     <string name="bcc_heading">Piilokop.:</string>
-    <string name="bd12n_account_settings_permission_summary">Gmail tarvitsee käyttöoikeuden ilmoitusten toimittamiseen. Voit muokata oikeuksia &lt;a href=%1$s>laitteen asetuksista&lt;/a>.</string>
     <string name="bd12n_conversation_push_tip_text">Napauttamalla voit ottaa käyttöön ilmoitukset uusien viestien saapumisesta.</string>
-    <string name="bd12n_conversation_tip_text">Anna Gmailin olla käytössä taustalla, jos haluat saada ilmoituksia uusista sähköpostiviesteistä niiden saapuessa. &lt;a href=%1$s>Salli&lt;/a></string>
     <string name="block_sender_menu_item">Estä %s</string>
     <string name="blocked_sender_spam">Miksi tämä viesti on roskapostia? Olet estänyt uudet viestit osoitteesta &lt;b>%1$s&lt;/b>.</string>
     <string name="body_hint">Kirjoita sähköposti.</string>
@@ -426,7 +424,6 @@
     <string name="broadcast_internal_perm_label">sisäinen viestintä</string>
     <string name="bt_action_archive">Arkistoi</string>
     <string name="bt_action_delete">Poista</string>
-    <string name="bt_action_direct_reply">Kirjoita vastaus</string>
     <string name="bt_action_remove_label">Poista tunniste</string>
     <string name="bt_action_reply">Vastaa</string>
     <string name="bt_action_reply_all">Vastaa kaikille</string>
@@ -651,6 +648,8 @@
     <string name="email_account_transfer_notification_channel_description">Näet ilmoituksen, kun muuta kuin Google-sähköpostitiliäsi siirretään toiselle laitteelle.</string>
     <string name="email_account_transfer_notification_channel_name">Tilin siirtäminen laitteelta toiselle</string>
     <string name="email_account_transfer_notification_title">Siirretään muuta kuin Google-sähköpostitiliä toiselle laitteelle.</string>
+    <string name="email_confirmation_state_unknown_description">Viestisi on ehkä lähetetty.</string>
+    <string name="email_confirmation_state_unknown_title">Hups! Yhteyden muodostamisessa tapahtui virhe.</string>
     <string name="email_provider_label">Sähköposti</string>
     <string name="eml_loader_error_toast">Tiedoston avaaminen epäonnistui.</string>
     <string name="eml_viewer_subtitle">EML-viestien lukuohjelma</string>
@@ -788,7 +787,6 @@
     <string name="gm_i18n_snooze_option_later_today">Myöhemmin tänään</string>
     <string name="gm_i18n_snooze_option_next_week">Ensi viikolla</string>
     <string name="gm_i18n_snooze_option_next_weekend">Ensi viikonloppuna</string>
-    <string name="gm_i18n_snooze_option_someday">Joskus</string>
     <string name="gm_i18n_snooze_option_this_week">Tällä viikolla</string>
     <string name="gm_i18n_snooze_option_this_weekend">Tänä viikonloppuna</string>
     <string name="gm_i18n_snooze_option_tomorrow">Huomenna</string>
@@ -1012,6 +1010,7 @@
     <string name="message_priority">Viestien tärkeysaste</string>
     <string name="message_queued">Jonossa</string>
     <string name="message_saved">Viesti tallennettiin luonnokseksi.</string>
+    <string name="message_sent">Lähetetty</string>
     <string name="message_too_large">Viesti on liian suuri avattavaksi tällä laitteella.</string>
     <string name="message_uploading_attachments">Ladataan.</string>
     <string name="message_view_forwarded_attachment_background_load">Vähintään yksi edelleen lähetettävän viestisi liitteistä ladataan ennen lähettämistä.</string>
@@ -1064,6 +1063,8 @@
     <string name="notifications_category">Ilmoitukset</string>
     <string name="notify_attachment_save_error">Liitteen tallennus epäonnistui</string>
     <string name="notify_attachment_send_error">Liitteen lähettäminen epäonnistui</string>
+    <string name="nudge_dismiss_button_text">OHITA</string>
+    <string name="nudge_dismiss_success_message">Vastausmuistutus hylätty</string>
     <string name="oauth_authentication_title">Pyydetään valtuutusta\u0090…</string>
     <string name="oauth_error_description">Todennus epäonnistui.</string>
     <string name="oauth_server_error">Palvelin ei ole käytettävissä. Yritä myöhemmin uudelleen.</string>
@@ -1551,7 +1552,7 @@ Ota toiminto käyttöön napauttamalla."</string>
     <string name="to_message_header">vast.ott. %1$s</string>
     <string name="toggle_read_unread">Ota luettu/lukematon käyttöön tai poista se käytöstä</string>
     <string name="too_large_to_attach_multiple">Vähintään yhtä tiedostoa ei liitetty. Enimmäiskoko on %1$s.</string>
-    <string name="too_large_to_attach_single">Et voi liittää tiedostoja, joiden koko on yli %1$s.</string>
+    <string name="too_large_to_attach_single">Tiedostot, joita yrität lähettää, ylittävät liitteiden enimmäiskoon kokonaisrajoituksen %1$s.</string>
     <string name="trash_folder_selection_title">Valitse roskakori tilille %s.</string>
     <string name="trashed_message_indicator">Tämä viesti on poistettu.</string>
     <string name="turn_auto_sync_on_dialog_body">Gmailiin ja kaikkiin muihin sovelluksiin ja tileihin tekemäsi muutokset synkronoidaan seuraavissa kohteissa: verkko, muut laitteet ja %1$s.</string>

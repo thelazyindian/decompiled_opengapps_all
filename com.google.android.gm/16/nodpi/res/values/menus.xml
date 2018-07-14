@@ -2,4 +2,5 @@
 <resources>
     <item type="menu" name="APKTOOL_DUMMY_3">false</item>
     <item type="menu" name="APKTOOL_DUMMY_a">false</item>
+    <item type="menu" name="APKTOOL_DUMMY_10">false</item>
 </resources>

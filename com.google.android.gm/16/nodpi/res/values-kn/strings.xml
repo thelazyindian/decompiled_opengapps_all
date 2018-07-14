@@ -404,8 +404,7 @@
     <string name="auto_send_perm_desc">Gmail ಅಪ್ಲಿಕೇಶನ್‌ ತೆರೆಯದೆ Gmail ಸಂದೇಶಗಳನ್ನು ಕಳುಹಿಸಲು ಅಪ್ಲಿಕೇಶನ್‌ ಅನ್ನು ಅನುಮತಿಸುತ್ತದೆ.</string>
     <string name="auto_send_perm_label">Gmail ಕಳುಹಿಸಿ</string>
     <string name="auto_sync_off">ಸ್ವಯಂಚಾಲಿತ ಸಿಂಕ್ ಆಫ್‌ ಆಗಿದೆ. ಆನ್ ಮಾಡಲು ಟ್ಯಾಪ್ ಮಾಡಿ.</string>
-    <string name="bd12n_account_settings_permission_summary">ನಿಮ್ಮ ಅಧಿಸೂಚನೆಗಳು ಬರುತ್ತಿದ್ದಂತೆ ಅವುಗಳನ್ನು ವಿತರಿಸಲು Gmail ಗೆ ಅನುಮತಿಯ ಅಗತ್ಯವಿದೆ. &lt;a href=%1$s>ಸಾಧನ ಸೆಟ್ಟಿಂಗ್‌ಗಳಲ್ಲಿ&lt;/a> ಇದನ್ನು ನೀವು ಬದಲಾಯಿಸಬಹುದು.</string>
-    <string name="bd12n_conversation_tip_text">ಹೊಸ ಇಮೇಲ್‌ಗಳು ಬರುತ್ತಿದ್ದಂತೆ ಅವುಗಳನ್ನು ಕುರಿತು ನೀವು ಸೂಚನೆಯನ್ನು ಪಡೆದುಕೊಳ್ಳಬೇಕೆಂದಿದ್ದಲ್ಲಿ ಹಿನ್ನೆಲೆಯಲ್ಲಿ Gmail ರನ್ ಆಗಲು ಅನುಮತಿಸಿ. &lt;a href=%1$s>ಅನುಮತಿಸಿ&lt;/a></string>
+    <string name="bd12n_conversation_push_tip_text">ಹೊಸ ಇಮೇಲ್‌ಗಳು ಬರುತ್ತಿದ್ದಂತೆ ಅವುಗಳನ್ನು ಕುರಿತು ನೀವು ಸೂಚನೆಯನ್ನು ಪಡೆದುಕೊಳ್ಳಬೇಕೆಂದಿದ್ದಲ್ಲಿ ಟ್ಯಾಪ್ ಮಾಡಿ.</string>
     <string name="block_sender_menu_item">\"%s\" ಅವರನ್ನು ನಿರ್ಬಂಧಿಸಿ</string>
     <string name="blocked_sender_spam">ಈ ಸಂದೇಶವು ಏಕೆ ಸ್ಪ್ಯಾಮ್‌ನಲ್ಲಿದೆ? ನೀವು &lt;b>%1$s&lt;/b> ಅವರಿಂದ ಒಳಬರುವ ಸಂದೇಶಗಳನ್ನು ನಿರ್ಬಂಧಿಸಿರುವಿರಿ.</string>
     <string name="body_hint">ಇಮೇಲ್ ರಚಿಸಿ</string>
@@ -415,7 +414,6 @@
     <string name="broadcast_internal_perm_label">ಆಂತರಿಕ ಪ್ರಸಾರ</string>
     <string name="bt_action_archive">ಆರ್ಕೈವ್ ಮಾಡಿ</string>
     <string name="bt_action_delete">ಅಳಿಸಿ</string>
-    <string name="bt_action_direct_reply">ಪ್ರತ್ಯುತ್ತರ ರಚಿಸಿ</string>
     <string name="bt_action_remove_label">ಲೇಬಲ್ ತೆಗೆದುಹಾಕಿ</string>
     <string name="bt_action_reply">ಪ್ರತ್ಯುತ್ತರಿಸಿ</string>
     <string name="bt_action_reply_all">ಎಲ್ಲರಿಗೂ ಉತ್ತರಿಸಿ</string>
@@ -630,6 +628,8 @@
     <string name="email_account_transfer_notification_channel_description">ನಿಮ್ಮ Google ಅಲ್ಲದ ಇಮೇಲ್ ಖಾತೆಗಳನ್ನು ಮತ್ತೊಂದು ಸಾಧನಕ್ಕೆ ವರ್ಗಾಯಿಸಿದಾಗ ಅಧಿಸೂಚನೆಯನ್ನು ತೋರಿಸುತ್ತದೆ.</string>
     <string name="email_account_transfer_notification_channel_name">ಸಾಧನದಿಂದ ಸಾಧನಕ್ಕೆ ಇಮೇಲ್ ಖಾತೆ ವರ್ಗಾವಣೆ</string>
     <string name="email_account_transfer_notification_title">Google ಅಲ್ಲದ ಇಮೇಲ್ ಖಾತೆಗಳನ್ನು ಇನ್ನೊಂದು ಸಾಧನಕ್ಕೆ ವರ್ಗಾಯಿಸಲಾಗುತ್ತಿದೆ.</string>
+    <string name="email_confirmation_state_unknown_description">ನಿಮ್ಮ ಸಂದೇಶವನ್ನು ಕಳುಹಿಸಲಾಗಿರಬಹುದು.</string>
+    <string name="email_confirmation_state_unknown_title">ಓಹ್, ನಮಗೆ ಸಂಪರ್ಕಗೊಳಿಸುವಲ್ಲಿ ಸಮಸ್ಯೆಗಳಿವೆ!</string>
     <string name="email_provider_label">ಮೇಲ್‌‌</string>
     <string name="eml_loader_error_toast">ಈ ಫೈಲ್ ಅನ್ನು ತೆರೆಯಲು ಸಾಧ್ಯವಿಲ್ಲ</string>
     <string name="eml_viewer_subtitle">EML ಸಂದೇಶ ವೀಕ್ಷಕ</string>
@@ -765,7 +765,6 @@
     <string name="gm_i18n_snooze_option_later_today">ಇಂದು ನಂತರ</string>
     <string name="gm_i18n_snooze_option_next_week">ಮುಂದಿನ ವಾರ</string>
     <string name="gm_i18n_snooze_option_next_weekend">ಮುಂದಿನ ವಾರಾಂತ್ಯ</string>
-    <string name="gm_i18n_snooze_option_someday">ಯಾವುದೋ ದಿನ</string>
     <string name="gm_i18n_snooze_option_this_week">ಈ ವಾರ</string>
     <string name="gm_i18n_snooze_option_this_weekend">ಈ ವಾರಾಂತ್ಯ</string>
     <string name="gm_i18n_snooze_option_tomorrow">ನಾಳೆ</string>
@@ -984,6 +983,7 @@
     <string name="message_priority">ಸಂದೇಶ ಆದ್ಯತೆ</string>
     <string name="message_queued">ಸರದಿಯಲ್ಲಿದೆ</string>
     <string name="message_saved">ಸಂದೇಶವನ್ನು ಡ್ರಾಫ್ಟ್‌ನ ರೂಪದಲ್ಲಿ ಉಳಿಸಲಾಗಿದೆ.</string>
+    <string name="message_sent">ಕಳುಹಿಸಲಾಗಿದೆ</string>
     <string name="message_too_large">ಸಂದೇಶವು ಈ ಸಾಧನದಲ್ಲಿ ತೆರೆಯಲು ತೀರಾ ದೊಡ್ಡದಾಗಿದೆ</string>
     <string name="message_uploading_attachments">ಅಪ್‌ಲೋಡ್ ಮಾಡಲಾಗುತ್ತಿದೆ</string>
     <string name="message_view_forwarded_attachment_background_load">ನಿಮ್ಮ ಫಾರ್ವರ್ಡ್ ಮಾಡಲಾದ ಸಂದೇಶದಲ್ಲಿ ಒಂದು ಅಥವಾ ಹೆಚ್ಚಿನ ಲಗತ್ತುಗಳನ್ನು ಕಳುಹಿಸುವ ಮೊದಲು ಡೌನ್‍‍ಲೋಡ್ ಮಾಡಲಾಗುತ್ತದೆ.</string>
@@ -1035,6 +1035,8 @@
     <string name="notifications_category">ಅಧಿಸೂಚನೆಗಳು</string>
     <string name="notify_attachment_save_error">ಲಗತ್ತು ಉಳಿಸಲು ಸಾಧ್ಯವಾಗಲಿಲ್ಲ</string>
     <string name="notify_attachment_send_error">ಲಗತ್ತು ಕಳುಹಿಸಲು ಸಾಧ್ಯವಾಗಲಿಲ್ಲ</string>
+    <string name="nudge_dismiss_button_text">ವಜಾಗೊಳಿಸಿ</string>
+    <string name="nudge_dismiss_success_message">ನಡ್ಜ್ ಅನ್ನು ವಜಾಗೊಳಿಸಲಾಗಿದೆ.</string>
     <string name="oauth_authentication_title">ದೃಢೀಕರಣಕ್ಕಾಗಿ ವಿನಂತಿಸಲಾಗುತ್ತಿದೆ...</string>
     <string name="oauth_error_description">ದೃಢೀಕರಿಸಲು ಸಾಧ್ಯವಿಲ್ಲ</string>
     <string name="oauth_server_error">ಸರ್ವರ್ ಲಭ್ಯವಿಲ್ಲ, ದಯವಿಟ್ಟು ನಂತರ ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಿ.</string>
@@ -1522,7 +1524,7 @@
     <string name="to_message_header">%1$s ಅವರಿಗೆ</string>
     <string name="toggle_read_unread">ಓದಿದ ಓದದಿರುವುದನ್ನು ಟಾಗಲ್ ಮಾಡಿ</string>
     <string name="too_large_to_attach_multiple">ಒಂದು ಅಥವಾ ಹೆಚ್ಚಿನ ಫೈಲ್‍ಗಳನ್ನು ಲಗತ್ತಿಸಿಲ್ಲ. ಮಿತಿ %1$s.</string>
-    <string name="too_large_to_attach_single">%1$s ಗೂ ಹೆಚ್ಚು ಗಾತ್ರ ಇರುವ ಫೈಲ್ ಲಗತ್ತಿಸಲು ಸಾಧ್ಯವಿಲ್ಲ.</string>
+    <string name="too_large_to_attach_single">ನೀವು ಕಳುಹಿಸಲು ಪ್ರಯತ್ನಿಸುತ್ತಿರುವ ಫೈಲ್‌ಗಳು %1$s ಲಗತ್ತಿನ ಮಿತಿಯನ್ನು ಮೀರಿದೆ.</string>
     <string name="trash_folder_selection_title">%s ಖಾತೆಗೆ ಸರ್ವರ್‌ನ ಅನುಪಯುಕ್ತ ಫೋಲ್ಡರ್ ಆಯ್ಕೆಮಾಡಿ</string>
     <string name="trashed_message_indicator">ಈ ಸಂದೇಶವನ್ನು ಅಳಿಸಲಾಗಿದೆ</string>
     <string name="turn_auto_sync_on_dialog_body">ಕೇವಲ Gmail ಮಾತ್ರವಲ್ಲ, ಎಲ್ಲಾ ಅಪ್ಲಿಕೇಶನ್‍‍ಗಳು ಮತ್ತು ಖಾತೆಗಳಿಗೆ ನೀವು ಮಾಡುವ ಬದಲಾವಣೆಗಳು, ವೆಬ್, ನಿಮ್ಮ ಇತರೆ ಸಾಧನಗಳು ಮತ್ತು ನಿಮ್ಮ %1$s ನ ನಡುವೆ ಸಿಂಕ್ರೊನೈಸ್ ಆಗುತ್ತವೆ.</string>

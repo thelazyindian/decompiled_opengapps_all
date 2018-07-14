@@ -52,7 +52,7 @@
     <string name="account_settings_edit_quick_responses_summary">កែ​​អត្ថបទ​ដែល​អ្នក​បញ្ចូល​ជា​ញឹកញាប់​នៅ​ពេល​សរសេរ​អ៊ីមែល</string>
     <string name="account_settings_enforced_label">បាន​អនុវត្ត​គោល​ន​យោ​បាយ</string>
     <string name="account_settings_enforced_summary">គ្មាន</string>
-    <string name="account_settings_exit_server_settings">បោះបង់​ការ​ផ្លាស់ប្ដូរ​​ដែល​មិន​បាន​រក្សាទុក?</string>
+    <string name="account_settings_exit_server_settings">លុបចោល​ការ​ផ្លាស់ប្ដូរ​​ដែល​មិន​បាន​រក្សាទុក?</string>
     <string name="account_settings_inbox_tips">គន្លឹះ​ប្រអប់​សារ</string>
     <string name="account_settings_incoming_label">ការ​កំណត់​ចូល</string>
     <string name="account_settings_incoming_summary">ឈ្មោះ​អ្នក​ប្រើ​ ពាក្យ​សម្ងាត់ ​និង​ការ​កំណត់​ម៉ាស៊ីន​មេ​ចូល​​ផ្សេង​ទៀត</string>
@@ -407,9 +407,7 @@
     <string name="bcc">ចម្លង​ជា​សម្ងាត់​ជូន</string>
     <string name="bcc_header_for_recipient_summary">"ចម្លង​ជា​សម្ងាត់​ជូន៖ "</string>
     <string name="bcc_heading">ចម្លង​ជា​សម្ងាត់​ជូន៖</string>
-    <string name="bd12n_account_settings_permission_summary">Gmail ត្រូវការ​ការអនុញ្ញាត ដើម្បី​ផ្ដល់​ការជូនដំណឹង​ដល់​អ្នក នៅពេល​មាន​សារ​មក​ដល់។ អ្នកអាច​​ផ្លាស់ប្ដូរ​ជម្រើស​នេះ​នៅ​ក្នុង​ &lt;a href=%1$s>ការកំណត់​ឧបករណ៍&lt;/a>។</string>
     <string name="bd12n_conversation_push_tip_text">ចុច​ដើម្បី​ទទួល​បាន​ការជូន​ដំណឹង នៅ​ពេល​អ៊ីមែល​ថ្មី​មក​ដល់។</string>
-    <string name="bd12n_conversation_tip_text">អនុញ្ញាត​ឱ្យ Gmail ដំណើរការ​នៅ​ផ្ទៃខាងក្រោយ បើ​អ្នក​ចង់​ទទួល​បាន​ការជូនដំណឹង នៅ​ពេល​មាន​អ៊ីមែល​ថ្មី​មក​ដល់។ &lt;a href=%1$s>អនុញ្ញាត&lt;/a></string>
     <string name="block_sender_menu_item">ទប់ស្កាត់ \"%s\"</string>
     <string name="blocked_sender_spam">ហេតុអ្វី​បាន​ជា​សារ​នេះ​នៅ​ក្នុង​សារ​ឥត​បាន​ការ? អ្នក​បាន​ទប់ស្កាត់​សារ​ចូល​ពី​ &lt;b>%1$s&lt;/b>។</string>
     <string name="body_hint">សរសេរ​អ៊ីមែល</string>
@@ -419,7 +417,6 @@
     <string name="broadcast_internal_perm_label">ការផ្សព្វ​ផ្សាយ​ខាងក្នុង</string>
     <string name="bt_action_archive">ទុក​ក្នុង​បណ្ណសារ</string>
     <string name="bt_action_delete">លុប</string>
-    <string name="bt_action_direct_reply">សរសេរ​ការឆ្លើយ​តប</string>
     <string name="bt_action_remove_label">លុប​ស្លាក​ចេញ</string>
     <string name="bt_action_reply">ឆ្លើយតប</string>
     <string name="bt_action_reply_all">ឆ្លើយតប​ទាំងអស់</string>
@@ -519,7 +516,7 @@
     <string name="compose_proposed_time_current_date_and_time">ពេលវេលាបច្ចុប្បន្ន៖ %1$s</string>
     <string name="compose_proposed_time_proposed_date_and_time">ដែលបានស្នើឡើង៖ %1$s</string>
     <string name="compose_title">តែង</string>
-    <string name="confirm_discard_text">បោះបង់​សារ​នេះ​?</string>
+    <string name="confirm_discard_text">លុបចោលសារ​នេះ​?</string>
     <string name="confirm_send_message">ផ្ញើ​​សារ​នេះ​?</string>
     <string name="confirm_unsubscribe_conversation">តើអ្នកប្រាកដជាចង់​ឈប់ទទួល​សារស្រដៀងគ្នាពី %s?</string>
     <string name="confirm_unsubscribe_conversation_sender_unknown">តើអ្នកប្រាកដទេថាអ្នកចង់ឈប់ទទួលសារស្រដៀងគ្នាពីអ្នកផ្ញើនេះឬ?</string>
@@ -596,10 +593,10 @@
     <string name="disabled_by_policy_title">សកម្មភាពមិនត្រូវបានអនុញ្ញាត</string>
     <string name="disabled_shortcut_clicked_dialog">%s ត្រូវបានដកចេញពីឧបករណ៍របស់អ្នក។ ដើម្បីមើល​សាររបស់អ្នក បន្ថែមគណនីរបស់អ្នកឡើងវិញ។</string>
     <string name="disabled_shortcut_error_message">%s ត្រូវបានដកចេញពីឧបករណ៍របស់អ្នក</string>
-    <string name="discard">បោះបង់</string>
-    <string name="discard_changes">បោះបង់ការផ្លាស់ប្ដូរឬ?</string>
-    <string name="discard_drafts">បោះបង់​សេចក្ដី​ព្រាង</string>
-    <string name="discard_failed">បោះ​ចោល​បាន​បរាជ័យ</string>
+    <string name="discard">លុបចោល</string>
+    <string name="discard_changes">លុបចោលការផ្លាស់ប្ដូរឬ?</string>
+    <string name="discard_drafts">លុបចោលសេចក្ដី​ព្រាង</string>
+    <string name="discard_failed">លុបចោលសារដែលមិន​បាន​សម្រេច</string>
     <string name="dismiss_tip_hover_text">បោះបង់​ព័ត៌មាន​ជំនួយ</string>
     <string name="done">ធ្វើ​រួច</string>
     <string name="done_label">ធ្វើ​រួច</string>
@@ -641,6 +638,8 @@
     <string name="email_account_transfer_notification_channel_description">បង្ហាញ​ការជូន​ដំណឹង នៅ​ពេល​គណនី​អ៊ីមែល​មិន​មែន Google របស់​អ្នក​កំពុង​ត្រូវ​បាន​ផ្ទេរ​ទៅ​កាន់​ឧបករណ៍​មួយ​ទៀត។</string>
     <string name="email_account_transfer_notification_channel_name">ការផ្ទេរ​គណនី​អ៊ីមែល​ពី​ឧបករណ៍​មួយ​ទៅ​មួយ​ទៀត</string>
     <string name="email_account_transfer_notification_title">កំពុង​ផ្ទេរ​គណនី​អ៊ីមែល​មិន​មែន​របស់ Google ទៅ​កាន់​ឧបករណ៍​មួយ​ទៀត។</string>
+    <string name="email_confirmation_state_unknown_description">សារ​របស់​អ្នក​អាច​នឹង​ត្រូវ​បាន​ផ្ញើ។</string>
+    <string name="email_confirmation_state_unknown_title">អូ៎ យើង​មាន​បញ្ហា​ក្នុង​ការភ្ជាប់!</string>
     <string name="email_provider_label">សំបុត្រ</string>
     <string name="eml_loader_error_toast">មិន​អាច​បើក​ឯកសារ​នេះ</string>
     <string name="eml_viewer_subtitle">អ្នកមើល​សារ EML</string>
@@ -777,7 +776,6 @@
     <string name="gm_i18n_snooze_option_later_today">ពេល​ក្រោយ​នៅ​ថ្ងៃ​នេះ</string>
     <string name="gm_i18n_snooze_option_next_week">សប្ដាហ៍​ក្រោយ</string>
     <string name="gm_i18n_snooze_option_next_weekend">ចុង​សប្ដាហ៍​ក្រោយ</string>
-    <string name="gm_i18n_snooze_option_someday">ថ្ងៃណាមួយ</string>
     <string name="gm_i18n_snooze_option_this_week">សប្ដាហ៍​នេះ</string>
     <string name="gm_i18n_snooze_option_this_weekend">ចុង​សប្ដាហ៍​នេះ</string>
     <string name="gm_i18n_snooze_option_tomorrow">ថ្ងៃស្អែក</string>
@@ -1001,6 +999,7 @@
     <string name="message_priority">អាទិភាព​របស់​សារ</string>
     <string name="message_queued">​បាន​ដាក់​ជាជួរ</string>
     <string name="message_saved">សារ​ត្រូវ​បាន​រក្សា​ទុក​​​ជា​សេចក្ដី​ព្រាង។</string>
+    <string name="message_sent">បាន​ផ្ញើ</string>
     <string name="message_too_large">សារធំពេកមិនអាចបើក​នៅលើឧបករណ៍នេះបានទេ</string>
     <string name="message_uploading_attachments">កំពុង​បង្ហោះ</string>
     <string name="message_view_forwarded_attachment_background_load">ឯកសារ​ភ្ជាប់​​មួយ ​ឬ​ច្រើន​នៅ​ក្នុង​សារ​​ដែល​បាន​​បញ្ជូន​បន្ត​របស់​អ្នក​នឹង​​ត្រូវ​បាន​ទាញ​យក​មុន​ពេល​ផ្ញើ​។</string>
@@ -1052,6 +1051,8 @@
     <string name="notifications_category">ការ​ជូនដំណឹង</string>
     <string name="notify_attachment_save_error">មិន​អាច​រក្សា​ទុក​ឯកសារ​ភ្ជាប់</string>
     <string name="notify_attachment_send_error">មិន​អាច​ផ្ញើ​ឯកសារ​ភ្ជាប់</string>
+    <string name="nudge_dismiss_button_text">ច្រាន​ចោល</string>
+    <string name="nudge_dismiss_success_message">បាន​ច្រាន​ចោល​ការរំលឹក​ប្រាប់។</string>
     <string name="oauth_authentication_title">កំពុងស្នើសុំសិទ្ធិអនុញ្ញាត…</string>
     <string name="oauth_error_description">មិន​អាច​ផ្ទៀងផ្ទាត់​​</string>
     <string name="oauth_server_error">ម៉ាស៊ីន​បម្រើ​មិន​អាច​ប្រើ​បាន​ សូម​ព្យាយាម​ម្តង​ទៀតនៅពេលក្រោយ</string>
@@ -1487,7 +1488,7 @@
     <string name="t4_edit_access_label_due_date">ថ្ងៃ​ដល់​កំណត់ %1$s</string>
     <string name="t4_edit_access_label_reminder">ការរំលឹក %1$s</string>
     <string name="t4_edit_discard_dialog_keep_editing">នៅ​បន្ត​កែ​សម្រួល</string>
-    <string name="t4_edit_discard_dialog_message">បោះបង់​​ចោល​ការផ្លាស់ប្ដូរ​មែន​ទេ?</string>
+    <string name="t4_edit_discard_dialog_message">លុប​​ចោល​ការផ្លាស់ប្ដូរ​ឬ?</string>
     <string name="t4_edit_error_empty_title">ចំណង​ជើងកិច្ចការ​មិន​អាច​ទទេ​បាន​ឡើយ។</string>
     <string name="t4_edit_priority_label_abbrev_high_priority">ខ្ពស់</string>
     <string name="t4_edit_priority_label_abbrev_low_priority">ទាប</string>
@@ -1538,7 +1539,7 @@
     <string name="to_message_header">ទៅ %1$s</string>
     <string name="toggle_read_unread">បិទ​បើក​អាន​ មិន​ទាន់​អាន</string>
     <string name="too_large_to_attach_multiple">មិន​បាន​ភ្ជាប់​ឯកសារ​មួយ ​ឬ​ច្រើន​។ ​កំណត់ %1$s។</string>
-    <string name="too_large_to_attach_single">មិន​អាច​ភ្ជាប់​ឯកសារ​ដែល​ធំជាង %1$s។</string>
+    <string name="too_large_to_attach_single">ឯកសារ​ដែល​អ្នក​កំពុង​ព្យាយាម​ផ្ញើ​លើ​ស​ទំហំ​កំណត់​នៃ​ឯកសារ​ភ្ជាប់​សរុប %1$s ហើយ។</string>
     <string name="trash_folder_selection_title">ជ្រើស​ថត​ធុង​សំរាម​ម៉ាស៊ីន​​មេ​​សម្រាប់ %s</string>
     <string name="trashed_message_indicator">សារ​នេះ​ត្រូវ​បាន​លុប។</string>
     <string name="turn_auto_sync_on_dialog_body">ការ​ផ្លាស់​ប្ដូរ​ដែល​អ្នក​បាន​ធ្វើ​​លើ​​កម្មវិធី​ទាំង​អស់​ និង​គណនី​មិន​មែន​គ្រាន់​តែ​ជា​ Gmail ទេ ​នឹង​ត្រូវ​បាន​ធ្វើ​សម​កាល​កម្ម​រវាង​បណ្ដាញ​ឧបករណ៍​ផ្សេង​ទៀត​​ ​និង​ %1$s របស់​អ្នក។</string>

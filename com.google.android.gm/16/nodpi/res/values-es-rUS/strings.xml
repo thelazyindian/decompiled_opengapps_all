@@ -28,6 +28,7 @@
     <string name="account_management_new_work_account_line_item">Configura esta cuenta</string>
     <string name="account_management_set_up_new_account_title">Nueva cuenta de trabajo</string>
     <string name="account_notification_level_high_priority">Solo prioridad alta</string>
+    <string name="account_notification_level_none">Ninguno</string>
     <string name="account_security_dialog_content_fmt">Para poder usar la cuenta &lt;%s>, debes actualizar la configuración de seguridad en tu dispositivo. Ponte en contacto con tu administrador para obtener más información.</string>
     <string name="account_security_dialog_ok">Actualizar ya</string>
     <string name="account_security_policy_explanation_fmt">El servidor %s necesita tu permiso para controlar de forma remota algunas funciones de seguridad en tu dispositivo Android.</string>
@@ -272,16 +273,13 @@
     <string name="auto_send_perm_label">Enviar Gmail</string>
     <string name="auto_sync_off">La sincronización automática está desactivada. Presiona para activar esta opción.</string>
     <string name="bcc">Cco</string>
-    <string name="bd12n_account_settings_permission_summary">Gmail necesita permiso para mostrarte notificaciones a medida que las recibes. Puedes cambiar este ajuste en la &lt;a href=%1$s>configuración del dispositivo&lt;/a>.</string>
     <string name="bd12n_conversation_push_tip_text">Presiona para recibir notificaciones sobre nuevos correos electrónicos a medida que los recibas.</string>
-    <string name="bd12n_conversation_tip_text">Si quieres recibir notificaciones sobre nuevos correos electrónicos a medida que los recibes, puedes permitir que Gmail funcione en segundo plano. &lt;a href=%1$s>Permitir&lt;/a></string>
     <string name="block_sender_menu_item">Bloquear a \"%s\"</string>
     <string name="blocked_sender_spam">¿Por qué está en la carpeta Spam este mensaje? Bloqueaste los correos electrónicos entrantes de &lt;b>%1$s&lt;/b>.</string>
     <string name="body_hint">Redactar un correo</string>
     <string name="bogus_bounce">¿Por qué está en la carpeta Spam este mensaje? Parece un aviso falso de correo electrónico no entregado en relación con un mensaje que nunca enviaste.</string>
     <string name="broadcast_internal_perm_desc">Permite que la app acceda a intentos de transmisión de Gmail para actualizar notificaciones, etc.</string>
     <string name="broadcast_internal_perm_label">transmisión interna</string>
-    <string name="bt_action_direct_reply">Redactar respuesta</string>
     <string name="bt_notification_attachment_save_error">No se pudo guardar el archivo adjunto</string>
     <string name="bt_notification_attachment_send_error">No se pudo enviar el archivo adjunto</string>
     <string name="calendar_permission_recommendation_text">Si no tiene acceso, tu calendario no se sincronizará con tu teléfono. Cambia los permisos en la app de configuración del dispositivo.</string>
@@ -418,6 +416,7 @@
     <string name="email_account_transfer_notification_channel_description">Muestra una notificación cuando tus cuentas de correo electrónico ajenas a Google se transfieren a otro dispositivo.</string>
     <string name="email_account_transfer_notification_channel_name">Transferencia de cuentas de correo electrónico de dispositivo a dispositivo</string>
     <string name="email_account_transfer_notification_title">Transfiriendo cuentas de correo electrónico ajenas a Google a otro dispositivo.</string>
+    <string name="email_confirmation_state_unknown_title">Hubo un problema con la conexión.</string>
     <string name="eml_loader_error_toast">No se puede abrir este archivo.</string>
     <string name="eml_viewer_subtitle">Visualizador de mensajes EML</string>
     <string name="employee_name_spoofing">El nombre de esta persona es similar al de un miembro de tu organización, pero la dirección de correo electrónico no pertenece al dominio o no se autenticó el mensaje. No hagas clic en vínculos ni respondas con información confidencial, a menos que te comuniques con el remitente por otro medio para asegurarte de que sea legítimo ese correo electrónico.</string>
@@ -495,7 +494,6 @@
     <string name="gm_i18n_snooze_option_later_next_week">Más tarde, semana próx.</string>
     <string name="gm_i18n_snooze_option_later_this_week">Más tarde esta sem.</string>
     <string name="gm_i18n_snooze_option_next_weekend">La próxima semana</string>
-    <string name="gm_i18n_snooze_option_someday">Otro día</string>
     <string name="gmailify_about_text1">Con Gmailify, obtienes los mejores beneficios de Gmail con tu cuenta de correo electrónico actual. Entre estos beneficios, se incluyen más protección contra el spam y categorías para organizar Recibidos. Puedes volver a la versión anterior cuando lo desees. ^1</string>
     <string name="gmailify_about_title">Menos spam, más control</string>
     <string name="gmailify_add_gmail_account">Agregar otra casilla de Gmail</string>
@@ -632,6 +630,8 @@
     <string name="notification_level_none">Ninguna</string>
     <string name="notify_attachment_save_error">No se pudo guardar el archivo adjunto</string>
     <string name="notify_attachment_send_error">No se pudo enviar el archivo adjunto</string>
+    <string name="nudge_dismiss_button_text">DESCARTAR</string>
+    <string name="nudge_dismiss_success_message">Se descartó la sugerencia.</string>
     <string name="oauth_error_description">No se puede autenticar.</string>
     <string name="oauth_server_error">El servidor no está disponible, vuelve a intentarlo luego.</string>
     <string name="offline_alert_dialog_message">Para realizar esta operación, debes estar en línea.</string>
@@ -853,6 +853,7 @@ Presiona para activar esta opción."</string>
     <string name="snooze_info_time">Se pospuso el elemento hasta %s</string>
     <string name="snooze_menu_item_feature_highlight_body">Pospón un correo electrónico para ocultarlo hasta un momento específico</string>
     <string name="snooze_menu_item_feature_highlight_title">Ocúpate de un correo electrónico en otro momento</string>
+    <string name="snooze_option_specific_day_afternoon">Tarde</string>
     <string name="snooze_option_specific_day_custom">Personalizado</string>
     <string name="snooze_option_specific_day_evening">Atardecer</string>
     <string name="snoozed_date_less_than_one_hour_ago">Pospuesto hace &lt; 1 hora</string>
@@ -873,6 +874,7 @@ Presiona para activar esta opción."</string>
     <string name="swipe_action_pref_item_right_title">Deslizar a la der.</string>
     <string name="swipe_left_actions_dialog_title">Deslizar hacia la izquierda para</string>
     <string name="swipe_right_actions_dialog_title">Deslizar hacia la derecha para</string>
+    <string name="sync_all">Todas</string>
     <string name="sync_error">No se pudo sincronizar</string>
     <string name="sync_error_message">Tu dispositivo no tiene suficiente espacio de almacenamiento para sincronizar.</string>
     <string name="sync_folder_error">Hubo un problema al sincronizar la carpeta. Vuelve a intentarlo luego.</string>
@@ -905,7 +907,7 @@ Presiona para activar esta opción."</string>
     <string name="tasks_edit_segment_body_hint">Agregar nota</string>
     <string name="terms_of_service_link">Condiciones del servicio</string>
     <string name="too_large_to_attach_multiple">No se adjuntaron uno o más archivos. Límite: %1$s.</string>
-    <string name="too_large_to_attach_single">No se puede adjuntar un archivo que supere el límite de %1$s.</string>
+    <string name="too_large_to_attach_single">Los elementos que intentas enviar superan el límite total de archivos adjuntos de %1$s</string>
     <string name="trash_folder_selection_title">Papelera del servidor para %s:</string>
     <string name="trashed_message_indicator">Se eliminó este mensaje</string>
     <string name="turn_auto_sync_on_dialog_body">Los cambios que realices en todas las aplicaciones y cuentas, no solo en Gmail, se sincronizarán con la Web, con otros dispositivos que tengas y con tu %1$s.</string>

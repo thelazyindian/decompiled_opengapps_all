@@ -405,9 +405,7 @@
     <string name="auto_send_perm_label">ສົ່ງ Gmail</string>
     <string name="auto_sync_off">ການຊິ້ງຂໍ້ມູນອັດຕະໂນມັດຖືກປິດໄວ້. ແຕະເພື່ອເປີດນຳໃຊ້.</string>
     <string name="bcc_header_for_recipient_summary">"Bcc: "</string>
-    <string name="bd12n_account_settings_permission_summary">Gmail ຕ້ອງການສິດອະນຸຍາດໃນການຈັດສົ່ງການແຈ້ງເຕືອນຂອງທ່ານເມື່ອພວກມັນມາຮອດ. ທ່ານສາມາດປ່ຽນການຕັ້ງຄ່ານີ້ໄດ້ໃນ &lt;a href=%1$s>ການຕັ້ງຄ່າອຸປະກອນ&lt;/a>.</string>
     <string name="bd12n_conversation_push_tip_text">ແຕະເພື່ອຮັບການແຈ້ງເຕືອນເມື່ອມີອີເມວໃໝ່ສົ່ງເຂົ້າມາ.</string>
-    <string name="bd12n_conversation_tip_text">ອະນຸຍາດໃຫ້ Gmail ເຮັດວຽກຢູ່ເບື້ອງຫຼັງ ຫາກທ່ານຕ້ອງການຮັບການແຈ້ງເຕືອນເມື່ອໄດ້ຮັບອີເມວໃໝ່. &lt;a href=%1$s>ອະນຸຍາດ&lt;/a></string>
     <string name="block_sender_menu_item">ບລັອກ \"%s\"</string>
     <string name="blocked_sender_spam">ເປັນຫຍັງອີເມວນີ້ຢູ່ໃນໂຟນເດີສະແປມ? ເພາະທ່ານບລັອກອີເມວຂາເຂົ້າຈາກ &lt;b>%1$s&lt;/b>.</string>
     <string name="body_hint">ຂຽນອີເມວ</string>
@@ -417,7 +415,6 @@
     <string name="broadcast_internal_perm_label">ການ​ເຜີຍ​ແຜ່​ພາຍ​ໃນ</string>
     <string name="bt_action_archive">ຈັດເກັບໃສ່ແຟ້ມ</string>
     <string name="bt_action_delete">ລຶບ</string>
-    <string name="bt_action_direct_reply">ຂຽນຕອບກັບ</string>
     <string name="bt_action_remove_label">ລຶບປ້າຍກຳກັບ</string>
     <string name="bt_action_reply">ຕອບກັບ</string>
     <string name="bt_action_reply_all">ຕອບກັບທັງໝົດ</string>
@@ -633,6 +630,8 @@
     <string name="email_account_transfer_notification_channel_description">ສະແດງການແຈ້ງເຕືອນເມື່ອບັນຊີອີເມວທີ່ບໍ່ແມ່ນຂອງ Google ຂອງທ່ານກຳລັງຖືກໂອນຍ້າຍໄປໃສ່ອຸປະກອນອື່ນ.</string>
     <string name="email_account_transfer_notification_channel_name">ການໂອນຍ້າຍບັນຊີອີເມວຈາກອຸປະກອນໄປສູ່ອຸປະກອນ</string>
     <string name="email_account_transfer_notification_title">ກຳລັງໂອນຍ້າຍບັນຊີອີເມວທີ່ບໍ່ແມ່ນຂອງ Google ໄປໃສ່ອຸປະກອນອື່ນ.</string>
+    <string name="email_confirmation_state_unknown_description">ອີເມວຂອງທ່ານອາດຖືກສົ່ງໄປແລ້ວ.</string>
+    <string name="email_confirmation_state_unknown_title">ໂອະ, ພວກເຮົາມີບັນຫາການເຊື່ອມຕໍ່</string>
     <string name="email_provider_label">​ອີ​ເມວ</string>
     <string name="eml_loader_error_toast">ບໍ່​ສາ​ມາດ​ເປີດ​ໄຟ​ລ໌​ນີ້​ໄດ້</string>
     <string name="eml_viewer_subtitle">ໂຕເບິ່ງຂໍ້ຄວາມ EML</string>
@@ -768,7 +767,6 @@
     <string name="gm_i18n_snooze_option_later_today">ທ້າຍມື້ນີ້</string>
     <string name="gm_i18n_snooze_option_next_week">ອາທິດໜ້າ</string>
     <string name="gm_i18n_snooze_option_next_weekend">ເສົາອາທິດໜ້າ</string>
-    <string name="gm_i18n_snooze_option_someday">ມື້ໃດມື້ໜຶ່ງ</string>
     <string name="gm_i18n_snooze_option_this_week">ອາທິດນີ້</string>
     <string name="gm_i18n_snooze_option_this_weekend">ເສົາອາທິດນີ້</string>
     <string name="gm_i18n_snooze_option_tomorrow">ມື້ອື່ນ</string>
@@ -988,6 +986,7 @@
     <string name="message_priority">ຄວາມສຳຄັນອີເມວ</string>
     <string name="message_queued">ເຂົ້າຄິວແລ້ວ</string>
     <string name="message_saved">ບັນທຶກ​ອີເມວ​ເປັນ​ສະບັບຮ່າງ​ແລ້ວ.</string>
+    <string name="message_sent">ສົ່ງແລ້ວ</string>
     <string name="message_too_large">ຂໍ້ຄວາມໃຫຍ່ເກີນທີ່ຈະເປີດໃນອຸປະກອນນີ້</string>
     <string name="message_uploading_attachments">ກຳລັງອັບໂຫລດ</string>
     <string name="message_view_forwarded_attachment_background_load">ໜຶ່ງ ຫຼື ຫຼາຍ​ກວ່າ​ໜຶ່ງໄຟລ໌​ແນບ​ໃນຂໍ້ຄວາມທີ່ທ່ານສົ່ງຕໍ່​ຈະຖືກດາວໂຫລດ​ກ່ອນໜ້າການ​ສົ່ງ.</string>
@@ -1039,6 +1038,8 @@
     <string name="notifications_category">ການແຈ້ງເຕືອນ</string>
     <string name="notify_attachment_save_error">​ບໍ່​ສາ​ມາດ​ບັນ​ທຶກ​ໄຟ​ລ໌​ແນບ​ໄດ້</string>
     <string name="notify_attachment_send_error">ບໍ່​ສາມາດ​ສົ່ງ​ໄຟລ໌ແນບ​ໄດ້</string>
+    <string name="nudge_dismiss_button_text">ປິດໄວ້</string>
+    <string name="nudge_dismiss_success_message">ປິດການສະກິດແລ້ວ.</string>
     <string name="oauth_authentication_title">ກຳລັງຮ້ອງຂໍການອະນຸຍາດ...</string>
     <string name="oauth_error_description">ບໍ່​ສາມາດ​ພິສູດ​ຢືນຢັນ​ໄດ້</string>
     <string name="oauth_server_error">ບໍ່​ມີ​ເຊີບ​ເວີ​ໃຫ້, ກະ​ລຸ​ນາ​ລອງ​ໃໝ່​ໃນ​ພາຍຫຼັງ.</string>
@@ -1525,7 +1526,7 @@
     <string name="to_message_header">ຫາ %1$s</string>
     <string name="toggle_read_unread">ສະ​ລັບ ອ່ານ/ບໍ່​ອ່ານ</string>
     <string name="too_large_to_attach_multiple">ນຶ່ງ ຫຼື ຫຼາຍກວ່ານຶ່ງໄຟລ໌ບໍ່ຖືກແນບ. ຈໍາກັດ %1$s.</string>
-    <string name="too_large_to_attach_single">ບໍ່ສາມາດແນບໄຟລ໌ຂະໜາດເກີນ %1$s.</string>
+    <string name="too_large_to_attach_single">ໄຟລ໌ທີ່ທ່ານກຳລັງພະຍາຍາມສົ່ງນັ້ນມີຂະໜາດເກີນທີ່ຈຳກັດໄວ້ສຳລັບໄຟລ໌ແນບຄື %1$s.</string>
     <string name="trash_folder_selection_title">ເລືອກໂຟນເດີຖັງຂີ້ເຫຍື້ອຂອງເຊີບເວີສຳລັບ %s</string>
     <string name="trashed_message_indicator">ລຶບຂໍ້ຄວາມນີ້ອອກແລ້ວ</string>
     <string name="turn_auto_sync_on_dialog_body">ການປ່ຽນແປງທີ່ທ່ານເຮັດໃນທຸກແອັບຯ ແລະທຸກບັນຊີ ບໍ່ສະເພາະພຽງແຕ່ Gmail ຈະໄດ້ຮັບການຊິ້ງຂໍ້ມູນລະຫວ່າງເວັບໄຊ ແລະອຸປະກອນອື່ນໆຂອງທ່ານ ຮວມທັງ %1$s ຂອງທ່ານນຳ.</string>

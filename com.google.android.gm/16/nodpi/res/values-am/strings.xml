@@ -418,9 +418,7 @@
     <string name="bcc">ስውር ቅጂ</string>
     <string name="bcc_header_for_recipient_summary">"ስውር ቅጂ፦ "</string>
     <string name="bcc_heading">ስውር ቅጂ፦</string>
-    <string name="bd12n_account_settings_permission_summary">ማሳወቂያዎችዎን እንደደረሱ ለማቅረብ Gmail ፈቃድ ይፈልጋል። ይህንን &lt;a href=%1$s>የመሣሪያ ቅንብሮች&lt;/a> ውስጥ መቀየር ይችላሉ።</string>
     <string name="bd12n_conversation_push_tip_text">አዳዲስ ኢሜይሎች ልክ እንደደረሱ ማሳወቂያ እንዲያገኙ መታ ያድርጉ።</string>
-    <string name="bd12n_conversation_tip_text">አዳዲስ ኢሜይሎች ልክ እንደደረሱ ማሳወቂያ እንዲያገኙ ከፈለጉ Gmail ከጀርባ እንዲሄድ ይፍቀዱ። &lt;a href=%1$s>ፍቀድ&lt;/a></string>
     <string name="block_sender_menu_item">«%s»ን አግድ</string>
     <string name="blocked_sender_spam">ለምንድነው ይህ መልዕክት በአይፈለጌ መልዕክት ውስጥ የሆነው? ከ&lt;b>%1$s&lt;/b> ገቢ የሆኑ መልዕክቶችን አግደዋል።</string>
     <string name="body_hint">ኢሜይል አቀናብር</string>
@@ -430,7 +428,6 @@
     <string name="broadcast_internal_perm_label">ውስጣዊ ስርጭት</string>
     <string name="bt_action_archive">በማህደር አስቀምጥ</string>
     <string name="bt_action_delete">ሰርዝ</string>
-    <string name="bt_action_direct_reply">መልስ ይጻፉ</string>
     <string name="bt_action_remove_label">ስያሜ አስወግድ</string>
     <string name="bt_action_reply">መልስ</string>
     <string name="bt_action_reply_all">ለሁሉም ምላሽ ስጥ</string>
@@ -658,6 +655,8 @@
     <string name="email_account_transfer_notification_channel_description">የGoogle-ያልሆኑ የኢሜይል መለያዎችዎ ወደ ሌላ መሣሪያ በሚተላለፉበት ጊዜ ማሳወቂያ ያሳያል።</string>
     <string name="email_account_transfer_notification_channel_name">ከመሣሪያ-ወደ-መሣሪያ የኢሜይል መለያ ማስተላለፍ</string>
     <string name="email_account_transfer_notification_title">የGoogle-ያልሆኑ የኢሜይል መለያዎችን ወደ ሌላ መሣሪያ በማስተላለፍ ላይ።</string>
+    <string name="email_confirmation_state_unknown_description">መልዕክትዎ ተልኮ ሊሆን ይችላል።</string>
+    <string name="email_confirmation_state_unknown_title">ውይ፣ መገናኘት ላይ ችግሮች አጋጥመውናል!</string>
     <string name="email_provider_label">መልዕክት</string>
     <string name="eml_loader_error_toast">ይህን ፋይል መክፈት አይቻልም</string>
     <string name="eml_viewer_subtitle">ኢኤምኤል መልዕክት ተመልካች</string>
@@ -796,7 +795,6 @@
     <string name="gm_i18n_snooze_option_later_today">ዛሬ በኋላ ላይ</string>
     <string name="gm_i18n_snooze_option_next_week">የሚቀጥለው ሳምንት</string>
     <string name="gm_i18n_snooze_option_next_weekend">ቀጣይ የሳምንት እረፍት ቀን</string>
-    <string name="gm_i18n_snooze_option_someday">የሆነ ቀን</string>
     <string name="gm_i18n_snooze_option_this_week">በዚህ ሳምንት</string>
     <string name="gm_i18n_snooze_option_this_weekend">በዚህ ሳምንት</string>
     <string name="gm_i18n_snooze_option_tomorrow">ነገ</string>
@@ -1021,6 +1019,7 @@
     <string name="message_priority">የመልዕክት ቅድሚያ</string>
     <string name="message_queued">ወረፋ ይዟል</string>
     <string name="message_saved">መልዕክት እንደ ረቂቅ ተቀምጧል።</string>
+    <string name="message_sent">ተልኳል</string>
     <string name="message_too_large">መልዕክት በዚህ መሣሪያ ላይ ለመከፈት በጣም ትልቅ ነው</string>
     <string name="message_uploading_attachments">በመስቀል ላይ</string>
     <string name="message_view_forwarded_attachment_background_load">በሚተላለፈው መልዕክትዎ ውስጥ አንድ ወይም ተጨማሪ ዓባሪዎች ከመላኩ አስቀድሞ ይወርዳሉ።</string>
@@ -1072,6 +1071,8 @@
     <string name="notifications_category">ማሳወቂያዎች</string>
     <string name="notify_attachment_save_error">ዓባሪ ማስቀመጥ አልተቻለም</string>
     <string name="notify_attachment_send_error">ዓባሪ መላክ አልተቻለም</string>
+    <string name="nudge_dismiss_button_text">አሰናብት</string>
+    <string name="nudge_dismiss_success_message">ገፋ ማድረግ ተሰናብቷል።</string>
     <string name="oauth_authentication_title">ፈቀዳን በመጠየቅ ላይ…</string>
     <string name="oauth_error_description">ማረጋገጥ አልተቻለም</string>
     <string name="oauth_server_error">አገልጋይ አይገኝም። እባክዎ ቆይተው እንደገና ይሞክሩ።</string>
@@ -1565,7 +1566,7 @@
     <string name="to_message_header">ለ%1$s</string>
     <string name="toggle_read_unread">ወደ የተነበበ ያልተነበበ ቀያይር</string>
     <string name="too_large_to_attach_multiple">አንድ ወይም ከዚያ በላይ ፋይሎች አልተያያዙም። ገደብ %1$s።</string>
-    <string name="too_large_to_attach_single">ከ%1$s በላይ የሆነ ፋይል ማያያዝ አይቻልም።</string>
+    <string name="too_large_to_attach_single">ለመላክ የሞከሩዋቸው ፋይሎች ከ%1$s ጠቅላላ የአባሪ ወሰን ያልፋሉ።</string>
     <string name="trash_folder_selection_title">ለ%s የአገልጋይ መጣያ ይምረጡ</string>
     <string name="trashed_message_indicator">ይህ መልዕክት ተሰርዟል።</string>
     <string name="turn_auto_sync_on_dialog_body">በGmail ላይ ብቻ ሳይሆን በሁሉም መተግበሪያዎች እና መለያዎች ላይ የሚያደርጓቸው ለውጦች በድር፣ ሌሎች የእርስዎ መሣሪያዎች እና በእርስዎ %1$s መካከል ይመሳሰላሉ።</string>

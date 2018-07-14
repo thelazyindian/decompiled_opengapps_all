@@ -418,9 +418,7 @@
     <string name="auto_send_perm_label">Sūtīt, izmantojot Gmail</string>
     <string name="auto_sync_off">Automātiskā sinhronizācija ir izslēgta. Pieskarieties, lai to ieslēgtu.</string>
     <string name="bcc_header_for_recipient_summary">"Bcc: "</string>
-    <string name="bd12n_account_settings_permission_summary">Pakalpojumam Gmail ir nepieciešama atļauja, lai piegādātu jūsu ienākošos paziņojumus. Varat to mainīt &lt;a href=%1$s>ierīces iestatījumos&lt;/a>.</string>
     <string name="bd12n_conversation_push_tip_text">Pieskarieties, lai saņemtu paziņojumus par jauniem ienākošajiem e-pasta ziņojumiem.</string>
-    <string name="bd12n_conversation_tip_text">Ļaujiet pakalpojumam Gmail darboties fonā, ja vēlaties saņemt paziņojumus par jauniem ienākošajiem e-pasta ziņojumiem. &lt;a href=%1$s>Atļaut&lt;/a></string>
     <string name="block_sender_menu_item">Bloķēt lietotāju %s</string>
     <string name="blocked_sender_spam">Kādēļ šis ziņojums ir mapē Mēstules? Jūs bloķējāt ienākošos ziņojumus no adreses &lt;b>%1$s&lt;/b>.</string>
     <string name="body_hint">Rakstiet e-pasta ziņojumu.</string>
@@ -430,7 +428,6 @@
     <string name="broadcast_internal_perm_label">iekšējā apraide</string>
     <string name="bt_action_archive">Arhivēt</string>
     <string name="bt_action_delete">Dzēst</string>
-    <string name="bt_action_direct_reply">Rakstīt atbildi</string>
     <string name="bt_action_remove_label">Noņemt iezīmi</string>
     <string name="bt_action_reply">Atbildēt</string>
     <string name="bt_action_reply_all">Atbildēt visiem</string>
@@ -652,6 +649,8 @@
     <string name="email_account_transfer_notification_channel_description">Tiek rādīts paziņojums, kad jūsu e-pasta konti, kas nav Google konti, tiek pārsūtīti uz citu ierīci.</string>
     <string name="email_account_transfer_notification_channel_name">E-pasta konta pārsūtīšana starp ierīcēm</string>
     <string name="email_account_transfer_notification_title">Uz citu ierīci tiek pārsūtīti e-pasta konti, kas nav Google konti.</string>
+    <string name="email_confirmation_state_unknown_description">Jūsu ziņojums, iespējams, ir nosūtīts.</string>
+    <string name="email_confirmation_state_unknown_title">Radās problēma ar savienojumu!</string>
     <string name="email_provider_label">Pasts</string>
     <string name="eml_loader_error_toast">Nevar atvērt šo failu.</string>
     <string name="eml_viewer_subtitle">EML ziņojumu skatītājs</string>
@@ -790,7 +789,6 @@
     <string name="gm_i18n_snooze_option_later_today">Vēlāk šodien</string>
     <string name="gm_i18n_snooze_option_next_week">Nākamnedēļ</string>
     <string name="gm_i18n_snooze_option_next_weekend">Nāk. nedēļas nogalē</string>
-    <string name="gm_i18n_snooze_option_someday">Citreiz</string>
     <string name="gm_i18n_snooze_option_this_week">Šajā nedēļā</string>
     <string name="gm_i18n_snooze_option_this_weekend">Šajā nedēļas nogalē</string>
     <string name="gm_i18n_snooze_option_tomorrow">Rīt</string>
@@ -1012,6 +1010,7 @@
     <string name="message_priority">Ziņojuma prioritāte</string>
     <string name="message_queued">Ievietots rindā</string>
     <string name="message_saved">Ziņojums ir saglabāts kā melnraksts.</string>
+    <string name="message_sent">Nosūtīts</string>
     <string name="message_too_large">Ziņojums ir pārāk liels atvēršanai šajā ierīcē.</string>
     <string name="message_uploading_attachments">Augšupielāde</string>
     <string name="message_view_forwarded_attachment_background_load">Viens vai vairāki pārsūtītā ziņojuma pielikumi pirms sūtīšanas tiks lejupielādēti.</string>
@@ -1064,6 +1063,8 @@
     <string name="notifications_category">Paziņojumi</string>
     <string name="notify_attachment_save_error">Nevarēja saglabāt pielikumu</string>
     <string name="notify_attachment_send_error">Nevarēja nosūtīt pielikumu</string>
+    <string name="nudge_dismiss_button_text">NORAIDĪT</string>
+    <string name="nudge_dismiss_success_message">Atgādinājums ir noraidīts.</string>
     <string name="oauth_authentication_title">Notiek pilnvarojuma pieprasīšana…</string>
     <string name="oauth_error_description">Nevar autentificēt</string>
     <string name="oauth_server_error">Serveris nav pieejams. Lūdzu, vēlāk mēģiniet vēlreiz.</string>
@@ -1555,7 +1556,7 @@ Pieskarieties, lai to ieslēgtu."</string>
     <string name="to_message_header">Kam: %1$s</string>
     <string name="toggle_read_unread">Rādīt lasītos/nelasītos</string>
     <string name="too_large_to_attach_multiple">Viens vai vairāki faili nav pievienoti. Maksimālais lielums ir %1$s.</string>
-    <string name="too_large_to_attach_single">Nevar pievienot failu, kas ir lielāks par %1$s.</string>
+    <string name="too_large_to_attach_single">Faili, kurus mēģināt nosūtīt, pārsniedz kopējo pielikuma lieluma ierobežojumu (%1$s).</string>
     <string name="trash_folder_selection_title">Servera miskastes mape kontam %s</string>
     <string name="trashed_message_indicator">Šis ziņojums ir izdzēsts.</string>
     <string name="turn_auto_sync_on_dialog_body">Izmaiņas, ko veicāt visām lietotnēm un kontiem (ne tikai Gmail), tiks sinhronizētas tīmeklī, citās jūsu ierīcēs un šādā jūsu ierīcē: %1$s.</string>

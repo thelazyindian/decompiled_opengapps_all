@@ -411,9 +411,7 @@
     <string name="bcc">Скр. коп.</string>
     <string name="bcc_header_for_recipient_summary">"скр. коп: "</string>
     <string name="bcc_heading">Скр. коп:</string>
-    <string name="bd12n_account_settings_permission_summary">Gmail-у треба дозвола да испоручује обавештења чим стигну. Можете да промените ово у &lt;a href=%1$s>подешавањима уређаја&lt;/a>.</string>
     <string name="bd12n_conversation_push_tip_text">Додирните да бисте добијали обавештења о новим имејловима чим стигну.</string>
-    <string name="bd12n_conversation_tip_text">Нека Gmail ради у позадини ако желите да добијате обавештења о новим имејловима чим стигну. &lt;a href=%1$s>Дозволи&lt;/a></string>
     <string name="block_sender_menu_item">Блокирај „%s“</string>
     <string name="blocked_sender_spam">Зашто је ова порука у Непожељним? Блокирали сте долазне поруке од &lt;b>%1$s&lt;/b>.</string>
     <string name="body_hint">Напишите имејл</string>
@@ -423,7 +421,6 @@
     <string name="broadcast_internal_perm_label">интерно емитовање</string>
     <string name="bt_action_archive">Архивирај</string>
     <string name="bt_action_delete">Избриши</string>
-    <string name="bt_action_direct_reply">Напишите одговор</string>
     <string name="bt_action_remove_label">Уклони ознаку</string>
     <string name="bt_action_reply">Одговори</string>
     <string name="bt_action_reply_all">Одговори свима</string>
@@ -646,6 +643,8 @@
     <string name="email_account_transfer_notification_channel_description">Приказује обавештење кад се имејл налози који нису Google-ови преносе на други уређај.</string>
     <string name="email_account_transfer_notification_channel_name">Пренос имејл налога с уређаја на уређај</string>
     <string name="email_account_transfer_notification_title">Имејл налози који нису Google-ови се преносе на други уређај.</string>
+    <string name="email_confirmation_state_unknown_description">Порука је можда послата.</string>
+    <string name="email_confirmation_state_unknown_title">Упс, дошло је до проблема при повезивању!</string>
     <string name="email_provider_label">Е-пошта</string>
     <string name="eml_loader_error_toast">Није могуће отворити ову датотеку</string>
     <string name="eml_viewer_subtitle">Приказивач EML порука</string>
@@ -784,7 +783,6 @@
     <string name="gm_i18n_snooze_option_later_today">Касније данас</string>
     <string name="gm_i18n_snooze_option_next_week">Следеће недеље</string>
     <string name="gm_i18n_snooze_option_next_weekend">Следећег викенда</string>
-    <string name="gm_i18n_snooze_option_someday">Једног дана</string>
     <string name="gm_i18n_snooze_option_this_week">Ове недеље</string>
     <string name="gm_i18n_snooze_option_this_weekend">Овог викенда</string>
     <string name="gm_i18n_snooze_option_tomorrow">Сутра</string>
@@ -1006,6 +1004,7 @@
     <string name="message_priority">Приоритет порука</string>
     <string name="message_queued">Стављено у ред</string>
     <string name="message_saved">Порука је сачувана као недовршена.</string>
+    <string name="message_sent">Послато је</string>
     <string name="message_too_large">Порука је превелика, па не можете да је отворите на овом уређају</string>
     <string name="message_uploading_attachments">Отпрема се</string>
     <string name="message_view_forwarded_attachment_background_load">Неки од прилога у прослеђеној поруци ће бити преузети пре слања.</string>
@@ -1057,6 +1056,8 @@
     <string name="notifications_category">Обавештења</string>
     <string name="notify_attachment_save_error">Чување прилога није успело</string>
     <string name="notify_attachment_send_error">Слање прилога није успело</string>
+    <string name="nudge_dismiss_button_text">ОДБАЦИ</string>
+    <string name="nudge_dismiss_success_message">Аутоматски подсетник је одбачен.</string>
     <string name="oauth_authentication_title">Тражи се овлашћење...</string>
     <string name="oauth_error_description">Није могуће потврдити аутентичност</string>
     <string name="oauth_server_error">Сервер није доступан. Пробајте поново касније.</string>
@@ -1547,7 +1548,7 @@
     <string name="to_message_header">коме: %1$s</string>
     <string name="toggle_read_unread">Прикажи прочитано/непрочитано</string>
     <string name="too_large_to_attach_multiple">Није приложена једна датотека или више њих. Ограничење је %1$s.</string>
-    <string name="too_large_to_attach_single">Није могуће приложити датотеку која премашује %1$s.</string>
+    <string name="too_large_to_attach_single">Датотеке које покушавате да пошаљете премашују укупно ограничење за прилоге од %1$s.</string>
     <string name="trash_folder_selection_title">Изаберите директоријум за отпад на серверу за %s</string>
     <string name="trashed_message_indicator">Ова порука је избрисана</string>
     <string name="turn_auto_sync_on_dialog_body">Промене које обављате у свим апликацијама и налозима, а не само у Gmail-у, биће синхронизоване између веба, других уређаја и %1$s.</string>

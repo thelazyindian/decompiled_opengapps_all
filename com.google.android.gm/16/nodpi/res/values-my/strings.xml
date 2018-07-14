@@ -408,9 +408,7 @@
     <string name="bcc">လျှို့ဝှက်တွဲပို့လိပ်စာ</string>
     <string name="bcc_header_for_recipient_summary">"bcc- "</string>
     <string name="bcc_heading">လျှို့ဝှက်တွဲပို့ -</string>
-    <string name="bd12n_account_settings_permission_summary">Gmail သည် အကြောင်းကြားချက်များ ရောက်လာသည့်အခါ ပေးပို့ရန် သင့်ခွင့်ပြုချက် လိုအပ်ပါသည်။ ၎င်းကို &lt;a href=%1$s>စက်ပစ္စည်းဆက်တင်များ&lt;/a> တွင် ပြောင်းလဲနိုင်သည်။</string>
     <string name="bd12n_conversation_push_tip_text">အီးမေးလ်အသစ်များ ရောက်သည်နှင့် အကြောင်းကြားချက်ရယူရန် တို့ပါ။</string>
-    <string name="bd12n_conversation_tip_text">အီးမေးလ်အသစ်များ ရောက်လာသည့်အခါ အကြောင်းကြားစေလိုလျှင် Gmail ကို နောက်ခံတွင် ဖွင့်ထားပါ။ &lt;a href=%1$s>ခွင့်ပြုရန်&lt;/a></string>
     <string name="block_sender_menu_item">\"%s\" ကိုပိတ်ရန်</string>
     <string name="blocked_sender_spam">"ဤမက်ဆေ့ဂျ် ဘာကြောင့် 'စပမ်း' ထဲတွင် ရှိနေသနည်း။ &lt;b>%1$s&lt;/b> မှ အဝင်မက်ဆေ့ဂျ်များကို သင်ပိတ်ထားခဲ့သောကြောင့် ဖြစ်သည်။"</string>
     <string name="body_hint">အီးမေးလ် ရေးသားရန်</string>
@@ -420,7 +418,6 @@
     <string name="broadcast_internal_perm_label">ရုံးတွင်း ထုတ်လွှင့်မှု</string>
     <string name="bt_action_archive">သိမ်းဆည်းရန်</string>
     <string name="bt_action_delete">ဖျက်ရန်</string>
-    <string name="bt_action_direct_reply">ပြန်စာရေးရန်</string>
     <string name="bt_action_remove_label">အညွှန်း ဖယ်ရှားရန်</string>
     <string name="bt_action_reply">စာပြန်ရန်</string>
     <string name="bt_action_reply_all">အားလုံးထံ စာပြန်ရန်</string>
@@ -643,6 +640,8 @@
     <string name="email_account_transfer_notification_channel_description">သင်၏ Google မဟုတ်သော အီးမေးလ်အကောင့်များကို နောက်ထပ်စက်သို့ လွှဲပြောင်းသောအခါ အကြောင်းကြားချက် ပြသပါသည်။</string>
     <string name="email_account_transfer_notification_channel_name">စက်အချင်းချင်း အီးမေးလ် လွှဲပြောင်းခြင်း</string>
     <string name="email_account_transfer_notification_title">Google မဟုတ်သော အီးမေးလ် အကောင့်များကို နောက်ထပ်စက်သို့ လွှဲပြောင်းနေသည်။</string>
+    <string name="email_confirmation_state_unknown_description">သင်၏ မက်ဆေ့ဂျ်များ ပို့လိုက်ပြီးဖြစ်ပါလိမ့်မည်။</string>
+    <string name="email_confirmation_state_unknown_title">သည်းခံပါ၊ ချိတ်ဆက်မှုတွင် ပြဿနာရှိနေပါသည်။</string>
     <string name="email_provider_label">စာ</string>
     <string name="eml_loader_error_toast">ဤဖိုင်ကို မဖွင့်နိုင်</string>
     <string name="eml_viewer_subtitle">EML မက်ဆေ့ဂျ်ကြည့်ရှုသည့် ဆော့ဖ်ဝဲ</string>
@@ -780,7 +779,6 @@
     <string name="gm_i18n_snooze_option_later_today">ယနေ့နှောင်းပိုင်း</string>
     <string name="gm_i18n_snooze_option_next_week">လာမည့်အပတ်</string>
     <string name="gm_i18n_snooze_option_next_weekend">လာမည့်သီတင်းပတ်အကုန်</string>
-    <string name="gm_i18n_snooze_option_someday">တစ်နေ့နေ့</string>
     <string name="gm_i18n_snooze_option_this_week">ယခုအပတ်</string>
     <string name="gm_i18n_snooze_option_this_weekend">ဤသီတင်းပတ်အကုန်</string>
     <string name="gm_i18n_snooze_option_tomorrow">မနက်ဖြန်</string>
@@ -1000,6 +998,7 @@
     <string name="message_priority">မက်ဆေ့ဂျ် ဦးစားပေး</string>
     <string name="message_queued">တန်းစီထားပြီး</string>
     <string name="message_saved">စာကို စာကြမ်း အဖြစ် သိမ်းဆည်းခဲ့သည်။</string>
+    <string name="message_sent">ပို့ပြီးသွားပြီ</string>
     <string name="message_too_large">ဤကိရိယာတွင် ဖွင့်ရန် မက်ဆေ့ဂျ်က ကြီးလွန်းနေသည်</string>
     <string name="message_uploading_attachments">အပ်လုဒ်လုပ်နေသည်</string>
     <string name="message_view_forwarded_attachment_background_load">သင်ထပ်ဆင့်ပို့ထားသည့် မက်ဆေ့ဂျ်အတွင်းရှိ ပူးတွဲဖိုင်တစ်ခု သို့မဟုတ် တစ်ခုထက်ပိုသော ဖိုင်များကို မပို့မီ ဒေါင်းလုဒ်လုပ်သွားပါမည်။</string>
@@ -1050,6 +1049,8 @@
     <string name="notifications_category">သတိပေးချက်များ</string>
     <string name="notify_attachment_save_error">ပူးတွဲဖိုင်ကို မသိမ်းနိုင်ခဲ့ပါ</string>
     <string name="notify_attachment_send_error">ပူးတွဲဖိုင်ကို မပို့နိုင်ခဲ့ပါ</string>
+    <string name="nudge_dismiss_button_text">ပယ်ရန်</string>
+    <string name="nudge_dismiss_success_message">အီးမေးလ်ဟောင်း သတိပေးခြင်းကို ပယ်ထားသည်။</string>
     <string name="oauth_authentication_title">ခွင့်ပြုချက် တောင်းဆိုနေပါသည်...</string>
     <string name="oauth_error_description">အထောက်အထား မစိစစ်နိုင်</string>
     <string name="oauth_server_error">"Server  အလုပ်မလုပ်သေးပါ။ နောက်မှပြန်ကြိုးစားပါ"</string>
@@ -1539,7 +1540,7 @@
     <string name="to_message_header">%1$s ထံသို့</string>
     <string name="toggle_read_unread">ဖတ်ခဲ့ မဖတ်ခဲ့ကို လိုက်လံကြည့်ရှုရန်</string>
     <string name="too_large_to_attach_multiple">ဖိုင် တစ်ခု သို့မဟုတ် တစ်ခုထက်ပိုသောဖိုင်များကို မပူးတွဲခဲ့ပါ။ %1$s ကန့်သတ်မှု။</string>
-    <string name="too_large_to_attach_single">%1$sထက် ပိုကြီးသော ဖိုင်ကို မပူးတွဲနိုင်ပါ။</string>
+    <string name="too_large_to_attach_single">သင်ပို့ရန် ကြိုးစားနေသည့် ဖိုင်များသည် စုစုပေါင်း ပူးတွဲပါဖိုင် ကန့်သတ်ချက် %1$s ကို ကျော်နေသည်။</string>
     <string name="trash_folder_selection_title">%sတွက် ဆာဗာ အမှိုက် ဖိုလ်ဒါ ရွေး</string>
     <string name="trashed_message_indicator">ဤမက်ဆေ့ဂျ်ကို ဖျက်လိုက်ပါပြီ</string>
     <string name="turn_auto_sync_on_dialog_body">Gmail သာမက၊ အက်ပ်များနှင့် အကောင့်များ အားလုံးတွင် သင်ပြုလုပ်ခဲ့သော အပြောင်းအလဲများကို ဝဘ်၊ သင်၏ ကိရိယာများ နှင့် သင်၏%1$s အကြားမှာ ချိန်ညှိပေးသွားမည်။</string>

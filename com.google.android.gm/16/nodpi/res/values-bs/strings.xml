@@ -405,9 +405,7 @@
     <string name="bcc">Nevidljiva</string>
     <string name="bcc_header_for_recipient_summary">"nev. kop.: "</string>
     <string name="bcc_heading">Nev. kop.:</string>
-    <string name="bd12n_account_settings_permission_summary">Gmailu je potrebno odobrenje za isporuku obavještenja pri njihovom pristizanju. Ovu opciju možete promijeniti u &lt;a href=%1$s>postavkama uređaja&lt;/a>.</string>
     <string name="bd12n_conversation_push_tip_text">Dodirnite za obavještenja o primanju novih e-poruka.</string>
-    <string name="bd12n_conversation_tip_text">Omogućite Gmailu pokretanje u pozadini ako želite biti obaviješteni o novim e-porukama pri njihovom pristizanju. &lt;a href=%1$s>Dozvoli&lt;/a></string>
     <string name="block_sender_menu_item">Blokiraj \"%s\"</string>
     <string name="blocked_sender_spam">Zašto je ova poruka u Neželjenoj pošti? Blokirali ste dolazne poruke s adrese &lt;b>%1$s&lt;/b>.</string>
     <string name="body_hint">Nova e-poruka</string>
@@ -417,7 +415,6 @@
     <string name="broadcast_internal_perm_label">interno emitovanje</string>
     <string name="bt_action_archive">Arhiviraj</string>
     <string name="bt_action_delete">Izbriši</string>
-    <string name="bt_action_direct_reply">Napišite odgovor</string>
     <string name="bt_action_remove_label">Obriši oznaku</string>
     <string name="bt_action_reply">Odgovori</string>
     <string name="bt_action_reply_all">Odgovori svima</string>
@@ -636,6 +633,8 @@
     <string name="email_account_transfer_notification_channel_description">Prikazuje obavještenje kada se računi e-pošte koji nisu Google prenose na drugi uređaj.</string>
     <string name="email_account_transfer_notification_channel_name">Prijenos računa e-pošte s uređaja na uređaj</string>
     <string name="email_account_transfer_notification_title">Prenošenje računa e-pošte koji nisu Google na drugi uređaj.</string>
+    <string name="email_confirmation_state_unknown_description">Vaša poruka je možda poslana.</string>
+    <string name="email_confirmation_state_unknown_title">Ups, došlo je do problema prilikom povezivanja!</string>
     <string name="email_provider_label">Pošta</string>
     <string name="eml_loader_error_toast">Nije moguće otvoriti ovaj fajl.</string>
     <string name="eml_viewer_subtitle">Pregledavač EML poruka</string>
@@ -771,7 +770,6 @@
     <string name="gm_i18n_snooze_option_later_today">Kasnije danas</string>
     <string name="gm_i18n_snooze_option_next_week">Sljedeće sedmice</string>
     <string name="gm_i18n_snooze_option_next_weekend">Sljedeći vikend</string>
-    <string name="gm_i18n_snooze_option_someday">Jednog dana</string>
     <string name="gm_i18n_snooze_option_this_week">Ove sedmice</string>
     <string name="gm_i18n_snooze_option_this_weekend">Ovog vikenda</string>
     <string name="gm_i18n_snooze_option_tomorrow">Sutra</string>
@@ -948,7 +946,7 @@
     <string name="manual_sync">Sinhroniziraj sad</string>
     <string name="mark_important">Označi kao važno</string>
     <string name="mark_not_important">Označi kao nevažno</string>
-    <string name="mark_not_spam">Prijavi da nije neželj. pošta</string>
+    <string name="mark_not_spam">Prijavi da nije neželjena poruka</string>
     <string name="mark_read">Označi kao pročitano</string>
     <string name="mark_unread">Označi kao nepročitano</string>
     <string name="mark_unread_from_here">Označi nepročitano odavde</string>
@@ -991,6 +989,7 @@
     <string name="message_priority">Prioritet poruke</string>
     <string name="message_queued">Na čekanju u redu</string>
     <string name="message_saved">Poruka je sačuvana kao nedovršena verzija.</string>
+    <string name="message_sent">Poslano</string>
     <string name="message_too_large">Poruka je prevelika da bi se otvorila na ovom uređaju</string>
     <string name="message_uploading_attachments">Otpremanje</string>
     <string name="message_view_forwarded_attachment_background_load">Jedan ili više priloga u proslijeđenoj poruci će biti preuzeti prije slanja.</string>
@@ -1042,6 +1041,8 @@
     <string name="notifications_category">Obavještenja</string>
     <string name="notify_attachment_save_error">Nije moguće sačuvati prilog</string>
     <string name="notify_attachment_send_error">Nije moguće poslati prilog</string>
+    <string name="nudge_dismiss_button_text">ODBACI</string>
+    <string name="nudge_dismiss_success_message">Zanemarena e-poruka je odbačena.</string>
     <string name="oauth_authentication_title">Traži se odobrenje...</string>
     <string name="oauth_error_description">Nije moguće provjeriti vjerodostojnost</string>
     <string name="oauth_server_error">Server je nedostupan, pokušajte ponovo kasnije.</string>
@@ -1488,7 +1489,7 @@ Dodirnite da je uključite."</string>
     <string name="to_message_header">za %1$s</string>
     <string name="toggle_read_unread">Prikaži/sakrij pročitano/nepročitano</string>
     <string name="too_large_to_attach_multiple">Jedan ili više fajlova nije priloženo. Ograničenje od %1$s.</string>
-    <string name="too_large_to_attach_single">Nije moguće priložiti fajl veći od %1$s.</string>
+    <string name="too_large_to_attach_single">Fajlovi koje pokušavate poslati premašuju ograničenje ukupne veličine priloga od %1$s.</string>
     <string name="trash_folder_selection_title">Odaberi folder za otpad za %s</string>
     <string name="trashed_message_indicator">Poruka je izbrisana</string>
     <string name="turn_auto_sync_on_dialog_body">Promjene koje načinite u svim aplikacijama i računima, a ne samo u Gmailu, će biti sinhronizirane na webu, drugim uređajima i vašem %1$s.</string>

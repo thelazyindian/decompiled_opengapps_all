@@ -417,9 +417,7 @@
     <string name="bcc">Сх. копія</string>
     <string name="bcc_header_for_recipient_summary">"сх. копія: "</string>
     <string name="bcc_heading">Сх. копія:</string>
-    <string name="bd12n_account_settings_permission_summary">Gmail патрабуе дазволу, каб апавяшчаць вас аб новых уваходных лістах. Гэты параметр можна змяніць у &lt;a href=%1$s>наладах прылады&lt;/a>.</string>
     <string name="bd12n_conversation_push_tip_text">Націсніце, калі хочаце атрымліваць апавяшчэнні аб новых уваходных лістах.</string>
-    <string name="bd12n_conversation_tip_text">Дазвольце Gmail працаваць у фонавым рэжыме, калі хочаце атрымліваць апавяшчэнні аб новых уваходных лістах. &lt;a href=%1$s>Дазволіць&lt;/a></string>
     <string name="block_sender_menu_item">Блакіраваць \"%s\"</string>
     <string name="blocked_sender_spam">Чаму гэта паведамленне знаходзіцца ў папцы \"Спам\"? Вы блакіравалі ўваходныя паведамленні з адраса &lt;b>%1$s&lt;/b>.</string>
     <string name="body_hint">Стварыць ліст</string>
@@ -429,7 +427,6 @@
     <string name="broadcast_internal_perm_label">унутраная трансляцыя</string>
     <string name="bt_action_archive">Дадаць у архіў</string>
     <string name="bt_action_delete">Выдаліць</string>
-    <string name="bt_action_direct_reply">Стварыць адказ</string>
     <string name="bt_action_remove_label">Выдаліць метку</string>
     <string name="bt_action_reply">Адказаць</string>
     <string name="bt_action_reply_all">Адказаць усім</string>
@@ -651,6 +648,8 @@
     <string name="email_account_transfer_notification_channel_description">Паказвае апавяшчэнне, калі вашы ўліковыя запісы не Google пераводзяцца на іншую прыладу.</string>
     <string name="email_account_transfer_notification_channel_name">Перав. ўл. зап. эл. пошты на новую прыл.</string>
     <string name="email_account_transfer_notification_title">Перавод уліковых запісаў не Google на іншую прыладу.</string>
+    <string name="email_confirmation_state_unknown_description">Ваша паведамленне, магчыма, было адпраўлена.</string>
+    <string name="email_confirmation_state_unknown_title">Узніклі праблемы з падключэннем!</string>
     <string name="email_provider_label">Пошта</string>
     <string name="eml_loader_error_toast">Немагчыма адкрыць гэты файл</string>
     <string name="eml_viewer_subtitle">Сродак прагляду паведамленняў EML</string>
@@ -786,7 +785,6 @@
     <string name="gm_i18n_snooze_option_later_today">Пазней сёння</string>
     <string name="gm_i18n_snooze_option_next_week">На наступным тыдні</string>
     <string name="gm_i18n_snooze_option_next_weekend">На наст. выхадных</string>
-    <string name="gm_i18n_snooze_option_someday">Калісьці</string>
     <string name="gm_i18n_snooze_option_this_week">На гэтым тыдні</string>
     <string name="gm_i18n_snooze_option_this_weekend">У гэтыя выхадныя</string>
     <string name="gm_i18n_snooze_option_tomorrow">Заўтра</string>
@@ -1008,6 +1006,7 @@
     <string name="message_priority">Прыярытэт паведамлення</string>
     <string name="message_queued">У чарзе</string>
     <string name="message_saved">Паведамленне захавана як чарнавік.</string>
+    <string name="message_sent">Адпраўлена</string>
     <string name="message_too_large">Паведамленне занадта вялікае, каб адкрыць яго на гэтай прыладзе</string>
     <string name="message_uploading_attachments">Запампоўванне</string>
     <string name="message_view_forwarded_attachment_background_load">Адно або некалькі далучэнняў у пераадрасаваным паведамленні будуць спампаваны перад адпраўкай.</string>
@@ -1059,6 +1058,8 @@
     <string name="notifications_category">Апавяшчэнні</string>
     <string name="notify_attachment_save_error">Не ўдалося захаваць далучэнне.</string>
     <string name="notify_attachment_send_error">Не ўдалося адправiць далучэнне</string>
+    <string name="nudge_dismiss_button_text">АДХІЛІЦЬ</string>
+    <string name="nudge_dismiss_success_message">Перамяшчэнне адхілена.</string>
     <string name="oauth_authentication_title">Запыт аўтарызацыі...</string>
     <string name="oauth_error_description">Немагчыма праверыць сапраўднасць</string>
     <string name="oauth_server_error">Сервер недаступны, паўтарыце спробу пазней</string>
@@ -1506,7 +1507,7 @@
     <string name="to_message_header">каму: %1$s</string>
     <string name="toggle_read_unread">Пераключэнне прачытаных/непрачытаных</string>
     <string name="too_large_to_attach_multiple">Не далучаны адзін або некалькі файлаў. Абмежаванне: %1$s.</string>
-    <string name="too_large_to_attach_single">Немагчыма далучыць файл памерам, большым за: %1$s.</string>
+    <string name="too_large_to_attach_single">Памер файлаў, якія вы адпраўляеце, перавышае абмежаванне па далучэннях: %1$s.</string>
     <string name="trash_folder_selection_title">Выб.на серв.папку-сметніцу да %s</string>
     <string name="trashed_message_indicator">Паведамленне было выдалена</string>
     <string name="turn_auto_sync_on_dialog_body">Змены, якія вы робіце ва ўсіх праграмах і ўліковых запісах, а не толькі ў Gmail, будуць сінхранізаваны паміж інтэрнэтам, вашымі іншымі прыладамі, уключаючы %1$s.</string>

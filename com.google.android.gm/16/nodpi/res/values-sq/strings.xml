@@ -403,9 +403,7 @@
     <string name="auto_send_perm_desc">Lejon aplikacionin të dërgojë mesazhe nga posta jote Gmail pa e hapur aplikacionin Gmail.</string>
     <string name="auto_send_perm_label">Dërgo postën Gmail</string>
     <string name="auto_sync_off">Sinkronizimi është joaktiv. Trokit për ta aktivizuar.</string>
-    <string name="bd12n_account_settings_permission_summary">"Gmail ka nevojë për leje për t'i dërguar njoftimet e tua kur mbërrijnë. Këtë mund ta ndryshosh te &lt;a href=%1$s>cilësimet e pajisjes&lt;/a>."</string>
     <string name="bd12n_conversation_push_tip_text">"Trokit për t'u njoftuar për email-et e reja kur mbërrijnë."</string>
-    <string name="bd12n_conversation_tip_text">Lejo që Gmail të ekzekutohet në sfond nëse dëshiron që të njoftohesh për email-et e reja kur mbërrijnë. &lt;a href=%1$s>Lejo&lt;/a></string>
     <string name="block_sender_menu_item">Blloko \"%s\"</string>
     <string name="blocked_sender_spam">Pse është ky mesazh në \"Postën e bezdisshme\"? Sepse i ke bllokuar mesazhet hyrëse nga &lt;b>%1$s&lt;/b>.</string>
     <string name="body_hint">Harto mail</string>
@@ -415,7 +413,6 @@
     <string name="broadcast_internal_perm_label">transmetim i brendshëm</string>
     <string name="bt_action_archive">Arkivo</string>
     <string name="bt_action_delete">Fshi</string>
-    <string name="bt_action_direct_reply">Harto përgjigjen</string>
     <string name="bt_action_remove_label">Hiq etiketën</string>
     <string name="bt_action_reply">Përgjigju</string>
     <string name="bt_action_reply_all">Përgjigju të gjithëve</string>
@@ -630,6 +627,8 @@
     <string name="email_account_transfer_notification_channel_description">Shfaq një njoftim kur llogaritë e tua të email-it jo të Google transferohen te një pajisje tjetër.</string>
     <string name="email_account_transfer_notification_channel_name">Transferimi i llogarisë mes pajisjeve</string>
     <string name="email_account_transfer_notification_title">Llogaritë e email-it jo të Google po transferohen te një pajisje tjetër.</string>
+    <string name="email_confirmation_state_unknown_description">Mesazhi yt mund të jetë dërguar.</string>
+    <string name="email_confirmation_state_unknown_title">Kishim probleme me lidhjen!</string>
     <string name="email_provider_label">Mail-i</string>
     <string name="eml_loader_error_toast">Skedari nuk mund të hapet</string>
     <string name="eml_viewer_subtitle">Shikuesi i mesazheve EML</string>
@@ -764,7 +763,6 @@
     <string name="gm_i18n_snooze_option_later_today">Sot më vonë</string>
     <string name="gm_i18n_snooze_option_next_week">Javën tjetër</string>
     <string name="gm_i18n_snooze_option_next_weekend">Fundjavën tjetër</string>
-    <string name="gm_i18n_snooze_option_someday">Në të ardhmen</string>
     <string name="gm_i18n_snooze_option_this_week">Këtë javë</string>
     <string name="gm_i18n_snooze_option_this_weekend">Këtë fundjavë</string>
     <string name="gm_i18n_snooze_option_tomorrow">Nesër</string>
@@ -983,6 +981,7 @@
     <string name="message_priority">Përparësia e mesazheve</string>
     <string name="message_queued">Në radhë</string>
     <string name="message_saved">Mesazhi u ruajt si draft.</string>
+    <string name="message_sent">U dërgua</string>
     <string name="message_too_large">Mesazhi është shumë i madhe për tu hapur në këtë pajisje</string>
     <string name="message_uploading_attachments">Po ngarkohet</string>
     <string name="message_view_forwarded_attachment_background_load">Një ose më shumë bashkëngjitje në mesazhin e transferuar do të shkarkohen para dërgimit.</string>
@@ -1034,6 +1033,8 @@
     <string name="notifications_category">Njoftimet</string>
     <string name="notify_attachment_save_error">Nuk mundi të ruante bashkëngjitjen.</string>
     <string name="notify_attachment_send_error">Nuk mund të dërgohet bashkëngjitje</string>
+    <string name="nudge_dismiss_button_text">HIQ</string>
+    <string name="nudge_dismiss_success_message">Shtytja u hoq.</string>
     <string name="oauth_authentication_title">Po kërkon autorizim...</string>
     <string name="oauth_error_description">Nuk mund të vërtetojë</string>
     <string name="oauth_server_error">Videoja nuk mundësohet. Provo sërish më vonë.</string>
@@ -1519,7 +1520,7 @@ Të aktivizohen njoftimet e llogarisë?"</string>
     <string name="to_message_header">për %1$s</string>
     <string name="toggle_read_unread">Ndërro \"i lexuar\" - \"i palexuar\"</string>
     <string name="too_large_to_attach_multiple">Një ose disa fotografi nuk janë bashkëngjitur. Kufiri maksimal është %1$s.</string>
-    <string name="too_large_to_attach_single">Nuk mund të bashkëngjitet skedar më i madh se %1$s.</string>
+    <string name="too_large_to_attach_single">Skedarët që po përpiqesh të dërgosh e kalojnë kufirin total të bashkëngjitjeve prej %1$s.</string>
     <string name="trash_folder_selection_title">Përzgjidh dosjen e postës së pavlerë të serverit për %s</string>
     <string name="trashed_message_indicator">Ky mesazh është fshirë</string>
     <string name="turn_auto_sync_on_dialog_body">Ndryshimet që bën për të gjitha aplikacionet dhe llogaritë, jo vetëm Gmail, do të sinkronizohen ndërmjet uebit, pajisjes tënde \"%1$s\" dhe të tjera.</string>

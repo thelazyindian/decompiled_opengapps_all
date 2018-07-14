@@ -136,7 +136,7 @@
         <item>Excluir</item>
         <item>Marcar como lida/não lida</item>
         <item>Mover para</item>
-        <item>Adiar</item>
+        <item>Suspender</item>
         <item>Nenhum</item>
     </string-array>
     <string-array name="sync_status">

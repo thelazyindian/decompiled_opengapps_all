@@ -414,9 +414,7 @@
     <string name="bcc">Titk. más.</string>
     <string name="bcc_header_for_recipient_summary">"Titkos m.: "</string>
     <string name="bcc_heading">Titkos m.:</string>
-    <string name="bd12n_account_settings_permission_summary">A Gmailnek engedélyre van szüksége ahhoz, hogy kézbesítse az értesítéseket, amikor megérkeznek. Ezt az &lt;a href=%1$s>eszköz beállításaiban&lt;/a> adhatja meg.</string>
     <string name="bd12n_conversation_push_tip_text">Koppintson ide, ha értesülni szeretne az új e-mailek érkezéséről.</string>
-    <string name="bd12n_conversation_tip_text">Ha értesülni szeretne az új e-mailek érkezéséről, hagyja futni a Gmailt a háttérben. &lt;a href=%1$s>Engedélyezés&lt;/a></string>
     <string name="block_sender_menu_item">„%s” letiltása</string>
     <string name="blocked_sender_spam">Miért van ez az üzenet a Spam mappában? Ön letiltotta a(z) &lt;b>%1$s&lt;/b> címről érkező üzeneteket.</string>
     <string name="body_hint">Levélírás</string>
@@ -426,7 +424,6 @@
     <string name="broadcast_internal_perm_label">belső közvetítés</string>
     <string name="bt_action_archive">Archiválás</string>
     <string name="bt_action_delete">Törlés</string>
-    <string name="bt_action_direct_reply">Válasz írása</string>
     <string name="bt_action_remove_label">Címke eltávolítása</string>
     <string name="bt_action_reply">Válasz</string>
     <string name="bt_action_reply_all">Válasz mindenkinek</string>
@@ -649,6 +646,8 @@
     <string name="email_account_transfer_notification_channel_description">Értesítés megjelenítése, amikor nem Google e-mail-fiókokat visz át egy másik eszközre.</string>
     <string name="email_account_transfer_notification_channel_name">E-mail-fiók átvitele eszközök között</string>
     <string name="email_account_transfer_notification_title">Nem Google e-mail-fiókokat visz át egy másik eszközre.</string>
+    <string name="email_confirmation_state_unknown_description">Lehetséges, hogy az üzenetet elküldtük.</string>
+    <string name="email_confirmation_state_unknown_title">Hoppá! Hiba történt a csatlakozás közben.</string>
     <string name="email_provider_label">E-mail</string>
     <string name="eml_loader_error_toast">Nem lehet megnyitni ezt a fájlt</string>
     <string name="eml_viewer_subtitle">EML-üzenetmegjelenítő</string>
@@ -785,7 +784,6 @@
     <string name="gm_i18n_snooze_option_later_today">A mai nap folyamán</string>
     <string name="gm_i18n_snooze_option_next_week">Következő héten</string>
     <string name="gm_i18n_snooze_option_next_weekend">Következő hétvégén</string>
-    <string name="gm_i18n_snooze_option_someday">Egyszer a jövőben</string>
     <string name="gm_i18n_snooze_option_this_week">Ezen a héten</string>
     <string name="gm_i18n_snooze_option_this_weekend">Ezen a hétvégén</string>
     <string name="gm_i18n_snooze_option_tomorrow">Holnap</string>
@@ -1005,6 +1003,7 @@
     <string name="message_priority">Üzenetprioritás</string>
     <string name="message_queued">Várólistára helyezve</string>
     <string name="message_saved">Az üzenet mentve piszkozatként.</string>
+    <string name="message_sent">Elküldve</string>
     <string name="message_too_large">Az üzenet túl nagy az ezen az eszközön való megnyitáshoz</string>
     <string name="message_uploading_attachments">Feltöltés</string>
     <string name="message_view_forwarded_attachment_background_load">Küldés előtt a továbbított üzenet egy vagy több melléklete letöltődik.</string>
@@ -1056,6 +1055,8 @@
     <string name="notifications_category">Értesítések</string>
     <string name="notify_attachment_save_error">Nem sikerült menteni a mellékletet</string>
     <string name="notify_attachment_send_error">Nem sikerült elküldeni a mellékletet</string>
+    <string name="nudge_dismiss_button_text">BEZÁRÁS</string>
+    <string name="nudge_dismiss_success_message">Megbökés bezárva.</string>
     <string name="oauth_authentication_title">Engedélyezés kérése…</string>
     <string name="oauth_error_description">Nem lehet hitelesíteni</string>
     <string name="oauth_server_error">A szerver nem érhető el. Próbálkozzon újra később.</string>
@@ -1547,7 +1548,7 @@ Koppintson a bekapcsoláshoz."</string>
     <string name="to_message_header">%1$s részére</string>
     <string name="toggle_read_unread">Olvasott/olvasatlan közötti váltás</string>
     <string name="too_large_to_attach_multiple">Egy vagy több fájl nem lett csatolva. A korlát %1$s.</string>
-    <string name="too_large_to_attach_single">Nem lehet nagyobb fájlt csatolni, mint %1$s.</string>
+    <string name="too_large_to_attach_single">Az elküldeni kívánt fájlok túllépik a mellékletek összméretére vonatkozó %1$s MB-os korlátot.</string>
     <string name="trash_folder_selection_title">Szerver Kuka mappájának kiválasztása – %s</string>
     <string name="trashed_message_indicator">Ezt az üzenetet törölték</string>
     <string name="turn_auto_sync_on_dialog_body">Az összes alkalmazásban és fiókban (nem csak a Gmailben) végrehajtott módosítások szinkronizálva lesznek az internet, az egyéb eszközök és a %1$s között.</string>

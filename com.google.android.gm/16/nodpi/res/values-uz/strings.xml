@@ -408,9 +408,7 @@
     <string name="bcc">Yashirin</string>
     <string name="bcc_header_for_recipient_summary">"yashirin: "</string>
     <string name="bcc_heading">Yashirin:</string>
-    <string name="bd12n_account_settings_permission_summary">Gmail pochtasiga tushgan yangi xatlar haqida bildirishnomalarni ko‘rsatishga ruxsat bering. Bu parametrni &lt;a href=%1$s>qurilma sozlamalari&lt;/a> orqali o‘zgartirish mumkin.</string>
     <string name="bd12n_conversation_push_tip_text">Yangi xatlar haqida bildirishnoma olish uchun bosing.</string>
-    <string name="bd12n_conversation_tip_text">Kelgan yangi xatlar haqida bildirishnomalar ko‘rsatilishi uchun Gmail ilovasiga orqa fonda faol qolishiga ruxsat bering. &lt;a href=%1$s>Ruxsat berish&lt;/a></string>
     <string name="block_sender_menu_item">Bloklash: %s</string>
     <string name="blocked_sender_spam">Nima uchun bu xat Spam jildiga tushdi? Siz oldinroq &lt;b>%1$s&lt;/b> manzilidan keladigan xatlarni bloklagan edingiz.</string>
     <string name="body_hint">Yozish</string>
@@ -420,7 +418,6 @@
     <string name="broadcast_internal_perm_label">ichki uzatish</string>
     <string name="bt_action_archive">Arxivlash</string>
     <string name="bt_action_delete">O‘chirish</string>
-    <string name="bt_action_direct_reply">Javob yozish</string>
     <string name="bt_action_remove_label">Yorliqni olib tashlash</string>
     <string name="bt_action_reply">Javob berish</string>
     <string name="bt_action_reply_all">Hammaga javob berish</string>
@@ -640,6 +637,8 @@
     <string name="email_account_transfer_notification_channel_description">Google bilan bog‘liq bo‘lmagan begona e-pochta hisoblari boshqa qurilmaga ko‘chirilayotganda, shu haqda bildirishnoma ko‘rsatiladi.</string>
     <string name="email_account_transfer_notification_channel_name">E-pochtani boshqa qurilmaga ko‘chirish</string>
     <string name="email_account_transfer_notification_title">Google bilan bog‘liq bo‘lmagan begona e-pochta hisoblari boshqa qurilmaga ko‘chirilmoqda.</string>
+    <string name="email_confirmation_state_unknown_description">Xabaringiz yuborilgan bo‘lishi mumkin.</string>
+    <string name="email_confirmation_state_unknown_title">Ulanib bo‘lmadi</string>
     <string name="email_provider_label">Pochta</string>
     <string name="eml_loader_error_toast">Ushbu faylni ochib bo‘lmadi</string>
     <string name="eml_viewer_subtitle">EML-xabarlarni ko‘rish oynasi</string>
@@ -776,7 +775,6 @@
     <string name="gm_i18n_snooze_option_later_today">bugun kechroqqa</string>
     <string name="gm_i18n_snooze_option_next_week">keyingi haftagacha</string>
     <string name="gm_i18n_snooze_option_next_weekend">keyingi dam olish kunlariga</string>
-    <string name="gm_i18n_snooze_option_someday">biror kunga</string>
     <string name="gm_i18n_snooze_option_this_week">shu haftaga</string>
     <string name="gm_i18n_snooze_option_this_weekend">shu dam olish kunlarigacha</string>
     <string name="gm_i18n_snooze_option_tomorrow">ertagacha</string>
@@ -994,6 +992,7 @@
     <string name="message_priority">Xabar muhimligi</string>
     <string name="message_queued">Navbatda</string>
     <string name="message_saved">Xat qoralama sifatida saqlandi.</string>
+    <string name="message_sent">Yuborildi</string>
     <string name="message_too_large">Xat juda katta. Uni bu qurilmada ochib bo‘lmaydi.</string>
     <string name="message_uploading_attachments">Yuklanmoqda…</string>
     <string name="message_view_forwarded_attachment_background_load">Qayta yo‘naltirayotgan xabaringizdagi bir yoki undan ortiq biriktirma yuborishdan avval yuklab olinadi.</string>
@@ -1045,6 +1044,8 @@
     <string name="notifications_category">Bildirishnomalar</string>
     <string name="notify_attachment_save_error">Biriktirilgan faylni saqlab bo‘lmadi</string>
     <string name="notify_attachment_send_error">Biriktirilgan faylni yuborib bo‘lmadi</string>
+    <string name="nudge_dismiss_button_text">YOPISH</string>
+    <string name="nudge_dismiss_success_message">Eslatma yopildi.</string>
     <string name="oauth_authentication_title">Kirishga ruxsat so‘ralmoqda…</string>
     <string name="oauth_error_description">Haqiqiylikni tekshirib bo‘lmadi</string>
     <string name="oauth_server_error">Server ish faoliyatida emas. Keyinroq qayta urinib ko‘ring.</string>
@@ -1533,7 +1534,7 @@ Uni faollashtirish uchun bosing."</string>
     <string name="to_message_header">kimga: %1$s</string>
     <string name="toggle_read_unread">O‘qilgan/o‘qilmaganlarni ko‘rsatish/berkitish</string>
     <string name="too_large_to_attach_multiple">Bir yoki undan ortiq fayl biriktirilmadi: cheklovdan oshib ketdi (%1$s).</string>
-    <string name="too_large_to_attach_single">Fayl hajmi %1$sdan oshib ketmasligi lozim.</string>
+    <string name="too_large_to_attach_single">Biriktirmalar soni %1$s tadan oshmasligi lozim.</string>
     <string name="trash_folder_selection_title">%s: serverdagi jildni tanlang</string>
     <string name="trashed_message_indicator">Ushbu xabar o‘chirib tashlandi</string>
     <string name="turn_auto_sync_on_dialog_body">Barcha ilova va hisoblarga (nafaqat Gmail) kiritgan o‘zgartirishlaringiz Internet, boshqa qurilmalaringiz va %1$s o‘rtasida sinxronlanadi.</string>

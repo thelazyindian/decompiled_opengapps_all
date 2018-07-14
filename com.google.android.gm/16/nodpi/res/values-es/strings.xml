@@ -43,7 +43,7 @@
     <string name="account_management_set_up_new_account_title">Nueva cuenta del trabajo</string>
     <string name="account_notification_level_all">Todos</string>
     <string name="account_notification_level_high_priority">Solo de prioridad alta</string>
-    <string name="account_notification_level_none">Ninguno</string>
+    <string name="account_notification_level_none">Ninguna</string>
     <string name="account_security_dialog_content_fmt">Para poder utilizar tu cuenta &lt;%s>, tienes que actualizar la configuración de seguridad de tu dispositivo. Si necesitas más información, consulta a tu administrador.</string>
     <string name="account_security_dialog_ok">Actualiza ahora</string>
     <string name="account_security_policy_explanation_fmt">Tienes que permitir al servidor %s que controle de forma remota algunas funciones de seguridad de tu dispositivo Android.</string>
@@ -413,9 +413,7 @@
     <string name="bcc">CCO</string>
     <string name="bcc_header_for_recipient_summary">"Cco: "</string>
     <string name="bcc_heading">Cco:</string>
-    <string name="bd12n_account_settings_permission_summary">Gmail necesita tu permiso para entregar las notificaciones cuando lleguen. Puedes concedérselo en los &lt;a href=%1$s>ajustes del dispositivo&lt;/a>.</string>
     <string name="bd12n_conversation_push_tip_text">Toca para recibir notificaciones sobre los nuevos correos a medida que lleguen.</string>
-    <string name="bd12n_conversation_tip_text">Deja que Gmail se ejecute en segundo plano si quieres recibir notificaciones sobre los nuevos correos a medida que lleguen. &lt;a href=%1$s>Permitir&lt;/a></string>
     <string name="block_sender_menu_item">Bloquear a %s</string>
     <string name="blocked_sender_spam">¿Por qué está en Spam este mensaje? Porque has bloqueado los mensajes enviados por &lt;b>%1$s&lt;/b>.</string>
     <string name="body_hint">Escribe un correo</string>
@@ -425,7 +423,6 @@
     <string name="broadcast_internal_perm_label">difusión interna</string>
     <string name="bt_action_archive">Archivar</string>
     <string name="bt_action_delete">Eliminar</string>
-    <string name="bt_action_direct_reply">Redacta tu respuesta</string>
     <string name="bt_action_remove_label">Quitar etiqueta</string>
     <string name="bt_action_reply">Responder</string>
     <string name="bt_action_reply_all">Responder a todos</string>
@@ -647,6 +644,8 @@
     <string name="email_account_transfer_notification_channel_description">Muestra una notificación cuando las cuentas de correo que no son de Google se transfieran a otro dispositivo</string>
     <string name="email_account_transfer_notification_channel_name">Transferencia de cuentas entre dispositivos</string>
     <string name="email_account_transfer_notification_title">Se están transfiriendo las cuentas de correo que no son de Google a otro dispositivo.</string>
+    <string name="email_confirmation_state_unknown_description">Es posible que tu mensaje se haya enviado.</string>
+    <string name="email_confirmation_state_unknown_title">¡Vaya! Hemos tenido problemas de conexión.</string>
     <string name="email_provider_label">Correo</string>
     <string name="eml_loader_error_toast">No se puede abrir este archivo</string>
     <string name="eml_viewer_subtitle">Visor de mensajes EML</string>
@@ -781,7 +780,6 @@
     <string name="gm_i18n_snooze_option_later_today">Hoy más tarde</string>
     <string name="gm_i18n_snooze_option_next_week">Próxima semana</string>
     <string name="gm_i18n_snooze_option_next_weekend">Próximo fin de semana</string>
-    <string name="gm_i18n_snooze_option_someday">Algún día</string>
     <string name="gm_i18n_snooze_option_this_week">Esta semana</string>
     <string name="gm_i18n_snooze_option_this_weekend">Este fin de semana</string>
     <string name="gm_i18n_snooze_option_tomorrow">Mañana</string>
@@ -997,6 +995,7 @@
     <string name="message_priority">Prioridad del mensaje</string>
     <string name="message_queued">En cola</string>
     <string name="message_saved">Mensaje guardado como borrador.</string>
+    <string name="message_sent">Enviado</string>
     <string name="message_too_large">El mensaje no se puede abrir en este dispositivo porque es demasiado grande</string>
     <string name="message_uploading_attachments">Subiendo</string>
     <string name="message_view_forwarded_attachment_background_load">Uno o varios de los archivos adjuntos del mensaje reenviado se descargarán antes de enviarse.</string>
@@ -1047,6 +1046,8 @@
     <string name="notifications_category">Notificaciones</string>
     <string name="notify_attachment_save_error">No se ha podido guardar el archivo adjunto</string>
     <string name="notify_attachment_send_error">No se ha podido enviar el archivo adjunto</string>
+    <string name="nudge_dismiss_button_text">IGNORAR</string>
+    <string name="nudge_dismiss_success_message">Recordatorio de correo ignorado.</string>
     <string name="oauth_authentication_title">Solicitando autorización…</string>
     <string name="oauth_error_description">No se ha podido autenticar</string>
     <string name="oauth_server_error">El servidor no está disponible; vuelve a intentarlo luego</string>
@@ -1415,9 +1416,9 @@ Toca para activarla."</string>
     <string name="snooze_menu_item_feature_highlight_title">Gestiona un mensaje más adelante</string>
     <string name="snooze_option_custom_time">Elegir fecha y hora</string>
     <string name="snooze_option_last_snooze">Última</string>
-    <string name="snooze_option_specific_day_afternoon">Tarde</string>
+    <string name="snooze_option_specific_day_afternoon">Primera hora de la tarde</string>
     <string name="snooze_option_specific_day_custom">Personalizada</string>
-    <string name="snooze_option_specific_day_evening">Media tarde</string>
+    <string name="snooze_option_specific_day_evening">Tarde</string>
     <string name="snooze_option_specific_day_morning">Mañana</string>
     <string name="snooze_option_specific_day_night">Noche</string>
     <string name="snooze_option_specific_day_no_specific_time">Silencio</string>
@@ -1447,7 +1448,7 @@ Toca para activarla."</string>
     <string name="swipe_action_pref_item_right_title">Deslizar (derecha)</string>
     <string name="swipe_left_actions_dialog_title">Usar deslizar a la izquierda para</string>
     <string name="swipe_right_actions_dialog_title">Usar deslizar a la derecha para</string>
-    <string name="sync_all">Todas</string>
+    <string name="sync_all">Todos</string>
     <string name="sync_error">No se ha podido sincronizar.</string>
     <string name="sync_error_message">No hay espacio suficiente en el dispositivo para sincronizar tu correo.</string>
     <string name="sync_folder_error">No se ha podido sincronizar esta carpeta. Inténtalo más tarde.</string>
@@ -1533,7 +1534,7 @@ Toca para activarla."</string>
     <string name="to_message_header">para %1$s</string>
     <string name="toggle_read_unread">Alternar entre leídos y no leídos</string>
     <string name="too_large_to_attach_multiple">Hay uno o varios archivos que no se han adjuntado (límite de %1$s).</string>
-    <string name="too_large_to_attach_single">No puedes adjuntar archivos de más de %1$s.</string>
+    <string name="too_large_to_attach_single">Los archivos que intentas enviar superan el límite total de archivo adjunto: %1$s.</string>
     <string name="trash_folder_selection_title">Elige papelera del servidor de %s</string>
     <string name="trashed_message_indicator">Este mensaje se ha eliminado</string>
     <string name="turn_auto_sync_on_dialog_body">Los cambios que realices en todas las aplicaciones y cuentas, no solo en Gmail, se sincronizarán en la Web, en tus otros dispositivos y en tu %1$s.</string>

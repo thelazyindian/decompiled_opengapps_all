@@ -408,9 +408,7 @@
     <string name="bcc">Ccn</string>
     <string name="bcc_header_for_recipient_summary">"Ccn: "</string>
     <string name="bcc_heading">Ccn:</string>
-    <string name="bd12n_account_settings_permission_summary">"Gmail richiede l'autorizzazione per consegnare le notifiche all'arrivo. Puoi cambiare questa impostazione nelle &lt;a href=%1$s>impostazioni del dispositivo&lt;/a>."</string>
     <string name="bd12n_conversation_push_tip_text">Tocca per ricevere notifiche quando arrivano nuove email.</string>
-    <string name="bd12n_conversation_tip_text">"Consenti l'esecuzione di Gmail in background per ricevere notifiche di nuove email all'arrivo. &lt;a href=%1$s>Consenti&lt;/a>"</string>
     <string name="block_sender_menu_item">Blocca \"%s\"</string>
     <string name="blocked_sender_spam">Perché questo messaggio si trova nella cartella Spam? Hai bloccato i messaggi che provengono da &lt;b>%1$s&lt;/b>.</string>
     <string name="body_hint">Scrivi email</string>
@@ -420,7 +418,6 @@
     <string name="broadcast_internal_perm_label">trasmissione interna</string>
     <string name="bt_action_archive">Archivia</string>
     <string name="bt_action_delete">Elimina</string>
-    <string name="bt_action_direct_reply">Scrivi risposta</string>
     <string name="bt_action_remove_label">Rimuovi etichetta</string>
     <string name="bt_action_reply">Rispondi</string>
     <string name="bt_action_reply_all">Rispondi a tutti</string>
@@ -639,6 +636,8 @@
     <string name="email_account_transfer_notification_channel_description">Mostra una notifica quando i tuoi account email non Google sono in corso di trasferimento a un altro dispositivo.</string>
     <string name="email_account_transfer_notification_channel_name">Trasferim. account email tra dispositivi</string>
     <string name="email_account_transfer_notification_title">Trasferimento di account email non Google a un altro dispositivo.</string>
+    <string name="email_confirmation_state_unknown_description">Il messaggio potrebbe essere stato inviato.</string>
+    <string name="email_confirmation_state_unknown_title">Si è verificato un problema di connessione.</string>
     <string name="email_provider_label">Posta</string>
     <string name="eml_loader_error_toast">Impossibile aprire questo file</string>
     <string name="eml_viewer_subtitle">Visualizzatore di messaggi EML</string>
@@ -772,7 +771,6 @@
     <string name="gm_i18n_snooze_option_later_today">Più tardi oggi</string>
     <string name="gm_i18n_snooze_option_next_week">Settimana prossima</string>
     <string name="gm_i18n_snooze_option_next_weekend">Prossimo weekend</string>
-    <string name="gm_i18n_snooze_option_someday">Data indefinita</string>
     <string name="gm_i18n_snooze_option_this_week">Questa settimana</string>
     <string name="gm_i18n_snooze_option_this_weekend">Questo weekend</string>
     <string name="gm_i18n_snooze_option_tomorrow">Domani</string>
@@ -990,6 +988,7 @@
     <string name="message_priority">Priorità dei messaggi</string>
     <string name="message_queued">In coda</string>
     <string name="message_saved">Messaggio salvato come bozza.</string>
+    <string name="message_sent">Messaggio inviato</string>
     <string name="message_too_large">Il messaggio è troppo grande per essere aperto su questo dispositivo</string>
     <string name="message_uploading_attachments">Caricamento…</string>
     <string name="message_view_forwarded_attachment_background_load">"Prima dell'invio verranno scaricati uno o più allegati del messaggio inoltrato."</string>
@@ -1040,6 +1039,8 @@
     <string name="notifications_category">Notifiche</string>
     <string name="notify_attachment_save_error">"Impossibile salvare l'allegato"</string>
     <string name="notify_attachment_send_error">"Impossibile inviare l'allegato"</string>
+    <string name="nudge_dismiss_button_text">IGNORA</string>
+    <string name="nudge_dismiss_success_message">Sollecito ignorato.</string>
     <string name="oauth_authentication_title">Richiesta di autorizzazione…</string>
     <string name="oauth_error_description">"Impossibile eseguire l'autenticazione"</string>
     <string name="oauth_server_error">Server non disponibile. Riprova più tardi.</string>
@@ -1527,7 +1528,7 @@ Tocca per attivarla."</string>
     <string name="to_message_header">a %1$s</string>
     <string name="toggle_read_unread">Attiva/disattiva letti/da leggere</string>
     <string name="too_large_to_attach_multiple">Uno o più file non allegati. Limite: %1$s.</string>
-    <string name="too_large_to_attach_single">Impossibile allegare un file di dimensioni superiori a %1$s.</string>
+    <string name="too_large_to_attach_single">I file che stai cercando di inviare superano il limite massimo delle dimensioni degli allegati (%1$s).</string>
     <string name="trash_folder_selection_title">Seleziona Cestino server (%s)</string>
     <string name="trashed_message_indicator">Questo messaggio è stato eliminato</string>
     <string name="turn_auto_sync_on_dialog_body">Le modifiche apportate a tutti gli account (non solo Gmail) e le app verranno sincronizzate tra il Web, gli altri tuoi dispositivi e il tuo %1$s.</string>

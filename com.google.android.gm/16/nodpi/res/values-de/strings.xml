@@ -410,9 +410,7 @@
     <string name="auto_send_perm_label">Gmail-Nachrichten senden</string>
     <string name="auto_sync_off">Die automatische Synchronisierung ist deaktiviert. Zum Aktivieren hier tippen.</string>
     <string name="bcc_header_for_recipient_summary">"Bcc: "</string>
-    <string name="bd12n_account_settings_permission_summary">Gmail benötigt die Berechtigung, Ihre Benachrichtigungen zuzustellen, sobald sie eintreffen. Sie können dies in den &lt;a href=%1$s>Geräteeinstellungen&lt;/a> ändern.</string>
     <string name="bd12n_conversation_push_tip_text">Tippen Sie, wenn Sie über neu eingegangene E-Mails benachrichtigt werden möchten.</string>
-    <string name="bd12n_conversation_tip_text">Wenn Sie über neu eingegangene E-Mails benachrichtigt werden möchten, erlauben Sie, dass Gmail im Hintergrund ausgeführt wird. &lt;a href=%1$s>Erlauben&lt;/a></string>
     <string name="block_sender_menu_item">%s blockieren</string>
     <string name="blocked_sender_spam">Warum ist diese Nachricht im Spamordner? Sie haben eingehende Nachrichten von &lt;b>%1$s&lt;/b> blockiert.</string>
     <string name="body_hint">E-Mail schreiben</string>
@@ -422,7 +420,6 @@
     <string name="broadcast_internal_perm_label">interne Übertragung</string>
     <string name="bt_action_archive">Archivieren</string>
     <string name="bt_action_delete">Löschen</string>
-    <string name="bt_action_direct_reply">Antwort schreiben</string>
     <string name="bt_action_remove_label">Label entfernen</string>
     <string name="bt_action_reply">Antworten</string>
     <string name="bt_action_reply_all">Allen antworten</string>
@@ -645,6 +642,8 @@
     <string name="email_account_transfer_notification_channel_description">Wenn Konten von anderen E-Mail-Anbietern auf ein neues Gerät übertragen werden, wird eine Benachrichtigung angezeigt.</string>
     <string name="email_account_transfer_notification_channel_name">E-Mail-Kontenübertragung zw. Geräten</string>
     <string name="email_account_transfer_notification_title">Konten von anderen E-Mail-Anbietern werden auf ein neues Gerät übertragen.</string>
+    <string name="email_confirmation_state_unknown_description">Ihre Nachricht wurde möglicherweise gesendet.</string>
+    <string name="email_confirmation_state_unknown_title">Die Verbindung konnte nicht hergestellt werden.</string>
     <string name="email_provider_label">E-Mail-Anbieter</string>
     <string name="eml_loader_error_toast">Diese Datei kann nicht geöffnet werden.</string>
     <string name="eml_viewer_subtitle">EML-Datei-Viewer</string>
@@ -781,7 +780,6 @@
     <string name="gm_i18n_snooze_option_later_today">Nachher</string>
     <string name="gm_i18n_snooze_option_next_week">Nächste Woche</string>
     <string name="gm_i18n_snooze_option_next_weekend">Nächstes Wochenende</string>
-    <string name="gm_i18n_snooze_option_someday">Irgendwann</string>
     <string name="gm_i18n_snooze_option_this_week">Diese Woche</string>
     <string name="gm_i18n_snooze_option_this_weekend">Dieses Wochenende</string>
     <string name="gm_i18n_snooze_option_tomorrow">Morgen</string>
@@ -1001,6 +999,7 @@
     <string name="message_priority">Nachrichtenpriorität</string>
     <string name="message_queued">In der Warteschlange</string>
     <string name="message_saved">Nachricht wurde als Entwurf gespeichert.</string>
+    <string name="message_sent">Gesendet</string>
     <string name="message_too_large">Die Nachricht ist zu groß und kann daher auf diesem Gerät nicht geöffnet werden</string>
     <string name="message_uploading_attachments">Wird hochgeladen…</string>
     <string name="message_view_forwarded_attachment_background_load">Mindestens ein Anhang in Ihrer weitergeleiteten Nachricht wird vor dem Senden heruntergeladen.</string>
@@ -1052,6 +1051,8 @@
     <string name="notifications_category">Benachrichtigungen</string>
     <string name="notify_attachment_save_error">Anhang konnte nicht gespeichert werden</string>
     <string name="notify_attachment_send_error">Anhang konnte nicht gesendet werden</string>
+    <string name="nudge_dismiss_button_text">SCHLIEẞEN</string>
+    <string name="nudge_dismiss_success_message">Automatische Erinnerung verworfen.</string>
     <string name="oauth_authentication_title">Autorisierung wird angefordert…</string>
     <string name="oauth_error_description">Authentifizierung war nicht möglich</string>
     <string name="oauth_server_error">Server nicht erreichbar. Bitte versuchen Sie es später erneut.</string>
@@ -1541,7 +1542,7 @@ Zum Aktivieren hier tippen."</string>
     <string name="to_message_header">an %1$s</string>
     <string name="toggle_read_unread">Schieberegler \"gelesen/ungelesen\"</string>
     <string name="too_large_to_attach_multiple">Mindestens eine Datei wurde nicht angehängt. Dateien dürfen insgesamt höchstens %1$s groß sein.</string>
-    <string name="too_large_to_attach_single">Dateien mit mehr als %1$s können nicht angehängt werden.</string>
+    <string name="too_large_to_attach_single">Die zu sendenden Dateien übersteigen die Beschränkung von insgesamt %1$s für Anhänge.</string>
     <string name="trash_folder_selection_title">Papierkorb des Servers für %s auswählen</string>
     <string name="trashed_message_indicator">Diese Nachricht wurde gelöscht.</string>
     <string name="turn_auto_sync_on_dialog_body">Änderungen, die Sie nicht nur an Gmail, sondern an allen Apps und Konten vornehmen, werden zwischen dem Web, Ihren anderen Geräten und Ihrem %1$s synchronisiert.</string>

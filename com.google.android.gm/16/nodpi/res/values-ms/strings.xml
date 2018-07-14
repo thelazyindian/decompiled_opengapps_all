@@ -401,9 +401,7 @@
     <string name="bcc">Skt</string>
     <string name="bcc_header_for_recipient_summary">"skt: "</string>
     <string name="bcc_heading">Skt:</string>
-    <string name="bd12n_account_settings_permission_summary">Gmail memerlukan kebenaran untuk menghantar pemberitahuan apabila pemberitahuan itu diterima. Anda boleh menukar kebenaran ini dalam &lt;a href=%1$s>tetapan peranti&lt;/a>.</string>
     <string name="bd12n_conversation_push_tip_text">Ketik untuk dimaklumkan tentang e-mel baharu apabila e-mel tersebut diterima.</string>
-    <string name="bd12n_conversation_tip_text">Biarkan Gmail dijalankan di latar belakang jika anda mahu dimaklumkan tentang e-mel baharu apabila e-mel tersebut diterima. &lt;a href=%1$s>Benarkan&lt;/a></string>
     <string name="block_sender_menu_item">Sekat \"%s\"</string>
     <string name="blocked_sender_spam">Mengapa mesej ini berada dalam Spam? Anda menyekat mesej masuk daripada &lt;b>%1$s&lt;/b>.</string>
     <string name="body_hint">Karang e-mel</string>
@@ -413,7 +411,6 @@
     <string name="broadcast_internal_perm_label">siaran dalaman</string>
     <string name="bt_action_archive">Arkib</string>
     <string name="bt_action_delete">Padam</string>
-    <string name="bt_action_direct_reply">Karang balasan</string>
     <string name="bt_action_remove_label">Alih Keluar Label</string>
     <string name="bt_action_reply">Balas</string>
     <string name="bt_action_reply_all">Balas kepada semua</string>
@@ -633,6 +630,8 @@
     <string name="email_account_transfer_notification_channel_description">Menunjukkan pemberitahuan apabila akaun e-mel bukan Google anda dipindahkan ke peranti lain.</string>
     <string name="email_account_transfer_notification_channel_name">Pindahan akaun e-mel peranti ke peranti</string>
     <string name="email_account_transfer_notification_title">Memindahkan akaun e-mel bukan Google ke peranti lain.</string>
+    <string name="email_confirmation_state_unknown_description">Mesej anda mungkin telah dihantar.</string>
+    <string name="email_confirmation_state_unknown_title">Op, kami menghadapi masalah menyambung!</string>
     <string name="email_provider_label">Mel</string>
     <string name="eml_loader_error_toast">Tidak dapat membuka fail ini</string>
     <string name="eml_viewer_subtitle">Pemapar mesej EML</string>
@@ -767,7 +766,6 @@
     <string name="gm_i18n_snooze_option_later_today">Lewat hari ini</string>
     <string name="gm_i18n_snooze_option_next_week">Minggu depan</string>
     <string name="gm_i18n_snooze_option_next_weekend">Hujung minggu depan</string>
-    <string name="gm_i18n_snooze_option_someday">Suatu hari nanti</string>
     <string name="gm_i18n_snooze_option_this_week">Minggu ini</string>
     <string name="gm_i18n_snooze_option_this_weekend">Hujung minggu ini</string>
     <string name="gm_i18n_snooze_option_tomorrow">Esok</string>
@@ -985,6 +983,7 @@
     <string name="message_priority">Keutamaan mesej</string>
     <string name="message_queued">Dibaris gilir</string>
     <string name="message_saved">Mesej disimpan sebagai draf.</string>
+    <string name="message_sent">Dihantar</string>
     <string name="message_too_large">Mesej terlalu besar untuk dibuka pada peranti ini</string>
     <string name="message_uploading_attachments">Memuat naik</string>
     <string name="message_view_forwarded_attachment_background_load">Satu atau beberapa lampiran dalam mesej anda yang dikirim semula akan dimuat turun sebelum dihantar.</string>
@@ -1036,6 +1035,8 @@
     <string name="notifications_category">Pemberitahuan</string>
     <string name="notify_attachment_save_error">Tidak dapat menyimpan lampiran</string>
     <string name="notify_attachment_send_error">Tidak dapat menghantar lampiran</string>
+    <string name="nudge_dismiss_button_text">KETEPIKAN</string>
+    <string name="nudge_dismiss_success_message">Sigung diketepikan.</string>
     <string name="oauth_authentication_title">Meminta keizinan...</string>
     <string name="oauth_error_description">Tidak dapat mengesahkan</string>
     <string name="oauth_server_error">Pelayan tidak tersedia, sila cuba sebentar lagi</string>
@@ -1518,7 +1519,7 @@ Ketik untuk menghidupkan."</string>
     <string name="to_message_header">kepada %1$s</string>
     <string name="toggle_read_unread">Togol telah dibaca belum dibaca</string>
     <string name="too_large_to_attach_multiple">Satu atau beberapa fail tidak dilampirkan. Had %1$s.</string>
-    <string name="too_large_to_attach_single">Tidak boleh melampirkan fail melebihi %1$s.</string>
+    <string name="too_large_to_attach_single">Fail yang cuba anda hantar melebihi jumlah had lampiran %1$s.</string>
     <string name="trash_folder_selection_title">Plih folder smpah pelayan utk %s</string>
     <string name="trashed_message_indicator">Mesej ini telah dipadamkan</string>
     <string name="turn_auto_sync_on_dialog_body">Perubahan yang anda lakukan kepada semua apl dan akaun, bukan hanya Gmail, akan disegerakkan antara web, peranti anda yang lain dan %1$s anda.</string>

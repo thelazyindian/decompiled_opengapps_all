@@ -415,8 +415,7 @@
     <string name="bcc">بی سی سی</string>
     <string name="bcc_header_for_recipient_summary">"بی سی سی: "</string>
     <string name="bcc_heading">بی سی سی:</string>
-    <string name="bd12n_account_settings_permission_summary">‏آپ کی اطلاعات پہنچنے پر انہیں ڈیلیور کرنے کیلئے Gmail کو اجازت درکار ہے۔ آپ اسے &lt;a href=%1$s>آلہ کی ترتیبات&lt;/a> میں تبدیل کر سکتے ہیں۔</string>
-    <string name="bd12n_conversation_tip_text">‏اگر آپ چاہتے ہیں کہ نئی ای میلز کے آتے ہی ان کے بارے میں آپ کو مطلع کیا جائے، تو Gmail کو پس منظر میں چلنے دیں۔ &lt;a href=%1$s>اجازت دیں&lt;/a></string>
+    <string name="bd12n_conversation_push_tip_text">نئی ای میلز کے آنے پر اطلاع پانے کے لئے تھپتھپائیں۔</string>
     <string name="block_sender_menu_item">\"%s\" کو مسدود کریں</string>
     <string name="blocked_sender_spam">‏یہ پیغام سپام میں کیوں ہے؟ آپ نے &lt;b>%1$s&lt;/b> کی طرف سے آنے والے پیغامات کو مسدود کر دیا ہے۔</string>
     <string name="body_hint">ای میل تحریر کریں</string>
@@ -426,7 +425,6 @@
     <string name="broadcast_internal_perm_label">داخلی براڈ کاسٹ</string>
     <string name="bt_action_archive">آرکائیو کریں</string>
     <string name="bt_action_delete">حذف کریں</string>
-    <string name="bt_action_direct_reply">جواب تحریر کریں</string>
     <string name="bt_action_remove_label">لیبل ہٹائیں</string>
     <string name="bt_action_reply">جواب دیں</string>
     <string name="bt_action_reply_all">سب کو جواب دیں</string>
@@ -647,6 +645,8 @@
     <string name="email_account_transfer_notification_channel_description">‏آپ کے غیر Google ای میل اکاؤنٹس کو دوسرے آلہ پر منتقل کئے جانے پر ایک اطلاع دکھائی جاتی ہے۔</string>
     <string name="email_account_transfer_notification_channel_name">آلہ سے آلہ میں ای میل اکاؤنٹ کی منتقلی</string>
     <string name="email_account_transfer_notification_title">‏غیر Google ای میل اکاؤنٹس کو دوسرے آلہ پر منتقل کیا جا رہا ہے۔</string>
+    <string name="email_confirmation_state_unknown_description">ممکن ہے آپ کا پیغام بھیج دیا گیا ہو۔</string>
+    <string name="email_confirmation_state_unknown_title">افوہ، ہمیں منسلک ہونے میں مسائل پیش آ گئے!</string>
     <string name="email_provider_label">میل</string>
     <string name="eml_loader_error_toast">یہ فائل نہیں کھول سکتے</string>
     <string name="eml_viewer_subtitle">‏EML پیغام ناظر</string>
@@ -784,7 +784,6 @@
     <string name="gm_i18n_snooze_option_later_today">آج بعد میں</string>
     <string name="gm_i18n_snooze_option_next_week">اگلا ہفتہ</string>
     <string name="gm_i18n_snooze_option_next_weekend">اگلا ویک اینڈ</string>
-    <string name="gm_i18n_snooze_option_someday">کسی دن</string>
     <string name="gm_i18n_snooze_option_this_week">اس ہفتہ</string>
     <string name="gm_i18n_snooze_option_this_weekend">اس ویک اینڈ</string>
     <string name="gm_i18n_snooze_option_tomorrow">آئندہ کل</string>
@@ -1003,6 +1002,7 @@
     <string name="message_priority">پیغام کی ترجیح</string>
     <string name="message_queued">قطار میں ہے</string>
     <string name="message_saved">پیغام مسودہ کے بطور محفوظ ہو گیا۔</string>
+    <string name="message_sent">ارسال کردہ</string>
     <string name="message_too_large">پیغام اتنا بڑا ہے کہ اس آلہ پر نہیں کھولا جا سکتا</string>
     <string name="message_uploading_attachments">اپ لوڈ ہورہا ہے</string>
     <string name="message_view_forwarded_attachment_background_load">آپ کے فارورڈ کیے ہوئے پیغام میں ایک یا زیادہ منسلکات بھیجنے سے پہلے ڈاؤن لوڈ ہوں گے۔</string>
@@ -1054,6 +1054,8 @@
     <string name="notifications_category">اطلاعات</string>
     <string name="notify_attachment_save_error">منسلکہ کو محفوظ نہیں کیا جا سکا</string>
     <string name="notify_attachment_send_error">منسلکہ کو بھیجا نہیں جا سکا</string>
+    <string name="nudge_dismiss_button_text">برخاست کریں</string>
+    <string name="nudge_dismiss_success_message">یاد دہانی برخاست کر دی گئی۔</string>
     <string name="oauth_authentication_title">اجازت طلب کر رہا ہے…</string>
     <string name="oauth_error_description">توثیق کرنے سے قاصر</string>
     <string name="oauth_server_error">سرور غیر دستیاب ہے، براہ کرم بعد میں دوبارہ کوشش کریں</string>
@@ -1541,7 +1543,7 @@
     <string name="to_message_header">بنام %1$s</string>
     <string name="toggle_read_unread">پڑھے ہوئے بغیر پڑھے ہوئے کو ٹوگل کریں</string>
     <string name="too_large_to_attach_multiple">ایک یا زائد فائلیں منسلک نہیں ہوئیں۔ حد %1$s۔</string>
-    <string name="too_large_to_attach_single">%1$s سے بڑی فائل منسلک نہیں ہوسکتی۔</string>
+    <string name="too_large_to_attach_single">آپ جن فائلوں کو بھیجنے کی کوشش کر رہے ہیں، وہ %1$s کل منسلکہ کی حد سے زیادہ ہیں۔</string>
     <string name="trash_folder_selection_title">%s کیلئے سرور کے کوڑے دان کا فولڈر منتخب کریں</string>
     <string name="trashed_message_indicator">یہ پیغام حذف کر دیا گیا ہے</string>
     <string name="turn_auto_sync_on_dialog_body">‏صرف Gmail نہیں بلکہ سبھی ایپس اور اکاؤنٹس میں آپ جو تبدیلیاں کرتے ہیں وہ ویب، آپ کے دوسرے آلات اور آپ کے %1$s کے درمیان سنک ہوں گی۔</string>

@@ -412,9 +412,7 @@
     <string name="bcc">Nakala fiche kwa</string>
     <string name="bcc_header_for_recipient_summary">"nakala fiche kwa "</string>
     <string name="bcc_heading">Nakala fiche kwa:</string>
-    <string name="bd12n_account_settings_permission_summary">Gmail inahitaji ruhusa ili iwasilishe arifa zako kadri zinavyoingia. Unaweza kubadilisha hili kwenye &lt;a href=%1$s>mipangilio ya kifaa&lt;/a>.</string>
     <string name="bd12n_conversation_push_tip_text">Gusa ili uarifiwe kuhusu barua pepe mpya zinapoingia.</string>
-    <string name="bd12n_conversation_tip_text">Ruhusu Gmail iendelee kufanya kazi chinichini ikiwa unataka kuarifiwa kuhusu barua pepe mpya kadri zinavyoingia. &lt;a href=%1$s>Ruhusu&lt;/a></string>
     <string name="block_sender_menu_item">Mzuie \"%s\"</string>
     <string name="blocked_sender_spam">Kwa nini barua pepe hii iko kwenye Barua Taka? Ulizuia barua pepe zinazoingia kutoka &lt;b> %1$s&lt;/b>.</string>
     <string name="body_hint">Tunga barua pepe</string>
@@ -424,7 +422,6 @@
     <string name="broadcast_internal_perm_label">matangazo ya ndani</string>
     <string name="bt_action_archive">Kumbukumbu</string>
     <string name="bt_action_delete">Futa</string>
-    <string name="bt_action_direct_reply">Tunga jibu</string>
     <string name="bt_action_remove_label">Ondoa Lebo</string>
     <string name="bt_action_reply">Jibu</string>
     <string name="bt_action_reply_all">Jibu wote</string>
@@ -648,6 +645,8 @@
     <string name="email_account_transfer_notification_channel_description">Huonyesha arifa akaunti zako za barua pepe zisizo za Google zinapohamishiwa kwenye kifaa kingine.</string>
     <string name="email_account_transfer_notification_channel_name">Uhamishaji wa akaunti ya barua pepe kati ya vifaa</string>
     <string name="email_account_transfer_notification_title">Inahamishia akaunti za barua pepe zisizo za Google kwenye kifaa kingine.</string>
+    <string name="email_confirmation_state_unknown_description">Huenda ujumbe wako umetumwa.</string>
+    <string name="email_confirmation_state_unknown_title">Lo! Tumekumbwa na matatizo wakati wa kuunganisha!</string>
     <string name="email_provider_label">Barua pepe</string>
     <string name="eml_loader_error_toast">Haiwezi kufungua faili hii</string>
     <string name="eml_viewer_subtitle">Zana ya kufungua barua pepe za EML</string>
@@ -784,7 +783,6 @@
     <string name="gm_i18n_snooze_option_later_today">Baadaye leo</string>
     <string name="gm_i18n_snooze_option_next_week">Wiki ijayo</string>
     <string name="gm_i18n_snooze_option_next_weekend">Wikendi ijayo</string>
-    <string name="gm_i18n_snooze_option_someday">Siku fulani</string>
     <string name="gm_i18n_snooze_option_this_week">Wiki hii</string>
     <string name="gm_i18n_snooze_option_this_weekend">Wikendi hii</string>
     <string name="gm_i18n_snooze_option_tomorrow">Kesho</string>
@@ -1008,6 +1006,7 @@
     <string name="message_priority">Kipaumbele cha ujumbe</string>
     <string name="message_queued">Zilizo kwenye foleni</string>
     <string name="message_saved">Ujumbe umehifadhiwa kama rasimu.</string>
+    <string name="message_sent">Barua Zilizotumwa</string>
     <string name="message_too_large">Ujumbe ni mkubwa mno; hauwezi kufunguliwa kwenye kifaa hiki</string>
     <string name="message_uploading_attachments">Inapakia</string>
     <string name="message_view_forwarded_attachment_background_load">Kiambatisho kimoja au zaidi katika ujumbe wako uliosambazwa kitapakuliwa kabla ya kutumwa.</string>
@@ -1059,6 +1058,8 @@
     <string name="notifications_category">Arifa</string>
     <string name="notify_attachment_save_error">Haikuweza kuhifadhi kiambatisho</string>
     <string name="notify_attachment_send_error">Haikuweza kutuma kiambatisho</string>
+    <string name="nudge_dismiss_button_text">ONDOA</string>
+    <string name="nudge_dismiss_success_message">Udokezaji umeondolewa.</string>
     <string name="oauth_authentication_title">Inaomba idhini…</string>
     <string name="oauth_error_description">Haiwezi kuthibitisha</string>
     <string name="oauth_server_error">Seva haipatikani, tafadhali jaribu tena baadaye</string>
@@ -1307,7 +1308,7 @@ Gusa ili uuwashe."</string>
     <string name="rte_accessibility_showing_text_formatting">Inaonyesha sehemu ya miundo ya matini</string>
     <string name="rte_action_menu_text_formatting">Muundo</string>
     <string name="rte_font_picker_button_condensed">Nene</string>
-    <string name="rte_font_picker_button_default">Chaguo msingi</string>
+    <string name="rte_font_picker_button_default">Chaguomsingi</string>
     <string name="rte_swatch_button_black">Nyeusi</string>
     <string name="rte_swatch_button_blue">Samawati</string>
     <string name="rte_swatch_button_gray">Kijivu</string>
@@ -1548,7 +1549,7 @@ Gusa ili uuwashe."</string>
     <string name="to_message_header">kwa %1$s</string>
     <string name="toggle_read_unread">Geuza zilizosomwa na ambazo hazijasomwa</string>
     <string name="too_large_to_attach_multiple">Faili moja au zaidi hazijaambatishwa. Haifai kuzidi %1$s.</string>
-    <string name="too_large_to_attach_single">Haiwezi kuambatisha faili inayozidi %1$s.</string>
+    <string name="too_large_to_attach_single">Faili unazojaribu kutuma zinazidi ukubwa wa %1$s unaoruhusiwa kwa viambatisho.</string>
     <string name="trash_folder_selection_title">Chagua folda ya tupio ya seva ya %s</string>
     <string name="trashed_message_indicator">Barua pepe hii imefutwa</string>
     <string name="turn_auto_sync_on_dialog_body">Mabadiliko unayofanyia programu na akaunti zote, sio tu Gmail, yatasawazishwa baina ya wavuti, vifaa vyako vingine na, %1$s yako.</string>

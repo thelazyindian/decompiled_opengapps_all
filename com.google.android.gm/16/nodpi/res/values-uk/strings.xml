@@ -412,9 +412,7 @@
     <string name="bcc">Прих. копія</string>
     <string name="bcc_header_for_recipient_summary">"прих.копія "</string>
     <string name="bcc_heading">Прихована:</string>
-    <string name="bd12n_account_settings_permission_summary">Службі Gmail потрібен дозвіл, щоб показувати вам миттєві сповіщення. Це можна змінити в &lt;a href=%1$s>налаштуваннях пристрою&lt;/a>.</string>
     <string name="bd12n_conversation_push_tip_text">Торкніться, щоб отримувати сповіщення про нові листи.</string>
-    <string name="bd12n_conversation_tip_text">Дозвольте Gmail працювати у фоновому режимі, якщо хочете отримувати миттєві сповіщення про нові листи. &lt;a href=%1$s>Дозволити&lt;/a></string>
     <string name="block_sender_menu_item">Заблокувати відправника \"%s\"</string>
     <string name="blocked_sender_spam">Чому цей лист потрапив у спам? Ви заблокували повідомлення з адреси &lt;b>%1$s&lt;/b>.</string>
     <string name="body_hint">Текст повідомлення</string>
@@ -424,7 +422,6 @@
     <string name="broadcast_internal_perm_label">внутрішня трансляція</string>
     <string name="bt_action_archive">Архівувати</string>
     <string name="bt_action_delete">Видалити</string>
-    <string name="bt_action_direct_reply">Написати відповідь</string>
     <string name="bt_action_remove_label">Вилучити мітку</string>
     <string name="bt_action_reply">Відповісти</string>
     <string name="bt_action_reply_all">Відповісти всім</string>
@@ -648,6 +645,8 @@
     <string name="email_account_transfer_notification_channel_description">Відображається сповіщення, коли ваші облікові записи електронної пошти з інших служб, крім Google, переносяться на інший пристрій.</string>
     <string name="email_account_transfer_notification_channel_name">Перенесення електронної пошти з пристрою</string>
     <string name="email_account_transfer_notification_title">Перенесення облікових записів електронної пошти з інших служб, крім Google, на інший пристрій.</string>
+    <string name="email_confirmation_state_unknown_description">Можливо, ваше повідомлення надіслано.</string>
+    <string name="email_confirmation_state_unknown_title">На жаль, виникла помилка з’єднання.</string>
     <string name="email_provider_label">Пошта</string>
     <string name="eml_loader_error_toast">Не вдається відкрити цей файл</string>
     <string name="eml_viewer_subtitle">Засіб перегляду повідомлень EML</string>
@@ -785,7 +784,6 @@
     <string name="gm_i18n_snooze_option_later_today">Пізніше сьогодні</string>
     <string name="gm_i18n_snooze_option_next_week">Наступного тижня</string>
     <string name="gm_i18n_snooze_option_next_weekend">Наступних вихідних</string>
-    <string name="gm_i18n_snooze_option_someday">Невизначений термін</string>
     <string name="gm_i18n_snooze_option_this_week">Цього тижня</string>
     <string name="gm_i18n_snooze_option_this_weekend">Цими вихідними</string>
     <string name="gm_i18n_snooze_option_tomorrow">Завтра</string>
@@ -1009,6 +1007,7 @@
     <string name="message_priority">Пріоритет повідомлення</string>
     <string name="message_queued">У черзі</string>
     <string name="message_saved">Повідомлення збережено як чернетку.</string>
+    <string name="message_sent">Надіслано</string>
     <string name="message_too_large">Лист завеликий; його неможливо відкрити на цьому пристрої</string>
     <string name="message_uploading_attachments">Завантаження</string>
     <string name="message_view_forwarded_attachment_background_load">Перед надсиланням буде завантажено один або кілька вкладених файлів із повідомлення, яке ви пересилаєте.</string>
@@ -1060,6 +1059,8 @@
     <string name="notifications_category">Сповіщення</string>
     <string name="notify_attachment_save_error">Не вдалося зберегти вкладений файл</string>
     <string name="notify_attachment_send_error">Не вдалося надіслати вкладений файл</string>
+    <string name="nudge_dismiss_button_text">ЗАКРИТИ</string>
+    <string name="nudge_dismiss_success_message">Підказку закрито.</string>
     <string name="oauth_authentication_title">Запит авторизації…</string>
     <string name="oauth_error_description">Не вдається автентифікувати</string>
     <string name="oauth_server_error">Сервер недоступний, повторіть спробу пізніше</string>
@@ -1551,7 +1552,7 @@
     <string name="to_message_header">кому: %1$s</string>
     <string name="toggle_read_unread">Позначити як прочитане/непрочитане</string>
     <string name="too_large_to_attach_multiple">Один або декілька файлів не вкладено. Максимальний розмір: %1$s.</string>
-    <string name="too_large_to_attach_single">Неможливо вкласти файл розміром понад %1$s.</string>
+    <string name="too_large_to_attach_single">Файли, які ви намагаєтеся надіслати, перевищують максимальний розмір: %1$s.</string>
     <string name="trash_folder_selection_title">%s: виберіть \"Кошик\" на сервері</string>
     <string name="trashed_message_indicator">Це повідомлення видалено</string>
     <string name="turn_auto_sync_on_dialog_body">Зміни, які ви вносите до всіх додатків і облікових записів (не лише Gmail), синхронізуватимуться з веб-службами, іншими пристроями та вашим %1$s.</string>

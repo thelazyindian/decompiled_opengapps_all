@@ -398,9 +398,7 @@
     <string name="auto_send_perm_desc">Gmail.</string>
     <string name="auto_send_perm_label">Trimite mesaje Gmail</string>
     <string name="auto_sync_off">Sincronizarea automată este dezactivată. Atinge pentru a o activa.</string>
-    <string name="bd12n_account_settings_permission_summary">Gmail are nevoie de permisiune pentru livrarea notificărilor pe măsură ce le primești. Poți să modifici setarea în &lt;a href=%1$s>setările dispozitivului&lt;/a>.</string>
     <string name="bd12n_conversation_push_tip_text">Atinge pentru a primi notificări despre e-mailurile noi pe măsură ce le primești.</string>
-    <string name="bd12n_conversation_tip_text">Lasă aplicația Gmail să ruleze în fundal dacă vrei să primești notificări despre e-mailurile noi pe măsură ce le primești. &lt;a href=%1$s>Permite&lt;/a></string>
     <string name="block_sender_menu_item">Blochează expeditorul „%s”</string>
     <string name="blocked_sender_spam">De ce se află acest mesaj în Spam? Ai blocat mesajele noi de la &lt;b>%1$s&lt;/b>.</string>
     <string name="body_hint">Scrie un e-mail</string>
@@ -410,7 +408,6 @@
     <string name="broadcast_internal_perm_label">difuzare internă</string>
     <string name="bt_action_archive">Arhivează</string>
     <string name="bt_action_delete">Șterge</string>
-    <string name="bt_action_direct_reply">Scrie un răspuns</string>
     <string name="bt_action_remove_label">Șterge eticheta</string>
     <string name="bt_action_reply">Răspunde</string>
     <string name="bt_action_reply_all">Răspunde tuturor</string>
@@ -629,6 +626,8 @@
     <string name="email_account_transfer_notification_channel_description">Afișează o notificare atunci când conturile de e-mail care nu aparțin Google sunt transferate pe alt dispozitiv.</string>
     <string name="email_account_transfer_notification_channel_name">Transfer de conturi între dispozitive</string>
     <string name="email_account_transfer_notification_title">Se transferă conturi de e-mail care nu aparțin Google</string>
+    <string name="email_confirmation_state_unknown_description">Este posibil ca mesajul să fi fost trimis.</string>
+    <string name="email_confirmation_state_unknown_title">Hopa, au apărut probleme la conectare!</string>
     <string name="email_provider_label">E-mail</string>
     <string name="eml_loader_error_toast">Nu se poate deschide fișierul.</string>
     <string name="eml_viewer_subtitle">Vizualizator de mesaje EML</string>
@@ -764,7 +763,6 @@
     <string name="gm_i18n_snooze_option_later_today">Mai târziu, azi</string>
     <string name="gm_i18n_snooze_option_next_week">Săptămâna viitoare</string>
     <string name="gm_i18n_snooze_option_next_weekend">Weekendul următor</string>
-    <string name="gm_i18n_snooze_option_someday">Într-o zi oarecare</string>
     <string name="gm_i18n_snooze_option_this_week">Săptămâna aceasta</string>
     <string name="gm_i18n_snooze_option_this_weekend">În acest weekend</string>
     <string name="gm_i18n_snooze_option_tomorrow">Mâine</string>
@@ -982,6 +980,7 @@
     <string name="message_priority">Prioritatea mesajului</string>
     <string name="message_queued">În așteptare</string>
     <string name="message_saved">Mesaj salvat ca mesaj nefinalizat.</string>
+    <string name="message_sent">S-a trimis.</string>
     <string name="message_too_large">Mesajul este prea mare pentru a fi deschis pe acest dispozitiv</string>
     <string name="message_uploading_attachments">Se încarcă</string>
     <string name="message_view_forwarded_attachment_background_load">Cel puțin un atașament din mesajul redirecționat va fi descărcat înainte de a fi trimis.</string>
@@ -1033,6 +1032,8 @@
     <string name="notifications_category">Notificări</string>
     <string name="notify_attachment_save_error">Atașamentul nu s-a salvat</string>
     <string name="notify_attachment_send_error">Atașamentul nu s-a trimis</string>
+    <string name="nudge_dismiss_button_text">ÎNCHIDE</string>
+    <string name="nudge_dismiss_success_message">E-mailul reafișat a fost închis.</string>
     <string name="oauth_authentication_title">Se solicită autorizarea…</string>
     <string name="oauth_error_description">Nu se poate autentifica.</string>
     <string name="oauth_server_error">Serverul nu este disponibil. Încearcă din nou mai târziu.</string>
@@ -1520,7 +1521,7 @@ Atinge pentru a o activa."</string>
     <string name="to_message_header">către %1$s</string>
     <string name="toggle_read_unread">Comută între mesajele citite și cele necitite</string>
     <string name="too_large_to_attach_multiple">Nu s-a atașat cel puțin un fișier. Limita maximă este de %1$s.</string>
-    <string name="too_large_to_attach_single">%1$s.</string>
+    <string name="too_large_to_attach_single">Fișierele pe care încerci să le trimiți depășesc limita de %1$s pentru atașamente.</string>
     <string name="trash_folder_selection_title">Coș de gunoi pe server pentru %s</string>
     <string name="trashed_message_indicator">Acest mesaj a fost șters.</string>
     <string name="turn_auto_sync_on_dialog_body">Modificările din toate aplicațiile și conturile, nu doar din Gmail, vor fi sincronizate între versiunile pentru web, alte dispozitive și %1$s.</string>

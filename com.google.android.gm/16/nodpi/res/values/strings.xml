@@ -463,9 +463,7 @@
     <string name="bcc">Bcc</string>
     <string name="bcc_header_for_recipient_summary">"bcc: "</string>
     <string name="bcc_heading">Bcc:</string>
-    <string name="bd12n_account_settings_permission_summary">Gmail needs permission to deliver your notifications as they arrive. You can change this in &lt;a href=\"%1$s\">device settings&lt;/a>.</string>
     <string name="bd12n_conversation_push_tip_text">Tap to be notified about new emails as they arrive.</string>
-    <string name="bd12n_conversation_tip_text">Let Gmail run in the background if you want to be notified about new emails as they arrive. &lt;a href=\"%1$s\">Allow&lt;/a></string>
     <string name="block_sender_menu_item">Block \"%s\"</string>
     <string name="blocked_sender_spam">Why is this message in Spam? You blocked incoming messages from &lt;b>%1$s&lt;/b>.</string>
     <string name="body_hint">Compose email</string>
@@ -475,7 +473,6 @@
     <string name="broadcast_internal_perm_label">internal broadcast</string>
     <string name="bt_action_archive">Archive</string>
     <string name="bt_action_delete">Delete</string>
-    <string name="bt_action_direct_reply">Compose reply</string>
     <string name="bt_action_remove_label">Remove Label</string>
     <string name="bt_action_reply">Reply</string>
     <string name="bt_action_reply_all">Reply all</string>
@@ -745,6 +742,8 @@
     <string name="email_account_transfer_notification_channel_description">Shows a notification when your non-Google email accounts are being transferred to another device.</string>
     <string name="email_account_transfer_notification_channel_name">Device-to-device email account transfer</string>
     <string name="email_account_transfer_notification_title">Transferring non-Google email accounts to another device.</string>
+    <string name="email_confirmation_state_unknown_description">Your message may have been sent.</string>
+    <string name="email_confirmation_state_unknown_title">Oops, we had problems connecting!</string>
     <string name="email_feedback_uri">feedback://com.google.android.gm?reporting_problem=true</string>
     <string name="email_provider_label">Mail</string>
     <string name="eml_loader_error_toast">"Can't open this file"</string>
@@ -904,7 +903,6 @@
     <string name="gm_i18n_snooze_option_later_today">Later today</string>
     <string name="gm_i18n_snooze_option_next_week">Next week</string>
     <string name="gm_i18n_snooze_option_next_weekend">Next weekend</string>
-    <string name="gm_i18n_snooze_option_someday">Someday</string>
     <string name="gm_i18n_snooze_option_this_week">This week</string>
     <string name="gm_i18n_snooze_option_this_weekend">This weekend</string>
     <string name="gm_i18n_snooze_option_tomorrow">Tomorrow</string>
@@ -1166,6 +1164,7 @@
     <string name="message_priority">Message priority</string>
     <string name="message_queued">Queued</string>
     <string name="message_saved">Message saved as draft.</string>
+    <string name="message_sent">Sent</string>
     <string name="message_too_large">Message is too large to be opened on this device</string>
     <string name="message_uploading_attachments">Uploading</string>
     <string name="message_view_forwarded_attachment_background_load">One or more attachments in your forwarded message will be downloaded prior to sending.</string>
@@ -1220,6 +1219,8 @@
     <string name="notifications_category">Notifications</string>
     <string name="notify_attachment_save_error">"Couldn't save attachment"</string>
     <string name="notify_attachment_send_error">"Couldn't send attachment"</string>
+    <string name="nudge_dismiss_button_text">DISMISS</string>
+    <string name="nudge_dismiss_success_message">Nudge dismissed.</string>
     <item type="string" name="numbers_radius_multiplier_inner">0.6</item>
     <item type="string" name="numbers_radius_multiplier_normal">0.81</item>
     <item type="string" name="numbers_radius_multiplier_outer">0.83</item>
@@ -1412,7 +1413,7 @@ Tap to turn on."</string>
     <string name="preferences_unsubscribe_tips_title">Unsubscribe tips</string>
     <string name="preferences_vacation_responder_title">Vacation responder</string>
     <string name="primes_marker">PrImEs</string>
-    <string name="primes_version">200863516</string>
+    <string name="primes_version">201275026</string>
     <string name="print">Print</string>
     <string name="print_all">Print all</string>
     <string name="print_disabled_message_placeholder">This message cannot be printed.</string>
@@ -1659,7 +1660,6 @@ Tap to turn on."</string>
     <string name="snooze_option_later_today">@string/gm_i18n_snooze_option_later_today</string>
     <string name="snooze_option_next_week">@string/gm_i18n_snooze_option_next_week</string>
     <string name="snooze_option_next_weekend">@string/gm_i18n_snooze_option_next_weekend</string>
-    <string name="snooze_option_someday">@string/gm_i18n_snooze_option_someday</string>
     <string name="snooze_option_specific_day_afternoon">Afternoon</string>
     <string name="snooze_option_specific_day_custom">Custom</string>
     <string name="snooze_option_specific_day_evening">Evening</string>
@@ -1795,7 +1795,7 @@ Tap to turn on."</string>
     <string name="to_message_header">to %1$s</string>
     <string name="toggle_read_unread">Toggle read unread</string>
     <string name="too_large_to_attach_multiple">One or more files not attached. Limit %1$s.</string>
-    <string name="too_large_to_attach_single">"Can't attach file over %1$s."</string>
+    <string name="too_large_to_attach_single">The files you are trying to send exceed the %1$s total attachment limit.</string>
     <string name="trash_folder_selection_title">Select server trash folder for %s</string>
     <string name="trashed_message_indicator">This message has been deleted</string>
     <string name="trigger_archive_char">d</string>
@@ -1940,20 +1940,23 @@ Tap "<b>Sync Now</b> to sync mail once, or <b>Change Sync Settings</b> to set up
     <item type="string" name="APKTOOL_DUMMY_1d9">false</item>
     <item type="string" name="APKTOOL_DUMMY_1da">false</item>
     <item type="string" name="APKTOOL_DUMMY_1f7">false</item>
+    <item type="string" name="APKTOOL_DUMMY_201">false</item>
+    <item type="string" name="APKTOOL_DUMMY_203">false</item>
     <item type="string" name="APKTOOL_DUMMY_209">false</item>
-    <item type="string" name="APKTOOL_DUMMY_212">false</item>
+    <item type="string" name="APKTOOL_DUMMY_211">false</item>
+    <item type="string" name="APKTOOL_DUMMY_218">false</item>
     <item type="string" name="APKTOOL_DUMMY_219">false</item>
     <item type="string" name="APKTOOL_DUMMY_21a">false</item>
     <item type="string" name="APKTOOL_DUMMY_21b">false</item>
     <item type="string" name="APKTOOL_DUMMY_21c">false</item>
     <item type="string" name="APKTOOL_DUMMY_21d">false</item>
     <item type="string" name="APKTOOL_DUMMY_21e">false</item>
-    <item type="string" name="APKTOOL_DUMMY_21f">false</item>
-    <item type="string" name="APKTOOL_DUMMY_221">false</item>
-    <item type="string" name="APKTOOL_DUMMY_224">false</item>
-    <item type="string" name="APKTOOL_DUMMY_269">false</item>
+    <item type="string" name="APKTOOL_DUMMY_220">false</item>
+    <item type="string" name="APKTOOL_DUMMY_223">false</item>
+    <item type="string" name="APKTOOL_DUMMY_268">false</item>
+    <item type="string" name="APKTOOL_DUMMY_28a">false</item>
     <item type="string" name="APKTOOL_DUMMY_28b">false</item>
-    <item type="string" name="APKTOOL_DUMMY_28c">false</item>
+    <item type="string" name="APKTOOL_DUMMY_28d">false</item>
     <item type="string" name="APKTOOL_DUMMY_290">false</item>
     <item type="string" name="APKTOOL_DUMMY_2bc">false</item>
     <item type="string" name="APKTOOL_DUMMY_2bd">false</item>
@@ -1972,8 +1975,6 @@ Tap "<b>Sync Now</b> to sync mail once, or <b>Change Sync Settings</b> to set up
     <item type="string" name="APKTOOL_DUMMY_2e2">false</item>
     <item type="string" name="APKTOOL_DUMMY_301">false</item>
     <item type="string" name="APKTOOL_DUMMY_30e">false</item>
-    <item type="string" name="APKTOOL_DUMMY_33a">false</item>
-    <item type="string" name="APKTOOL_DUMMY_33b">false</item>
     <item type="string" name="APKTOOL_DUMMY_33e">false</item>
     <item type="string" name="APKTOOL_DUMMY_355">false</item>
     <item type="string" name="APKTOOL_DUMMY_356">false</item>
@@ -1986,6 +1987,7 @@ Tap "<b>Sync Now</b> to sync mail once, or <b>Change Sync Settings</b> to set up
     <item type="string" name="APKTOOL_DUMMY_3c8">false</item>
     <item type="string" name="APKTOOL_DUMMY_3d7">false</item>
     <item type="string" name="APKTOOL_DUMMY_3d8">false</item>
+    <item type="string" name="APKTOOL_DUMMY_3e7">false</item>
     <item type="string" name="APKTOOL_DUMMY_3f6">false</item>
     <item type="string" name="APKTOOL_DUMMY_41e">false</item>
     <item type="string" name="APKTOOL_DUMMY_425">false</item>
@@ -2015,57 +2017,54 @@ Tap "<b>Sync Now</b> to sync mail once, or <b>Change Sync Settings</b> to set up
     <item type="string" name="APKTOOL_DUMMY_4a8">false</item>
     <item type="string" name="APKTOOL_DUMMY_4a9">false</item>
     <item type="string" name="APKTOOL_DUMMY_4aa">false</item>
-    <item type="string" name="APKTOOL_DUMMY_4b3">false</item>
-    <item type="string" name="APKTOOL_DUMMY_4b4">false</item>
-    <item type="string" name="APKTOOL_DUMMY_4b8">false</item>
-    <item type="string" name="APKTOOL_DUMMY_4b9">false</item>
+    <item type="string" name="APKTOOL_DUMMY_4b1">false</item>
+    <item type="string" name="APKTOOL_DUMMY_4b2">false</item>
+    <item type="string" name="APKTOOL_DUMMY_4b5">false</item>
+    <item type="string" name="APKTOOL_DUMMY_4b6">false</item>
     <item type="string" name="APKTOOL_DUMMY_4ba">false</item>
     <item type="string" name="APKTOOL_DUMMY_4bb">false</item>
     <item type="string" name="APKTOOL_DUMMY_4bc">false</item>
     <item type="string" name="APKTOOL_DUMMY_4bd">false</item>
-    <item type="string" name="APKTOOL_DUMMY_4de">false</item>
-    <item type="string" name="APKTOOL_DUMMY_4df">false</item>
+    <item type="string" name="APKTOOL_DUMMY_4be">false</item>
+    <item type="string" name="APKTOOL_DUMMY_4bf">false</item>
     <item type="string" name="APKTOOL_DUMMY_4e0">false</item>
-    <item type="string" name="APKTOOL_DUMMY_4fb">false</item>
-    <item type="string" name="APKTOOL_DUMMY_505">false</item>
-    <item type="string" name="APKTOOL_DUMMY_50c">false</item>
-    <item type="string" name="APKTOOL_DUMMY_50d">false</item>
+    <item type="string" name="APKTOOL_DUMMY_4e1">false</item>
+    <item type="string" name="APKTOOL_DUMMY_4e2">false</item>
+    <item type="string" name="APKTOOL_DUMMY_4fd">false</item>
+    <item type="string" name="APKTOOL_DUMMY_507">false</item>
     <item type="string" name="APKTOOL_DUMMY_50e">false</item>
-    <item type="string" name="APKTOOL_DUMMY_519">false</item>
-    <item type="string" name="APKTOOL_DUMMY_51e">false</item>
-    <item type="string" name="APKTOOL_DUMMY_51f">false</item>
-    <item type="string" name="APKTOOL_DUMMY_523">false</item>
-    <item type="string" name="APKTOOL_DUMMY_528">false</item>
-    <item type="string" name="APKTOOL_DUMMY_537">false</item>
-    <item type="string" name="APKTOOL_DUMMY_564">false</item>
-    <item type="string" name="APKTOOL_DUMMY_565">false</item>
-    <item type="string" name="APKTOOL_DUMMY_566">false</item>
-    <item type="string" name="APKTOOL_DUMMY_567">false</item>
+    <item type="string" name="APKTOOL_DUMMY_50f">false</item>
+    <item type="string" name="APKTOOL_DUMMY_510">false</item>
+    <item type="string" name="APKTOOL_DUMMY_520">false</item>
+    <item type="string" name="APKTOOL_DUMMY_521">false</item>
+    <item type="string" name="APKTOOL_DUMMY_525">false</item>
+    <item type="string" name="APKTOOL_DUMMY_52a">false</item>
+    <item type="string" name="APKTOOL_DUMMY_539">false</item>
     <item type="string" name="APKTOOL_DUMMY_568">false</item>
-    <item type="string" name="APKTOOL_DUMMY_59d">false</item>
-    <item type="string" name="APKTOOL_DUMMY_5a6">false</item>
+    <item type="string" name="APKTOOL_DUMMY_569">false</item>
+    <item type="string" name="APKTOOL_DUMMY_56a">false</item>
+    <item type="string" name="APKTOOL_DUMMY_56b">false</item>
+    <item type="string" name="APKTOOL_DUMMY_56c">false</item>
+    <item type="string" name="APKTOOL_DUMMY_5a1">false</item>
     <item type="string" name="APKTOOL_DUMMY_5aa">false</item>
-    <item type="string" name="APKTOOL_DUMMY_5b4">false</item>
-    <item type="string" name="APKTOOL_DUMMY_5b6">false</item>
-    <item type="string" name="APKTOOL_DUMMY_5b7">false</item>
+    <item type="string" name="APKTOOL_DUMMY_5ae">false</item>
+    <item type="string" name="APKTOOL_DUMMY_5b8">false</item>
+    <item type="string" name="APKTOOL_DUMMY_5ba">false</item>
     <item type="string" name="APKTOOL_DUMMY_5bb">false</item>
-    <item type="string" name="APKTOOL_DUMMY_5be">false</item>
-    <item type="string" name="APKTOOL_DUMMY_5fd">false</item>
-    <item type="string" name="APKTOOL_DUMMY_619">false</item>
-    <item type="string" name="APKTOOL_DUMMY_660">false</item>
-    <item type="string" name="APKTOOL_DUMMY_675">false</item>
-    <item type="string" name="APKTOOL_DUMMY_683">false</item>
-    <item type="string" name="APKTOOL_DUMMY_6a2">false</item>
-    <item type="string" name="APKTOOL_DUMMY_6a5">false</item>
+    <item type="string" name="APKTOOL_DUMMY_5bf">false</item>
+    <item type="string" name="APKTOOL_DUMMY_5c2">false</item>
+    <item type="string" name="APKTOOL_DUMMY_601">false</item>
+    <item type="string" name="APKTOOL_DUMMY_61d">false</item>
+    <item type="string" name="APKTOOL_DUMMY_664">false</item>
+    <item type="string" name="APKTOOL_DUMMY_679">false</item>
+    <item type="string" name="APKTOOL_DUMMY_687">false</item>
     <item type="string" name="APKTOOL_DUMMY_6a6">false</item>
+    <item type="string" name="APKTOOL_DUMMY_6a9">false</item>
     <item type="string" name="APKTOOL_DUMMY_6aa">false</item>
-    <item type="string" name="APKTOOL_DUMMY_6ab">false</item>
-    <item type="string" name="APKTOOL_DUMMY_6ac">false</item>
-    <item type="string" name="APKTOOL_DUMMY_6ad">false</item>
-    <item type="string" name="APKTOOL_DUMMY_6ba">false</item>
-    <item type="string" name="APKTOOL_DUMMY_6bb">false</item>
-    <item type="string" name="APKTOOL_DUMMY_6bc">false</item>
-    <item type="string" name="APKTOOL_DUMMY_6bd">false</item>
+    <item type="string" name="APKTOOL_DUMMY_6ae">false</item>
+    <item type="string" name="APKTOOL_DUMMY_6af">false</item>
+    <item type="string" name="APKTOOL_DUMMY_6b0">false</item>
+    <item type="string" name="APKTOOL_DUMMY_6b1">false</item>
     <item type="string" name="APKTOOL_DUMMY_6be">false</item>
     <item type="string" name="APKTOOL_DUMMY_6bf">false</item>
     <item type="string" name="APKTOOL_DUMMY_6c0">false</item>
@@ -2074,29 +2073,30 @@ Tap "<b>Sync Now</b> to sync mail once, or <b>Change Sync Settings</b> to set up
     <item type="string" name="APKTOOL_DUMMY_6c3">false</item>
     <item type="string" name="APKTOOL_DUMMY_6c4">false</item>
     <item type="string" name="APKTOOL_DUMMY_6c5">false</item>
+    <item type="string" name="APKTOOL_DUMMY_6c6">false</item>
+    <item type="string" name="APKTOOL_DUMMY_6c7">false</item>
+    <item type="string" name="APKTOOL_DUMMY_6c8">false</item>
     <item type="string" name="APKTOOL_DUMMY_6c9">false</item>
-    <item type="string" name="APKTOOL_DUMMY_6ca">false</item>
     <item type="string" name="APKTOOL_DUMMY_6cd">false</item>
     <item type="string" name="APKTOOL_DUMMY_6ce">false</item>
-    <item type="string" name="APKTOOL_DUMMY_70f">false</item>
-    <item type="string" name="APKTOOL_DUMMY_718">false</item>
-    <item type="string" name="APKTOOL_DUMMY_72d">false</item>
-    <item type="string" name="APKTOOL_DUMMY_742">false</item>
-    <item type="string" name="APKTOOL_DUMMY_764">false</item>
-    <item type="string" name="APKTOOL_DUMMY_765">false</item>
-    <item type="string" name="APKTOOL_DUMMY_780">false</item>
-    <item type="string" name="APKTOOL_DUMMY_797">false</item>
-    <item type="string" name="APKTOOL_DUMMY_7ba">false</item>
-    <item type="string" name="APKTOOL_DUMMY_7bb">false</item>
-    <item type="string" name="APKTOOL_DUMMY_7ee">false</item>
-    <item type="string" name="APKTOOL_DUMMY_804">false</item>
-    <item type="string" name="APKTOOL_DUMMY_805">false</item>
-    <item type="string" name="APKTOOL_DUMMY_806">false</item>
-    <item type="string" name="APKTOOL_DUMMY_807">false</item>
-    <item type="string" name="APKTOOL_DUMMY_808">false</item>
-    <item type="string" name="APKTOOL_DUMMY_809">false</item>
-    <item type="string" name="APKTOOL_DUMMY_80a">false</item>
-    <item type="string" name="APKTOOL_DUMMY_80b">false</item>
+    <item type="string" name="APKTOOL_DUMMY_6d1">false</item>
+    <item type="string" name="APKTOOL_DUMMY_6d2">false</item>
+    <item type="string" name="APKTOOL_DUMMY_713">false</item>
+    <item type="string" name="APKTOOL_DUMMY_71c">false</item>
+    <item type="string" name="APKTOOL_DUMMY_72f">false</item>
+    <item type="string" name="APKTOOL_DUMMY_731">false</item>
+    <item type="string" name="APKTOOL_DUMMY_746">false</item>
+    <item type="string" name="APKTOOL_DUMMY_752">false</item>
+    <item type="string" name="APKTOOL_DUMMY_753">false</item>
+    <item type="string" name="APKTOOL_DUMMY_754">false</item>
+    <item type="string" name="APKTOOL_DUMMY_755">false</item>
+    <item type="string" name="APKTOOL_DUMMY_76c">false</item>
+    <item type="string" name="APKTOOL_DUMMY_76d">false</item>
+    <item type="string" name="APKTOOL_DUMMY_788">false</item>
+    <item type="string" name="APKTOOL_DUMMY_79f">false</item>
+    <item type="string" name="APKTOOL_DUMMY_7c2">false</item>
+    <item type="string" name="APKTOOL_DUMMY_7c3">false</item>
+    <item type="string" name="APKTOOL_DUMMY_7f6">false</item>
     <item type="string" name="APKTOOL_DUMMY_80c">false</item>
     <item type="string" name="APKTOOL_DUMMY_80d">false</item>
     <item type="string" name="APKTOOL_DUMMY_80e">false</item>
@@ -2140,6 +2140,7 @@ Tap "<b>Sync Now</b> to sync mail once, or <b>Change Sync Settings</b> to set up
     <item type="string" name="APKTOOL_DUMMY_834">false</item>
     <item type="string" name="APKTOOL_DUMMY_835">false</item>
     <item type="string" name="APKTOOL_DUMMY_836">false</item>
+    <item type="string" name="APKTOOL_DUMMY_837">false</item>
     <item type="string" name="APKTOOL_DUMMY_838">false</item>
     <item type="string" name="APKTOOL_DUMMY_839">false</item>
     <item type="string" name="APKTOOL_DUMMY_83a">false</item>
@@ -2147,7 +2148,14 @@ Tap "<b>Sync Now</b> to sync mail once, or <b>Change Sync Settings</b> to set up
     <item type="string" name="APKTOOL_DUMMY_83c">false</item>
     <item type="string" name="APKTOOL_DUMMY_83d">false</item>
     <item type="string" name="APKTOOL_DUMMY_83e">false</item>
-    <item type="string" name="APKTOOL_DUMMY_83f">false</item>
+    <item type="string" name="APKTOOL_DUMMY_840">false</item>
     <item type="string" name="APKTOOL_DUMMY_841">false</item>
+    <item type="string" name="APKTOOL_DUMMY_842">false</item>
+    <item type="string" name="APKTOOL_DUMMY_843">false</item>
+    <item type="string" name="APKTOOL_DUMMY_844">false</item>
+    <item type="string" name="APKTOOL_DUMMY_845">false</item>
+    <item type="string" name="APKTOOL_DUMMY_846">false</item>
     <item type="string" name="APKTOOL_DUMMY_847">false</item>
+    <item type="string" name="APKTOOL_DUMMY_849">false</item>
+    <item type="string" name="APKTOOL_DUMMY_84f">false</item>
 </resources>

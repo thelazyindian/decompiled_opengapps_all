@@ -411,9 +411,7 @@
     <string name="bcc">Falið afr.</string>
     <string name="bcc_header_for_recipient_summary">"falið afrit: "</string>
     <string name="bcc_heading">Falið:</string>
-    <string name="bd12n_account_settings_permission_summary">Gmail þarf að fá heimild til að birta tilkynningar um leið og þær berast. Þú getur breytt þessu í &lt;a href=%1$s>stillingum tækisins&lt;/a>.</string>
     <string name="bd12n_conversation_push_tip_text">Ýttu til að fá tilkynningu um nýjan tölvupóst þegar hann berst.</string>
-    <string name="bd12n_conversation_tip_text">Leyfðu Gmail að keyra í bakgrunni ef þú vilt fá tilkynningu um nýjan tölvupóst þegar hann berst. &lt;a href=%1$s>Leyfa&lt;/a></string>
     <string name="block_sender_menu_item">Setja á bannlista: %s</string>
     <string name="blocked_sender_spam">Hvers vegna er þetta skeyti í ruslpóstinum? Þú hefur lokað fyrir skeyti sem berast frá &lt;b>%1$s&lt;/b>.</string>
     <string name="body_hint">Skrifa tölvupóst</string>
@@ -423,7 +421,6 @@
     <string name="broadcast_internal_perm_label">innanhússútsending</string>
     <string name="bt_action_archive">Geymsla</string>
     <string name="bt_action_delete">Eyða</string>
-    <string name="bt_action_direct_reply">Skrifa svar</string>
     <string name="bt_action_remove_label">Fjarlægja flokk</string>
     <string name="bt_action_reply">Svara</string>
     <string name="bt_action_reply_all">Svara öllum</string>
@@ -644,6 +641,8 @@
     <string name="email_account_transfer_notification_channel_description">Sýnir tilkynningu þegar verið er að flytja tölvupóstreikninga sem ekki eru á vegum Google yfir í annað tæki.</string>
     <string name="email_account_transfer_notification_channel_name">Flutningur tölvupóstsreiknings úr einu tæki í annað</string>
     <string name="email_account_transfer_notification_title">Flytur tölvupóstreikninga sem ekki eru á vegum Google yfir í annað tæki.</string>
+    <string name="email_confirmation_state_unknown_description">Skeytið kann að hafa verið sent.</string>
+    <string name="email_confirmation_state_unknown_title">Úbbs, við lentum í vandræðum við að tengjast!</string>
     <string name="email_provider_label">Póstur</string>
     <string name="eml_loader_error_toast">Ekki er hægt að opna þessa skrá</string>
     <string name="eml_viewer_subtitle">Skoðari fyrir EML-skrár</string>
@@ -780,7 +779,6 @@
     <string name="gm_i18n_snooze_option_later_today">Síðar í dag</string>
     <string name="gm_i18n_snooze_option_next_week">Í næstu viku</string>
     <string name="gm_i18n_snooze_option_next_weekend">Um næstu helgi</string>
-    <string name="gm_i18n_snooze_option_someday">Síðar</string>
     <string name="gm_i18n_snooze_option_this_week">Í þessari viku</string>
     <string name="gm_i18n_snooze_option_this_weekend">Um þessa helgi</string>
     <string name="gm_i18n_snooze_option_tomorrow">Á morgun</string>
@@ -1052,6 +1050,8 @@
     <string name="notifications_category">Tilkynningar</string>
     <string name="notify_attachment_save_error">Ekki var hægt að vista viðhengið</string>
     <string name="notify_attachment_send_error">Ekki var hægt að senda viðhengið</string>
+    <string name="nudge_dismiss_button_text">HUNSA</string>
+    <string name="nudge_dismiss_success_message">Hnipping hunsuð.</string>
     <string name="oauth_authentication_title">Fer fram á auðkenningu...</string>
     <string name="oauth_error_description">Auðkenning tókst ekki</string>
     <string name="oauth_server_error">Þjónninn er ekki tiltækur, reyndu aftur síðar</string>
@@ -1538,7 +1538,7 @@ Kveikja á reikningstilkynningum?"</string>
     <string name="to_message_header">til %1$s</string>
     <string name="toggle_read_unread">Merkja sem lesið/ólesið</string>
     <string name="too_large_to_attach_multiple">Ein eða fleiri skrár voru ekki hengdar við. Hámarkið er %1$s.</string>
-    <string name="too_large_to_attach_single">Ekki er hægt að hengja við skrá sem er stærri en %1$s.</string>
+    <string name="too_large_to_attach_single">Skrárnar sem þú ert að reyna að senda eru yfir %1$s hámarksstærð viðhengja.</string>
     <string name="trash_folder_selection_title">Veldu möppu fyrir rusl fyrir %s</string>
     <string name="trashed_message_indicator">Þessu skeyti hefur verið eytt</string>
     <string name="turn_auto_sync_on_dialog_body">Breytingar sem þú gerir á öllum forritum og reikningum, ekki bara Gmail, verða samstilltar á milli vefs, annarra tækja og %1$s.</string>

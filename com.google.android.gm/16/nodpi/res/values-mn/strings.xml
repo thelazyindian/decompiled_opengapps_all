@@ -413,9 +413,7 @@
     <string name="auto_send_perm_label">Gmail илгээх</string>
     <string name="auto_sync_off">Автомат синк идэвхгүй байна. Идэвхжүүлэх бол товшино уу.</string>
     <string name="badge_and_subject">%1$s%2$s</string>
-    <string name="bd12n_account_settings_permission_summary">Gmail таны мэдэгдлийг ирмэгц нь хүргэхийн тулд зөвшөөрөл авах шаардлагатай. Та үүнийг &lt;a href=%1$s>төхөөрөмжийн тохиргоо&lt;/a> дотроос өөрчлөх боломжтой.</string>
     <string name="bd12n_conversation_push_tip_text">Шинэ имэйл ирмэгц мэдэгдэл авах бол товшино уу.</string>
-    <string name="bd12n_conversation_tip_text">Шинэ имэйл ирмэгц мэдэгдэл авахыг хүсвэл Gmail-д далд ажиллахыг зөвшөөрнө үү. &lt;a href=%1$s>Зөвшөөрөх&lt;/a></string>
     <string name="block_sender_menu_item">\"%s\"-г хориглох</string>
     <string name="blocked_sender_spam">Энэ зурвас Спам дотор байгаагийн учир нь та &lt;b>%1$s&lt;b>-аас ирэх зурвасыг хаасан байна.</string>
     <string name="body_hint">Имэйл бичих</string>
@@ -425,7 +423,6 @@
     <string name="broadcast_internal_perm_label">дотоод нэвтрүүлэг</string>
     <string name="bt_action_archive">Архив</string>
     <string name="bt_action_delete">Устгах</string>
-    <string name="bt_action_direct_reply">Хариу имэйл бичих</string>
     <string name="bt_action_remove_label">Шошгыг арилгах</string>
     <string name="bt_action_reply">Хариу бичих</string>
     <string name="bt_action_reply_all">Бүгдэд нь хариу бичих</string>
@@ -642,6 +639,8 @@
     <string name="email_account_transfer_notification_channel_description">Таны Google-н бус имэйл бүртгэлүүдийг өөр төхөөрөмж рүү шилжүүлэх үед мэдэгдэл харуулна.</string>
     <string name="email_account_transfer_notification_channel_name">Төхөөрөмжөөс төхөөрөмж рүү имэйл бүртгэл шилжүүлэх</string>
     <string name="email_account_transfer_notification_title">Google-н бус имэйл бүртгэлүүдийг өөр төхөөрөмж рүү шилжүүлж байна.</string>
+    <string name="email_confirmation_state_unknown_description">Таны зурвасыг илгээсэн байж магадгүй.</string>
+    <string name="email_confirmation_state_unknown_title">Уучлаарай, холбогдоход асуудал гарсан!</string>
     <string name="email_provider_label">Мэйл</string>
     <string name="eml_loader_error_toast">Энэ файлыг нээж чадахгүй байна</string>
     <string name="eml_viewer_subtitle">EML зурвас харагч</string>
@@ -777,7 +776,6 @@
     <string name="gm_i18n_snooze_option_later_today">Өнөөдөр оройхон</string>
     <string name="gm_i18n_snooze_option_next_week">Дараагийн долоо хоногт</string>
     <string name="gm_i18n_snooze_option_next_weekend">Дараагийн бямба, нямд</string>
-    <string name="gm_i18n_snooze_option_someday">Хэзээ нэгэн өдөр</string>
     <string name="gm_i18n_snooze_option_this_week">Энэ долоо хоногт</string>
     <string name="gm_i18n_snooze_option_this_weekend">Энэ бямба, нямд</string>
     <string name="gm_i18n_snooze_option_tomorrow">Маргааш</string>
@@ -998,6 +996,7 @@
     <string name="message_priority">Зурвасын ач холбогдол</string>
     <string name="message_queued">Дараалалд орсон</string>
     <string name="message_saved">Зурвасыг ноорогт хадгалав.</string>
+    <string name="message_sent">Илгээсэн</string>
     <string name="message_too_large">Зурвасыг энэ төхөөрөмж дээр нээхэд хэт том байна</string>
     <string name="message_uploading_attachments">Байршуулж байна</string>
     <string name="message_view_forwarded_attachment_background_load">Таны дамжуулсан зурвасын нэг буюу хэд хэдэн хавсралт илгээгдэхээсээ өмнө татагдах болно.</string>
@@ -1049,6 +1048,8 @@
     <string name="notifications_category">Мэдэгдэл</string>
     <string name="notify_attachment_save_error">Хавсралтыг хадгалж чадсангүй</string>
     <string name="notify_attachment_send_error">Хавсралтыг илгээж чадсангүй</string>
+    <string name="nudge_dismiss_button_text">ХААХ</string>
+    <string name="nudge_dismiss_success_message">Шүтлэгийг халсан.</string>
     <string name="oauth_authentication_title">Зөвшөөрөл хүсэж байна...</string>
     <string name="oauth_error_description">Баталгаажуулах боломжгүй</string>
     <string name="oauth_server_error">Серверт холбогдох боломжгүй байна, дараа дахин оролдоно уу</string>
@@ -1536,7 +1537,7 @@
     <string name="to_message_header">%1$s руу</string>
     <string name="toggle_read_unread">Уншсан уншаагүйг сэлгэх</string>
     <string name="too_large_to_attach_multiple">Нэг буюу хэд хэдэн файл хавсрагдаагүй. Хязгаар %1$s.</string>
-    <string name="too_large_to_attach_single">%1$s-аас хэтэрсэн файлыг хавсаргах боломжгүй.</string>
+    <string name="too_large_to_attach_single">Таны илгээх гэж буй файл хавсралтын нийт %1$s хэмжээнээс хэтэрсэн байна.</string>
     <string name="trash_folder_selection_title">%s-ын серверийн хогийн савны фолдерыг сонгоно уу</string>
     <string name="trashed_message_indicator">Энэ зурвасыг устгасан</string>
     <string name="turn_auto_sync_on_dialog_body">Gmail төдөөгүй бүх апп болон бүртгэлд таны хийсэн өөрчлөлтүүд нь вэб болон таны бусад төхөөрөмжүүд, %1$s хооронд синк хийгдэх болно.</string>

@@ -5,9 +5,13 @@
         <ImageView android:layout_gravity="center_vertical" android:id="@id/snooze_banner_icon" android:paddingLeft="@dimen/conversation_header_banner_text_horizontal_padding" android:layout_width="wrap_content" android:layout_height="wrap_content" />
         <TextView android:layout_gravity="center_vertical" android:id="@id/snooze_banner_text" android:layout_width="wrap_content" android:layout_height="wrap_content" style="@style/ConversationSnoozeBannerStyle" />
     </LinearLayout>
+    <LinearLayout android:orientation="horizontal" android:id="@id/nudge_banner" android:background="@color/conversation_view_banner_background_color" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <TextView android:id="@id/nudge_banner_text" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_weight="1.0" style="@style/ConversationBannerTextStyle" />
+        <Button android:id="@id/nudge_dismiss_button" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/nudge_dismiss_button_text" style="@style/ConversationBannerButtonStyle" />
+    </LinearLayout>
     <LinearLayout android:orientation="horizontal" android:id="@id/trashed_messages_banner" android:background="@color/conversation_view_banner_background_color" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content">
         <TextView android:id="@id/trashed_messages_banner_text" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_weight="1.0" style="@style/ConversationBannerTextStyle" />
-        <TextView android:id="@id/trashed_messages_banner_action" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/conversation_invisible_trashed_messages_view_all_action" style="@style/ConversationBannerButtonStyle" />
+        <Button android:id="@id/trashed_messages_banner_action" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/conversation_invisible_trashed_messages_view_all_action" style="@style/ConversationBannerButtonStyle" />
     </LinearLayout>
     <LinearLayout android:orientation="horizontal" android:paddingTop="16.0dip" android:paddingBottom="16.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:minHeight="88.0sp" style="@style/ConversationHeaderStyle">
         <com.android.mail.browse.SubjectAndFolderView android:layout_gravity="center_vertical" android:id="@id/subject_and_folder_view" android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_weight="1.0" style="@style/ConversationSubjectStyle" />

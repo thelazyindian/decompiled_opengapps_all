@@ -408,9 +408,7 @@
     <string name="bcc">ფარული ასლი</string>
     <string name="bcc_header_for_recipient_summary">"უხილავი ასლი: "</string>
     <string name="bcc_heading">უხილავი ასლი:</string>
-    <string name="bd12n_account_settings_permission_summary">Gmail საჭიროებს ნებართვას, რომ გაცნობოთ შეტყობინებების შემოსვლის შესახებ. ეს შეგიძლიათ შეცვალოთ &lt;a href=%1$s>მოწყობილობის პარამეტრებში&lt;/a>.</string>
     <string name="bd12n_conversation_push_tip_text">შეეხეთ ახალი შემოსული ელფოსტის შესახებ შეტყობინებისთვის.</string>
-    <string name="bd12n_conversation_tip_text">მიეცით უფლება Gmail-ს, გაეშვას ფონში, თუ გსურთ, გეცნობოთ ახალი შემოსული ელფოსტის შესახებ. &lt;a href=%1$s>დაშვება&lt;/a></string>
     <string name="block_sender_menu_item">„%s“ დაბლოკვა</string>
     <string name="blocked_sender_spam">რატომ არის ეს შეტყობინება სპამში? თქვენ &lt;b>%1$s&lt;/b>-დან შემომავალი წერილები დაბლოკეთ.</string>
     <string name="body_hint">წერილის დაწერა</string>
@@ -420,7 +418,6 @@
     <string name="broadcast_internal_perm_label">შიდა ტრანსლაცია</string>
     <string name="bt_action_archive">დაარქივება</string>
     <string name="bt_action_delete">წაშლა</string>
-    <string name="bt_action_direct_reply">შეადგინეთ პასუხი</string>
     <string name="bt_action_remove_label">ლეიბლის ამოშა</string>
     <string name="bt_action_reply">პასუხი</string>
     <string name="bt_action_reply_all">პასუხი ყველას</string>
@@ -639,6 +636,8 @@
     <string name="email_account_transfer_notification_channel_description">აჩვენებს შეტყობინებას, როცა არა-Google ელფოსტის ანგარიშების გადატანა ხდება სხვა მოწყობილობაზე.</string>
     <string name="email_account_transfer_notification_channel_name">ელფოსტ. ანგარ. ერთი მოწყ. მეორეზე გადატ.</string>
     <string name="email_account_transfer_notification_title">მიმდინარეობს არა-Google ელფოსტის ანგარიშების სხვა მოწყობილობაზე გადატანა.</string>
+    <string name="email_confirmation_state_unknown_description">შესაძლოა თქვენი შეტყობინება გაგზავნილია.</string>
+    <string name="email_confirmation_state_unknown_title">უკაცრავად, პრობლემების გამო დაკავშირება ვერ ხდება!</string>
     <string name="email_provider_label">ფოსტა</string>
     <string name="eml_loader_error_toast">ამ ფაილის გახსნა ვერ ხერხდება</string>
     <string name="eml_viewer_subtitle">EML შეტყობინების დამთვალიერებელი</string>
@@ -775,7 +774,6 @@
     <string name="gm_i18n_snooze_option_later_today">დღეს მოგვიანებით</string>
     <string name="gm_i18n_snooze_option_next_week">მომავალ კვირაში</string>
     <string name="gm_i18n_snooze_option_next_weekend">მომავალ შაბათ-კვირას</string>
-    <string name="gm_i18n_snooze_option_someday">რომელიმე დღეს</string>
     <string name="gm_i18n_snooze_option_this_week">ამ კვირაში</string>
     <string name="gm_i18n_snooze_option_this_weekend">ამ შაბათ-კვირას</string>
     <string name="gm_i18n_snooze_option_tomorrow">ხვალ</string>
@@ -997,6 +995,7 @@
     <string name="message_priority">შეტყობინების პრიორიტეტი</string>
     <string name="message_queued">რიგშია</string>
     <string name="message_saved">შეტყობინება შენახულია, როგორც მონახაზი.</string>
+    <string name="message_sent">გაგზავნილი</string>
     <string name="message_too_large">შეტყობინება ძალიან დიდია ამ მოწყობილობაზე გასახსნელად</string>
     <string name="message_uploading_attachments">მიმდინარეობს ატვირთვა</string>
     <string name="message_view_forwarded_attachment_background_load">თქვენს გადაგზავნილ შეტყობინების ერთი, ან რამდენიმე დანართი გაგზავნამდე ჩამოიტვირთება.</string>
@@ -1048,6 +1047,8 @@
     <string name="notifications_category">შეტყობინებები</string>
     <string name="notify_attachment_save_error">დანართის შენახვა ვერ მოხერხდა</string>
     <string name="notify_attachment_send_error">დანართის გაგზავნა ვერ მოხერხდა</string>
+    <string name="nudge_dismiss_button_text">უარყოფა</string>
+    <string name="nudge_dismiss_success_message">ბიძგება უარყოფილია.</string>
     <string name="oauth_authentication_title">მიმდინარეობს ავტორიზაციის მოთხოვნა…</string>
     <string name="oauth_error_description">ავტორიზაცია ვერ ხერხდება</string>
     <string name="oauth_server_error">სერვერი მიუწვდომელია. გთხოვთ, სცადოთ მოგვიანებით</string>
@@ -1534,7 +1535,7 @@
     <string name="to_message_header">მიმღები: %1$s</string>
     <string name="toggle_read_unread">წაკითხულის / წაუკითხავის გადართვა</string>
     <string name="too_large_to_attach_multiple">ვერ მოხერხდა ერთი ან რამდენიმე ფაილის მიმაგრება. ლიმიტი %1$s.</string>
-    <string name="too_large_to_attach_single">%1$s-ზე დიდი ფაილის მიბმა შეუძლებელია.</string>
+    <string name="too_large_to_attach_single">ფაილების ზომა, რომლების გაგზავნასაც ცდილობთ, აღემატება %1$s-ს, დანართის საერთო ლიმიტს.</string>
     <string name="trash_folder_selection_title">სერვერზე წაშლილების საქაღალდის არჩევა %s-ისთვის</string>
     <string name="trashed_message_indicator">ეს შეტყობინება წაიშალა</string>
     <string name="turn_auto_sync_on_dialog_body">ცვლილებები, რომლებსაც თქვენ ახორციელებთ ყველა აპსა და ანგარიშში, და არა მხოლოდ Gmail-ში, სინქრონიზებული იქნება ვებს, თქვენს სხვა მოწყობილობებსა და%1$s-ს შორის.</string>

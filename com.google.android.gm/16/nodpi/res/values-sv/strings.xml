@@ -411,9 +411,7 @@
     <string name="bcc">Hemlig kopia</string>
     <string name="bcc_header_for_recipient_summary">"Hemlig kopia: "</string>
     <string name="bcc_heading">Heml kop:</string>
-    <string name="bd12n_account_settings_permission_summary">Du behöver ge Gmail behörighet att leverera aviseringarna när de kommer. Du kan ändra detta i &lt;a href=%1$s>enhetsinställningarna&lt;/a>.</string>
     <string name="bd12n_conversation_push_tip_text">Tryck om du vill få aviseringar om nya e-postmeddelanden när de tas emot.</string>
-    <string name="bd12n_conversation_tip_text">Tillåt att Gmail körs i bakgrunden om du vill få aviseringar om nya e-postmeddelanden när de tas emot. &lt;a href=%1$s>Tillåt&lt;/a></string>
     <string name="block_sender_menu_item">Blockera ”%s”</string>
     <string name="blocked_sender_spam">Varför hamnade meddelandet i skräpposten? Du har blockerat inkommande meddelanden från &lt;b>%1$s&lt;/b>.</string>
     <string name="body_hint">Skriv ett e-postmeddelande</string>
@@ -423,7 +421,6 @@
     <string name="broadcast_internal_perm_label">intern sändning</string>
     <string name="bt_action_archive">Arkiv</string>
     <string name="bt_action_delete">Radera</string>
-    <string name="bt_action_direct_reply">Skriv svar</string>
     <string name="bt_action_remove_label">Ta bort etikett</string>
     <string name="bt_action_reply">Svara</string>
     <string name="bt_action_reply_all">Svara alla</string>
@@ -646,6 +643,8 @@
     <string name="email_account_transfer_notification_channel_description">En avisering visas när e-postkonton som inte är från Google överförs till en annan enhet.</string>
     <string name="email_account_transfer_notification_channel_name">Överföring av e-postkonto mellan enheter</string>
     <string name="email_account_transfer_notification_title">E-postkonton som inte är från Google överförs till en annan enhet.</string>
+    <string name="email_confirmation_state_unknown_description">Ditt meddelande kan ha skickats.</string>
+    <string name="email_confirmation_state_unknown_title">Hoppsan! Det blev problem med anslutningen.</string>
     <string name="email_provider_label">E-post</string>
     <string name="eml_loader_error_toast">Det går inte att öppna den här filen.</string>
     <string name="eml_viewer_subtitle">Visningsprogram för EML-meddelande</string>
@@ -784,7 +783,6 @@
     <string name="gm_i18n_snooze_option_later_today">till senare i dag</string>
     <string name="gm_i18n_snooze_option_next_week">till nästa vecka</string>
     <string name="gm_i18n_snooze_option_next_weekend">Nästa helg</string>
-    <string name="gm_i18n_snooze_option_someday">Tills vidare</string>
     <string name="gm_i18n_snooze_option_this_week">Den här veckan</string>
     <string name="gm_i18n_snooze_option_this_weekend">Den här helgen</string>
     <string name="gm_i18n_snooze_option_tomorrow">till i morgon</string>
@@ -1006,6 +1004,7 @@
     <string name="message_priority">Meddelandeprioritet</string>
     <string name="message_queued">Placerat i kö</string>
     <string name="message_saved">Meddelande sparat som utkast.</string>
+    <string name="message_sent">Skickat</string>
     <string name="message_too_large">Meddelandet är för stort för att öppnas på enheten</string>
     <string name="message_uploading_attachments">Laddas upp</string>
     <string name="message_view_forwarded_attachment_background_load">En eller flera bilagor i det vidarebefordrade meddelandet laddas ned innan det skickas.</string>
@@ -1057,6 +1056,8 @@
     <string name="notifications_category">Aviseringar</string>
     <string name="notify_attachment_save_error">Det gick inte att spara bilagan</string>
     <string name="notify_attachment_send_error">Det gick inte att skicka bilagan</string>
+    <string name="nudge_dismiss_button_text">IGNORERA</string>
+    <string name="nudge_dismiss_success_message">Knuffen ignorerades.</string>
     <string name="oauth_authentication_title">Begär auktorisering …</string>
     <string name="oauth_error_description">Det gick inte att autentisera</string>
     <string name="oauth_server_error">Servern är inte tillgänglig. Försök igen senare</string>
@@ -1545,7 +1546,7 @@ Aktivera genom att trycka."</string>
     <string name="to_message_header">till %1$s</string>
     <string name="toggle_read_unread">Växla mellan läst/oläst</string>
     <string name="too_large_to_attach_multiple">En eller flera filer bifogades inte. Gränsen är %1$s.</string>
-    <string name="too_large_to_attach_single">Det går inte att bifoga filer som är större än %1$s.</string>
+    <string name="too_large_to_attach_single">De filer du försöker skicka överskrider gränsen på %1$s för bilagor.</string>
     <string name="trash_folder_selection_title">Välj mapp för papperskorgen på servern för %s</string>
     <string name="trashed_message_indicator">Meddelandet har tagits bort</string>
     <string name="turn_auto_sync_on_dialog_body">Ändringar som du gör i alla appar och konton, inte bara i Gmail, synkroniseras mellan webben, dina andra enheter och din %1$s.</string>

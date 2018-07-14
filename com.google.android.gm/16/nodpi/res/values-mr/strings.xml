@@ -408,8 +408,7 @@
     <string name="auto_send_perm_desc">Gmail अॅप न उघडता Gmail मेसेज पाठविण्यासाठी अॅप ला अनुमती देते.</string>
     <string name="auto_send_perm_label">Gmail पाठवा</string>
     <string name="auto_sync_off">स्वयं-संकालन बंद आहे. चालू करण्यासाठी टॅप करा.</string>
-    <string name="bd12n_account_settings_permission_summary">तुमच्या सूचना आल्या-आल्या त्या पोहोचवण्यासाठी Gmail ला तुमच्या परवानगीची आवश्यकता आहे. तुम्ही हे &lt;a href=%1$s>डिव्हाइस सेटिंग्ज&lt;/a> मधून बदलू शकता.</string>
-    <string name="bd12n_conversation_tip_text">नवीन ईमेल आल्या-आल्या त्याबद्दल तुम्हाला सूचना मिळवायच्या असल्यास Gmail ला बॅकग्राउंडला रन होऊ द्या. &lt;a href=%1$s>परवानगी द्या&lt;/a></string>
+    <string name="bd12n_conversation_push_tip_text">नवीन ईमेल आल्यावर सूचित केले जाण्यासाठी टॅप करा.</string>
     <string name="block_sender_menu_item">\"%s\" अवरोधित करा</string>
     <string name="blocked_sender_spam">हा मेसेज स्पॅममध्ये का आहे? तुम्ही &lt;b>%1$s&lt;/b> कडून येणारे मेसेज ब्लॉक केले आहेत.</string>
     <string name="body_hint">ईमेल तयार करा</string>
@@ -419,7 +418,6 @@
     <string name="broadcast_internal_perm_label">अंतर्गत प्रसारण</string>
     <string name="bt_action_archive">संग्रहण करा</string>
     <string name="bt_action_delete">हटवा</string>
-    <string name="bt_action_direct_reply">उत्तर तयार करा</string>
     <string name="bt_action_remove_label">लेबल काढून टाका</string>
     <string name="bt_action_reply">उतर द्या</string>
     <string name="bt_action_reply_all">सर्वांना उत्तर द्या</string>
@@ -633,6 +631,8 @@
     <string name="email_account_transfer_notification_channel_description">तुमची बिगर-Google खाती दुसर्‍या डिव्हाइसवर ट्रांसफर केली जात असताना एक सूचना दाखवते.</string>
     <string name="email_account_transfer_notification_channel_name">डिव्हाइस-ते-डिव्हाइस ईमेल खाते ट्रांसफर</string>
     <string name="email_account_transfer_notification_title">बिगर-Google खाती दुसर्‍या डिव्हाइसवर ट्रांसफर करत आहे.</string>
+    <string name="email_confirmation_state_unknown_description">तुमचा मेसेज पाठवला गेला असू शकतो.</string>
+    <string name="email_confirmation_state_unknown_title">अरेरे, कनेक्ट करताना आम्हाला समस्या आल्या होत्या!</string>
     <string name="email_provider_label">मेल</string>
     <string name="eml_loader_error_toast">ही फाईल उघडू शकत नाही</string>
     <string name="eml_viewer_subtitle">EML मेसेज दर्शक</string>
@@ -768,7 +768,6 @@
     <string name="gm_i18n_snooze_option_later_today">आज नंतर</string>
     <string name="gm_i18n_snooze_option_next_week">पुढील आठवड्यात</string>
     <string name="gm_i18n_snooze_option_next_weekend">पुढील शनिवार व रविवार</string>
-    <string name="gm_i18n_snooze_option_someday">एखाद्या दिवशी</string>
     <string name="gm_i18n_snooze_option_this_week">या आठवड्यात</string>
     <string name="gm_i18n_snooze_option_this_weekend">या शनिवार रविवारी</string>
     <string name="gm_i18n_snooze_option_tomorrow">उद्या</string>
@@ -987,6 +986,7 @@
     <string name="message_priority">मेसेज प्राधान्य</string>
     <string name="message_queued">रांगेत लावलेला</string>
     <string name="message_saved">मसुदा म्हणून मेसेज सेव्ह केला.</string>
+    <string name="message_sent">पाठवला</string>
     <string name="message_too_large">या डिव्हाइसवर मेसेज उघडण्यासाठी खूप मोठा आहे</string>
     <string name="message_uploading_attachments">अपलोड होत आहे</string>
     <string name="message_view_forwarded_attachment_background_load">आपल्या अग्रेषित केलेल्या संदेशामधील एक किंवा अधिक संलग्नके पाठविण्यापूर्वी डाउनलोड केले जातील.</string>
@@ -1038,6 +1038,8 @@
     <string name="notifications_category">सूचना</string>
     <string name="notify_attachment_save_error">संलग्नक सेव्ह करू शकलो नाही</string>
     <string name="notify_attachment_send_error">संलग्नक पाठवू शकलो नाही</string>
+    <string name="nudge_dismiss_button_text">डिसमिस करा</string>
+    <string name="nudge_dismiss_success_message">नज डिसमिस केले आहे</string>
     <string name="oauth_authentication_title">प्राधिकृत करण्याची विनंती करत आहे...</string>
     <string name="oauth_error_description">प्रमाणीकृत करण्यात अक्षम</string>
     <string name="oauth_server_error">सर्व्हर अनुपलब्ध आहे, कृपया नंतर पुन्हा प्रयत्न करा</string>
@@ -1526,7 +1528,7 @@
     <string name="to_message_header">प्रति %1$s</string>
     <string name="toggle_read_unread">वाचलेले न वाचलेले टॉगल करा</string>
     <string name="too_large_to_attach_multiple">एक किंवा अधिक फायली संलग्न केल्या नाहीत. %1$s मर्यादित करा.</string>
-    <string name="too_large_to_attach_single">%1$sपेक्षा मोठी फाइल संलग्न करू शकत नाही.</string>
+    <string name="too_large_to_attach_single">तुम्ही पाठविण्याचा प्रयत्न करत असलेल्या फायलींनी %1$s एकूण अटॅचमेंट मर्यादा ओलांडली आहे.</string>
     <string name="trash_folder_selection_title">%s साठी सर्व्हर कचरा फोल्डर निवडा</string>
     <string name="trashed_message_indicator">हा मेसेज हलवला गेला आहे</string>
     <string name="turn_auto_sync_on_dialog_body">फक्त Gmail मध्ये नाही, तर आपण सर्व अॅप्स आणि खात्यांमध्ये करता ते बदल, वेब, तुमचे अन्य डिव्हाइसेस आणि तुमचा %1$s या दरम्यान संकालित केले जातील.</string>

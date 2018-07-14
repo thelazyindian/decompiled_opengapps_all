@@ -415,9 +415,7 @@
     <string name="bcc">UDW</string>
     <string name="bcc_header_for_recipient_summary">"UDW: "</string>
     <string name="bcc_heading">UDW:</string>
-    <string name="bd12n_account_settings_permission_summary">Gmail musi mieć odpowiednie uprawnienia, aby dostarczać przychodzące powiadomienia. Możesz to zmienić w &lt;a href=%1$s>ustawieniach urządzenia&lt;/a>.</string>
     <string name="bd12n_conversation_push_tip_text">Kliknij, jeśli chcesz otrzymywać powiadomienia o nowych e-mailach.</string>
-    <string name="bd12n_conversation_tip_text">Pozwól Gmailowi działać w tle, jeśli chcesz otrzymywać powiadomienia o nowych e-mailach. &lt;a href=%1$s>Pozwól&lt;/a></string>
     <string name="block_sender_menu_item">Zablokuj użytkownika „%s”</string>
     <string name="blocked_sender_spam">Dlaczego ta wiadomość jest w Spamie? Wiadomości wysyłane z adresu &lt;b>%1$s&lt;/b> zostały przez Ciebie zablokowane.</string>
     <string name="body_hint">Napisz e-maila</string>
@@ -427,7 +425,6 @@
     <string name="broadcast_internal_perm_label">wewnętrzne rozgłaszanie</string>
     <string name="bt_action_archive">Archiwizuj</string>
     <string name="bt_action_delete">Usuń</string>
-    <string name="bt_action_direct_reply">Napisz odpowiedź</string>
     <string name="bt_action_remove_label">Usuń etykietę</string>
     <string name="bt_action_reply">Odpowiedz</string>
     <string name="bt_action_reply_all">Odpowiedz wszystkim</string>
@@ -651,6 +648,8 @@
     <string name="email_account_transfer_notification_channel_description">Wyświetla przypomnienie, kiedy Twoje konta pocztowe (poza Gmailem) są przenoszone na inne urządzenie.</string>
     <string name="email_account_transfer_notification_channel_name">Przenoszenie kont pocztowych na inne urządzenie</string>
     <string name="email_account_transfer_notification_title">Przenoszenie kont pocztowych (poza Gmailem) na inne urządzenie.</string>
+    <string name="email_confirmation_state_unknown_description">Wiadomość mogła zostać wysłana.</string>
+    <string name="email_confirmation_state_unknown_title">Wystąpił problem z połączeniem.</string>
     <string name="email_provider_label">Poczta</string>
     <string name="eml_loader_error_toast">Nie można otworzyć tego pliku</string>
     <string name="eml_viewer_subtitle">Przeglądarka wiadomości eml</string>
@@ -788,7 +787,6 @@
     <string name="gm_i18n_snooze_option_later_today">Dzisiaj</string>
     <string name="gm_i18n_snooze_option_next_week">Następny tydzień</string>
     <string name="gm_i18n_snooze_option_next_weekend">Następny weekend</string>
-    <string name="gm_i18n_snooze_option_someday">Kiedyś</string>
     <string name="gm_i18n_snooze_option_this_week">Bieżący tydzień</string>
     <string name="gm_i18n_snooze_option_this_weekend">Najbliższy weekend</string>
     <string name="gm_i18n_snooze_option_tomorrow">Jutro</string>
@@ -1009,6 +1007,7 @@
     <string name="message_priority">Priorytet wiadomości</string>
     <string name="message_queued">W kolejce</string>
     <string name="message_saved">Wiadomość została zapisana jako wersja robocza.</string>
+    <string name="message_sent">Wysłano</string>
     <string name="message_too_large">Wiadomość jest zbyt duża, aby ją otworzyć na tym urządzeniu</string>
     <string name="message_uploading_attachments">Przesyłam</string>
     <string name="message_view_forwarded_attachment_background_load">Co najmniej jeden załącznik w przekazywanej wiadomości zostanie pobrany przed wysłaniem.</string>
@@ -1060,6 +1059,8 @@
     <string name="notifications_category">Powiadomienia</string>
     <string name="notify_attachment_save_error">Nie udało się zapisać załącznika</string>
     <string name="notify_attachment_send_error">Nie udało się wysłać załącznika</string>
+    <string name="nudge_dismiss_button_text">ODRZUĆ</string>
+    <string name="nudge_dismiss_success_message">Ponaglenie odrzucone.</string>
     <string name="oauth_authentication_title">Proszę o autoryzację…</string>
     <string name="oauth_error_description">Nie można uwierzytelnić</string>
     <string name="oauth_server_error">Serwer jest niedostępny, spróbuj ponownie później</string>
@@ -1202,7 +1203,7 @@ Zmienić tę wartość na „Wszystko”?"</string>
 Włączyć je?"</string>
     <string name="preferences_license_title">Licencje open source</string>
     <string name="preferences_manage_important_section_label_title">Sekcja Ważne w Odebranych – powiadomienia</string>
-    <string name="preferences_manage_inbox_label_title">Odebrane – powiadomienia</string>
+    <string name="preferences_manage_inbox_label_title">Powiadomienia Odebranych</string>
     <string name="preferences_manage_labels_title">Zarządzaj etykietami</string>
     <string name="preferences_manage_notifications_title">Zarządzanie powiadomieniami</string>
     <string name="preferences_manage_priority_inbox_label_title">Sekcja Priorytety w Odebranych – powiadomienia</string>
@@ -1550,7 +1551,7 @@ Kliknij, by ją włączyć."</string>
     <string name="to_message_header">do %1$s</string>
     <string name="toggle_read_unread">Przełącz przeczytane/nieprzeczytane</string>
     <string name="too_large_to_attach_multiple">Co najmniej jeden plik nie został załączony. Limit wynosi %1$s.</string>
-    <string name="too_large_to_attach_single">Nie można załączyć pliku większego niż %1$s.</string>
+    <string name="too_large_to_attach_single">Pliki, które próbujesz wysłać, przekraczają limit rozmiaru załączników, czyli %1$s MB.</string>
     <string name="trash_folder_selection_title">Wybierz kosz na serwerze dla: %s</string>
     <string name="trashed_message_indicator">Ta wiadomość została usunięta</string>
     <string name="turn_auto_sync_on_dialog_body">Synchronizacja zmian, które wprowadzisz nie tylko w Gmailu, ale też we wszystkich aplikacjach i na wszystkich kontach, obejmie internet, Twoje pozostałe urządzenia i Twój %1$s.</string>

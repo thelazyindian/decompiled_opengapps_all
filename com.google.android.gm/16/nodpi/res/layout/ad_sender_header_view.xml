@@ -11,6 +11,7 @@
         </LinearLayout>
         <com.android.mail.browse.StarView android:layout_gravity="center_vertical" android:id="@id/star_ad" android:src="@drawable/star" style="@style/MessageHeaderActionButtonStyle" />
         <ImageView android:layout_gravity="center_vertical" android:id="@id/forward_ad" android:src="@drawable/quantum_ic_forward_grey600_24" android:contentDescription="@string/forward" style="@style/MessageHeaderActionButtonStyle" />
+        <TextView android:textSize="@dimen/ad_body_cta_font_size" android:textColor="@color/conversation_view_text_color_link_blue" android:layout_gravity="center_vertical" android:id="@id/ad_body_cta" android:clickable="true" android:layout_width="wrap_content" android:layout_height="wrap_content" android:minWidth="@dimen/ad_body_cta_min_width" />
     </LinearLayout>
     <include android:layout_gravity="center_vertical" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/ad_wta_tooltip_body_margin_top" layout="@layout/ad_wta_tooltip_view" style="@style/AdBodyWtaTooltipStyle" />
     <include android:id="@id/ad_sender_header_border" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="@dimen/divider_height" android:layout_marginTop="12.0dip" android:layout_marginBottom="16.0dip" layout="@layout/conversation_view_border" />

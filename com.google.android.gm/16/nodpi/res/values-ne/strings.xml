@@ -406,8 +406,7 @@
     <string name="bcc">गुप्त बोधार्थ</string>
     <string name="bcc_header_for_recipient_summary">"गुप्त बोधार्थ: "</string>
     <string name="bcc_heading">गुप्त बोधार्थ:</string>
-    <string name="bd12n_account_settings_permission_summary">Gmail लाई तपाईंका सूचनाहरू आएपछि तिनीहरूलाई डेलिभर गर्न अनुमति आवश्यक पर्छ। तपाईं यसलाई &lt;a href=%1$s>यन्त्रका सेटिङहरू&lt;/a> मा गई बदल्न सक्नुहुन्छ।</string>
-    <string name="bd12n_conversation_tip_text">नयाँ इमेलहरू आउँदा तिनीहरूबारे आफूलई सूचित गरियोस् भन्ने चाहनुहुन्छ भने Gmail लाई पृष्ठभूमिमा चल्न दिनुहोस्। &lt;a href=%1$s>अनुमति दिनुहोस्&lt;/a></string>
+    <string name="bd12n_conversation_push_tip_text">नयाँ इमेलहरू आउँदा तिनीहरूबारे आफूलाई सूचित गराइनका लागि ट्याप गर्नुहोस्।</string>
     <string name="block_sender_menu_item">\"%s\" माथि रोक लगाउनुहोस्</string>
     <string name="blocked_sender_spam">यो सन्देश किन स्प्याममा छ? तपाईंले &lt;b>%1$s&lt;/b> बाट आउने सन्देशहरूमाथि रोक लगाउनुभएको छ।</string>
     <string name="body_hint">इमेल रचना गर्नुहोस्</string>
@@ -417,7 +416,6 @@
     <string name="broadcast_internal_perm_label">आन्तरिक प्रसारण</string>
     <string name="bt_action_archive">अभिलेख राख्नुहोस्</string>
     <string name="bt_action_delete">मेट्नुहोस्</string>
-    <string name="bt_action_direct_reply">जवाफ लेख्नुहोस्</string>
     <string name="bt_action_remove_label">लेबलहरू हटाउनुहोस्</string>
     <string name="bt_action_reply">जवाफ दिनुहोस्</string>
     <string name="bt_action_reply_all">सबैलाई जवाफ पठाउनुहोस्</string>
@@ -633,9 +631,11 @@
     <string name="edit_quick_response_dialog">द्रुत जवाफ</string>
     <string name="edit_settings_option_subtitle">खातालाई म्यानुअल रूपमा कन्फिगर गर्नुहोस्</string>
     <string name="edit_settings_option_title">विवरणहरूलाई सम्पादन गर्नुहोस्</string>
-    <string name="email_account_transfer_notification_channel_description">तपाईंका गैर Google इमेल खाताहरू अर्को यन्त्रमा स्थानान्तरण भइरहेको बेला सूचना देखाउँछ।</string>
+    <string name="email_account_transfer_notification_channel_description">तपाईंका Google का बाहेकका इमेल खाताहरू अर्को यन्त्रमा स्थानान्तरण भइरहेको बेला सूचना देखाउँछ।</string>
     <string name="email_account_transfer_notification_channel_name">यन्त्रबाट यन्त्रमा इमेल खाता स्थानान्तरण गर्ने प्रक्रिया</string>
     <string name="email_account_transfer_notification_title">गैर Google इमेल खाताहरू अर्को यन्त्रमा स्थानान्तरण गरिँदै छ।</string>
+    <string name="email_confirmation_state_unknown_description">तपाईंको सन्देश पठाइएको हुनसक्छ</string>
+    <string name="email_confirmation_state_unknown_title">हत्तेरिका, हामीलाई जडान गर्दा समस्याहरू भएका थिए!</string>
     <string name="email_provider_label">मेल</string>
     <string name="eml_loader_error_toast">यो फाइल खोल्न सकिंदैन</string>
     <string name="eml_viewer_subtitle">EML सन्देश दर्शक</string>
@@ -771,7 +771,6 @@
     <string name="gm_i18n_snooze_option_later_today">आज केही समयपछि</string>
     <string name="gm_i18n_snooze_option_next_week">अर्को हप्ता</string>
     <string name="gm_i18n_snooze_option_next_weekend">अर्को सप्ताहन्तमा</string>
-    <string name="gm_i18n_snooze_option_someday">कुनै दिन</string>
     <string name="gm_i18n_snooze_option_this_week">यो हप्ता</string>
     <string name="gm_i18n_snooze_option_this_weekend">यो सप्ताहन्तमा</string>
     <string name="gm_i18n_snooze_option_tomorrow">भोलि</string>
@@ -991,6 +990,7 @@
     <string name="message_priority">सन्देशको प्राथमिकता</string>
     <string name="message_queued">लाममा राखियो</string>
     <string name="message_saved">सन्देश ड्राफ्टको रूपमा सुरक्षित गरियो।</string>
+    <string name="message_sent">इमेल पठाइयो</string>
     <string name="message_too_large">सन्देशको आकार यस यन्त्रमा खुल्न सक्ने भन्दा निकै ठुलो छ ।</string>
     <string name="message_uploading_attachments">अपलोड हुँदै</string>
     <string name="message_view_forwarded_attachment_background_load">तपाईंको फर्वार्ड गरिएको सन्देशमा समावेश गरिएका एक वा बढी वस्तुहरूलाई पठाउनुभन्दा अघि डाउनलोड गरिने छ।</string>
@@ -1042,6 +1042,8 @@
     <string name="notifications_category">सूचनाहरू</string>
     <string name="notify_attachment_save_error">एट्याचमेन्ट सुरक्षित गर्न सकेन</string>
     <string name="notify_attachment_send_error">एट्याचमेन्ट पठाउन सकेन</string>
+    <string name="nudge_dismiss_button_text">खारेज गर्नुहोस्</string>
+    <string name="nudge_dismiss_success_message">नज खारेज गरियो।</string>
     <string name="oauth_authentication_title">प्रमाणीकरणका लागि अनुरोध गर्दै…</string>
     <string name="oauth_error_description">प्रमाणीकरण गर्न असमर्थ</string>
     <string name="oauth_server_error">सर्भर उपलब्ध छैन, कृपया पछि फेरि प्रयास गर्नुहोस्</string>
@@ -1529,7 +1531,7 @@
     <string name="to_message_header">%1$s लाई</string>
     <string name="toggle_read_unread">टगल पठित अपठित</string>
     <string name="too_large_to_attach_multiple">एक वा धेरै फाइल संलग्न गरिएको छैन। सीमा %1$s।</string>
-    <string name="too_large_to_attach_single">%1$s भन्दा ठूलो फाइललाई संलग्न गर्न सकिदैन।</string>
+    <string name="too_large_to_attach_single">तपाईंले पठाउन खोजिरहनुभएको फाइलले संलग्न वस्तुको कुल सीमा अर्थात् %1$s नाघ्छ</string>
     <string name="trash_folder_selection_title">%s को लागि सर्भर रद्दीटोकरी फोल्डर चयन गर्नुहोस्</string>
     <string name="trashed_message_indicator">यो सन्देश मेटाइएको छ</string>
     <string name="turn_auto_sync_on_dialog_body">Gmail मा मात्र नभई सबै अनुप्रयोगहरू र खाताहरूमा गरिएका परिवर्तनहरू वेब, तपाईंको अन्य उपकरणहरू र तपाईंको %1$s को बीचमा सिंक गरिनेछ।</string>

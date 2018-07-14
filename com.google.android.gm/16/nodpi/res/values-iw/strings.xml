@@ -416,9 +416,7 @@
     <string name="bcc">עותק מוסתר</string>
     <string name="bcc_header_for_recipient_summary">"עותק מוסתר: "</string>
     <string name="bcc_heading">עותק מוסתר:</string>
-    <string name="bd12n_account_settings_permission_summary">‏Gmail זקוק להרשאה כדי לשלוח את ההתראות כשהן מגיעות. ניתן לשנות זאת ב &lt;a href=%1$s>הגדרות המכשיר&lt;/a>.</string>
     <string name="bd12n_conversation_push_tip_text">יש להקיש כדי לקבל התראות על הודעות אימייל חדשות שמתקבלות.</string>
-    <string name="bd12n_conversation_tip_text">‏כדי לקבל התראות על הודעות אימייל חדשות שמתקבלות, צריך לאפשר ל-Gmail לפעול ברקע. &lt;a href=%1$s>לאישור הפעלה ברקע&lt;/a></string>
     <string name="block_sender_menu_item">חסום את \"%s\"</string>
     <string name="blocked_sender_spam">‏למה ההודעה הזו נמצאת בספאם? חסמת הודעות חדשות מ-&lt;b>%1$s&lt;/b>.</string>
     <string name="body_hint">כתיבת אימייל</string>
@@ -428,7 +426,6 @@
     <string name="broadcast_internal_perm_label">שידור פנימי</string>
     <string name="bt_action_archive">העברה לארכיון</string>
     <string name="bt_action_delete">מחיקה</string>
-    <string name="bt_action_direct_reply">כתיבת תשובה</string>
     <string name="bt_action_remove_label">הסרת תווית</string>
     <string name="bt_action_reply">תשובה</string>
     <string name="bt_action_reply_all">תשובה לכולם</string>
@@ -652,6 +649,8 @@
     <string name="email_account_transfer_notification_channel_description">‏הצגת הודעה כאשר חשבונות אימייל שאינם ב-Google מועברים למכשיר אחר.</string>
     <string name="email_account_transfer_notification_channel_name">העברת חשבון אימייל ממכשיר למכשיר</string>
     <string name="email_account_transfer_notification_title">‏העברת חשבונות אימייל שאינם ב-Gmail למכשיר אחר.</string>
+    <string name="email_confirmation_state_unknown_description">ייתכן שההודעה שלך נשלחה.</string>
+    <string name="email_confirmation_state_unknown_title">אופס, נתקלנו בבעיות בהתחברות.</string>
     <string name="email_provider_label">דואר</string>
     <string name="eml_loader_error_toast">לא ניתן לפתוח את הקובץ הזה</string>
     <string name="eml_viewer_subtitle">‏מציג הודעות EML</string>
@@ -790,7 +789,6 @@
     <string name="gm_i18n_snooze_option_later_today">יותר מאוחר היום</string>
     <string name="gm_i18n_snooze_option_next_week">בשבוע הבא</string>
     <string name="gm_i18n_snooze_option_next_weekend">בסוף השבוע הבא</string>
-    <string name="gm_i18n_snooze_option_someday">מתישהו</string>
     <string name="gm_i18n_snooze_option_this_week">השבוע</string>
     <string name="gm_i18n_snooze_option_this_weekend">בסוף השבוע הזה</string>
     <string name="gm_i18n_snooze_option_tomorrow">מחר</string>
@@ -1013,6 +1011,7 @@
     <string name="message_priority">עדיפות ההודעה</string>
     <string name="message_queued">ממתינה בתור</string>
     <string name="message_saved">ההודעה נשמרה כטיוטה.</string>
+    <string name="message_sent">ההודעה נשלחה</string>
     <string name="message_too_large">ההודעה גדולה מדי ולא ניתן לפתוח אותה במכשיר הזה</string>
     <string name="message_uploading_attachments">מתבצעת העלאה</string>
     <string name="message_view_forwarded_attachment_background_load">לפני שההודעה שאתה מעביר תישלח, המערכת תוריד אחד או יותר מהקבצים המצורפים אליה.</string>
@@ -1064,6 +1063,8 @@
     <string name="notifications_category">התראות</string>
     <string name="notify_attachment_save_error">לא ניתן היה לשמור את הקובץ המצורף</string>
     <string name="notify_attachment_send_error">לא ניתן היה לשלוח את הקובץ המצורף</string>
+    <string name="nudge_dismiss_button_text">סגירה</string>
+    <string name="nudge_dismiss_success_message">הנדנוד בוטל.</string>
     <string name="oauth_authentication_title">מתבצעת בקשת הרשאה…</string>
     <string name="oauth_error_description">לא ניתן לאמת</string>
     <string name="oauth_server_error">השרת אינו זמין. נסה שוב מאוחר יותר.</string>
@@ -1554,7 +1555,7 @@
     <string name="to_message_header">אל %1$s</string>
     <string name="toggle_read_unread">"החלפת מצב בין 'נקרא' ו'לא נקרא'"</string>
     <string name="too_large_to_attach_multiple">קובץ אחד או יותר לא צורפו. המגבלה היא %1$s.</string>
-    <string name="too_large_to_attach_single">לא ניתן לצרף קובץ שגודלו עולה על %1$s.</string>
+    <string name="too_large_to_attach_single">הקבצים שצירפת חורגים ממגבלת הגודל של קבצים מצורפים, %1$s.</string>
     <string name="trash_folder_selection_title">בחר את תיקיית האשפה של השרת בשביל %s</string>
     <string name="trashed_message_indicator">ההודעה נמחקה</string>
     <string name="turn_auto_sync_on_dialog_body">‏שינויים שתבצע בכל האפליקציות והחשבונות, ולא רק ב-Gmail, יסונכרנו בין האינטרנט, המכשירים האחרים שלך וה%1$s שלך.</string>

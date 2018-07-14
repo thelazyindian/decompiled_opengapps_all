@@ -404,8 +404,7 @@
     <string name="auto_send_perm_desc">ਐਪ ਨੂੰ Gmail ਐਪ ਖੋਲ੍ਹੇ ਬਿਨਾਂ Gmail ਸੰਦੇਸ਼ ਭੇਜਣ ਦੀ ਇਜਾਜ਼ਤ ਦਿੰਦੀ ਹੈ।</string>
     <string name="auto_send_perm_label">Gmail ਭੇਜੋ</string>
     <string name="auto_sync_off">ਸਵੈ-ਸਮਕਾਲੀਕਰਨ ਬੰਦ ਹੈ। ਚਾਲੂ ਕਰਨ ਲਈ ਟੈਪ ਕਰੋ।</string>
-    <string name="bd12n_account_settings_permission_summary">ਤੁਹਾਡੀਆਂ ਸੂਚਨਾਵਾਂ ਆਉਣ ਸਾਰ ਡਿਲੀਵਰ ਕਰਨ ਲਈ Gmail ਨੂੰ ਇਜਾਜ਼ਤ ਦੀ ਲੋੜ ਹੈ। ਤੁਸੀਂ ਇਸ ਨੂੰ &lt;a href=%1$s>ਡੀਵਾਈਸ ਸੈਟਿੰਗਾਂ&lt;/a> ਵਿੱਚ ਬਦਲ ਸਕਦੇ ਹੋ।</string>
-    <string name="bd12n_conversation_tip_text">ਜੇਕਰ ਤੁਸੀਂ ਨਵੀਆਂ ਈਮੇਲਾਂ ਦੇ ਆਉਣ ਸਾਰ ਸੂਚਿਤ ਹੋਣਾ ਚਾਹੁੰਦੇ ਹੋ ਤਾਂ Gmail ਨੂੰ ਬੈਕਗ੍ਰਾਊਂਡ ਵਿੱਚ ਚੱਲਣ ਦਿਓ। &lt;a href=%1$s>ਚੱਲਣ ਦਿਓ&lt;/a></string>
+    <string name="bd12n_conversation_push_tip_text">ਨਵੀਆਂ ਈਮੇਲਾਂ ਦੇ ਆਉਣ ਸਾਰ ਸੂਚਿਤ ਹੋਣ ਲਈ ਟੈਪ ਕਰੋ।</string>
     <string name="block_sender_menu_item">\"%s\" ਤੇ ਪਾਬੰਦੀ ਲਗਾਓ</string>
     <string name="blocked_sender_spam">ਇਹ ਸੁਨੇਹਾ ਸਪੈਮ ਵਿੱਚ ਕਿਉਂ ਹੈ? ਤੁਸੀਂ &lt;b>%1$s&lt;/b> ਤੋਂ ਇਨਕਮਿੰਗ ਵਾਲੇ ਸੁਨੇਹਿਆਂ ਨੂੰ ਬਲਾਕ ਕੀਤਾ ਹੈ।</string>
     <string name="body_hint">ਈਮੇਲ ਲਿਖੋ</string>
@@ -415,7 +414,6 @@
     <string name="broadcast_internal_perm_label">ਅੰਦਰੂਨੀ ਪ੍ਰਸਾਰਣ</string>
     <string name="bt_action_archive">ਪੁਰਾਲੇਖਬੱਧ ਕਰੋ</string>
     <string name="bt_action_delete">ਮਿਟਾਓ</string>
-    <string name="bt_action_direct_reply">ਜਵਾਬ ਲਿਖੋ</string>
     <string name="bt_action_remove_label">ਲੇਬਲ ਹਟਾਓ</string>
     <string name="bt_action_reply">ਜਵਾਬ ਦਿਓ</string>
     <string name="bt_action_reply_all">ਸਭ ਨੂੰ ਜਵਾਬ ਦਿਓ</string>
@@ -632,6 +630,8 @@
     <string name="email_account_transfer_notification_channel_description">"ਦੂਜੇ ਡੀਵਾਈਸ 'ਤੇ ਤੁਹਾਡੇ ਗੈਰ-Google ਈਮੇਲ ਖਾਤੇ ਟ੍ਰਾਂਸਫ਼ਰ ਕੀਤੇ ਜਾਣ 'ਤੇ ਇੱਕ ਸੂਚਨਾ ਦਿਖਾਈ ਜਾਂਦੀ ਹੈ।"</string>
     <string name="email_account_transfer_notification_channel_name">ਡੀਵਾਈਸ-ਤੋਂ-ਡੀਵਾਈਸ ਈਮੇਲ ਖਾਤਾ ਟ੍ਰਾਂਸਫ਼ਰ</string>
     <string name="email_account_transfer_notification_title">"ਦੂਜੇ ਡੀਵਾਈਸ 'ਤੇ ਗੈਰ-Google ਈਮੇਲ ਖਾਤੇ ਟ੍ਰਾਂਸਫ਼ਰ ਕੀਤੇ ਜਾ ਰਹੇ ਹਨ।"</string>
+    <string name="email_confirmation_state_unknown_description">ਹੋ ਸਕਦਾ ਹੈ ਤੁਹਾਡਾ ਸੁਨੇਹਾ ਭੇਜਿਆ ਗਿਆ ਹੋਵੇ।</string>
+    <string name="email_confirmation_state_unknown_title">ਓਹੋ, ਸਾਨੂੰ ਕਨੈਕਟ ਕਰਨ ਵਿੱਚ ਸਮੱਸਿਆਵਾਂ ਆਈਆਂ!</string>
     <string name="email_provider_label">ਮੇਲ</string>
     <string name="eml_loader_error_toast">ਇਹ ਫ਼ਾਈਲ ਖੋਲ੍ਹੀ ਨਹੀਂ ਜਾ ਸਕਦੀ</string>
     <string name="eml_viewer_subtitle">EML ਸੁਨੇਹਾ ਦਰਸ਼ਕ</string>
@@ -767,7 +767,6 @@
     <string name="gm_i18n_snooze_option_later_today">ਅੱਜ ਬਾਅਦ ਵਿੱਚ</string>
     <string name="gm_i18n_snooze_option_next_week">ਅਗਲੇ ਹਫ਼ਤੇ</string>
     <string name="gm_i18n_snooze_option_next_weekend">ਅਗਲੇ ਵੀਕਇੰਡ</string>
-    <string name="gm_i18n_snooze_option_someday">ਕਿਸੇ ਦਿਨ</string>
     <string name="gm_i18n_snooze_option_this_week">ਇਸ ਹਫ਼ਤੇ</string>
     <string name="gm_i18n_snooze_option_this_weekend">ਇਸ ਵੀਕਇੰਡ</string>
     <string name="gm_i18n_snooze_option_tomorrow">ਭਲਕੇ</string>
@@ -987,6 +986,7 @@
     <string name="message_priority">ਸੁਨੇਹੇ ਦੀ ਤਰਜੀਹ</string>
     <string name="message_queued">ਕਤਾਰ ਵਿੱਚ ਹੈ</string>
     <string name="message_saved">ਸੰਦੇਸ਼ ਡਰਾਫਟ ਵਜੋਂ ਰੱਖਿਅਤ ਕੀਤਾ।</string>
+    <string name="message_sent">ਭੇਜੀ ਗਈ</string>
     <string name="message_too_large">"ਇਸ ਡੀਵਾਈਸ 'ਤੇ ਖੋਲ੍ਹਣ ਲਈ ਇਹ ਸਨੇਹਾ ਕਾਫ਼ੀ ਵੱਡਾ ਹੈ"</string>
     <string name="message_uploading_attachments">ਅੱਪਲੋਡ ਹੋ ਰਹੀ ਹੈ</string>
     <string name="message_view_forwarded_attachment_background_load">ਤੁਹਾਡੇ ਅੱਗੇ ਭੇਜੇ ਜਾਣ ਵਾਲੇ ਸੁਨੇਹੇ ਨੂੰ ਭੇਜਣ ਤੋਂ ਪਹਿਲਾਂ ਉਸ ਵਿੱਚ ਇੱਕ ਜਾਂ ਵੱਧ ਅਟੈਚਮੈਂਟਾਂ ਡਾਊਨਲੋਡ ਕੀਤੀਆਂ ਜਾਣਗੀਆਂ।</string>
@@ -1038,6 +1038,8 @@
     <string name="notifications_category">ਸੂਚਨਾਵਾਂ</string>
     <string name="notify_attachment_save_error">ਅਟੈਚਮੈਂਟ ਰੱਖਿਅਤ ਨਹੀਂ ਕੀਤੀ ਜਾ ਸਕੀ</string>
     <string name="notify_attachment_send_error">ਅਟੈਚਮੈਂਟ ਭੇਜੀ ਨਹੀਂ ਜਾ ਸਕੀ</string>
+    <string name="nudge_dismiss_button_text">ਖਾਰਜ ਕਰੋ</string>
+    <string name="nudge_dismiss_success_message">ਚੇਤੇ ਕਰਵਾਉਣ ਵਾਲੀ ਈਮੇਲ ਨੂੰ ਖਾਰਜ ਕੀਤਾ ਗਿਆ।</string>
     <string name="oauth_authentication_title">ਅਖਤਿਆਰਕਰਨ ਲਈ ਬੇਨਤੀ ਕੀਤੀ ਜਾ ਰਹੀ ਹੈ...</string>
     <string name="oauth_error_description">ਪ੍ਰਮਾਣਿਤ ਕਰਨ ਵਿੱਚ ਅਸਮਰੱਥ</string>
     <string name="oauth_server_error">ਸਰਵਰ ਅਣ-ਉਪਲਬਧ ਹੈ, ਕਿਰਪਾ ਕਰਕੇ ਬਾਅਦ ਵਿੱਚ ਕੋਸ਼ਿਸ਼ ਕਰੋ।</string>
@@ -1524,7 +1526,7 @@
     <string name="to_message_header">%1$s ਵੱਲ</string>
     <string name="toggle_read_unread">ਪੜ੍ਹੇ ਨਾ-ਪੜ੍ਹੇ ਨੂੰ ਬਦਲੋ</string>
     <string name="too_large_to_attach_multiple">ਇੱਕ ਜਾਂ ਵੱਧ ਫ਼ਾਈਲਾਂ ਨੱਥੀ ਨਹੀਂ ਕੀਤੀਆਂ। ਸੀਮਾ%1$s।</string>
-    <string name="too_large_to_attach_single">%1$s ਤੋਂ ਵੱਡੀ ਫ਼ਾਈਲ ਨੱਥੀ ਨਹੀਂ ਕੀਤੀ ਜਾ ਸਕਦੀ।</string>
+    <string name="too_large_to_attach_single">ਜਿਨ੍ਹਾਂ ਫ਼ਾਈਲਾਂ ਨੂੰ ਤੁਸੀਂ ਭੇਜਣ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰ ਰਹੇ ਹੋ ਉਸਦੀ ਅਟੈਚਮੈਂਟ ਸੀਮਾ %1$s ਕੁੱਲ ਤੋਂ ਵੱਧ ਗਈ ਹੈ।</string>
     <string name="trash_folder_selection_title">%s ਲਈ ਸਰਵਰ ਟਰੈਸ਼ ਫੋਲਡਰ ਚੁਣੋ</string>
     <string name="trashed_message_indicator">ਇਹ ਸੁਨੇਹਾ ਮਿਟਾ ਦਿੱਤਾ ਗਿਆ ਹੈ</string>
     <string name="turn_auto_sync_on_dialog_body">ਨਾ ਸਿਰਫ਼ Gmail ਲਈ, ਬਲਕਿ ਸਭ ਐਪਾਂ ਅਤੇ ਖਾਤਿਆਂ ਲਈ ਕੀਤੀਆਂ ਤੁਹਾਡੀਆਂ ਤਬਦੀਲੀਆਂ ਨੂੰ ਵੈੱਬ, ਤੁਹਾਡੀਆਂ ਹੋਰ ਡੀਵਾਈਸਾਂ ਅਤੇ ਤੁਹਾਡੇ %1$s ਲਈ ਸਮਕਾਲੀਕਿਰਤ ਕੀਤਾ ਜਾਵੇਗਾ।</string>

@@ -32,6 +32,7 @@
     <item type="id" name="fix_permissions_spinner_2" />
     <item type="id" name="folder" />
     <item type="id" name="ghost_view" />
+    <item type="id" name="glide_custom_view_target_tag" />
     <item type="id" name="google_option" />
     <item type="id" name="h7h_banner_content" />
     <item type="id" name="h7h_banner_view_details" />
@@ -51,6 +52,8 @@
     <item type="id" name="nest_label" />
     <item type="id" name="no_thanks_option" />
     <item type="id" name="not_now_option" />
+    <item type="id" name="open_search" />
+    <item type="id" name="open_search_view" />
     <item type="id" name="open_source_menu_item" />
     <item type="id" name="parent_folder" />
     <item type="id" name="parent_matrix" />
@@ -296,6 +299,7 @@
     <item type="id" name="ad_visible_url" />
     <item type="id" name="star_ad" />
     <item type="id" name="forward_ad" />
+    <item type="id" name="ad_body_cta" />
     <item type="id" name="ad_sender_header_border" />
     <item type="id" name="app_install_bar" />
     <item type="id" name="app_rating_and_logo" />
@@ -571,6 +575,9 @@
     <item type="id" name="snooze_banner" />
     <item type="id" name="snooze_banner_icon" />
     <item type="id" name="snooze_banner_text" />
+    <item type="id" name="nudge_banner" />
+    <item type="id" name="nudge_banner_text" />
+    <item type="id" name="nudge_dismiss_button" />
     <item type="id" name="trashed_messages_banner" />
     <item type="id" name="trashed_messages_banner_text" />
     <item type="id" name="trashed_messages_banner_action" />
@@ -809,6 +816,18 @@
     <item type="id" name="conversation_list_place_holder" />
     <item type="id" name="topic_item_pager" />
     <item type="id" name="search_suggestion_list_stub" />
+    <item type="id" name="open_search_bar_text_view" />
+    <item type="id" name="open_search_view_scrim" />
+    <item type="id" name="open_search_view_root" />
+    <item type="id" name="open_search_view_status_bar_spacer" />
+    <item type="id" name="open_search_view_toolbar_container" />
+    <item type="id" name="open_search_view_dummy_toolbar" />
+    <item type="id" name="open_search_view_toolbar" />
+    <item type="id" name="open_search_view_search_prefix" />
+    <item type="id" name="open_search_view_edit_text" />
+    <item type="id" name="open_search_view_clear_button" />
+    <item type="id" name="open_search_view_divider" />
+    <item type="id" name="open_search_view_content_container" />
     <item type="id" name="regular_password" />
     <item type="id" name="photo_activity_root_view" />
     <item type="id" name="photo_activity_background" />
@@ -1218,12 +1237,14 @@
     <item type="id" name="add_wa_send" />
     <item type="id" name="add_wa_request" />
     <item type="id" name="send" />
+    <item type="id" name="overflow_menu_without_addons" />
     <item type="id" name="compose_contact_picker" />
     <item type="id" name="locker_button" />
     <item type="id" name="save" />
     <item type="id" name="encrypt_sign" />
     <item type="id" name="discard" />
     <item type="id" name="set_priority" />
+    <item type="id" name="compose_addons" />
     <item type="id" name="discard_drafts" />
     <item type="id" name="inside_conversation_unread" />
     <item type="id" name="move_to" />

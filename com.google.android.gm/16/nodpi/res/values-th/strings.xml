@@ -415,9 +415,7 @@
     <string name="bcc">สำเนาลับ</string>
     <string name="bcc_header_for_recipient_summary">"สำเนาลับ: "</string>
     <string name="bcc_heading">สำเนาลับ:</string>
-    <string name="bd12n_account_settings_permission_summary">Gmail ต้องได้รับสิทธิ์ส่งการแจ้งเตือนเมื่อมีอีเมลใหม่เข้ามา คุณเปลี่ยนการตั้งค่านี้ได้ใน&lt;a href=%1$s>การตั้งค่าอุปกรณ์&lt;/a></string>
     <string name="bd12n_conversation_push_tip_text">แตะเพื่อรับการแจ้งเตือนเมื่อได้รับอีเมลใหม่</string>
-    <string name="bd12n_conversation_tip_text">อนุญาตให้ Gmail ทำงานในพื้นหลัง หากคุณต้องการให้แจ้งเตือนเมื่อมีอีเมลใหม่เข้ามา &lt;a href=%1$s>อนุญาต&lt;/a></string>
     <string name="block_sender_menu_item">บล็อก \"%s\"</string>
     <string name="blocked_sender_spam">ข้อความนี้อยู่ในจดหมายขยะเพราะคุณได้บล็อกข้อความขาเข้าจาก &lt;b>%1$s&lt;/b></string>
     <string name="body_hint">เขียนอีเมล</string>
@@ -427,7 +425,6 @@
     <string name="broadcast_internal_perm_label">การออกอากาศภายใน</string>
     <string name="bt_action_archive">เก็บ</string>
     <string name="bt_action_delete">ลบ</string>
-    <string name="bt_action_direct_reply">เขียนข้อความตอบกลับ</string>
     <string name="bt_action_remove_label">นำป้ายกำกับออก</string>
     <string name="bt_action_reply">ตอบ</string>
     <string name="bt_action_reply_all">ตอบทุกคน</string>
@@ -651,6 +648,8 @@
     <string name="email_account_transfer_notification_channel_description">แสดงการแจ้งเตือนเมื่อมีการโอนบัญชีอีเมลที่ไม่ใช่ของ Google ไปยังอุปกรณ์อื่น</string>
     <string name="email_account_transfer_notification_channel_name">การโอนบัญชีอีเมลระหว่างอุปกรณ์</string>
     <string name="email_account_transfer_notification_title">กำลังโอนบัญชีอีเมลที่ไม่ใช่ของ Google ไปยังอุปกรณ์อื่น</string>
+    <string name="email_confirmation_state_unknown_description">ระบบอาจส่งข้อความของคุณไปแล้ว</string>
+    <string name="email_confirmation_state_unknown_title">อ๊ะ เราพบปัญหาในการเชื่อมต่อ!</string>
     <string name="email_provider_label">อีเมล</string>
     <string name="eml_loader_error_toast">ไม่สามารถเปิดไฟล์นี้</string>
     <string name="eml_viewer_subtitle">ผู้ดูข้อความ EML</string>
@@ -788,7 +787,6 @@
     <string name="gm_i18n_snooze_option_later_today">วันนี้เวลาอื่น</string>
     <string name="gm_i18n_snooze_option_next_week">สัปดาห์หน้า</string>
     <string name="gm_i18n_snooze_option_next_weekend">สุดสัปดาห์ถัดไป</string>
-    <string name="gm_i18n_snooze_option_someday">วันหลัง</string>
     <string name="gm_i18n_snooze_option_this_week">สัปดาห์นี้</string>
     <string name="gm_i18n_snooze_option_this_weekend">สุดสัปดาห์นี้</string>
     <string name="gm_i18n_snooze_option_tomorrow">พรุ่งนี้</string>
@@ -1012,6 +1010,7 @@
     <string name="message_priority">ลำดับความสำคัญของข้อความ</string>
     <string name="message_queued">อยู่ในคิว</string>
     <string name="message_saved">บันทึกข้อความเป็นร่างจดหมาย</string>
+    <string name="message_sent">ส่งแล้ว</string>
     <string name="message_too_large">ข้อความใหญ่เกินกว่าจะเปิดได้ในอุปกรณ์เครื่องนี้</string>
     <string name="message_uploading_attachments">กำลังอัปโหลด</string>
     <string name="message_view_forwarded_attachment_background_load">ไฟล์แนบอย่างน้อย 1 รายการในข้อความที่คุณส่งต่อจะดาวน์โหลดก่อนส่ง</string>
@@ -1062,6 +1061,8 @@
     <string name="notifications_category">การแจ้งเตือน</string>
     <string name="notify_attachment_save_error">ไม่สามารถบันทึกไฟล์แนบ</string>
     <string name="notify_attachment_send_error">ไม่สามารถส่งไฟล์แนบ</string>
+    <string name="nudge_dismiss_button_text">ปิด</string>
+    <string name="nudge_dismiss_success_message">ปิดการกระตุ้นเตือนแล้ว</string>
     <string name="oauth_authentication_title">กำลังขอสิทธิ์…</string>
     <string name="oauth_error_description">ไม่สามารถตรวจสอบสิทธิ์</string>
     <string name="oauth_server_error">เซิร์ฟเวอร์ใช้งานไม่ได้ โปรดลองอีกครั้งในภายหลัง</string>
@@ -1553,7 +1554,7 @@
     <string name="to_message_header">ถึง %1$s</string>
     <string name="toggle_read_unread">สลับจากอ่านแล้วเป็นยังไม่อ่าน</string>
     <string name="too_large_to_attach_multiple">ไม่ได้แนบไฟล์อย่างน้อย 1 ไฟล์ จำกัดขนาดที่ %1$s</string>
-    <string name="too_large_to_attach_single">ไม่สามารถแนบไฟล์ที่มีขนาดเกิน %1$s</string>
+    <string name="too_large_to_attach_single">ไฟล์แนบที่ต้องการส่งมีขนาดใหญ่เกินค่าสูงสุดที่จำกัดไว้ที่ %1$s</string>
     <string name="trash_folder_selection_title">เลือกโฟลเดอร์ถังขยะของเซิร์ฟเวอร์สำหรับ %s</string>
     <string name="trashed_message_indicator">ข้อความนี้ถูกลบแล้ว</string>
     <string name="turn_auto_sync_on_dialog_body">การเปลี่ยนแปลงที่คุณทำกับแอปและบัญชีทั้งหมด ไม่ใช่เพียง Gmail จะมีการซิงค์กันระหว่างเว็บ อุปกรณ์อื่นๆ และ %1$s ของคุณ</string>

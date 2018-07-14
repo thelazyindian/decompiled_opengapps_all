@@ -401,9 +401,7 @@
     <string name="auto_send_perm_desc">De app toestaan Gmail-berichten te verzenden zonder de app Gmail te openen.</string>
     <string name="auto_send_perm_label">Gmail verzenden</string>
     <string name="auto_sync_off">Automatisch synchroniseren is uitgeschakeld. Tik om in te schakelen.</string>
-    <string name="bd12n_account_settings_permission_summary">Gmail heeft toestemming nodig om je meldingen weer te geven zodra ze binnenkomen. Je kunt dit wijzigen via de &lt;a href=%1$s>apparaatinstellingen&lt;/a>.</string>
     <string name="bd12n_conversation_push_tip_text">Tik om een melding te krijgen wanneer je nieuwe e-mail ontvangt.</string>
-    <string name="bd12n_conversation_tip_text">Sta toe dat Gmail op de achtergrond wordt uitgevoerd als je een melding wilt krijgen wanneer je nieuwe e-mail ontvangt. &lt;a href=%1$s>Toestaan&lt;/a></string>
     <string name="block_sender_menu_item">%s blokkeren</string>
     <string name="blocked_sender_spam">Waarom staat dit bericht in Spam? Je hebt binnenkomende berichten van &lt;b>%1$s&lt;/b> geblokkeerd.</string>
     <string name="body_hint">E-mail opstellen</string>
@@ -413,7 +411,6 @@
     <string name="broadcast_internal_perm_label">intern uitzenden</string>
     <string name="bt_action_archive">Archiveren</string>
     <string name="bt_action_delete">Verwijderen</string>
-    <string name="bt_action_direct_reply">Antwoord opstellen</string>
     <string name="bt_action_remove_label">Label verwijderen</string>
     <string name="bt_action_reply">Beantwoorden</string>
     <string name="bt_action_reply_all">Allen beantwoorden</string>
@@ -632,6 +629,8 @@
     <string name="email_account_transfer_notification_channel_description">Geeft een melding weer wanneer andere e-mailaccounts dan Gmail worden overgezet naar een ander apparaat.</string>
     <string name="email_account_transfer_notification_channel_name">E-mailaccountoverdracht tussen apparaten</string>
     <string name="email_account_transfer_notification_title">Overdracht van niet-Google-mailaccounts naar een ander apparaat.</string>
+    <string name="email_confirmation_state_unknown_description">Het bericht is mogelijk verzonden.</string>
+    <string name="email_confirmation_state_unknown_title">Er zijn problemen met de verbinding opgetreden.</string>
     <string name="email_provider_label">E-mail</string>
     <string name="eml_loader_error_toast">Kan dit bestand niet openen</string>
     <string name="eml_viewer_subtitle">EML-berichtviewer</string>
@@ -766,7 +765,6 @@
     <string name="gm_i18n_snooze_option_later_today">Later vandaag</string>
     <string name="gm_i18n_snooze_option_next_week">Volgende week</string>
     <string name="gm_i18n_snooze_option_next_weekend">Volgend weekend</string>
-    <string name="gm_i18n_snooze_option_someday">Ooit</string>
     <string name="gm_i18n_snooze_option_this_week">Deze week</string>
     <string name="gm_i18n_snooze_option_this_weekend">Dit weekend</string>
     <string name="gm_i18n_snooze_option_tomorrow">Morgen</string>
@@ -980,6 +978,7 @@
     <string name="message_priority">Berichtprioriteit</string>
     <string name="message_queued">In wachtrij</string>
     <string name="message_saved">Bericht opgeslagen als concept.</string>
+    <string name="message_sent">Verzonden</string>
     <string name="message_too_large">Bericht is te groot om op dit apparaat te openen</string>
     <string name="message_uploading_attachments">Uploaden</string>
     <string name="message_view_forwarded_attachment_background_load">Een of meer bijlagen in je doorgestuurde bericht worden gedownload voordat het bericht wordt verzonden.</string>
@@ -1030,6 +1029,8 @@
     <string name="notifications_category">Meldingen</string>
     <string name="notify_attachment_save_error">Kan bijlage niet opslaan</string>
     <string name="notify_attachment_send_error">Kan bijlage niet verzenden</string>
+    <string name="nudge_dismiss_button_text">AFWIJZEN</string>
+    <string name="nudge_dismiss_success_message">Por afgewezen.</string>
     <string name="oauth_authentication_title">Autorisatie aanvragen…</string>
     <string name="oauth_error_description">Kan niet verifiëren</string>
     <string name="oauth_server_error">Server is niet beschikbaar. Probeer het later opnieuw.</string>
@@ -1515,7 +1516,7 @@ Tik om in te schakelen."</string>
     <string name="to_message_header">aan %1$s</string>
     <string name="toggle_read_unread">Schakelen tussen lezen/ongelezen</string>
     <string name="too_large_to_attach_multiple">Een of meer bestanden niet bijgevoegd. Limiet van %1$s.</string>
-    <string name="too_large_to_attach_single">Kan bestand groter dan %1$s niet bijvoegen.</string>
+    <string name="too_large_to_attach_single">De bestanden die je probeert te verzenden, overschrijden de totaallimiet van %1$s voor bijlagen.</string>
     <string name="trash_folder_selection_title">Serverprullenbak select. voor %s</string>
     <string name="trashed_message_indicator">Dit bericht is verwijderd</string>
     <string name="turn_auto_sync_on_dialog_body">Wijzigingen die je aanbrengt in alle apps en accounts, niet alleen in Gmail, worden gesynchroniseerd tussen internet, je andere apparaten en je %1$s.</string>

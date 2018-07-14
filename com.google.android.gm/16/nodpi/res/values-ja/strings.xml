@@ -414,9 +414,7 @@
     <string name="auto_sync_off">自動同期がオフになっています。オンにするにはタップしてください。</string>
     <string name="badge_and_subject">%1$s（%2$s）</string>
     <string name="bcc_header_for_recipient_summary">"Bcc: "</string>
-    <string name="bd12n_account_settings_permission_summary">メールの受信時に通知を受け取るには、Gmail に権限を設定する必要があります。権限は&lt;a href=%1$s>端末の設定&lt;/a>で変更できます。</string>
     <string name="bd12n_conversation_push_tip_text">タップすると新着メールの受信時に通知を受け取れます。</string>
-    <string name="bd12n_conversation_tip_text">メールの受信時に通知を受け取るには、バックグラウンドで Gmail を実行してください。&lt;a href=%1$s>許可&lt;/a></string>
     <string name="block_sender_menu_item">「%s」さんをブロック</string>
     <string name="blocked_sender_spam">このメールが [迷惑メール] に振り分けられた理由: &lt;b>%1$s&lt;/b> からの受信メールをブロックしました。</string>
     <string name="body_hint">メールを作成</string>
@@ -426,7 +424,6 @@
     <string name="broadcast_internal_perm_label">内部ブロードキャスト</string>
     <string name="bt_action_archive">アーカイブ</string>
     <string name="bt_action_delete">削除</string>
-    <string name="bt_action_direct_reply">返信を作成</string>
     <string name="bt_action_remove_label">ラベルを削除</string>
     <string name="bt_action_reply">返信</string>
     <string name="bt_action_reply_all">全員に返信</string>
@@ -652,6 +649,8 @@
     <string name="email_account_transfer_notification_channel_description">Google 以外のメール アカウントを別の端末に移行する際に通知が表示されます。</string>
     <string name="email_account_transfer_notification_channel_name">端末間でのメール アカウントの移行</string>
     <string name="email_account_transfer_notification_title">Google 以外のメール アカウントを別の端末に移行しています。</string>
+    <string name="email_confirmation_state_unknown_description">メールが送信された可能性があります。</string>
+    <string name="email_confirmation_state_unknown_title">接続に問題が発生しました。</string>
     <string name="email_provider_label">メール</string>
     <string name="eml_loader_error_toast">このファイルを開けません</string>
     <string name="eml_viewer_subtitle">EML メッセージ ビューア</string>
@@ -790,7 +789,6 @@
     <string name="gm_i18n_snooze_option_later_today">少し後で</string>
     <string name="gm_i18n_snooze_option_next_week">来週</string>
     <string name="gm_i18n_snooze_option_next_weekend">来週末</string>
-    <string name="gm_i18n_snooze_option_someday">指定しない</string>
     <string name="gm_i18n_snooze_option_this_week">今週</string>
     <string name="gm_i18n_snooze_option_this_weekend">今週末</string>
     <string name="gm_i18n_snooze_option_tomorrow">明日</string>
@@ -1014,6 +1012,7 @@
     <string name="message_priority">メールの優先度</string>
     <string name="message_queued">キューに追加しました</string>
     <string name="message_saved">メッセージを下書きとして保存しました。</string>
+    <string name="message_sent">送信しました</string>
     <string name="message_too_large">メッセージが大きすぎるためこの端末で開けません</string>
     <string name="message_uploading_attachments">アップロード中</string>
     <string name="message_view_forwarded_attachment_background_load">送信前に転送メッセージの添付ファイルがダウンロードされます。</string>
@@ -1065,6 +1064,8 @@
     <string name="notifications_category">通知</string>
     <string name="notify_attachment_save_error">添付ファイルを保存できませんでした</string>
     <string name="notify_attachment_send_error">添付ファイルを送信できませんでした</string>
+    <string name="nudge_dismiss_button_text">閉じる</string>
+    <string name="nudge_dismiss_success_message">自動提案を閉じました。</string>
     <string name="oauth_authentication_title">認証のリクエスト中…</string>
     <string name="oauth_error_description">認証できません</string>
     <string name="oauth_server_error">サーバーを利用できません。後でもう一度お試しください</string>
@@ -1554,7 +1555,7 @@
     <string name="to_message_header">To: %1$s</string>
     <string name="toggle_read_unread">既読と未読の切り替え</string>
     <string name="too_large_to_attach_multiple">ファイルが添付されません。上限は%1$sです。</string>
-    <string name="too_large_to_attach_single">%1$sを超えるファイルは添付できません。</string>
+    <string name="too_large_to_attach_single">送信しようとしているファイルは、添付ファイルの上限サイズの %1$s を超えています。</string>
     <string name="trash_folder_selection_title">%sのサーバーのゴミ箱フォルダを選択</string>
     <string name="trashed_message_indicator">このメッセージは削除されました</string>
     <string name="turn_auto_sync_on_dialog_body">Gmailだけでなく、すべてのアプリとアカウントへの変更は、ウェブ、その他の端末、お使いの%1$sの間で同期されます。</string>

@@ -400,9 +400,7 @@
     <string name="auto_send_perm_label">send Gmail</string>
     <string name="auto_sync_off">Automatisk synkronisering er slået fra. Tryk for at slå funktionen til.</string>
     <string name="bcc_header_for_recipient_summary">"Bcc: "</string>
-    <string name="bd12n_account_settings_permission_summary">Gmail skal have tilladelse til at levere dine underretninger, efterhånden som de modtages. Du kan ændre dette i &lt;a href=%1$s>Enhedsindstillinger&lt;/a>.</string>
     <string name="bd12n_conversation_push_tip_text">Tryk for at blive underrettet om nye mails, når de modtages.</string>
-    <string name="bd12n_conversation_tip_text">Giv Gmail tilladelse til at køre i baggrunden, hvis du vil underrettes om nye mails, når de modtages. &lt;a href=%1$s>Tillad&lt;/a></string>
     <string name="block_sender_menu_item">Bloker \"%s\"</string>
     <string name="blocked_sender_spam">Hvorfor er denne meddelelse i spammappen? Du har blokeret indgående meddelelser fra &lt;b>%1$s&lt;/b>.</string>
     <string name="body_hint">Skriv mail</string>
@@ -412,7 +410,6 @@
     <string name="broadcast_internal_perm_label">intern udsendelse</string>
     <string name="bt_action_archive">Arkivér</string>
     <string name="bt_action_delete">Slet</string>
-    <string name="bt_action_direct_reply">Skriv svar</string>
     <string name="bt_action_remove_label">Fjern etiket</string>
     <string name="bt_action_reply">Svar</string>
     <string name="bt_action_reply_all">Svar alle</string>
@@ -524,7 +521,7 @@
     <string name="content_description_today">%1$s %2$s%3$s, %4$s, %5$s, %6$s %7$s</string>
     <string name="content_description_with_folders">%1$s, etiketter: %2$s</string>
     <string name="content_description_with_priority">%1$s, prioritet: %2$s</string>
-    <string name="contextmenu_add_contact">Tilføj kontaktperson</string>
+    <string name="contextmenu_add_contact">Tilføj kontakt</string>
     <string name="contextmenu_dial_dot">Ring til...</string>
     <string name="contextmenu_map">Kort</string>
     <string name="contextmenu_openlink">Åbn i browser</string>
@@ -632,6 +629,8 @@
     <string name="email_account_transfer_notification_channel_description">Der vises en underretning, når dine mailkonti, som ikke er fra Google, overføres til en anden enhed.</string>
     <string name="email_account_transfer_notification_channel_name">Overførsel af mailkonti til en ny enhed</string>
     <string name="email_account_transfer_notification_title">Overfører mailkonti, som ikke er fra Google, til en anden enhed.</string>
+    <string name="email_confirmation_state_unknown_description">Din meddelelse er muligvis blevet sendt.</string>
+    <string name="email_confirmation_state_unknown_title">Ups! Der er problemer med forbindelsen</string>
     <string name="email_provider_label">E-mail</string>
     <string name="eml_loader_error_toast">Filen kan ikke åbnes</string>
     <string name="eml_viewer_subtitle">EML-visningsprogram til meddelelser</string>
@@ -767,7 +766,6 @@
     <string name="gm_i18n_snooze_option_later_today">Senere i dag</string>
     <string name="gm_i18n_snooze_option_next_week">Næste uge</string>
     <string name="gm_i18n_snooze_option_next_weekend">Næste weekend</string>
-    <string name="gm_i18n_snooze_option_someday">En skønne dag</string>
     <string name="gm_i18n_snooze_option_this_week">Denne uge</string>
     <string name="gm_i18n_snooze_option_this_weekend">Denne weekend</string>
     <string name="gm_i18n_snooze_option_tomorrow">I morgen</string>
@@ -985,6 +983,7 @@
     <string name="message_priority">Meddelelsesprioritet</string>
     <string name="message_queued">I kø</string>
     <string name="message_saved">Meddelelsen er gemt som kladde.</string>
+    <string name="message_sent">Sendt</string>
     <string name="message_too_large">Meddelelsen er for stor til, at den kan åbnes på denne enhed</string>
     <string name="message_uploading_attachments">Uploader</string>
     <string name="message_view_forwarded_attachment_background_load">Én eller flere vedhæftede filer i din videresendte meddelelse downloades før afsendelse.</string>
@@ -1036,6 +1035,8 @@
     <string name="notifications_category">Underretninger</string>
     <string name="notify_attachment_save_error">Den vedhæftede fil kunne ikke gemmes</string>
     <string name="notify_attachment_send_error">Den vedhæftede fil kunne ikke sendes</string>
+    <string name="nudge_dismiss_button_text">AFVIS</string>
+    <string name="nudge_dismiss_success_message">Skubbet blev afvist.</string>
     <string name="oauth_authentication_title">Anmoder om tilladelse…</string>
     <string name="oauth_error_description">Godkendelse var ikke mulig</string>
     <string name="oauth_server_error">Serveren ikke er tilgængelig. Prøv igen senere</string>
@@ -1523,7 +1524,7 @@ Tryk for at slå funktionen til."</string>
     <string name="to_message_header">til %1$s</string>
     <string name="toggle_read_unread">Skift mellem læst og ulæst</string>
     <string name="too_large_to_attach_multiple">Én eller flere filer blev ikke vedhæftet. Grænsen er %1$s.</string>
-    <string name="too_large_to_attach_single">Du kan ikke vedhæfte en fil på over %1$s.</string>
+    <string name="too_large_to_attach_single">De filer, du forsøger at sende, overstiger den tilladte grænse på %1$s for vedhæftede filer.</string>
     <string name="trash_folder_selection_title">Vælg serverens papirkurv for %s</string>
     <string name="trashed_message_indicator">Denne meddelelse er slettet.</string>
     <string name="turn_auto_sync_on_dialog_body">Ændringer, du foretager i alle apps og konti, ikke kun Gmail, synkroniseres mellem nettet, dine andre enheder og din %1$s.</string>

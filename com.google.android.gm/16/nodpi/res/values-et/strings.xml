@@ -414,9 +414,7 @@
     <string name="bcc">Pimekoopia</string>
     <string name="bcc_header_for_recipient_summary">"pimekoopia: "</string>
     <string name="bcc_heading">Pimekoopia:</string>
-    <string name="bd12n_account_settings_permission_summary">Gmail vajab märguannete saabumisel luba nende edastamiseks. Seda saab muuta &lt;a href=%1$s>seadme seadetes&lt;/a>.</string>
     <string name="bd12n_conversation_push_tip_text">Puudutage, et uute meilide saabumisel nende kohta märguandeid saada.</string>
-    <string name="bd12n_conversation_tip_text">Kui soovite uute meilide saabumisel saada nende kohta märguandeid, lubage Gmailil taustal töötada. &lt;a href=%1$s>Luba&lt;/a></string>
     <string name="block_sender_menu_item">Blokeeri saatja „%s”</string>
     <string name="blocked_sender_spam">Miks on see kiri rämpsposti hulgas? Olete blokeerinud sissetulevad kirjad aadressilt &lt;b>%1$s&lt;/b>.</string>
     <string name="body_hint">Koosta meil</string>
@@ -426,7 +424,6 @@
     <string name="broadcast_internal_perm_label">sisemine ülekanne</string>
     <string name="bt_action_archive">Arhiivi</string>
     <string name="bt_action_delete">Kustuta</string>
-    <string name="bt_action_direct_reply">Vastuse koostamine</string>
     <string name="bt_action_remove_label">Eemalda silt</string>
     <string name="bt_action_reply">Vasta</string>
     <string name="bt_action_reply_all">Vasta kõigile</string>
@@ -643,6 +640,8 @@
     <string name="email_account_transfer_notification_channel_description">"Kuvab märguande, kui teie Google'i-välised e-posti kontod kantakse üle teise seadmesse."</string>
     <string name="email_account_transfer_notification_channel_name">E-posti kontode ülekandm. seadmete vahel</string>
     <string name="email_account_transfer_notification_title">"Google'i-väliste e-posti kontode ülekandmine teise seadmesse."</string>
+    <string name="email_confirmation_state_unknown_description">Teie kiri võib olla saadetud.</string>
+    <string name="email_confirmation_state_unknown_title">Vabandust, meil oli probleeme ühenduse loomisega!</string>
     <string name="email_provider_label">E-post</string>
     <string name="eml_loader_error_toast">Seda faili ei saa avada</string>
     <string name="eml_viewer_subtitle">EML-i sõnumivaatur</string>
@@ -780,7 +779,6 @@
     <string name="gm_i18n_snooze_option_later_today">Hiljem täna</string>
     <string name="gm_i18n_snooze_option_next_week">Järgmisel nädalal</string>
     <string name="gm_i18n_snooze_option_next_weekend">Järgmisel nädalavahetusel</string>
-    <string name="gm_i18n_snooze_option_someday">Kunagi</string>
     <string name="gm_i18n_snooze_option_this_week">Sel nädalal</string>
     <string name="gm_i18n_snooze_option_this_weekend">Sel nädalavahetusel</string>
     <string name="gm_i18n_snooze_option_tomorrow">Homme</string>
@@ -1000,6 +998,7 @@
     <string name="message_priority">Kirja prioriteet</string>
     <string name="message_queued">Järjekorras</string>
     <string name="message_saved">Kiri salvestati mustandina.</string>
+    <string name="message_sent">Saadetud</string>
     <string name="message_too_large">Kiri on selles seadmes avamiseks liiga suur</string>
     <string name="message_uploading_attachments">Üleslaadimine</string>
     <string name="message_view_forwarded_attachment_background_load">Vähemalt üks edastatava kirja manus laaditakse alla enne saatmist.</string>
@@ -1051,6 +1050,8 @@
     <string name="notifications_category">Märguanded</string>
     <string name="notify_attachment_save_error">Manust ei õnnestunud salvestada</string>
     <string name="notify_attachment_send_error">Manust ei õnnestunud saata</string>
+    <string name="nudge_dismiss_button_text">LOOBU</string>
+    <string name="nudge_dismiss_success_message">Müksust loobuti.</string>
     <string name="oauth_authentication_title">Volitamise taotlemine …</string>
     <string name="oauth_error_description">Ei saa autentida</string>
     <string name="oauth_server_error">Server pole saadaval, proovige hiljem uuesti</string>
@@ -1536,7 +1537,7 @@ Puudutage sisselülitamiseks."</string>
     <string name="to_message_header">saajad: %1$s</string>
     <string name="toggle_read_unread">Vaheta loetud ja lugemata vahel</string>
     <string name="too_large_to_attach_multiple">Üht või mitut faili ei manustatud. Limiit %1$s.</string>
-    <string name="too_large_to_attach_single">Ei saa manustada faile, mis ületavad mahu %1$s.</string>
+    <string name="too_large_to_attach_single">Failid, mida proovite saata, ületavad manustele kehtivat kogupiirangut %1$s.</string>
     <string name="trash_folder_selection_title">Valige konto %s jaoks serveri prügikasti kaust</string>
     <string name="trashed_message_indicator">See kiri on kustutatud</string>
     <string name="turn_auto_sync_on_dialog_body">Kõikides rakendustes ja kontodel (mitte ainult Gmailis) tehtud muudatused sünkroonitakse veebi, teiste seadmete ja seadmega %1$s.</string>

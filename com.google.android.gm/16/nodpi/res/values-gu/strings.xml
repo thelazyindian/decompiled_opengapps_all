@@ -407,8 +407,7 @@
     <string name="auto_send_perm_desc">Gmail ઍપ્લિકેશન ખોલ્યા વિના Gmail સંદેશાઓ મોકલવા માટે ઍપ્લિકેશનને મંજૂરી આપે છે.</string>
     <string name="auto_send_perm_label">Gmail મોકલો</string>
     <string name="auto_sync_off">સ્વતઃ સમન્વયન બંધ છે. ચાલુ કરવા માટે ટૅપ કરો.</string>
-    <string name="bd12n_account_settings_permission_summary">તમારા નોટિફિકેશન આવતાની સાથે જ વિતરિત કરવા માટે Gmailને પરવાનગીની આવશ્યકતા હોય છે. આને તમે &lt;a href=%1$s>ઉપકરણ સેટિંગ&lt;/a>માં બદલી શકો છો.</string>
-    <string name="bd12n_conversation_tip_text">જો તમે નવા ઇમેઇલ આવતાની સાથે તેના વિશે સૂચના મેળવવા માગતા હોય તો Gmailને બૅકગ્રાઉન્ડમાં ચાલુ રાખો. &lt;a href=%1$s>મંજૂરી આપો&lt;/a></string>
+    <string name="bd12n_conversation_push_tip_text">નવા ઇમેઇલ આવતાની સાથે તમે તેના વિશે સૂચના મેળવવા માગતા હો, તો ટૅપ કરો.</string>
     <string name="block_sender_menu_item">\"%s\" ને અવરોધિત કરો</string>
     <string name="blocked_sender_spam">આ સંદેશ શા માટે સ્પામમાં છે? તમે &lt;b>%1$s&lt;/b>ના આવનારા સંદેશાને બ્લૉક કરેલા છે.</string>
     <string name="body_hint">ઇમેઇલ કંપોઝ કરો</string>
@@ -418,7 +417,6 @@
     <string name="broadcast_internal_perm_label">આંતરિક બ્રોડકાસ્ટ</string>
     <string name="bt_action_archive">આર્કાઇવ</string>
     <string name="bt_action_delete">ડિલીટ કરો</string>
-    <string name="bt_action_direct_reply">જવાબ કંપોઝ કરો</string>
     <string name="bt_action_remove_label">લેબલ કાઢી નાખો</string>
     <string name="bt_action_reply">જવાબ આપો</string>
     <string name="bt_action_reply_all">બધાને જવાબ આપો</string>
@@ -634,6 +632,8 @@
     <string name="email_account_transfer_notification_channel_description">જ્યારે તમારા બિન-Google ઇમેઇલ એકાઉન્ટ એક અન્ય ઉપકરણમાં ટ્રાન્સફર થઈ રહ્યાં હોય, ત્યારે એક નોટિફિકેશન બતાવે છે.</string>
     <string name="email_account_transfer_notification_channel_name">ઉપકરણ-થી-ઉપકરણ ઇમેઇલ એકાઉન્ટ ટ્રાન્સફર</string>
     <string name="email_account_transfer_notification_title">બિન-Google ઇમેઇલ એકાઉન્ટ એક અન્ય ઉપકરણમાં ટ્રાન્સફર થઈ રહ્યાં છે.</string>
+    <string name="email_confirmation_state_unknown_description">તમારો સંદેશ મોકલવામાં આવ્યો હોઈ શકે છે.</string>
+    <string name="email_confirmation_state_unknown_title">અરેરે, કનેક્ટ કરવામાં અમને સમસ્યાઓ આવી!</string>
     <string name="email_provider_label">મેઇલ</string>
     <string name="eml_loader_error_toast">આ ફાઇલ ખોલી શકાતી નથી</string>
     <string name="eml_viewer_subtitle">EML સંદેશ દર્શક</string>
@@ -769,7 +769,6 @@
     <string name="gm_i18n_snooze_option_later_today">આજે પછીથી</string>
     <string name="gm_i18n_snooze_option_next_week">આગલા અઠવાડિયે</string>
     <string name="gm_i18n_snooze_option_next_weekend">આગલા સપ્તાહાંતે</string>
-    <string name="gm_i18n_snooze_option_someday">કોઈક દિવસે</string>
     <string name="gm_i18n_snooze_option_this_week">આ અઠવાડિયે</string>
     <string name="gm_i18n_snooze_option_this_weekend">આ સપ્તાહાંતે</string>
     <string name="gm_i18n_snooze_option_tomorrow">આવતીકાલે</string>
@@ -989,6 +988,7 @@
     <string name="message_priority">સંદેશની પ્રાધાન્યતા</string>
     <string name="message_queued">કતારમાં</string>
     <string name="message_saved">સંદેશ ડ્રાફ્ટ તરીકે સાચવ્યો.</string>
+    <string name="message_sent">મોકલ્યો</string>
     <string name="message_too_large">આ ઉપકરણ પર ખોલવા માટે સંદેશ ખૂબ મોટો છે</string>
     <string name="message_uploading_attachments">અપલોડ કરી રહ્યાં છીએ</string>
     <string name="message_view_forwarded_attachment_background_load">તમારા ફોરવર્ડ કરેલાં સંદેશમાંના એક કે તેથી વધુ જોડાણો મોકલવા પહેલાં ડાઉનલોડ કરવામાં આવશે.</string>
@@ -1040,6 +1040,8 @@
     <string name="notifications_category">નોટિફિકેશન</string>
     <string name="notify_attachment_save_error">જોડાણ સાચવી શક્યાં નથી</string>
     <string name="notify_attachment_send_error">જોડાણ મોકલી શક્યાં નથી</string>
+    <string name="nudge_dismiss_button_text">છોડી દો</string>
+    <string name="nudge_dismiss_success_message">સંકેત આપવાનું છોડી દીધું.</string>
     <string name="oauth_authentication_title">અધિકૃતતાની વિનંતી કરી રહ્યા છીએ...</string>
     <string name="oauth_error_description">પ્રમાણીકૃત કરવામાં અક્ષમ</string>
     <string name="oauth_server_error">સર્વર અનુપલબ્ધ છે, કૃપા કરીને પછીથી ફરી પ્રયાસ કરો</string>
@@ -1527,7 +1529,7 @@
     <string name="to_message_header">%1$s ને</string>
     <string name="toggle_read_unread">વાંચેલાં વાંચ્યા વગરનાને ટોગલ કરો</string>
     <string name="too_large_to_attach_multiple">એક અથવા વધુ ફાઇલો જોડાઈ નથી. મર્યાદા %1$s.</string>
-    <string name="too_large_to_attach_single">%1$s થી વધુની ફાઇલ જોડી શકતાં નથી.</string>
+    <string name="too_large_to_attach_single">તમે જે ફાઇલો મોકલવાનો પ્રયાસ કરી રહ્યાં છો તે %1$sની કુલ જોડાણ સીમાને ઓળંગે છે.</string>
     <string name="trash_folder_selection_title">%s માટે સર્વરનું ટ્રેશ ફોલ્ડર પસંદ કરો</string>
     <string name="trashed_message_indicator">સંદેશ ડિલીટ કરવામાં આવ્યો છે</string>
     <string name="turn_auto_sync_on_dialog_body">તમે બધી ઍપ્લિકેશનો અને એકાઉન્ટ્સમાં જે ફેરફારો કરો છો, માત્ર Gmail માં નહીં, તે વેબ, તમારા અન્ય ઉપકરણો અને તમારા %1$s વચ્ચે સમન્વયિત થશે.</string>

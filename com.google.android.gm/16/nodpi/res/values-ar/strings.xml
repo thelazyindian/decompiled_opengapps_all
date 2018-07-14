@@ -415,9 +415,7 @@
     <string name="bcc">نسخة مخفية الوجهة</string>
     <string name="bcc_header_for_recipient_summary">"نسخة مخفية الوجهة: "</string>
     <string name="bcc_heading">نسخة مخفية الوجهة:</string>
-    <string name="bd12n_account_settings_permission_summary">‏يحتاج Gmail إلى إذن لتسليم إشعاراتك وقت وصولها. ويمكنك تغيير ذلك في &lt;a href=%1$s> إعدادات الجهاز&lt;/a>.</string>
     <string name="bd12n_conversation_push_tip_text">انقر هنا لتلقّي إشعارات عند وصول الرسائل الإلكترونية الجديدة.</string>
-    <string name="bd12n_conversation_tip_text">‏يمكنك السماح بتشغيل Gmail في الخلفية إذا كنت ترغب في تلقي إشعارات بشأن رسائل البريد الإلكتروني الجديدة وقت وصولها. &lt;a href=%1$s>السماح&lt;/a></string>
     <string name="block_sender_menu_item">حظر \"%s\"</string>
     <string name="blocked_sender_spam">‏لماذا تم وضع هذه الرسالة ضمن الرسائل غير المرغوب فيها؟ لأنك حظرت الرسائل الواردة من &lt;b>%1$s&lt;/b>.</string>
     <string name="body_hint">إنشاء رسالة إلكترونية</string>
@@ -427,7 +425,6 @@
     <string name="broadcast_internal_perm_label">بث داخلي</string>
     <string name="bt_action_archive">وضع في الأرشيف</string>
     <string name="bt_action_delete">حذف</string>
-    <string name="bt_action_direct_reply">إنشاء رسالة رد</string>
     <string name="bt_action_remove_label">إزالة التصنيف</string>
     <string name="bt_action_reply">رد</string>
     <string name="bt_action_reply_all">رد على الكل</string>
@@ -654,6 +651,8 @@
     <string name="email_account_transfer_notification_channel_description">‏عرض إشعار عندما يتم نقل حسابات البريد الإلكتروني غير التابعة لـ Google إلى جهاز آخر.</string>
     <string name="email_account_transfer_notification_channel_name">نقل حساب البريد الإلكتروني من جهاز لآخر</string>
     <string name="email_account_transfer_notification_title">‏جارٍ نقل حسابات البريد الإلكتروني غير التابعة لـ Google إلى جهاز آخر.</string>
+    <string name="email_confirmation_state_unknown_description">ربما تم إرسال رسالتك.</string>
+    <string name="email_confirmation_state_unknown_title">عفوًا، لقد حدثت مشاكل في الاتصال!</string>
     <string name="email_provider_label">البريد</string>
     <string name="eml_loader_error_toast">لا يمكن فتح هذا الملف</string>
     <string name="eml_viewer_subtitle">‏عارض رسالة EML</string>
@@ -792,7 +791,6 @@
     <string name="gm_i18n_snooze_option_later_today">في وقت لاحق اليوم</string>
     <string name="gm_i18n_snooze_option_next_week">الأسبوع التالي</string>
     <string name="gm_i18n_snooze_option_next_weekend">نهاية الأسبوع التالي</string>
-    <string name="gm_i18n_snooze_option_someday">يومًا ما</string>
     <string name="gm_i18n_snooze_option_this_week">هذا الأسبوع</string>
     <string name="gm_i18n_snooze_option_this_weekend">نهاية هذا الأسبوع</string>
     <string name="gm_i18n_snooze_option_tomorrow">الغد</string>
@@ -1016,6 +1014,7 @@
     <string name="message_priority">أولوية الرسائل</string>
     <string name="message_queued">في قائمة الانتظار</string>
     <string name="message_saved">تمّ حفظ الرسالة كمسودة.</string>
+    <string name="message_sent">تم الإرسال</string>
     <string name="message_too_large">الرسالة أكبر من أن يتم فتحها على هذا الجهاز</string>
     <string name="message_uploading_attachments">التحميل</string>
     <string name="message_view_forwarded_attachment_background_load">سيتم تنزيل مرفق أو أكثر في الرسالة التي تمت إعادة توجيهها قبل الإرسال.</string>
@@ -1068,6 +1067,8 @@
     <string name="notifications_category">الإشعارات</string>
     <string name="notify_attachment_save_error">تعذر حفظ المرفق</string>
     <string name="notify_attachment_send_error">تعذر إرسال المرفق</string>
+    <string name="nudge_dismiss_button_text">رفض</string>
+    <string name="nudge_dismiss_success_message">تم رفض لفتة النظر.</string>
     <string name="oauth_authentication_title">جارٍ طلب التفويض…</string>
     <string name="oauth_error_description">تعذرت المصادقة</string>
     <string name="oauth_server_error">الخادم غير متاح. يُرجى إعادة المحاولة لاحقًا.</string>
@@ -1562,7 +1563,7 @@
     <string name="to_message_header">إلى %1$s</string>
     <string name="toggle_read_unread">تبديل مقروءة/غير مقروءة</string>
     <string name="too_large_to_attach_multiple">لم يتم إرفاق ملف أو أكثر. الحد الأقصى هو %1$s.</string>
-    <string name="too_large_to_attach_single">لا يمكن إرفاق ملف يزيد حجمه عن %1$s.</string>
+    <string name="too_large_to_attach_single">تتجاوز الملفات التي تحاول إرسالها إجمالي الحد الأقصى للمرفقات الذي يبلغ %1$s.</string>
     <string name="trash_folder_selection_title">حدد مجلد المهملات التابع للخادم لـ %s</string>
     <string name="trashed_message_indicator">تم حذف هذه الرسالة.</string>
     <string name="turn_auto_sync_on_dialog_body">‏ستتم مزامنة التغييرات التي تجريها على جميع التطبيقات والحسابات، وليس Gmail فقط، بين الويب والأجهزة الأخرى و%1$s.</string>

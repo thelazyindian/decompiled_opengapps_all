@@ -410,9 +410,7 @@
     <string name="bcc">Skrytá</string>
     <string name="bcc_header_for_recipient_summary">"skrytá: "</string>
     <string name="bcc_heading">Skrytá:</string>
-    <string name="bd12n_account_settings_permission_summary">Gmail potrebuje povolenie na zobrazovanie upozornení po ich doručení. Môžete to zmeniť v &lt;a href=%1$s>nastaveniach zariadenia&lt;/a>.</string>
     <string name="bd12n_conversation_push_tip_text">Ak chcete dostávať upozornenia na nové e-maily po ich prijatí, klepnite.</string>
-    <string name="bd12n_conversation_tip_text">Ak chcete dostávať upozornenia na nové správy po ich prijatí, umožnite Gmailu byť spustený na pozadí. &lt;a href=%1$s>Povoliť&lt;/a></string>
     <string name="block_sender_menu_item">Zablokovať odosielateľa %s</string>
     <string name="blocked_sender_spam">Prečo je táto správa v spame? Zablokovali ste prichádzajúce správy od používateľa &lt;b>%1$s&lt;/b>.</string>
     <string name="body_hint">Napíšte správu</string>
@@ -422,7 +420,6 @@
     <string name="broadcast_internal_perm_label">interné vysielanie</string>
     <string name="bt_action_archive">Archivovať</string>
     <string name="bt_action_delete">Odstrániť</string>
-    <string name="bt_action_direct_reply">Napíšte odpoveď</string>
     <string name="bt_action_remove_label">Odstrániť štítok</string>
     <string name="bt_action_reply">Odpovedať</string>
     <string name="bt_action_reply_all">Odpovedať všetkým</string>
@@ -645,6 +642,8 @@
     <string name="email_account_transfer_notification_channel_description">Zobrazí upozornenie, keď sa vaše e-mailové účty iné ako Gmail prenášajú do ďalšieho zariadenia.</string>
     <string name="email_account_transfer_notification_channel_name">Prenos e-mailu medzi zariadeniami</string>
     <string name="email_account_transfer_notification_title">E-mailové účty iné ako Gmail sa prenášajú do ďalšieho zariadenia.</string>
+    <string name="email_confirmation_state_unknown_description">Vaša správa bola možno odoslaná</string>
+    <string name="email_confirmation_state_unknown_title">Vyskytli sa problémy s pripojením.</string>
     <string name="email_provider_label">Pošta</string>
     <string name="eml_loader_error_toast">Súbor nie je možné otvoriť</string>
     <string name="eml_viewer_subtitle">Zobrazovač správ EML</string>
@@ -781,7 +780,6 @@
     <string name="gm_i18n_snooze_option_later_today">Dnes neskôr</string>
     <string name="gm_i18n_snooze_option_next_week">Budúci týždeň</string>
     <string name="gm_i18n_snooze_option_next_weekend">Nasledujúci víkend</string>
-    <string name="gm_i18n_snooze_option_someday">Niekedy</string>
     <string name="gm_i18n_snooze_option_this_week">Tento týždeň</string>
     <string name="gm_i18n_snooze_option_this_weekend">Tento víkend</string>
     <string name="gm_i18n_snooze_option_tomorrow">Zajtra</string>
@@ -1003,6 +1001,7 @@
     <string name="message_priority">Priorita správy</string>
     <string name="message_queued">V poradí</string>
     <string name="message_saved">Správa bola uložená ako koncept</string>
+    <string name="message_sent">Odoslané</string>
     <string name="message_too_large">Správa je príliš veľká na otvorenie v tomto zariadení</string>
     <string name="message_uploading_attachments">Nahráva sa</string>
     <string name="message_view_forwarded_attachment_background_load">Pred odoslaním bude z preposielanej správy stiahnutá jedna alebo viac príloh</string>
@@ -1054,6 +1053,8 @@
     <string name="notifications_category">Upozornenia</string>
     <string name="notify_attachment_save_error">Prílohu sa nepodarilo uložiť</string>
     <string name="notify_attachment_send_error">Prílohu sa nepodarilo odoslať</string>
+    <string name="nudge_dismiss_button_text">ZAVRIEŤ</string>
+    <string name="nudge_dismiss_success_message">Štuchnutie bolo zrušené.</string>
     <string name="oauth_authentication_title">Odosiela sa žiadosť o autorizáciu…</string>
     <string name="oauth_error_description">Overenie sa nepodarilo</string>
     <string name="oauth_server_error">Server nie je k dispozícii, skúste to znova neskôr</string>
@@ -1544,7 +1545,7 @@ Zapnete ju klepnutím."</string>
     <string name="to_message_header">komu: %1$s</string>
     <string name="toggle_read_unread">Prepnúť prečítané/neprečítané</string>
     <string name="too_large_to_attach_multiple">Jeden alebo viaceré súbory nie sú priložené. Limit: %1$s</string>
-    <string name="too_large_to_attach_single">Súbor väčší ako %1$s nie je možné priložiť</string>
+    <string name="too_large_to_attach_single">Súbory, ktoré sa pokúšate odoslať, presahujú limit veľkosti prílohy %1$s.</string>
     <string name="trash_folder_selection_title">Priečinok Kôš servera pre %s</string>
     <string name="trashed_message_indicator">Táto správa bola odstránená</string>
     <string name="turn_auto_sync_on_dialog_body">Zmeny, ktoré vykonáte vo všetkých aplikáciách a účtoch (nie iba v Gmaile), budú synchronizované medzi webom, ďalšími zariadeniami a zariadením %1$s.</string>

@@ -414,9 +414,7 @@
     <string name="auto_send_perm_desc">Gmail ireki gabe, Gmail-eko mezuak bidaltzea baimentzen die aplikazioei.</string>
     <string name="auto_send_perm_label">Bidali Gmail-eko mezua</string>
     <string name="auto_sync_off">Desaktibatuta dago sinkronizazio automatikoa. Aktibatzeko, sakatu hau.</string>
-    <string name="bd12n_account_settings_permission_summary">Gmail-ek baimena behar du jakinarazpenak jaso bezain laster haiek erakusteko. &lt;a href=%1$s>Gailuaren ezarpenetan&lt;/a> alda dezakezu hori.</string>
     <string name="bd12n_conversation_push_tip_text">Mezu elektroniko berriak iritsi bezain laster haien jakinarazpenak jaso nahi badituzu, sakatu hau.</string>
-    <string name="bd12n_conversation_tip_text">Mezu elektroniko berriak iritsi bezain laster haien jakinarazpenak jaso nahi badituzu, eman Gmail-i atzeko planoan exekutatzeko baimena. &lt;a href=%1$s>Eman baimena&lt;/a></string>
     <string name="block_sender_menu_item">Blokeatu \"%s\"</string>
     <string name="blocked_sender_spam">Zergatik dago mezu Spama karpetan? &lt;b>%1$s&lt;/b> helbideko mezuak blokeatu dituzulako.</string>
     <string name="body_hint">Idatzi mezua</string>
@@ -426,7 +424,6 @@
     <string name="broadcast_internal_perm_label">Barneko igorpena</string>
     <string name="bt_action_archive">Artxibatu</string>
     <string name="bt_action_delete">Ezabatu</string>
-    <string name="bt_action_direct_reply">Idatzi erantzuna</string>
     <string name="bt_action_remove_label">Kendu etiketa</string>
     <string name="bt_action_reply">Erantzun</string>
     <string name="bt_action_reply_all">Erantzun guztiei</string>
@@ -643,6 +640,8 @@
     <string name="email_account_transfer_notification_channel_description">Jakinarazpen bat erakusten du Google-renak ez diren posta-kontuak transferitzen ari direnean beste gailu batera.</string>
     <string name="email_account_transfer_notification_channel_name">Kontuaren transferentzia gailuen artean</string>
     <string name="email_account_transfer_notification_title">Google-renak ez diren posta-kontuak transferitzen ari dira beste gailu batera.</string>
+    <string name="email_confirmation_state_unknown_description">Agian bidali da mezua.</string>
+    <string name="email_confirmation_state_unknown_title">Arazoak izan ditugu konektatzeko.</string>
     <string name="email_provider_label">Posta</string>
     <string name="eml_loader_error_toast">Ezin da ireki fitxategia</string>
     <string name="eml_viewer_subtitle">EML mezuen ikustailea</string>
@@ -780,7 +779,6 @@
     <string name="gm_i18n_snooze_option_later_today">Geroago</string>
     <string name="gm_i18n_snooze_option_next_week">Datorren astean</string>
     <string name="gm_i18n_snooze_option_next_weekend">Hurrengo asteburuan</string>
-    <string name="gm_i18n_snooze_option_someday">Noiz edo noiz</string>
     <string name="gm_i18n_snooze_option_this_week">Aste honetan</string>
     <string name="gm_i18n_snooze_option_this_weekend">Asteburu honetan</string>
     <string name="gm_i18n_snooze_option_tomorrow">Bihar</string>
@@ -999,6 +997,7 @@
     <string name="message_priority">Mezuaren lehentasuna</string>
     <string name="message_queued">Ilaran</string>
     <string name="message_saved">Mezua zirriborro gisa gorde da.</string>
+    <string name="message_sent">Bidali da</string>
     <string name="message_too_large">Handiegia da mezua gailu honetan ireki ahal izateko.</string>
     <string name="message_uploading_attachments">Kargatzen</string>
     <string name="message_view_forwarded_attachment_background_load">Bidali aurretik, birbidaltzera zoazen mezuko eranskin bat edo gehiago deskargatu egingo dira.</string>
@@ -1050,6 +1049,8 @@
     <string name="notifications_category">Jakinarazpenak</string>
     <string name="notify_attachment_save_error">Ezin izan da gorde eranskina</string>
     <string name="notify_attachment_send_error">Ezin izan da bidali eranskina</string>
+    <string name="nudge_dismiss_button_text">BAZTERTU</string>
+    <string name="nudge_dismiss_success_message">Baztertu da erantzuteko gogorarazpena.</string>
     <string name="oauth_authentication_title">Baimena eskatzen…</string>
     <string name="oauth_error_description">Ezin da autentifikatu</string>
     <string name="oauth_server_error">Zerbitzaria ez dago erabilgarri. Saiatu berriro geroago.</string>
@@ -1536,7 +1537,7 @@ Aktibatzeko, sakatu hau."</string>
     <string name="to_message_header">hartzaileak: %1$s</string>
     <string name="toggle_read_unread">Erakutsi irakurritakoak edo irakurri gabeak</string>
     <string name="too_large_to_attach_multiple">Ez dira fitxategi bat edo gehiago erantsi. Muga: %1$s.</string>
-    <string name="too_large_to_attach_single">Ezin da erantsi %1$s baino gehiagoko fitxategirik.</string>
+    <string name="too_large_to_attach_single">Eranskinen muga (%1$s) gainditzen dute bidali nahi dituzun fitxategiek.</string>
     <string name="trash_folder_selection_title">Hautatu zerbitz. %s Zaborrontzia karpeta</string>
     <string name="trashed_message_indicator">Mezua ezabatu da</string>
     <string name="turn_auto_sync_on_dialog_body">Aplikazio eta kontu guztietan (ez soilik Gmail) egiten dituzun aldaketak webgunearekin, zure beste gailuekin eta %1$srekin sinkronizatuko dira.</string>

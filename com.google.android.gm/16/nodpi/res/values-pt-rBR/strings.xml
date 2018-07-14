@@ -390,9 +390,7 @@
     <string name="bcc">Cco</string>
     <string name="bcc_header_for_recipient_summary">"cco: "</string>
     <string name="bcc_heading">Cco:</string>
-    <string name="bd12n_account_settings_permission_summary">O Gmail precisa de permissão para entregar suas notificações quando elas chegam. Você pode alterar essa opção nas &lt;a href=%1$s>configurações do dispositivo&lt;/a>.</string>
     <string name="bd12n_conversation_push_tip_text">Toque para receber notificações quando novos e-mails chegarem.</string>
-    <string name="bd12n_conversation_tip_text">Execute o Gmail em segundo plano para receber notificações quando novos e-mails chegam. &lt;a href=%1$s>Permitir&lt;/a></string>
     <string name="block_sender_menu_item">Bloquear \"%s\"</string>
     <string name="blocked_sender_spam">Por que esta mensagem está na pasta \"Spam\"? Você bloqueou as mensagens enviadas por &lt;b>%1$s&lt;/b>.</string>
     <string name="body_hint">Escrever e-mail</string>
@@ -402,7 +400,6 @@
     <string name="broadcast_internal_perm_label">transmissão interna</string>
     <string name="bt_action_archive">Arquivar</string>
     <string name="bt_action_delete">Excluir</string>
-    <string name="bt_action_direct_reply">Escrever resposta</string>
     <string name="bt_action_remove_label">Remover marcador</string>
     <string name="bt_action_reply">Responder</string>
     <string name="bt_action_reply_all">Responder a todos</string>
@@ -419,7 +416,7 @@
     <string name="cannot_connect">Não foi possível conectar à rede</string>
     <string name="cant_move_or_change_labels">Não é possível mover porque a seleção contém várias contas.</string>
     <string name="capture_profile">Capturar perfil</string>
-    <string name="cd_snooze_option_menu">Menu Adiar até</string>
+    <string name="cd_snooze_option_menu">Menu Suspender até</string>
     <string name="cd_tl_item_avatar_selected">Desmarcar este item</string>
     <string name="cd_tl_item_avatar_unselected">Marcar este item</string>
     <string name="cert_contact">Entre em contato com seu provedor de e-mail para mais informações.</string>
@@ -527,7 +524,7 @@
     <string name="conversation_invisible_trashed_messages_view_all_action">MOSTRAR</string>
     <string name="conversation_photo_welcome_text">Toque na imagem do remetente para selecionar a conversa.</string>
     <string name="conversation_resnooze_error">Erro ao adiar novamente a conversa</string>
-    <string name="conversation_resnooze_prompt_prefix">Adiar novamente até %s</string>
+    <string name="conversation_resnooze_prompt_prefix">Suspender novamente até %s</string>
     <string name="conversation_resnoozed_prefix">Adiada novamente até %s</string>
     <string name="conversation_snoozed_prefix">Adiado até %s</string>
     <string name="conversation_starred_announcement">Conversa marcada com estrela</string>
@@ -619,6 +616,8 @@
     <string name="email_account_transfer_notification_channel_description">Mostra uma notificação quando suas contas de e-mail que não são do Google estão sendo transferidas para outro dispositivo.</string>
     <string name="email_account_transfer_notification_channel_name">Transf. de conta entre dispositivos</string>
     <string name="email_account_transfer_notification_title">Transferindo contas de e-mail que não são do Google para outro dispositivo.</string>
+    <string name="email_confirmation_state_unknown_description">Sua mensagem talvez tenha sido enviada.</string>
+    <string name="email_confirmation_state_unknown_title">Ops, ocorreu um problema de conexão.</string>
     <string name="email_provider_label">E-mail</string>
     <string name="eml_loader_error_toast">Não é possível abrir o arquivo</string>
     <string name="eml_viewer_subtitle">Visualizador de mensagens EML</string>
@@ -754,7 +753,6 @@
     <string name="gm_i18n_snooze_option_later_today">Mais tarde hoje</string>
     <string name="gm_i18n_snooze_option_next_week">Próxima semana</string>
     <string name="gm_i18n_snooze_option_next_weekend">Próx. fim de semana</string>
-    <string name="gm_i18n_snooze_option_someday">Algum dia</string>
     <string name="gm_i18n_snooze_option_this_week">Esta semana</string>
     <string name="gm_i18n_snooze_option_this_weekend">Este fim de semana</string>
     <string name="gm_i18n_snooze_option_tomorrow">Amanhã</string>
@@ -963,9 +961,9 @@
     <string name="menu_search">Pesquisar</string>
     <string name="menu_settings">Configurações</string>
     <string name="menu_show_original">Reverter dimens. automát.</string>
-    <string name="menu_snooze">Adiar</string>
+    <string name="menu_snooze">Suspender</string>
     <string name="menu_toggle_drawer">Alternar gaveta</string>
-    <string name="menu_unsnooze">Não adiar</string>
+    <string name="menu_unsnooze">Retomar</string>
     <string name="message_decode_error">Ocorreu um erro ao decodificar a mensagem.</string>
     <string name="message_discarded">Mensagem descartada.</string>
     <string name="message_failed">Falha</string>
@@ -973,6 +971,7 @@
     <string name="message_priority">Prioridade da mensagem</string>
     <string name="message_queued">Na fila</string>
     <string name="message_saved">Mensagem salva como rascunho.</string>
+    <string name="message_sent">Enviada</string>
     <string name="message_too_large">A mensagem é muito grande para ser aberta neste dispositivo</string>
     <string name="message_uploading_attachments">Fazendo upload</string>
     <string name="message_view_forwarded_attachment_background_load">O download de um ou mais anexos da sua mensagem encaminhada será feito antes do envio.</string>
@@ -1024,6 +1023,8 @@
     <string name="notifications_category">Notificações</string>
     <string name="notify_attachment_save_error">Não foi possível salvar o anexo</string>
     <string name="notify_attachment_send_error">Não foi possível enviar o anexo</string>
+    <string name="nudge_dismiss_button_text">DISPENSAR</string>
+    <string name="nudge_dismiss_success_message">Alerta dispensado.</string>
     <string name="oauth_authentication_title">Solicitando autorização…</string>
     <string name="oauth_error_description">Não é possível autenticar</string>
     <string name="oauth_server_error">Servidor indisponível, tente novamente mais tarde</string>
@@ -1471,18 +1472,18 @@ Toque para ativar."</string>
     <string name="t4_list_reminder_set_content_description">Lembrete</string>
     <string name="t4_list_t4_due_date_label">Data de conclusão: %1$s</string>
     <string name="t4_reminder_notification_done_button">Concluir</string>
-    <string name="t4_reminder_notification_snooze_button">Adiar</string>
+    <string name="t4_reminder_notification_snooze_button">Suspender</string>
     <string name="t4_section_title_done">Concluídas</string>
     <string name="t4_section_title_later">Mais tarde</string>
     <string name="t4_section_title_later_this_week">Ainda esta semana</string>
     <string name="t4_section_title_next_week">Próxima semana</string>
     <string name="t4_section_title_no_due_day">Sem data de conclusão</string>
     <string name="t4_section_title_overdue">Atrasadas</string>
-    <string name="t4_snooze_activity_label">Adiar</string>
+    <string name="t4_snooze_activity_label">Suspender</string>
     <string name="t4_snooze_dialog_10_minutes">10 minutos</string>
     <string name="t4_snooze_dialog_1_hour">1 hora</string>
     <string name="t4_snooze_dialog_30_minutes">30 minutos</string>
-    <string name="t4_snooze_dialog_snooze_button">Adiar</string>
+    <string name="t4_snooze_dialog_snooze_button">Suspender</string>
     <string name="t4_snooze_dialog_tomorrow">Até amanhã</string>
     <string name="t4_sync_off">"A sincronização de tarefas está desativada. Ative-a nas &lt;a href='http://www.example.com'>Configurações da conta&lt;/a>."</string>
     <string name="t4_toast_bar_title_mark_as_done">Marcada como concluída</string>
@@ -1504,7 +1505,7 @@ Toque para ativar."</string>
     <string name="to_message_header">para %1$s</string>
     <string name="toggle_read_unread">Alternar lida/não lida</string>
     <string name="too_large_to_attach_multiple">Um ou mais arquivos não foram anexados. Limite de %1$s.</string>
-    <string name="too_large_to_attach_single">Não é possível anexar um arquivo com mais de %1$s.</string>
+    <string name="too_large_to_attach_single">Os arquivos que você está tentando enviar excedem o limite de %1$s para anexos.</string>
     <string name="trash_folder_selection_title">Selec. Lixeira do servidor p/ %s</string>
     <string name="trashed_message_indicator">Esta mensagem foi excluída.</string>
     <string name="turn_auto_sync_on_dialog_body">As alterações feitas nos apps e nas contas, e não apenas no Gmail, serão sincronizadas entre a Web, seus outros dispositivos e seu %1$s.</string>

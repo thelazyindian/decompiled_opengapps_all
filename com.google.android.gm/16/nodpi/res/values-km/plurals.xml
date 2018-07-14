@@ -25,8 +25,8 @@
         <item quantity="one">លុប​​សន្ទនា​នេះ​​?</item>
     </plurals>
     <plurals name="confirm_discard_drafts_conversation">
-        <item quantity="other">​បោះបង់​ពី %1$d ​សន្ទនា​ទាំង​នេះ​?</item>
-        <item quantity="one">បោះបង់​​​ពង្រាង​ពី​សន្ទនា​នេះ​?</item>
+        <item quantity="other">​លុបចោលសេចក្ដីព្រាងពីការសន្ទនាទាំង %1$d ​​នេះ​?</item>
+        <item quantity="one">លុបចោលសេចក្ដីព្រាង​ពី​ការសន្ទនា​នេះ​?</item>
     </plurals>
     <plurals name="conversation_archived">
         <item quantity="other">&lt;b>%1$d&lt;/b> បានដាក់ប័ណ្ណសារ</item>

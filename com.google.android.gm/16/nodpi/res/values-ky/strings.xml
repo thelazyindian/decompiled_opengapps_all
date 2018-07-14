@@ -410,9 +410,7 @@
     <string name="bcc">Жашр.кчрм</string>
     <string name="bcc_header_for_recipient_summary">"жашр.кчрм: "</string>
     <string name="bcc_heading">Жашр.кчрм:</string>
-    <string name="bd12n_account_settings_permission_summary">"Gmail'ге келген жаңы каттар тууралуу эскертмелерди көрсөтүүгө уруксат бериңиз. Бул параметрди &lt;a href=%1$s>түзмөк жөндөөлөрүнөн&lt;/a>өзгөртсөңүз болот."</string>
     <string name="bd12n_conversation_push_tip_text">Жаңы келген каттар тууралуу эскертмелерди алып туруу үчүн таптап коюңуз.</string>
-    <string name="bd12n_conversation_tip_text">Эгер жаңы келген каттар тууралуу эскертмелерди алып тургуңуз келсе, Gmail колдонмосуна фондук режимде иштөөгө уруксат бериңиз. &lt;a href=%1$s>Уруксат берүү&lt;/a></string>
     <string name="block_sender_menu_item">\"%s\" дегенди бөгөттөө</string>
     <string name="blocked_sender_spam">Бул кат эмне үчүн Спамдар кутусуна түшүп калган? Сиз &lt;b>%1$s&lt;/b> дарегинен келе турган каттарды бөгөттөп салгансыз.</string>
     <string name="body_hint">Кат жазуу</string>
@@ -422,7 +420,6 @@
     <string name="broadcast_internal_perm_label">ички дайындарды өткөрүү</string>
     <string name="bt_action_archive">Архивдөө</string>
     <string name="bt_action_delete">Ооба</string>
-    <string name="bt_action_direct_reply">Жооп жазуу</string>
     <string name="bt_action_remove_label">Энбелгини алып салуу</string>
     <string name="bt_action_reply">Жооп берүү</string>
     <string name="bt_action_reply_all">Баарына жооп</string>
@@ -642,6 +639,8 @@
     <string name="email_account_transfer_notification_channel_description">Башка почта кызматтарынын аккаунттарын бир түзмөктөн башка түзмөккө өткөрүү тууралуу эскертме көрсөтүү.</string>
     <string name="email_account_transfer_notification_channel_name">Аккаунтту башка түзмөккө өткөрүү</string>
     <string name="email_account_transfer_notification_title">Башка почта кызматтарынын аккаунттарын бир түзмөктөн башка түзмөккө өткөрүү.</string>
+    <string name="email_confirmation_state_unknown_description">Билдирүүңүз жөнөтүлдү окшойт.</string>
+    <string name="email_confirmation_state_unknown_title">Ой, туташып жатканда көйгөй чыкты!</string>
     <string name="email_provider_label">Почта</string>
     <string name="eml_loader_error_toast">Бул файл ачылбай жатат</string>
     <string name="eml_viewer_subtitle">EML билдирүүлөрүн көрүү каражаты</string>
@@ -777,7 +776,6 @@
     <string name="gm_i18n_snooze_option_later_today">бүгүн кечирээк</string>
     <string name="gm_i18n_snooze_option_next_week">кийинки апта</string>
     <string name="gm_i18n_snooze_option_next_weekend">кийинки дем алыш</string>
-    <string name="gm_i18n_snooze_option_someday">бир күнү</string>
     <string name="gm_i18n_snooze_option_this_week">ушул апта</string>
     <string name="gm_i18n_snooze_option_this_weekend">ушул дем алыш</string>
     <string name="gm_i18n_snooze_option_tomorrow">эртең</string>
@@ -998,6 +996,7 @@
     <string name="message_priority">Билдирүүнүн артыкчылыгы</string>
     <string name="message_queued">Кезекте</string>
     <string name="message_saved">Билдирүү сомо катары сакталды.</string>
+    <string name="message_sent">Жөнөтүлгөндөр</string>
     <string name="message_too_large">Билдирүү өтө чоң болгону үчүн бул түзмөктө ачылбайт</string>
     <string name="message_uploading_attachments">Жүктөлүп берилүүдө</string>
     <string name="message_view_forwarded_attachment_background_load">Башка дарекке багытталган билдирүүгө тиркелген бир же бир нече файл жөнөтүлөөрдөн мурун жүктөлүп алынат.</string>
@@ -1049,6 +1048,8 @@
     <string name="notifications_category">Эскертмелер</string>
     <string name="notify_attachment_save_error">Тиркеме сакталган жок</string>
     <string name="notify_attachment_send_error">Тиркеме жөнөтүлгөн жок</string>
+    <string name="nudge_dismiss_button_text">ЧЕТКЕ КАГУУ</string>
+    <string name="nudge_dismiss_success_message">Эскертүү четке кагылды.</string>
     <string name="oauth_authentication_title">Уруксат суроодо...</string>
     <string name="oauth_error_description">Аныктыгын текшерүү мүмкүн болбой жатат</string>
     <string name="oauth_server_error">Сервер жеткиликсиз, бир аздан кийин кайталап көрүңүз.</string>
@@ -1495,7 +1496,7 @@
     <string name="to_message_header">кимге %1$s</string>
     <string name="toggle_read_unread">Окулгандарды/окулбагандары көрсөтүү/жашыруу</string>
     <string name="too_large_to_attach_multiple">Бир же бир нече файл тиркелген жок. Файлдын көлөмү %1$s ашпашы керек.</string>
-    <string name="too_large_to_attach_single">Тиркеле турган файлдын көлөмү %1$s ашпаш керек.</string>
+    <string name="too_large_to_attach_single">Файлдардын жалпы көлөмү эң жогорку чектен ашып кетти: %1$s</string>
     <string name="trash_folder_selection_title">%s серврд таштанды папксн тандңз</string>
     <string name="trashed_message_indicator">Бул билдирүү жок кылынды</string>
     <string name="turn_auto_sync_on_dialog_body">"Gmail'де гана эмес, бардык колдонмолордо жана каттоо эсептеринде жасалган өзгөртүүлөр желе интерфейси, башка түзмөктөрүңүз жана %1$s планшетиңиздин ортолорунда шайкештирилет."</string>

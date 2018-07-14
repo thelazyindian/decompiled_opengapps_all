@@ -406,9 +406,7 @@
     <string name="bcc">Cco</string>
     <string name="bcc_header_for_recipient_summary">"Cco: "</string>
     <string name="bcc_heading">Cco:</string>
-    <string name="bd12n_account_settings_permission_summary">Gmail requereix permís per publicar les notificacions tan bon punt arriben. Pots canviar-ho a la &lt;a href=%1$s>configuració del dispositiu&lt;/a>.</string>
     <string name="bd12n_conversation_push_tip_text">Toca per rebre notificacions sobre els correus electrònics nous a mesura que arriben.</string>
-    <string name="bd12n_conversation_tip_text">"Permet que Gmail s'executi en segon pla si vols rebre notificacions sobre els correus electrònics nous a mesura que arriben. &lt;a href=%1$s>Permet&lt;/a>"</string>
     <string name="block_sender_menu_item">Bloqueja \"%s\"</string>
     <string name="blocked_sender_spam">"Per què aquest missatge és a Correu brossa? Perquè has bloquejat els missatges entrants de l'adreça &lt;b>%1$s&lt;/b>."</string>
     <string name="body_hint">Redacteu un correu electrònic</string>
@@ -418,7 +416,6 @@
     <string name="broadcast_internal_perm_label">transmissió interna</string>
     <string name="bt_action_archive">Arxiva</string>
     <string name="bt_action_delete">Suprimeix</string>
-    <string name="bt_action_direct_reply">Redacta una resposta</string>
     <string name="bt_action_remove_label">"Suprimeix l'etiqueta"</string>
     <string name="bt_action_reply">Respon</string>
     <string name="bt_action_reply_all">Respon a tots</string>
@@ -641,6 +638,8 @@
     <string name="email_account_transfer_notification_channel_description">"Mostra una notificació quan s'estan transferint a un altre dispositiu comptes de correu electrònic que no són de Google."</string>
     <string name="email_account_transfer_notification_channel_name">Transferència de comptes entre dispositius</string>
     <string name="email_account_transfer_notification_title">"S'estan transferint a un altre dispositiu comptes de correu electrònic que no són de Google."</string>
+    <string name="email_confirmation_state_unknown_description">"És possible que s'hagi enviat el missatge."</string>
+    <string name="email_confirmation_state_unknown_title">Hem tingut problemes de connexió</string>
     <string name="email_provider_label">Correu</string>
     <string name="eml_loader_error_toast">No es pot obrir aquest fitxer</string>
     <string name="eml_viewer_subtitle">Lector de missatges EML</string>
@@ -777,7 +776,6 @@
     <string name="gm_i18n_snooze_option_later_today">Avui més tard</string>
     <string name="gm_i18n_snooze_option_next_week">La setmana que ve</string>
     <string name="gm_i18n_snooze_option_next_weekend">Cap de setmana que ve</string>
-    <string name="gm_i18n_snooze_option_someday">Algun dia</string>
     <string name="gm_i18n_snooze_option_this_week">Aquesta setmana</string>
     <string name="gm_i18n_snooze_option_this_weekend">Aquest cap de setmana</string>
     <string name="gm_i18n_snooze_option_tomorrow">Demà</string>
@@ -997,6 +995,7 @@
     <string name="message_priority">Prioritat del missatge</string>
     <string name="message_queued">A la cua</string>
     <string name="message_saved">"S'ha desat el missatge com a esborrany."</string>
+    <string name="message_sent">"S'ha enviat"</string>
     <string name="message_too_large">El missatge no es pot obrir en aquest dispositiu perquè és massa gran</string>
     <string name="message_uploading_attachments">"S'està penjant"</string>
     <string name="message_view_forwarded_attachment_background_load">"Un o més fitxers adjunts del missatge que has reenviat es baixaran abans d'enviar-lo."</string>
@@ -1047,6 +1046,8 @@
     <string name="notifications_category">Notificacions</string>
     <string name="notify_attachment_save_error">"No s'ha pogut desar el fitxer adjunt"</string>
     <string name="notify_attachment_send_error">"No s'ha pogut enviar el fitxer adjunt"</string>
+    <string name="nudge_dismiss_button_text">IGNORA</string>
+    <string name="nudge_dismiss_success_message">"S'ha ignorat el toc."</string>
     <string name="oauth_authentication_title">"S'està sol·licitant autorització…"</string>
     <string name="oauth_error_description">No es pot autenticar</string>
     <string name="oauth_server_error">El servidor no està disponible. Torneu a provar-ho més tard.</string>
@@ -1534,7 +1535,7 @@ Toqueu per activar-la."</string>
     <string name="to_message_header">per a %1$s</string>
     <string name="toggle_read_unread">Mostra/amaga llegit/no llegit</string>
     <string name="too_large_to_attach_multiple">"No s'han adjuntat un o més fitxers. Límit: %1$s."</string>
-    <string name="too_large_to_attach_single">No es pot adjuntar un fitxer de més de %1$s.</string>
+    <string name="too_large_to_attach_single">"Els fitxers que proves d'enviar superen el límit total per a fitxers adjunts (%1$s)."</string>
     <string name="trash_folder_selection_title">Selecciona la paperera per a: %s</string>
     <string name="trashed_message_indicator">"El missatge s'ha suprimit"</string>
     <string name="turn_auto_sync_on_dialog_body">Els canvis que feu a les aplicacions i als comptes, i no només a Gmail, se sincronitzaran al web, a la resta de dispositius i a %1$s.</string>

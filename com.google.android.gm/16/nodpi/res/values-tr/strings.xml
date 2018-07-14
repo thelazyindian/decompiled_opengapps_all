@@ -412,9 +412,7 @@
     <string name="auto_send_perm_desc">Uygulamaya, Gmail uygulamasını açmadan Gmail iletileri gönderme izni verir.</string>
     <string name="auto_send_perm_label">Gmail gönder</string>
     <string name="auto_sync_off">Otomatik senkronizasyon kapalı. Açmak için hafifçe dokunun.</string>
-    <string name="bd12n_account_settings_permission_summary">"Bildirimler geldikçe size teslim edebilmek için Gmail'in izne ihtiyacı var. Bunu &lt;a href=%1$s>cihaz ayarlarından&lt;/a> değiştirebilirsiniz."</string>
     <string name="bd12n_conversation_push_tip_text">Yeni e-posta geldiğinde bildirim almak için dokunun.</string>
-    <string name="bd12n_conversation_tip_text">"Yeni e-posta geldiğinde bildirim almak istiyorsanız Gmail'in arka planda çalışmasına izin verin. &lt;a href=%1$s>İzin ver&lt;/a>"</string>
     <string name="block_sender_menu_item">\"%s\" adlı kullanıcıyı engelle</string>
     <string name="blocked_sender_spam">Bu ileti neden Spam klasöründe? &lt;b>%1$s&lt;/b> adresinden ileti gelmesini engellediniz.</string>
     <string name="body_hint">İletinizi yazın</string>
@@ -424,7 +422,6 @@
     <string name="broadcast_internal_perm_label">dahili yayın</string>
     <string name="bt_action_archive">Arşivle</string>
     <string name="bt_action_delete">Sil</string>
-    <string name="bt_action_direct_reply">Yanıt yazın</string>
     <string name="bt_action_remove_label">Etiketi Kaldır</string>
     <string name="bt_action_reply">Yanıtla</string>
     <string name="bt_action_reply_all">Tümünü yanıtla</string>
@@ -645,6 +642,8 @@
     <string name="email_account_transfer_notification_channel_description">Google dışı e-posta hesaplarınız başka bir cihaza aktarılırken bildirim gösterilir.</string>
     <string name="email_account_transfer_notification_channel_name">Cihazdan cihaza e-posta hesabı aktarımı</string>
     <string name="email_account_transfer_notification_title">Google dışı e-posta hesapları başka bir cihaza aktarılıyor.</string>
+    <string name="email_confirmation_state_unknown_description">İletiniz gönderilmiş olabilir.</string>
+    <string name="email_confirmation_state_unknown_title">Hata. Bağlantı kurulurken sorun oluştu!</string>
     <string name="email_provider_label">Posta</string>
     <string name="eml_loader_error_toast">Bu dosya açılamıyor</string>
     <string name="eml_viewer_subtitle">EML iletisi görüntüleyici</string>
@@ -781,7 +780,6 @@
     <string name="gm_i18n_snooze_option_later_today">Bugün daha sonra</string>
     <string name="gm_i18n_snooze_option_next_week">Gelecek hafta</string>
     <string name="gm_i18n_snooze_option_next_weekend">Sonraki hafta sonu</string>
-    <string name="gm_i18n_snooze_option_someday">Bir gün</string>
     <string name="gm_i18n_snooze_option_this_week">Bu hafta</string>
     <string name="gm_i18n_snooze_option_this_weekend">Bu hafta sonu</string>
     <string name="gm_i18n_snooze_option_tomorrow">Yarın</string>
@@ -1002,6 +1000,7 @@
     <string name="message_priority">İleti önceliği</string>
     <string name="message_queued">Kuyruğa alındı</string>
     <string name="message_saved">İleti taslak olarak kaydedildi.</string>
+    <string name="message_sent">Gönderildi</string>
     <string name="message_too_large">İleti bu cihazda açılamayacak kadar büyük</string>
     <string name="message_uploading_attachments">Yükleniyor</string>
     <string name="message_view_forwarded_attachment_background_load">Yönlendirilen iletinizdeki bir veya daha fazla ek, gönderme işleminden önce indirilecek.</string>
@@ -1053,6 +1052,8 @@
     <string name="notifications_category">Bildirimler</string>
     <string name="notify_attachment_save_error">Ek kaydedilemedi</string>
     <string name="notify_attachment_send_error">Ek gönderilemedi</string>
+    <string name="nudge_dismiss_button_text">KAPAT</string>
+    <string name="nudge_dismiss_success_message">Otomatik hatırlatma kapatıldı.</string>
     <string name="oauth_authentication_title">Yetkilendirme isteniyor…</string>
     <string name="oauth_error_description">Kimlik doğrulanamadı</string>
     <string name="oauth_server_error">Sunucu kullanılamıyor, lütfen daha sonra tekrar deneyin</string>
@@ -1540,7 +1541,7 @@ Açmak için hafifçe dokunun."</string>
     <string name="to_message_header">Alıcılar: %1$s</string>
     <string name="toggle_read_unread">Okunanlar ile okunmayanlar arasında geçiş yap</string>
     <string name="too_large_to_attach_multiple">Bir veya daha fazla dosya eklenmedi. Boyut sınırı: %1$s.</string>
-    <string name="too_large_to_attach_single">%1$s boyutundan büyük dosyalar eklenemez.</string>
+    <string name="too_large_to_attach_single">Göndermeye çalıştığınız dosyaların boyutu, %1$s olan ek sınırını aşıyor.</string>
     <string name="trash_folder_selection_title">%s sunucu çöp kut. klasörü seçin</string>
     <string name="trashed_message_indicator">Bu ileti silindi</string>
     <string name="turn_auto_sync_on_dialog_body">Yalnızca Gmail değil, tüm uygulamalarda ve hesaplarda yaptığınız değişiklikler web ile diğer cihazlarınız ve %1$s arasında senkronize edilir.</string>

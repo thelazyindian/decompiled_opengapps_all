@@ -397,9 +397,7 @@
     <string name="auto_send_perm_desc">Mengizinkan aplikasi mengirim pesan Gmail tanpa membuka aplikasi Gmail.</string>
     <string name="auto_send_perm_label">Kirim Gmail</string>
     <string name="auto_sync_off">Sinkronisasi otomatis tidak aktif. Ketuk untuk mengaktifkan.</string>
-    <string name="bd12n_account_settings_permission_summary">Gmail memerlukan izin untuk mengirimkan notifikasi Anda saat tiba. Anda dapat mengubahnya di &lt;a href=%1$s>setelan perangkat&lt;/a>.</string>
     <string name="bd12n_conversation_push_tip_text">Tap jika ingin diberi tahu saat email baru tiba.</string>
-    <string name="bd12n_conversation_tip_text">Izinkan Gmail berjalan di latar belakang jika Anda ingin diberi tahu saat email baru tiba. &lt;a href=%1$s>Izinkan&lt;/a></string>
     <string name="block_sender_menu_item">Blokir \"%s\"</string>
     <string name="blocked_sender_spam">Mengapa pesan ini berada di Spam? Anda telah memblokir pesan masuk dari &lt;b>%1$s&lt;/b>.</string>
     <string name="body_hint">Tulis email</string>
@@ -409,7 +407,6 @@
     <string name="broadcast_internal_perm_label">siaran internal</string>
     <string name="bt_action_archive">Arsipkan</string>
     <string name="bt_action_delete">Hapus</string>
-    <string name="bt_action_direct_reply">Tulis balasan</string>
     <string name="bt_action_remove_label">Hapus Label</string>
     <string name="bt_action_reply">Balas</string>
     <string name="bt_action_reply_all">Balas ke semua</string>
@@ -629,6 +626,8 @@
     <string name="email_account_transfer_notification_channel_description">Tampilkan notifikasi saat akun email non-Google Anda ditransfer ke perangkat lain.</string>
     <string name="email_account_transfer_notification_channel_name">Transfer akun email antarperangkat</string>
     <string name="email_account_transfer_notification_title">Mentransfer akun email non-Google ke perangkat lain.</string>
+    <string name="email_confirmation_state_unknown_description">Pesan Anda mungkin telah dikirim.</string>
+    <string name="email_confirmation_state_unknown_title">Maaf, ada masalah dengan koneksi internet.</string>
     <string name="email_provider_label">Email</string>
     <string name="eml_loader_error_toast">Tidak dapat membuka file ini</string>
     <string name="eml_viewer_subtitle">Penampil pesan EML</string>
@@ -764,7 +763,6 @@
     <string name="gm_i18n_snooze_option_later_today">Hari ini</string>
     <string name="gm_i18n_snooze_option_next_week">Minggu depan</string>
     <string name="gm_i18n_snooze_option_next_weekend">Akhir pekan berikut</string>
-    <string name="gm_i18n_snooze_option_someday">Suatu hari nanti</string>
     <string name="gm_i18n_snooze_option_this_week">Minggu ini</string>
     <string name="gm_i18n_snooze_option_this_weekend">Akhir pekan ini</string>
     <string name="gm_i18n_snooze_option_tomorrow">Besok</string>
@@ -983,6 +981,7 @@
     <string name="message_priority">Prioritas pesan</string>
     <string name="message_queued">Dalam antrean</string>
     <string name="message_saved">Pesan disimpan sebagai draf.</string>
+    <string name="message_sent">Terkirim</string>
     <string name="message_too_large">Pesan terlalu besar untuk dibuka pada perangkat ini</string>
     <string name="message_uploading_attachments">Mengupload</string>
     <string name="message_view_forwarded_attachment_background_load">Satu atau beberapa lampiran dalam pesan yang diteruskan akan didownload sebelum dikirim.</string>
@@ -1033,6 +1032,8 @@
     <string name="notifications_category">Notifikasi</string>
     <string name="notify_attachment_save_error">Tidak dapat menyimpan lampiran</string>
     <string name="notify_attachment_send_error">Tidak dapat mengirim lampiran</string>
+    <string name="nudge_dismiss_button_text">TUTUP</string>
+    <string name="nudge_dismiss_success_message">Munculkan ulang ditutup.</string>
     <string name="oauth_authentication_title">Meminta otorisasi...</string>
     <string name="oauth_error_description">Tidak dapat mengautentikasi</string>
     <string name="oauth_server_error">Server tidak tersedia, coba lagi nanti</string>
@@ -1514,7 +1515,7 @@ Ketuk untuk mengaktifkan."</string>
     <string name="to_message_header">ke %1$s</string>
     <string name="toggle_read_unread">Alihkan baca/belum dibaca</string>
     <string name="too_large_to_attach_multiple">Satu atau beberapa file tidak dilampirkan. Batas %1$s.</string>
-    <string name="too_large_to_attach_single">Tidak dapat melampirkan file lebih dari %1$s.</string>
+    <string name="too_large_to_attach_single">File yang Anda coba kirimkan melebihi batas total lampiran %1$s.</string>
     <string name="trash_folder_selection_title">Pilih folder sampah server %s</string>
     <string name="trashed_message_indicator">Pesan ini telah dihapus</string>
     <string name="turn_auto_sync_on_dialog_body">Perubahan yang Anda lakukan pada semua aplikasi dan akun, bukan hanya Gmail, akan disinkronkan di web, perangkat lainnya, dan %1$s Anda.</string>

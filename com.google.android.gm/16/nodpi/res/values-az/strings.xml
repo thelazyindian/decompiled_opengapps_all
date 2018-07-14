@@ -404,9 +404,7 @@
     <string name="bcc">Nüsxəni gizli alan</string>
     <string name="bcc_header_for_recipient_summary">"nüsxəni gizli alan: "</string>
     <string name="bcc_heading">Nüsxəni gizli alan:</string>
-    <string name="bd12n_account_settings_permission_summary">Gmail Sizə bildiriş göndərmək üçün icazə tələb edir. Bunu &lt;a href=%1$s>cihaz ayarları&lt;/a> bölməsindən dəyişə bilərsiniz.</string>
     <string name="bd12n_conversation_push_tip_text">Yeni gələn e-məktublardan xəbərdar olmaq üçün klikləyin.</string>
-    <string name="bd12n_conversation_tip_text">"Yeni e-məktublar haqqında bildiriş almaq istəyirsinizsə, Gmail'in arxa fonda işləməsinə icazə verin. &lt;a href=%1$s>İcazə verin&lt;/a>"</string>
     <string name="block_sender_menu_item">\"%s\" blok edin</string>
     <string name="blocked_sender_spam">Bu mesaj niyə Spam qutusundadır? &lt;b>%1$s&lt;/b> ünvanından gələn mesajları blok etmisiniz.</string>
     <string name="body_hint">E-məktub yazın</string>
@@ -416,7 +414,6 @@
     <string name="broadcast_internal_perm_label">daxili yayım</string>
     <string name="bt_action_archive">Arxiv edin</string>
     <string name="bt_action_delete">Silin</string>
-    <string name="bt_action_direct_reply">Cavab yazın</string>
     <string name="bt_action_remove_label">Etiketi Silin</string>
     <string name="bt_action_reply">Cavablayın</string>
     <string name="bt_action_reply_all">Hər kəsə cavab yazın</string>
@@ -635,6 +632,8 @@
     <string name="email_account_transfer_notification_channel_description">Qeyri-Google e-poçt hesabları başqa cihaza köçürülən zaman bildirişi göstərin.</string>
     <string name="email_account_transfer_notification_channel_name">E-poçt hesabının cihazdan cihaza köçürülməsi</string>
     <string name="email_account_transfer_notification_title">Qeyri-Google e-poçt hesabları başqa cihaza köçürülür.</string>
+    <string name="email_confirmation_state_unknown_description">Mesajınız göndərilmiş ola bilər.</string>
+    <string name="email_confirmation_state_unknown_title">Ups, qoşularkən problem baş verdi!</string>
     <string name="email_provider_label">Poçt</string>
     <string name="eml_loader_error_toast">Bu fayl açılmır</string>
     <string name="eml_viewer_subtitle">EML messagj izləyici</string>
@@ -769,7 +768,6 @@
     <string name="gm_i18n_snooze_option_later_today">Bu gün ərzində</string>
     <string name="gm_i18n_snooze_option_next_week">Növbəti həftə</string>
     <string name="gm_i18n_snooze_option_next_weekend">Gələn həftəsonu</string>
-    <string name="gm_i18n_snooze_option_someday">Hər hansı bir gün</string>
     <string name="gm_i18n_snooze_option_this_week">Bu həftə</string>
     <string name="gm_i18n_snooze_option_this_weekend">Bu həftə sonu</string>
     <string name="gm_i18n_snooze_option_tomorrow">Sabah</string>
@@ -987,6 +985,7 @@
     <string name="message_priority">Mesaj prioriteti</string>
     <string name="message_queued">Göndəriləcək</string>
     <string name="message_saved">Mesaj qaralama şəklində saxlanıldı.</string>
+    <string name="message_sent">Göndərildi</string>
     <string name="message_too_large">Mesaj bu cihazda açılmaq üçün çox böyükdür</string>
     <string name="message_uploading_attachments">Yüklənir</string>
     <string name="message_view_forwarded_attachment_background_load">Yönləndirdiyiniz mesajda bir və ya daha çox qoşma göndərilmədən öncə endiriləcək.</string>
@@ -1038,6 +1037,8 @@
     <string name="notifications_category">Bildirişlər</string>
     <string name="notify_attachment_save_error">Qoşmanı yadda saxlamaq alınmadı</string>
     <string name="notify_attachment_send_error">Qoşma göndərilə bilmədi</string>
+    <string name="nudge_dismiss_button_text">KEÇİN</string>
+    <string name="nudge_dismiss_success_message">Bildiriş rədd edildi.</string>
     <string name="oauth_authentication_title">Doğrulama sorğulanır...</string>
     <string name="oauth_error_description">Doğrulamaq olmur</string>
     <string name="oauth_server_error">Server əlçatmazdır. Lütfən, daha sonra yenidən cəhd edin.</string>
@@ -1522,7 +1523,7 @@ Açmaq üçün tıklayın."</string>
     <string name="to_message_header">%1$s adlı alıcıya</string>
     <string name="toggle_read_unread">Oxunub/oxunmayıb keçidi</string>
     <string name="too_large_to_attach_multiple">Bir və ya daha çox fayl qoşulmadı. Limit %1$s.</string>
-    <string name="too_large_to_attach_single">%1$s ölçüdən çox fayl qoşula bilməz.</string>
+    <string name="too_large_to_attach_single">Göndərməyə çalışdığınız fayllar %1$s ümumi qoşma limitini keçir.</string>
     <string name="trash_folder_selection_title">%s üçün server zibil qovluğu seçin.</string>
     <string name="trashed_message_indicator">Bu mesaj silinib</string>
     <string name="turn_auto_sync_on_dialog_body">Sadəcə Gmail deyil, bütün tətbiqlər və hesablarda edəcəyiniz bütün dəyişikliklər veb, %1$s cihazınız və digər cihazlarınız arasında sinxronlaşdırılacaq.</string>

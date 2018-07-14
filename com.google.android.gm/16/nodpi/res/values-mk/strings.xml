@@ -417,9 +417,7 @@
     <string name="bcc">Бцц</string>
     <string name="bcc_header_for_recipient_summary">"бцц: "</string>
     <string name="bcc_heading">Бцц:</string>
-    <string name="bd12n_account_settings_permission_summary">Gmail бара дозвола за доставување на вашите известувања како што пристигнуваат. Тоа може да го промените во &lt;a href=%1$s>поставките на уредот&lt;/a>.</string>
     <string name="bd12n_conversation_push_tip_text">Допрете за да добивате известувања при пристигнување на нови е-пораки.</string>
-    <string name="bd12n_conversation_tip_text">Дозволете Gmail да се извршува во заднината ако сакате да добивате известувања при пристигнување на нови е-пораки. &lt;a href=%1$s>Дозволете&lt;/a></string>
     <string name="block_sender_menu_item">Блокирај „%s“</string>
     <string name="blocked_sender_spam">Зошто поракава е во Спам? Ги блокиравте дојдовните пораки од &lt;b>%1$s&lt;/b>.</string>
     <string name="body_hint">Состави е-пошта</string>
@@ -429,7 +427,6 @@
     <string name="broadcast_internal_perm_label">внатрешно емитување</string>
     <string name="bt_action_archive">Архивирање</string>
     <string name="bt_action_delete">Бришење</string>
-    <string name="bt_action_direct_reply">Составување одговор</string>
     <string name="bt_action_remove_label">Отстранување етикета</string>
     <string name="bt_action_reply">Одговарање</string>
     <string name="bt_action_reply_all">Одговор до сите</string>
@@ -649,6 +646,8 @@
     <string name="email_account_transfer_notification_channel_description">Покажува известување кога вашите сметки на е-пошта што не се на Google се пренесуваат на друг уред.</string>
     <string name="email_account_transfer_notification_channel_name">Пренос на сметка на е-пошта на нов уред</string>
     <string name="email_account_transfer_notification_title">Пренесување адреси на е-пошта што не се на Google на друг уред.</string>
+    <string name="email_confirmation_state_unknown_description">Вашата порака можеби е испратена.</string>
+    <string name="email_confirmation_state_unknown_title">Упс, имавме проблеми со поврзување!</string>
     <string name="email_provider_label">Пошта</string>
     <string name="eml_loader_error_toast">Датотеката не може да се отвори</string>
     <string name="eml_viewer_subtitle">Прикажувач на пораки EML</string>
@@ -785,7 +784,6 @@
     <string name="gm_i18n_snooze_option_later_today">Подоцна денес</string>
     <string name="gm_i18n_snooze_option_next_week">Следната седмица</string>
     <string name="gm_i18n_snooze_option_next_weekend">Следниот викенд</string>
-    <string name="gm_i18n_snooze_option_someday">Еден ден</string>
     <string name="gm_i18n_snooze_option_this_week">Седмицава</string>
     <string name="gm_i18n_snooze_option_this_weekend">Викендов</string>
     <string name="gm_i18n_snooze_option_tomorrow">Утре</string>
@@ -1006,6 +1004,7 @@
     <string name="message_priority">Приоритет за испраќање пораки</string>
     <string name="message_queued">Чека на ред</string>
     <string name="message_saved">Пораката е зачувана како нацрт.</string>
+    <string name="message_sent">Испратено</string>
     <string name="message_too_large">Пораката е премногу голема за да се отвори на уредов</string>
     <string name="message_uploading_attachments">Се прикачува</string>
     <string name="message_view_forwarded_attachment_background_load">Пред да се испрати, од проследената порака ќе се преземат еден или повеќе прилози.</string>
@@ -1057,6 +1056,8 @@
     <string name="notifications_category">Известувања</string>
     <string name="notify_attachment_save_error">Прилогот не можеше да се зачува</string>
     <string name="notify_attachment_send_error">Прилогот не можеше да се испрати</string>
+    <string name="nudge_dismiss_button_text">ОТФРЛИ</string>
+    <string name="nudge_dismiss_success_message">Потсетувањето е отфрлено.</string>
     <string name="oauth_authentication_title">Се бара авторизација…</string>
     <string name="oauth_error_description">Не може да се автентицира</string>
     <string name="oauth_server_error">Серверот е недостапен, обидете се повторно подоцна</string>
@@ -1504,7 +1505,7 @@
     <string name="to_message_header">до %1$s</string>
     <string name="toggle_read_unread">Префрли прочитано непрочитано</string>
     <string name="too_large_to_attach_multiple">Една или повеќе датотеки не се прикачени. Ограничување %1$s.</string>
-    <string name="too_large_to_attach_single">Не може да се приложи датотека поголема од %1$s.</string>
+    <string name="too_large_to_attach_single">Датотеките што се обидувате да ги испратите го надминуваат вкупното ограничување за прилози од %1$s.</string>
     <string name="trash_folder_selection_title">Изберете папка за корпа на серверот за %s</string>
     <string name="trashed_message_indicator">Поракава е избришана</string>
     <string name="turn_auto_sync_on_dialog_body">Промените што ги правите во сите апликации и сметки, а не само во Gmail, ќе се синхронизираат на интернет, останатите уреди и вашиот %1$s.</string>

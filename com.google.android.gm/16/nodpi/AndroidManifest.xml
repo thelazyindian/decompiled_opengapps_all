@@ -38,7 +38,6 @@
     <uses-permission android:name="com.google.android.gm.permission.AUTO_SEND"/>
     <uses-permission android:name="com.google.android.voicesearch.AUDIO_FILE_ACCESS"/>
     <uses-permission android:name="android.permission.DOWNLOAD_WITHOUT_NOTIFICATION"/>
-    <uses-permission android:name="android.permission.NFC"/>
     <uses-permission android:name="com.google.android.gm.email.permission.READ_ATTACHMENT"/>
     <uses-permission android:maxSdkVersion="22" android:name="com.google.android.email.permission.READ_ATTACHMENT"/>
     <uses-permission android:name="com.google.android.gm.email.permission.ACCESS_PROVIDER"/>
@@ -601,7 +600,6 @@
             </intent-filter>
         </service>
         <service android:exported="false" android:name="com.android.mail.compose.EmptyService"/>
-        <service android:exported="false" android:name="com.android.mail.MailLogService"/>
         <service android:exported="false" android:name="com.android.mail.browse.EmlTempFileDeletionService"/>
         <service android:exported="false" android:name="com.android.mail.job.EmlTempFileDeletionJob$EmlTempFileDeletionJobService" android:permission="android.permission.BIND_JOB_SERVICE"/>
         <service android:enabled="false" android:exported="true" android:name="com.android.exchange.service.TasksSyncAdapterService">

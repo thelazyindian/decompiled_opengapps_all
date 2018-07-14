@@ -408,8 +408,7 @@
     <string name="auto_send_perm_desc">Gmail അപ്ലിക്കേഷൻ തുറക്കാതെ Gmail സന്ദേശങ്ങൾ അയയ്ക്കാൻ അപ്ലിക്കേഷനെ അനുവദിക്കുന്നു.</string>
     <string name="auto_send_perm_label">Gmail അയക്കുക</string>
     <string name="auto_sync_off">സ്വയ സമന്വയം ഓഫാണ്. ഓണാക്കാൻ ടാപ്പുചെയ്യുക.</string>
-    <string name="bd12n_account_settings_permission_summary">നിങ്ങളുടെ അറിയിപ്പുകൾ എത്തുന്ന മുറയ്ക്ക് ഡെലിവറി ചെയ്യുന്നതിന് Gmail-ന് അനുമതി ആവശ്യമാണ്. നിങ്ങൾക്ക് ഇത് &lt;a href=%1$s>ഉപകരണ ക്രമീകരണത്തിൽ&lt;/a> മാറ്റാനാവും.</string>
-    <string name="bd12n_conversation_tip_text">പുതിയ ഇമെയിലുകൾ വരുമ്പോഴെല്ലാം നിങ്ങൾക്ക് അറിയിപ്പ് ലഭിക്കണമെങ്കിൽ Gmail-നെ പശ്ചാത്തലത്തിൽ റൺ ചെയ്യാൻ അനുവദിക്കുക. &lt;a href=%1$s>അനുവദിക്കുക&lt;/a></string>
+    <string name="bd12n_conversation_push_tip_text">പുതിയ ഇമെയിലുകൾ ലഭ്യമാകുമ്പോൾ അറിയിപ്പ് ലഭിക്കാൻ ടാപ്പ് ചെയ്യുക.</string>
     <string name="block_sender_menu_item">\"%s\" എന്നയാളെ ബ്ലോക്കുചെയ്യുക</string>
     <string name="blocked_sender_spam">ഈ സന്ദേശം സ്‌പാമിലായതെന്തുകൊണ്ട്? &lt;b>%1$s&lt;/b> എന്ന വിലാസത്തിൽ നിന്നുള്ള ഇൻകമിംഗ് സന്ദേശങ്ങളെ നിങ്ങൾ തടഞ്ഞിരുന്നു.</string>
     <string name="body_hint">ഇമെയിൽ രചിക്കുക</string>
@@ -419,7 +418,6 @@
     <string name="broadcast_internal_perm_label">ആന്തരിക ബ്രോഡ്‌കാസ്റ്റ്</string>
     <string name="bt_action_archive">ശേഖരം</string>
     <string name="bt_action_delete">ഇല്ലാതാക്കുക</string>
-    <string name="bt_action_direct_reply">മറുപടി രചിക്കുക</string>
     <string name="bt_action_remove_label">ലേബൽ നീക്കം ചെയ്യുക</string>
     <string name="bt_action_reply">മറുപടി</string>
     <string name="bt_action_reply_all">എല്ലാവർക്കും മറുപടി</string>
@@ -637,6 +635,8 @@
     <string name="email_account_transfer_notification_channel_description">നിങ്ങളുടെ Google ഇതര ഇമെയിൽ അക്കൗണ്ടുകൾ മറ്റൊരു ഉപകരണത്തിലേക്ക് കൈമാറുമ്പോൾ ഒരു അറിയിപ്പ് കാണിക്കുന്നു.</string>
     <string name="email_account_transfer_notification_channel_name">ഉപകരണങ്ങൾ തമ്മിലുള്ള ഇമെയിൽ അക്കൗണ്ട് കൈമാറ്റം</string>
     <string name="email_account_transfer_notification_title">Google ഇതര ഇമെയിൽ അക്കൗണ്ടുകൾ മറ്റൊരു ഉപകരണത്തിലേക്ക് കൈമാറുന്നു.</string>
+    <string name="email_confirmation_state_unknown_description">നിങ്ങളുടെ സന്ദേശം അയച്ചിരിക്കാം.</string>
+    <string name="email_confirmation_state_unknown_title">ക്ഷമിക്കണം, കണക്റ്റുചെയ്യുന്നതിൽ ഞങ്ങൾക്ക് പ്രശ്‌നങ്ങളുണ്ടായിരുന്നു!</string>
     <string name="email_provider_label">മെയിൽ</string>
     <string name="eml_loader_error_toast">ഈ ഫയൽ തുറക്കാനാകില്ല</string>
     <string name="eml_viewer_subtitle">EML സന്ദേശ വ്യൂവർ</string>
@@ -772,7 +772,6 @@
     <string name="gm_i18n_snooze_option_later_today">ഇന്ന് കുറച്ചുകഴിഞ്ഞ്</string>
     <string name="gm_i18n_snooze_option_next_week">അടുത്ത ആഴ്‌ച</string>
     <string name="gm_i18n_snooze_option_next_weekend">അടുത്ത വാരാന്ത്യം</string>
-    <string name="gm_i18n_snooze_option_someday">മറ്റൊരു ദിവസം</string>
     <string name="gm_i18n_snooze_option_this_week">ഈ ആഴ്‌ച</string>
     <string name="gm_i18n_snooze_option_this_weekend">ഈ വാരാന്ത്യം</string>
     <string name="gm_i18n_snooze_option_tomorrow">നാളെ</string>
@@ -991,6 +990,7 @@
     <string name="message_priority">സന്ദേശ മുൻഗണന</string>
     <string name="message_queued">ക്യൂവിലാണ്</string>
     <string name="message_saved">സന്ദേശം ഡ്രാഫ്‌റ്റായി സംരക്ഷിച്ചു.</string>
+    <string name="message_sent">അയയ്ക്കുക</string>
     <string name="message_too_large">ഈ ഉപകരണത്തിൽ തുറക്കാൻ കഴിയുന്നതിലും വലുതാണ് സന്ദേശം</string>
     <string name="message_uploading_attachments">അപ്‌ലോഡുചെയ്യുന്നു</string>
     <string name="message_view_forwarded_attachment_background_load">നിങ്ങൾ കൈമാറിയ സന്ദേശത്തിലെ ഒന്നോ അതിലധികമോ അറ്റാച്ചുമെന്റുകൾ അയയ്ക്കുന്നതിന് മുമ്പ് ഡൗൺലോഡുചെയ്യപ്പെടും.</string>
@@ -1042,6 +1042,8 @@
     <string name="notifications_category">അറിയിപ്പുകൾ</string>
     <string name="notify_attachment_save_error">അറ്റാച്ച്മെന്റ് സംരക്ഷിക്കാനായില്ല</string>
     <string name="notify_attachment_send_error">അറ്റാച്ച്മെന്റ് അയയ്‌ക്കാനായില്ല</string>
+    <string name="nudge_dismiss_button_text">ഡിസ്‌മിസ്സ് ചെയ്യുക</string>
+    <string name="nudge_dismiss_success_message">നഡ്‌ജ് ഡിസ്‌മിസ്സ് ചെയ്‌തു.</string>
     <string name="oauth_authentication_title">അംഗീകാരം അഭ്യർത്ഥിക്കുന്നു…</string>
     <string name="oauth_error_description">പ്രമാണീകരിക്കാനാകുന്നില്ല</string>
     <string name="oauth_server_error">സെർവർ ലഭ്യമല്ല, പിന്നീട് വീണ്ടും ശ്രമിക്കുക</string>
@@ -1529,7 +1531,7 @@
     <string name="to_message_header">%1$s എന്നിവർക്ക്</string>
     <string name="toggle_read_unread">വായിച്ചവ, വായിക്കാത്തവ എന്നിവ ടോഗിൾ ചെയ്യുക</string>
     <string name="too_large_to_attach_multiple">ഒന്നോ അതിലധികമോ ഫയലുകൾ അറ്റാച്ചുചെയ്‌തിട്ടില്ല. പരിധി %1$s.</string>
-    <string name="too_large_to_attach_single">%1$s-ൽ കൂടുതൽ വലുപ്പമുള്ള ഫയൽ അറ്റാച്ചുചെയ്യാനാകില്ല.</string>
+    <string name="too_large_to_attach_single">നിങ്ങൾ അയയ്‌ക്കാൻ ശ്രമിക്കുന്ന ഫയലുകളുടെ ആകെ അറ്റാച്ചുമെന്റ് പരിധിയായ %1$s കവിഞ്ഞു.</string>
     <string name="trash_folder_selection_title">%s എന്നതിനായി സെർവർ ട്രാഷ് ഫോൾഡർ തിരഞ്ഞെടുക്കുക</string>
     <string name="trashed_message_indicator">ഈ സന്ദേശം ഇല്ലാതാക്കി</string>
     <string name="turn_auto_sync_on_dialog_body">എല്ലാ അപ്ലിക്കേഷനുകളിലും അക്കൗണ്ടുകളിലും നിങ്ങൾ വരുത്തുന്ന മാറ്റങ്ങൾ Gmail-ൽ മാത്രമല്ല, വെബിലും മറ്റ് ഉപകരണങ്ങളിലും നിങ്ങളുടെ %1$s എന്നതിനിടയിലും സമന്വയിപ്പിക്കപ്പെടും.</string>

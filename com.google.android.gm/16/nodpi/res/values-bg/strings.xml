@@ -415,9 +415,7 @@
     <string name="bcc">Ск</string>
     <string name="bcc_header_for_recipient_summary">"Ск: "</string>
     <string name="bcc_heading">Ск:</string>
-    <string name="bd12n_account_settings_permission_summary">Gmail се нуждае от разрешение, за да доставя известията ви при получаването им. Можете да промените това в &lt;a href=%1$s>настройките на устройството&lt;/a>.</string>
     <string name="bd12n_conversation_push_tip_text">Докоснете, за да бъдете известявани за нови имейли при получаването им.</string>
-    <string name="bd12n_conversation_tip_text">Оставете Gmail да работи на заден план, ако искате да бъдете известявани за нови имейли при получаването им. &lt;a href=%1$s>Разрешаване&lt;/a></string>
     <string name="block_sender_menu_item">Блокиране на %s</string>
     <string name="blocked_sender_spam">Защо това съобщение е в „Спам“? Блокирали сте входящите съобщения от &lt;b>%1$s&lt;/b>.</string>
     <string name="body_hint">Напишете имейл</string>
@@ -427,7 +425,6 @@
     <string name="broadcast_internal_perm_label">вътрешно излъчване</string>
     <string name="bt_action_archive">Архив</string>
     <string name="bt_action_delete">Изтриване</string>
-    <string name="bt_action_direct_reply">Писане на отговор</string>
     <string name="bt_action_remove_label">Премахване на етикета</string>
     <string name="bt_action_reply">Отговор</string>
     <string name="bt_action_reply_all">Отговор до всички</string>
@@ -649,6 +646,8 @@
     <string name="email_account_transfer_notification_channel_description">Показва известие, когато имейл адреси извън Google се прехвърлят към друго устройство.</string>
     <string name="email_account_transfer_notification_channel_name">Прехвърляне на профил към др. устройство</string>
     <string name="email_account_transfer_notification_title">Прехвърлят се профили за електронна поща извън Google към друго устройство.</string>
+    <string name="email_confirmation_state_unknown_description">Съобщението ви може да не е изпратено.</string>
+    <string name="email_confirmation_state_unknown_title">Ами сега! Имахме проблеми при свързването.</string>
     <string name="email_provider_label">Поща</string>
     <string name="eml_loader_error_toast">Този файл не може да се отвори</string>
     <string name="eml_viewer_subtitle">Визуализатор за EML съобщения</string>
@@ -786,7 +785,6 @@
     <string name="gm_i18n_snooze_option_later_today">По-късно днес</string>
     <string name="gm_i18n_snooze_option_next_week">Следващата седмица</string>
     <string name="gm_i18n_snooze_option_next_weekend">Следващия уикенд</string>
-    <string name="gm_i18n_snooze_option_someday">Някой ден</string>
     <string name="gm_i18n_snooze_option_this_week">Тази седмица</string>
     <string name="gm_i18n_snooze_option_this_weekend">Този уикенд</string>
     <string name="gm_i18n_snooze_option_tomorrow">Утре</string>
@@ -1009,6 +1007,7 @@
     <string name="message_priority">Приоритет на съобщението</string>
     <string name="message_queued">Поставено на опашка</string>
     <string name="message_saved">Съобщението бе запазено като чернова.</string>
+    <string name="message_sent">Изпратени</string>
     <string name="message_too_large">Съобщението е твърде голямо, за да бъде отворено на това устройство</string>
     <string name="message_uploading_attachments">Качва се</string>
     <string name="message_view_forwarded_attachment_background_load">Един или повече прикачени файлове в препратеното ви съобщение ще бъдат изтеглени преди изпращане.</string>
@@ -1061,6 +1060,8 @@
     <string name="notifications_category">Известия</string>
     <string name="notify_attachment_save_error">Прикаченият файл не можа да бъде запазен</string>
     <string name="notify_attachment_send_error">Прикаченият файл не можа да бъде изпратен</string>
+    <string name="nudge_dismiss_button_text">ОТХВЪРЛЯНЕ</string>
+    <string name="nudge_dismiss_success_message">Подсещането е отхвърлено.</string>
     <string name="oauth_authentication_title">Иска се упълномощаване...</string>
     <string name="oauth_error_description">Упълномощаването не е възможно</string>
     <string name="oauth_server_error">Няма достъп до сървъра. Моля, опитайте отново по-късно</string>
@@ -1553,7 +1554,7 @@
     <string name="to_message_header">до %1$s</string>
     <string name="toggle_read_unread">Превключване между прочетено и непрочетено</string>
     <string name="too_large_to_attach_multiple">Един или повече файла не бяха прикачени. Ограничението е %1$s.</string>
-    <string name="too_large_to_attach_single">Не може да се прикачи файл над %1$s.</string>
+    <string name="too_large_to_attach_single">Файловете, които се опитвате да изпратите, надхвърлят ограничението от %1$s МБ за прикачени файлове.</string>
     <string name="trash_folder_selection_title">Папка „Кошче“ на сървъра за %s</string>
     <string name="trashed_message_indicator">Това съобщение е било изтрито</string>
     <string name="turn_auto_sync_on_dialog_body">Промените, които правите във всички приложения и профили, а не само в Gmail, ще се синхронизират между мрежата, другите ви устройства и %1$s ви.</string>

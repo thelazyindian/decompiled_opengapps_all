@@ -408,6 +408,7 @@
         <item name="android:textColor">@color/conversation_view_banner_button_color</item>
         <item name="android:gravity">center_vertical</item>
         <item name="android:layout_gravity">center_vertical</item>
+        <item name="android:background">?selectableItemBackground</item>
         <item name="android:paddingLeft">@dimen/conversation_header_banner_button_horizontal_padding</item>
         <item name="android:paddingTop">@dimen/conversation_header_banner_button_vertical_padding</item>
         <item name="android:paddingRight">@dimen/conversation_header_banner_button_horizontal_padding</item>

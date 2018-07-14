@@ -413,9 +413,7 @@
     <string name="auto_sync_off">স্বংয়ক্ৰিয়ভাৱে ছিংক হোৱা সুবিধাটো অফ কৰা আছে। অন কৰিবলৈ টিপক।</string>
     <string name="bcc_header_for_recipient_summary">"Bcc "</string>
     <string name="bcc_heading">Bcc</string>
-    <string name="bd12n_account_settings_permission_summary">আপোনাৰ জাননী সময়মতে আপোনাক দিবলৈ Gmailক অনুমতিৰ প্ৰয়োজন। আপুনি এইটো &lt;a href=%1$s>ডিভাইচৰ ছেটিংসমূহত&lt;/a> সলনি কৰিব পাৰে।</string>
     <string name="bd12n_conversation_push_tip_text">নতুন বাৰ্তা অহাৰ লগে লগে জাননী পাবলৈ টিপক।</string>
-    <string name="bd12n_conversation_tip_text">নতুন ইমেইল অহাৰ জাননী পাবলৈ Gmailক নেপথ্যত চলিবলৈ অনুমতি দিয়ক। &lt;a href=%1$s>অনুমতি দিয়ক&lt;/a></string>
     <string name="block_sender_menu_item">\"%s\"ক অৱৰোধ কৰক</string>
     <string name="blocked_sender_spam">এই বার্তাটো স্পাম ফ’ল্ডাৰত কিয় আছে? আপুনি&lt;b>%1$s&lt;/b>ৰ পৰা অহা অন্তৰ্গামী বার্তা অৱৰোধ কৰিছে।</string>
     <string name="body_hint">ইমেইল লিখক</string>
@@ -425,7 +423,6 @@
     <string name="broadcast_internal_perm_label">আভ্যন্তৰীণ সম্প্ৰচাৰ</string>
     <string name="bt_action_archive">আৰ্কাইভ কৰক</string>
     <string name="bt_action_delete">মচক</string>
-    <string name="bt_action_direct_reply">উত্তৰ লিখক</string>
     <string name="bt_action_remove_label">লেবেল আঁতৰাওক</string>
     <string name="bt_action_reply">উত্তৰ দিয়ক</string>
     <string name="bt_action_reply_all">সকলো প্ৰাপকক উত্তৰ দিয়ক</string>
@@ -627,6 +624,8 @@
     <string name="email_account_transfer_notification_channel_description">আপোনাৰ অনা-Google ইমেইল একাউণ্ট আন এটা ডিভাইচলৈ স্থানান্তৰ কৰোঁতে জাননী দেখুৱায়।</string>
     <string name="email_account_transfer_notification_channel_name">ডিভাইচৰ পৰা ডিভাইচলৈ ইমেইল একাউণ্ট স্থানান্তৰকৰণ</string>
     <string name="email_account_transfer_notification_title">অনা-Google ইমেইল একাউণ্ট আন এটা ডিভাইচলৈ স্থানান্তৰ কৰি থকা হৈছে।</string>
+    <string name="email_confirmation_state_unknown_description">আপোনাৰ বার্তা প্ৰেৰণ কৰা হ’ল হ’বলা।</string>
+    <string name="email_confirmation_state_unknown_title">সংযোগ কৰাত সমস্যাৰ সৃষ্টি হৈছে!</string>
     <string name="email_provider_label">মেইল</string>
     <string name="eml_loader_error_toast">এই ফাইলটো খুলিব নোৱাৰি</string>
     <string name="eml_viewer_subtitle">EML বার্তা ভিউৱাৰ</string>
@@ -760,7 +759,6 @@
     <string name="gm_i18n_snooze_option_later_today">আজি দিনটোৰ শেষফালে</string>
     <string name="gm_i18n_snooze_option_next_week">অহা সপ্তাহত</string>
     <string name="gm_i18n_snooze_option_next_weekend">অহা সপ্তাহৰ দেওবাৰ</string>
-    <string name="gm_i18n_snooze_option_someday">কোনোবা দিনত</string>
     <string name="gm_i18n_snooze_option_this_week">এই সপ্তাহ</string>
     <string name="gm_i18n_snooze_option_this_weekend">এই সপ্তাহৰ দেওবাৰ</string>
     <string name="gm_i18n_snooze_option_tomorrow">কাইলৈ</string>
@@ -979,6 +977,7 @@
     <string name="message_priority">বার্তাৰ অগ্ৰাধিকাৰ</string>
     <string name="message_queued">শাৰীত ৰখা হৈছে</string>
     <string name="message_saved">বার্তা খচৰা হিচাপে ছেভ কৰা হ’ল।</string>
+    <string name="message_sent">প্ৰেৰণ কৰা হ’ল</string>
     <string name="message_too_large">বার্তাৰ আকাৰ ডাঙৰ হোৱাৰ বাবে এই ডিভাইচত খুলিব পৰা নাযায়</string>
     <string name="message_uploading_attachments">আপল’ড কৰি থকা হৈছে</string>
     <string name="message_view_forwarded_attachment_background_load">আপুনি ফৰৱার্ড কৰা বার্তাত সংযুক্ত এটা বা অধিক ফাইল প্ৰেৰণ কৰাৰ পূর্বে ডাউনল’ড কৰা হ’ব।</string>
@@ -1029,6 +1028,8 @@
     <string name="notifications_category">জাননী</string>
     <string name="notify_attachment_save_error">সংযুক্ত ফাইল ছেভ কৰিব পৰা নগ’ল</string>
     <string name="notify_attachment_send_error">সংযুক্ত ফাইল প্ৰেৰণ কৰিব পৰা নগ’ল</string>
+    <string name="nudge_dismiss_button_text">অগ্ৰাহ্য কৰক</string>
+    <string name="nudge_dismiss_success_message">স্মৰণ অগ্ৰাহ্য় কৰক।</string>
     <string name="oauth_authentication_title">বিশ্বাসযোগ্যতা প্ৰমাণীকৰণৰ বাবে অনুৰোধ কৰা হৈছে…</string>
     <string name="oauth_error_description">বিশ্বাসযোগ্যতাৰ প্ৰমাণ কৰিব পৰা নগ’ল</string>
     <string name="oauth_server_error">ছার্ভাৰ উপলব্ধ নহয়, অনুগ্ৰহ কৰি পিছত আকৌ চেষ্টা কৰক</string>
@@ -1464,7 +1465,7 @@
     <string name="to_message_header">%1$sলৈ</string>
     <string name="toggle_read_unread">পঢ়া আৰু নপঢ়া ট’গল কৰক</string>
     <string name="too_large_to_attach_multiple">এটা বা অধিক ফাইল সংযুক্ত কৰিব পৰা নগ’ল। সীমা %1$s।</string>
-    <string name="too_large_to_attach_single">%1$sত কৈ ডাঙৰ আকাৰৰ ফাইল সংযুক্ত কৰিব নোৱাৰি।</string>
+    <string name="too_large_to_attach_single">আপুনি প্ৰেৰণ কৰিব বিচৰা ফাইলৰ আকাৰ সংলগ্ন কৰিব পৰা বস্তুৰ সীমা %1$sত বেছি।</string>
     <string name="trash_folder_selection_title">%sৰ বাবে ছার্ভাৰ ট্ৰেশ্ব ফ’ল্ডাৰটো বাছনি কৰক</string>
     <string name="trashed_message_indicator">এই বাৰ্তাটো মচা হৈছে</string>
     <string name="turn_auto_sync_on_dialog_body">কেৱল Gmailএই নহয়, আপুনি অন্য সকলো এপ্ আৰু একাউণ্টত কৰা সালসলনিসমূহ ৱেব, আপোনাৰ অন্য ডিভাইচ আৰু আপোনাৰ %1$sত ছিংক কৰা হ’ব।</string>

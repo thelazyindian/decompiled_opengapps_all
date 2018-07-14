@@ -251,7 +251,7 @@
     <string name="ad_app_category_tools">Ferramentas</string>
     <string name="ad_app_category_transportation">Transporte</string>
     <string name="ad_app_category_travel_and_local">Viaxes e sitios locais</string>
-    <string name="ad_app_category_weather">Información meteorolóxica</string>
+    <string name="ad_app_category_weather">O tempo</string>
     <string name="ad_app_game_category_action">Acción</string>
     <string name="ad_app_game_category_adventure">Aventura</string>
     <string name="ad_app_game_category_board">Xogos de mesa</string>
@@ -410,9 +410,7 @@
     <string name="bcc">Cco</string>
     <string name="bcc_header_for_recipient_summary">"cco: "</string>
     <string name="bcc_heading">Cco:</string>
-    <string name="bd12n_account_settings_permission_summary">Gmail necesita permiso para mostrar as túas notificacións en canto cheguen. Podes cambiar esta opción na &lt;a href=%1$s>configuración do dispositivo&lt;/a>.</string>
     <string name="bd12n_conversation_push_tip_text">Toca para recibir notificacións cando cheguen novos correos electrónicos.</string>
-    <string name="bd12n_conversation_tip_text">Permite que Gmail se execute en segundo plano se queres recibir notificacións cando cheguen correos electrónicos novos. &lt;a href=%1$s>Permitir&lt;/a></string>
     <string name="block_sender_menu_item">Bloquear \"%s\"</string>
     <string name="blocked_sender_spam">Por que está en Spam esta mensaxe? Porque bloqueaches as mensaxes que che chegan de &lt;b>%1$s&lt;/b>.</string>
     <string name="body_hint">Redactar correo electrónico</string>
@@ -422,7 +420,6 @@
     <string name="broadcast_internal_perm_label">difusión interna</string>
     <string name="bt_action_archive">Arquivar</string>
     <string name="bt_action_delete">Eliminar</string>
-    <string name="bt_action_direct_reply">Redactar resposta</string>
     <string name="bt_action_remove_label">Quitar etiqueta</string>
     <string name="bt_action_reply">Responder</string>
     <string name="bt_action_reply_all">Responder a todos</string>
@@ -641,6 +638,8 @@
     <string name="email_account_transfer_notification_channel_description">Mostra unha notificación cando se estean transferindo a outro dispositivo as túas contas de correo electrónico que non sexan de Google.</string>
     <string name="email_account_transfer_notification_channel_name">Transfer. de contas entre dispositivos</string>
     <string name="email_account_transfer_notification_title">Transferindo a outro dispositivo contas de correo electrónico que non son de Google.</string>
+    <string name="email_confirmation_state_unknown_description">É posible que se enviase a túa mensaxe.</string>
+    <string name="email_confirmation_state_unknown_title">Produciuse un erro de conexión.</string>
     <string name="email_provider_label">Correo</string>
     <string name="eml_loader_error_toast">Non se pode abrir este ficheiro</string>
     <string name="eml_viewer_subtitle">Lector de mensaxes EML</string>
@@ -776,7 +775,6 @@
     <string name="gm_i18n_snooze_option_later_today">Hoxe máis tarde</string>
     <string name="gm_i18n_snooze_option_next_week">Semana seguinte</string>
     <string name="gm_i18n_snooze_option_next_weekend">Fin de sem. seguinte</string>
-    <string name="gm_i18n_snooze_option_someday">Algún día</string>
     <string name="gm_i18n_snooze_option_this_week">Esta semana</string>
     <string name="gm_i18n_snooze_option_this_weekend">Esta fin de semana</string>
     <string name="gm_i18n_snooze_option_tomorrow">Mañá</string>
@@ -995,6 +993,7 @@
     <string name="message_priority">Prioridade da mensaxe</string>
     <string name="message_queued">En cola</string>
     <string name="message_saved">Mensaxe gardada como borrador.</string>
+    <string name="message_sent">Enviado</string>
     <string name="message_too_large">A mensaxe é demasiado longa para abrila neste dispositivo</string>
     <string name="message_uploading_attachments">Cargando</string>
     <string name="message_view_forwarded_attachment_background_load">Un ou máis anexos da mensaxe reenviada descargaranse antes de realizar o envío.</string>
@@ -1046,6 +1045,8 @@
     <string name="notifications_category">Notificacións</string>
     <string name="notify_attachment_save_error">Non se puido gardar o anexo</string>
     <string name="notify_attachment_send_error">Non se puido enviar o anexo</string>
+    <string name="nudge_dismiss_button_text">IGNORAR</string>
+    <string name="nudge_dismiss_success_message">Ignorouse o aviso.</string>
     <string name="oauth_authentication_title">Solicitando autorización…</string>
     <string name="oauth_error_description">Non se pode autenticar</string>
     <string name="oauth_server_error">O servidor non está dispoñible. Téntao de novo máis tarde</string>
@@ -1530,7 +1531,7 @@ Toca para activala."</string>
     <string name="to_message_header">para %1$s</string>
     <string name="toggle_read_unread">Cambiar entre lidas e non lidas</string>
     <string name="too_large_to_attach_multiple">Non se anexaron un ou máis ficheiros. Límite: %1$s.</string>
-    <string name="too_large_to_attach_single">Non se poden anexar ficheiros de máis de %1$s.</string>
+    <string name="too_large_to_attach_single">Os ficheiros que estás tentando enviar superan o límite máximo de %1$s establecido para os anexos.</string>
     <string name="trash_folder_selection_title">Seleccionar o cartafol da papeleira do servidor para %s</string>
     <string name="trashed_message_indicator">Eliminouse esta mensaxe</string>
     <string name="turn_auto_sync_on_dialog_body">Os cambios que fas en todas as aplicacións e contas, non só en Gmail, sincronizaranse na web, nos demais dispositivos e no teu %1$s.</string>

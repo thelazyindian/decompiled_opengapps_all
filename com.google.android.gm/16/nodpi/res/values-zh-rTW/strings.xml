@@ -423,9 +423,7 @@
     <string name="bcc">密件副本</string>
     <string name="bcc_header_for_recipient_summary">"密件副本： "</string>
     <string name="bcc_heading">密件副本：</string>
-    <string name="bd12n_account_settings_permission_summary">Gmail 需要權限，才能在收到通知時向你顯示通知。你可以在&lt;a href=%1$s>裝置設定&lt;/a>中進行變更。</string>
     <string name="bd12n_conversation_push_tip_text">輕觸即可讓系統在你收到新的電子郵件時通知你。</string>
-    <string name="bd12n_conversation_tip_text">如要系統在你收到新的電子郵件時通知你，請允許 Gmail 在背景執行。&lt;a href=%1$s>允許&lt;/a></string>
     <string name="block_sender_menu_item">封鎖「%s」</string>
     <string name="blocked_sender_spam">為什麼這封郵件被歸類為垃圾郵件？因為你之前曾封鎖過 &lt;b>%1$s&lt;/b> 寄來的郵件。</string>
     <string name="body_hint">撰寫電子郵件</string>
@@ -435,7 +433,6 @@
     <string name="broadcast_internal_perm_label">內部廣播</string>
     <string name="bt_action_archive">封存</string>
     <string name="bt_action_delete">刪除</string>
-    <string name="bt_action_direct_reply">撰寫回覆</string>
     <string name="bt_action_remove_label">移除標籤</string>
     <string name="bt_action_reply">回覆</string>
     <string name="bt_action_reply_all">回覆所有人</string>
@@ -663,6 +660,8 @@
     <string name="email_account_transfer_notification_channel_description">當 Google 以外的電子郵件帳戶正在轉移到其他裝置時，系統會顯示通知。</string>
     <string name="email_account_transfer_notification_channel_name">裝置對裝置電子郵件帳戶轉移</string>
     <string name="email_account_transfer_notification_title">正在將 Google 以外的電子郵件帳戶轉移到其他裝置。</string>
+    <string name="email_confirmation_state_unknown_description">系統可能已傳送你的郵件。</string>
+    <string name="email_confirmation_state_unknown_title">糟糕，連線時發生問題！</string>
     <string name="email_provider_label">郵件</string>
     <string name="eml_loader_error_toast">無法開啟這個檔案</string>
     <string name="eml_viewer_subtitle">EML 郵件檢視器</string>
@@ -801,7 +800,6 @@
     <string name="gm_i18n_snooze_option_later_today">今天稍晚</string>
     <string name="gm_i18n_snooze_option_next_week">下週</string>
     <string name="gm_i18n_snooze_option_next_weekend">下週末</string>
-    <string name="gm_i18n_snooze_option_someday">日後</string>
     <string name="gm_i18n_snooze_option_this_week">本週</string>
     <string name="gm_i18n_snooze_option_this_weekend">本週末</string>
     <string name="gm_i18n_snooze_option_tomorrow">明天</string>
@@ -1026,6 +1024,7 @@
     <string name="message_priority">郵件優先順序</string>
     <string name="message_queued">已排入佇列</string>
     <string name="message_saved">已儲存郵件草稿。</string>
+    <string name="message_sent">已傳送</string>
     <string name="message_too_large">郵件過大，無法在這個裝置上開啟</string>
     <string name="message_uploading_attachments">上傳中</string>
     <string name="message_view_forwarded_attachment_background_load">傳送轉寄的郵件之前，系統會先下載郵件中的一或多個附件。</string>
@@ -1078,6 +1077,8 @@
     <string name="notifications_category">通知</string>
     <string name="notify_attachment_save_error">無法儲存附件</string>
     <string name="notify_attachment_send_error">無法傳送附件</string>
+    <string name="nudge_dismiss_button_text">關閉</string>
+    <string name="nudge_dismiss_success_message">已關閉自動提醒。</string>
     <string name="oauth_authentication_title">正在要求授權...</string>
     <string name="oauth_error_description">無法驗證</string>
     <string name="oauth_server_error">伺服器無法使用，請稍後再試</string>
@@ -1569,7 +1570,7 @@
     <string name="to_message_header">寄給%1$s</string>
     <string name="toggle_read_unread">切換已讀取/未讀取選項</string>
     <string name="too_large_to_attach_multiple">無法附加一或多個檔案 (大小上限：%1$s)。</string>
-    <string name="too_large_to_attach_single">無法附加大小超過 %1$s 的檔案。</string>
+    <string name="too_large_to_attach_single">你要傳送的檔案超過 %1$s 的附件大小上限。</string>
     <string name="trash_folder_selection_title">選取 %s 伺服器的垃圾桶資料夾</string>
     <string name="trashed_message_indicator">這封郵件已遭刪除</string>
     <string name="turn_auto_sync_on_dialog_body">您對所有應用程式和帳戶 (不限於 Gmail) 所做的變更一律會在網路、您的其他裝置和您的%1$s之間保持同步。</string>

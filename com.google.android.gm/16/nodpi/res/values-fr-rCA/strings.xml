@@ -232,9 +232,7 @@
     <string name="auto_send_perm_desc">"Permet à l'application d'envoyer des messages par Gmail sans ouvrir l'application dédiée."</string>
     <string name="auto_send_perm_label">Envoyer par Gmail</string>
     <string name="auto_sync_off">"La synchronisation automatique est désactivée. Appuyez ici pour l'activer."</string>
-    <string name="bd12n_account_settings_permission_summary">"Vous devez autoriser Gmail à livrer vos notifications dès leur réception. Vous pouvez modifier cette option dans les &lt;a href=%1$s>paramètres de l'appareil&lt;/a>."</string>
     <string name="bd12n_conversation_push_tip_text">Touchez pour être informé des nouveaux courriels dès leur arrivée.</string>
-    <string name="bd12n_conversation_tip_text">Autorisez Gmail à fonctionner en arrière-plan si vous souhaitez être informé des nouveaux courriels dès leur réception. &lt;a href=%1$s>Autoriser&lt;/a></string>
     <string name="block_sender_menu_item">Bloquer « %s »</string>
     <string name="blocked_sender_spam">Pourquoi ce message se trouve-t-il dans le dossier Pourriel? Vous avez bloqué les messages entrants de &lt;b>%1$s&lt;/b>.</string>
     <string name="body_hint">Composez un message</string>
@@ -366,6 +364,8 @@
     <string name="email_account_transfer_notification_channel_description">"Une notification s'affiche lorsque vos comptes de messagerie autres que Google sont transférés vers un autre appareil."</string>
     <string name="email_account_transfer_notification_channel_name">Transf. compte mess. à un autre appareil</string>
     <string name="email_account_transfer_notification_title">Transfert de comptes de messagerie autres que Google vers un autre appareil en cours…</string>
+    <string name="email_confirmation_state_unknown_description">Votre message a peut-être été envoyé.</string>
+    <string name="email_confirmation_state_unknown_title">Oups, un problème est survenu lors de la connexion!</string>
     <string name="email_provider_label">Courriel</string>
     <string name="eml_loader_error_toast">"Impossible d'ouvrir ce fichier"</string>
     <string name="eml_viewer_subtitle">Lecteur de messages EML</string>
@@ -449,7 +449,6 @@
     <string name="gm_i18n_snooze_option_later_next_week">La semaine prochaine</string>
     <string name="gm_i18n_snooze_option_later_today">"Plus tard aujourd'hui"</string>
     <string name="gm_i18n_snooze_option_next_weekend">La fin de sem. prochaine</string>
-    <string name="gm_i18n_snooze_option_someday">Un jour</string>
     <string name="gm_i18n_snooze_option_this_weekend">Cette fin de semaine</string>
     <string name="gmailify_about_text1">"Avec Gmailify, profitez du meilleur de Gmail avec votre compte de messagerie actuel : une protection plus efficace contre les pourriels et des catégories de messages améliorées pour organiser votre boîte de réception. Vous pouvez toujours changer d'avis. ^1"</string>
     <string name="gmailify_about_title">Moins de pourriels, plus de contrôle</string>
@@ -605,6 +604,7 @@
     <string name="notification_level_important">Section Importants uniquement</string>
     <string name="notification_sender_line_snoozed">Reporté : %1$s</string>
     <string name="notify_attachment_send_error">"Impossible d'envoyer la pièce jointe"</string>
+    <string name="nudge_dismiss_success_message">Coup de coude ignoré.</string>
     <string name="oauth_authentication_title">"Demande d'autorisation en cours…"</string>
     <string name="oauth_error_description">Authentification impossible</string>
     <string name="oauth_server_error">Le serveur est inaccessible. Veuillez réessayer plus tard.</string>
@@ -897,7 +897,7 @@ Appuyez ici pour activer cette fonctionnalité."</string>
     <string name="title_snooze">Reportés</string>
     <string name="toggle_read_unread">Masquer/Afficher le texte non lu</string>
     <string name="too_large_to_attach_multiple">"Un ou plusieurs fichiers n'ont pas pu être joints. Limite de %1$s."</string>
-    <string name="too_large_to_attach_single">Impossible de joindre un fichier de plus de %1$s.</string>
+    <string name="too_large_to_attach_single">"Les fichiers que vous essayez d'envoyer en pièces jointes dépassent la limite de %1$s."</string>
     <string name="trash_folder_selection_title">Sélec. Corbeille serveur pour %s</string>
     <string name="turn_auto_sync_on_dialog_title">Activer la synchronisation automatique?</string>
     <string name="ui_provider_label">Fournisseur de contenu UI</string>

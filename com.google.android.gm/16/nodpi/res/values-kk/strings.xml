@@ -409,9 +409,7 @@
     <string name="bcc">Жасырын көшірме</string>
     <string name="bcc_header_for_recipient_summary">"жасырын: "</string>
     <string name="bcc_heading">Жасырын көшірме</string>
-    <string name="bd12n_account_settings_permission_summary">Келген хабарландыруларды жеткізу үшін Gmail-ге рұқсат беру қажет. Бұны &lt;a href=%1$s>құрылғы параметрлерінен &lt;/a> өзгертуге болады</string>
     <string name="bd12n_conversation_push_tip_text">Жаңа хаттар келгенде хабарландыру алу үшін түртіңіз.</string>
-    <string name="bd12n_conversation_tip_text">Жаңа хаттар туралы хабарландыру алып отыруды қаласаңыз, Gmail поштасын фонда қосулы күйінде қалдырыңыз. &lt;a href=%1$s>Рұқсат беру&lt;/a></string>
     <string name="block_sender_menu_item">Бұғаттау: \"%s\"</string>
     <string name="blocked_sender_spam">Бұл хабар неге спам қалтасында? Сіз &lt;b>%1$s&lt;/b> хабарларын бөгеп тастағансыз.</string>
     <string name="body_hint">Электрондық пошта хабарын жазу</string>
@@ -421,7 +419,6 @@
     <string name="broadcast_internal_perm_label">ішкі таратылым</string>
     <string name="bt_action_archive">Мұрағаттау</string>
     <string name="bt_action_delete">Жою</string>
-    <string name="bt_action_direct_reply">Жауап жазу</string>
     <string name="bt_action_remove_label">Белгіні жою</string>
     <string name="bt_action_reply">Жауап беру</string>
     <string name="bt_action_reply_all">Барлығына жауап беру</string>
@@ -640,6 +637,8 @@
     <string name="email_account_transfer_notification_channel_description">Google емес электрондық пошталар басқа құрылғыға аударылғанда, хабарландыру көрсетіледі.</string>
     <string name="email_account_transfer_notification_channel_name">Эл.поштаны құрылғыдан құрылғыға аудару</string>
     <string name="email_account_transfer_notification_title">Google емес электрондық пошталар басқа құрылғыға аударылуда.</string>
+    <string name="email_confirmation_state_unknown_description">Хабар жіберіліп қоюы мүмкін.</string>
+    <string name="email_confirmation_state_unknown_title">Қап, желі байланысы жоқ!</string>
     <string name="email_provider_label">Хат</string>
     <string name="eml_loader_error_toast">Бұл файлды ашу мүмкін емес</string>
     <string name="eml_viewer_subtitle">EML хабарын қарау құралы</string>
@@ -775,7 +774,6 @@
     <string name="gm_i18n_snooze_option_later_today">Бүгін кейінірек</string>
     <string name="gm_i18n_snooze_option_next_week">Келесі аптада</string>
     <string name="gm_i18n_snooze_option_next_weekend">Келесі демалыста</string>
-    <string name="gm_i18n_snooze_option_someday">Бір күні</string>
     <string name="gm_i18n_snooze_option_this_week">Осы аптада</string>
     <string name="gm_i18n_snooze_option_this_weekend">Осы демалыста</string>
     <string name="gm_i18n_snooze_option_tomorrow">Ертең</string>
@@ -996,6 +994,7 @@
     <string name="message_priority">Хабар басымдығы</string>
     <string name="message_queued">Кезекте</string>
     <string name="message_saved">Хабар жоба жазба ретінде сақталды.</string>
+    <string name="message_sent">Жіберілді</string>
     <string name="message_too_large">Хабар осы құрылғыда ашу үшін тым үлкен</string>
     <string name="message_uploading_attachments">Жүктеп салынуда</string>
     <string name="message_view_forwarded_attachment_background_load">Сіз қайта жіберген хабардағы тіркемелердің бірі немесе бірнешеуі жіберуге дейін жүктеледі.</string>
@@ -1047,6 +1046,8 @@
     <string name="notifications_category">Хабарландырулар</string>
     <string name="notify_attachment_save_error">Тіркемені сақтау мүмкін болмады</string>
     <string name="notify_attachment_send_error">Тіркемені жіберу мүмкін емес</string>
+    <string name="nudge_dismiss_button_text">ЖАБУ</string>
+    <string name="nudge_dismiss_success_message">Ескерту жабылды.</string>
     <string name="oauth_authentication_title">Авторизация сұралуда…</string>
     <string name="oauth_error_description">Аутентификациялау мүмкін болмады</string>
     <string name="oauth_server_error">Сервер қол жетімсіз, кейінірек қайталаңыз.</string>
@@ -1533,7 +1534,7 @@
     <string name="to_message_header">Алушы: %1$s</string>
     <string name="toggle_read_unread">Toggle оқылған оқылмаған</string>
     <string name="too_large_to_attach_multiple">Бір немесе бірнеше файл тіркелмеді. Шегі: %1$s.</string>
-    <string name="too_large_to_attach_single">%1$s асатын файлды тіркеу мүмкін емес.</string>
+    <string name="too_large_to_attach_single">Жіберілетін файлдар өлшемі барлық тіркемелер үшін анықталған %1$s шегінен асып кетті.</string>
     <string name="trash_folder_selection_title">%s үшін сервердің себет қалтасын таңдаңыз</string>
     <string name="trashed_message_indicator">Бұл хабар жойылған</string>
     <string name="turn_auto_sync_on_dialog_body">Сіз Gmail ғана емес, барлық қолданбалар мен есептік жазбаларға енгізетін өзгерістер веб, сіздің басқа құрылғыларыңыз және сіздің %1$s арасында синхрондалады.</string>

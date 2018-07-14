@@ -407,8 +407,7 @@
     <string name="auto_send_perm_desc">অ্যাপ্লিকেশানটিকে Gmail অ্যাপ্লিকেশান না খুলেই Gmail বার্তাগুলি পাঠানোর অনুমতি দিন৷</string>
     <string name="auto_send_perm_label">Gmail পাঠান</string>
     <string name="auto_sync_off">স্বতঃ-সিঙ্ক বন্ধ আছে৷ চালু করতে আলতো চাপ দিন৷</string>
-    <string name="bd12n_account_settings_permission_summary">কোনও বিজ্ঞপ্তি আসলে সেগুলি আপনাকে দেখানোর জন্য Gmail কে অনুমতি দিতে হবে। এই সেটিংসটি আপনি &lt;a href=%1$s>ডিভাইস সেটিংস&lt;/a> থেকে পরিবর্তন করতে পারবেন।</string>
-    <string name="bd12n_conversation_tip_text">যদি আপনি নতুন ইমেল আসার সাথে সাথেই বিজ্ঞপ্তি পেতে চান তাহলে ব্যাকগ্রাউন্ডে Gmail চালু করুন। &lt;a href=%1$s>অনুমতি দিন&lt;/a></string>
+    <string name="bd12n_conversation_push_tip_text">নতুন ইমেল আসার সাথে সাথেই বিজ্ঞপ্তি পেতে চাইলে ট্যাপ করুন।</string>
     <string name="block_sender_menu_item">\"%s\" কে অবরুদ্ধ করুন</string>
     <string name="blocked_sender_spam">এই মেসেজটি স্প্যামে কেন? আপনি &lt;b>%1$s&lt;/b>এর থেকে আগত মেসেজগুলি ব্লক করেছেন।</string>
     <string name="body_hint">ইমেল লিখুন</string>
@@ -418,7 +417,6 @@
     <string name="broadcast_internal_perm_label">অভ্যন্তরীণ সম্প্রচার</string>
     <string name="bt_action_archive">আর্কাইভ করুন</string>
     <string name="bt_action_delete">মুছুন</string>
-    <string name="bt_action_direct_reply">উত্তর লিখুন</string>
     <string name="bt_action_remove_label">লেবেলটি সরিয়ে দিন</string>
     <string name="bt_action_reply">উত্তর দিন</string>
     <string name="bt_action_reply_all">সকলকে উত্তর দিন</string>
@@ -636,6 +634,8 @@
     <string name="email_account_transfer_notification_channel_description">আপনার Google ছাড়া অন্য ইমেল অ্যাকাউন্ট অন্য ডিভাইসে ট্রান্সফার করার সময় বিজ্ঞপ্তি দেখান।</string>
     <string name="email_account_transfer_notification_channel_name">ডিভাইস থেকে ডিভাইস ইমেল অ্যাকাউন্ট ট্রান্সফার করুন</string>
     <string name="email_account_transfer_notification_title">Google ছাড়া অন্য ইমেল অ্যাকাউন্ট অন্য ডিভাইসে ট্রান্সফার করুন।</string>
+    <string name="email_confirmation_state_unknown_description">আপনার মেসেজটি হয়ত পাঠানো হয়ে গেছে।</string>
+    <string name="email_confirmation_state_unknown_title">সংযুক্ত করার সময় কিছু সমস্যা হয়েছে!</string>
     <string name="email_provider_label">মেল</string>
     <string name="eml_loader_error_toast">এই ফাইলটি খোলা যাচ্ছে না</string>
     <string name="eml_viewer_subtitle">EML বার্তা ভিউয়ার</string>
@@ -771,7 +771,6 @@
     <string name="gm_i18n_snooze_option_later_today">আজকে পরের দিকে</string>
     <string name="gm_i18n_snooze_option_next_week">আগামী সপ্তাহ</string>
     <string name="gm_i18n_snooze_option_next_weekend">পরের সপ্তাহান্ত</string>
-    <string name="gm_i18n_snooze_option_someday">কোনো একদিন</string>
     <string name="gm_i18n_snooze_option_this_week">এই সপ্তাহ</string>
     <string name="gm_i18n_snooze_option_this_weekend">এই সপ্তাহান্তে</string>
     <string name="gm_i18n_snooze_option_tomorrow">আগামীকাল</string>
@@ -993,6 +992,7 @@
     <string name="message_priority">মেসেজের অগ্রাধিকার</string>
     <string name="message_queued">পংক্তিবদ্ধ</string>
     <string name="message_saved">বার্তাটি খসড়া হিসেবে সংরক্ষিত হয়েছে।</string>
+    <string name="message_sent">পাঠানো হয়েছে</string>
     <string name="message_too_large">এই ডিভাইসে খোলার পক্ষে বার্তাটি অত্যন্ত বড়</string>
     <string name="message_uploading_attachments">আপলোড হচ্ছে</string>
     <string name="message_view_forwarded_attachment_background_load">আপনার ফরওয়ার্ড করা বার্তাতে থাকা এক বা একাধিক সংযুক্তি পাঠানোর আগে ডাউনলোড হবে।</string>
@@ -1043,6 +1043,8 @@
     <string name="notifications_category">বিজ্ঞপ্তি</string>
     <string name="notify_attachment_save_error">সংযুক্তি সংরক্ষণ করা গেল না</string>
     <string name="notify_attachment_send_error">সংযুক্তি পাঠানো গেল না</string>
+    <string name="nudge_dismiss_button_text">খারিজ করুন</string>
+    <string name="nudge_dismiss_success_message">Nudge বাতিল করা হয়েছে।</string>
     <string name="oauth_authentication_title">অনুমোদনের অনুরোধ জানানো হচ্ছে...</string>
     <string name="oauth_error_description">প্রমাণীকরণ করা যাবে না</string>
     <string name="oauth_server_error">সার্ভার অনুপলব্ধ, অনুগ্রহ করে পরে আবার চেষ্টা করুন</string>
@@ -1531,7 +1533,7 @@
     <string name="to_message_header">%1$s কে</string>
     <string name="toggle_read_unread">পঠিত অপঠিত টগল করুন</string>
     <string name="too_large_to_attach_multiple">একটি বা তার বেশি ফাইল সংযুক্ত হয়নি। সীমা %1$s।</string>
-    <string name="too_large_to_attach_single">%1$s এর বেশি ফাইল সংযুক্ত করা যাবে না।</string>
+    <string name="too_large_to_attach_single">যে ফাইলগুলি আপনি পাঠাবার চেষ্টা করছেন সেগুলি %1$s অ্যাটাচমেন্টের সীমা অতিক্রম করে গেছে।</string>
     <string name="trash_folder_selection_title">%s এর সার্ভারের ট্র্যাশ ফোল্ডার বেছে নিন</string>
     <string name="trashed_message_indicator">এই মেসেজটি মুছে ফেলা হয়েছে</string>
     <string name="turn_auto_sync_on_dialog_body">শুধুমাত্র Gmail এ নয়, সমস্ত অ্যাপ্লিকেশনে এবং অ্যাকাউন্টে আপনার করা পরিবর্তনগুলি, ওয়েব, আপনার অন্যান্য ডিভাইস, এবং আপনার %1$s এর মধ্যে সিঙ্ক্রোনাইজ হবে।</string>

@@ -409,9 +409,7 @@
     <string name="bcc">Blindkopi</string>
     <string name="bcc_header_for_recipient_summary">"blindkopi: "</string>
     <string name="bcc_heading">Blindkopi:</string>
-    <string name="bd12n_account_settings_permission_summary">Gmail må ha tillatelse til å levere varslene dine etter hvert som de ankommer. Du kan endre dette i &lt;a href=%1$s>enhetsinnstillingene&lt;/a>.</string>
     <string name="bd12n_conversation_push_tip_text">Trykk for å få varsler om nye e-poster når de ankommer.</string>
-    <string name="bd12n_conversation_tip_text">La Gmail kjøre i bakgrunnen hvis du ønsker å bli varslet om nye e-poster når de ankommer. &lt;a href=%1$s>Tillat&lt;/a></string>
     <string name="block_sender_menu_item">Blokkér «%s»</string>
     <string name="blocked_sender_spam">Hvorfor ligger denne e-posten i Søppelpost? Du har blokkert innkommende e-poster fra &lt;b>%1$s&lt;/b>.</string>
     <string name="body_hint">Skriv e-post</string>
@@ -421,7 +419,6 @@
     <string name="broadcast_internal_perm_label">intern kringkasting</string>
     <string name="bt_action_archive">Arkivér</string>
     <string name="bt_action_delete">Slett</string>
-    <string name="bt_action_direct_reply">Skriv svar</string>
     <string name="bt_action_remove_label">Fjern etikett</string>
     <string name="bt_action_reply">Svar</string>
     <string name="bt_action_reply_all">Svar alle</string>
@@ -646,6 +643,8 @@
     <string name="email_account_transfer_notification_channel_description">Viser et varsel når e-postkontoer som ikke er tilknyttet Google, overføres til en annen enhet.</string>
     <string name="email_account_transfer_notification_channel_name">E-postkontooverføring mellom enheter</string>
     <string name="email_account_transfer_notification_title">Overfører e-postkontoer som ikke er tilknyttet Google, til en annen enhet.</string>
+    <string name="email_confirmation_state_unknown_description">E-posten din kan ha blitt sendt.</string>
+    <string name="email_confirmation_state_unknown_title">Beklager, det oppsto et problem.</string>
     <string name="email_provider_label">E-post</string>
     <string name="eml_loader_error_toast">Kan ikke åpne denne filen</string>
     <string name="eml_viewer_subtitle">EML-meldingsviser</string>
@@ -784,7 +783,6 @@
     <string name="gm_i18n_snooze_option_later_today">Senere i dag</string>
     <string name="gm_i18n_snooze_option_next_week">Neste uke</string>
     <string name="gm_i18n_snooze_option_next_weekend">Neste helg</string>
-    <string name="gm_i18n_snooze_option_someday">En vakker dag</string>
     <string name="gm_i18n_snooze_option_this_week">Denne uken</string>
     <string name="gm_i18n_snooze_option_this_weekend">Denne helgen</string>
     <string name="gm_i18n_snooze_option_tomorrow">I morgen</string>
@@ -1007,6 +1005,7 @@
     <string name="message_priority">Meldingsprioritet</string>
     <string name="message_queued">Lagt i kø</string>
     <string name="message_saved">E-posten er lagret som utkast.</string>
+    <string name="message_sent">Sendt</string>
     <string name="message_too_large">E-posten er for stor til å kunne åpnes på denne enheten</string>
     <string name="message_uploading_attachments">Laster opp</string>
     <string name="message_view_forwarded_attachment_background_load">Ett eller flere vedlegg i den videresendte e-posten blir lastet ned før du sender.</string>
@@ -1058,6 +1057,8 @@
     <string name="notifications_category">Varsler</string>
     <string name="notify_attachment_save_error">Kunne ikke lagre vedlegget</string>
     <string name="notify_attachment_send_error">Kunne ikke sende vedlegget</string>
+    <string name="nudge_dismiss_button_text">LUKK</string>
+    <string name="nudge_dismiss_success_message">Dytten er avvist.</string>
     <string name="oauth_authentication_title">Ber om autorisasjon …</string>
     <string name="oauth_error_description">Kan ikke autentisere</string>
     <string name="oauth_server_error">Tjeneren er utilgjengelig – prøv igjen senere.</string>
@@ -1546,7 +1547,7 @@ Trykk for å slå det på."</string>
     <string name="to_message_header">til %1$s</string>
     <string name="toggle_read_unread">Veksle mellom lest og ulest</string>
     <string name="too_large_to_attach_multiple">Én eller flere av filene er ikke vedlagt. Grensen er på %1$s.</string>
-    <string name="too_large_to_attach_single">Kan ikke legge ved filer på mer enn %1$s.</string>
+    <string name="too_large_to_attach_single">Filene du prøver å sende, er større enn grensen for vedlegg på %1$s.</string>
     <string name="trash_folder_selection_title">Velg tjenerens papirkurv for %s</string>
     <string name="trashed_message_indicator">Denne e-posten er slettet</string>
     <string name="turn_auto_sync_on_dialog_body">Endringer du gjør i apper og kontoer (ikke bare i Gmail) blir synkronisert mellom nettet, de andre enhetene dine og %1$s.</string>

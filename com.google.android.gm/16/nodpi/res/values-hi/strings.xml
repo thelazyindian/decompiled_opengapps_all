@@ -410,9 +410,7 @@
     <string name="bcc">गुप्त कॉपी</string>
     <string name="bcc_header_for_recipient_summary">"गुप्त प्रति: "</string>
     <string name="bcc_heading">गुप्त प्रति:</string>
-    <string name="bd12n_account_settings_permission_summary">Gmail को सूचनाओं के आते ही उन्हें डिलीवर करने की अनुमति चाहिए. आप &lt;a href=%1$s>डिवाइस सेटिंग&lt;/a> में जा कर इसे बदल सकते हैं.</string>
     <string name="bd12n_conversation_push_tip_text">नए ईमेल के आते ही उनकी सूचना पाने के लिए टैप करें.</string>
-    <string name="bd12n_conversation_tip_text">अगर आप नए ईमेल के आते ही उनकी सूचना पाना चाहते हैं, तो Gmail को बैकग्राउंड में चलने दें. &lt;a href=%1$s>अनुमति दें&lt;/a></string>
     <string name="block_sender_menu_item">\"%s\" को अवरूद्ध करें</string>
     <string name="blocked_sender_spam">यह मैसेज स्‍पैम फ़ोल्डर में क्‍यों है? आपने &lt;b>%1$s&lt;/b> की ओर से आने वाले मैसेज ब्लॉक कर दिए थे.</string>
     <string name="body_hint">ईमेल लिखें</string>
@@ -422,10 +420,9 @@
     <string name="broadcast_internal_perm_label">आंतरिक प्रसारण</string>
     <string name="bt_action_archive">संग्रहित करें</string>
     <string name="bt_action_delete">मिटाएं</string>
-    <string name="bt_action_direct_reply">जवाब लिखें</string>
     <string name="bt_action_remove_label">लेबल हटाएं</string>
     <string name="bt_action_reply">जवाब दें</string>
-    <string name="bt_action_reply_all">सबको जवाब दें</string>
+    <string name="bt_action_reply_all">सभी को जवाब दें</string>
     <string name="bt_notification_attachment_save_error">अटैचमेंट सेव नहीं किया जा सका</string>
     <string name="bt_notification_attachment_send_error">अटैचमेंट भेजा नहीं जा सका</string>
     <string name="bt_toast_undo">पहले जैसा करें</string>
@@ -645,6 +642,8 @@
     <string name="email_account_transfer_notification_channel_description">आपके गैर-Google ईमेल खातों को किसी दूसरे डिवाइस पर स्थानान्तरित किए जाने पर एक सूचना दिखाता है.</string>
     <string name="email_account_transfer_notification_channel_name">डिवाइस-से-डिवाइस में ईमेल खाता स्थानान्तरण</string>
     <string name="email_account_transfer_notification_title">गैर-Google ईमेल खातों को किसी दूसरे डिवाइस पर स्थानान्तरित किया जा रहा है.</string>
+    <string name="email_confirmation_state_unknown_description">हो सकता है आपका संदेश भेज दिया गया हो.</string>
+    <string name="email_confirmation_state_unknown_title">ओह, हमें कनेक्ट करने में समस्या आ रही थी!</string>
     <string name="email_provider_label">मेल</string>
     <string name="eml_loader_error_toast">यह फ़ाइल नहीं खुल पा रही</string>
     <string name="eml_viewer_subtitle">EML संदेश व्यूअर</string>
@@ -781,7 +780,6 @@
     <string name="gm_i18n_snooze_option_later_today">आज बाद में</string>
     <string name="gm_i18n_snooze_option_next_week">अगले सप्ताह</string>
     <string name="gm_i18n_snooze_option_next_weekend">अगले सप्ताहांत</string>
-    <string name="gm_i18n_snooze_option_someday">किसी दिन</string>
     <string name="gm_i18n_snooze_option_this_week">इस सप्ताह</string>
     <string name="gm_i18n_snooze_option_this_weekend">इस सप्ताहांत</string>
     <string name="gm_i18n_snooze_option_tomorrow">कल</string>
@@ -902,7 +900,7 @@
     <string name="label_notification_vibrate_never">कभी नहीं</string>
     <string name="label_notification_vibrate_title">कंपन</string>
     <string name="label_notifications_title">लेबल नोटिफ़िकेशन</string>
-    <string name="label_notifications_unavailable_for_high_priority_summary">"उपलब्ध नहीं है, क्योंकि खाता सूचनाएं सिर्फ़ 'ऊंची प्राथमिकता' पर सेट हैं"</string>
+    <string name="label_notifications_unavailable_for_high_priority_summary">"उपलब्ध नहीं है, क्योंकि खाता सूचनाएं सिर्फ़ 'सबसे ज़्यादा ज़रूरी' पर सेट हैं"</string>
     <string name="label_notifications_unavailable_summary">अनुपलब्ध है क्योंकि खाता नोटिफ़िकेशन बंद हैं</string>
     <string name="label_priority_inbox_all_drafts">सभी ड्राफ़्ट</string>
     <string name="label_priority_inbox_all_important">सभी महत्वपूर्ण</string>
@@ -1002,6 +1000,7 @@
     <string name="message_priority">संदेश प्राथमिकता</string>
     <string name="message_queued">कतारबद्ध</string>
     <string name="message_saved">संदेश अधूरे ईमेल के रूप में सहेजा गया.</string>
+    <string name="message_sent">भेज दिया गया</string>
     <string name="message_too_large">इस डिवाइस पर खोलने के लिए संदेश बहुत बड़ा है</string>
     <string name="message_uploading_attachments">अपलोड हो रहा है</string>
     <string name="message_view_forwarded_attachment_background_load">अग्रेषित संदेश भेजे जाने से पहले उसके एक या अधिक अटैचमेंट डाउनलोड किए जाएंगे.</string>
@@ -1053,6 +1052,8 @@
     <string name="notifications_category">सूचनाएं</string>
     <string name="notify_attachment_save_error">अटैचमेंट सहेजा नहीं जा सका</string>
     <string name="notify_attachment_send_error">अटैचमेंट भेजा नहीं जा सका</string>
+    <string name="nudge_dismiss_button_text">खारिज करें</string>
+    <string name="nudge_dismiss_success_message">अनुत्तरित ईमेल खारिज किया गया.</string>
     <string name="oauth_authentication_title">अधिकृत किए जाने का अनुरोध किया जा रहा है...</string>
     <string name="oauth_error_description">प्रमाणीकृत करने में असमर्थ</string>
     <string name="oauth_server_error">सर्वर अनुपलब्ध है, कृपया बाद में पुन: प्रयास करें.</string>
@@ -1186,7 +1187,7 @@
     <string name="preferences_labels_auto_sync_disabled">"स्वतः समन्वयन बंद है.
 लेबल पृष्ठभूमि में समन्वयित नहीं होंगे या नोटिफ़िकेशन प्रदर्शित नहीं करेंगे.
 चालू करने के लिए टैप करें."</string>
-    <string name="preferences_labels_enable_all_notifications_from_high_priority_dialog_message">"%1$s के लिए खाता सूचनाएं सिर्फ़ 'ऊंची प्राथमिकता' पर सेट हैं.
+    <string name="preferences_labels_enable_all_notifications_from_high_priority_dialog_message">"%1$s के लिए खाता सूचनाएं सिर्फ़ 'सबसे ज़्यादा ज़रूरी' पर सेट हैं.
 
 खाता सूचनाओं को 'सभी' पर सेट करें?"</string>
     <string name="preferences_labels_enable_gmail_sync_dialog_message">%1$s के लिए Gmail सिंक चालू करें?</string>
@@ -1544,7 +1545,7 @@
     <string name="to_message_header">%1$s को</string>
     <string name="toggle_read_unread">पठित-अपठित टॉगल करें</string>
     <string name="too_large_to_attach_multiple">एक या अधिक फ़ाइलें अटैच नहीं हुईं. सीमा %1$s की है.</string>
-    <string name="too_large_to_attach_single">%1$s से बड़ी फ़ाइल अटैच नहीं कर सकते.</string>
+    <string name="too_large_to_attach_single">आप जिन फ़ाइलों को भेजने की कोशिश कर रहे हैं वे %1$s की अटैचमेंट सीमा पार कर चुकी हैं.</string>
     <string name="trash_folder_selection_title">%s का सर्वर मिटाए गए ईमेल फ़ोल्डर चुनें</string>
     <string name="trashed_message_indicator">यह मैसेज मिटाया जा चुका है.</string>
     <string name="turn_auto_sync_on_dialog_body">आपके द्वारा न केवल Gmail में, बल्कि सभी ऐप्लिकेशन और खातों में किए जाने वाले बदलाव, वेब, आपके अन्य डिवाइस, और आपके %1$s के बीच समन्वयित किए जाएंगे.</string>

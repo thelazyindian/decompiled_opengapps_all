@@ -409,9 +409,7 @@
     <string name="auto_send_perm_label">Stuur Gmail</string>
     <string name="auto_sync_off">Outo-sinkronisering is af. Tik om aan te skakel.</string>
     <string name="bcc_header_for_recipient_summary">"Bcc: "</string>
-    <string name="bd12n_account_settings_permission_summary">Gmail benodig toestemming om jou kennisgewings af te lewer soos hulle arriveer. Jy kan dit verander in &lt;a href=%1$s>toestelinstellings&lt;/a>.</string>
     <string name="bd12n_conversation_push_tip_text">Tik om in kennis gestel te word van nuwe e-posse wanneer hulle aankom.</string>
-    <string name="bd12n_conversation_tip_text">Laat Gmail in die agtergrond loop as jy in kennis gestel wil word van nuwe e-posse soos hulle arriveer. &lt;a href=%1$s>Laat toe&lt;/a></string>
     <string name="block_sender_menu_item">Blokkeer \"%s\"</string>
     <string name="blocked_sender_spam">Hoekom is hierdie boodskap in Strooipos? Jy het inkomende boodskappe van &lt;b>%1$s&lt;/b> geblokkeer.</string>
     <string name="body_hint">Skryf e-pos</string>
@@ -421,7 +419,6 @@
     <string name="broadcast_internal_perm_label">interne uitsending</string>
     <string name="bt_action_archive">Argiveer</string>
     <string name="bt_action_delete">Vee uit</string>
-    <string name="bt_action_direct_reply">Skryf antwoord</string>
     <string name="bt_action_remove_label">Verwyder etiket</string>
     <string name="bt_action_reply">Antwoord</string>
     <string name="bt_action_reply_all">Antwoord almal</string>
@@ -642,6 +639,8 @@
     <string name="email_account_transfer_notification_channel_description">"Wys 'n kennisgewing wanneer jou nie-Google-e-posrekeninge oorgedra word na 'n ander toestel."</string>
     <string name="email_account_transfer_notification_channel_name">Toestel-na-toestel e-posrekeningoordrag</string>
     <string name="email_account_transfer_notification_title">"Dra tans nie-Google-e-posrekeninge oor na 'n ander toestel."</string>
+    <string name="email_confirmation_state_unknown_description">Jou boodskap is dalk gestuur.</string>
+    <string name="email_confirmation_state_unknown_title">Oeps, ons het probleme gehad met die verbinding!</string>
     <string name="email_provider_label">E-pos</string>
     <string name="eml_loader_error_toast">Kan nie hierdie lêer oopmaak nie</string>
     <string name="eml_viewer_subtitle">EML-boodskapkyker</string>
@@ -779,7 +778,6 @@
     <string name="gm_i18n_snooze_option_later_today">Later vandag</string>
     <string name="gm_i18n_snooze_option_next_week">Volgende week</string>
     <string name="gm_i18n_snooze_option_next_weekend">Volgende naweek</string>
-    <string name="gm_i18n_snooze_option_someday">Eendag</string>
     <string name="gm_i18n_snooze_option_this_week">Hierdie week</string>
     <string name="gm_i18n_snooze_option_this_weekend">Hierdie naweek</string>
     <string name="gm_i18n_snooze_option_tomorrow">Môre</string>
@@ -999,6 +997,7 @@
     <string name="message_priority">Boodskapprioriteit</string>
     <string name="message_queued">In waglys</string>
     <string name="message_saved">Boodskap as konsep gestoor.</string>
+    <string name="message_sent">Gestuur</string>
     <string name="message_too_large">Boodskap is te groot om op hierdie toestel oop te maak</string>
     <string name="message_uploading_attachments">Laai tans op</string>
     <string name="message_view_forwarded_attachment_background_load">Een of meer aanhegsels in jou aangestuurde boodskap sal afgelaai word voor dit gestuur word.</string>
@@ -1050,6 +1049,8 @@
     <string name="notifications_category">Kennisgewings</string>
     <string name="notify_attachment_save_error">Kon nie aanhegsel stoor nie</string>
     <string name="notify_attachment_send_error">Kon nie aanhegsel stuur nie</string>
+    <string name="nudge_dismiss_button_text">MAAK TOE</string>
+    <string name="nudge_dismiss_success_message">Por is toegemaak.</string>
     <string name="oauth_authentication_title">Versoek tans magtiging …</string>
     <string name="oauth_error_description">Kan nie staaf nie</string>
     <string name="oauth_server_error">Bediener is nie beskikbaar nie. Probeer asseblief later.</string>
@@ -1537,7 +1538,7 @@ Tik om aan te skakel."</string>
     <string name="to_message_header">aan %1$s</string>
     <string name="toggle_read_unread">Wissel tussen lees/ongelees</string>
     <string name="too_large_to_attach_multiple">Een of meer lêers nie aangeheg nie. Beperking %1$s.</string>
-    <string name="too_large_to_attach_single">Kan nie lêer van meer as %1$s aanheg nie.</string>
+    <string name="too_large_to_attach_single">Die lêers wat jy probeer stuur, oorskry die totale aanhegsellimiet van %1$s.</string>
     <string name="trash_folder_selection_title">Kies bediener se asblikvouer vir %s</string>
     <string name="trashed_message_indicator">Hierdie boodskap is uitgevee</string>
     <string name="turn_auto_sync_on_dialog_body">Veranderinge wat jy in alle programme en rekeninge maak, nie net in Gmail nie, sal tussen die web, jou ander toestelle en jou %1$s gesinkroniseer word.</string>

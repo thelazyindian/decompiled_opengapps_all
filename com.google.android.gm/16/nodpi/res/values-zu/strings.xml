@@ -414,9 +414,7 @@
     <string name="auto_send_perm_desc">Ivumela izinhlelo zokusebenza ukuthumela imilayezo ye-Gmail ngaphandle kokuvula uhlelo lokusebenza le-Gmail.</string>
     <string name="auto_send_perm_label">Thumela i-Gmail</string>
     <string name="auto_sync_off">Ukuvumelanisa okuzenzekelelayo kuvaliwe.Thepha ukuze uvule.</string>
-    <string name="bd12n_account_settings_permission_summary">I-Gmail idinga imvume yokuletha izaziso zakho njengoba zifika. Ungakushintsha lokhu kokuthi &lt;a href=%1$s>izilungiselelo zedivayisi&lt;/a>.</string>
     <string name="bd12n_conversation_push_tip_text">Thepha ukuze wengezwe mayelana nama-imeyili amasha njengoba efika.</string>
-    <string name="bd12n_conversation_tip_text">Vumela i-Gmail iqalise ngemuva uma ufuna ukwaziswa mayelana nama-imeyili amasha njengoba efika. &lt;a href=%1$s>Vumela&lt;/a></string>
     <string name="block_sender_menu_item">Vimba \"%s\"</string>
     <string name="blocked_sender_spam">Kungani lo mlayezo Ukugaxekile? Uvimbe imilayezo engenayo esuka ku-&lt;b>%1$s&lt;/b>.</string>
     <string name="body_hint">Ukwakha i-imeyili</string>
@@ -426,7 +424,6 @@
     <string name="broadcast_internal_perm_label">ukusakaza kwangaphakathi</string>
     <string name="bt_action_archive">Ingobo yomlando</string>
     <string name="bt_action_delete">Susa</string>
-    <string name="bt_action_direct_reply">Bhala impendulo</string>
     <string name="bt_action_remove_label">Khipha Ilebula</string>
     <string name="bt_action_reply">Phendula</string>
     <string name="bt_action_reply_all">Phendula konke</string>
@@ -647,6 +644,8 @@
     <string name="email_account_transfer_notification_channel_description">Ibonisa isaziso lapho ama-akhawunti akho e-imeyili engeyona eye-Google edluliselwa kwenye idivayisi.</string>
     <string name="email_account_transfer_notification_channel_name">Ukudlulisa kwe-akhawunti ye-imeyili yedivayisi ukuya kudivayisi</string>
     <string name="email_account_transfer_notification_title">Idlulisela kwenye idivayisi ama-akhawunti e-imeyili engeyona eye-Google.</string>
+    <string name="email_confirmation_state_unknown_description">Umlayezo wakho kungenzeka uthunyelwe.</string>
+    <string name="email_confirmation_state_unknown_title">Eshu, sibe nezinkinga zokuxhuma!</string>
     <string name="email_provider_label">Imeyili</string>
     <string name="eml_loader_error_toast">Ayikwazi ukuvula leli fayela</string>
     <string name="eml_viewer_subtitle">Isibukeli somlayezo we-EML</string>
@@ -783,7 +782,6 @@
     <string name="gm_i18n_snooze_option_later_today">Emuva kwesikhathi namhlanje</string>
     <string name="gm_i18n_snooze_option_next_week">Iviki elizayo</string>
     <string name="gm_i18n_snooze_option_next_weekend">Ngempelaviki elandelayo</string>
-    <string name="gm_i18n_snooze_option_someday">Ngolunye usuku</string>
     <string name="gm_i18n_snooze_option_this_week">Leli viki</string>
     <string name="gm_i18n_snooze_option_this_weekend">Kule mpelaviki</string>
     <string name="gm_i18n_snooze_option_tomorrow">Kusasa</string>
@@ -1005,6 +1003,7 @@
     <string name="message_priority">Ukubaluleka komlayezo</string>
     <string name="message_queued">Kusemgqeni</string>
     <string name="message_saved">Umlayezo ulondolozwe njengokusalungiswa.</string>
+    <string name="message_sent">Kuthunyelwe</string>
     <string name="message_too_large">Umlayezo mkhulu kakhulu ukuthi ungavulwa kule divayisi</string>
     <string name="message_uploading_attachments">Iyalayisha</string>
     <string name="message_view_forwarded_attachment_background_load">Eyodwa noma eyengeziwe yezinamathiseli kumlayezo wakho odluliselwe izolandwa ngaphambi kokuthumelwa.</string>
@@ -1056,6 +1055,8 @@
     <string name="notifications_category">Izaziso</string>
     <string name="notify_attachment_save_error">Ayikwazanga ukulondoloza okunamathiselwe</string>
     <string name="notify_attachment_send_error">Ayikwazanga ukuthumela okunamathiselwe</string>
+    <string name="nudge_dismiss_button_text">CASHISA</string>
+    <string name="nudge_dismiss_success_message">Ukugudluza kucashisiwe.</string>
     <string name="oauth_authentication_title">Icela ukugunyazwa…</string>
     <string name="oauth_error_description">Ayikwazanga ukugunyaza</string>
     <string name="oauth_server_error">Iseva ayitholakali, sicela uzame ngokuhamba kwesikhathi</string>
@@ -1546,7 +1547,7 @@ Thepha ukuze uvule."</string>
     <string name="to_message_header">kuya ku-%1$s</string>
     <string name="toggle_read_unread">Ukuguqula kufundiwe akufundiwe</string>
     <string name="too_large_to_attach_multiple">Ifayela elilodwa noma amaningi awanamathiselwe. Umkhawulo %1$s.</string>
-    <string name="too_large_to_attach_single">Ayikwazi ukunamathisela ifayela elingaphezu kuka-%1$s.</string>
+    <string name="too_large_to_attach_single">Amafayela ozama ukuwathumela eqa umkhawulo wezinanyathiselwa eziyingqikithi engu-%1$s.</string>
     <string name="trash_folder_selection_title">Khetha ifolda kadoti yeseva ye-%s</string>
     <string name="trashed_message_indicator">Lo mlayezo ususiwe</string>
     <string name="turn_auto_sync_on_dialog_body">Ushintsho olwenza kuzo zonke izinhlelo zokusebenza nama-akhawunti, hhayi nje ku-Gmail kuphela, luzovumelaniswa phakathi kwewebhu, amanye amadivayisi wakho ne-%1$s yakho.</string>

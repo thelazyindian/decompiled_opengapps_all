@@ -408,9 +408,7 @@
     <string name="auto_send_perm_desc">Cho phép ứng dụng gửi thư Gmail mà không cần mở ứng dụng Gmail.</string>
     <string name="auto_send_perm_label">Gửi Gmail</string>
     <string name="auto_sync_off">Tự động đồng bộ hóa bị tắt. Hãy nhấn để bật.</string>
-    <string name="bd12n_account_settings_permission_summary">Gmail cần quyền để gửi thông báo của bạn khi có. Bạn có thể thay đổi quyền này trong &lt;a href=%1$s>cài đặt thiết bị&lt;/a>.</string>
     <string name="bd12n_conversation_push_tip_text">Nhấn để được thông báo về các email mới khi có.</string>
-    <string name="bd12n_conversation_tip_text">Để Gmail chạy dưới nền nếu bạn muốn được thông báo về các email mới khi có. &lt;a href=%1$s>Cho phép&lt;/a></string>
     <string name="block_sender_menu_item">Chặn \"%s\"</string>
     <string name="blocked_sender_spam">Tại sao thư này nằm trong thư mục Spam? Bạn đã chặn các thư đến từ &lt;b>%1$s&lt;/b>.</string>
     <string name="body_hint">Soạn email</string>
@@ -420,7 +418,6 @@
     <string name="broadcast_internal_perm_label">phát nội bộ</string>
     <string name="bt_action_archive">Lưu trữ</string>
     <string name="bt_action_delete">Xóa</string>
-    <string name="bt_action_direct_reply">Soạn thư trả lời</string>
     <string name="bt_action_remove_label">Xóa nhãn</string>
     <string name="bt_action_reply">Trả lời</string>
     <string name="bt_action_reply_all">Trả lời tất cả</string>
@@ -639,6 +636,8 @@
     <string name="email_account_transfer_notification_channel_description">Hiển thị thông báo khi các tài khoản email không phải của Google của bạn đang được chuyển sang một thiết bị khác.</string>
     <string name="email_account_transfer_notification_channel_name">Chuyển tài khoản email qua thiết bị khác</string>
     <string name="email_account_transfer_notification_title">Đang chuyển các tài khoản email không phải của Google sang thiết bị khác.</string>
+    <string name="email_confirmation_state_unknown_description">Có thể đã gửi thư của bạn rồi.</string>
+    <string name="email_confirmation_state_unknown_title">Rất tiếc, chúng tôi đã gặp sự cố khi kết nối!</string>
     <string name="email_provider_label">Thư</string>
     <string name="eml_loader_error_toast">Không thể mở tệp này</string>
     <string name="eml_viewer_subtitle">Trình xem thư EML</string>
@@ -774,7 +773,6 @@
     <string name="gm_i18n_snooze_option_later_today">Cuối ngày hôm nay</string>
     <string name="gm_i18n_snooze_option_next_week">Tuần sau</string>
     <string name="gm_i18n_snooze_option_next_weekend">Cuối tuần tới</string>
-    <string name="gm_i18n_snooze_option_someday">Ngày nào đó</string>
     <string name="gm_i18n_snooze_option_this_week">Tuần này</string>
     <string name="gm_i18n_snooze_option_this_weekend">Cuối tuần này</string>
     <string name="gm_i18n_snooze_option_tomorrow">Ngày mai</string>
@@ -994,6 +992,7 @@
     <string name="message_priority">Mức độ ưu tiên của thư</string>
     <string name="message_queued">Đã xếp hàng đợi</string>
     <string name="message_saved">Thư đã được lưu dưới dạng thư nháp.</string>
+    <string name="message_sent">Đã gửi</string>
     <string name="message_too_large">Thư quá lớn để mở trên thiết bị này</string>
     <string name="message_uploading_attachments">Đang tải lên</string>
     <string name="message_view_forwarded_attachment_background_load">Một hoặc nhiều tệp đính kèm trong thư chuyển tiếp của bạn sẽ được tải xuống trước khi gửi.</string>
@@ -1045,6 +1044,8 @@
     <string name="notifications_category">Thông báo</string>
     <string name="notify_attachment_save_error">Không thể lưu tệp đính kèm</string>
     <string name="notify_attachment_send_error">Không thể gửi tệp đính kèm</string>
+    <string name="nudge_dismiss_button_text">LOẠI BỎ</string>
+    <string name="nudge_dismiss_success_message">Đã loại bỏ nhắc nhở hoạt động.</string>
     <string name="oauth_authentication_title">Đang yêu cầu ủy quyền…</string>
     <string name="oauth_error_description">Không thể xác thực</string>
     <string name="oauth_server_error">Máy chủ không khả dụng, vui lòng thử lại sau</string>
@@ -1534,7 +1535,7 @@ Hãy nhấn để bật."</string>
     <string name="to_message_header">tới %1$s</string>
     <string name="toggle_read_unread">Chuyển đổi đã đọc/chưa đọc</string>
     <string name="too_large_to_attach_multiple">Một hoặc nhiều tệp không được đính kèm. Giới hạn là %1$s.</string>
-    <string name="too_large_to_attach_single">Không thể đính kèm tệp lớn hơn %1$s.</string>
+    <string name="too_large_to_attach_single">Các tệp bạn đang cố gửi vượt quá tổng giới hạn tệp đính kèm là %1$s.</string>
     <string name="trash_folder_selection_title">Chọn TM th.rác trên m.chủ cho %s</string>
     <string name="trashed_message_indicator">Thư này đã bị xóa</string>
     <string name="turn_auto_sync_on_dialog_body">Các thay đổi bạn thực hiện đối với tất cả ứng dụng và tài khoản, không chỉ với Gmail, sẽ được đồng bộ hóa giữa web, các thiết bị khác của bạn và %1$s của bạn.</string>

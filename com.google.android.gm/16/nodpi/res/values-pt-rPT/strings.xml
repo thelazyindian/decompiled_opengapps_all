@@ -399,9 +399,7 @@
     <string name="auto_send_perm_label">Enviar a partir do Gmail</string>
     <string name="auto_sync_off">A sincronização automática está desativada. Toque para ativar.</string>
     <string name="bcc_header_for_recipient_summary">"Bcc: "</string>
-    <string name="bd12n_account_settings_permission_summary">O Gmail precisa de autorização para lhe entregar notificações à medida que chegam. Pode alterar esta opção nas &lt;a href=%1$s>definições do dispositivo&lt;/a>.</string>
     <string name="bd12n_conversation_push_tip_text">Toque para receber notificações sobre os novos emails à medida que chegam.</string>
-    <string name="bd12n_conversation_tip_text">Permita que o Gmail seja executado em segundo plano se pretende receber notificações acerca de novos emails à medida que chegam. &lt;a href=%1$s>Permitir&lt;/a></string>
     <string name="block_sender_menu_item">Bloquear \"%s\"</string>
     <string name="blocked_sender_spam">Não sabe a razão pela qual esta mensagem se encontra na pasta Spam? Bloqueou mensagens recebidas de &lt;b>%1$s&lt;/b>.</string>
     <string name="body_hint">Escrever email</string>
@@ -411,7 +409,6 @@
     <string name="broadcast_internal_perm_label">transmissão interna</string>
     <string name="bt_action_archive">Arquivar</string>
     <string name="bt_action_delete">Eliminar</string>
-    <string name="bt_action_direct_reply">Compor resposta</string>
     <string name="bt_action_remove_label">Remover marcador</string>
     <string name="bt_action_reply">Responder</string>
     <string name="bt_action_reply_all">Responder a todos</string>
@@ -628,6 +625,8 @@
     <string name="email_account_transfer_notification_channel_description">Mostra uma notificação quando as suas contas de email não pertencentes à Google estão a ser transferidas para outro dispositivo.</string>
     <string name="email_account_transfer_notification_channel_name">Transf. contas email entre dispositivos</string>
     <string name="email_account_transfer_notification_title">A transferir contas de email não pertencentes à Google para outro dispositivo…</string>
+    <string name="email_confirmation_state_unknown_description">A sua mensagem pode ter sido enviada.</string>
+    <string name="email_confirmation_state_unknown_title">Ups! Ocorreu um problema ao estabelecer a ligação.</string>
     <string name="email_provider_label">Correio</string>
     <string name="eml_loader_error_toast">Não é possível abrir este ficheiro</string>
     <string name="eml_viewer_subtitle">Visualizador de mensagens EML</string>
@@ -764,7 +763,6 @@
     <string name="gm_i18n_snooze_option_later_today">Hoje, mais tarde</string>
     <string name="gm_i18n_snooze_option_next_week">Próxima seguinte</string>
     <string name="gm_i18n_snooze_option_next_weekend">Fim de semana seguinte</string>
-    <string name="gm_i18n_snooze_option_someday">Algum dia</string>
     <string name="gm_i18n_snooze_option_this_week">Esta semana</string>
     <string name="gm_i18n_snooze_option_this_weekend">Este fim de semana</string>
     <string name="gm_i18n_snooze_option_tomorrow">Amanhã</string>
@@ -980,6 +978,7 @@
     <string name="message_priority">Prioridade da mensagem</string>
     <string name="message_queued">Em fila de espera</string>
     <string name="message_saved">Mensagem guardada como rascunho.</string>
+    <string name="message_sent">Enviado</string>
     <string name="message_too_large">A mensagem é demasiado grande para ser aberta no dispositivo</string>
     <string name="message_uploading_attachments">A carregar...</string>
     <string name="message_view_forwarded_attachment_background_load">Um ou mais anexos da mensagem que encaminhou serão transferidos antes do envio.</string>
@@ -1031,6 +1030,8 @@
     <string name="notifications_category">Notificações</string>
     <string name="notify_attachment_save_error">Não foi possível guardar o anexo</string>
     <string name="notify_attachment_send_error">Não foi possível enviar o anexo</string>
+    <string name="nudge_dismiss_button_text">IGNORAR</string>
+    <string name="nudge_dismiss_success_message">Chamada de atenção ignorada.</string>
     <string name="oauth_authentication_title">A pedir autorização…</string>
     <string name="oauth_error_description">Não foi possível autenticar</string>
     <string name="oauth_server_error">O servidor está indisponível, tente novamente mais tarde.</string>
@@ -1515,7 +1516,7 @@ Toque para ativar."</string>
     <string name="to_message_header">para %1$s</string>
     <string name="toggle_read_unread">Alternar lido/não lido</string>
     <string name="too_large_to_attach_multiple">Um ou mais ficheiros não anexados. Limite: %1$s.</string>
-    <string name="too_large_to_attach_single">Não é possível anexar um ficheiro com mais de %1$s.</string>
+    <string name="too_large_to_attach_single">Os ficheiros que está a tentar enviar excedem o limite de anexo total de %1$s.</string>
     <string name="trash_folder_selection_title">Selecionar a pasta de lixo do servidor para %s</string>
     <string name="trashed_message_indicator">Esta mensagem foi eliminada</string>
     <string name="turn_auto_sync_on_dialog_body">As alterações efetuadas a todas as aplicações e contas, e não apenas ao Gmail, serão sincronizadas entre a Web, os seus outros dispositivos e o %1$s.</string>

@@ -410,9 +410,7 @@
     <string name="bcc">Κρ. κοιν.</string>
     <string name="bcc_header_for_recipient_summary">"Κρ. κοιν.: "</string>
     <string name="bcc_heading">Κρ. κοιν.:</string>
-    <string name="bd12n_account_settings_permission_summary">Το Gmail χρειάζεται άδεια για παράδοση των ειδοποιήσεών σας κατά την άφιξή τους. Μπορείτε να το αλλάξετε αυτό από τις &lt;a href=%1$s>ρυθμίσεις της συσκευής&lt;/a>.</string>
     <string name="bd12n_conversation_push_tip_text">Πατήστε εάν θέλετε να λαμβάνετε ειδοποιήσεις για νέα μηνύματα ηλεκτρονικού ταχυδρομείου όταν τα λαμβάνετε.</string>
-    <string name="bd12n_conversation_tip_text">Επιτρέψτε στο Gmail να εκτελείται στο παρασκήνιο εάν θέλετε να λαμβάνετε ειδοποιήσεις για νέα μηνύματα ηλεκτρονικού ταχυδρομείου όταν τα λαμβάνετε. &lt;a href=%1$s>Να επιτρέπεται&lt;/a></string>
     <string name="block_sender_menu_item">Αποκλεισμός αποστολέα \"%s\"</string>
     <string name="blocked_sender_spam">Γιατί βρίσκεται στα Ανεπιθύμητα αυτό το μήνυμα; Έχετε επιλέξει αποκλεισμό των μηνυμάτων από τη διεύθυνση &lt;b>%1$s&lt;/b>.</string>
     <string name="body_hint">Συντάξτε μήνυμα ηλεκτρονικού ταχυδρομείου</string>
@@ -422,7 +420,6 @@
     <string name="broadcast_internal_perm_label">εσωτερική μετάδοση</string>
     <string name="bt_action_archive">Αρχειοθέτηση</string>
     <string name="bt_action_delete">Διαγραφή</string>
-    <string name="bt_action_direct_reply">Σύνταξη απάντησης</string>
     <string name="bt_action_remove_label">Κατάργηση ετικέτας</string>
     <string name="bt_action_reply">Απάντηση</string>
     <string name="bt_action_reply_all">Απάντηση σε όλους</string>
@@ -644,6 +641,8 @@
     <string name="email_account_transfer_notification_channel_description">Εμφανίζει μια ειδοποίηση όταν οι λογαριασμοί ηλεκτρονικού ταχυδρομείου εκτός Google μεταφέρονται σε άλλη συσκευή.</string>
     <string name="email_account_transfer_notification_channel_name">Μεταφορά λογαρ. από συσκευή σε συσκευή</string>
     <string name="email_account_transfer_notification_title">Γίνεται μεταφορά λογαριασμών ηλ. ταχυδρομείου εκτός Google σε άλλη συσκευή.</string>
+    <string name="email_confirmation_state_unknown_description">Το μήνυμά σας ενδέχεται να μην εστάλη.</string>
+    <string name="email_confirmation_state_unknown_title">Δυστυχώς, αντιμετωπίσαμε προβλήματα με τη σύνδεση!</string>
     <string name="email_provider_label">Αλληλογραφία</string>
     <string name="eml_loader_error_toast">Δεν είναι δυνατό το άνοιγμα αυτού του αρχείου</string>
     <string name="eml_viewer_subtitle">Πρόγραμμα προβολής μηνυμάτων EML</string>
@@ -780,7 +779,6 @@
     <string name="gm_i18n_snooze_option_later_today">Αργότερα σήμερα</string>
     <string name="gm_i18n_snooze_option_next_week">Επόμενη εβδομάδα</string>
     <string name="gm_i18n_snooze_option_next_weekend">Επόμενο Σ/K</string>
-    <string name="gm_i18n_snooze_option_someday">Κάποια ημέρα</string>
     <string name="gm_i18n_snooze_option_this_week">Αυτήν την εβδομάδα</string>
     <string name="gm_i18n_snooze_option_this_weekend">Αυτό το Σ/Κ</string>
     <string name="gm_i18n_snooze_option_tomorrow">Αύριο</string>
@@ -1001,6 +999,7 @@
     <string name="message_priority">Προτεραιότητα μηνυμάτων</string>
     <string name="message_queued">Σε ουρά αναμονής</string>
     <string name="message_saved">Το μήνυμα αποθηκεύτηκε ως πρόχειρο.</string>
+    <string name="message_sent">Απεσταλμένα</string>
     <string name="message_too_large">Το μήνυμα είναι πολύ μεγάλο για να ανοιχτεί σε αυτήν τη συσκευή</string>
     <string name="message_uploading_attachments">Μεταφόρτωση</string>
     <string name="message_view_forwarded_attachment_background_load">Ένα ή περισσότερα συνημμένα στο προωθημένο μήνυμά σας θα ληφθούν πριν την αποστολή.</string>
@@ -1052,6 +1051,8 @@
     <string name="notifications_category">Ειδοποιήσεις</string>
     <string name="notify_attachment_save_error">Δεν ήταν δυνατή η αποθήκευση της επισύναψης</string>
     <string name="notify_attachment_send_error">Δεν ήταν δυνατή η αποστολή της επισύναψης</string>
+    <string name="nudge_dismiss_button_text">ΠΑΡΑΒΛΕΨΗ</string>
+    <string name="nudge_dismiss_success_message">Η υπενθύμιση παραβλέφθηκε.</string>
     <string name="oauth_authentication_title">Αίτημα εξουσιοδότησης…</string>
     <string name="oauth_error_description">Δεν είναι δυνατός ο έλεγχος ταυτότητας</string>
     <string name="oauth_server_error">Ο διακομιστής δεν είναι διαθέσιμος. Δοκιμάστε ξανά αργότερα.</string>
@@ -1540,7 +1541,7 @@
     <string name="to_message_header">προς %1$s</string>
     <string name="toggle_read_unread">Εναλλαγή αναγνωσμένων/μη αναγνωσμένων</string>
     <string name="too_large_to_attach_multiple">Δεν έγινε επισύναψη ενός ή περισσότερων αρχείων. Όριο %1$s.</string>
-    <string name="too_large_to_attach_single">Δεν είναι δυνατή η επισύναψη του αρχείου που υπερβαίνει το όριο %1$s.</string>
+    <string name="too_large_to_attach_single">Τα αρχεία που προσπαθείτε να στείλετε υπερβαίνουν τα %1$s του ορίου επισύναψης.</string>
     <string name="trash_folder_selection_title">Επιλ.φακέλου απορ.διακομ.για %s</string>
     <string name="trashed_message_indicator">Αυτό το μήνυμα έχει διαγραφεί</string>
     <string name="turn_auto_sync_on_dialog_body">Θα γίνει συγχρονισμός όλων των αλλαγών που πραγματοποιείτε σε όλες τις εφαρμογές και τους λογαριασμούς, όχι μόνο στο Gmail, στον ιστό, σε άλλες συσκευές και στο δικό σας %1$s.</string>

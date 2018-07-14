@@ -405,8 +405,7 @@
     <string name="auto_send_perm_desc">Gmail అనువర్తనాన్ని తెరవకుండానే Gmail సందేశాలను పంపడానికి అనువర్తనాన్ని అనుమతిస్తుంది.</string>
     <string name="auto_send_perm_label">Gmailని పంపడం</string>
     <string name="auto_sync_off">స్వీయ-సమకాలీకరణ ఆఫ్‌లో ఉంది. ఆన్ చేయడానికి నొక్కండి.</string>
-    <string name="bd12n_account_settings_permission_summary">మీ నోటిఫికేషన్‌లు వచ్చినప్పుడు వాటిని పంపిణీ చేయడానికి Gmailకి అనుమతి అవసరం. మీరు దీన్ని &lt;a href=%1$s>పరికర సెట్టింగ్‌లు&lt;/a>లో మార్చవచ్చు.</string>
-    <string name="bd12n_conversation_tip_text">కొత్త మెయిల్‌లు వచ్చినప్పుడు మీకు తెలియజేయాలంటే, నేపథ్యంలో అమలు కావడానికి Gmailని అనుమతించండి. &lt;a href=%1$s>అనుమతించండి&lt;/a></string>
+    <string name="bd12n_conversation_push_tip_text">కొత్త ఇమెయిల్‌ల వచ్చినప్పుడు తెలియజేయబడడానికి నొక్కండి.</string>
     <string name="block_sender_menu_item">\"%s\"ని బ్లాక్ చేయి</string>
     <string name="blocked_sender_spam">ఈ సందేశం ఎందుకు స్పామ్‌లో ఉంది? మీరు &lt;b>%1$s&lt;/b> నుండి ఇన్‌కమింగ్ సందేశాలను బ్లాక్ చేసారు.</string>
     <string name="body_hint">ఇమెయిల్‌ను కంపోజ్ చేయండి</string>
@@ -416,7 +415,6 @@
     <string name="broadcast_internal_perm_label">అంతర్గత ప్రసారం</string>
     <string name="bt_action_archive">ఆర్కైవ్ చేయి</string>
     <string name="bt_action_delete">తొలగించు</string>
-    <string name="bt_action_direct_reply">ప్రత్యుత్తరాన్ని కంపోజ్ చేయండి</string>
     <string name="bt_action_remove_label">లేబుల్‌‌ను తొలగించు</string>
     <string name="bt_action_reply">ప్రత్యుత్తరం ఇవ్వు</string>
     <string name="bt_action_reply_all">అందరికీ ప్రత్యుత్తరం ఇవ్వు</string>
@@ -632,6 +630,8 @@
     <string name="email_account_transfer_notification_channel_description">మీ Google యేతర ఇమెయిల్ ఖాతాలు మరో పరికరానికి బదిలీ అయినప్పుడు నోటిఫికేషన్‌ను చూపిస్తుంది.</string>
     <string name="email_account_transfer_notification_channel_name">పరికరం నుండి పరికరానికి ఇమెయిల్ ఖాతా బదిలీ</string>
     <string name="email_account_transfer_notification_title">మరో పరికరానికి Google యేతర ఇమెయిల్ ఖాతాలు బదిలీ అవుతున్నాయి.</string>
+    <string name="email_confirmation_state_unknown_description">మీ సందేశం పంపబడి ఉండవచ్చు.</string>
+    <string name="email_confirmation_state_unknown_title">అయ్యో, కనెక్ట్ చేయడంలో మాకు సమస్యలు ఉన్నాయి!</string>
     <string name="email_provider_label">మెయిల్</string>
     <string name="eml_loader_error_toast">ఈ ఫైల్‌ను తెరవడం కుదరదు</string>
     <string name="eml_viewer_subtitle">EML సందేశ వ్యూయర్</string>
@@ -767,7 +767,6 @@
     <string name="gm_i18n_snooze_option_later_today">ఈ రోజు చివర్లో</string>
     <string name="gm_i18n_snooze_option_next_week">తదుపరి వారం</string>
     <string name="gm_i18n_snooze_option_next_weekend">తదుపరి వారాంతం</string>
-    <string name="gm_i18n_snooze_option_someday">ఒకరోజు</string>
     <string name="gm_i18n_snooze_option_this_week">ఈ వారం</string>
     <string name="gm_i18n_snooze_option_this_weekend">ఈ వారాంతం</string>
     <string name="gm_i18n_snooze_option_tomorrow">రేపు</string>
@@ -987,6 +986,7 @@
     <string name="message_priority">సందేశ ప్రాధాన్యత</string>
     <string name="message_queued">క్రమవరుసలో ఉంది</string>
     <string name="message_saved">సందేశం చిత్తుప్రతిగా సేవ్ చేయబడింది.</string>
+    <string name="message_sent">పంపినవి</string>
     <string name="message_too_large">సందేశం ఈ పరికరంలో తెరవలేనంత పెద్దదిగా ఉంది</string>
     <string name="message_uploading_attachments">అప్‌లోడ్ చేస్తోంది</string>
     <string name="message_view_forwarded_attachment_background_load">మీ ఫార్వార్డ్ చేసిన సందేశంలోని ఒకటి లేదా అంతకంటే ఎక్కువ జోడింపులు పంపడానికి ముందు డౌన్‌లోడ్ చేయబడతాయి.</string>
@@ -1038,6 +1038,8 @@
     <string name="notifications_category">నోటిఫికేషన్‌లు</string>
     <string name="notify_attachment_save_error">జోడింపుని సేవ్ చేయడం సాధ్యపడలేదు</string>
     <string name="notify_attachment_send_error">జోడింపుని పంపడం సాధ్యపడలేదు</string>
+    <string name="nudge_dismiss_button_text">విస్మరించండి</string>
+    <string name="nudge_dismiss_success_message">నడ్జ్ విస్మరించబడింది.</string>
     <string name="oauth_authentication_title">ప్రమాణీకరణను అభ్యర్థిస్తోంది...</string>
     <string name="oauth_error_description">ప్రామాణీకరించడం సాధ్యపడలేదు</string>
     <string name="oauth_server_error">సర్వర్ అందుబాటులో లేదు, దయచేసి తర్వాత మళ్లీ ప్రయత్నించండి</string>
@@ -1525,7 +1527,7 @@
     <string name="to_message_header">%1$sకి</string>
     <string name="toggle_read_unread">చదివినది, చదవనిది మధ్య టోగుల్ చేయి</string>
     <string name="too_large_to_attach_multiple">ఒకటి లేదా అంతకంటే ఎక్కువ ఫైల్‌లు జోడించబడలేదు. పరిమితి %1$s.</string>
-    <string name="too_large_to_attach_single">%1$s కంటే ఎక్కువ పరిమాణం గల ఫైల్‌ను జోడించలేరు.</string>
+    <string name="too_large_to_attach_single">మీరు పంపడానికి ప్రయత్నిస్తున్న ఫైల్‌లు %1$s జోడింపు పరిమితిని అధిగమించాయి.</string>
     <string name="trash_folder_selection_title">%s సర్వర్ ట్రాష్ ఫోల్డర్‌ను ఎంచుకోండి</string>
     <string name="trashed_message_indicator">ఈ సందేశం తొలగించబడింది</string>
     <string name="turn_auto_sync_on_dialog_body">మీరు కేవలం Gmailకే కాకుండా అన్ని అనువర్తనాలు మరియు ఖాతాలకు చేసే మార్పులు వెబ్, మీ ఇతర పరికరాలు మరియు మీ %1$s మధ్య సమకాలీకరించబడతాయి.</string>

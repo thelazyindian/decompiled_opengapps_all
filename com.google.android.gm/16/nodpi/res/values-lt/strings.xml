@@ -421,9 +421,7 @@
     <string name="auto_send_perm_desc">Leidžiama šiai programai siųsti „Gmail“ pranešimus neatidarius „Gmail“ programos.</string>
     <string name="auto_send_perm_label">Siųsti „Gmail“</string>
     <string name="auto_sync_off">Automatinis sinchronizavimas išjungtas. Jei norite įjungti, palieskite.</string>
-    <string name="bd12n_account_settings_permission_summary">„Gmail“ reikia leidimo, kad būtų galima pristatyti pranešimus, kai jų bus gauta. Tai galite pakeisti &lt;a href=%1$s>įrenginio nustatymuose&lt;/a>.</string>
     <string name="bd12n_conversation_push_tip_text">Palieskite, jei norite gauti pranešimus apie naujus el. laiškus, kai jų bus gauta.</string>
-    <string name="bd12n_conversation_tip_text">Įgalinkite „Gmail“ veikti fone, jei norite gauti pranešimus apie naujus el. laiškus, kai jų bus gauta. &lt;a href=%1$s>Leiskite&lt;/a></string>
     <string name="block_sender_menu_item">Blokuoti „%s“</string>
     <string name="blocked_sender_spam">Kodėl šis pranešimas šlamšto aplanke? Užblokavote gaunamus pranešimus iš &lt;b>%1$s&lt;/b>.</string>
     <string name="body_hint">Kurti el. laišką</string>
@@ -433,7 +431,6 @@
     <string name="broadcast_internal_perm_label">transliacija internetu</string>
     <string name="bt_action_archive">Archyvuoti</string>
     <string name="bt_action_delete">Ištrinti</string>
-    <string name="bt_action_direct_reply">Sukurti atsakymą</string>
     <string name="bt_action_remove_label">Pašalinti etiketę</string>
     <string name="bt_action_reply">Atsakyti</string>
     <string name="bt_action_reply_all">Atsakyti visiems</string>
@@ -654,6 +651,8 @@
     <string name="email_account_transfer_notification_channel_description">Rodomi pranešimai, kai ne „Google“ el. pašto paskyros perkeliamos į kitą įrenginį.</string>
     <string name="email_account_transfer_notification_channel_name">El. pašto pask. perkėlimas į kitą įreng.</string>
     <string name="email_account_transfer_notification_title">Ne „Google“ el. pašto paskyros perkeliamos į kitą įrenginį.</string>
+    <string name="email_confirmation_state_unknown_description">Pranešimas galėjo būti išsiųstas.</string>
+    <string name="email_confirmation_state_unknown_title">Oi, užmezgant ryšį kilo problemų!</string>
     <string name="eml_loader_error_toast">Nepavyksta atidaryti failo</string>
     <string name="eml_viewer_subtitle">EML pranešimų peržiūros priemonė</string>
     <string name="employee_name_spoofing">Šio asmens vardas panašus į vardą iš jūsų organizacijos, bet el. pašto adresas nepriklauso jūsų domenui arba el. laiškas nebuvo autentifikuotas. Geriau nespustelėkite nuorodų ir neatsakykite nurodydami neskelbtiną informaciją nesusisiekę su siuntėju kitu būdu, kad įsitikintumėte, jog šis el. laiškas yra patikimas.</string>
@@ -790,7 +789,6 @@
     <string name="gm_i18n_snooze_option_later_today">Vėliau šiandien</string>
     <string name="gm_i18n_snooze_option_next_week">Kita savaitė</string>
     <string name="gm_i18n_snooze_option_next_weekend">Kitas savaitgalis</string>
-    <string name="gm_i18n_snooze_option_someday">Kada nors</string>
     <string name="gm_i18n_snooze_option_this_week">Ši savaitė</string>
     <string name="gm_i18n_snooze_option_this_weekend">Šis savaitgalis</string>
     <string name="gm_i18n_snooze_option_tomorrow">Rytoj</string>
@@ -1012,6 +1010,7 @@
     <string name="message_priority">Pranešimo prioritetas</string>
     <string name="message_queued">Laukia eilėje</string>
     <string name="message_saved">Pranešimas išsaugotas kaip juodraštis.</string>
+    <string name="message_sent">Išsiųsti</string>
     <string name="message_too_large">Pranešimo negalima atidaryti šiame įrenginyje, nes jis per didelis</string>
     <string name="message_uploading_attachments">Įkeliama</string>
     <string name="message_view_forwarded_attachment_background_load">Prieš siunčiant persiųstame pranešime bus atsisiųstas vienas ar daugiau priedų.</string>
@@ -1064,6 +1063,8 @@
     <string name="notifications_category">Pranešimai</string>
     <string name="notify_attachment_save_error">Nepavyko išsaugoti priedo</string>
     <string name="notify_attachment_send_error">Nepavyko išsiųsti priedo</string>
+    <string name="nudge_dismiss_button_text">ATSISAKYTI</string>
+    <string name="nudge_dismiss_success_message">Priminimo atsisakyta.</string>
     <string name="oauth_authentication_title">Pateikiama prieigos teisės užklausa…</string>
     <string name="oauth_error_description">Nepavyko nustatyti tapatybės</string>
     <string name="oauth_server_error">Serveris nepasiekiamas. Vėliau bandykite dar kartą.</string>
@@ -1554,7 +1555,7 @@ Jei norite įjungti, palieskite."</string>
     <string name="to_message_header">kam: %1$s</string>
     <string name="toggle_read_unread">Perjungti skaitytų / neskaitytų pranešimų rodinį</string>
     <string name="too_large_to_attach_multiple">Mažiausiai vienas failas nepridėtas. Apribojimas %1$s.</string>
-    <string name="too_large_to_attach_single">Negalima pridėti didesnių nei %1$s failų.</string>
+    <string name="too_large_to_attach_single">Failai, kuriuos bandote siųsti, viršija bendrą %1$s priedų apribojimą.</string>
     <string name="trash_folder_selection_title">Pas. %s server. šiukšliad. apl.</string>
     <string name="trashed_message_indicator">Šis pranešimas ištrintas</string>
     <string name="turn_auto_sync_on_dialog_body">Pakeitimai, atliekami visose programose ir paskyrose, o ne tik „Gmail“, bus sinchronizuojami žiniatinklyje, kituose įrenginiuose ir %1$s.</string>

@@ -417,9 +417,7 @@
     <string name="bcc">密送</string>
     <string name="bcc_header_for_recipient_summary">"密送： "</string>
     <string name="bcc_heading">密送：</string>
-    <string name="bd12n_account_settings_permission_summary">Gmail 需要获得相关权限，才能在收到通知时向您显示。您可以在&lt;a href=%1$s>设备设置&lt;/a>中更改相应设置。</string>
     <string name="bd12n_conversation_push_tip_text">点按以允许系统在收到新电子邮件时通知您。</string>
-    <string name="bd12n_conversation_tip_text">如果您想在收到新电子邮件时让系统通知您，请允许 Gmail 在后台运行。&lt;a href=%1$s>允许&lt;/a></string>
     <string name="block_sender_menu_item">屏蔽“%s”</string>
     <string name="blocked_sender_spam">为什么此邮件会在“垃圾邮件”中？因为您屏蔽了发自 &lt;b>%1$s&lt;/b> 的邮件。</string>
     <string name="body_hint">撰写电子邮件</string>
@@ -429,7 +427,6 @@
     <string name="broadcast_internal_perm_label">内部广播</string>
     <string name="bt_action_archive">归档</string>
     <string name="bt_action_delete">删除</string>
-    <string name="bt_action_direct_reply">撰写回复</string>
     <string name="bt_action_remove_label">移除标签</string>
     <string name="bt_action_reply">回复</string>
     <string name="bt_action_reply_all">回复全部</string>
@@ -656,6 +653,8 @@
     <string name="email_account_transfer_notification_channel_description">在将非 Google 电子邮件帐号转移到其他设备时显示通知。</string>
     <string name="email_account_transfer_notification_channel_name">设备间电子邮件帐号转移</string>
     <string name="email_account_transfer_notification_title">正在将非 Google 电子邮件帐号转移到其他设备。</string>
+    <string name="email_confirmation_state_unknown_description">您的邮件可能已经发送。</string>
+    <string name="email_confirmation_state_unknown_title">抱歉，连接时出现问题！</string>
     <string name="email_provider_label">邮件</string>
     <string name="eml_loader_error_toast">无法打开此文件</string>
     <string name="eml_viewer_subtitle">EML 邮件查看器</string>
@@ -795,7 +794,6 @@
     <string name="gm_i18n_snooze_option_later_today">今天晚些时候</string>
     <string name="gm_i18n_snooze_option_next_week">下周</string>
     <string name="gm_i18n_snooze_option_next_weekend">下周末</string>
-    <string name="gm_i18n_snooze_option_someday">将来某天</string>
     <string name="gm_i18n_snooze_option_this_week">本周</string>
     <string name="gm_i18n_snooze_option_this_weekend">本周末</string>
     <string name="gm_i18n_snooze_option_tomorrow">明天</string>
@@ -1019,6 +1017,7 @@
     <string name="message_priority">邮件优先级</string>
     <string name="message_queued">已加入队列</string>
     <string name="message_saved">邮件已保存为草稿。</string>
+    <string name="message_sent">已发送</string>
     <string name="message_too_large">邮件太大，无法在此设备上打开</string>
     <string name="message_uploading_attachments">正在上传</string>
     <string name="message_view_forwarded_attachment_background_load">您转发的邮件中有一个或多个附件需要先下载，然后才能发送。</string>
@@ -1070,6 +1069,8 @@
     <string name="notifications_category">通知</string>
     <string name="notify_attachment_save_error">无法保存附件</string>
     <string name="notify_attachment_send_error">无法发送附件</string>
+    <string name="nudge_dismiss_button_text">关闭</string>
+    <string name="nudge_dismiss_success_message">已关闭智能推送。</string>
     <string name="oauth_authentication_title">正在请求授权…</string>
     <string name="oauth_error_description">无法进行身份验证</string>
     <string name="oauth_server_error">服务器不可用，请稍后再试</string>
@@ -1561,7 +1562,7 @@
     <string name="to_message_header">收件人：%1$s</string>
     <string name="toggle_read_unread">切换已读/未读选项</string>
     <string name="too_large_to_attach_multiple">未能添加一个或多个附件。上限为 %1$s。</string>
-    <string name="too_large_to_attach_single">无法添加大小超过 %1$s 的附件。</string>
+    <string name="too_large_to_attach_single">您尝试发送的文件超出了 %1$s 的附件总大小限制。</string>
     <string name="trash_folder_selection_title">选择 %s 在服务器上的已删除邮件文件夹</string>
     <string name="trashed_message_indicator">此邮件已被删除</string>
     <string name="turn_auto_sync_on_dialog_body">您对所有应用和帐号（不只是 Gmail）所做的更改都会在网络、您的其他设备和您的%1$s之间同步。</string>

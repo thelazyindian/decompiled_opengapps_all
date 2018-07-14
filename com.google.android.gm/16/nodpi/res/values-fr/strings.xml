@@ -406,9 +406,7 @@
     <string name="bcc">Cci</string>
     <string name="bcc_header_for_recipient_summary">"cci : "</string>
     <string name="bcc_heading">Cci :</string>
-    <string name="bd12n_account_settings_permission_summary">"Vous devez autoriser Gmail à afficher les notifications dès leur réception. Vous pouvez modifier cette option dans les &lt;a href=%1$s>paramètres de l'appareil&lt;/a>."</string>
     <string name="bd12n_conversation_push_tip_text">"Appuyez pour recevoir des notifications lors de l'arrivée de nouveaux messages."</string>
-    <string name="bd12n_conversation_tip_text">"Laissez Gmail s'exécuter en arrière-plan si vous souhaitez recevoir des notifications lors de l'arrivée des nouveaux messages. &lt;a href=%1$s>Autoriser&lt;/a>"</string>
     <string name="block_sender_menu_item">Bloquer \"%s\"</string>
     <string name="blocked_sender_spam">"Pourquoi ce message se trouve-t-il dans le dossier \"Spam\" ? Vous avez déjà bloqué des messages provenant de l'adresse &lt;b>%1$s&lt;/b>."</string>
     <string name="body_hint">Rédigez votre message</string>
@@ -418,7 +416,6 @@
     <string name="broadcast_internal_perm_label">diffusion interne</string>
     <string name="bt_action_archive">Archiver</string>
     <string name="bt_action_delete">Supprimer</string>
-    <string name="bt_action_direct_reply">Rédiger une réponse</string>
     <string name="bt_action_remove_label">Supprimer le libellé</string>
     <string name="bt_action_reply">Répondre</string>
     <string name="bt_action_reply_all">Répondre à tous</string>
@@ -640,6 +637,8 @@
     <string name="email_account_transfer_notification_channel_description">Affiche une notification lorsque vos comptes de messagerie autres que Google sont transférés vers un autre appareil.</string>
     <string name="email_account_transfer_notification_channel_name">Transfert de comptes entre appareils</string>
     <string name="email_account_transfer_notification_title">Transfert de comptes de messagerie autres que Google vers un autre appareil…</string>
+    <string name="email_confirmation_state_unknown_description">Il est possible que votre message ait été envoyé.</string>
+    <string name="email_confirmation_state_unknown_title">Petit problème… Erreur de connexion.</string>
     <string name="email_provider_label">Messagerie</string>
     <string name="eml_loader_error_toast">"Impossible d'ouvrir ce fichier."</string>
     <string name="eml_viewer_subtitle">Lecteur de fichiers EML</string>
@@ -778,7 +777,6 @@
     <string name="gm_i18n_snooze_option_later_today">Fin de journée</string>
     <string name="gm_i18n_snooze_option_next_week">La semaine prochaine</string>
     <string name="gm_i18n_snooze_option_next_weekend">Le week-end prochain</string>
-    <string name="gm_i18n_snooze_option_someday">Date indéterminée</string>
     <string name="gm_i18n_snooze_option_this_week">Cette semaine</string>
     <string name="gm_i18n_snooze_option_this_weekend">Ce week-end</string>
     <string name="gm_i18n_snooze_option_tomorrow">Demain</string>
@@ -998,6 +996,7 @@
     <string name="message_priority">Priorité du message</string>
     <string name="message_queued">"En file d'attente"</string>
     <string name="message_saved">Brouillon enregistré.</string>
+    <string name="message_sent">Envoyé</string>
     <string name="message_too_large">Le message est trop volumineux pour être ouvert sur cet appareil.</string>
     <string name="message_uploading_attachments">Importation</string>
     <string name="message_view_forwarded_attachment_background_load">"Une ou plusieurs pièces jointes au message que vous transférez vont être téléchargées avant l'envoi."</string>
@@ -1048,6 +1047,8 @@
     <string name="notification_sender_line_snoozed">En attente : %1$s</string>
     <string name="notify_attachment_save_error">"Impossible d'enregistrer la pièce jointe."</string>
     <string name="notify_attachment_send_error">"Impossible d'envoyer la pièce jointe."</string>
+    <string name="nudge_dismiss_button_text">IGNORER</string>
+    <string name="nudge_dismiss_success_message">Rappel automatique ignoré.</string>
     <string name="oauth_authentication_title">"Demande d'autorisation…"</string>
     <string name="oauth_error_description">Authentification impossible.</string>
     <string name="oauth_server_error">Le serveur est indisponible. Veuillez réessayer plus tard.</string>
@@ -1532,7 +1533,7 @@ Appuyez pour activer cette fonctionnalité."</string>
     <string name="to_message_header">à %1$s</string>
     <string name="toggle_read_unread">Afficher ou masquer le texte non lu</string>
     <string name="too_large_to_attach_multiple">"Un ou plusieurs fichiers n'ont pas été joints. La taille limite est de %1$s."</string>
-    <string name="too_large_to_attach_single">Impossible de joindre un fichier dépassant %1$s.</string>
+    <string name="too_large_to_attach_single">La taille des fichiers à envoyer dépasse la limite totale autorisée (%1$s) pour les pièces jointes.</string>
     <string name="trash_folder_selection_title">Sélect. corb. serveur pour %s.</string>
     <string name="trashed_message_indicator">Ce message a été supprimé</string>
     <string name="turn_auto_sync_on_dialog_body">"Les modifications que vous apporterez dans l'ensemble des applications et des comptes, pas seulement dans Gmail, seront synchronisées avec le Web, vos autres appareils et votre %1$s."</string>

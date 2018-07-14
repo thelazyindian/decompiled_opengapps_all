@@ -408,9 +408,7 @@
     <string name="bcc">ර.කා.පි.</string>
     <string name="bcc_header_for_recipient_summary">"ර.කා.පි: "</string>
     <string name="bcc_heading">ර.කා.පි.:</string>
-    <string name="bd12n_account_settings_permission_summary">Gmail හට ඔබේ දැනුම්දීම් පැමිණෙන විට ඒවා බෙදා හැරීමට අවසරය අවශ්‍යයි. ඔබට මෙය &lt;a href=%1$s>උපාංග සැකසීම්&lt;/a> තුළ වෙනස් කළ හැකිය.</string>
     <string name="bd12n_conversation_push_tip_text">ඒවා පැමිණෙන විගස නව ඊ-තැපැල් ගැන දැනුම්දීම් ලබා ගැනීමට තට්ටු කරන්න.</string>
-    <string name="bd12n_conversation_tip_text">ඒවා පැමිණෙන විගස නව ඊ-තැපැල් ගැන ඔබට දැනුම්දීම් ලබා ගැනීමට අවශ්‍ය නම් Gmail හට පසුබිමේ ධාවනය වීමට ඉඩ දෙන්න. &lt;a href=%1$s>ඉඩ දෙන්න&lt;/a></string>
     <string name="block_sender_menu_item">\"%s\" අවහිර කරන්න</string>
     <string name="blocked_sender_spam">මෙම පණිවිඩය අයාචිත තැපෑලේ ඇත්තේ ඇයි? ඔබ &lt;b>%1$s&lt;/b> වෙතින් පැමිණෙන පණිවිඩ අවහිර කර ඇත.</string>
     <string name="body_hint">ඊ-තැපෑලක් සකසන්න</string>
@@ -420,7 +418,6 @@
     <string name="broadcast_internal_perm_label">අභ්‍යන්තර විකාශය</string>
     <string name="bt_action_archive">සංරක්ෂණය කරන්න</string>
     <string name="bt_action_delete">මකන්න</string>
-    <string name="bt_action_direct_reply">පිළිතුර ලියන්න</string>
     <string name="bt_action_remove_label">ලේබලය ඉවත් කරන්න</string>
     <string name="bt_action_reply">පිළිතුරු දෙන්න</string>
     <string name="bt_action_reply_all">සියල්ලන්ටම පිළිතුරු දෙන්න</string>
@@ -641,6 +638,8 @@
     <string name="email_account_transfer_notification_channel_description">ඔබගේ Google නොවන ඊ-තැපැල් ගිණුම් වෙනත් උපාංගයකට මාරු කරනු ලබන විට දැනුම් දීමක් පෙන්වයි.</string>
     <string name="email_account_transfer_notification_channel_name">උපාංගයේ සිට උපාංගයට ඊ-ැපැල් ගිණුම් මාරුව</string>
     <string name="email_account_transfer_notification_title">වෙනත් උපාංගයකට Google නොවන ඊ-තැපැල් ගිණුම් මාරු කරමින්.</string>
+    <string name="email_confirmation_state_unknown_description">ඔබේ පණිවිඩය යවා තිබිය හැකිය.</string>
+    <string name="email_confirmation_state_unknown_title">අපොයි, අපට සම්බන්ධ කිරීමේ ගැටලු ඇති විය!</string>
     <string name="email_provider_label">තැපැල්</string>
     <string name="eml_loader_error_toast">මෙම ගොනුව විවෘත කළ නොහැක</string>
     <string name="eml_viewer_subtitle">EML පණිවිඩ දක්වනය</string>
@@ -776,7 +775,6 @@
     <string name="gm_i18n_snooze_option_later_today">අද පසු වේලාවක</string>
     <string name="gm_i18n_snooze_option_next_week">ඊළඟ සතිය</string>
     <string name="gm_i18n_snooze_option_next_weekend">ඊළඟ සති අන්තය</string>
-    <string name="gm_i18n_snooze_option_someday">යම් දිනක</string>
     <string name="gm_i18n_snooze_option_this_week">මේ සතියේ</string>
     <string name="gm_i18n_snooze_option_this_weekend">මේ සති අන්තය</string>
     <string name="gm_i18n_snooze_option_tomorrow">හෙට</string>
@@ -998,6 +996,7 @@
     <string name="message_priority">පණිවිඩ ප්‍රමුඛතාව</string>
     <string name="message_queued">පෙළ ගසන ලදි</string>
     <string name="message_saved">පණිවිඩය කටු සටහනක් ලෙස සුරකින ලදි.</string>
+    <string name="message_sent">යවන ලදී</string>
     <string name="message_too_large">පණිවිඩය මෙම උපාංගය මත විවෘත කිරීමට විශාල වැඩිය</string>
     <string name="message_uploading_attachments">උඩුගත කරමින්</string>
     <string name="message_view_forwarded_attachment_background_load">යැවීමට පෙර ඔබේ ප්‍රතියොමු කළ පණිවිඩයේ ඇමුණුම් එකක් හෝ වැඩි ගණනක් බාගැනෙනු ඇත.</string>
@@ -1049,6 +1048,8 @@
     <string name="notifications_category">දැනුම්දීම්</string>
     <string name="notify_attachment_save_error">ඇමුණුම සුරැකීමට නොහැකි විය</string>
     <string name="notify_attachment_send_error">ඇමුණුම යැවීමට නොහැකි විය</string>
+    <string name="nudge_dismiss_button_text">ඉවත ලන්න</string>
+    <string name="nudge_dismiss_success_message">සෙමින් තල්ලු කිරීම ඉවත ලන ලදී.</string>
     <string name="oauth_authentication_title">අනුමැතිය ඉල්ලමින්…</string>
     <string name="oauth_error_description">සත්‍යාපනය කිරීමට නොහැකිය</string>
     <string name="oauth_server_error">සේවාදායකය ලද නොහැකිය, කරුණාකර පසුව නැවත උත්සාහ කරන්න</string>
@@ -1538,7 +1539,7 @@
     <string name="to_message_header">%1$s වෙත</string>
     <string name="toggle_read_unread">කියවූ නොකියවූ ටොගල් කරන්න</string>
     <string name="too_large_to_attach_multiple">ගොනුවක් හෝ කිහිපයක් අමුණ නැත. සිමාව %1$s</string>
-    <string name="too_large_to_attach_single">%1$s වඩා වැඩි ගොනු ඇමිණිය නොහැක.</string>
+    <string name="too_large_to_attach_single">ඔබ යැවීමට උත්සාහ කරන ගොනු %1$s මුළු ඇමිණුම් සීමාව ඉක්මවයි.</string>
     <string name="trash_folder_selection_title">%s සඳහා සේවාදායක කුණු කුඩ ෆෝල්ඩරය තෝරන්න</string>
     <string name="trashed_message_indicator">මෙම පණිවිඩය මකා ඇත</string>
     <string name="turn_auto_sync_on_dialog_body">Gmail පමණක් නොව, සියලුම යෙදුම් සහ ගිණුම්වලට ඔබ කරන වෙනස්කම්, වෙබය, ඔබගේ අනෙකුත් උපාංග සහ ඔබගේ %1$s අතර සමමුහුර්ත වේ.</string>

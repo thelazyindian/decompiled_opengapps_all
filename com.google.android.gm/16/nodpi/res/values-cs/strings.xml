@@ -406,9 +406,7 @@
     <string name="bcc">Skr. kopie</string>
     <string name="bcc_header_for_recipient_summary">"skr. kop.: "</string>
     <string name="bcc_heading">Skr. kop.:</string>
-    <string name="bd12n_account_settings_permission_summary">Gmail potřebuje oprávnění, aby vám mohl ukazovat oznámení hned po doručení. Změnit ho můžete v &lt;a href=%1$s>nastavení zařízení&lt;/a>.</string>
     <string name="bd12n_conversation_push_tip_text">Klepněte, pokud chcete dostávat oznámení o nových e-mailech, když přijdou.</string>
-    <string name="bd12n_conversation_tip_text">Pokud chcete dostávat oznámení o nových e-mailech, když přijdou, povolte aplikaci Gmail pracovat na pozadí. &lt;a href=%1$s>Povolit&lt;/a></string>
     <string name="block_sender_menu_item">Zablokovat odesílatele %s</string>
     <string name="blocked_sender_spam">Proč je tato zpráva ve spamu? Příchozí zprávy od odesílatele &lt;b>%1$s&lt;/b> jste zablokovali.</string>
     <string name="body_hint">Napište zprávu</string>
@@ -418,7 +416,6 @@
     <string name="broadcast_internal_perm_label">interní vysílání</string>
     <string name="bt_action_archive">Archivovat</string>
     <string name="bt_action_delete">Smazat</string>
-    <string name="bt_action_direct_reply">Napsat odpověď</string>
     <string name="bt_action_remove_label">Odebrat štítek</string>
     <string name="bt_action_reply">Odpovědět</string>
     <string name="bt_action_reply_all">Odpovědět všem</string>
@@ -642,6 +639,8 @@
     <string name="email_account_transfer_notification_channel_description">Zobrazuje oznámení, když jsou vaše e-mailové účty jiného poskytovatele než Google převáděny do jiného zařízení.</string>
     <string name="email_account_transfer_notification_channel_name">Převod e-mailového účtu mezi zařízeními</string>
     <string name="email_account_transfer_notification_title">Převádění e-mailových účtů jiného poskytovatele než Google do jiného zařízení.</string>
+    <string name="email_confirmation_state_unknown_description">Je možné, že vaše zpráva byla odeslána.</string>
+    <string name="email_confirmation_state_unknown_title">Ouha, nepodařilo se nám připojit.</string>
     <string name="email_provider_label">E-mail</string>
     <string name="eml_loader_error_toast">Soubor nelze otevřít.</string>
     <string name="eml_viewer_subtitle">Prohlížeč zpráv EML</string>
@@ -778,7 +777,6 @@
     <string name="gm_i18n_snooze_option_later_today">později na dnešek</string>
     <string name="gm_i18n_snooze_option_next_week">příští týden</string>
     <string name="gm_i18n_snooze_option_next_weekend">Příští víkend</string>
-    <string name="gm_i18n_snooze_option_someday">neurčito</string>
     <string name="gm_i18n_snooze_option_this_week">Tento týden</string>
     <string name="gm_i18n_snooze_option_this_weekend">Tento víkend</string>
     <string name="gm_i18n_snooze_option_tomorrow">zítra</string>
@@ -1000,6 +998,7 @@
     <string name="message_priority">Priorita zprávy</string>
     <string name="message_queued">Ve frontě</string>
     <string name="message_saved">Zpráva byla uložena jako koncept.</string>
+    <string name="message_sent">Odesláno</string>
     <string name="message_too_large">Zpráva je příliš velká na to, aby šla otevřít na tomto zařízení</string>
     <string name="message_uploading_attachments">Nahrávání</string>
     <string name="message_view_forwarded_attachment_background_load">Jedna či více příloh ve vaší přeposílané zprávě bude před odesláním stažena.</string>
@@ -1051,6 +1050,8 @@
     <string name="notifications_category">Oznámení</string>
     <string name="notify_attachment_save_error">Přílohu se nepodařilo uložit</string>
     <string name="notify_attachment_send_error">Přílohu se nepodařilo odeslat</string>
+    <string name="nudge_dismiss_button_text">ZAVŘÍT</string>
+    <string name="nudge_dismiss_success_message">Připomenutí bylo odmítnuto.</string>
     <string name="oauth_authentication_title">Žádání o autorizaci…</string>
     <string name="oauth_error_description">Ověření se nezdařilo</string>
     <string name="oauth_server_error">Server je nedostupný, zkuste to později</string>
@@ -1542,7 +1543,7 @@ Zapnete ji klepnutím."</string>
     <string name="to_message_header">komu: %1$s</string>
     <string name="toggle_read_unread">Přepnout mezi přečtenými a nepřečtenými</string>
     <string name="too_large_to_attach_multiple">Jeden nebo více souborů nebylo připojeno. Limit je %1$s.</string>
-    <string name="too_large_to_attach_single">Nelze připojit soubor větší než %1$s.</string>
+    <string name="too_large_to_attach_single">Soubory, které se pokoušíte odeslat, překračují celkový limit pro přílohy (%1$s).</string>
     <string name="trash_folder_selection_title">Vyberte koš serveru pro účet %s</string>
     <string name="trashed_message_indicator">Tato zpráva byla smazána</string>
     <string name="turn_auto_sync_on_dialog_body">Změny, které provedete ve všech aplikacích a účtech (nikoli jen v Gmailu), budou synchronizovány mezi webem, vašimi ostatními zařízeními a vaším %1$s.</string>

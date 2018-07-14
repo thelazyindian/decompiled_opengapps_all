@@ -410,9 +410,7 @@
     <string name="bcc">Skr. kop.</string>
     <string name="bcc_header_for_recipient_summary">"skr. kop.: "</string>
     <string name="bcc_heading">Skr. kop.:</string>
-    <string name="bd12n_account_settings_permission_summary">Gmail treba dopuštenje da bi vam obavijesti isporučio čim stignu. Tu postavku možete promijeniti u &lt;a href=%1$s>postavkama uređaja&lt;/a>.</string>
     <string name="bd12n_conversation_push_tip_text">Dodirnite da biste primali obavijesti o novim e-porukama kada stignu.</string>
-    <string name="bd12n_conversation_tip_text">Ako želite primati obavijesti o novim porukama kada stignu, omogućite Gmailu da radi u pozadini. &lt;a href=%1$s>Dopusti&lt;/a></string>
     <string name="block_sender_menu_item">Blokiranje pošiljatelja \"%s\"</string>
     <string name="blocked_sender_spam">Zašto je ova poruka u Neželjenoj pošti? Blokirali ste dolazne poruke s adrese &lt;b>%1$s&lt;/b>.</string>
     <string name="body_hint">Stvori novu e-poruku</string>
@@ -422,7 +420,6 @@
     <string name="broadcast_internal_perm_label">interno emitiranje</string>
     <string name="bt_action_archive">Arhiva</string>
     <string name="bt_action_delete">Brisanje</string>
-    <string name="bt_action_direct_reply">Izrada odgovora</string>
     <string name="bt_action_remove_label">Uklanjanje oznake</string>
     <string name="bt_action_reply">Odgovor</string>
     <string name="bt_action_reply_all">Odgovaranje svima</string>
@@ -644,6 +641,8 @@
     <string name="email_account_transfer_notification_channel_description">Prikazuje obavijest kada se računi e-pošte koji nisu Googleovi prenose na drugi uređaj.</string>
     <string name="email_account_transfer_notification_channel_name">Prijenos računa e-pošte s uređaja na uređaj</string>
     <string name="email_account_transfer_notification_title">Prijenos računa e-pošte koji nisu Googleovi na drugi uređaj.</string>
+    <string name="email_confirmation_state_unknown_description">Vaša je poruka možda poslana.</string>
+    <string name="email_confirmation_state_unknown_title">Ups, naišli smo na problem s povezivanjem!</string>
     <string name="email_provider_label">E-pošta</string>
     <string name="eml_loader_error_toast">Nije moguće otvoriti tu datoteku</string>
     <string name="eml_viewer_subtitle">Pregledač EML poruke</string>
@@ -781,7 +780,6 @@
     <string name="gm_i18n_snooze_option_later_today">Kasnije danas</string>
     <string name="gm_i18n_snooze_option_next_week">Sljedeći tjedan</string>
     <string name="gm_i18n_snooze_option_next_weekend">Sljedeći vikend</string>
-    <string name="gm_i18n_snooze_option_someday">Jednog dana</string>
     <string name="gm_i18n_snooze_option_this_week">Ovaj tjedan</string>
     <string name="gm_i18n_snooze_option_this_weekend">Ovaj vikend</string>
     <string name="gm_i18n_snooze_option_tomorrow">Sutra</string>
@@ -1002,6 +1000,7 @@
     <string name="message_priority">Važnost poruke</string>
     <string name="message_queued">U redu čekanja</string>
     <string name="message_saved">Poruka je spremljena kao skica.</string>
+    <string name="message_sent">Poslano</string>
     <string name="message_too_large">Poruka je prevelika da bi se otvorila na ovom uređaju</string>
     <string name="message_uploading_attachments">Prijenos</string>
     <string name="message_view_forwarded_attachment_background_load">Jedan ili više privitaka u proslijeđenoj poruci preuzet će se prije slanja.</string>
@@ -1053,6 +1052,8 @@
     <string name="notifications_category">Obavijesti</string>
     <string name="notify_attachment_save_error">Spremanje privitka nije uspjelo</string>
     <string name="notify_attachment_send_error">Slanje privitka nije uspjelo</string>
+    <string name="nudge_dismiss_button_text">ODBACI</string>
+    <string name="nudge_dismiss_success_message">Podsjećanje odbačeno.</string>
     <string name="oauth_authentication_title">Zahtijevanje autorizacije...</string>
     <string name="oauth_error_description">Autentifikacija nije moguća</string>
     <string name="oauth_server_error">Poslužitelj nije dostupan. Pokušajte ponovno poslije.</string>
@@ -1541,7 +1542,7 @@ Dodirnite da biste je uključili."</string>
     <string name="to_message_header">prima %1$s</string>
     <string name="toggle_read_unread">Uključi/isključi pročitano/nepročitano</string>
     <string name="too_large_to_attach_multiple">Jedna ili više datoteka nije priloženo. Ograničenje je %1$s.</string>
-    <string name="too_large_to_attach_single">Nije moguće priložiti datoteku veću od %1$s.</string>
+    <string name="too_large_to_attach_single">Datoteke koje pokušavate poslati premašuju ukupno ograničenje od %1$s za privitke.</string>
     <string name="trash_folder_selection_title">Odaberite mapu za otpad poslužitelja za %s</string>
     <string name="trashed_message_indicator">Ta je poruka izbrisana</string>
     <string name="turn_auto_sync_on_dialog_body">Promjene koje unesete na svim aplikacijama i računima, a ne samo na Gmailu, sinkronizirat će se na webu, vašim ostalim uređajima i vašem uređaju %1$s.</string>

@@ -414,9 +414,7 @@
     <string name="auto_send_perm_desc">Gmail பயன்பாட்டைத் திறக்காமல் Gmail செய்திகளை அனுப்ப, பயன்பாட்டை அனுமதிக்கும்.</string>
     <string name="auto_send_perm_label">Gmail அனுப்பு</string>
     <string name="auto_sync_off">தானாக ஒத்திசை எனும் அம்சம் முடக்கப்பட்டுள்ளது. இயக்க, தட்டவும்.</string>
-    <string name="bd12n_account_settings_permission_summary">அறிவிப்புகளை உடனுக்குடன் வழங்க, Gmailக்கு அனுமதி தேவை. இதைச் &lt;a href=%1$s>சாதன அமைப்புகளில்&lt;/a> மாற்றலாம்.</string>
     <string name="bd12n_conversation_push_tip_text">புதிய மின்னஞ்சல்களைப் பற்றி உடனுக்குடன் அறிவிப்புகளைப் பெற, தட்டவும்.</string>
-    <string name="bd12n_conversation_tip_text">புதிய மின்னஞ்சல்களைப் பற்றி உடனுக்குடன் தெரிந்துகொள்ள விரும்பினால், பின்னணியில் இயங்க Gmailஐ அனுமதிக்கவும். &lt;a href=%1$s>அனுமதி&lt;/a></string>
     <string name="block_sender_menu_item">\"%s\"ஐத் தடு</string>
     <string name="blocked_sender_spam">இந்தச் செய்தி ஏன் ஸ்பேமில் உள்ளது? &lt;b>%1$s&lt;/b> முகவரியிலிருந்து வரும் செய்திகளைத் தடுத்துள்ளீர்கள்.</string>
     <string name="body_hint">மின்னஞ்சலை எழுது</string>
@@ -426,7 +424,6 @@
     <string name="broadcast_internal_perm_label">அக வலைபரப்புதல்</string>
     <string name="bt_action_archive">காப்பகம்</string>
     <string name="bt_action_delete">நீக்கு</string>
-    <string name="bt_action_direct_reply">பதிலை எழுது</string>
     <string name="bt_action_remove_label">லேபிளை அகற்று</string>
     <string name="bt_action_reply">பதிலளி</string>
     <string name="bt_action_reply_all">எல்லோருக்கும் பதிலளி</string>
@@ -643,6 +640,8 @@
     <string name="email_account_transfer_notification_channel_description">Google அல்லாத மின்னஞ்சல் கணக்குகளை மற்றொரு சாதனத்திற்கு மாற்றும் போது, அறிவிப்பைக் காட்டும்.</string>
     <string name="email_account_transfer_notification_channel_name">மின்னஞ்சல் கணக்கு மாற்றம்</string>
     <string name="email_account_transfer_notification_title">Google அல்லாத மின்னஞ்சல் கணக்குகளை மற்றொரு சாதனத்திற்கு மாற்றுகிறது.</string>
+    <string name="email_confirmation_state_unknown_description">செய்தி அனுப்பப்பட்டிருக்கலாம்.</string>
+    <string name="email_confirmation_state_unknown_title">அச்சச்சோ, இணைப்பதில் சிக்கல்!</string>
     <string name="eml_loader_error_toast">இந்தக் கோப்பைத் திறக்க முடியவில்லை</string>
     <string name="eml_viewer_subtitle">EML செய்தி வியூவர்</string>
     <string name="employee_name_spoofing">இவரின் பெயரானது உங்கள் நிறுவனத்தில் உள்ள பெயர் போன்று உள்ளது. ஆனால் மின்னஞ்சல் முகவரி உங்கள் டொமைனைச் சார்ந்தது இல்லை அல்லது மின்னஞ்சல் அங்கீகரிக்கப்படவில்லை. இந்த மின்னஞ்சலை உங்கள் டொமைனில் உள்ளவர் அல்லது அங்கீகரிக்கப்பட்டவர் அனுப்பியுள்ளார் என்பதை உறுதிப்படுத்துவதற்கு நீங்கள் வேறு முறையில் அனுப்புநரைத் தொடர்புகொள்ளும் வரை, இணைப்புகளைக் கிளிக் செய்வது அல்லது அதிமுக்கியத் தகவலுடன் பதிலளிப்பதைத் தவிர்க்கவும்.</string>
@@ -777,7 +776,6 @@
     <string name="gm_i18n_snooze_option_later_today">சற்று நேரத்திற்குப் பின்</string>
     <string name="gm_i18n_snooze_option_next_week">அடுத்த வாரம்</string>
     <string name="gm_i18n_snooze_option_next_weekend">அடுத்த வார இறுதி</string>
-    <string name="gm_i18n_snooze_option_someday">வேறொரு நாள்</string>
     <string name="gm_i18n_snooze_option_this_week">இந்த வாரம்</string>
     <string name="gm_i18n_snooze_option_this_weekend">இந்த வார இறுதி</string>
     <string name="gm_i18n_snooze_option_tomorrow">நாளை</string>
@@ -999,6 +997,7 @@
     <string name="message_priority">செய்திக்கான முன்னுரிமை</string>
     <string name="message_queued">வரிசைப்படுத்தப்பட்டது</string>
     <string name="message_saved">செய்தி வரைவாகச் சேமிக்கப்பட்டது.</string>
+    <string name="message_sent">அனுப்பப்பட்டது</string>
     <string name="message_too_large">செய்தி மிகவும் பெரிதாக உள்ளதால் இந்த சாதனத்தில் திறக்க முடியாது</string>
     <string name="message_uploading_attachments">பதிவேற்றுகிறது</string>
     <string name="message_view_forwarded_attachment_background_load">நீங்கள் முன்னனுப்பிய செய்தியில் உள்ள ஒன்று அல்லது பல இணைப்புகள், அனுப்புவதற்கு முன் பதிவிறக்கப்படும்.</string>
@@ -1050,6 +1049,8 @@
     <string name="notifications_category">அறிவிப்புகள்</string>
     <string name="notify_attachment_save_error">இணைப்பைச் சேமிக்க முடியவில்லை</string>
     <string name="notify_attachment_send_error">இணைப்பை அனுப்ப முடியவில்லை</string>
+    <string name="nudge_dismiss_button_text">நிராகரி</string>
+    <string name="nudge_dismiss_success_message">நட்ஜ் நிராகரிக்கப்பட்டது.</string>
     <string name="oauth_authentication_title">அங்கீகரிப்பைக் கோருகிறது…</string>
     <string name="oauth_error_description">அங்கீகரிக்க முடியவில்லை</string>
     <string name="oauth_server_error">சேவையகம் கிடைக்கவில்லை, பிறகு முயற்சிக்கவும்</string>
@@ -1537,7 +1538,7 @@
     <string name="to_message_header">பெறுநர்: %1$s</string>
     <string name="toggle_read_unread">படித்தவை, படிக்காதவை இடையே நிலைமாறு</string>
     <string name="too_large_to_attach_multiple">ஒன்று அல்லது அதற்கு மேற்பட்ட கோப்புகள் இணைக்கப்படவில்லை. வரம்பு %1$s ஆகும்.</string>
-    <string name="too_large_to_attach_single">%1$sஐ விட, அதிகமான அளவுள்ள கோப்பை இணைக்க முடியாது.</string>
+    <string name="too_large_to_attach_single">நீங்கள் அனுப்ப முயற்சிக்கும் கோப்புகளின் அளவானது, இணைப்பிற்கான மொத்த வரம்பான %1$sக்கும் அதிகமாக உள்ளது.</string>
     <string name="trash_folder_selection_title">%s சர்வர் நீக்கப்பட்டவையைத் தேர்ந்தெடு</string>
     <string name="trashed_message_indicator">இந்தச் செய்தி நீக்கப்பட்டது</string>
     <string name="turn_auto_sync_on_dialog_body">நீங்கள் மாற்றங்களைச் செய்யும் எல்லா பயன்பாடுகளும், கணக்குகளும், Gmail மட்டுமில்லாமல், இணையம், உங்கள் பிற சாதனங்கள் மற்றும் %1$s ஆகியவற்றிற்கு இடையே ஒத்திசைக்கப்படும்.</string>

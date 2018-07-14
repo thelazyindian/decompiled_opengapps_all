@@ -412,9 +412,7 @@
     <string name="bcc">Ծպճ</string>
     <string name="bcc_header_for_recipient_summary">"ծպճ՝ "</string>
     <string name="bcc_heading">Ծպճ՝</string>
-    <string name="bd12n_account_settings_permission_summary">Ակնթարթային ծանուցումներ ցուցադրելու համար Gmail-ին թույլտվություն է հարկավոր: Սա կարող եք փոխել &lt;a href=%1$s>սարքի կարգավորումներում&lt;/a>:</string>
     <string name="bd12n_conversation_push_tip_text">Հպեք, եթե ուզում եք ծանուցվել նոր նամակներ ստանալիս:</string>
-    <string name="bd12n_conversation_tip_text">Թույլ տվեք, որ Gmail-ն աշխատի ֆոնային ռեժիմում, եթե ուզում եք ծանուցվել նոր նամակներ ստանալիս: &lt;a href=%1$s>Թույլատրել&lt;/a></string>
     <string name="block_sender_menu_item">Արգելափակել «%s»-ին</string>
     <string name="blocked_sender_spam">Այս հաղորդագրությունը «Սպամ» պանակում է, քանի որ դուք արգելափակել եք մուտքային հաղորդագրությունները &lt;b>%1$s&lt;/b>-ից:</string>
     <string name="body_hint">Գրել նամակ</string>
@@ -424,7 +422,6 @@
     <string name="broadcast_internal_perm_label">ներքին հեռարձակում</string>
     <string name="bt_action_archive">Արխիվացնել</string>
     <string name="bt_action_delete">Ջնջել</string>
-    <string name="bt_action_direct_reply">Գրել պատասխան</string>
     <string name="bt_action_remove_label">Հեռացնել պիտակը</string>
     <string name="bt_action_reply">Պատասխանել</string>
     <string name="bt_action_reply_all">Պատասխանել բոլորին</string>
@@ -644,6 +641,8 @@
     <string name="email_account_transfer_notification_channel_description">Ցուցադրում է ծանուցում, երբ ձեր կողմնակի հաշիվները փոխանցվում են մեկ ուրիշ սարք:</string>
     <string name="email_account_transfer_notification_channel_name">Սարքից սարք էլփոստի հաշիվների փոխանցում</string>
     <string name="email_account_transfer_notification_title">Կողմնակի հաշիվների փոխանցում մեկ ուրիշ սարք</string>
+    <string name="email_confirmation_state_unknown_description">Ձեր հաղորդագրությունը կարող է ուղարկված լինել:</string>
+    <string name="email_confirmation_state_unknown_title">Կապի խնդիր առաջացավ:</string>
     <string name="email_provider_label">Փոստ</string>
     <string name="eml_loader_error_toast">Հնարավոր չէ բացել այս ֆայլը</string>
     <string name="eml_viewer_subtitle">EML հաղորդագրությունների դիտակ</string>
@@ -780,7 +779,6 @@
     <string name="gm_i18n_snooze_option_later_today">Այսօր ավելի ուշ</string>
     <string name="gm_i18n_snooze_option_next_week">Հաջորդ շաբաթ</string>
     <string name="gm_i18n_snooze_option_next_weekend">Հաջորդ հանգստյան օրերին</string>
-    <string name="gm_i18n_snooze_option_someday">Մի օր</string>
     <string name="gm_i18n_snooze_option_this_week">Այս շաբաթ</string>
     <string name="gm_i18n_snooze_option_this_weekend">Այս հանգստյան օրերին</string>
     <string name="gm_i18n_snooze_option_tomorrow">Վաղը</string>
@@ -1002,6 +1000,7 @@
     <string name="message_priority">Նամակների առաջնահերթություն</string>
     <string name="message_queued">Հերթագրված է</string>
     <string name="message_saved">Հաղորդագրությունը պահվել է որպես սևագիր:</string>
+    <string name="message_sent">Ուղարկվեց</string>
     <string name="message_too_large">Հաղորդագրությունը չափազանց մեծ է, որպեսզի կարողանա բացվել այս սարքում</string>
     <string name="message_uploading_attachments">Վերբեռնվում է</string>
     <string name="message_view_forwarded_attachment_background_load">Ձեր փոխանցած հաղորդագրության մեկ կամ ավելի կցորդներ կներբեռնվեն նախքան ուղարկելը:</string>
@@ -1053,6 +1052,8 @@
     <string name="notifications_category">Ծանուցումներ</string>
     <string name="notify_attachment_save_error">Չհաջողվեց պահել կցորդը</string>
     <string name="notify_attachment_send_error">Չհաջողվեց ուղարկել կցորդը</string>
+    <string name="nudge_dismiss_button_text">ՓԱԿԵԼ</string>
+    <string name="nudge_dismiss_success_message">Հիշեցումը փակվեց:</string>
     <string name="oauth_authentication_title">Լիազորման հարցում…</string>
     <string name="oauth_error_description">Իսկորոշումը ձախողվեց</string>
     <string name="oauth_server_error">Սերվերն անհասանելի է, քիչ հետո կրկին փորձեք:</string>
@@ -1539,7 +1540,7 @@
     <string name="to_message_header">ում՝ %1$s</string>
     <string name="toggle_read_unread">Նշել որպես կարդացված/չկարդացված</string>
     <string name="too_large_to_attach_multiple">Մեկ կամ ավելի ֆայլեր չեն կցվել: Սահմանաչափ՝ %1$s:</string>
-    <string name="too_large_to_attach_single">Հնարավոր չէ կցել %1$s-ը գերազանցող ֆայլ:</string>
+    <string name="too_large_to_attach_single">Ֆայլերը, որոնք փորձում եք ուղարկել, գերազանցում են կցվող ֆայլերի ընդհանուր ծավալի սահմանաչափը (%1$s):</string>
     <string name="trash_folder_selection_title">%s՝ ընտրեք աղբի պանակը</string>
     <string name="trashed_message_indicator">Այս նամակը հեռացվել է</string>
     <string name="turn_auto_sync_on_dialog_body">Ոչ միայն Gmail-ում, այլև մյուս բոլոր հավելվածներում և հաշիվներում ձեր կատարած փոփոխությունները կհամաժամեցվեն վեբ միջերեսի, ձեր մյուս սարքերի և %1$s-ի միջև:</string>

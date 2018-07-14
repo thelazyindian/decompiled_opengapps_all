@@ -408,9 +408,7 @@
     <string name="auto_send_perm_label">Gmail ପଠାନ୍ତୁ</string>
     <string name="auto_sync_off">ଅଟୋ-ସିଙ୍କ ବନ୍ଦ ଅଛି। ଚାଲୁ କରିବା ପାଇଁ ଟାପ୍ କରନ୍ତୁ।</string>
     <string name="bcc_header_for_recipient_summary">"bcc "</string>
-    <string name="bd12n_account_settings_permission_summary">Gmailକୁ ସୂଚନାଗୁଡ଼ିକ ଆସିବାମାତ୍ରେ, ସେଗୁଡ଼ିକୁ ଡେଲିଭର୍ କରିବା ପାଇଁ ଅନୁମତି ଦରକାର। ଆପଣ &lt;a href=%1$s> ଡିଭାଇସ୍‍ ସେଟିଙ୍ଗ &lt;/a>କୁ ଯାଇ ଏହାକୁ ବଦାଳାଇପାରିବେ।</string>
     <string name="bd12n_conversation_push_tip_text">ନୂଆ ଇମେଲ୍‍ଗୁଡ଼ିକ ଆସିବାମାତ୍ରେ ସେଗୁଡ଼ିକର ସୂଚନା ପାଇବା ପାଇଁ ଟାପ୍‍ କରନ୍ତୁ।</string>
-    <string name="bd12n_conversation_tip_text">ଯଦି ଆପଣ ନୂଆ ଇମେଲ୍‍ ଆସିବାମାତ୍ରେ ସୂଚନା ପାଇବାକୁ ଚାହୁଁଛନ୍ତି, ତେବେ Gmailକୁ ବ୍ୟାକ୍‍ଗ୍ରାଉଣ୍ଡରେ ଚାଲିବାକୁ ଦିଅନ୍ତୁ। &lt;a href=%1$s>ଅନୁମତି ଦିଅନ୍ତୁ&lt;/a></string>
     <string name="block_sender_menu_item">\"%s\"ଙ୍କୁ ଅବରୋଧ କରନ୍ତୁ</string>
     <string name="blocked_sender_spam">ଏହି ମେସେଜ୍ ସ୍ପାମ୍‌ ଫୋଲ୍ଡର୍‍ରେ କାହିଁକି ଅଛି? ଆପଣ &lt;b>%1$s&lt;/b> ରୁ ଆସୁଥିବା ମେସେଜ୍‍ଗୁଡ଼ିକୁ ଅବରୋଧ କରିଥିଲେ।</string>
     <string name="body_hint">ଇମେଲ୍ ଲେଖନ୍ତୁ</string>
@@ -420,7 +418,6 @@
     <string name="broadcast_internal_perm_label">ଇଣ୍ଟର୍ନଲ୍ ବ୍ରଡ୍‌କାଷ୍ଟ</string>
     <string name="bt_action_archive">ଆର୍କାଇଭ୍</string>
     <string name="bt_action_delete">ଡିଲିଟ୍ କରନ୍ତୁ</string>
-    <string name="bt_action_direct_reply">ଉତ୍ତର ଲେଖନ୍ତୁ</string>
     <string name="bt_action_remove_label">ଲେବଲ୍ ହଟାନ୍ତୁ</string>
     <string name="bt_action_reply">ଉତ୍ତର ଦିଅନ୍ତୁ</string>
     <string name="bt_action_reply_all">ସମସ୍ତଙ୍କୁ ଉତ୍ତର ଦିଅନ୍ତୁ</string>
@@ -621,6 +618,8 @@
     <string name="email_account_transfer_notification_channel_description">ଯେତେବେଳେ ଆପଣଙ୍କର non-Google ଇମେଲ୍‍ ଆକାଉଣ୍ଟଗୁଡ଼ିକ ଅନ୍ୟଏକ ଡିଭାଇସ୍‍କୁ ସ୍ଥାନାନ୍ତର ହୁଏ, ସେତେବେଳେ ଏହା ଗୋଟିଏ ବିଜ୍ଞପ୍ତି ଦେଖାଇଥାଏ।</string>
     <string name="email_account_transfer_notification_channel_name">ଡିଭାଇସ୍‌ରୁ ଡିଭାଇସ୍‌କୁ ଇମେଲ୍‍ ଆକାଉଣ୍ଟ ସ୍ଥାନାନ୍ତର</string>
     <string name="email_account_transfer_notification_title">Non-Google ଇମେଲ୍‍ ଆକାଉଣ୍ଟଗୁଡ଼ିକୁ ଅନ୍ୟ ଏକ ଡିଭାଇସ୍‍କୁ ସ୍ଥାନାନ୍ତର କରାଯାଉଛି।</string>
+    <string name="email_confirmation_state_unknown_description">ଆପଣଙ୍କ ମେସେଜ୍ ପଠାଯାଇ ପାରେ।</string>
+    <string name="email_confirmation_state_unknown_title">ଓଃ, କନେକ୍ଟ ହେବାରେ ଆମର ଅସୁବିଧା ହେଉଥିଲା!</string>
     <string name="email_provider_label">ମେଲ୍</string>
     <string name="eml_loader_error_toast">ଏହି ଫାଇଲ୍‌କୁ ଖୋଲିହେବ ନାହିଁ</string>
     <string name="eml_viewer_subtitle">EML ମେସେଜ୍ ଭ୍ୟୁଅର୍</string>
@@ -754,7 +753,6 @@
     <string name="gm_i18n_snooze_option_later_today">ଆଜି ପରେ</string>
     <string name="gm_i18n_snooze_option_next_week">ଆଗାମୀ ସପ୍ତାହ</string>
     <string name="gm_i18n_snooze_option_next_weekend">ଆଗାମୀ ସପ୍ତାହର ଶେଷଦିନ</string>
-    <string name="gm_i18n_snooze_option_someday">କୌଣସି ଦିନ</string>
     <string name="gm_i18n_snooze_option_this_week">ଏହି ସପ୍ତାହ</string>
     <string name="gm_i18n_snooze_option_this_weekend">ଏହି ସପ୍ତାହର ଶେଷ ଦିନରେ</string>
     <string name="gm_i18n_snooze_option_tomorrow">ଆସନ୍ତାକାଲି</string>
@@ -971,6 +969,7 @@
     <string name="message_priority">ମେସେଜ୍ ପ୍ରାଥମିକତା</string>
     <string name="message_queued">ଧାଡ଼ିରେ ରଖାଯାଇଛି</string>
     <string name="message_saved">ମେସେଜ୍‌କୁ ଡ୍ରାଫ୍ଟ ଭାବରେ ସେଭ୍‌ କରାଗଲା।</string>
+    <string name="message_sent">ପଠାଗଲା</string>
     <string name="message_too_large">ଏହି ଡିଭାଇସ୍‌ରେ ଖୋଲିବା ପାଇଁ ମେସେଜ୍‌ଟି ବହୁତ ବଡ଼ ଅଟେ</string>
     <string name="message_uploading_attachments">ଅପଲୋଡ୍ ହେଉଛି</string>
     <string name="message_view_forwarded_attachment_background_load">ଆପଣଙ୍କ ଫର୍‌ୱାର୍ଡ ହୋ‍ଇଥିବା ମେସେଜ୍‌ରେ ପଠାଇବାକୁ ଅଗ୍ରାଧିକାର ଦେଇ, ଏକ କିମ୍ବା ଅଧିକ ଆଟାଚ୍‌ମେଣ୍ଟକୁ ଡାଉନଲୋଡ୍ କରାଯିବ।</string>
@@ -1021,6 +1020,8 @@
     <string name="notifications_category">ବିଜ୍ଞପ୍ତି</string>
     <string name="notify_attachment_save_error">ଆଟାଚ୍‌ମେଣ୍ଟକୁ ସେଭ୍ କରିହେଲା ନାହିଁ</string>
     <string name="notify_attachment_send_error">ଆଟାଚ୍‌ମେଣ୍ଟ ପଠାଇହେଲା ନାହିଁ</string>
+    <string name="nudge_dismiss_button_text">ଖାରଜ କରନ୍ତୁ</string>
+    <string name="nudge_dismiss_success_message">ନଜ୍‍ ଖାରଜ କରାଗଲା।</string>
     <string name="oauth_authentication_title">ଅଧିକାର ଦେବାପାଇଁ ଅନୁରୋଧ କରାଯାଉଛି…</string>
     <string name="oauth_error_description">ପ୍ରମାଣୀକରଣ କରିହେଲା ନାହିଁ</string>
     <string name="oauth_server_error">ସର୍ଭର୍ ଉପଲବ୍ଧ ନାହିଁ, ଦୟାକରି ପରେ ପୁଣି ଚେଷ୍ଟା କରନ୍ତୁ</string>
@@ -1456,7 +1457,7 @@
     <string name="to_message_header">%1$sଙ୍କୁ</string>
     <string name="toggle_read_unread">\"ପଢ଼ାଯାଇଛି\" \"ପଢ଼ାଯାଇନାହିଁ\" ମଧ୍ୟରେ ଟୋଗଲ୍‌ କରନ୍ତୁ</string>
     <string name="too_large_to_attach_multiple">ଏକ ବା ଅଧିକ ଫାଇଲ୍ ଆଟାଚ୍ କରାଯାଇନାହିଁ। ସୀମା %1$s।</string>
-    <string name="too_large_to_attach_single">%1$sରୁ ଅଧିକ ଆକାରର ଫାଇଲ୍ ଆଟାଚ୍ କରିହେବ ନାହିଁ।</string>
+    <string name="too_large_to_attach_single">ଆପଣ ଯେଉଁ ଫାଇଲ୍‌ଗୁଡ଼ିକୁ ପଠାଇବାକୁ ଚେଷ୍ଟା କରୁଛନ୍ତି, ତାହା %1$sର ଆଟାଚମେଣ୍ଟ ସୀମା ଅତିକ୍ରମ କରିସାରିଛି।</string>
     <string name="trash_folder_selection_title">%s ପାଇଁ ସର୍ଭର୍ ଟ୍ରାଶ୍ ଫୋଲ୍ଡର୍‌ ଚୟନ କରନ୍ତୁ</string>
     <string name="trashed_message_indicator">ଏହି ମେସେଜ୍‍କୁ ଡିଲିଟ୍‍ କରାଯାଇଛି</string>
     <string name="turn_auto_sync_on_dialog_body">କେବଳ Gmail ନୁହେଁ, ଆପଣଙ୍କ ଦ୍ୱାରା ସମସ୍ତ ଆପ୍‌ ଓ ଆକାଉଣ୍ଟରେ କରାଯାଇଥିବା ପରିବର୍ତ୍ତନ, ୱେବ୍, ଆପଣଙ୍କର ଅନ୍ୟାନ୍ୟ ଡିଭାଇସ୍‌ ତଥା ଆପଣଙ୍କ %1$s ମଧ୍ୟରେ ସିଙ୍କ କରାଯିବ।</string>

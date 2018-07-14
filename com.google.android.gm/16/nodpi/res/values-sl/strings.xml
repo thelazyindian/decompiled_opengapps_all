@@ -420,9 +420,7 @@
     <string name="bcc">Skp</string>
     <string name="bcc_header_for_recipient_summary">"skp: "</string>
     <string name="bcc_heading">Skp:</string>
-    <string name="bd12n_account_settings_permission_summary">Gmail potrebuje dovoljenje za dostavo obvestil, ko prispejo. To lahko spremenite v &lt;a href=%1$s>nastavitvah naprave&lt;/a>.</string>
     <string name="bd12n_conversation_push_tip_text">Dotaknite se, da boste prejemali obvestila, ko prispejo nova e-poštna sporočila.</string>
-    <string name="bd12n_conversation_tip_text">Če želite prejemati obvestila, ko prispejo nova e-poštna sporočila, dovolite Gmailu, da se izvaja v ozadju. &lt;a href=%1$s>Dovoli&lt;/a></string>
     <string name="block_sender_menu_item">Blokiraj pošiljatelja »%s«</string>
     <string name="blocked_sender_spam">Zakaj je to sporočilo v mapi »Vsiljena pošta«? Ker ste blokirali dohodna sporočila z naslova &lt;b>%1$s&lt;/b>.</string>
     <string name="body_hint">Novo e-poštno sporočilo</string>
@@ -432,7 +430,6 @@
     <string name="broadcast_internal_perm_label">notranje oddajanje</string>
     <string name="bt_action_archive">Arhiv</string>
     <string name="bt_action_delete">Izbriši</string>
-    <string name="bt_action_direct_reply">Sestavite odgovor</string>
     <string name="bt_action_remove_label">Odstrani oznako</string>
     <string name="bt_action_reply">Odgovori</string>
     <string name="bt_action_reply_all">Odgovori vsem</string>
@@ -656,6 +653,8 @@
     <string name="email_account_transfer_notification_channel_description">Pokaže obvestilo pri prenosu e-poštnih računov, ki niso Gmailovi računi, v drugo napravo.</string>
     <string name="email_account_transfer_notification_channel_name">Prenos e-poštnega računa med napravami</string>
     <string name="email_account_transfer_notification_title">Prenašanje e-poštnih računov, ki niso Gmailovi računi, v drugo napravo</string>
+    <string name="email_confirmation_state_unknown_description">Sporočilo je bilo morda poslano.</string>
+    <string name="email_confirmation_state_unknown_title">Žal je prišlo do težave s povezovanjem.</string>
     <string name="email_provider_label">E-pošta</string>
     <string name="eml_loader_error_toast">Datoteke ni mogoče odpreti</string>
     <string name="eml_viewer_subtitle">Pregledovalnik sporočil EML</string>
@@ -793,7 +792,6 @@
     <string name="gm_i18n_snooze_option_later_today">Pozneje danes</string>
     <string name="gm_i18n_snooze_option_next_week">Naslednji teden</string>
     <string name="gm_i18n_snooze_option_next_weekend">Naslednji kon. tedna</string>
-    <string name="gm_i18n_snooze_option_someday">Nekega dne</string>
     <string name="gm_i18n_snooze_option_this_week">Ta teden</string>
     <string name="gm_i18n_snooze_option_this_weekend">Ta konec tedna</string>
     <string name="gm_i18n_snooze_option_tomorrow">Jutri</string>
@@ -1016,6 +1014,7 @@
     <string name="message_priority">Stopnja prednosti sporočil</string>
     <string name="message_queued">V čakalni vrsti</string>
     <string name="message_saved">Sporočilo shranjeno kot osnutek.</string>
+    <string name="message_sent">Poslano</string>
     <string name="message_too_large">Sporočilo je preveliko, da bi ga bilo mogoče odpreti v tej napravi</string>
     <string name="message_uploading_attachments">Nalaganje</string>
     <string name="message_view_forwarded_attachment_background_load">Ena ali več prilog v posredovanem sporočilu bo pred pošiljanjem prenesena iz strežnika.</string>
@@ -1067,6 +1066,8 @@
     <string name="notifications_category">Obvestila</string>
     <string name="notify_attachment_save_error">Priloge ni bilo mogoče shraniti</string>
     <string name="notify_attachment_send_error">Priloge ni bilo mogoče poslati</string>
+    <string name="nudge_dismiss_button_text">OPUSTI</string>
+    <string name="nudge_dismiss_success_message">Dregljaj je opuščen.</string>
     <string name="oauth_authentication_title">Zahtevanje odobritve …</string>
     <string name="oauth_error_description">Ni mogoče preveriti pristnosti</string>
     <string name="oauth_server_error">Strežnik ni na voljo. Poskusite znova pozneje.</string>
@@ -1557,7 +1558,7 @@ Dotaknite se, da jo vklopite."</string>
     <string name="to_message_header">za: %1$s</string>
     <string name="toggle_read_unread">Preklopi med Prebrano in Neprebrano</string>
     <string name="too_large_to_attach_multiple">Ena ali več datotek ni priloženih. Omejitev velikosti: %1$s.</string>
-    <string name="too_large_to_attach_single">Datoteke, večje od %1$s, ni mogoče priložiti.</string>
+    <string name="too_large_to_attach_single">Datoteke, ki jih poskušate poslati, presegajo omejitev skupne velikosti prilog, ki je %1$s.</string>
     <string name="trash_folder_selection_title">Izberite mapo koša strežnika za račun %s</string>
     <string name="trashed_message_indicator">To sporočilo je izbrisano</string>
     <string name="turn_auto_sync_on_dialog_body">Ne samo spremembe Gmaila, ampak spremembe vseh aplikacij in računov bodo sinhronizirane med spletom, vašimi drugimi napravami in napravo %1$s.</string>

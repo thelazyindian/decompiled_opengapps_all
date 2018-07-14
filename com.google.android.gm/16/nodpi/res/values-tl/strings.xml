@@ -379,9 +379,7 @@
     <string name="auto_send_perm_desc">Binibigyang-daan ang app na magpadala ng mga mensahe ng Gmail nang hindi binubuksan ang Gmail app.</string>
     <string name="auto_send_perm_label">Magpadala ng Gmail</string>
     <string name="auto_sync_off">Naka-off ang auto-sync. I-tap upang i-on.</string>
-    <string name="bd12n_account_settings_permission_summary">Kailangan ng Gmail ng pahintulot para ihatid ang iyong mga notification kapag dumating ang mga ito. Maaari mo itong baguhin sa &lt;a href=%1$s>mga setting ng device&lt;/a>.</string>
     <string name="bd12n_conversation_push_tip_text">I-tap para maabisuhan tungkol sa mga bagong email kapag dumating ang mga ito.</string>
-    <string name="bd12n_conversation_tip_text">Hayaang tumakbo ang Gmail sa background kung gusto mong maabisuhan ng tungkol sa mga bagong email kapag dumating ang mga ito. &lt;a href=%1$s>Payagan&lt;/a></string>
     <string name="block_sender_menu_item">I-block si \"%s\"</string>
     <string name="blocked_sender_spam">Bakit nasa Spam ang mensaheng ito? Na-block mo ang mga papasok na mensahe mula kay &lt;b>%1$s&lt;/b>.</string>
     <string name="body_hint">Gumawa ng email</string>
@@ -390,7 +388,6 @@
     <string name="broadcast_internal_perm_desc">Payagang ma-acccess ng app ang Gmail broadcast intents, na ginagamit upang i-update ang notification bukod sa iba.</string>
     <string name="broadcast_internal_perm_label">internal na pag-broadcast</string>
     <string name="bt_action_delete">I-delete</string>
-    <string name="bt_action_direct_reply">Gumawa ng tugon</string>
     <string name="bt_action_remove_label">Alisin ang Label</string>
     <string name="bt_action_reply">Tumugon</string>
     <string name="bt_action_reply_all">Tugunan lahat</string>
@@ -607,6 +604,8 @@
     <string name="email_account_transfer_notification_channel_description">Nagpapakita ng notification kapag inililipat ang iyong hindi Gmail na mga email account sa ibang device.</string>
     <string name="email_account_transfer_notification_channel_name">Device-sa-device na paglipat ng email account</string>
     <string name="email_account_transfer_notification_title">Inililipat ang hindi Google na mga email account sa ibang device.</string>
+    <string name="email_confirmation_state_unknown_description">Maaaring naipadala ang iyong mensahe.</string>
+    <string name="email_confirmation_state_unknown_title">Naku, nagkaproblema kami sa pagkonekta!</string>
     <string name="eml_loader_error_toast">Hindi mabuksan ang file na ito</string>
     <string name="eml_viewer_subtitle">Viewer ng mensahe ng EML</string>
     <string name="employee_name_spoofing">Ang pangalan ng taong ito ay katulad sa isang pangalan sa iyong organisasyon ngunit hindi napapabilang ang email address sa domain mo o hindi na-authenticate ang email. Iwasan ang pag-click ng mga link o pagtugon nang may kasamang sensitibong impormasyon maliban na lang kung kokontakin mo ang nagpadala sa pamamagitan ng ibang paraan para matiyak na lehitimo ang email na ito.</string>
@@ -738,7 +737,6 @@
     <string name="gm_i18n_snooze_option_later_today">Mamaya</string>
     <string name="gm_i18n_snooze_option_next_week">Sa susunod na linggo</string>
     <string name="gm_i18n_snooze_option_next_weekend">Sa susunod na weekend</string>
-    <string name="gm_i18n_snooze_option_someday">Balang araw</string>
     <string name="gm_i18n_snooze_option_this_week">Ngayong linggo</string>
     <string name="gm_i18n_snooze_option_this_weekend">Ngayong weekend</string>
     <string name="gm_i18n_snooze_option_tomorrow">Bukas</string>
@@ -946,6 +944,7 @@
     <string name="message_priority">Priyoridad na mensahe</string>
     <string name="message_queued">Nakapila</string>
     <string name="message_saved">Nai-save ang mensahe bilang draft.</string>
+    <string name="message_sent">Ipinadala</string>
     <string name="message_too_large">Masyadong malaki ang mensahe upang mabuksan sa device na ito</string>
     <string name="message_uploading_attachments">Ina-upload</string>
     <string name="message_view_forwarded_attachment_background_load">Ida-download ang isa o higit pa sa mga attachment sa iyong ipinasang mensahe bago ang pagpapadala.</string>
@@ -995,6 +994,8 @@
     <string name="notifications_category">Mga Notification</string>
     <string name="notify_attachment_save_error">Hindi ma-save ang attachment</string>
     <string name="notify_attachment_send_error">Hindi maipadala ang attachment</string>
+    <string name="nudge_dismiss_button_text">I-DISMISS</string>
+    <string name="nudge_dismiss_success_message">Na-dismiss ang nudge.</string>
     <string name="oauth_authentication_title">Humihiling ng pahintulot…</string>
     <string name="oauth_error_description">Hindi ma-authenticate</string>
     <string name="oauth_server_error">Hindi available ang server, pakisubukan muli mamaya</string>
@@ -1468,7 +1469,7 @@ I-tap upang i-on."</string>
     <string name="to_message_header">para kay %1$s</string>
     <string name="toggle_read_unread">I-toggle ang nabasa na at hindi pa nababasa</string>
     <string name="too_large_to_attach_multiple">Hindi naka-attach ang isa o mahigit pang mga file. Limitasyon %1$s.</string>
-    <string name="too_large_to_attach_single">Hindi ma-attach ang file na lampas sa %1$s.</string>
+    <string name="too_large_to_attach_single">Ang mga file na sinusubukan mong ipadala ay lampas sa %1$s kabuuang attachment na limitasyon.</string>
     <string name="trash_folder_selection_title">Server trash folder para sa %s</string>
     <string name="trashed_message_indicator">Dinelete ang mensaheng ito.</string>
     <string name="turn_auto_sync_on_dialog_body">Ang mga pagbabagong gagawin mo sa lahat ng app at account, hindi lang sa Gmail, ay masi-synchronize sa web, sa iba mo pang mga device, at sa iyong %1$s.</string>
