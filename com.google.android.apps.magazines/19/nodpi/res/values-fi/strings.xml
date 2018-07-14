@@ -9,6 +9,16 @@
     <string name="abc_activitychooserview_choose_application">Valitse sovellus</string>
     <string name="abc_capital_off">POIS KÄYTÖSTÄ</string>
     <string name="abc_capital_on">KÄYTÖSSÄ</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">delete</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">Fn+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Vaihto+</string>
+    <string name="abc_menu_space_shortcut_label">välilyönti</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Valikko+</string>
     <string name="abc_search_hint">Haku…</string>
     <string name="abc_searchview_description_clear">Tyhjennä kysely</string>
     <string name="abc_searchview_description_search">Haku</string>
@@ -98,6 +108,7 @@
     <string name="common_google_play_services_install_button">Asenna</string>
     <string name="common_google_play_services_install_text">%1$s ei toimi ilman Google Play Palveluita, jotka puuttuvat laitteeltasi.</string>
     <string name="common_google_play_services_install_title">Asenna Google Play Palvelut</string>
+    <string name="common_google_play_services_notification_channel_name">Google Play Palveluiden saatavuus</string>
     <string name="common_google_play_services_notification_ticker">Virhe Google Play -palveluissa</string>
     <string name="common_google_play_services_unknown_issue">Sovelluksella %1$s on ongelmia Google Play Palveluiden kanssa. Yritä uudelleen.</string>
     <string name="common_google_play_services_unsupported_text">%1$s ei toimi ilman Google Play Palveluita, joita laitteesi ei tue.</string>
@@ -179,7 +190,7 @@
     <string name="enable_notifications">Ota ilmoitukset käyttöön</string>
     <string name="enable_sync_dialog_body">Synkronoinnin on oltava käytössä, jotta Google Uutisten sisältö voidaan päivittää taustalla.</string>
     <string name="enable_sync_dialog_title">Synkronointi ei ole käytössä</string>
-    <string name="enumeration_comma">", "</string>
+    <string name="enumeration_comma">,</string>
     <string name="error_blocking_user">Virhe estettäessä käyttäjää, yritä uudelleen</string>
     <string name="error_removing_share">Jaon poistaminen epäonnistui, yritä uudelleen.</string>
     <string name="exo_track_selection_auto">Automaattinen</string>
@@ -199,7 +210,7 @@
     <string name="favorites_cluster_title_topics">Aiheet</string>
     <string name="favorites_title">Suosikit</string>
     <string name="favorites_view_all">Näytä kaikki ja hallinnoi</string>
-    <string name="follow_tournament">Seuraa turnausta</string>
+    <string name="follow_tournament">Seuraa kisoja</string>
     <string name="for_you_pinned">Lataa Sinulle-sisältö</string>
     <string name="for_you_pinned_summary">Pidä Sinulle-sisältö tallennettuna offline-lukemista varten.</string>
     <string name="for_you_title">Suositellut</string>
@@ -220,7 +231,7 @@
     <string name="go_to_play_store">Siirry Play-kauppaan</string>
     <string name="go_to_saved_search">Siirry tallennettuun hakuun</string>
     <string name="go_to_source">Siirry lähteeseen</string>
-    <string name="go_to_story_360">Näytä koko juttu</string>
+    <string name="go_to_story_360">Näytä kattava reportaasi</string>
     <string name="go_to_team_topic">Siirry joukkueen uutisiin</string>
     <string name="go_to_topic">Siirry aiheeseen</string>
     <string name="go_to_worldcup_topic">Siirry MM-kisauutisiin</string>
@@ -236,6 +247,7 @@
     <string name="iap_failure_to_open">Sovellusta ei voi avata tätä sisältöä varten</string>
     <string name="iap_success_google_news">Lisätty Google Uutisiin</string>
     <string name="image_attribution">Tekijä</string>
+    <string name="image_attribution_content_description">Kuvaaja: %1$s</string>
     <string name="image_not_available_offline">Kuva ei ole käytettävissä offline-tilassa</string>
     <string name="language_reset">Kieli on nollattu</string>
     <string name="launcher_app_name">Uutiset</string>
@@ -269,6 +281,7 @@
     <string name="magazines_toggle_to_print_mode">Vaihda täysversioon</string>
     <string name="marked_as_not_interested">Näet vähemmän tällaisia juttuja</string>
     <string name="match_in_list_content_description">Peli %1$d/%2$d</string>
+    <string name="media_mute">Mykistä</string>
     <string name="media_next">Seuraava</string>
     <string name="media_next_unavailable">Seuraavaa kohdetta ei ole saatavilla</string>
     <string name="media_notification_channel_description">Google Uutisten mediailmoitusten asetukset</string>
@@ -279,6 +292,7 @@
     <string name="media_previous_unavailable">Edellistä kohdetta ei ole saatavilla</string>
     <string name="media_progress">%1$s/%2$s</string>
     <string name="media_stop">Pysäytä</string>
+    <string name="media_unmute">Poista mykistys</string>
     <string name="mini_cards">Minikortit</string>
     <string name="more_info">Lisätietoja</string>
     <string name="more_options_description">Lisää vaihtoehtoja</string>
@@ -286,9 +300,8 @@
     <string name="move_to_top">Siirrä alkuun</string>
     <string name="must_be_online">Varmista, että olet yhteydessä internetiin.</string>
     <string name="my_activity">Omat tapahtumat</string>
-    <string name="my_activity_summary">Kirjautuneena tilillä %1$s</string>
     <string name="nativeAd_sponsored">Sponsoroitu</string>
-    <string name="native_store_title">Lehtikioski</string>
+    <string name="native_store_title">Julkaisut</string>
     <string name="need_to_rotate_orientation">Käännä laitetta nähdäksesi sisällön.</string>
     <string name="needed_to_rotate_orientation">Laitteen oli muutettava katselusuuntaa voidakseen näyttää sisällön.</string>
     <string name="new_magazine_downloadable_notification">Numero %1$s on saatavilla</string>
@@ -317,6 +330,7 @@
     <string name="notification_subscription_enabled">Ilmoitukset käytössä: %1$s</string>
     <string name="notification_undo_text">Kumoa</string>
     <string name="notifications">Ilmoitukset</string>
+    <string name="notifications_and_shared">Ilmoitukset ja jaot</string>
     <string name="notifications_settings_menu_title">Ilmoitukset</string>
     <string name="now_following_topic">Seuraat tätä aihetta</string>
     <string name="ok">OK</string>
@@ -414,12 +428,6 @@
     <string name="removed_from_read_later">Uutinen poistettu suosikeista</string>
     <string name="report">Tee ilmoitus</string>
     <string name="retry">Yritä uudelleen</string>
-    <string name="s1">Tallenna kuva</string>
-    <string name="s2">Myönnetäänkö mainokselle oikeus tallentaa kuva galleriaan?</string>
-    <string name="s3">Hyväksy</string>
-    <string name="s4">Hylkää</string>
-    <string name="s5">Luo kalenteritapahtuma</string>
-    <string name="s6">Myönnetäänkö mainokselle oikeus luoda kalenteritapahtuma?</string>
     <string name="saved_tab_title">Tallennetut uutiset</string>
     <string name="sd_card_not_available_dialog_body">Sisältö ladataan laitteesi sisäiseen tallennustilaan.</string>
     <string name="sd_card_not_available_dialog_title">SD-kortti ei ole käytettävissä</string>

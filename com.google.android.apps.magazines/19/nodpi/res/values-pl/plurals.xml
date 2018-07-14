@@ -43,7 +43,7 @@
         <item quantity="many">%1$s polubień</item>
     </plurals>
     <plurals name="retweets">
-        <item quantity="other">%1$s ponownego tweeta</item>
+        <item quantity="other">%1$s ponownego tweetu</item>
         <item quantity="one">%1$s ponowny tweet</item>
         <item quantity="few">%1$s ponowne tweety</item>
         <item quantity="many">%1$s ponownych tweetów</item>

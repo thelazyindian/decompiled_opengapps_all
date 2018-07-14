@@ -4,6 +4,7 @@
     <item type="id" name="A2TaggingUtil_path" />
     <item type="id" name="A2TaggingUtil_referrer" />
     <item type="id" name="A2TaggingUtil_syncNodePath" />
+    <item type="id" name="ActionChip_contentDescription" />
     <item type="id" name="ActionChip_extraIconStartPadding" />
     <item type="id" name="ActionChip_onClickListener" />
     <item type="id" name="ActionChip_text" />
@@ -183,7 +184,6 @@
     <item type="id" name="BlockStyle_storyboard" />
     <item type="id" name="BlockStyle_visibility" />
     <item type="id" name="BoundClickableMenuView_menuController" />
-    <item type="id" name="BoundImageRotatorView_imageIdList" />
     <item type="id" name="BoundItemDecoration_childDecoration" />
     <item type="id" name="BriefingFooterView_subtitle" />
     <item type="id" name="BriefingFooterView_title" />
@@ -300,12 +300,12 @@
     <item type="id" name="CardBriefingUpsell_clickListener" />
     <item type="id" name="CardBriefingUpsell_dismissClickListener" />
     <item type="id" name="CardBriefingUpsell_text" />
+    <item type="id" name="CardCarouselBookendItem_action" />
     <item type="id" name="CardCarouselBookendItem_follow" />
     <item type="id" name="CardCarouselBookendItem_followClickListener" />
     <item type="id" name="CardCarouselBookendItem_followDrawable" />
     <item type="id" name="CardCarouselBookendItem_goTo" />
     <item type="id" name="CardCarouselBookendItem_goToClickListener" />
-    <item type="id" name="CardCarouselBookendItem_goToDrawableResId" />
     <item type="id" name="CardCarouselBookendItem_message" />
     <item type="id" name="CardCarouselBookendItem_notificationsClickListener" />
     <item type="id" name="CardCarouselBookendItem_shareClickListener" />
@@ -354,16 +354,15 @@
     <item type="id" name="CardCollectionEnd_footerText" />
     <item type="id" name="CardCollectionEnd_subTitle" />
     <item type="id" name="CardCollectionEnd_title" />
-    <item type="id" name="CardContentShareItem_article_artifact_hero_attachment_id" />
-    <item type="id" name="CardContentShareItem_article_artifact_metadata" />
-    <item type="id" name="CardContentShareItem_article_artifact_title" />
-    <item type="id" name="CardContentShareItem_article_header_title" />
+    <item type="id" name="CardContentShareItem_article_header_text" />
+    <item type="id" name="CardContentShareItem_shared_content_hero_attachment_id" />
+    <item type="id" name="CardContentShareItem_shared_content_is_story360" />
+    <item type="id" name="CardContentShareItem_shared_content_metadata" />
+    <item type="id" name="CardContentShareItem_shared_content_title" />
     <item type="id" name="CardContentShareItem_showShareArtifact" />
-    <item type="id" name="CardContentShareItem_source_artifact_app_id" />
-    <item type="id" name="CardContentShareItem_source_artifact_metadata" />
-    <item type="id" name="CardContentShareItem_source_artifact_title" />
-    <item type="id" name="CardContentShareItem_source_header_title" />
-    <item type="id" name="CardContentShareItem_source_is_story360" />
+    <item type="id" name="CardContentShareItem_story_header_text" />
+    <item type="id" name="CardContentShareItem_story_metadata" />
+    <item type="id" name="CardContentShareItem_story_title" />
     <item type="id" name="CardContinuationStatus_continuationLoadException" />
     <item type="id" name="CardContinuationStatus_continuationLoader" />
     <item type="id" name="CardContinuationStatus_continuationTintColor" />
@@ -375,11 +374,15 @@
     <item type="id" name="CardDisclaimerItem_onClickListener" />
     <item type="id" name="CardDisclaimerItem_title" />
     <item type="id" name="CardEditionSpotlightCard_body" />
+    <item type="id" name="CardEditionSpotlightCard_clickListener" />
     <item type="id" name="CardEditionSpotlightCard_footer" />
     <item type="id" name="CardEditionSpotlightCard_heading" />
     <item type="id" name="CardEditionSpotlightCard_items" />
     <item type="id" name="CardEditionSpotlightCard_primaryKey" />
     <item type="id" name="CardEditionSpotlightCard_title" />
+    <item type="id" name="CardEditorPicksSponsorDetails_body" />
+    <item type="id" name="CardEditorPicksSponsorDetails_clickHandler" />
+    <item type="id" name="CardEditorPicksSponsorDetails_showFreeLabel" />
     <item type="id" name="CardFAQ_answer" />
     <item type="id" name="CardFAQ_cardOnClick" />
     <item type="id" name="CardFAQ_metadata" />
@@ -482,7 +485,6 @@
     <item type="id" name="CardNativeStoreItem_iconHeightResId" />
     <item type="id" name="CardNativeStoreItem_offerText" />
     <item type="id" name="CardNativeStoreItem_rankText" />
-    <item type="id" name="CardNativeStoreItem_shortChipVisible" />
     <item type="id" name="CardNativeStoreItem_showFreeLabel" />
     <item type="id" name="CardNativeStoreItem_subtitle" />
     <item type="id" name="CardNativeStoreItem_title" />
@@ -505,9 +507,6 @@
     <item type="id" name="CardOfferSpotlight_foregroundImageHeightMultiplier" />
     <item type="id" name="CardOfferSpotlight_textBody" />
     <item type="id" name="CardOfferSpotlight_textTagline" />
-    <item type="id" name="CardPersonalizedCover_contentDescription" />
-    <item type="id" name="CardPersonalizedCover_greeting" />
-    <item type="id" name="CardPersonalizedCover_imageRotatorEdition" />
     <item type="id" name="CardRefreshButton_onClickListener" />
     <item type="id" name="CardSourceItemClickableMenuView_analyticsScreenName" />
     <item type="id" name="CardSourceItem_backgroundColor" />
@@ -516,6 +515,7 @@
     <item type="id" name="CardSourceItem_sourceClickListener" />
     <item type="id" name="CardSourceItem_sourceName" />
     <item type="id" name="CardSourceItem_textColor" />
+    <item type="id" name="CardSourceListItem_actions" />
     <item type="id" name="CardSourceListItem_cardBackground" />
     <item type="id" name="CardSourceListItem_cardContentDescription" />
     <item type="id" name="CardSourceListItem_cardTransitionName" />
@@ -571,7 +571,7 @@
     <item type="id" name="CardToggle_onCheckedChangeListener" />
     <item type="id" name="CardToggle_text" />
     <item type="id" name="CardTweetItem_authorIconAttachmentId" />
-    <item type="id" name="CardTweetItem_authorIconDrawable" />
+    <item type="id" name="CardTweetItem_authorIconDrawableResId" />
     <item type="id" name="CardTweetItem_authorScreenName" />
     <item type="id" name="CardTweetItem_authorUserName" />
     <item type="id" name="CardTweetItem_footerText" />
@@ -589,7 +589,7 @@
     <item type="id" name="CardVideoAd_title" />
     <item type="id" name="CardWarmWelcome_body" />
     <item type="id" name="CardWarmWelcome_buttonTextColor" />
-    <item type="id" name="CardWarmWelcome_cardBackgroundColor" />
+    <item type="id" name="CardWarmWelcome_cardBackground" />
     <item type="id" name="CardWarmWelcome_cardDismissedPrefKey" />
     <item type="id" name="CardWarmWelcome_centerCropLogo" />
     <item type="id" name="CardWarmWelcome_footer" />
@@ -635,7 +635,6 @@
     <item type="id" name="ContextualHeaderItem_animation" />
     <item type="id" name="ContextualHeaderItem_animationIsLooping" />
     <item type="id" name="ContextualHeaderItem_fallbackIconAttachmentId" />
-    <item type="id" name="ContextualHeaderItem_fallbackIconDrawable" />
     <item type="id" name="ContextualHeaderItem_headerId" />
     <item type="id" name="ContextualHeaderItem_iconClickListener" />
     <item type="id" name="ContextualHeaderItem_iconContentDescription" />
@@ -647,6 +646,7 @@
     <item type="id" name="EditableAdapterView_isRemovable" />
     <item type="id" name="EditableCardGroup_editableCardGroup" />
     <item type="id" name="EditionIcon_attachmentId" />
+    <item type="id" name="EditionIcon_badgeAttachmentId" />
     <item type="id" name="EditionIcon_circularIconBgColor" />
     <item type="id" name="EditionIcon_circularIconContain" />
     <item type="id" name="EditionIcon_circularIconHeightToWidthRatio" />
@@ -685,8 +685,6 @@
     <item type="id" name="FlowDataAdapter_viewLayoutTransform" />
     <item type="id" name="GridGroup_columnSpan" />
     <item type="id" name="HomePageList_homePage" />
-    <item type="id" name="ImageRotatorView_animateImage" />
-    <item type="id" name="ImageRotatorView_imageId" />
     <item type="id" name="ImmersiveChevronView_color" />
     <item type="id" name="ImmersiveHeader_headerId" />
     <item type="id" name="ImmersivePublisherMetadataView_logoHeight" />
@@ -733,7 +731,6 @@
     <item type="id" name="NativeAd_adData" />
     <item type="id" name="NativeAd_adUnit" />
     <item type="id" name="NativeAd_appId" />
-    <item type="id" name="NativeAd_attributionIcon" />
     <item type="id" name="NativeAd_attributionOnClickListener" />
     <item type="id" name="NativeAd_attributionText" />
     <item type="id" name="NativeAd_badgeText" />
@@ -752,7 +749,7 @@
     <item type="id" name="NativeAd_imageAspectRatio" />
     <item type="id" name="NativeAd_imageOnClickListener" />
     <item type="id" name="NativeAd_key" />
-    <item type="id" name="NativeAd_nonTouchStateColorDrawable" />
+    <item type="id" name="NativeAd_nonTouchStateDrawable" />
     <item type="id" name="NativeAd_onCardSeenListener" />
     <item type="id" name="NativeAd_postId" />
     <item type="id" name="NativeAd_psaShare" />
@@ -762,10 +759,10 @@
     <item type="id" name="NativeAd_showSponsoredBanner" />
     <item type="id" name="NativeAd_sourceInfo" />
     <item type="id" name="NativeAd_sponsoredArticleCreativeType" />
-    <item type="id" name="NativeAd_sponsoredBannerBackgroundDrawable" />
+    <item type="id" name="NativeAd_sponsoredBannerBackgroundColorDrawable" />
     <item type="id" name="NativeAd_sponsoredBannerText" />
     <item type="id" name="NativeAd_store" />
-    <item type="id" name="NativeAd_touchStateColorDrawable" />
+    <item type="id" name="NativeAd_touchStateDrawable" />
     <item type="id" name="NativeAd_videoStatusProvider" />
     <item type="id" name="NativeAppAd_blurb" />
     <item type="id" name="NativeAppAd_browseOnClickListener" />
@@ -832,8 +829,8 @@
     <item type="id" name="PinnedList_syncFailed" />
     <item type="id" name="PinnedList_syncProgress" />
     <item type="id" name="PreferenceTrackingButton_prefChangeListener" />
-    <item type="id" name="PreferenceTrackingButton_prefDisabledDrawable" />
-    <item type="id" name="PreferenceTrackingButton_prefEnabledDrawable" />
+    <item type="id" name="PreferenceTrackingButton_prefDisabledDrawableResId" />
+    <item type="id" name="PreferenceTrackingButton_prefEnabledDrawableResId" />
     <item type="id" name="PreferenceTrackingButton_prefName" />
     <item type="id" name="PremiumStatusView_invisibilityOverride" />
     <item type="id" name="PremiumStatusView_status" />
@@ -866,11 +863,13 @@
     <item type="id" name="SharedItemHeader_avatarPictureUrl_3" />
     <item type="id" name="SharedItemHeader_avatarPictureUrl_4" />
     <item type="id" name="SharedItemHeader_hasMoreShares" />
+    <item type="id" name="SharedItemHeader_isOutgoingShare" />
     <item type="id" name="SharedItemHeader_message" />
     <item type="id" name="SharedItemHeader_onClickListener" />
     <item type="id" name="SharedItemHeader_onCompactCard" />
     <item type="id" name="SharedItemHeader_otherRecipientsCountOnAvatars" />
     <item type="id" name="SharedItemHeader_senderObfuscatedId" />
+    <item type="id" name="SharedItemHeader_shareCount" />
     <item type="id" name="SharedItemHeader_shareId" />
     <item type="id" name="SharedItemHeader_timestamp" />
     <item type="id" name="SharedItemHeader_title" />
@@ -1027,6 +1026,8 @@
     <item type="id" name="tagFeedbackType" />
     <item type="id" name="tagNBBuildContext" />
     <item type="id" name="tag_transition_group" />
+    <item type="id" name="tag_unhandled_key_event_manager" />
+    <item type="id" name="tag_unhandled_key_listeners" />
     <item type="id" name="text2" />
     <item type="id" name="textinput_counter" />
     <item type="id" name="textinput_error" />
@@ -1069,13 +1070,13 @@
     <item type="id" name="title_template" />
     <item type="id" name="alertTitle" />
     <item type="id" name="titleDividerNoCustom" />
-    <item type="id" name="expanded_menu" />
-    <item type="id" name="checkbox" />
-    <item type="id" name="shortcut" />
-    <item type="id" name="radio" />
     <item type="id" name="group_divider" />
     <item type="id" name="content" />
+    <item type="id" name="shortcut" />
     <item type="id" name="submenuarrow" />
+    <item type="id" name="expanded_menu" />
+    <item type="id" name="checkbox" />
+    <item type="id" name="radio" />
     <item type="id" name="action_bar_root" />
     <item type="id" name="action_mode_bar_stub" />
     <item type="id" name="action_mode_bar" />
@@ -1276,6 +1277,8 @@
     <item type="id" name="go_to_story" />
     <item type="id" name="follow" />
     <item type="id" name="subtitle" />
+    <item type="id" name="icon_wrapper" />
+    <item type="id" name="editor_picks_badge" />
     <item type="id" name="carousel" />
     <item type="id" name="card_story_carousel_background_pager" />
     <item type="id" name="progress_view_shadow" />
@@ -1289,6 +1292,7 @@
     <item type="id" name="continue_reading" />
     <item type="id" name="share_button" />
     <item type="id" name="flow_items" />
+    <item type="id" name="card_store_edition_details" />
     <item type="id" name="card_knowledge_item_body_text" />
     <item type="id" name="footer_text" />
     <item type="id" name="instanceIdText" />
@@ -1328,7 +1332,6 @@
     <item type="id" name="card_newscast_background_page_video" />
     <item type="id" name="background_img" />
     <item type="id" name="foreground_img" />
-    <item type="id" name="card_store_edition_details" />
     <item type="id" name="splash_image_view_background" />
     <item type="id" name="splash_image_view" />
     <item type="id" name="close_button" />
@@ -1344,7 +1347,6 @@
     <item type="id" name="call_to_action" />
     <item type="id" name="call_to_action_text" />
     <item type="id" name="rank" />
-    <item type="id" name="icon_wrapper" />
     <item type="id" name="trialTerms" />
     <item type="id" name="icon_container" />
     <item type="id" name="context_menu_stub" />
@@ -1445,6 +1447,12 @@
     <item type="id" name="progress_meter" />
     <item type="id" name="progress_bar" />
     <item type="id" name="embed_video_time" />
+    <item type="id" name="embed_video_view" />
+    <item type="id" name="embed_video_controls_container_stub" />
+    <item type="id" name="embed_video_view_overlay_container" />
+    <item type="id" name="embed_video_play_button" />
+    <item type="id" name="embed_video_view_time_bar" />
+    <item type="id" name="embed_video_view_volume_toggle" />
     <item type="id" name="exo_track_selection_view" />
     <item type="id" name="favorites_detail_fragment" />
     <item type="id" name="swipe_refresh_layout" />
@@ -1465,8 +1473,6 @@
     <item type="id" name="floating_action_button_feedback" />
     <item type="id" name="bottom_bar_shadow" />
     <item type="id" name="contextual_header_stub" />
-    <item type="id" name="image_rotator_0" />
-    <item type="id" name="image_rotator_1" />
     <item type="id" name="custom_form_container" />
     <item type="id" name="custom_form_feedback_type" />
     <item type="id" name="custom_form_text" />
@@ -1533,20 +1539,10 @@
     <item type="id" name="molecule__slideshow_text_container" />
     <item type="id" name="slide_index_text" />
     <item type="id" name="caption_attribution_container" />
-    <item type="id" name="embed_video_view" />
-    <item type="id" name="embed_video_controls_container_stub" />
-    <item type="id" name="embed_video_view_overlay_container" />
-    <item type="id" name="embed_video_play_button" />
-    <item type="id" name="embed_video_view_time_bar" />
-    <item type="id" name="embed_video_view_volume_toggle" />
     <item type="id" name="immersive_chevron_image" />
     <item type="id" name="immersive_publisher_metadata_icon" />
     <item type="id" name="immersive_publisher_metadata_text" />
     <item type="id" name="immersive_video_view" />
-    <item type="id" name="video_error_message" />
-    <item type="id" name="video_error_retry" />
-    <item type="id" name="youtube_embed_container" />
-    <item type="id" name="progress_meter_container" />
     <item type="id" name="list_view" />
     <item type="id" name="news_widget" />
     <item type="id" name="news_widget_content" />
@@ -1816,20 +1812,15 @@
     <item type="id" name="sendkit_ui_face_rows" />
     <item type="id" name="sendkit_overlay" />
     <item type="id" name="sendkit_maximize_container" />
-    <item type="id" name="card_content_item" />
-    <item type="id" name="article_artifact_share_header" />
-    <item type="id" name="article_artifact_content_container" />
-    <item type="id" name="article_artifact_image" />
-    <item type="id" name="article_artifact_title" />
-    <item type="id" name="secondary_artifact_share_header" />
-    <item type="id" name="source_artifact_container" />
-    <item type="id" name="source_artifact_icon_container" />
-    <item type="id" name="source_artifact_title" />
+    <item type="id" name="card_content_share_item" />
     <item type="id" name="share_panel" />
+    <item type="id" name="sendkit_wrapper_fragment_article_content" />
     <item type="id" name="sendkit_minimized_container" />
     <item type="id" name="sendkit_shareable_apps_fragment_container" />
     <item type="id" name="settings_fragment" />
     <item type="id" name="navigation_view_new" />
+    <item type="id" name="settings_footer_policy_button" />
+    <item type="id" name="settings_footer_tos_button" />
     <item type="id" name="share_history_show_all_fragment" />
     <item type="id" name="share_all_overlay" />
     <item type="id" name="shares_sheet" />
@@ -1839,6 +1830,7 @@
     <item type="id" name="share_avatar_4" />
     <item type="id" name="share_avatar_2" />
     <item type="id" name="share_avatar_3" />
+    <item type="id" name="outgoing_share_indicator_icon" />
     <item type="id" name="share_name" />
     <item type="id" name="share_timestamp" />
     <item type="id" name="shared_content_overflow" />
@@ -1888,6 +1880,8 @@
     <item type="id" name="video_player" />
     <item type="id" name="video_lightbox" />
     <item type="id" name="drag_container" />
+    <item type="id" name="video_error_message" />
+    <item type="id" name="video_error_retry" />
     <item type="id" name="game_view" />
     <item type="id" name="timeline_group" />
     <item type="id" name="timeline" />
@@ -1899,6 +1893,10 @@
     <item type="id" name="webview_fragment" />
     <item type="id" name="error_msg" />
     <item type="id" name="retry_button" />
+    <item type="id" name="youtube_embed_container" />
+    <item type="id" name="progress_meter_container" />
+    <item type="id" name="youtube_web_view" />
+    <item type="id" name="solid_circle_grey" />
     <item type="id" name="background_layer" />
     <item type="id" name="disk" />
     <item type="id" name="visible" />

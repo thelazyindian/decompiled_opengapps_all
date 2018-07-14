@@ -9,6 +9,16 @@
     <string name="abc_activitychooserview_choose_application">Sélectionner une application</string>
     <string name="abc_capital_off">DÉSACTIVÉ</string>
     <string name="abc_capital_on">ACTIVÉ</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">supprimer</string>
+    <string name="abc_menu_enter_shortcut_label">entrée</string>
+    <string name="abc_menu_function_shortcut_label">Fonction+</string>
+    <string name="abc_menu_meta_shortcut_label">Méta+</string>
+    <string name="abc_menu_shift_shortcut_label">Maj+</string>
+    <string name="abc_menu_space_shortcut_label">espace</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Menu+</string>
     <string name="abc_search_hint">Rechercher…</string>
     <string name="abc_searchview_description_clear">Effacer la requête</string>
     <string name="abc_searchview_description_search">Rechercher</string>
@@ -98,6 +108,7 @@
     <string name="common_google_play_services_install_button">Installer</string>
     <string name="common_google_play_services_install_text">%1$s ne fonctionnera pas sans les services Google Play, qui ne sont pas installés sur votre appareil.</string>
     <string name="common_google_play_services_install_title">Installer les services Google Play</string>
+    <string name="common_google_play_services_notification_channel_name">Disponibilité des services Google Play</string>
     <string name="common_google_play_services_notification_ticker">Erreur liée aux services Google Play</string>
     <string name="common_google_play_services_unknown_issue">"L'application %1$s rencontre des problèmes avec les services Google Play. Veuillez réessayer."</string>
     <string name="common_google_play_services_unsupported_text">%1$s ne fonctionnera pas sans les services Google Play, qui ne sont pas compatibles avec votre appareil.</string>
@@ -179,7 +190,7 @@
     <string name="enable_notifications">Activer les notifications</string>
     <string name="enable_sync_dialog_body">Pour que le contenu Google Actualités soit actualisé en arrière-plan, la synchronisation doit être activée.</string>
     <string name="enable_sync_dialog_title">La synchronisation est désactivée</string>
-    <string name="enumeration_comma">", "</string>
+    <string name="enumeration_comma">,</string>
     <string name="error_blocking_user">"Erreur lors du blocage de l'utilisateur. Veuillez réessayer."</string>
     <string name="error_removing_share">Impossible de supprimer le partage. Veuillez réessayer.</string>
     <string name="exo_track_selection_auto">Automatique</string>
@@ -236,6 +247,7 @@
     <string name="iap_failure_to_open">"Impossible d'ouvrir l'application pour ce contenu."</string>
     <string name="iap_success_google_news">Ajouté à Google Actualités</string>
     <string name="image_attribution">Auteur</string>
+    <string name="image_attribution_content_description">Photo prise par %1$s</string>
     <string name="image_not_available_offline">Image non disponible hors connexion.</string>
     <string name="language_reset">La langue a été réinitialisée.</string>
     <string name="launcher_app_name">Google Actualités</string>
@@ -269,6 +281,7 @@
     <string name="magazines_toggle_to_print_mode">"Ouvrir l'édition papier"</string>
     <string name="marked_as_not_interested">"Vous verrez moins d'articles comme celui-ci"</string>
     <string name="match_in_list_content_description">Match %1$d sur %2$d</string>
+    <string name="media_mute">Couper le son</string>
     <string name="media_next">Suivant</string>
     <string name="media_next_unavailable">Élément suivant indisponible</string>
     <string name="media_notification_channel_description">Paramètres des notifications médias de Google Actualités</string>
@@ -279,6 +292,7 @@
     <string name="media_previous_unavailable">Élément précédent indisponible</string>
     <string name="media_progress">%1$s sur %2$s</string>
     <string name="media_stop">Arrêter</string>
+    <string name="media_unmute">Réactiver le son</string>
     <string name="mini_cards">Mini-cartes</string>
     <string name="more_info">"Plus d'infos"</string>
     <string name="more_options_description">"Plus d'options"</string>
@@ -286,7 +300,6 @@
     <string name="move_to_top">Aller au début</string>
     <string name="must_be_online">Assurez-vous que vous êtes connecté à Internet.</string>
     <string name="my_activity">Mon activité</string>
-    <string name="my_activity_summary">Connecté en tant que %1$s</string>
     <string name="nativeAd_sponsored">Sponsorisé</string>
     <string name="native_store_title">Kiosque</string>
     <string name="need_to_rotate_orientation">"Faites pivoter l'appareil pour afficher ce contenu."</string>
@@ -317,6 +330,7 @@
     <string name="notification_subscription_enabled">Notifications activées pour %1$s</string>
     <string name="notification_undo_text">Annuler</string>
     <string name="notifications">Notifications</string>
+    <string name="notifications_and_shared">Notifications et partages</string>
     <string name="notifications_settings_menu_title">Notifications</string>
     <string name="now_following_topic">Vous suivez ce thème</string>
     <string name="ok">OK</string>
@@ -414,12 +428,6 @@
     <string name="removed_from_read_later">Article supprimé des favoris</string>
     <string name="report">Signaler</string>
     <string name="retry">Réessayer</string>
-    <string name="s1">"Enregistrer l'image"</string>
-    <string name="s2">"Autoriser l'annonce à stocker l'image dans la galerie d'images ?"</string>
-    <string name="s3">Accepter</string>
-    <string name="s4">Refuser</string>
-    <string name="s5">"Créer un événement d'agenda"</string>
-    <string name="s6">"Autoriser l'annonce à créer un événement d'agenda ?"</string>
     <string name="saved_tab_title">Articles enregistrés</string>
     <string name="sd_card_not_available_dialog_body">Le contenu va être téléchargé dans la mémoire de stockage interne de votre appareil.</string>
     <string name="sd_card_not_available_dialog_title">Carte SD indisponible</string>
@@ -427,7 +435,7 @@
     <string name="search_back_button_description">Retour</string>
     <string name="search_button_description">Rechercher</string>
     <string name="search_clear_button_description">Effacer</string>
-    <string name="search_toolbar_hint">Rechercher des sujets, des lieux et des sources</string>
+    <string name="search_toolbar_hint">Rechercher des thèmes, lieux et sources</string>
     <string name="sections_only_available_to_paid_subscribers">Certains articles ne peuvent être téléchargés que par les abonnés.</string>
     <string name="see_original_article">"Afficher la page Web d'origine"</string>
     <string name="see_original_edition">Accéder à %1$s</string>
@@ -606,6 +614,6 @@
     <string name="wifi_only_download_override_dialog_message">"Voulez-vous télécharger ce contenu maintenant ? Des frais liés à la consommation de données peuvent s'appliquer."</string>
     <string name="wifi_only_download_override_dialog_title">Aucune connexion Wi-Fi</string>
     <string name="world_cup_2018">Coupe du Monde 2018</string>
-    <string name="year_and_month">%2$s %1$s</string>
+    <string name="year_and_month">%2$s %1$s</string>
     <string name="year_and_month_range">%2$s-%3$s %1$s</string>
 </resources>

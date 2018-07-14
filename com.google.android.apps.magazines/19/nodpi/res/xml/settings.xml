@@ -9,7 +9,6 @@
         <ListPreference android:entries="@array/autoplay_video_entries" android:title="@string/auto_play_videos" android:key="@string/auto_play_videos_preference_key" android:defaultValue="ENABLED" android:entryValues="@array/autoplay_video_values" />
         <SwitchPreference android:title="@string/custom_tabs" android:key="@string/browser_custom_tabs_preference_key" android:summary="@string/custom_tabs_summary" />
         <ListPreference android:entries="@array/temperature_unit_entries" android:title="@string/temperature_units" android:key="@string/temperature_unit_preference_key" android:entryValues="@array/temperature_unit_values" />
-        <Preference android:title="@string/my_activity" android:key="@string/my_activity_preference_key" />
         <PreferenceScreen android:title="@string/notifications_settings_menu_title" android:key="@string/notifications_screen_key" android:shouldDisableView="true">
             <PreferenceCategory android:title="@string/notifications_settings_menu_title" android:key="@string/notifications_category_key" />
         </PreferenceScreen>

@@ -9,6 +9,16 @@
     <string name="abc_activitychooserview_choose_application">Vælg en app</string>
     <string name="abc_capital_off">FRA</string>
     <string name="abc_capital_on">TIL</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">delete</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">Fn+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">mellemrum</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Menu+</string>
     <string name="abc_search_hint">Søg…</string>
     <string name="abc_searchview_description_clear">Ryd forespørgslen</string>
     <string name="abc_searchview_description_search">Søg</string>
@@ -98,6 +108,7 @@
     <string name="common_google_play_services_install_button">Installer</string>
     <string name="common_google_play_services_install_text">Du skal installere Google Play-tjenester, før %1$s kan køre på din enhed.</string>
     <string name="common_google_play_services_install_title">Hent Google Play-tjenester</string>
+    <string name="common_google_play_services_notification_channel_name">Google Play-tjenesters tilgængelighed</string>
     <string name="common_google_play_services_notification_ticker">Fejl i Google Play-tjenester</string>
     <string name="common_google_play_services_unknown_issue">%1$s har problemer med Google Play-tjenester. Prøv igen.</string>
     <string name="common_google_play_services_unsupported_text">%1$s fungerer ikke uden Google Play-tjenester, som ikke understøttes på din enhed.</string>
@@ -179,7 +190,7 @@
     <string name="enable_notifications">Aktivér underretninger</string>
     <string name="enable_sync_dialog_body">Synkronisering aktiveres for at opdatere indhold i Google Nyheder i baggrunden.</string>
     <string name="enable_sync_dialog_title">Synkronisering er slået fra</string>
-    <string name="enumeration_comma">", "</string>
+    <string name="enumeration_comma">,</string>
     <string name="error_blocking_user">Der opstod en fejl ved blokeringen af brugeren. Prøv igen.</string>
     <string name="error_removing_share">Delingen kunne ikke fjernes. Prøv igen.</string>
     <string name="exo_track_selection_auto">Automatisk</string>
@@ -211,7 +222,7 @@
     <string name="frictionless_free_articles_left_year">%1$s ud af %2$s gratis artikler tilbage i år</string>
     <string name="gallery">Galleri</string>
     <string name="game_status_final">Slut</string>
-    <string name="game_status_live">Live</string>
+    <string name="game_status_live">Lige nu</string>
     <string name="game_status_upcoming">Kommende</string>
     <string name="gcm_fallback_notification_channel_label">Diverse</string>
     <string name="general_capitalized">GENERELT</string>
@@ -223,9 +234,9 @@
     <string name="go_to_story_360">Se fuld dækning</string>
     <string name="go_to_team_topic">Gå til holdnyheder</string>
     <string name="go_to_topic">Gå til emne</string>
-    <string name="go_to_worldcup_topic">Gå til VM-nyheder</string>
+    <string name="go_to_worldcup_topic">Gå til nyheder om VM</string>
     <string name="graph_content_group_game_description">Hjul, %s er valgt</string>
-    <string name="graph_content_knockout_game_description">Hjul, %1$s, %2$s-%3$s er valgt</string>
+    <string name="graph_content_knockout_game_description">Hjul, %1$s, %2$s – %3$s er valgt</string>
     <string name="graph_header_group">Gruppe</string>
     <string name="graph_header_knockout">Slutspil</string>
     <string name="graph_hint_tap_game">Tryk på en kamp</string>
@@ -236,6 +247,7 @@
     <string name="iap_failure_to_open">Appen til visning af dette indhold kunne ikke åbnes</string>
     <string name="iap_success_google_news">Købet er føjet til Google Nyheder</string>
     <string name="image_attribution">Tilskrivning</string>
+    <string name="image_attribution_content_description">Foto af %1$s</string>
     <string name="image_not_available_offline">Billedet er ikke tilgængeligt offline</string>
     <string name="language_reset">Sproget er blevet nulstillet</string>
     <string name="launcher_app_name">Nyheder</string>
@@ -269,6 +281,7 @@
     <string name="magazines_toggle_to_print_mode">Skift til den udskrevne udgave</string>
     <string name="marked_as_not_interested">Du får vist færre historier som denne</string>
     <string name="match_in_list_content_description">Kamp %1$d af %2$d</string>
+    <string name="media_mute">Slå lyden fra</string>
     <string name="media_next">Næste</string>
     <string name="media_next_unavailable">Det næste element er ikke tilgængeligt</string>
     <string name="media_notification_channel_description">Indstillinger for underretninger om medier i Google Nyheder</string>
@@ -279,6 +292,7 @@
     <string name="media_previous_unavailable">Det forrige element er ikke tilgængeligt</string>
     <string name="media_progress">%1$s af %2$s</string>
     <string name="media_stop">Stop</string>
+    <string name="media_unmute">Slå lyden til</string>
     <string name="mini_cards">Minikort</string>
     <string name="more_info">Flere oplysninger</string>
     <string name="more_options_description">Flere muligheder</string>
@@ -286,7 +300,6 @@
     <string name="move_to_top">Flyt til starten</string>
     <string name="must_be_online">Sørg for, at du har forbindelse til internettet</string>
     <string name="my_activity">Min aktivitet</string>
-    <string name="my_activity_summary">Logget ind som %1$s</string>
     <string name="nativeAd_sponsored">Sponsoreret</string>
     <string name="native_store_title">Bladkiosk</string>
     <string name="need_to_rotate_orientation">Roter din enhed for at se dette indhold.</string>
@@ -317,6 +330,7 @@
     <string name="notification_subscription_enabled">Underretninger er aktiveret for %1$s</string>
     <string name="notification_undo_text">Fortryd</string>
     <string name="notifications">Underretninger</string>
+    <string name="notifications_and_shared">Underretninger og delinger</string>
     <string name="notifications_settings_menu_title">Underretninger</string>
     <string name="now_following_topic">Du følger dette emne</string>
     <string name="ok">OK</string>
@@ -359,12 +373,12 @@
     <string name="privacy_policy">Privatlivspolitik</string>
     <string name="profile_icon_description">Konto og indstillinger</string>
     <string name="progress_label_final">Finale</string>
-    <string name="progress_label_game_one">Kamp 1</string>
-    <string name="progress_label_game_three">Kamp 3</string>
-    <string name="progress_label_game_two">Kamp 2</string>
-    <string name="progress_label_quarter_final">1/4-fin.</string>
-    <string name="progress_label_round_of_sixteen">1/8-fin.</string>
-    <string name="progress_label_semi_final">1/2-fin.</string>
+    <string name="progress_label_game_one">1. kamp</string>
+    <string name="progress_label_game_three">3. kamp</string>
+    <string name="progress_label_game_two">2. kamp</string>
+    <string name="progress_label_quarter_final">Kvart</string>
+    <string name="progress_label_round_of_sixteen">1/8</string>
+    <string name="progress_label_semi_final">Semi</string>
     <string name="progress_title_group_stage">Gruppespil</string>
     <string name="progress_title_knockout_stage">Slutspil</string>
     <string name="psv_challenge_continue_to_publisher">Fortsæt til websitet for %1$s for at logge ind og bekræfte dit abonnement.</string>
@@ -414,12 +428,6 @@
     <string name="removed_from_read_later">Nyhedshistorien blev fjernet fra dine foretrukne</string>
     <string name="report">Rapportér</string>
     <string name="retry">Prøv igen</string>
-    <string name="s1">Gem billede</string>
-    <string name="s2">Vil du tillade, at annoncen gemmer billedet i Galleri?</string>
-    <string name="s3">Acceptér</string>
-    <string name="s4">Afvis</string>
-    <string name="s5">Opret kalenderbegivenhed</string>
-    <string name="s6">Vil du tillade, at annoncen opretter en kalenderbegivenhed?</string>
     <string name="saved_tab_title">Gemte historier</string>
     <string name="sd_card_not_available_dialog_body">Indholdet bliver downloadet til enhedens interne lager i stedet.</string>
     <string name="sd_card_not_available_dialog_title">SD-kortet er ikke tilgængeligt</string>
@@ -542,8 +550,8 @@
     <string name="sync_failed_notification_title">Google Nyheder kan ikke opdateres.</string>
     <string name="sync_progress_notification_title">Downloader indhold i Google Nyheder</string>
     <string name="team_eliminated">Slået ud</string>
-    <string name="team_more_coverage">Større dækning af %s</string>
-    <string name="team_unknown">TBD</string>
+    <string name="team_more_coverage">Mere om %s</string>
+    <string name="team_unknown">Ukendt</string>
     <string name="teams_page_title">Hold</string>
     <string name="temperature_unit_celsius">Celsius</string>
     <string name="temperature_unit_fahrenheit">Fahrenheit</string>

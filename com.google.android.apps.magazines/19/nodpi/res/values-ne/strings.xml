@@ -9,6 +9,16 @@
     <string name="abc_activitychooserview_choose_application">एउटा अनुप्रयोग छान्नुहोस्</string>
     <string name="abc_capital_off">निष्क्रिय पार्नुहोस्</string>
     <string name="abc_capital_on">सक्रिय गर्नुहोस्</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">delete</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">space</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Menu+</string>
     <string name="abc_search_hint">खोज्नुहोस्...</string>
     <string name="abc_searchview_description_clear">प्रश्‍न हटाउनुहोस्</string>
     <string name="abc_searchview_description_search">खोज्नुहोस्</string>
@@ -51,7 +61,7 @@
     <string name="as_show_account_list">खाताहरू देखाउनुहोस्</string>
     <string name="as_sign_in">साइन इन गर्नुहोस्</string>
     <string name="audio_error">अडियो बजाउन सक्दैन। फेरि प्रयास गर्नुहोस्।</string>
-    <string name="auth_problem_message">%% मा समस्या छ</string>
+    <string name="auth_problem_message">%s सम्बन्धी समस्या</string>
     <string name="authentication_failure">प्रमाणीकरण गरिएको छैन</string>
     <string name="authentication_failure_error_with_account">तपाईँको (%1$s) खातामा साइन इन गर्न सकिँदैन।</string>
     <string name="authentication_failure_switch_account">खाता स्विच गर्नुहोस्</string>
@@ -98,6 +108,7 @@
     <string name="common_google_play_services_install_button">स्थापना गर्नुहोस्</string>
     <string name="common_google_play_services_install_text">%1$s Google Play services बिना सञ्चालन हुने छैन र तपाईँको यन्त्रमा Google Play services उपलब्ध छैनन्।</string>
     <string name="common_google_play_services_install_title">Google Play सेवाहरू प्राप्त गर्नुहोस्</string>
+    <string name="common_google_play_services_notification_channel_name">Google Play सेवाको उपलब्धता</string>
     <string name="common_google_play_services_notification_ticker">Google Play सेवाहरूका त्रुटि</string>
     <string name="common_google_play_services_unknown_issue">%1$s लाई Google Play services सँग सहकार्य गर्न समस्या भइरहेको छ। कृपया फेरि प्रयास गर्नुहोस्।</string>
     <string name="common_google_play_services_unsupported_text">%1$s Google Play services बिना सञ्चालन हुने छैन र तपाईँको यन्त्रले Google Play services लाई समर्थन गर्दैन।</string>
@@ -179,7 +190,7 @@
     <string name="enable_notifications">सूचनाहरू सक्षम पार्नुहोस्</string>
     <string name="enable_sync_dialog_body">Google समाचारका सामग्रीलाई पृष्ठभूमिमा पुनः ताजा गर्न सिंक गर्ने सुविधा सक्रिय गरिने छ।</string>
     <string name="enable_sync_dialog_title">सिंकलाई निष्क्रिय पारिएको छ</string>
-    <string name="enumeration_comma">", "</string>
+    <string name="enumeration_comma">,</string>
     <string name="error_blocking_user">प्रयोगकर्तामाथि रोक लगाउने क्रममा त्रुटि भयो, कृपया फेरि प्रयास गर्नुहोस्।</string>
     <string name="error_removing_share">आदान प्रदान हटाउन सकिएन, कृपया फेरि प्रयास गर्नुहोस्।</string>
     <string name="exo_track_selection_auto">स्वतः</string>
@@ -231,10 +242,12 @@
     <string name="graph_hint_tap_game">कुनै खेलमा ट्याप गर्नुहोस्</string>
     <string name="graph_hint_tap_group">कुनै समूहमा ट्याप गर्नुहोस्</string>
     <string name="headlines_title">मुख्य समाचारहरू</string>
+    <string name="help">मद्दत</string>
     <string name="help_feedback">मद्दत र प्रतिक्रिया</string>
     <string name="iap_failure_to_open">यस सामग्रीको लागि अनुप्रयोग खोल्न सकिँदैन</string>
     <string name="iap_success_google_news">Google समाचारमा थपियो</string>
     <string name="image_attribution">श्रेय</string>
+    <string name="image_attribution_content_description">%1$s ले खिच्नुभएको तस्बिर</string>
     <string name="image_not_available_offline">छवि अफलाइन उपलब्ध छैन</string>
     <string name="language_reset">भाषालाई रिसेट गरिएको छ</string>
     <string name="launcher_app_name">समाचार</string>
@@ -268,6 +281,7 @@
     <string name="magazines_toggle_to_print_mode">प्रिन्ट संस्करणमा टगल गर्नुहोस्</string>
     <string name="marked_as_not_interested">तपाईं यस्तै प्रकारका अझ थोरै समाचारहरू देख्नु हुने छ</string>
     <string name="match_in_list_content_description">%2$d मध्ये %1$d खेल</string>
+    <string name="media_mute">म्यूट गर्नुहोस्</string>
     <string name="media_next">अर्को</string>
     <string name="media_next_unavailable">अर्को वस्तु उपलब्ध छैन</string>
     <string name="media_notification_channel_description">Google समाचारको मिडियासम्बन्धी सूचनाका सेटिङहरू</string>
@@ -278,6 +292,7 @@
     <string name="media_previous_unavailable">अघिल्लो वस्तु उपलब्ध छैन</string>
     <string name="media_progress">%2$s मध्ये %1$s</string>
     <string name="media_stop">रोक्नुहोस्</string>
+    <string name="media_unmute">आवाज खोल्नुहोस्</string>
     <string name="mini_cards">साना कार्डहरू</string>
     <string name="more_info">थप जानकारी</string>
     <string name="more_options_description">थप विकल्पहरू</string>
@@ -285,9 +300,8 @@
     <string name="move_to_top">सुरुमा सार्नुहोस्</string>
     <string name="must_be_online">तपाईं इन्टरनेटमा जडान हुनुभएको निश्चित गर्नुहोस्</string>
     <string name="my_activity">मेरो गतिविधि</string>
-    <string name="my_activity_summary">%1$s को रूपमा साइन इन गरियो</string>
     <string name="nativeAd_sponsored">प्रायोजित</string>
-    <string name="native_store_title">Newsstand</string>
+    <string name="native_store_title">समाचार तथा प्रकाशनहरू</string>
     <string name="need_to_rotate_orientation">यो सामग्री प्रदर्शन गर्न आफ्नो यन्त्र घुमाउनुहोस्।</string>
     <string name="needed_to_rotate_orientation">यो सामग्री प्रदर्शन गर्न यन्त्र स्वतःघुम्नेमा सेट गरिएको हुन आवश्यक छ।</string>
     <string name="new_magazine_downloadable_notification">%1$s अङ्क उपलब्ध छ</string>
@@ -316,6 +330,7 @@
     <string name="notification_subscription_enabled">%1$s का सूचनाहरू सक्षम पारियो</string>
     <string name="notification_undo_text">अन्डू गर्नुहोस्</string>
     <string name="notifications">सूचनाहरू</string>
+    <string name="notifications_and_shared">सूचना तथा आदान प्रदान गरिएका</string>
     <string name="notifications_settings_menu_title">सूचनाहरू</string>
     <string name="now_following_topic">तपाईं यो विषयलाई फलो गर्दै हुनुहुन्छ</string>
     <string name="ok">ठिक छ</string>
@@ -402,12 +417,6 @@
     <string name="removed_from_read_later">समाचारलाई मन पर्ने समाचारको स्रोतसम्बन्धी सूचीबाट हटाइयो</string>
     <string name="report">रिपोर्ट गर्नुहोस्</string>
     <string name="retry">पुनःप्रयास गर्नुहोस्</string>
-    <string name="s1">छविलाई सुरक्षित गर्नुहोस्</string>
-    <string name="s2">विज्ञापनलाई तस्बिरको ग्यालरीमा छवि भण्डारण गर्न अनुमति दिने हो?</string>
-    <string name="s3">स्वीकार गर्नुहोस्</string>
-    <string name="s4">अस्वीकार गर्नुहोस्</string>
-    <string name="s5">पात्रोमा कार्यक्रम सिर्जना गर्नुहोस्</string>
-    <string name="s6">विज्ञापनलाई पात्रोमा कार्यक्रम सिर्जना गर्न अनुमति दिने हो?</string>
     <string name="saved_tab_title">सुरक्षित गरिएका समाचारहरू</string>
     <string name="sd_card_not_available_dialog_body">सामग्री यसको सट्टा तपाईँको आन्तरिक भण्डारणमा डाउनलोड हुनेछ।</string>
     <string name="sd_card_not_available_dialog_title">SD कार्ड उपलब्ध छैन</string>
@@ -580,7 +589,7 @@
     <string name="verify_your_subscription_toast_text">कृपया आफ्नो सदस्यताको पुष्टि गर्नुहोस्</string>
     <string name="via_twitter_placeholder_kicker">%1$s मार्फत</string>
     <string name="video">भिडियो</string>
-    <string name="video_error">भिडियो प्ले गर्न सकिएन। फेरि प्रयास गर्नुहोस्।</string>
+    <string name="video_error">भिडियो प्ले गर्न सकिँदैन। फेरि प्रयास गर्नुहोस्।</string>
     <string name="view_all">सबै हेर्नुहोस्</string>
     <string name="volume_off">भोल्युम निष्क्रिय पार्नुहोस्</string>
     <string name="volume_on">भोल्युम सक्रिय गर्नुहोस्</string>

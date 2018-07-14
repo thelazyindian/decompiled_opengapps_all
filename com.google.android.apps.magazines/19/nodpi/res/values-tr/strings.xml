@@ -9,6 +9,16 @@
     <string name="abc_activitychooserview_choose_application">Bir uygulama seçin</string>
     <string name="abc_capital_off">KAPAT</string>
     <string name="abc_capital_on">AÇ</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">sil</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">İşlev+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Üst Karakter+</string>
+    <string name="abc_menu_space_shortcut_label">boşluk</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Menü+</string>
     <string name="abc_search_hint">Ara…</string>
     <string name="abc_searchview_description_clear">Sorguyu temizle</string>
     <string name="abc_searchview_description_search">Ara</string>
@@ -98,6 +108,7 @@
     <string name="common_google_play_services_install_button">Yükle</string>
     <string name="common_google_play_services_install_text">%1$s, şu anda cihazınızda bulunmayan Google Play hizmetleri olmadan çalışmaz.</string>
     <string name="common_google_play_services_install_title">Google Play hizmetlerini edinin</string>
+    <string name="common_google_play_services_notification_channel_name">Google Play hizmetlerinin kullanılabilirliği</string>
     <string name="common_google_play_services_notification_ticker">Google Play Hizmetleri hatası</string>
     <string name="common_google_play_services_unknown_issue">%1$s, Google Play hizmetleriyle ilgili sorun yaşıyor. Lütfen tekrar deneyin.</string>
     <string name="common_google_play_services_unsupported_text">%1$s, Google Play hizmetleri olmadan çalışmaz ve bu hizmetler cihazınız tarafından desteklenmiyor.</string>
@@ -179,7 +190,7 @@
     <string name="enable_notifications">Bildirimleri etkinleştir</string>
     <string name="enable_sync_dialog_body">Google Haberler içeriğini arka planda yenilemek için senkronizasyon açılacak.</string>
     <string name="enable_sync_dialog_title">Senkronizasyon kapalı</string>
-    <string name="enumeration_comma">", "</string>
+    <string name="enumeration_comma">,</string>
     <string name="error_blocking_user">Kullanıcı engellenirken hata oluştu. Lütfen tekrar deneyin.</string>
     <string name="error_removing_share">Paylaşım kaldırılamadı. Lütfen tekrar deneyin.</string>
     <string name="exo_track_selection_auto">Otomatik</string>
@@ -236,6 +247,7 @@
     <string name="iap_failure_to_open">Bu içeriğe ilişkin uygulama açılamıyor</string>
     <string name="iap_success_google_news">"Google Haberler'e eklendi"</string>
     <string name="image_attribution">Fotoğrafçı</string>
+    <string name="image_attribution_content_description">Fotoğraf: %1$s</string>
     <string name="image_not_available_offline">Resim çevrimdışı kullanılamaz</string>
     <string name="language_reset">Dil sıfırlandı</string>
     <string name="launcher_app_name">Google Haberler</string>
@@ -269,6 +281,7 @@
     <string name="magazines_toggle_to_print_mode">Basılı sürüme geç</string>
     <string name="marked_as_not_interested">Buna benzer daha az haber göreceksiniz</string>
     <string name="match_in_list_content_description">%1$d / %2$d maç</string>
+    <string name="media_mute">Sesi kapat</string>
     <string name="media_next">İleri</string>
     <string name="media_next_unavailable">Sonraki öğe kullanılamıyor</string>
     <string name="media_notification_channel_description">Google Haberler medya bildirimleri ayarları</string>
@@ -279,6 +292,7 @@
     <string name="media_previous_unavailable">Önceki öğe kullanılamıyor</string>
     <string name="media_progress">%1$s / %2$s</string>
     <string name="media_stop">Durdur</string>
+    <string name="media_unmute">Sesi aç</string>
     <string name="mini_cards">Mini Kartlar</string>
     <string name="more_info">Daha fazla bilgi</string>
     <string name="more_options_description">Diğer seçenekler</string>
@@ -286,7 +300,6 @@
     <string name="move_to_top">En başa taşı</string>
     <string name="must_be_online">"İnternet'e bağlı olduğunuzdan emin olun"</string>
     <string name="my_activity">Etkinliğim</string>
-    <string name="my_activity_summary">%1$s olarak oturum açıldı</string>
     <string name="nativeAd_sponsored">Sponsorlu</string>
     <string name="native_store_title">Gazetelik</string>
     <string name="need_to_rotate_orientation">Bu içeriği görüntülemek için cihazınızı döndürün.</string>
@@ -317,6 +330,7 @@
     <string name="notification_subscription_enabled">%1$s için bildirimler etkinleştirildi</string>
     <string name="notification_undo_text">Geri al</string>
     <string name="notifications">Bildirimler</string>
+    <string name="notifications_and_shared">Bildirimler ve paylaşılanlar</string>
     <string name="notifications_settings_menu_title">Bildirimler</string>
     <string name="now_following_topic">Bu konuyu takip ediyorsunuz</string>
     <string name="ok">Tamam</string>
@@ -414,12 +428,6 @@
     <string name="removed_from_read_later">"Makale Favoriler'den kaldırıldı"</string>
     <string name="report">Rapor</string>
     <string name="retry">Tekrar dene</string>
-    <string name="s1">Resmi kaydet</string>
-    <string name="s2">Reklamın, Resim galerisine resim kaydetmesine izin verilsin mi?</string>
-    <string name="s3">Kabul et</string>
-    <string name="s4">Reddet</string>
-    <string name="s5">Takvim etkinliği oluştur</string>
-    <string name="s6">Reklamın, takvim etkinliği oluşturmasına izin verilsin mi?</string>
     <string name="saved_tab_title">Kayıtlı haberler</string>
     <string name="sd_card_not_available_dialog_body">İçerik, bunun yerine cihazınızın dahili depolamasına indirilecek.</string>
     <string name="sd_card_not_available_dialog_title">SD kart kullanılamıyor</string>

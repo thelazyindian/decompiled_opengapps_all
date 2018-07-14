@@ -9,6 +9,16 @@
     <string name="abc_activitychooserview_choose_application">Wybierz aplikację</string>
     <string name="abc_capital_off">WYŁ.</string>
     <string name="abc_capital_on">WŁ.</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">Delete</string>
+    <string name="abc_menu_enter_shortcut_label">Enter</string>
+    <string name="abc_menu_function_shortcut_label">Funkcyjny+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">spacja</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Menu+</string>
     <string name="abc_search_hint">Szukaj…</string>
     <string name="abc_searchview_description_clear">Wyczyść zapytanie</string>
     <string name="abc_searchview_description_search">Szukaj</string>
@@ -98,6 +108,7 @@
     <string name="common_google_play_services_install_button">Zainstaluj</string>
     <string name="common_google_play_services_install_text">%1$s nie będzie działać, jeśli nie zainstalujesz na urządzeniu Usług Google Play.</string>
     <string name="common_google_play_services_install_title">Pobierz Usługi Google Play</string>
+    <string name="common_google_play_services_notification_channel_name">Dostępność Usług Google Play</string>
     <string name="common_google_play_services_notification_ticker">Błąd Usług Google Play</string>
     <string name="common_google_play_services_unknown_issue">%1$s ma problem z dostępem do Usług Google Play. Spróbuj jeszcze raz.</string>
     <string name="common_google_play_services_unsupported_text">%1$s nie będzie działać bez Usług Google Play, które nie są obecnie obsługiwane przez urządzenie.</string>
@@ -179,7 +190,7 @@
     <string name="enable_notifications">Włącz powiadomienia</string>
     <string name="enable_sync_dialog_body">Włączymy synchronizację, by Wiadomości Google odświeżały treści w tle.</string>
     <string name="enable_sync_dialog_title">Synchronizacja jest wyłączona</string>
-    <string name="enumeration_comma">", "</string>
+    <string name="enumeration_comma">,</string>
     <string name="error_blocking_user">Podczas próby zablokowania użytkownika wystąpił błąd. Spróbuj ponownie.</string>
     <string name="error_removing_share">Nie udało się usunąć udostępnienia. Spróbuj ponownie.</string>
     <string name="exo_track_selection_auto">Automatycznie</string>
@@ -210,7 +221,7 @@
     <string name="frictionless_free_articles_left_week">W tym tygodniu możesz przeczytać jeszcze %1$s z %2$s darmowych artykułów</string>
     <string name="frictionless_free_articles_left_year">W tym roku możesz przeczytać jeszcze %1$s z %2$s darmowych artykułów</string>
     <string name="gallery">Galeria</string>
-    <string name="game_status_final">Finał</string>
+    <string name="game_status_final">Wynik</string>
     <string name="game_status_live">Trwa</string>
     <string name="game_status_upcoming">Nadchodzący</string>
     <string name="gcm_fallback_notification_channel_label">Inne</string>
@@ -225,7 +236,7 @@
     <string name="go_to_topic">Przejdź do tematu</string>
     <string name="go_to_worldcup_topic">Przejdź do wiadomości o Mistrzostwach Świata</string>
     <string name="graph_content_group_game_description">Selektor, wybrano: %s</string>
-    <string name="graph_content_knockout_game_description">Selektor, wybrano: %1$s, %2$s vs %3$s</string>
+    <string name="graph_content_knockout_game_description">Selektor, wybrano: %1$s, %2$s kontra %3$s</string>
     <string name="graph_header_group">Grupa</string>
     <string name="graph_header_knockout">Eliminacje</string>
     <string name="graph_hint_tap_game">Kliknij mecz</string>
@@ -236,6 +247,7 @@
     <string name="iap_failure_to_open">Nie można otworzyć aplikacji, w której chcesz wyświetlić treść</string>
     <string name="iap_success_google_news">Dodano do Wiadomości Google</string>
     <string name="image_attribution">Uznanie autorstwa</string>
+    <string name="image_attribution_content_description">Autor zdjęcia: %1$s</string>
     <string name="image_not_available_offline">Obraz niedostępny w trybie offline</string>
     <string name="language_reset">Przywrócono oryginalny język</string>
     <string name="launcher_app_name">Wiadomości</string>
@@ -269,6 +281,7 @@
     <string name="magazines_toggle_to_print_mode">Przełącz na wersję drukowaną</string>
     <string name="marked_as_not_interested">Będziesz widzieć mniej artykułów tego typu</string>
     <string name="match_in_list_content_description">Mecz %1$d z %2$d</string>
+    <string name="media_mute">Wycisz</string>
     <string name="media_next">Następny</string>
     <string name="media_next_unavailable">Następny element nie jest dostępny</string>
     <string name="media_notification_channel_description">Ustawienia powiadomień o multimediach z Wiadomości Google</string>
@@ -279,6 +292,7 @@
     <string name="media_previous_unavailable">Poprzedni element nie jest dostępny</string>
     <string name="media_progress">%1$s z %2$s</string>
     <string name="media_stop">Zatrzymaj</string>
+    <string name="media_unmute">Wyłącz wyciszenie</string>
     <string name="mini_cards">Minikarty</string>
     <string name="more_info">Więcej</string>
     <string name="more_options_description">Więcej opcji</string>
@@ -286,7 +300,6 @@
     <string name="move_to_top">Przenieś na początek</string>
     <string name="must_be_online">Upewnij się, że masz połączenie z internetem</string>
     <string name="my_activity">Moja aktywność</string>
-    <string name="my_activity_summary">Zalogowany jako %1$s</string>
     <string name="nativeAd_sponsored">Sponsorowane</string>
     <string name="native_store_title">Kiosk</string>
     <string name="need_to_rotate_orientation">Obróć urządzenie, by oglądać te treści.</string>
@@ -317,6 +330,7 @@
     <string name="notification_subscription_enabled">%1$s – powiadomienia włączone</string>
     <string name="notification_undo_text">Cofnij</string>
     <string name="notifications">Powiadomienia</string>
+    <string name="notifications_and_shared">Powiadomienia i udostępnione treści</string>
     <string name="notifications_settings_menu_title">Powiadomienia</string>
     <string name="now_following_topic">Obserwujesz ten temat</string>
     <string name="ok">OK</string>
@@ -335,7 +349,7 @@
     <string name="onboarding_title2">Poznaj nowe Wiadomości Google</string>
     <string name="open_source_licenses">Licencje open source</string>
     <string name="pause_audio">Wstrzymaj dźwięk</string>
-    <string name="pause_video">Wstrzymaj film</string>
+    <string name="pause_video">Wstrzymaj wideo</string>
     <string name="pii_optional_title">Aby wydawca mógł oferować Ci korzyści przewidziane dla subskrybentów %1$s, potrzebuje od Ciebie pewnych informacji</string>
     <string name="place_autocomplete_clear_button">Wyczyść wyszukiwanie</string>
     <string name="place_autocomplete_search_hint">Szukaj</string>
@@ -350,7 +364,7 @@
     <string name="play_drawer_open">Pokaż panel nawigacji</string>
     <string name="play_percent_downloaded">Pobrało się %1$d%%</string>
     <string name="play_star_rating_content_description">Ocena: %1$s</string>
-    <string name="play_video">Odtwórz film</string>
+    <string name="play_video">Odtwórz wideo</string>
     <string name="preferences_license_title">Licencje open source</string>
     <string name="premium_content">Treść płatna</string>
     <string name="premiumstatusview__content_description_premium_purchased">Wykupiono płatne treści.</string>
@@ -409,17 +423,11 @@
     <string name="remove_from_library">Usunąć z Ulubionych?</string>
     <string name="remove_from_read_later">Usuń z zapisanych artykułów</string>
     <string name="remove_sample_toast_text">Fragment usunięty</string>
-    <string name="remove_share">Usuń udostępnienie</string>
+    <string name="remove_share">Cofnij udostępnienie</string>
     <string name="remove_subscription_failed">Nie udało się usunąć pozycji z Ulubionych. Spróbuj ponownie później.</string>
     <string name="removed_from_read_later">Artykuł został usunięty z Ulubionych</string>
     <string name="report">Zgłoś</string>
     <string name="retry">Ponów próbę</string>
-    <string name="s1">Zapisz obraz</string>
-    <string name="s2">Zezwolić reklamie na zapisanie obrazu w galerii zdjęć?</string>
-    <string name="s3">Zaakceptuj</string>
-    <string name="s4">Odrzuć</string>
-    <string name="s5">Utwórz wydarzenie w kalendarzu</string>
-    <string name="s6">Zezwolić reklamie na utworzenie wydarzenia w kalendarzu?</string>
     <string name="saved_tab_title">Zapisane artykuły</string>
     <string name="sd_card_not_available_dialog_body">Zamiast tego treść zostanie pobrana do pamięci wewnętrznej Twojego urządzenia.</string>
     <string name="sd_card_not_available_dialog_title">Karta SD jest niedostępna</string>
@@ -525,7 +533,7 @@
     <string name="start_offline_updated_version">Przy pierwszym uruchomieniu tej wersji Wiadomości Google musisz być online.</string>
     <string name="store_content_on_sd_card">Zapisz treść na karcie SD</string>
     <string name="sub_with_google">Subskrybuj z Google</string>
-    <string name="sub_with_google_description">Subskrypcja obejmuje bezpośredni dostęp do wydawcy poza aplikacją Google News</string>
+    <string name="sub_with_google_description">Subskrypcja obejmuje bezpośredni dostęp do wydawcy poza aplikacją Wiadomości Google</string>
     <string name="subscribe">Subskrybuj</string>
     <string name="subscribe_and_keep_reading">&lt;b>Zasubskrybuj, by czytać dalej&lt;/b></string>
     <string name="subscription_already_subscribed">Subskrybujesz</string>
@@ -542,7 +550,7 @@
     <string name="sync_failed_notification_title">Nie można odświeżyć Wiadomości Google.</string>
     <string name="sync_progress_notification_title">Pobieram treść Wiadomości Google</string>
     <string name="team_eliminated">Wyeliminowana</string>
-    <string name="team_more_coverage">Więcej informacji o drużynie %s</string>
+    <string name="team_more_coverage">Więcej informacji o drużynie: %s</string>
     <string name="team_unknown">---</string>
     <string name="teams_page_title">Drużyny</string>
     <string name="temperature_unit_celsius">Celsjusza</string>

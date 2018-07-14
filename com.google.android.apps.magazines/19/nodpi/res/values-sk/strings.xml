@@ -9,6 +9,16 @@
     <string name="abc_activitychooserview_choose_application">Zvoľte aplikáciu</string>
     <string name="abc_capital_off">VYPNUTÉ</string>
     <string name="abc_capital_on">ZAPNUTÉ</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">odstrániť</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">medzerník</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Menu+</string>
     <string name="abc_search_hint">Vyhľadať…</string>
     <string name="abc_searchview_description_clear">Vymazať dopyt</string>
     <string name="abc_searchview_description_search">Hľadať</string>
@@ -98,6 +108,7 @@
     <string name="common_google_play_services_install_button">Inštalovať</string>
     <string name="common_google_play_services_install_text">Na spustenie aplikácie %1$s sa vyžadujú služby Google Play, ktoré na zariadení nemáte.</string>
     <string name="common_google_play_services_install_title">Inštalovať služby Google Play</string>
+    <string name="common_google_play_services_notification_channel_name">Dostupnosť služieb Google Play</string>
     <string name="common_google_play_services_notification_ticker">Chyba služieb Google Play</string>
     <string name="common_google_play_services_unknown_issue">Aplikácia %1$s má problémy so službami Google Play. Skúste to znova.</string>
     <string name="common_google_play_services_unsupported_text">Aplikáciu %1$s nebude možné spustiť bez služieb Google Play, ktoré vaše zariadenie nepodporuje.</string>
@@ -179,7 +190,7 @@
     <string name="enable_notifications">Zapnúť upozornenia</string>
     <string name="enable_sync_dialog_body">Zapne sa synchronizácia, aby sa obsah Správ Google obnovil na pozadí.</string>
     <string name="enable_sync_dialog_title">Synchronizácia je vypnutá</string>
-    <string name="enumeration_comma">", "</string>
+    <string name="enumeration_comma">,</string>
     <string name="error_blocking_user">Chyba blokovania používateľa, skúste to znova.</string>
     <string name="error_removing_share">Zdieľanie sa nepodarilo odstrániť. Skúste to znova.</string>
     <string name="exo_track_selection_auto">Automaticky</string>
@@ -199,7 +210,7 @@
     <string name="favorites_cluster_title_topics">Témy</string>
     <string name="favorites_title">Obľúbené</string>
     <string name="favorites_view_all">Zobraziť všetko a spravovať</string>
-    <string name="follow_tournament">Sledujte tento turnaj</string>
+    <string name="follow_tournament">Sledujte turnaj</string>
     <string name="for_you_pinned">Stiahnuť sekciu Pre vás</string>
     <string name="for_you_pinned_summary">Sťahovať obsah sekcie Pre vás na offline čítanie</string>
     <string name="for_you_title">Pre vás</string>
@@ -212,7 +223,7 @@
     <string name="gallery">Galéria</string>
     <string name="game_status_final">Finále</string>
     <string name="game_status_live">Naživo</string>
-    <string name="game_status_upcoming">Nasledujúce</string>
+    <string name="game_status_upcoming">Nadchádzajúca</string>
     <string name="gcm_fallback_notification_channel_label">Rôzne</string>
     <string name="general_capitalized">VŠEOBECNÉ</string>
     <string name="go_to_location">Prejsť na miesto</string>
@@ -221,11 +232,11 @@
     <string name="go_to_saved_search">Prejsť na uložené vyhľadávanie</string>
     <string name="go_to_source">Prejsť na zdroj</string>
     <string name="go_to_story_360">Zobraziť všetko o téme</string>
-    <string name="go_to_team_topic">Prejsť do správ o tíme</string>
+    <string name="go_to_team_topic">Prejsť do správ o tímoch</string>
     <string name="go_to_topic">Prejsť na tému</string>
-    <string name="go_to_worldcup_topic">Prejsť do správ z Majstrovstiev sveta</string>
-    <string name="graph_content_group_game_description">Výber, vybrané: %s</string>
-    <string name="graph_content_knockout_game_description">Výber, vybrané: %1$s, %2$s v. %3$s</string>
+    <string name="go_to_worldcup_topic">Prejsť na správy z majstrovstiev</string>
+    <string name="graph_content_group_game_description">Koleso, vybrané: %s</string>
+    <string name="graph_content_knockout_game_description">Koleso, vybrané: %1$s, %2$s v. %3$s</string>
     <string name="graph_header_group">Skupina</string>
     <string name="graph_header_knockout">Vyraďovacia fáza</string>
     <string name="graph_hint_tap_game">Klepnite na zápas</string>
@@ -236,6 +247,7 @@
     <string name="iap_failure_to_open">Aplikácia sa pre tento obsah nedá otvoriť</string>
     <string name="iap_success_google_news">Pridané do Správ Google</string>
     <string name="image_attribution">Poďakovanie</string>
+    <string name="image_attribution_content_description">Autor fotky: %1$s</string>
     <string name="image_not_available_offline">Obrázok nie je k dispozícii v režime offline</string>
     <string name="language_reset">Jazyk bol obnovený</string>
     <string name="launcher_app_name">Správy</string>
@@ -269,6 +281,7 @@
     <string name="magazines_toggle_to_print_mode">Prepnúť na úplné vydanie</string>
     <string name="marked_as_not_interested">Týchto správ budeme zobrazovať menej</string>
     <string name="match_in_list_content_description">%1$d. zápas z %2$d</string>
+    <string name="media_mute">Vypnúť zvuk</string>
     <string name="media_next">Ďalej</string>
     <string name="media_next_unavailable">Ďalšia položka nie je k dispozícii</string>
     <string name="media_notification_channel_description">Nastavenia upozornení na médiá Správ Google</string>
@@ -279,6 +292,7 @@
     <string name="media_previous_unavailable">Predchádzajúca položka nie je k dispozícii</string>
     <string name="media_progress">%1$s z %2$s</string>
     <string name="media_stop">Zastaviť</string>
+    <string name="media_unmute">Obnoviť zvuk</string>
     <string name="mini_cards">Minikarty</string>
     <string name="more_info">Ďalšie info</string>
     <string name="more_options_description">Ďalšie možnosti</string>
@@ -286,9 +300,8 @@
     <string name="move_to_top">Presunúť na začiatok</string>
     <string name="must_be_online">Skontrolujte, či máte pripojenie k internetu</string>
     <string name="my_activity">Moja aktivita</string>
-    <string name="my_activity_summary">Prihlásený účet %1$s</string>
     <string name="nativeAd_sponsored">Sponzorované</string>
-    <string name="native_store_title">Kiosk</string>
+    <string name="native_store_title">Periodiká</string>
     <string name="need_to_rotate_orientation">Ak chcete zobraziť tento obsah, otočte zariadenie.</string>
     <string name="needed_to_rotate_orientation">Kvôli zobrazeniu obsahu na tomto zariadení bolo nutné automatické otočenie.</string>
     <string name="new_magazine_downloadable_notification">Číslo %1$s je k dispozícii</string>
@@ -317,6 +330,7 @@
     <string name="notification_subscription_enabled">%1$s – upozornenia povolené</string>
     <string name="notification_undo_text">Späť</string>
     <string name="notifications">Upozornenia</string>
+    <string name="notifications_and_shared">Upozornenia a zdieľaný obsah</string>
     <string name="notifications_settings_menu_title">Upozornenia</string>
     <string name="now_following_topic">Sledujete túto tému</string>
     <string name="ok">OK</string>
@@ -414,12 +428,6 @@
     <string name="removed_from_read_later">Článok bol odstránený z obľúbených</string>
     <string name="report">Nahlásiť</string>
     <string name="retry">Skúsiť znova</string>
-    <string name="s1">Uloženie obrázka</string>
-    <string name="s2">Povoliť reklame uložiť obrázok do galérie obrázkov?</string>
-    <string name="s3">Prijať</string>
-    <string name="s4">Odmietnuť</string>
-    <string name="s5">Vytvorenie udalosti v kalendári</string>
-    <string name="s6">Povoliť reklame vytvoriť udalosť v kalendári?</string>
     <string name="saved_tab_title">Uložené správy</string>
     <string name="sd_card_not_available_dialog_body">Obsah sa namiesto toho prevezme do interného ukladacieho priestoru vášho zariadenia.</string>
     <string name="sd_card_not_available_dialog_title">SD karta nie je k dispozícii</string>
@@ -519,7 +527,7 @@
     <string name="source_capitalized">Zdroj</string>
     <string name="sport_game_score_seperator">-</string>
     <string name="sports_game_time">%1$s o %2$s</string>
-    <string name="standings_content_description">Tabuľka skupiny %1$s</string>
+    <string name="standings_content_description">Umiestnenie pre: %1$s</string>
     <string name="star_rating">%1$s z piatich hviezdičiek</string>
     <string name="start_offline">Pri prvom použití Správ Google musíte byť online.</string>
     <string name="start_offline_updated_version">Pri prvom použití tejto verzie Správ Google musíte byť online.</string>
@@ -542,8 +550,8 @@
     <string name="sync_failed_notification_title">Správy Google sa nedajú obnoviť</string>
     <string name="sync_progress_notification_title">Sťahuje sa obsah Správ Google</string>
     <string name="team_eliminated">Tím vyradený</string>
-    <string name="team_more_coverage">Viac o tejto téme: %s</string>
-    <string name="team_unknown">Neznáme</string>
+    <string name="team_more_coverage">Viac o tíme %s</string>
+    <string name="team_unknown">Zatiaľ neurčené</string>
     <string name="teams_page_title">Tímy</string>
     <string name="temperature_unit_celsius">Stupne Celzia</string>
     <string name="temperature_unit_fahrenheit">Stupne Fahrenheita</string>

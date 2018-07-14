@@ -9,6 +9,16 @@
     <string name="abc_activitychooserview_choose_application">Alegeți o aplicație</string>
     <string name="abc_capital_off">DEZACTIVAȚI</string>
     <string name="abc_capital_on">ACTIVAT</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">delete</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">Funcție+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">spațiu</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Meniu+</string>
     <string name="abc_search_hint">Căutați…</string>
     <string name="abc_searchview_description_clear">Ștergeți interogarea</string>
     <string name="abc_searchview_description_search">Căutați</string>
@@ -98,6 +108,7 @@
     <string name="common_google_play_services_install_button">Instalați</string>
     <string name="common_google_play_services_install_text">%1$s nu va rula fără serviciile Google Play, care lipsesc de pe dispozitivul dvs.</string>
     <string name="common_google_play_services_install_title">Descărcați serviciile Google Play</string>
+    <string name="common_google_play_services_notification_channel_name">Disponibilitatea serviciilor Google Play</string>
     <string name="common_google_play_services_notification_ticker">Eroare a serviciilor Google Play</string>
     <string name="common_google_play_services_unknown_issue">%1$s întâmpină probleme privind serviciile Google Play. Încercați din nou.</string>
     <string name="common_google_play_services_unsupported_text">%1$s nu va rula fără serviciile Google Play, care nu sunt acceptate de dispozitivul dvs.</string>
@@ -179,7 +190,7 @@
     <string name="enable_notifications">Activați notificările</string>
     <string name="enable_sync_dialog_body">Pentru a actualiza în fundal conținutul din Știri Google, va fi activată sincronizarea.</string>
     <string name="enable_sync_dialog_title">Sincronizarea este dezactivată</string>
-    <string name="enumeration_comma">", "</string>
+    <string name="enumeration_comma">,</string>
     <string name="error_blocking_user">Eroare la blocarea utilizatorului. Încercați din nou.</string>
     <string name="error_removing_share">Nu s-a putut elimina permisiunea de acces, încercați din nou.</string>
     <string name="exo_track_selection_auto">Automat</string>
@@ -227,7 +238,7 @@
     <string name="graph_content_group_game_description">Roată, ați selectat %s</string>
     <string name="graph_content_knockout_game_description">Roată, ați selectat %1$s, %2$s contra %3$s</string>
     <string name="graph_header_group">Grupe</string>
-    <string name="graph_header_knockout">Eliminatorii</string>
+    <string name="graph_header_knockout">Eliminatorie</string>
     <string name="graph_hint_tap_game">Atingeți un meci</string>
     <string name="graph_hint_tap_group">Atingeți o grupă</string>
     <string name="headlines_title">Titluri</string>
@@ -236,6 +247,7 @@
     <string name="iap_failure_to_open">Nu se poate deschide aplicația pentru acest conținut</string>
     <string name="iap_success_google_news">Adăugată în Știri Google</string>
     <string name="image_attribution">Autor</string>
+    <string name="image_attribution_content_description">Fotografie de %1$s</string>
     <string name="image_not_available_offline">Imaginea nu este disponibilă offline</string>
     <string name="language_reset">Limba a fost resetată</string>
     <string name="launcher_app_name">Știri</string>
@@ -269,6 +281,7 @@
     <string name="magazines_toggle_to_print_mode">Treceți la versiunea tipărită</string>
     <string name="marked_as_not_interested">Veți vedea mai puține astfel de subiecte</string>
     <string name="match_in_list_content_description">Meciul %1$d din %2$d</string>
+    <string name="media_mute">Dezactivați sunetul</string>
     <string name="media_next">Următorul</string>
     <string name="media_next_unavailable">Articolul următor nu este disponibil</string>
     <string name="media_notification_channel_description">Setări pentru notificările privind conținutul media din Știri Google</string>
@@ -279,6 +292,7 @@
     <string name="media_previous_unavailable">Articolul anterior nu este disponibil</string>
     <string name="media_progress">%1$s din %2$s</string>
     <string name="media_stop">Opriți</string>
+    <string name="media_unmute">Activați sunetul</string>
     <string name="mini_cards">Minicarduri</string>
     <string name="more_info">Mai multe informații</string>
     <string name="more_options_description">Mai multe opțiuni</string>
@@ -286,9 +300,8 @@
     <string name="move_to_top">Mutați la început</string>
     <string name="must_be_online">Asigurați-vă că v-ați conectat la internet</string>
     <string name="my_activity">Activitatea mea</string>
-    <string name="my_activity_summary">Conectat(ă) ca %1$s</string>
     <string name="nativeAd_sponsored">Sponsorizat</string>
-    <string name="native_store_title">Chioșc</string>
+    <string name="native_store_title">Publicații</string>
     <string name="need_to_rotate_orientation">Rotiți dispozitivul pentru a afișa acest conținut.</string>
     <string name="needed_to_rotate_orientation">A fost necesară rotirea automată a ecranului pentru a afișa acest conținut.</string>
     <string name="new_magazine_downloadable_notification">Este disponibil numărul %1$s</string>
@@ -317,6 +330,7 @@
     <string name="notification_subscription_enabled">Notificări activate pentru %1$s</string>
     <string name="notification_undo_text">Anulați</string>
     <string name="notifications">Notificări</string>
+    <string name="notifications_and_shared">Notificări și elemente trimise</string>
     <string name="notifications_settings_menu_title">Notificări</string>
     <string name="now_following_topic">Urmăriți acest subiect</string>
     <string name="ok">OK</string>
@@ -414,12 +428,6 @@
     <string name="removed_from_read_later">Subiectul a fost eliminat din Favorite</string>
     <string name="report">Raportați</string>
     <string name="retry">Reîncercați</string>
-    <string name="s1">Salvați imaginea</string>
-    <string name="s2">Permiteți ca anunțul să stocheze imaginea în Galeria de fotografii?</string>
-    <string name="s3">Acceptați</string>
-    <string name="s4">Refuzați</string>
-    <string name="s5">Creați un eveniment în calendar</string>
-    <string name="s6">Permiteți ca anunțul să creeze un eveniment în calendar?</string>
     <string name="saved_tab_title">Subiecte salvate</string>
     <string name="sd_card_not_available_dialog_body">Conținutul va fi descărcat în memoria internă a dispozitivului.</string>
     <string name="sd_card_not_available_dialog_title">Card SD indisponibil</string>

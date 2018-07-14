@@ -9,6 +9,16 @@
     <string name="abc_activitychooserview_choose_application">"Scegli un'applicazione"</string>
     <string name="abc_capital_off">OFF</string>
     <string name="abc_capital_on">ON</string>
+    <string name="abc_menu_alt_shortcut_label">ALT +</string>
+    <string name="abc_menu_ctrl_shortcut_label">CTRL +</string>
+    <string name="abc_menu_delete_shortcut_label">CANC</string>
+    <string name="abc_menu_enter_shortcut_label">INVIO</string>
+    <string name="abc_menu_function_shortcut_label">FUNZIONE +</string>
+    <string name="abc_menu_meta_shortcut_label">META +</string>
+    <string name="abc_menu_shift_shortcut_label">MAIUSC +</string>
+    <string name="abc_menu_space_shortcut_label">barra spaziatrice</string>
+    <string name="abc_menu_sym_shortcut_label">SYM +</string>
+    <string name="abc_prepend_shortcut_label">MENU +</string>
     <string name="abc_search_hint">Cerca…</string>
     <string name="abc_searchview_description_clear">Cancella query</string>
     <string name="abc_searchview_description_search">Cerca</string>
@@ -98,6 +108,7 @@
     <string name="common_google_play_services_install_button">Installa</string>
     <string name="common_google_play_services_install_text">"L'app %1$s non funzionerà senza Google Play Services, non presente sul tuo dispositivo."</string>
     <string name="common_google_play_services_install_title">Installa Google Play Services</string>
+    <string name="common_google_play_services_notification_channel_name">Disponibilità di Google Play Services</string>
     <string name="common_google_play_services_notification_ticker">Errore Google Play Services</string>
     <string name="common_google_play_services_unknown_issue">%1$s sta riscontrando problemi con Google Play Services. Riprova.</string>
     <string name="common_google_play_services_unsupported_text">%1$s non funzionerà senza Google Play Services, non supportati dal tuo dispositivo.</string>
@@ -179,7 +190,7 @@
     <string name="enable_notifications">Attiva notifiche</string>
     <string name="enable_sync_dialog_body">Per aggiornare i contenuti di Google News in background, verrà attivata la sincronizzazione.</string>
     <string name="enable_sync_dialog_title">Sincronizzazione disattivata</string>
-    <string name="enumeration_comma">", "</string>
+    <string name="enumeration_comma">,</string>
     <string name="error_blocking_user">"Errore durante il blocco dell'utente. Riprova."</string>
     <string name="error_removing_share">Impossibile rimuovere la condivisione. Riprova.</string>
     <string name="exo_track_selection_auto">Auto</string>
@@ -236,6 +247,7 @@
     <string name="iap_failure_to_open">"Impossibile aprire l'app per questi contenuti"</string>
     <string name="iap_success_google_news">Aggiunto a Google News</string>
     <string name="image_attribution">Riconoscimento</string>
+    <string name="image_attribution_content_description">Foto di %1$s</string>
     <string name="image_not_available_offline">Immagine non disponibile offline</string>
     <string name="language_reset">La lingua è stata reimpostata</string>
     <string name="launcher_app_name">News</string>
@@ -269,6 +281,7 @@
     <string name="magazines_toggle_to_print_mode">Passa a edizione cartacea</string>
     <string name="marked_as_not_interested">Troverai meno notizie di questo tipo</string>
     <string name="match_in_list_content_description">Partita %1$d di %2$d</string>
+    <string name="media_mute">Disattiva audio</string>
     <string name="media_next">Successivo</string>
     <string name="media_next_unavailable">Elemento successivo non disponibile</string>
     <string name="media_notification_channel_description">Impostazioni delle notifiche relative ai contenuti multimediali di Google News</string>
@@ -279,6 +292,7 @@
     <string name="media_previous_unavailable">Elemento precedente non disponibile</string>
     <string name="media_progress">%1$s di %2$s</string>
     <string name="media_stop">Interrompi</string>
+    <string name="media_unmute">Riattiva audio</string>
     <string name="mini_cards">Schede mini</string>
     <string name="more_info">Altre informazioni</string>
     <string name="more_options_description">Altre opzioni</string>
@@ -286,7 +300,6 @@
     <string name="move_to_top">"Sposta all'inizio"</string>
     <string name="must_be_online">Assicurati di essere connesso a Internet</string>
     <string name="my_activity">Le mie attività</string>
-    <string name="my_activity_summary">Accesso eseguito come %1$s</string>
     <string name="nativeAd_sponsored">Sponsorizzati</string>
     <string name="native_store_title">Edicola</string>
     <string name="need_to_rotate_orientation">Per vedere questi contenuti, ruota il dispositivo.</string>
@@ -317,6 +330,7 @@
     <string name="notification_subscription_enabled">Notifiche per %1$s attivate</string>
     <string name="notification_undo_text">Annulla</string>
     <string name="notifications">Notifiche</string>
+    <string name="notifications_and_shared">Notifiche e condivisioni</string>
     <string name="notifications_settings_menu_title">Notifiche</string>
     <string name="now_following_topic">Stai seguendo questo argomento</string>
     <string name="ok">OK</string>
@@ -414,12 +428,6 @@
     <string name="removed_from_read_later">Notizia rimossa dai preferiti</string>
     <string name="report">Rapporto</string>
     <string name="retry">Riprova</string>
-    <string name="s1">Salva immagine</string>
-    <string name="s2">"Consentire ad AdMob di memorizzare l'immagine nella galleria Immagini?"</string>
-    <string name="s3">Accetto</string>
-    <string name="s4">Rifiuto</string>
-    <string name="s5">Crea evento di calendario</string>
-    <string name="s6">Consentire ad AdMob di creare un evento di calendario?</string>
     <string name="saved_tab_title">Notizie salvate</string>
     <string name="sd_card_not_available_dialog_body">I contenuti verranno scaricati nella memoria interna del dispositivo.</string>
     <string name="sd_card_not_available_dialog_title">Scheda SD non disponibile</string>
@@ -525,7 +533,7 @@
     <string name="start_offline_updated_version">Devi essere online per usare la prima volta questa versione di Google News.</string>
     <string name="store_content_on_sd_card">Memorizza contenuti sulla scheda SD</string>
     <string name="sub_with_google">Abbonati con Google</string>
-    <string name="sub_with_google_description">"L'abbonamento include l'accesso diretto agli editori fuori dall'app Google News"</string>
+    <string name="sub_with_google_description">"L'abbonamento include l'accesso diretto ai publisher fuori dall'app Google News"</string>
     <string name="subscribe">Abbonati</string>
     <string name="subscribe_and_keep_reading">&lt;b>Abbonati e continua a leggere&lt;/b></string>
     <string name="subscription_already_subscribed">Abbonato</string>

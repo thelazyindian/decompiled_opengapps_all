@@ -145,7 +145,7 @@
     <string name="enable_notifications">Habilitar notificaciones</string>
     <string name="enable_sync_dialog_body">Para que el contenido de Google Noticias se actualice en segundo plano, se activará la sincronización.</string>
     <string name="enable_sync_dialog_title">Sincronización desactivada</string>
-    <string name="enumeration_comma">", "</string>
+    <string name="enumeration_comma">,</string>
     <string name="error_blocking_user">Se produjo un error al bloquear al usuario. Vuelve a intentarlo.</string>
     <string name="error_removing_share">No se pudo quitar el elemento compartido. Vuelve a intentarlo.</string>
     <string name="favorites_cluster_empty_headline_articles">No guardaste ninguna historia para leerla más adelante</string>
@@ -174,7 +174,7 @@
     <string name="frictionless_free_articles_left_week">%1$s de %2$s artículos gratuitos restantes de esta semana</string>
     <string name="frictionless_free_articles_left_year">%1$s de %2$s artículos gratuitos restantes de este año</string>
     <string name="gallery">Galería</string>
-    <string name="game_status_final">Terminó</string>
+    <string name="game_status_final">Final</string>
     <string name="game_status_live">En vivo</string>
     <string name="game_status_upcoming">Próximamente</string>
     <string name="general_capitalized">GENERAL</string>
@@ -199,6 +199,7 @@
     <string name="iap_failure_to_open">No se puede abrir la aplicación para este contenido.</string>
     <string name="iap_success_google_news">Se agregó a Google Noticias</string>
     <string name="image_attribution">Crédito</string>
+    <string name="image_attribution_content_description">Foto de %1$s</string>
     <string name="image_not_available_offline">Imagen no disponible sin conexión</string>
     <string name="language_reset">Se restableció el idioma.</string>
     <string name="launcher_app_name">Noticias</string>
@@ -231,6 +232,7 @@
     <string name="magazines_toggle_to_print_mode">Cambiar a la edición de impresión</string>
     <string name="marked_as_not_interested">Verás menos noticias como esta</string>
     <string name="match_in_list_content_description">Partido %1$d de %2$d</string>
+    <string name="media_mute">Silenciar</string>
     <string name="media_next">Siguiente</string>
     <string name="media_next_unavailable">El siguiente elemento no está disponible</string>
     <string name="media_notification_channel_description">Configuración de las notificaciones de contenido multimedia de Google Noticias</string>
@@ -241,6 +243,7 @@
     <string name="media_previous_unavailable">El elemento anterior no está disponible</string>
     <string name="media_progress">%1$s de %2$s</string>
     <string name="media_stop">Detener</string>
+    <string name="media_unmute">Activar sonido</string>
     <string name="mini_cards">Minitarjetas</string>
     <string name="more_info">Más información</string>
     <string name="more_options_description">Más opciones</string>
@@ -248,7 +251,6 @@
     <string name="move_to_top">Mover al principio</string>
     <string name="must_be_online">Asegúrate de tener conexión a Internet.</string>
     <string name="my_activity">Mi actividad</string>
-    <string name="my_activity_summary">Acceso como %1$s</string>
     <string name="nativeAd_sponsored">Patrocinado</string>
     <string name="native_store_title">Kiosco</string>
     <string name="need_to_rotate_orientation">Para mostrar este contenido, rota tu dispositivo.</string>
@@ -279,6 +281,7 @@
     <string name="notification_subscription_enabled">Se habilitaron las notificaciones para %1$s</string>
     <string name="notification_undo_text">Deshacer</string>
     <string name="notifications">Notificaciones</string>
+    <string name="notifications_and_shared">Notificaciones y contenido compartido</string>
     <string name="notifications_settings_menu_title">Notificaciones</string>
     <string name="now_following_topic">Estás siguiendo este tema</string>
     <string name="ok">Aceptar</string>
@@ -513,7 +516,7 @@
     <string name="unsubscribe">Anular la suscripción</string>
     <string name="update_play">Debes actualizar Google Play Store para comprar este contenido</string>
     <string name="upgrade_required_short_message">Actualización necesaria para el contenido nuevo</string>
-    <string name="upgrade_status_bar_notification_body">Google Play Kiosco ahora es Google Noticias</string>
+    <string name="upgrade_status_bar_notification_body">Google Play Kiosco ahora es Google Kiosco</string>
     <string name="upgrade_status_bar_notification_title">Te damos la bienvenida a Google Noticias</string>
     <string name="usage_policy">Política de uso</string>
     <string name="usage_policy_description">Google Noticias es solo para uso personal y no comercial.</string>

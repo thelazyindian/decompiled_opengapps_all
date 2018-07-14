@@ -9,6 +9,16 @@
     <string name="abc_activitychooserview_choose_application">Вибрати програму</string>
     <string name="abc_capital_off">ВИМК.</string>
     <string name="abc_capital_on">УВІМК.</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">delete</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">пробіл</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Menu+</string>
     <string name="abc_search_hint">Пошук…</string>
     <string name="abc_searchview_description_clear">Очистити запит</string>
     <string name="abc_searchview_description_search">Пошук</string>
@@ -98,6 +108,7 @@
     <string name="common_google_play_services_install_button">Установити</string>
     <string name="common_google_play_services_install_text">Додаток %1$s не працюватиме без сервісів Google Play, яких немає на вашому пристрої.</string>
     <string name="common_google_play_services_install_title">Установити сервіси Google Play</string>
+    <string name="common_google_play_services_notification_channel_name">Доступність сервісів Google Play</string>
     <string name="common_google_play_services_notification_ticker">Помилка сервісів Google Play</string>
     <string name="common_google_play_services_unknown_issue">У додатку %1$s виникла проблема із сервісами Google Play. Повторіть спробу.</string>
     <string name="common_google_play_services_unsupported_text">Додаток %1$s не працюватиме без сервісів Google Play, які не підтримуються на вашому пристрої.</string>
@@ -179,7 +190,7 @@
     <string name="enable_notifications">Увімкнути сповіщення</string>
     <string name="enable_sync_dialog_body">Щоб вміст Новин Google оновлювався у фоновому режимі, буде ввімкнено синхронізацію.</string>
     <string name="enable_sync_dialog_title">Синхронізацію вимкнено</string>
-    <string name="enumeration_comma">", "</string>
+    <string name="enumeration_comma">,</string>
     <string name="error_blocking_user">Не вдалося заблокувати користувача. Повторіть спробу.</string>
     <string name="error_removing_share">Не вдалося видалити вміст, яким ви ділитесь. Повторіть спробу.</string>
     <string name="exo_track_selection_auto">Автоматично</string>
@@ -199,7 +210,7 @@
     <string name="favorites_cluster_title_topics">Теми</string>
     <string name="favorites_title">Вибране</string>
     <string name="favorites_view_all">Переглянути все й керувати</string>
-    <string name="follow_tournament">Слідкуйте на новинами чемпіонату</string>
+    <string name="follow_tournament">Підписатися на новини чемпіонату</string>
     <string name="for_you_pinned">Завантажити вміст \"Для вас\"</string>
     <string name="for_you_pinned_summary">"Зберігати на пристрої вміст із розділу \"Для вас\", щоб читати його без з'єднання з Інтернетом"</string>
     <string name="for_you_title">Для вас</string>
@@ -210,7 +221,7 @@
     <string name="frictionless_free_articles_left_week">%1$s з %2$s безкоштовних статей залишилося на цей тиждень</string>
     <string name="frictionless_free_articles_left_year">%1$s з %2$s безкоштовних статей залишилося на цей рік</string>
     <string name="gallery">Галерея</string>
-    <string name="game_status_final">Зіграно</string>
+    <string name="game_status_final">Кінець</string>
     <string name="game_status_live">Наживо</string>
     <string name="game_status_upcoming">Очікується</string>
     <string name="gcm_fallback_notification_channel_label">Інше</string>
@@ -221,12 +232,12 @@
     <string name="go_to_saved_search">Перейти до збережених результатів пошуку</string>
     <string name="go_to_source">Перейти до джерела</string>
     <string name="go_to_story_360">Відкрити повний огляд</string>
-    <string name="go_to_team_topic">Новини про команду</string>
+    <string name="go_to_team_topic">Перейти на сторінку новин команди</string>
     <string name="go_to_topic">Перейти до теми</string>
     <string name="go_to_worldcup_topic">Перейти до новин чемпіонату</string>
-    <string name="graph_content_group_game_description">Колесо, вибрано: %s</string>
-    <string name="graph_content_knockout_game_description">Колесо, вибрано: %1$s, %2$s – %3$s</string>
-    <string name="graph_header_group">Груповий етап</string>
+    <string name="graph_content_group_game_description">Колесо, вибрано %s</string>
+    <string name="graph_content_knockout_game_description">Колесо, вибрано: %1$s, %2$s проти %3$s</string>
+    <string name="graph_header_group">Група</string>
     <string name="graph_header_knockout">Плей-оф</string>
     <string name="graph_hint_tap_game">Торкніться матчу</string>
     <string name="graph_hint_tap_group">Торкніться групи</string>
@@ -236,6 +247,7 @@
     <string name="iap_failure_to_open">Неможливо відкрити програму для перегляду цього вмісту</string>
     <string name="iap_success_google_news">Додано в Новини Google</string>
     <string name="image_attribution">Авторство</string>
+    <string name="image_attribution_content_description">Фотограф: %1$s</string>
     <string name="image_not_available_offline">Зображення не доступне в режимі офлайн</string>
     <string name="language_reset">Налаштування мови скинуто</string>
     <string name="launcher_app_name">Новини</string>
@@ -269,6 +281,7 @@
     <string name="magazines_toggle_to_print_mode">Увімкнути друковану версію</string>
     <string name="marked_as_not_interested">Ви бачитимете менше схожих новин</string>
     <string name="match_in_list_content_description">Матч %1$d з %2$d</string>
+    <string name="media_mute">Вимкнути звук</string>
     <string name="media_next">Наступна позиція</string>
     <string name="media_next_unavailable">Немає наступного елемента</string>
     <string name="media_notification_channel_description">Параметри сповіщень Новини Google про медіа</string>
@@ -279,6 +292,7 @@
     <string name="media_previous_unavailable">Немає попереднього елемента</string>
     <string name="media_progress">%1$s з %2$s</string>
     <string name="media_stop">Зупинити</string>
+    <string name="media_unmute">Увімкнути звук</string>
     <string name="mini_cards">Міні-картки</string>
     <string name="more_info">Докладніше</string>
     <string name="more_options_description">Інші опції</string>
@@ -286,7 +300,6 @@
     <string name="move_to_top">Перемістити на початок</string>
     <string name="must_be_online">Перевірте, чи ваш пристрій під’єднано до Інтернету</string>
     <string name="my_activity">Моя активність</string>
-    <string name="my_activity_summary">Ви ввійшли як %1$s</string>
     <string name="nativeAd_sponsored">Спонсорований вміст</string>
     <string name="native_store_title">Преса</string>
     <string name="need_to_rotate_orientation">Щоб побачити цей вміст, оберніть пристрій.</string>
@@ -317,6 +330,7 @@
     <string name="notification_subscription_enabled">%1$s – сповіщення ввімкнено</string>
     <string name="notification_undo_text">Відмінити</string>
     <string name="notifications">Сповіщення</string>
+    <string name="notifications_and_shared">Сповіщення та вміст, яким поділилися</string>
     <string name="notifications_settings_menu_title">Сповіщення</string>
     <string name="now_following_topic">Ви підписалися на цю тему</string>
     <string name="ok">OK</string>
@@ -363,7 +377,7 @@
     <string name="progress_label_game_three">Матч 3</string>
     <string name="progress_label_game_two">Матч 2</string>
     <string name="progress_label_quarter_final">1/4</string>
-    <string name="progress_label_round_of_sixteen">1/8</string>
+    <string name="progress_label_round_of_sixteen">1/8 фіналу</string>
     <string name="progress_label_semi_final">Півфінал</string>
     <string name="progress_title_group_stage">Груповий етап</string>
     <string name="progress_title_knockout_stage">Плей-оф</string>
@@ -414,12 +428,6 @@
     <string name="removed_from_read_later">Новину видалено з вибраного</string>
     <string name="report">Повідомити</string>
     <string name="retry">Повторити</string>
-    <string name="s1">Зберегти зображення</string>
-    <string name="s2">Дозволити оголошенню зберегти зображення в галереї?</string>
-    <string name="s3">Прийняти</string>
-    <string name="s4">Відхилити</string>
-    <string name="s5">Створити подію календаря</string>
-    <string name="s6">Дозволити оголошенню створити подію календаря?</string>
     <string name="saved_tab_title">Збережені новини</string>
     <string name="sd_card_not_available_dialog_body">Натомість вміст буде завантажено у внутрішню пам’ять вашого пристрою.</string>
     <string name="sd_card_not_available_dialog_title">Карта SD недоступна</string>
@@ -541,9 +549,9 @@
     <string name="sync_failed_notification_body">Недостатньо пам’яті.</string>
     <string name="sync_failed_notification_title">Не вдається оновити Новини Google.</string>
     <string name="sync_progress_notification_title">Завантажується вміст Новин Google</string>
-    <string name="team_eliminated">Команда вибула</string>
-    <string name="team_more_coverage">Дізнайтеся, як грає %s</string>
-    <string name="team_unknown">\?</string>
+    <string name="team_eliminated">Виключено</string>
+    <string name="team_more_coverage">Більше інформації про команду \"%s\"</string>
+    <string name="team_unknown">Невідомо</string>
     <string name="teams_page_title">Команди</string>
     <string name="temperature_unit_celsius">Градуси Цельсія</string>
     <string name="temperature_unit_fahrenheit">Градуси Фаренгейта</string>
@@ -590,7 +598,7 @@
     <string name="user_data_collection_title">Зареєструватись</string>
     <string name="verify_button">Підтвердити</string>
     <string name="verify_your_subscription_toast_text">Підтвердьте підписку</string>
-    <string name="via_twitter_placeholder_kicker">через %s</string>
+    <string name="via_twitter_placeholder_kicker">через %1$s</string>
     <string name="video">Відео</string>
     <string name="video_error">Не вдається відтворити відео. Повторіть спробу.</string>
     <string name="view_all">Показати все</string>

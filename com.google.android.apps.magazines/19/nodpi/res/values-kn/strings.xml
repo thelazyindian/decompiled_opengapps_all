@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="a11y_image_no_label">ಲೇಖನ ಚಿತ್ರ, ಲೇಬಲ್ ಮಾಡದಿರುವುದು</string>
+    <string name="a11y_image_no_label">ಲೇಖನ ಚಿತ್ರ, ಲೇಬಲ್ ಮಾಡದಿರುವುದು</string>
     <string name="a11y_image_with_caption">%s, ಚಿತ್ರ</string>
     <string name="abc_action_bar_up_description">ಮೇಲಕ್ಕೆ ನ್ಯಾವಿಗೇಟ್ ಮಾಡಿ</string>
     <string name="abc_action_menu_overflow_description">ಇನ್ನಷ್ಟು ಆಯ್ಕೆಗಳು</string>
@@ -9,6 +9,16 @@
     <string name="abc_activitychooserview_choose_application">ಒಂದು ಅಪ್ಲಿಕೇಶನ್ ಆಯ್ಕೆಮಾಡಿ</string>
     <string name="abc_capital_off">ಆಫ್</string>
     <string name="abc_capital_on">ಆನ್</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">delete</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">space</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Menu+</string>
     <string name="abc_search_hint">ಹುಡುಕಿ…</string>
     <string name="abc_searchview_description_clear">ಪ್ರಶ್ನೆಯನ್ನು ತೆರವುಗೊಳಿಸು</string>
     <string name="abc_searchview_description_search">ಹುಡುಕಿ</string>
@@ -29,7 +39,7 @@
     <string name="all_issues_tab">ಎಲ್ಲಾ ಸಂಚಿಕೆಗಳು</string>
     <string name="almost_developer_mode_toast">ನೀವು ಇದೀಗ ಡೆವಲಪರ್ ಆಗುವುದಕ್ಕೆ %1$s ಹೆಜ್ಜೆಗಳ ದೂರದಲ್ಲಿರುವಿರಿ.</string>
     <string name="already_a_subscriber">ಈಗಾಗಲೇ ಚಂದಾದಾರರಾಗಿರುವಿರಾ? ನಿಮ್ಮ ಖಾತೆಯನ್ನು ಸಕ್ರಿಯಗೊಳಿಸಿ.</string>
-    <string name="announcement_download_complete">ಡೌನ್‌ಲೋಡ್ ಪೂರ್ಣಗೊಂಡಿದೆ: %1$s</string>
+    <string name="announcement_download_complete">ಡೌನ್‌ಲೋಡ್ ಪೂರ್ಣಗೊಂಡಿದೆ: %1$s</string>
     <string name="announcement_download_removed">ಡೌನ್‌ಲೋಡ್ ತೆಗೆದುಹಾಕಲಾಗಿದೆ: %1$s</string>
     <string name="app_name">Google News</string>
     <string name="app_rating_flow_negative_dialog_message">ನಿಮ್ಮ ಅಭಿಪ್ರಾಯವು Google News ಅನ್ನು ಸುಧಾರಿಸಲು ನಮಗೆ ಸಹಾಯ ಮಾಡುತ್ತದೆ</string>
@@ -37,7 +47,7 @@
     <string name="app_rating_flow_positive_dialog_message">Play ಸ್ಟೋರ್‌ನಲ್ಲಿ ರೇಟಿಂಗ್ ಮಾಡಲು ಬಯಸುವಿರಾ?</string>
     <string name="app_rating_flow_positive_dialog_title">ನನ್ನ ದಿನವನ್ನು ನೀವು ಯಶಸ್ವಿಗೊಳಿಸಿರುವಿರಿ!</string>
     <string name="app_status_notification_channel_description">Google News ಅಪ್ಲಿಕೇಶನ್‍ನ ಸ್ಥಿತಿಯ ಅಧಿಸೂಚನೆಗಳಿಗಾಗಿ ಸೆಟ್ಟಿಂಗ್‌ಗಳು</string>
-    <string name="app_status_notification_channel_name">ಅಪ್ಲಿಕೇಶನ್ ಸ್ಥಿತಿ</string>
+    <string name="app_status_notification_channel_name">ಅಪ್ಲಿಕೇಶನ್ ಸ್ಥಿತಿ</string>
     <string name="archive_hide_button_description">ಆರ್ಕೈವ್ ಮರೆಮಾಡು</string>
     <string name="archive_issue">ಆರ್ಕೈವ್</string>
     <string name="archive_magazine_remove_pin_toast_text">ನಿಯತಕಾಲಿಕವನ್ನು ಆರ್ಕೈವ್ ಮಾಡಲಾಗಿದೆ ಮತ್ತು ಸಾಧನದಿಂದ ತೆಗೆದುಹಾಕಲಾಗಿದೆ</string>
@@ -65,7 +75,7 @@
     <string name="auto_pin_version_download_lite">ಲೈಟ್ ಆವೃತ್ತಿ ಮಾತ್ರ ಡೌನ್‌ಲೋಡ್ ಮಾಡಿ</string>
     <string name="auto_play_disabled">ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಲಾಗಿದೆ</string>
     <string name="auto_play_enabled">ಸಕ್ರಿಯಗೊಳಿಸಲಾಗಿದೆ</string>
-    <string name="auto_play_videos">ಆಟೋಪ್ಲೇ ವೀಡಿಯೊಗಳು</string>
+    <string name="auto_play_videos">ಆಟೋಪ್ಲೇ ವೀಡಿಯೊಗಳು</string>
     <string name="auto_play_wifi_only">ವೈ-ಫೈ ಮಾತ್ರ</string>
     <string name="autocomplete_already_shared">ಈಗಾಗಲೇ ಹಂಚಿಕೊಳ್ಳಲಾಗಿದೆ</string>
     <string name="blacklist_editor_empty_message">ನೀವು ಏನನ್ನೂ ಮರೆಮಾಡಿಲ್ಲ</string>
@@ -95,15 +105,16 @@
     <string name="common_google_play_services_enable_button">ಸಕ್ರಿಯಗೊಳಿಸು</string>
     <string name="common_google_play_services_enable_text">Google Play ಸೇವೆಗಳನ್ನು ನೀವು ಸಕ್ರಿಯಗೊಳಿಸದ ಹೊರತು %1$s ಕಾರ್ಯನಿರ್ವಹಿಸುವುದಿಲ್ಲ.</string>
     <string name="common_google_play_services_enable_title">Google Play ಸೇವೆಗಳನ್ನು ಸಕ್ರಿಯಗೊಳಿಸಿ</string>
-    <string name="common_google_play_services_install_button">ಸ್ಥಾಪಿಸು</string>
+    <string name="common_google_play_services_install_button">ಇನ್‌ಸ್ಟಾಲ್ ಮಾಡಿ</string>
     <string name="common_google_play_services_install_text">ನಿಮ್ಮ ಸಾಧನದಿಂದ ಕಾಣೆಯಾಗಿರುವ %1$s, Google Play ಸೇವೆಗಳಿಲ್ಲದೆ ರನ್ ಆಗುವುದಿಲ್ಲ.</string>
     <string name="common_google_play_services_install_title">Google Play ಸೇವೆಗಳನ್ನು ಪಡೆಯಿರಿ</string>
+    <string name="common_google_play_services_notification_channel_name">Google Play ಸೇವೆಗಳ ಲಭ್ಯತೆ</string>
     <string name="common_google_play_services_notification_ticker">Google Play ಸೇವೆಗಳ ದೋಷ</string>
     <string name="common_google_play_services_unknown_issue">Google Play ಸೇವೆಗಳಲ್ಲಿ %1$s ಸಮಸ್ಯೆಯನ್ನು ಹೊಂದಿದೆ. ದಯವಿಟ್ಟು ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಿ.</string>
     <string name="common_google_play_services_unsupported_text">ನಿಮ್ಮ ಸಾಧನದ ಮೂಲಕ ಬೆಂಬಲಿಸದಿರುವ Google Play ಸೇವೆಗಳಿಲ್ಲದೆ %1$s ರನ್‌ ಆಗುವುದಿಲ್ಲ.</string>
     <string name="common_google_play_services_update_button">ಅಪ್‌ಡೇಟ್‌ ಮಾಡು</string>
     <string name="common_google_play_services_update_text">ನೀವು Google Play ಸೇವೆಗಳನ್ನು ನವೀಕರಿಸದ ಹೊರತು %1$s ರನ್ ಆಗುವುದಿಲ್ಲ.</string>
-    <string name="common_google_play_services_update_title">Google Play ಸೇವೆಗಳನ್ನು ಅಪ್‌ಡೇಟ್‌ ಮಾಡಿ</string>
+    <string name="common_google_play_services_update_title">Google ಪ್ಲೇ ಸೇವೆಗಳನ್ನು ಅಪ್‌ಡೇಟ್‌ ಮಾಡಿ</string>
     <string name="common_google_play_services_updating_text">Google Play ಸೇವೆಗಳಿಲ್ಲದೆ ಪ್ರಸ್ತುತ ಅಪ್‌ಡೇಟ್ ಆಗುತ್ತಿರುವ %1$s ರನ್ ಆಗುವುದಿಲ್ಲ.</string>
     <string name="common_google_play_services_wear_update_text">Google Play ಸೇವೆಗಳ ಹೊಸ ಆವೃತ್ತಿ ಅಗತ್ಯವಿದೆ. ಸದ್ಯದಲ್ಲೇ ಅದು ತಾನಾಗಿಯೇ ಅಪ್‌ಡೇಟ್ ಆಗುತ್ತದೆ.</string>
     <string name="common_open_on_phone">ಫೋನ್‌ನಲ್ಲಿ ತೆರೆಯಿರಿ</string>
@@ -132,9 +143,9 @@
     <string name="custom_tabs_summary">Google News ಬ್ರೌಸರ್‌ಗೆ ವೆಬ್ ಲಿಂಕ್‌ಗಳನ್ನು ತೆರೆಯಲು ಅನುಮತಿಸಿ</string>
     <string name="data_saver_disabled">ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಲಾಗಿದೆ</string>
     <string name="data_saver_enabled">ಸಕ್ರಿಯಗೊಳಿಸಲಾಗಿದೆ</string>
-    <string name="data_saver_mode">ಡೇಟಾ ಸೇವರ್ ಮೋಡ್‌</string>
+    <string name="data_saver_mode">ಡೇಟಾ ಸೇವರ್ ಮೋಡ್‌</string>
     <string name="data_saver_mode_automatic">ಸ್ವಯಂಚಾಲಿತ</string>
-    <string name="data_saver_mode_enabled">ಡೇಟಾ ಸೇವರ್ ಮೋಡ್‌ ಸಕ್ರಿಯಗೊಳಿಸಲಾಗಿದೆ</string>
+    <string name="data_saver_mode_enabled">ಡೇಟಾ ಸೇವರ್ ಮೋಡ್‌ ಸಕ್ರಿಯಗೊಳಿಸಲಾಗಿದೆ</string>
     <string name="day_and_month">%2$s/%1$s</string>
     <string name="default_language">ಡಿಫಾಲ್ಟ್ ಭಾಷೆ</string>
     <string name="default_language_region">ಡಿಫಾಲ್ಟ್ ಭಾಷೆ ಮತ್ತು ಪ್ರದೇಶ</string>
@@ -179,7 +190,7 @@
     <string name="enable_notifications">ಅಧಿಸೂಚನೆಗಳನ್ನು ಸಕ್ರಿಯಗೊಳಿಸಿ</string>
     <string name="enable_sync_dialog_body">Google News ನ ವಿಷಯವನ್ನು ಹಿನ್ನೆಲೆಯಲ್ಲಿ ರಿಫ್ರೆಶ್ ಮಾಡಲು, ಸಿಂಕ್ ಅನ್ನು ಆನ್ ಮಾಡಲಾಗುತ್ತದೆ.</string>
     <string name="enable_sync_dialog_title">ಸಿಂಕ್ ಅನ್ನು ಆಫ್ ಮಾಡಲಾಗಿದೆ</string>
-    <string name="enumeration_comma">", "</string>
+    <string name="enumeration_comma">,</string>
     <string name="error_blocking_user">ಬಳಕೆದಾರರನ್ನು ನಿರ್ಬಂಧಿಸುವಲ್ಲಿ ದೋಷ ಕಂಡುಬಂದಿದೆ, ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಿ.</string>
     <string name="error_removing_share">ಹಂಚಿಕೆಯನ್ನು ತೆಗೆದುಹಾಕಲು ಸಾಧ್ಯವಾಗಲಿಲ್ಲ, ನಂತರ ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಿ.</string>
     <string name="exo_track_selection_auto">ಸ್ವಯಂ</string>
@@ -231,17 +242,19 @@
     <string name="graph_hint_tap_game">ಪಂದ್ಯವನ್ನು ಟ್ಯಾಪ್‌ ಮಾಡಿ</string>
     <string name="graph_hint_tap_group">ಗುಂಪನ್ನು ಟ್ಯಾಪ್ ಮಾಡಿ</string>
     <string name="headlines_title">ಶೀರ್ಷಿಕೆಗಳು</string>
+    <string name="help">ಸಹಾಯ</string>
     <string name="help_feedback">ಸಹಾಯ ಮತ್ತು ಪ್ರತಿಕ್ರಿಯೆ</string>
     <string name="iap_failure_to_open">ಈ ವಿಷಯದ ಅಪ್ಲಿಕೇಶನ್ ತೆರೆಯಲಾಗುವುದಿಲ್ಲ</string>
     <string name="iap_success_google_news">Google News ಗೆ ಸೇರಿಸಲಾಗಿದೆ</string>
     <string name="image_attribution">ಕ್ರೆಡಿಟ್</string>
+    <string name="image_attribution_content_description">%1$s ಅವರಿಂದ ಫೋಟೋ</string>
     <string name="image_not_available_offline">ಚಿತ್ರವು ಆಫ್‌ಲೈನ್‌ನಲ್ಲಿ ಲಭ್ಯವಿಲ್ಲ</string>
     <string name="language_reset">ಭಾಷೆಯನ್ನು ಮರುಹೊಂದಿಸಲಾಗಿದೆ</string>
     <string name="launcher_app_name">ಸುದ್ದಿ</string>
     <string name="libraries_material_featurehighlight_dismiss">ವಜಾಗೊಳಿಸಿ</string>
     <string name="listen">ಆಲಿಸು</string>
     <string name="live">ಲೈವ್</string>
-    <string name="loading">ಲೋಡ್ ಆಗುತ್ತಿದೆ...</string>
+    <string name="loading">ಲೋಡ್ ಆಗುತ್ತಿದೆ...</string>
     <string name="location_permission_rationale">ನಿಮಗೆ ಹೆಚ್ಚು ಸೂಕ್ತವಾದ ಹವಾಮಾನ ವರದಿಗಳು, ಕ್ರೀಡೆಗಳ ಸ್ಕೋರ್‌ಗಳು ಮತ್ತು ಸ್ಥಳೀಯ ಸುದ್ದಿಯನ್ನು ನೀಡಲು Google News ಸಾಧನದ ಸ್ಥಳವನ್ನು ಬಳಸಿಕೊಳ್ಳುತ್ತದೆ</string>
     <string name="location_permission_rationale_action">ಮುಂದೆ</string>
     <string name="location_permission_rationale_title">ಸ್ಥಳ</string>
@@ -268,6 +281,7 @@
     <string name="magazines_toggle_to_print_mode">ಮುದ್ರಣ ಆವೃತ್ತಿಗೆ ಟಾಗಲ್ ಮಾಡಿ</string>
     <string name="marked_as_not_interested">ಇಂತಹುದೇ ಕೆಲವು ಸುದ್ದಿಗಳನ್ನು ನೀವು ನೋಡುತ್ತೀರಿ</string>
     <string name="match_in_list_content_description">%2$d ರಲ್ಲಿ %1$d ಪಂದ್ಯ</string>
+    <string name="media_mute">ಮ್ಯೂಟ್</string>
     <string name="media_next">ಮುಂದೆ</string>
     <string name="media_next_unavailable">ಮುಂದಿನ ಐಟಂ ಲಭ್ಯವಿಲ್ಲ</string>
     <string name="media_notification_channel_description">Google News ಮಾಧ್ಯಮ ಅಧಿಸೂಚನೆಗಳಿಗಾಗಿ ಸೆಟ್ಟಿಂಗ್‌ಗಳು</string>
@@ -278,6 +292,7 @@
     <string name="media_previous_unavailable">ಹಿಂದಿನ ಐಟಂ ಲಭ್ಯವಿಲ್ಲ</string>
     <string name="media_progress">%2$s ರಲ್ಲಿ %1$s</string>
     <string name="media_stop">ನಿಲ್ಲಿಸಿ</string>
+    <string name="media_unmute">ಅನ್‌ಮ್ಯೂಟ್ ಮಾಡಿ</string>
     <string name="mini_cards">ಮಿನಿ ಕಾರ್ಡ್‌ಗಳು</string>
     <string name="more_info">ಹೆಚ್ಚಿನ ಮಾಹಿತಿ</string>
     <string name="more_options_description">ಇನ್ನಷ್ಟು ಆಯ್ಕೆಗಳು</string>
@@ -285,14 +300,13 @@
     <string name="move_to_top">ಪ್ರಾರಂಭಕ್ಕೆ ಸರಿಸಿ</string>
     <string name="must_be_online">ನೀವು ಇಂಟರ್ನೆಟ್‌ಗೆ ಸಂಪರ್ಕಗೊಂಡಿರುವಿರಿ ಎಂಬುದನ್ನು ಖಚಿತಪಡಿಸಿಕೊಳ್ಳಿ</string>
     <string name="my_activity">ನನ್ನ ಚಟುವಟಿಕೆ</string>
-    <string name="my_activity_summary">%1$s ರಂತೆ ಸೈನ್ ಇನ್ ಮಾಡಲಾಗಿದೆ</string>
     <string name="nativeAd_sponsored">ಪ್ರಾಯೋಜಿಸಿರುವುದು</string>
     <string name="native_store_title">ಸುದ್ದಿಸಂಗಾತಿ</string>
     <string name="need_to_rotate_orientation">ಈ ವಿಷಯವನ್ನು ಪ್ರದರ್ಶಿಸಲು ನಿಮ್ಮ ಸಾಧನವನ್ನು ತಿರುಗಿಸಿ.</string>
     <string name="needed_to_rotate_orientation">ಈ ವಿಷಯವನ್ನು ಪ್ರದರ್ಶಿಸಲು ಸಾಧನವು ಸ್ವಯಂ-ತಿರುಗಬೇಕು.</string>
     <string name="new_magazine_downloadable_notification">%1$s ಸಂಚಿಕೆಗಳು ಲಭ್ಯವಿದೆ</string>
     <string name="new_multi_magazine_downloadable_notification_title">%1$s ಹೊಸ ಸಂಚಿಕೆಗಳು ಲಭ್ಯವಿದೆ</string>
-    <string name="new_multi_magazine_notification_content">ನಿಮ್ಮ ನಿಯತಕಾಲಿಕೆಗಳನ್ನು ನೋಡಲು ಟ್ಯಾಪ್ ಮಾಡಿ</string>
+    <string name="new_multi_magazine_notification_content">ನಿಮ್ಮ ನಿಯತಕಾಲಿಕೆಗಳನ್ನು ನೋಡಲು ಟ್ಯಾಪ್ ಮಾಡಿ</string>
     <string name="news_notification_channel_description">Google News ಸುದ್ದಿಯ ಅಧಿಸೂಚನೆಗಾಗಿ ಸೆಟ್ಟಿಂಗ್‌ಗಳು</string>
     <string name="news_notification_channel_name">ಸುದ್ದಿಗಳು</string>
     <string name="next_page_content_description">ಮುಂದಿನ ಪುಟಕ್ಕೆ ಹೋಗಿ</string>
@@ -316,6 +330,7 @@
     <string name="notification_subscription_enabled">%1$s ಗಾಗಿ ಅಧಿಸೂಚನೆಗಳನ್ನು ಸಕ್ರಿಯಗೊಳಿಸಲಾಗಿದೆ</string>
     <string name="notification_undo_text">ರದ್ದುಮಾಡಿ</string>
     <string name="notifications">ಅಧಿಸೂಚನೆಗಳು</string>
+    <string name="notifications_and_shared">ಅಧಿಸೂಚನೆಗಳು ಮತ್ತು ಹಂಚಿಕೊಂಡ ಐಟಂಗಳು</string>
     <string name="notifications_settings_menu_title">ಅಧಿಸೂಚನೆಗಳು</string>
     <string name="now_following_topic">ನೀವು ಈ ವಿಷಯವನ್ನು ಅನುಸರಿಸುತ್ತಿದ್ದೀರಿ</string>
     <string name="ok">ಸರಿ</string>
@@ -328,8 +343,8 @@
     <string name="onboarding_skip">ಪ್ರಾರಂಭಿಸೋಣ</string>
     <string name="onboarding_subtitle_1">ತಲೆಬರಹಗಳು</string>
     <string name="onboarding_subtitle_2">ಅಭಿಪ್ರಾಯಗಳು</string>
-    <string name="onboarding_subtitle_3">ವಿಶ್ಲೇಷಣೆ</string>
-    <string name="onboarding_subtitle_4">ಸ್ಥಳೀಯ ಸುದ್ದಿಗಳು</string>
+    <string name="onboarding_subtitle_3">ವಿಶ್ಲೇಷಣೆ</string>
+    <string name="onboarding_subtitle_4">ಸ್ಥಳೀಯ ಸುದ್ದಿಗಳು</string>
     <string name="onboarding_subtitle_5">ಟ್ರೆಂಡ್‌ಗಳು</string>
     <string name="onboarding_title2">ಹೊಚ್ಚ ಹೊಸ Google News ಅನ್ನು ವೀಕ್ಷಿಸಿ</string>
     <string name="open_source_licenses">ಓಪನ್ ಸೋರ್ಸ್ ಪರವಾನಗಿಗಳು</string>
@@ -403,12 +418,6 @@
     <string name="removed_from_read_later">ಮೆಚ್ಚಿನವುಗಳಿಂದ ಸುದ್ದಿಯನ್ನು ತೆಗೆದುಹಾಕಲಾಗಿದೆ</string>
     <string name="report">ವರದಿ ಮಾಡು</string>
     <string name="retry">ಮರುಪ್ರಯತ್ನಿಸು</string>
-    <string name="s1">ಚಿತ್ರ ಉಳಿಸಿ</string>
-    <string name="s2">ಚಿತ್ರದ ಗ್ಯಾಲರಿಯಲ್ಲಿ ಚಿತ್ರ ಸಂಗ್ರಹಿಸಿಡಲು ಜಾಹೀರಾತಿಗೆ ಅನುಮತಿಸುವುದೇ?</string>
-    <string name="s3">ಸಮ್ಮತಿಸಿ</string>
-    <string name="s4">ನಿರಾಕರಿಸಿ</string>
-    <string name="s5">ಕ್ಯಾಲೆಂಡರ್ ಈವೆಂಟ್ ರಚಿಸಿ</string>
-    <string name="s6">ಕ್ಯಾಲೆಂಡರ್ ಈವೆಂಟ್ ರಚಿಸಲು ಜಾಹೀರಾತಿಗೆ ಅನುಮತಿಸುವುದೇ?</string>
     <string name="saved_tab_title">ಉಳಿಸಲಾದ ಸುದ್ದಿಗಳು</string>
     <string name="sd_card_not_available_dialog_body">ಬದಲಿಗೆ ವಿಷಯವನ್ನು ನಿಮ್ಮ ಸಾಧನದ ಆಂತರಿಕ ಸಂಗ್ರಹಣೆಗೆ ಡೌನ್‌ಲೋಡ್ ಮಾಡಲಾಗುತ್ತದೆ.</string>
     <string name="sd_card_not_available_dialog_title">SD ಕಾರ್ಡ್ ಲಭ್ಯವಿಲ್ಲ</string>
@@ -500,7 +509,7 @@
     <string name="shared_something">ನೀವು ಯಾವುದೋ ವಿಷಯವನ್ನು ಹಂಚಿಕೊಂಡಿದ್ದೀರಿ</string>
     <string name="shared_with_you">&lt;b>%1$s&lt;/b> ಇಂದ</string>
     <string name="shares">ಹಂಚುವಿಕೆಗಳು</string>
-    <string name="sharing_not_supported">ಪತ್ರಿಕಾ ಲೇಖನಗಳನ್ನು ಹಂಚಿಕೊಳ್ಳಲು ಸಾಧ್ಯವಿಲ್ಲ</string>
+    <string name="sharing_not_supported">ಪತ್ರಿಕಾ ಲೇಖನಗಳನ್ನು ಹಂಚಿಕೊಳ್ಳಲು ಸಾಧ್ಯವಿಲ್ಲ</string>
     <string name="show_only_owned_issues">ನಾನು ಹೊಂದಿರುವ ಸಂಚಿಕೆಗಳನ್ನು ಮಾತ್ರ ತೋರಿಸಿ</string>
     <string name="slideshow_progress">%1$s / %2$s</string>
     <string name="sort">ವಿಂಗಡಿಸು</string>
@@ -530,7 +539,7 @@
     <string name="sync_failed_notification_body">ಸಾಕಷ್ಟು ಸಂಗ್ರಹಣೆ ಸ್ಥಳ ಇಲ್ಲ</string>
     <string name="sync_failed_notification_title">Google News ಅನ್ನು ರಿಫ್ರೆಶ್ ಮಾಡಲು ಸಾಧ್ಯವಾಗುತ್ತಿಲ್ಲ.</string>
     <string name="sync_progress_notification_title">Google News ವಿಷಯವನ್ನು ಡೌನ್‌ಲೋಡ್ ಮಾಡಲಾಗುತ್ತಿದೆ</string>
-    <string name="team_eliminated">ತೆಗೆದುಹಾಕಿದ್ದು</string>
+    <string name="team_eliminated">ತೆಗೆದುಹಾಕಲಾಗಿದೆ</string>
     <string name="team_more_coverage">%s ಕುರಿತು ಇನ್ನಷ್ಟು ಕವರೇಜ್‌</string>
     <string name="team_unknown">TBD</string>
     <string name="teams_page_title">ತಂಡಗಳು</string>
@@ -559,7 +568,7 @@
     <string name="unsubscribe">ಅನ್‌ಸಬ್‌ಸ್ಕ್ರೈಬ್ ಮಾಡಿ</string>
     <string name="update_play">ಈ ವಿಷಯವನ್ನು ಖರೀದಿಸಲು Google Play ಸ್ಟೋರ್ ಅನ್ನು ನೀವು ಅಪ್‌ಡೇಟ್ ಮಾಡಬೇಕು.</string>
     <string name="upgrade_required_short_message">ಹೊಸ ವಿಷಯಕ್ಕೆ ಅಪ್‌ಗ್ರೇಡ್ ಅಗತ್ಯವಿದೆ</string>
-    <string name="upgrade_status_bar_notification_body">Google Play ಸುದ್ದಿಸಂಗಾತಿಯು ಇದೀಗ Google News ಆಗಿದೆ</string>
+    <string name="upgrade_status_bar_notification_body">Google Play ಸುದ್ದಿ ಸಂಗಾತಿಯು ಇದೀಗ Google News ಆಗಿದೆ</string>
     <string name="upgrade_status_bar_notification_title">Google ಸುದ್ದಿಗೆ ಸ್ವಾಗತ</string>
     <string name="usage_policy">ಬಳಕೆಯ ನೀತಿ</string>
     <string name="usage_policy_description">Google News ಅನ್ನು ವೈಯಕ್ತಿಕ ಮತ್ತು ವಾಣಿಜ್ಯೇತರ ಉದ್ದೇಶಗಳಿಗಾಗಿ ಮಾತ್ರ ಬಳಸಿಕೊಳ್ಳಬೇಕು.</string>
@@ -581,7 +590,7 @@
     <string name="verify_your_subscription_toast_text">ನಿಮ್ಮ ಚಂದಾದಾರಿಕೆಯನ್ನು ಪರಿಶೀಲಿಸಿ</string>
     <string name="via_twitter_placeholder_kicker">%1$s ಮೂಲಕ</string>
     <string name="video">ವೀಡಿಯೊ</string>
-    <string name="video_error">ವೀಡಿಯೊವನ್ನು ಪ್ಲೇ ಮಾಡಲು ಸಾಧ್ಯವಿಲ್ಲ. ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಿ.</string>
+    <string name="video_error">ವೀಡಿಯೊ ಪ್ಲೇ ಮಾಡಲಾಗುವುದಿಲ್ಲ. ಮತ್ತೆ ಪ್ರಯತ್ನಿಸಿ.</string>
     <string name="view_all">ಎಲ್ಲವನ್ನೂ ವೀಕ್ಷಿಸಿ</string>
     <string name="volume_off">ವಾಲ್ಯೂಮ್ ಆಫ್‌</string>
     <string name="volume_on">ವಾಲ್ಯೂಮ್ ಅನ್‌</string>

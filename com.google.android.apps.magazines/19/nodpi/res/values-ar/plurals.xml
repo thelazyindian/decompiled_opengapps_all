@@ -156,7 +156,7 @@
         <item quantity="other">قبل %1$s يوم</item>
         <item quantity="zero">قبل %1$s يوم</item>
         <item quantity="one">قبل يوم واحد</item>
-        <item quantity="two">قبل يومين</item>
+        <item quantity="two">قبل يومين (%1$s)</item>
         <item quantity="few">قبل %1$s أيام</item>
         <item quantity="many">قبل %1$s يومًا</item>
     </plurals>
@@ -217,12 +217,12 @@
         <item quantity="many">لقد قرأت &lt;b>%1$s مقالة مجانية&lt;/b> في هذه الفترة</item>
     </plurals>
     <plurals name="zero_free_articles_left_today">
-        <item quantity="other">لقد قرأت &lt;b>%1$s مقالة مجانية&lt;/b> اليوم</item>
-        <item quantity="zero">لقد قرأت &lt;b>%1$s مقالة مجانية&lt;/b> اليوم</item>
-        <item quantity="one">لقد قرأت &lt;b>مقالة مجانية واحدة&lt;/b> اليوم</item>
-        <item quantity="two">لقد قرأت &lt;b>مقالتين مجانيتين (%1$s)&lt;/b> اليوم</item>
-        <item quantity="few">لقد قرأت &lt;b>%1$s مقالات مجانية&lt;/b> اليوم</item>
-        <item quantity="many">لقد قرأت &lt;b>%1$s مقالة مجانية&lt;/b> اليوم</item>
+        <item quantity="other">لقد قرأتَ اليوم &lt;b>المقالات المتاحة لك مجانًا والبالغ عددها %1$s&lt;/b>.</item>
+        <item quantity="zero">لقد قرأتَ اليوم &lt;b>%1$s مقالة متاحة لك مجانًا&lt;/b>.</item>
+        <item quantity="one">لقد قرأتَ اليوم &lt;b>المقالة الواحدة (%1$s) المتاحة لك مجانًا&lt;/b>.</item>
+        <item quantity="two">لقد قرأتَ اليوم &lt;b>المقالتين (%1$s) المتاحتين لك مجانًا&lt;/b>.</item>
+        <item quantity="few">لقد قرأتَ اليوم &lt;b>المقالات المتاحة لك مجانًا والبالغ عددها %1$s&lt;/b>.</item>
+        <item quantity="many">لقد قرأتَ اليوم &lt;b>المقالات المتاحة لك مجانًا والبالغ عددها %1$s&lt;/b>.</item>
     </plurals>
     <plurals name="zero_free_articles_left_week">
         <item quantity="other">لقد قرأت &lt;b>%1$s مقالة مجانية&lt;/b> هذا الأسبوع</item>

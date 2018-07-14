@@ -7,6 +7,16 @@
     <string name="abc_activitychooserview_choose_application">Aukeratu aplikazio bat</string>
     <string name="abc_capital_off">DESAKTIBATUTA</string>
     <string name="abc_capital_on">AKTIBATUTA</string>
+    <string name="abc_menu_alt_shortcut_label">Alt +</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ktrl +</string>
+    <string name="abc_menu_delete_shortcut_label">Ezabatu</string>
+    <string name="abc_menu_enter_shortcut_label">Sartu</string>
+    <string name="abc_menu_function_shortcut_label">Funtzioa +</string>
+    <string name="abc_menu_meta_shortcut_label">Meta +</string>
+    <string name="abc_menu_shift_shortcut_label">Maius +</string>
+    <string name="abc_menu_space_shortcut_label">Zuriunea</string>
+    <string name="abc_menu_sym_shortcut_label">Sym +</string>
+    <string name="abc_prepend_shortcut_label">Menua +</string>
     <string name="abc_search_hint">Bilatu…</string>
     <string name="abc_searchview_description_clear">Garbitu kontsulta</string>
     <string name="abc_searchview_description_search">Bilatu</string>
@@ -25,6 +35,7 @@
     <string name="common_google_play_services_install_button">Instalatu</string>
     <string name="common_google_play_services_install_text">%1$s ez da exekutatuko Google Play zerbitzurik gabe, baina ez dituzu gailuan.</string>
     <string name="common_google_play_services_install_title">Lortu Google Play zerbitzuak</string>
+    <string name="common_google_play_services_notification_channel_name">Google Play zerbitzuen erabilgarritasuna</string>
     <string name="common_google_play_services_notification_ticker">Google Play zerbitzuen errorea</string>
     <string name="common_google_play_services_unknown_issue">%1$s aplikazioak arazoak ditu Google Play zerbitzuekin. Saiatu berriro.</string>
     <string name="common_google_play_services_unsupported_text">%1$s aplikazioa ezin da erabili Google Play zerbitzurik gabe, eta zure gailua ez da zerbitzuokin bateragarria.</string>
@@ -40,10 +51,4 @@
     <string name="libraries_material_featurehighlight_dismiss">Baztertu</string>
     <string name="place_autocomplete_clear_button">Garbitu bilaketa</string>
     <string name="place_autocomplete_search_hint">Bilaketa</string>
-    <string name="s1">Gorde irudia</string>
-    <string name="s2">Irudia irudien galerian gordetzea baimendu nahi diozu iragarkiari?</string>
-    <string name="s3">Onartu</string>
-    <string name="s4">Baztertu</string>
-    <string name="s5">Sortu egutegiko gertaera bat</string>
-    <string name="s6">Egutegiko gertaera bat sortzea baimendu nahi diozu iragarkiari?</string>
 </resources>

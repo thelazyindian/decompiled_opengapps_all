@@ -9,6 +9,16 @@
     <string name="abc_activitychooserview_choose_application">Velg en app</string>
     <string name="abc_capital_off">AV</string>
     <string name="abc_capital_on">PÅ</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">delete</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">Funksjon+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">mellomrom</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Meny+</string>
     <string name="abc_search_hint">Søk …</string>
     <string name="abc_searchview_description_clear">Slett søket</string>
     <string name="abc_searchview_description_search">Søk</string>
@@ -98,6 +108,7 @@
     <string name="common_google_play_services_install_button">Installer</string>
     <string name="common_google_play_services_install_text">%1$s kan ikke kjøre uten Google Play-tjenester, som ikke er installert på enheten din.</string>
     <string name="common_google_play_services_install_title">Installer Google Play-tjenester</string>
+    <string name="common_google_play_services_notification_channel_name">Google Play Tjenester-tilgjengelighet</string>
     <string name="common_google_play_services_notification_ticker">Google Play Tjenester-feil</string>
     <string name="common_google_play_services_unknown_issue">%1$s har problemer med Google Play-tjenester. Prøv på nytt.</string>
     <string name="common_google_play_services_unsupported_text">%1$s kan ikke kjøre uten Google Play-tjenester, som ikke støttes av enheten din.</string>
@@ -179,7 +190,7 @@
     <string name="enable_notifications">Slå på varsler</string>
     <string name="enable_sync_dialog_body">For å laste inn Google Nyheter-innhold på nytt i bakgrunnen blir synkronisering slått på.</string>
     <string name="enable_sync_dialog_title">Synkronisering er slått av</string>
-    <string name="enumeration_comma">", "</string>
+    <string name="enumeration_comma">,</string>
     <string name="error_blocking_user">Kunne ikke blokkere brukeren – prøv igjen.</string>
     <string name="error_removing_share">Kunne ikke fjerne delingen – prøv igjen.</string>
     <string name="exo_track_selection_auto">Automatisk</string>
@@ -236,6 +247,7 @@
     <string name="iap_failure_to_open">Appen for dette innholdet kan ikke åpnes</string>
     <string name="iap_success_google_news">Lagt til i Google Nyheter</string>
     <string name="image_attribution">Bildet er tatt av</string>
+    <string name="image_attribution_content_description">Foto av %1$s</string>
     <string name="image_not_available_offline">Bildet er ikke tilgjengelig uten nett</string>
     <string name="language_reset">Språket er tilbakestilt</string>
     <string name="launcher_app_name">Nyheter</string>
@@ -269,6 +281,7 @@
     <string name="magazines_toggle_to_print_mode">Bytt til fullversjonen</string>
     <string name="marked_as_not_interested">Du kommer til å se færre slike nyhetssaker</string>
     <string name="match_in_list_content_description">Kamp %1$d av %2$d</string>
+    <string name="media_mute">Slå av lyden</string>
     <string name="media_next">Neste</string>
     <string name="media_next_unavailable">Det neste elementet er ikke tilgjengelig</string>
     <string name="media_notification_channel_description">Innstillinger for medievarsler i Google Nyheter</string>
@@ -279,6 +292,7 @@
     <string name="media_previous_unavailable">Det forrige elementet er ikke tilgjengelig</string>
     <string name="media_progress">%1$s av %2$s</string>
     <string name="media_stop">Stopp</string>
+    <string name="media_unmute">Slå på lyden</string>
     <string name="mini_cards">Minikort</string>
     <string name="more_info">Mer info</string>
     <string name="more_options_description">Flere alternativer</string>
@@ -286,9 +300,8 @@
     <string name="move_to_top">Flytt til begynnelsen</string>
     <string name="must_be_online">Kontrollér at du er koblet til Internett</string>
     <string name="my_activity">Min aktivitet</string>
-    <string name="my_activity_summary">Pålogget som %1$s</string>
     <string name="nativeAd_sponsored">Sponset</string>
-    <string name="native_store_title">Aviskiosk</string>
+    <string name="native_store_title">Tidsskrifter</string>
     <string name="need_to_rotate_orientation">Rotér enheten din for å vise dette innholdet.</string>
     <string name="needed_to_rotate_orientation">Enheten måtte rotere automatisk for å vise dette innholdet.</string>
     <string name="new_magazine_downloadable_notification">%1$s-utgaven er tilgjengelig</string>
@@ -317,6 +330,7 @@
     <string name="notification_subscription_enabled">Varsler er slått på for %1$s</string>
     <string name="notification_undo_text">Angre</string>
     <string name="notifications">Varsler</string>
+    <string name="notifications_and_shared">Varsler og delt innhold</string>
     <string name="notifications_settings_menu_title">Varsler</string>
     <string name="now_following_topic">Du følger dette emnet</string>
     <string name="ok">OK</string>
@@ -371,7 +385,7 @@
     <string name="psv_challenge_failure_body">%1$s kunne ikke bekrefte abonnementet med den oppgitte informasjonen.</string>
     <string name="psv_challenge_failure_instructions">Ta kontakt med &lt;a href=\"%2$s\">%1$s&lt;/a> for å få hjelp, eller prøv på nytt.</string>
     <string name="psv_challenge_failure_title">Kunne ikke bekrefte abonnementet</string>
-    <string name="psv_challenge_reading_history_privacy_info">Fordi du er abonnent, mottar %1$s leseloggen din og kan bruke den i samsvar med personvernreglene sine.</string>
+    <string name="psv_challenge_reading_history_privacy_info">Fordi du er abonnent, mottar %1$s %1$s-leseloggen din og kan bruke den i samsvar med personvernreglene sine.</string>
     <string name="psv_challenge_title">Bekreft abonnementet</string>
     <string name="psv_decline_button">Nei takk</string>
     <string name="psv_pending_title">Hvis du vil ha full tilgang til %1$s, må du bekrefte abonnementet ditt</string>
@@ -414,12 +428,6 @@
     <string name="removed_from_read_later">Nyhetssaken er fjernet fra favorittene</string>
     <string name="report">Rapportér</string>
     <string name="retry">Prøv på nytt</string>
-    <string name="s1">Lagre bilde</string>
-    <string name="s2">Vil du la annonsen lagre bildet i bildegalleriet?</string>
-    <string name="s3">Godta</string>
-    <string name="s4">Avslå</string>
-    <string name="s5">Opprett kalenderaktivitet</string>
-    <string name="s6">Vil du la annonsen opprette en kalenderaktivitet?</string>
     <string name="saved_tab_title">Lagrede nyhetssaker</string>
     <string name="sd_card_not_available_dialog_body">Innholdet lastes ned til enhetens internminne i stedet.</string>
     <string name="sd_card_not_available_dialog_title">SD-kortet er ikke tilgjengelig</string>

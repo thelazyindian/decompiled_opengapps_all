@@ -16,7 +16,7 @@
     <integer name="design_tab_indicator_anim_duration_ms">300</integer>
     <integer name="google_btn_anim_delay_ms">100</integer>
     <integer name="google_btn_anim_duration_ms">100</integer>
-    <integer name="google_play_services_version">11400000</integer>
+    <integer name="google_play_services_version">12525000</integer>
     <integer name="hide_password_duration">320</integer>
     <integer name="home_screen_icon_shadow_opacity_percent">24</integer>
     <integer name="libraries_material_featurehighlight_pulse_base_alpha">138</integer>

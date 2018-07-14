@@ -7,6 +7,16 @@
     <string name="abc_activitychooserview_choose_application">Избери апликација</string>
     <string name="abc_capital_off">ИСКЛУЧЕНО</string>
     <string name="abc_capital_on">ВКЛУЧЕНО</string>
+    <string name="abc_menu_alt_shortcut_label">копче Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">копче Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">избриши</string>
+    <string name="abc_menu_enter_shortcut_label">копче enter</string>
+    <string name="abc_menu_function_shortcut_label">копче Function+</string>
+    <string name="abc_menu_meta_shortcut_label">копче Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">копче Shift+</string>
+    <string name="abc_menu_space_shortcut_label">вселена</string>
+    <string name="abc_menu_sym_shortcut_label">копче Sym+</string>
+    <string name="abc_prepend_shortcut_label">Мени+</string>
     <string name="abc_search_hint">Пребарување…</string>
     <string name="abc_searchview_description_clear">Исчисти барање</string>
     <string name="abc_searchview_description_search">Пребарај</string>
@@ -26,6 +36,7 @@
     <string name="common_google_play_services_install_button">Инсталирај</string>
     <string name="common_google_play_services_install_text">%1$s нема да се извршува без услугите на Google Play што ги нема на уредот.</string>
     <string name="common_google_play_services_install_title">Преземи ги услугите на Google Play</string>
+    <string name="common_google_play_services_notification_channel_name">Достапност на услугите на Google Play</string>
     <string name="common_google_play_services_notification_ticker">Грешка на услугите на Google Play</string>
     <string name="common_google_play_services_unknown_issue">%1$s има проблеми со услугите на Google Play. Обидете се повторно.</string>
     <string name="common_google_play_services_unsupported_text">%1$s нема да се извршува без услугите на Google Play, што не се подржани од уредов.</string>
@@ -41,12 +52,6 @@
     <string name="libraries_material_featurehighlight_dismiss">Отфрли</string>
     <string name="place_autocomplete_clear_button">Исчисти го пребарувањето</string>
     <string name="place_autocomplete_search_hint">Пребарај</string>
-    <string name="s1">Зачувај ја сликата</string>
-    <string name="s2">Дали дозволувате рекламата да ја зачува сликата во „Галеријата со слики“?</string>
-    <string name="s3">Прифати</string>
-    <string name="s4">Одбиј</string>
-    <string name="s5">Создај настан во календарот</string>
-    <string name="s6">Дали дозволувате рекламата да создаде настан во календарот?</string>
     <string name="sendkit_ui_about_suggested_people_info">To make sharing easier, Google suggests people to share with based on your interactions</string>
     <string name="sendkit_ui_about_top_suggestions">About suggested people</string>
     <string name="sendkit_ui_add_message_title">Додајте порака</string>

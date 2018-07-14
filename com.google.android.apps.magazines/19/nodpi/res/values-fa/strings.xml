@@ -9,6 +9,16 @@
     <string name="abc_activitychooserview_choose_application">انتخاب برنامه</string>
     <string name="abc_capital_off">خاموش</string>
     <string name="abc_capital_on">روشن</string>
+    <string name="abc_menu_alt_shortcut_label">‎Alt+‎</string>
+    <string name="abc_menu_ctrl_shortcut_label">‎Ctrl+‎</string>
+    <string name="abc_menu_delete_shortcut_label">delete</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">‎Function+‎</string>
+    <string name="abc_menu_meta_shortcut_label">‎Meta+‎</string>
+    <string name="abc_menu_shift_shortcut_label">‎Shift+‎</string>
+    <string name="abc_menu_space_shortcut_label">کلید فاصله</string>
+    <string name="abc_menu_sym_shortcut_label">‎Sym+‎</string>
+    <string name="abc_prepend_shortcut_label">منو+</string>
     <string name="abc_search_hint">جستجو…</string>
     <string name="abc_searchview_description_clear">پاک کردن عبارت جستجو</string>
     <string name="abc_searchview_description_search">جستجو</string>
@@ -98,6 +108,7 @@
     <string name="common_google_play_services_install_button">نصب</string>
     <string name="common_google_play_services_install_text">‏%1$s بدون خدمات Google Play که در دستگاه شما وجود ندارد اجرا نمی‌شود.</string>
     <string name="common_google_play_services_install_title">‏دریافت سرویس‌های Google Play</string>
+    <string name="common_google_play_services_notification_channel_name">‏قابلیت دسترسی خدمات Google Play</string>
     <string name="common_google_play_services_notification_ticker">‏خطا در خدمات Google Play</string>
     <string name="common_google_play_services_unknown_issue">‏%1$s برای استفاده از خدمات Google Play با مشکل روبرو است. لطفاً دوباره امتحان کنید.</string>
     <string name="common_google_play_services_unsupported_text">‏%1$s بدون خدمات Google Play که در دستگاه شما پشتیبانی نمی‌شود، اجرا نخواهد شد.</string>
@@ -154,7 +165,7 @@
     <string name="download_when_connected_toast_text">وقتی اتصال داده فعال داشته باشید، اخبار Google محتوا را بارگیری می‌کند.</string>
     <string name="download_when_on_wifi_toast_text">وقتی اتصال Wi-Fi داشته باشید، اخبار Google محتوا را بارگیری می‌کند.</string>
     <string name="download_while_charging_only">بارگیری فقط هنگام شارژ شدن</string>
-    <string name="download_while_charging_only_description">برای کاهش مصرف باتری، فقط هنگام شارژ بارگیری کنید</string>
+    <string name="download_while_charging_only_description">برای کاهش استفاده از باتری، فقط هنگام شارژ بارگیری کنید</string>
     <string name="downloaded_only">فقط موارد بارگیری‌شده</string>
     <string name="downloading_capitalized">در حال بارگیری</string>
     <string name="edition_added_location">این مکان را دنبال می‌کنید</string>
@@ -179,7 +190,7 @@
     <string name="enable_notifications">فعال کردن اعلان‌ها</string>
     <string name="enable_sync_dialog_body">برای بازخوانی محتوای اخبار Google در پس‌زمینه، همگام‌سازی روشن می‌شود.</string>
     <string name="enable_sync_dialog_title">همگام‌سازی خاموش است</string>
-    <string name="enumeration_comma">"، "</string>
+    <string name="enumeration_comma">،</string>
     <string name="error_blocking_user">بروز خطا هنگام مسدود کردن کاربر؛ لطفاً دوباره امتحان کنید.</string>
     <string name="error_removing_share">هم‌رسانی برداشته نشد، لطفاً دوباره امتحان کنید.</string>
     <string name="exo_track_selection_auto">خودکار</string>
@@ -236,6 +247,7 @@
     <string name="iap_failure_to_open">برنامه این محتوا باز نمی‌شود</string>
     <string name="iap_success_google_news">به اخبار Google اضافه شد</string>
     <string name="image_attribution">اعتبار</string>
+    <string name="image_attribution_content_description">عکس توسط %1$s</string>
     <string name="image_not_available_offline">تصاویر به صورت آفلاین موجود نیستند</string>
     <string name="language_reset">زبان بازنشانی شده است</string>
     <string name="launcher_app_name">News</string>
@@ -269,6 +281,7 @@
     <string name="magazines_toggle_to_print_mode">تعویض به نسخه چاپی</string>
     <string name="marked_as_not_interested">داستان‌های کمتری مانند این خواهید دید</string>
     <string name="match_in_list_content_description">مسابقه %1$d از %2$d…</string>
+    <string name="media_mute">بی‌صدا</string>
     <string name="media_next">بعدی</string>
     <string name="media_next_unavailable">مورد بعدی در دسترس نیست</string>
     <string name="media_notification_channel_description">تنظیمات برای اعلان‌های رسانه اخبار Google</string>
@@ -279,6 +292,7 @@
     <string name="media_previous_unavailable">مورد قبلی در دسترس نیست</string>
     <string name="media_progress">%1$s از %2$s</string>
     <string name="media_stop">توقف</string>
+    <string name="media_unmute">لغو بی‌صدا</string>
     <string name="mini_cards">کارت‌های کوچک</string>
     <string name="more_info">اطلاعات بیشتر</string>
     <string name="more_options_description">گزینه‌های بیشتر</string>
@@ -286,9 +300,8 @@
     <string name="move_to_top">انتقال به ابتدا</string>
     <string name="must_be_online">مطمئن شوید به اینترنت متصل هستید</string>
     <string name="my_activity">فعالیت من</string>
-    <string name="my_activity_summary">واردشده به سیستم به‌عنوان %1$s</string>
     <string name="nativeAd_sponsored">دارای حامی مالی</string>
-    <string name="native_store_title">دکه مطبوعاتی</string>
+    <string name="native_store_title">مطبوعات</string>
     <string name="need_to_rotate_orientation">برای نمایش این محتوا، دستگاهتان را بچرخانید.</string>
     <string name="needed_to_rotate_orientation">دستگاه به چرخش خودکار برای نمایش این محتوا نیاز دارد.</string>
     <string name="new_magazine_downloadable_notification">%1$s نسخه موجود است</string>
@@ -317,6 +330,7 @@
     <string name="notification_subscription_enabled">اعلان‌های %1$s فعال شد</string>
     <string name="notification_undo_text">واگرد</string>
     <string name="notifications">اعلان‌ها</string>
+    <string name="notifications_and_shared">اعلان‌ها و موارد هم‌رسانی‌شده</string>
     <string name="notifications_settings_menu_title">اعلان‌ها</string>
     <string name="now_following_topic">این موضوع را دنبال می‌‌کنید</string>
     <string name="ok">تأیید</string>
@@ -362,9 +376,9 @@
     <string name="progress_label_game_one">مسابقه ۱</string>
     <string name="progress_label_game_three">مسابقه ۳</string>
     <string name="progress_label_game_two">مسابقه ۲</string>
-    <string name="progress_label_quarter_final">یک‌چهارم‌نهایی</string>
+    <string name="progress_label_quarter_final">یک چهارم نهایی</string>
     <string name="progress_label_round_of_sixteen">دور ۱۶</string>
-    <string name="progress_label_semi_final">نیمه‌نهایی</string>
+    <string name="progress_label_semi_final">نیمه نهایی</string>
     <string name="progress_title_group_stage">مرحله گروهی</string>
     <string name="progress_title_knockout_stage">مرحله حذفی</string>
     <string name="psv_challenge_continue_to_publisher">برای وارد شدن به سیستم و تأیید اشتراکتان، در وب‌سایت %1$s کار را ادامه دهید.</string>
@@ -414,12 +428,6 @@
     <string name="removed_from_read_later">داستان از «موارد دلخواه» برداشته شد</string>
     <string name="report">گزارش</string>
     <string name="retry">سعی مجدد</string>
-    <string name="s1">ذخیره تصویر</string>
-    <string name="s2">به آگهی اجازه داده شود تصویر را در گالری تصویر ذخیره کند؟</string>
-    <string name="s3">پذیرفتن</string>
-    <string name="s4">نپذیرفتن</string>
-    <string name="s5">ایجاد رویداد تقویم</string>
-    <string name="s6">به آگهی اجازه داده شود رویداد تقویم ایجاد کند؟</string>
     <string name="saved_tab_title">داستان‌های ذخیره‌شده</string>
     <string name="sd_card_not_available_dialog_body">محتوا به جای آن در حافظه داخلی دستگاهتان بارگیری می‌شود.</string>
     <string name="sd_card_not_available_dialog_title">کارت SD در دسترس نیست</string>

@@ -9,6 +9,16 @@
     <string name="abc_activitychooserview_choose_application">Выбраць праграму</string>
     <string name="abc_capital_off">ВЫКЛ.</string>
     <string name="abc_capital_on">УКЛ.</string>
+    <string name="abc_menu_alt_shortcut_label">Alt +</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl +</string>
+    <string name="abc_menu_delete_shortcut_label">Delete</string>
+    <string name="abc_menu_enter_shortcut_label">Enter</string>
+    <string name="abc_menu_function_shortcut_label">Fn +</string>
+    <string name="abc_menu_meta_shortcut_label">Meta +</string>
+    <string name="abc_menu_shift_shortcut_label">Shift +</string>
+    <string name="abc_menu_space_shortcut_label">Прабел</string>
+    <string name="abc_menu_sym_shortcut_label">Sym +</string>
+    <string name="abc_prepend_shortcut_label">Меню +</string>
     <string name="abc_search_hint">Пошук...</string>
     <string name="abc_searchview_description_clear">Выдалiць запыт</string>
     <string name="abc_searchview_description_search">Пошук</string>
@@ -97,6 +107,7 @@
     <string name="common_google_play_services_install_button">Усталяваць</string>
     <string name="common_google_play_services_install_text">%1$s не будзе працаваць без службаў Google Play, якія адсутнічаюць на вашай прыладзе.</string>
     <string name="common_google_play_services_install_title">Атрымаць службы Google Play</string>
+    <string name="common_google_play_services_notification_channel_name">Даступнасць сэрвісаў Google Play</string>
     <string name="common_google_play_services_notification_ticker">Памылка службаў Google Play</string>
     <string name="common_google_play_services_unknown_issue">У праграмы %1$s узніклі праблемы са службамі Google Play. Паўтарыце спробу.</string>
     <string name="common_google_play_services_unsupported_text">%1$s не будзе працаваць без службаў Google Play, якія не падтрымліваюцца вашай прыладай.</string>
@@ -178,7 +189,7 @@
     <string name="enable_notifications">Уключыць апавяшчэнні</string>
     <string name="enable_sync_dialog_body">Каб абнавіць змесціва Навін Google у фонавым рэжыме, будзе ўключана сінхранізацыя.</string>
     <string name="enable_sync_dialog_title">Сінхранізаванне адключана</string>
-    <string name="enumeration_comma">", "</string>
+    <string name="enumeration_comma">,</string>
     <string name="error_blocking_user">Не ўдалося заблакіраваць карыстальніка. Паўтарыце спробу.</string>
     <string name="error_removing_share">Не ўдалося выдаліць абагуленае. Паўтарыце спробу.</string>
     <string name="exo_track_selection_auto">Аўтаматычна</string>
@@ -227,7 +238,7 @@
     <string name="graph_content_knockout_game_description">Барабан, %1$s, выбрана %2$s супраць %3$s</string>
     <string name="graph_header_group">Група</string>
     <string name="graph_header_knockout">Плэй-оф</string>
-    <string name="graph_hint_tap_game">Дакраніцеся да матча</string>
+    <string name="graph_hint_tap_game">Выберыце матч</string>
     <string name="graph_hint_tap_group">Выберыце групу</string>
     <string name="headlines_title">Загалоўкі</string>
     <string name="help">Даведка</string>
@@ -235,6 +246,7 @@
     <string name="iap_failure_to_open">Немагчыма адкрыць прыкладанне для гэтага змесціва</string>
     <string name="iap_success_google_news">Дададзена да Навін Google</string>
     <string name="image_attribution">Крыніца фота</string>
+    <string name="image_attribution_content_description">Аўтар фота: %1$s</string>
     <string name="image_not_available_offline">Выява, недаступная ў аўтаномным рэжыме</string>
     <string name="language_reset">Мова была скінута</string>
     <string name="launcher_app_name">Навіны</string>
@@ -268,6 +280,7 @@
     <string name="magazines_toggle_to_print_mode">Пераключэнне на друкаванае выданне</string>
     <string name="marked_as_not_interested">Вы будзеце бачыць менш такіх гісторый</string>
     <string name="match_in_list_content_description">Матч %1$d з %2$d</string>
+    <string name="media_mute">Адключыць гук</string>
     <string name="media_next">Далей</string>
     <string name="media_next_unavailable">Наступны тавар недаступны</string>
     <string name="media_notification_channel_description">Налады медыя-апавяшчэнняў Навін Google</string>
@@ -278,6 +291,7 @@
     <string name="media_previous_unavailable">Папярэдні тавар недаступны</string>
     <string name="media_progress">%1$s з %2$s</string>
     <string name="media_stop">Спыніць</string>
+    <string name="media_unmute">Уключыць гук</string>
     <string name="mini_cards">Міні-карты</string>
     <string name="more_info">Разгарнуць</string>
     <string name="more_options_description">Дадатковыя параметры</string>
@@ -285,9 +299,8 @@
     <string name="move_to_top">Перамясціць у пачатак</string>
     <string name="must_be_online">Пераканайцеся, што вы падлучаны да інтэрнэту</string>
     <string name="my_activity">Мае дзеянні</string>
-    <string name="my_activity_summary">Вы ўвайшлі як %1$s</string>
     <string name="nativeAd_sponsored">Спансіраваны</string>
-    <string name="native_store_title">Газетны кіёск</string>
+    <string name="native_store_title">Прэса</string>
     <string name="need_to_rotate_orientation">Павярніце прыладу, каб убачыць змесціва.</string>
     <string name="needed_to_rotate_orientation">Прыладзе патрэбны аўтаматычны паварот, каб адлюстроўваць гэтае змесціва.</string>
     <string name="new_magazine_downloadable_notification">Зараз даступны выпуск %1$s</string>
@@ -316,6 +329,7 @@
     <string name="notification_subscription_enabled">%1$s: апавяшчэнні ўключаны</string>
     <string name="notification_undo_text">Адрабіць</string>
     <string name="notifications">Апавяшчэнні</string>
+    <string name="notifications_and_shared">Апавяшчэнні і абагуленае</string>
     <string name="notifications_settings_menu_title">Апавяшчэнні</string>
     <string name="now_following_topic">Вы падпісаныя на гэту тэму</string>
     <string name="ok">ОК</string>
@@ -402,12 +416,6 @@
     <string name="removed_from_read_later">Гісторыі, выдаленыя з Абранага</string>
     <string name="report">Справаздача</string>
     <string name="retry">Паўтарыць</string>
-    <string name="s1">Захаваць відарыс</string>
-    <string name="s2">Дазволіць рэкламе захоўваць відарыс у Галерэі відарысаў?</string>
-    <string name="s3">Прыняць</string>
-    <string name="s4">Адхіліць</string>
-    <string name="s5">Стварыць падзею календара</string>
-    <string name="s6">Дазволіць рэкламе стварыць падзею календара?</string>
     <string name="saved_tab_title">Захаваныя гісторыі</string>
     <string name="sd_card_not_available_dialog_body">Замест гэтага, змесціва будзе спампавана ва ўнутраную памяць вашай прылады.</string>
     <string name="sd_card_not_available_dialog_title">SD-карта недаступна</string>

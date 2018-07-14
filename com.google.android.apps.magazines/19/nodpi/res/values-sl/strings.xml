@@ -9,6 +9,16 @@
     <string name="abc_activitychooserview_choose_application">Izbira aplikacije</string>
     <string name="abc_capital_off">IZKLOPLJENO</string>
     <string name="abc_capital_on">VKLOPLJENO</string>
+    <string name="abc_menu_alt_shortcut_label">Alt +</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl +</string>
+    <string name="abc_menu_delete_shortcut_label">Delete</string>
+    <string name="abc_menu_enter_shortcut_label">Enter</string>
+    <string name="abc_menu_function_shortcut_label">Fn +</string>
+    <string name="abc_menu_meta_shortcut_label">Meta +</string>
+    <string name="abc_menu_shift_shortcut_label">Shift +</string>
+    <string name="abc_menu_space_shortcut_label">preslednica</string>
+    <string name="abc_menu_sym_shortcut_label">Sym +</string>
+    <string name="abc_prepend_shortcut_label">Meni +</string>
     <string name="abc_search_hint">Iskanje …</string>
     <string name="abc_searchview_description_clear">Izbris poizvedbe</string>
     <string name="abc_searchview_description_search">Iskanje</string>
@@ -98,6 +108,7 @@
     <string name="common_google_play_services_install_button">Namesti</string>
     <string name="common_google_play_services_install_text">Aplikacija %1$s ne deluje brez storitev Google Play, vendar teh ni v napravi.</string>
     <string name="common_google_play_services_install_title">Namestitev storitev Google Play</string>
+    <string name="common_google_play_services_notification_channel_name">Dostopnost storitev Google Play</string>
     <string name="common_google_play_services_notification_ticker">Napaka storitev Google Play</string>
     <string name="common_google_play_services_unknown_issue">Aplikacija %1$s ima težave s storitvami Google Play. Poskusite znova.</string>
     <string name="common_google_play_services_unsupported_text">Aplikacija %1$s ne deluje brez storitev Google Play, ki jih vaša naprava ne podpira.</string>
@@ -118,9 +129,9 @@
     <string name="continue_button">Naprej</string>
     <string name="continue_reading">Nadaljevanje branja</string>
     <string name="continue_reading_label">Nadaljujte branje: %s</string>
-    <string name="countdown_days">d</string>
-    <string name="countdown_hours">h</string>
-    <string name="countdown_mins">m</string>
+    <string name="countdown_days">dnevi</string>
+    <string name="countdown_hours">ure</string>
+    <string name="countdown_mins">min</string>
     <string name="countdown_secs">s</string>
     <string name="crash_report_message">Aplikacija %s je žal prenehala delovati.</string>
     <string name="current_issue_tab">Trenutna številka</string>
@@ -179,7 +190,7 @@
     <string name="enable_notifications">Omogoči obvestila</string>
     <string name="enable_sync_dialog_body">Sinhroniziranje bo vklopljeno, da se bo lahko vsebina Googla News osveževala v ozadju.</string>
     <string name="enable_sync_dialog_title">Sinhroniziranje je izklopljeno</string>
-    <string name="enumeration_comma">", "</string>
+    <string name="enumeration_comma">,</string>
     <string name="error_blocking_user">Napaka pri blokiranju uporabnika, poskusite znova.</string>
     <string name="error_removing_share">Deljenja z drugimi ni bilo mogoče odstraniti. Poskusite znova.</string>
     <string name="exo_track_selection_auto">Samodejno</string>
@@ -236,6 +247,7 @@
     <string name="iap_failure_to_open">Aplikacije za to vsebino ni mogoče odpreti</string>
     <string name="iap_success_google_news">Dodano v Google News</string>
     <string name="image_attribution">Avtorstvo</string>
+    <string name="image_attribution_content_description">Avtor fotografije: %1$s</string>
     <string name="image_not_available_offline">Slika ni na voljo brez povezave</string>
     <string name="language_reset">Jezik je ponastavljen</string>
     <string name="launcher_app_name">News</string>
@@ -269,6 +281,7 @@
     <string name="magazines_toggle_to_print_mode">Preklop na izdajo za tisk</string>
     <string name="marked_as_not_interested">Prikazanih bo manj podobnih novic</string>
     <string name="match_in_list_content_description">Tekma %1$d od %2$d</string>
+    <string name="media_mute">Izklop zvoka</string>
     <string name="media_next">Naprej</string>
     <string name="media_next_unavailable">Naslednji element ni na voljo</string>
     <string name="media_notification_channel_description">Nastavitve za obvestila o vsebini v aplikaciji Google News</string>
@@ -279,6 +292,7 @@
     <string name="media_previous_unavailable">Prejšnji element ni na voljo</string>
     <string name="media_progress">%1$s od %2$s</string>
     <string name="media_stop">Ustavi</string>
+    <string name="media_unmute">Vklop zvoka</string>
     <string name="mini_cards">Mini kartice</string>
     <string name="more_info">Več informacij</string>
     <string name="more_options_description">Več možnosti</string>
@@ -286,9 +300,8 @@
     <string name="move_to_top">Na začetek</string>
     <string name="must_be_online">Povezani morate biti v internet</string>
     <string name="my_activity">Moja dejavnost</string>
-    <string name="my_activity_summary">Prijavljen kot %1$s</string>
     <string name="nativeAd_sponsored">Sponzorirano</string>
-    <string name="native_store_title">Kiosk</string>
+    <string name="native_store_title">kiosk</string>
     <string name="need_to_rotate_orientation">Če želite prikazati to vsebino, zasukajte napravo.</string>
     <string name="needed_to_rotate_orientation">Za prikaz te vsebine se je moral zaslon samodejno zasukati.</string>
     <string name="new_magazine_downloadable_notification">Številka %1$s je na voljo</string>
@@ -317,6 +330,7 @@
     <string name="notification_subscription_enabled">Obvestila so omogočena za: %1$s</string>
     <string name="notification_undo_text">Razveljavi</string>
     <string name="notifications">Obvestila</string>
+    <string name="notifications_and_shared">Obvestila in deljena vsebina</string>
     <string name="notifications_settings_menu_title">Obvestila</string>
     <string name="now_following_topic">Spremljate to temo</string>
     <string name="ok">V redu</string>
@@ -350,7 +364,7 @@
     <string name="play_drawer_open">Prikaz predala za krmarjenje</string>
     <string name="play_percent_downloaded">%1$d %% preneseno</string>
     <string name="play_star_rating_content_description">Ocena z zvezdicami: %1$s</string>
-    <string name="play_video">Predvajaj video</string>
+    <string name="play_video">Predvajaj videoposnetek</string>
     <string name="preferences_license_title">Odprtokodne licence</string>
     <string name="premium_content">Plačljiva vsebina</string>
     <string name="premiumstatusview__content_description_premium_purchased">Kupili ste plačljivo vsebino.</string>
@@ -363,7 +377,7 @@
     <string name="progress_label_game_three">3. tekma</string>
     <string name="progress_label_game_two">2. tekma</string>
     <string name="progress_label_quarter_final">Četrtf.</string>
-    <string name="progress_label_round_of_sixteen">Osm. f.</string>
+    <string name="progress_label_round_of_sixteen">Četrtf.</string>
     <string name="progress_label_semi_final">Polfin.</string>
     <string name="progress_title_group_stage">Skupinski del</string>
     <string name="progress_title_knockout_stage">Izločilni boji</string>
@@ -414,12 +428,6 @@
     <string name="removed_from_read_later">Novica odstranjena iz priljubljenega</string>
     <string name="report">Prijavi</string>
     <string name="retry">Poskusite znova</string>
-    <string name="s1">Shranjevanje slike</string>
-    <string name="s2">Ali dovolite, da oglas shrani sliko v galerijo slik?</string>
-    <string name="s3">Sprejmi</string>
-    <string name="s4">Zavrni</string>
-    <string name="s5">Ustvarjanje koledarskega dogodka</string>
-    <string name="s6">Ali dovolite, da oglas ustvari koledarski dogodek?</string>
     <string name="saved_tab_title">Shranjene novice</string>
     <string name="sd_card_not_available_dialog_body">Vsebina bo namesto tega prenesena v notranji pomnilnik naprave.</string>
     <string name="sd_card_not_available_dialog_title">Kartica SD ni na voljo</string>
@@ -481,7 +489,7 @@
     <string name="sendkit_ui_phone_contacts">Stiki iz telefona</string>
     <string name="sendkit_ui_send_button_content_description">Pošlji. %s</string>
     <string name="sendkit_ui_send_button_text">Pošlji</string>
-    <string name="sendkit_ui_send_via_app">Pošlji prek: %s</string>
+    <string name="sendkit_ui_send_via_app">Pošlji prek %s</string>
     <string name="sendkit_ui_shared">Dali v skupno rabo</string>
     <string name="sendkit_ui_sharing_as">Skupna raba iz računa %s</string>
     <string name="sendkit_ui_show_more">Več</string>

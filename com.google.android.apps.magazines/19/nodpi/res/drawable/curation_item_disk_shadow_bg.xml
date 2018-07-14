@@ -15,7 +15,7 @@
         <selector>
             <item android:state_pressed="true">
                 <shape android:shape="oval">
-                    <solid android:color="@color/holo_light_pressed" />
+                    <solid android:color="@color/card_background_highlight" />
                 </shape>
             </item>
         </selector>

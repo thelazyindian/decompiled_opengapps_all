@@ -98,26 +98,26 @@
     </plurals>
     <plurals name="zero_free_articles_left">
         <item quantity="other">Hai letto i tuoi &lt;b>%1$s articoli gratis&lt;/b></item>
-        <item quantity="one">Hai letto il tuo &lt;b>articolo gratis&lt;/b></item>
+        <item quantity="one">Hai letto il tuo &lt;b>articolo gratis (%1$s)&lt;/b></item>
     </plurals>
     <plurals name="zero_free_articles_left_month">
         <item quantity="other">Hai letto i tuoi &lt;b>%1$s articoli gratis&lt;/b> di questo mese</item>
-        <item quantity="one">Hai letto il tuo &lt;b>articolo gratis&lt;/b> di questo mese</item>
+        <item quantity="one">Hai letto il tuo &lt;b>articolo gratis (%1$s)&lt;/b> di questo mese</item>
     </plurals>
     <plurals name="zero_free_articles_left_period">
         <item quantity="other">Hai letto i tuoi &lt;b>%1$s articoli gratis&lt;/b> di questo periodo</item>
-        <item quantity="one">Hai letto il tuo &lt;b>articolo gratis&lt;/b> di questo periodo</item>
+        <item quantity="one">Hai letto il tuo &lt;b>articolo gratis (%1$s)&lt;/b> di questo periodo</item>
     </plurals>
     <plurals name="zero_free_articles_left_today">
         <item quantity="other">Hai letto i tuoi &lt;b>%1$s articoli gratis&lt;/b> di oggi</item>
-        <item quantity="one">Hai letto il tuo &lt;b>articolo gratis&lt;/b> di oggi</item>
+        <item quantity="one">Hai letto il tuo &lt;b>articolo gratis (%1$s) &lt;/b> di oggi</item>
     </plurals>
     <plurals name="zero_free_articles_left_week">
         <item quantity="other">Hai letto i tuoi &lt;b>%1$s articoli gratis&lt;/b> di questa settimana</item>
-        <item quantity="one">Hai letto il tuo &lt;b>articolo gratis&lt;/b> di questa settimana</item>
+        <item quantity="one">Hai letto il tuo &lt;b>articolo gratis (%1$s)&lt;/b> di questa settimana</item>
     </plurals>
     <plurals name="zero_free_articles_left_year">
         <item quantity="other">"Hai letto i tuoi &lt;b>%1$s articoli gratis&lt;/b> di quest'anno"</item>
-        <item quantity="one">"Hai letto il tuo &lt;b>articolo gratis&lt;/b> di quest'anno"</item>
+        <item quantity="one">"Hai letto il tuo &lt;b>articolo gratis (%1$s)&lt;/b> di quest'anno"</item>
     </plurals>
 </resources>

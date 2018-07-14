@@ -7,6 +7,16 @@
     <string name="abc_activitychooserview_choose_application">Қолданбаны таңдау</string>
     <string name="abc_capital_off">ӨШІРУЛІ</string>
     <string name="abc_capital_on">ҚОСУЛЫ</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">delete</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">бос орын</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Mәзір+</string>
     <string name="abc_search_hint">Іздеу…</string>
     <string name="abc_searchview_description_clear">Сұрақты жою</string>
     <string name="abc_searchview_description_search">Іздеу</string>
@@ -26,6 +36,7 @@
     <string name="common_google_play_services_install_button">Орнату</string>
     <string name="common_google_play_services_install_text">Google Play қызметтері құрылғыда болмағандықтан, %1$s іске қосылмайды.</string>
     <string name="common_google_play_services_install_title">Google Play қызметтерін алу</string>
+    <string name="common_google_play_services_notification_channel_name">Google Play қызметтерінің қолжетімділігі</string>
     <string name="common_google_play_services_notification_ticker">Google Play қызметтерінің қатесі</string>
     <string name="common_google_play_services_unknown_issue">%1$s қолданбасында Google Play қызметіне байланысты белгісіз қате шықты. Әрекетті қайталаңыз.</string>
     <string name="common_google_play_services_unsupported_text">%1$s қолданбасы құрылғыңызда қолдау көрсетілмейтін Google Play қызметінсіз жұмыс істемейді.</string>
@@ -41,12 +52,6 @@
     <string name="libraries_material_featurehighlight_dismiss">Жабу</string>
     <string name="place_autocomplete_clear_button">Іздеуді тазалау</string>
     <string name="place_autocomplete_search_hint">Іздеу</string>
-    <string name="s1">Кескінді сақтау</string>
-    <string name="s2">Жарнамаға кескінді сурет галереясында сақтауға рұқсат берілсін бе?</string>
-    <string name="s3">Қабылдау</string>
-    <string name="s4">Қабылдамау</string>
-    <string name="s5">Күнтізбе оқиғасын жасау</string>
-    <string name="s6">Жарнамаға күнтізбе оқиғасын жасауға рұқсат берілсін бе?</string>
     <string name="sendkit_ui_about_suggested_people_info">To make sharing easier, Google suggests people to share with based on your interactions</string>
     <string name="sendkit_ui_about_top_suggestions">About suggested people</string>
     <string name="sendkit_ui_add_message_title">Хабар қосу</string>

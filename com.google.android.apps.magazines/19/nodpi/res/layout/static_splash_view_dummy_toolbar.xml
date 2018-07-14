@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="?actionBarSize" android:importantForAccessibility="noHideDescendants"
-  xmlns:android="http://schemas.android.com/apk/res/android">
-    <android.support.v7.widget.AppCompatImageView android:id="@id/search_button" android:focusable="false" android:clickable="false" android:layout_width="@dimen/min_touch_size" android:layout_height="fill_parent" android:src="@drawable/quantum_ic_search_grey600_24" android:scaleType="centerInside" android:layout_marginStart="10.0dip" />
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:ns="http://schemas.android.com/apk/res-auto">
+    <android.support.v7.widget.AppCompatImageView android:id="@id/search_button" android:focusable="false" android:clickable="false" android:layout_width="@dimen/min_touch_size" android:layout_height="fill_parent" android:scaleType="centerInside" android:layout_marginStart="10.0dip" ns:srcCompat="@drawable/quantum_ic_search_vd_theme_24" />
     <FrameLayout android:id="@id/header_bar_logo" android:layout_width="0.0dip" android:layout_height="fill_parent" android:layout_weight="1.0">
         <com.google.android.libraries.material.productlockup.ProductLockupView android:layout_gravity="center" android:layout_width="wrap_content" android:layout_height="24.0dip" android:text="@string/app_name" />
     </FrameLayout>

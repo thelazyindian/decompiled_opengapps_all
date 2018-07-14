@@ -9,6 +9,16 @@
     <string name="abc_activitychooserview_choose_application">Pilih apl</string>
     <string name="abc_capital_off">MATI</string>
     <string name="abc_capital_on">HIDUP</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">padam</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">Fungsi+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">ruang</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Menu+</string>
     <string name="abc_search_hint">Cari…</string>
     <string name="abc_searchview_description_clear">Kosongkan pertanyaan</string>
     <string name="abc_searchview_description_search">Cari</string>
@@ -98,6 +108,7 @@
     <string name="common_google_play_services_install_button">Pasang</string>
     <string name="common_google_play_services_install_text">%1$s tidak akan berfungsi tanpa perkhidmatan Google Play dan perkhidmatan ini tiada pada peranti anda.</string>
     <string name="common_google_play_services_install_title">Dapatkan perkhidmatan Google Play</string>
+    <string name="common_google_play_services_notification_channel_name">Ketersediaan perkhidmatan Google Play</string>
     <string name="common_google_play_services_notification_ticker">Ralat perkhidmatan Google Play</string>
     <string name="common_google_play_services_unknown_issue">%1$s menghadapi masalah berhubung perkhidmatan Google Play. Sila cuba lagi.</string>
     <string name="common_google_play_services_unsupported_text">%1$s tidak akan berfungsi tanpa perkhidmatan Google Play dan perkhidmatan ini tidak disokong oleh peranti anda.</string>
@@ -179,7 +190,7 @@
     <string name="enable_notifications">Dayakan pemberitahuan</string>
     <string name="enable_sync_dialog_body">Untuk memuat semula kandungan Google News di latar belakang, penyegerakan akan dihidupkan.</string>
     <string name="enable_sync_dialog_title">Penyegerakan dimatikan</string>
-    <string name="enumeration_comma">", "</string>
+    <string name="enumeration_comma">,</string>
     <string name="error_blocking_user">Ralat semasa menyekat pengguna, sila cuba lagi.</string>
     <string name="error_removing_share">Tidak dapat mengalih keluar perkongsian. Sila cuba lagi.</string>
     <string name="exo_track_selection_auto">Automatik</string>
@@ -236,6 +247,7 @@
     <string name="iap_failure_to_open">Tidak dapat membuka aplikasi untuk kandungan ini</string>
     <string name="iap_success_google_news">Ditambahkan pada Google News</string>
     <string name="image_attribution">Kredit</string>
+    <string name="image_attribution_content_description">Foto oleh %1$s</string>
     <string name="image_not_available_offline">Imej tidak tersedia di luar talian</string>
     <string name="language_reset">Bahasa telah ditetapkan semula</string>
     <string name="launcher_app_name">News</string>
@@ -269,6 +281,7 @@
     <string name="magazines_toggle_to_print_mode">Togol ke edisi cetak</string>
     <string name="marked_as_not_interested">Anda akan melihat kurang lagi cerita begini</string>
     <string name="match_in_list_content_description">Perlawanan %1$d daripada %2$d</string>
+    <string name="media_mute">Redam</string>
     <string name="media_next">Seterusnya</string>
     <string name="media_next_unavailable">Item seterusnya tidak tersedia</string>
     <string name="media_notification_channel_description">Tetapan untuk pemberitahuan media Google News</string>
@@ -279,14 +292,14 @@
     <string name="media_previous_unavailable">Item sebelumnya tidak tersedia</string>
     <string name="media_progress">%1$s daripada %2$s</string>
     <string name="media_stop">Berhenti</string>
+    <string name="media_unmute">Nyahredam</string>
     <string name="mini_cards">Kad mini</string>
     <string name="more_info">Maklumat lanjut</string>
     <string name="more_options_description">Lagi pilihan</string>
     <string name="move_to_bottom">Alihkan ke penghujung</string>
     <string name="move_to_top">Alihkan ke permulaan</string>
     <string name="must_be_online">Pastikan anda disambungkan ke Internet</string>
-    <string name="my_activity">Aktiviti saya</string>
-    <string name="my_activity_summary">Dilog masuk sebagai %1$s</string>
+    <string name="my_activity">Aktiviti Saya</string>
     <string name="nativeAd_sponsored">Ditaja</string>
     <string name="native_store_title">Terbitan</string>
     <string name="need_to_rotate_orientation">Putar peranti anda untuk memaparkan kandungan ini.</string>
@@ -317,6 +330,7 @@
     <string name="notification_subscription_enabled">Pemberitahuan didayakan untuk %1$s</string>
     <string name="notification_undo_text">Buat asal</string>
     <string name="notifications">Pemberitahuan</string>
+    <string name="notifications_and_shared">Pemberitahuan &amp; dikongsi</string>
     <string name="notifications_settings_menu_title">Pemberitahuan</string>
     <string name="now_following_topic">Anda mengikuti topik ini</string>
     <string name="ok">OK</string>
@@ -404,12 +418,6 @@
     <string name="removed_from_read_later">Cerita dialih keluar daripada Kegemaran</string>
     <string name="report">Laporkan</string>
     <string name="retry">Cuba semula</string>
-    <string name="s1">Simpan imej</string>
-    <string name="s2">Benarkan Iklan menyimpan imej dalam galeri Gambar?</string>
-    <string name="s3">Terima</string>
-    <string name="s4">Tolak</string>
-    <string name="s5">Buat acara kalendar</string>
-    <string name="s6">Benarkan Iklan membuat acara kalendar?</string>
     <string name="saved_tab_title">Cerita yang disimpan</string>
     <string name="sd_card_not_available_dialog_body">Sebaliknya, kandungan akan dimuat turun ke storan dalaman peranti anda.</string>
     <string name="sd_card_not_available_dialog_title">Kad SD tidak tersedia</string>

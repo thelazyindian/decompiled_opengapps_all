@@ -73,8 +73,8 @@
         <item quantity="one">ಮೊದಲ %1$s ವಾರಗಳು</item>
     </plurals>
     <plurals name="subscription_trial_period_length_year">
-        <item quantity="other">ಮೊದಲ %1$s ವರ್ಷಗಳು</item>
-        <item quantity="one">ಮೊದಲ %1$s ವರ್ಷಗಳು</item>
+        <item quantity="other">ಮೊದಲ %1$s ವರ್ಷಗಳು</item>
+        <item quantity="one">ಮೊದಲ %1$s ವರ್ಷಗಳು</item>
     </plurals>
     <plurals name="timeline_days_ago">
         <item quantity="other">%1$s ದಿನಗಳ ಹಿಂದೆ</item>

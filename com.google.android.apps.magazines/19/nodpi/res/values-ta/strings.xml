@@ -9,6 +9,16 @@
     <string name="abc_activitychooserview_choose_application">பயன்பாட்டைத் தேர்வுசெய்க</string>
     <string name="abc_capital_off">ஆஃப்</string>
     <string name="abc_capital_on">ஆன்</string>
+    <string name="abc_menu_alt_shortcut_label">ஆல்ட் மற்றும்</string>
+    <string name="abc_menu_ctrl_shortcut_label">கண்ட்ரோல் மற்றும்</string>
+    <string name="abc_menu_delete_shortcut_label">டெலிட்</string>
+    <string name="abc_menu_enter_shortcut_label">எண்டர்</string>
+    <string name="abc_menu_function_shortcut_label">ஃபங்ஷன் மற்றும்</string>
+    <string name="abc_menu_meta_shortcut_label">மெட்டா மற்றும்</string>
+    <string name="abc_menu_shift_shortcut_label">ஷிஃப்ட் மற்றும்</string>
+    <string name="abc_menu_space_shortcut_label">ஸ்பேஸ்</string>
+    <string name="abc_menu_sym_shortcut_label">சிம்பல் மற்றும்</string>
+    <string name="abc_prepend_shortcut_label">மெனு மற்றும்</string>
     <string name="abc_search_hint">தேடு...</string>
     <string name="abc_searchview_description_clear">வினவலை அழி</string>
     <string name="abc_searchview_description_search">தேடு</string>
@@ -98,6 +108,7 @@
     <string name="common_google_play_services_install_button">நிறுவு</string>
     <string name="common_google_play_services_install_text">Google Play சேவைகள் இருந்தால் மட்டுமே, %1$s இயங்கும். அவை உங்கள் சாதனத்தில் இல்லை.</string>
     <string name="common_google_play_services_install_title">Google Play சேவைகளைப் பெறவும்</string>
+    <string name="common_google_play_services_notification_channel_name">கிடைக்கும் Google Play சேவைகள்</string>
     <string name="common_google_play_services_notification_ticker">Google Play சேவைகள் பிழை</string>
     <string name="common_google_play_services_unknown_issue">Google Play சேவைகளில் சிக்கல் ஏற்பட்டதால், %1$s பயன்பாட்டை அணுக முடியவில்லை. மீண்டும் முயலவும்.</string>
     <string name="common_google_play_services_unsupported_text">Google Play சேவைகள் இருந்தால் மட்டுமே %1$s பயன்பாடு இயங்கும். ஆனால், உங்கள் சாதனத்தில் அவை ஆதரிக்கப்படவில்லை.</string>
@@ -120,7 +131,7 @@
     <string name="continue_reading_label">தொடர்ந்து படிக்கவும்: %s</string>
     <string name="countdown_days">நாட்கள்</string>
     <string name="countdown_hours">மணிநேரம்</string>
-    <string name="countdown_mins">நிமி</string>
+    <string name="countdown_mins">நிமிட</string>
     <string name="countdown_secs">வினாடி</string>
     <string name="crash_report_message">எதிர்பாராதவிதமாக, %s நிறுத்தப்பட்டது.</string>
     <string name="current_issue_tab">நடப்பு வெளியீடு</string>
@@ -179,7 +190,7 @@
     <string name="enable_notifications">அறிவிப்புகளை இயக்கு</string>
     <string name="enable_sync_dialog_body">பின்னணியில் Google செய்திகள் உள்ளடக்கத்தைப் புதுப்பிக்க, ஒத்திசைவை இயக்கவும்.</string>
     <string name="enable_sync_dialog_title">ஒத்திசைவு முடக்கத்திலுள்ளது</string>
-    <string name="enumeration_comma">", "</string>
+    <string name="enumeration_comma">,</string>
     <string name="error_blocking_user">பயனரைத் தடுப்பதில் பிழை ஏற்பட்டது, மீண்டும் முயலவும்.</string>
     <string name="error_removing_share">பகிர்வை அகற்ற முடியவில்லை, மீண்டும் முயலவும்.</string>
     <string name="exo_track_selection_auto">தானியங்கு</string>
@@ -231,10 +242,12 @@
     <string name="graph_hint_tap_game">ஒரு போட்டியைத் தட்டவும்</string>
     <string name="graph_hint_tap_group">ஒரு குழுவைத் தட்டவும்</string>
     <string name="headlines_title">ஹெட்லைன்ஸ்</string>
+    <string name="help">உதவி</string>
     <string name="help_feedback">உதவி &amp; கருத்து</string>
     <string name="iap_failure_to_open">இந்த உள்ளடக்கத்தைப் பார்ப்பதற்கு, பயன்பாட்டைத் திறக்க முடியவில்லை</string>
     <string name="iap_success_google_news">Google செய்திகளில் சேர்க்கப்பட்டது</string>
     <string name="image_attribution">பங்களித்தவர்</string>
+    <string name="image_attribution_content_description">%1$s எடுத்த படம்</string>
     <string name="image_not_available_offline">படம் ஆஃப்லைனில் இல்லை</string>
     <string name="language_reset">மொழி மீட்டமைக்கப்பட்டது</string>
     <string name="launcher_app_name">செய்திகள்</string>
@@ -268,6 +281,7 @@
     <string name="magazines_toggle_to_print_mode">அச்சுப் பதிப்புக்கு மாறு</string>
     <string name="marked_as_not_interested">இதைப் போன்ற செய்திகளைக் குறைவாகப் பார்ப்பீர்கள்</string>
     <string name="match_in_list_content_description">போட்டி %1$d/%2$d</string>
+    <string name="media_mute">ஒலியடக்கு</string>
     <string name="media_next">அடுத்து</string>
     <string name="media_next_unavailable">அடுத்த உருப்படி இல்லை</string>
     <string name="media_notification_channel_description">Google செய்திகளின் ஊடக அறிவிப்புகளுக்கான அமைப்புகள்</string>
@@ -278,6 +292,7 @@
     <string name="media_previous_unavailable">முந்தைய உருப்படி இல்லை</string>
     <string name="media_progress">%2$s / %1$s</string>
     <string name="media_stop">நிறுத்து</string>
+    <string name="media_unmute">ஒலி இயக்கு</string>
     <string name="mini_cards">மினி கார்டுகள்</string>
     <string name="more_info">மேலும் தகவல்</string>
     <string name="more_options_description">கூடுதல் விருப்பங்கள்</string>
@@ -285,9 +300,8 @@
     <string name="move_to_top">தொடக்கத்திற்குச் செல்</string>
     <string name="must_be_online">இணைய இணைப்பு உள்ளது என்பதை உறுதிசெய்யவும்</string>
     <string name="my_activity">எனது செயல்பாடு</string>
-    <string name="my_activity_summary">%1$s ஆக உள்நுழைந்துள்ளீர்கள்</string>
     <string name="nativeAd_sponsored">விளம்பரதாரர்</string>
-    <string name="native_store_title">Newsstand</string>
+    <string name="native_store_title">மேலும்படிக்க</string>
     <string name="need_to_rotate_orientation">இந்த உள்ளடக்கத்தைப் பார்க்க, சாதனத்தைச் சுழற்றவும்.</string>
     <string name="needed_to_rotate_orientation">இந்த உள்ளடக்கத்தைக் காட்ட, சாதனத்திற்கு தானாகச் சுழற்றும் அம்சம் தேவை.</string>
     <string name="new_magazine_downloadable_notification">%1$s இதழ் கிடைக்கிறது</string>
@@ -316,6 +330,7 @@
     <string name="notification_subscription_enabled">%1$s குறித்த அறிவிப்புகளை இயக்கியது</string>
     <string name="notification_undo_text">செயல்தவிர்</string>
     <string name="notifications">அறிவிப்புகள்</string>
+    <string name="notifications_and_shared">அறிவிப்புகள் &amp; பகிர்ந்தவை</string>
     <string name="notifications_settings_menu_title">அறிவிப்புகள்</string>
     <string name="now_following_topic">இந்தத் தலைப்பைப் பின்தொடர்கிறீர்கள்</string>
     <string name="ok">சரி</string>
@@ -352,7 +367,7 @@
     <string name="progress_label_game_three">போட்டி 3</string>
     <string name="progress_label_game_two">போட்டி 2</string>
     <string name="progress_label_quarter_final">காலிறுதி</string>
-    <string name="progress_label_round_of_sixteen">16 அணிசுற்று</string>
+    <string name="progress_label_round_of_sixteen">16 அணிகள் சுற்று</string>
     <string name="progress_label_semi_final">அரையிறுதி</string>
     <string name="progress_title_group_stage">குழுச் சுற்று</string>
     <string name="progress_title_knockout_stage">நாக்அவுட் சுற்று</string>
@@ -376,7 +391,7 @@
     <string name="received_a_topic">தலைப்பைப் பெற்றுள்ளீர்கள்</string>
     <string name="received_a_video">வீடியோவைப் பெற்றுள்ளீர்கள்</string>
     <string name="received_an_article">கட்டுரையைப் பெற்றுள்ளீர்கள்</string>
-    <string name="received_something">ஏதோ உள்ளடக்கத்தைப் பெற்றுள்ளீர்கள்</string>
+    <string name="received_something">ஏதோ உள்ளடக்கத்தைப் பெற்றுள்ளீர்கள்</string>
     <string name="recommended_related_posts_header">தொடர்புடைய கட்டுரைகள்</string>
     <string name="refresh">புதுப்பி</string>
     <string name="refreshed">புதுப்பிக்கப்பட்டது</string>
@@ -403,12 +418,6 @@
     <string name="removed_from_read_later">பிடித்தவையிலிருந்து செய்தி அகற்றப்பட்டது</string>
     <string name="report">அறிக்கை</string>
     <string name="retry">மீண்டும் முயலவும்</string>
-    <string name="s1">படத்தைச் சேமி</string>
-    <string name="s2">பட கேலரியில் படத்தைச் சேமிக்க, விளம்பரத்தை அனுமதிக்கவா?</string>
-    <string name="s3">அனுமதி</string>
-    <string name="s4">நிராகரி</string>
-    <string name="s5">கேலெண்டர் நிகழ்வை உருவாக்கு</string>
-    <string name="s6">கேலெண்டர் நிகழ்வை உருவாக்க, விளம்பரத்தை அனுமதிக்கவா?</string>
     <string name="saved_tab_title">சேமித்த செய்திகள்</string>
     <string name="sd_card_not_available_dialog_body">அதற்கு பதிலாக, உள்ளடக்கம் உங்கள் சாதனத்தின் அகச் சேமிப்பகத்தில் பதிவிறக்கப்படும்.</string>
     <string name="sd_card_not_available_dialog_title">SD கார்டு இல்லை</string>
@@ -497,7 +506,7 @@
     <string name="shared_a_topic">தலைப்பைப் பகிர்ந்துள்ளீர்கள்</string>
     <string name="shared_a_video">வீடியோவைப் பகிர்ந்துள்ளீர்கள்</string>
     <string name="shared_an_article">கட்டுரையைப் பகிர்ந்துள்ளீர்கள்</string>
-    <string name="shared_something">ஏதோ உள்ளடக்கத்தைப் பகிர்ந்துள்ளீர்கள்</string>
+    <string name="shared_something">ஏதோ உள்ளடக்கத்தைப் பகிர்ந்துள்ளீர்கள்</string>
     <string name="shared_with_you">&lt;b>%1$s&lt;/b> பகிர்ந்துள்ளார்</string>
     <string name="shares">உங்களுடன் உள்ளடக்கத்தைப் பகிர்ந்தவர்கள்</string>
     <string name="sharing_not_supported">பத்திரிகைச் செய்திக் கட்டுரைகளைப் பகிர முடியவில்லை</string>
@@ -548,14 +557,14 @@
     <string name="toast_switched_account">%1$s ஆக உள்நுழைந்துள்ளீர்கள்</string>
     <string name="topic_title">தலைப்பு</string>
     <string name="translate">மொழிபெயர்</string>
-    <string name="translate_to">இந்த மொழிக்கு மொழிபெயர்:</string>
+    <string name="translate_to">இந்த மொழிக்கு மொழிபெயர்:</string>
     <string name="translating">மொழிபெயர்க்கின்றது</string>
     <string name="try_again_button">மீண்டும் முயலவும்</string>
     <string name="twitter">Twitter</string>
     <string name="unarchive_issue">காப்பகத்தில் இருந்து அகற்று</string>
     <string name="unarchive_magazine_toast_text">காப்பகத்திலிருந்து பத்திரிகை அகற்றப்பட்டது</string>
     <string name="undo">செயல்தவிர்</string>
-    <string name="undo_translation">மொழிபெயர்ப்பைச் செயல்தவிர்</string>
+    <string name="undo_translation">மொழிபெயர்ப்பைச் செயல்தவிர்</string>
     <string name="unsubscribe">குழுவிலகு</string>
     <string name="update_play">இந்த உள்ளடககத்தை வாங்க, Google Play ஸ்டோரைப் புதுப்பிக்க வேண்டும்</string>
     <string name="upgrade_required_short_message">புதிய உள்ளடக்கத்திற்கு மேம்படுத்தல் தேவை</string>
@@ -594,7 +603,7 @@
     <string name="wifi_only_download_override_dialog_button_download_now">இப்போதே இறக்கு</string>
     <string name="wifi_only_download_override_dialog_message">இந்த உள்ளடக்கத்தை இப்போதே பதிவிறக்க வேண்டுமா? தரவுக் பேமெண்ட்கள் விதிக்கப்படலாம்.</string>
     <string name="wifi_only_download_override_dialog_title">வைஃபை இணைப்பு இல்லை</string>
-    <string name="world_cup_2018">2018 உலகக் கோப்பை</string>
+    <string name="world_cup_2018">2018 உலகக் கோப்பை</string>
     <string name="year_and_month">%2$s %1$s</string>
     <string name="year_and_month_range">%2$s-%3$s %1$s</string>
 </resources>

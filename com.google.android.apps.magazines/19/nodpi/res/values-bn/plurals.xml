@@ -9,8 +9,8 @@
         <item quantity="one">এই মাসের &lt;b>%1$sটি ফ্রি নিবন্ধ&lt;/b> বাকি আছে</item>
     </plurals>
     <plurals name="free_articles_left_period">
-        <item quantity="other">এই সময়ে &lt;b>%1$sটি ফ্রি নিবন্ধ&lt;/b> বাকি আছে</item>
-        <item quantity="one">এই সময়ে &lt;b>%1$sটি ফ্রি নিবন্ধ&lt;/b> বাকি আছে</item>
+        <item quantity="other">এই সময়ে &lt;b>%1$sটি ফ্রি নিবন্ধ&lt;/b> বাকি আছে</item>
+        <item quantity="one">এই সময়ে &lt;b>%1$sটি ফ্রি নিবন্ধ&lt;/b> বাকি আছে</item>
     </plurals>
     <plurals name="free_articles_left_today">
         <item quantity="other">আজকের &lt;b>%1$sটি ফ্রি নিবন্ধ&lt;/b> বাকি আছে</item>
@@ -56,6 +56,10 @@
         <item quantity="other">%d জন সদস্য বেছে নেওয়া হয়েছে</item>
         <item quantity="one">%d জন সদস্য বেছে নেওয়া হয়েছে</item>
     </plurals>
+    <plurals name="standings_content_description_team">
+        <item quantity="other">%1$s, %2$s পয়েন্ট</item>
+        <item quantity="one">%1$s, %2$s পয়েন্ট</item>
+    </plurals>
     <plurals name="subscription_trial_period_length_day">
         <item quantity="other">প্রথম %1$s দিন</item>
         <item quantity="one">প্রথম %1$s দিন</item>
@@ -93,27 +97,27 @@
         <item quantity="one">%1$s বছর আগে</item>
     </plurals>
     <plurals name="zero_free_articles_left">
-        <item quantity="other">আপনি &lt;b>%1$sটি ফ্রি নিবন্ধ&lt;/b> পড়ে ফেলেছেন</item>
-        <item quantity="one">আপনি &lt;b>%1$sটি ফ্রি নিবন্ধ&lt;/b> পড়ে ফেলেছেন</item>
+        <item quantity="other">আপনি &lt;b>%1$sটি ফ্রি নিবন্ধ&lt;/b> পড়ে ফেলেছেন</item>
+        <item quantity="one">আপনি &lt;b>%1$sটি ফ্রি নিবন্ধ&lt;/b> পড়ে ফেলেছেন</item>
     </plurals>
     <plurals name="zero_free_articles_left_month">
-        <item quantity="other">আপনি এই মাসের &lt;b>%1$sটি ফ্রি নিবন্ধ&lt;/b> পড়ে ফেলেছেন</item>
-        <item quantity="one">আপনি এই মাসের &lt;b>%1$sটি ফ্রি নিবন্ধ&lt;/b> পড়ে ফেলেছেন</item>
+        <item quantity="other">আপনি এই মাসের &lt;b>%1$sটি ফ্রি নিবন্ধ&lt;/b> পড়ে ফেলেছেন</item>
+        <item quantity="one">আপনি এই মাসের &lt;b>%1$sটি ফ্রি নিবন্ধ&lt;/b> পড়ে ফেলেছেন</item>
     </plurals>
     <plurals name="zero_free_articles_left_period">
-        <item quantity="other">আপনি এই সময়ের &lt;b>%1$sটি ফ্রি নিবন্ধ&lt;/b> পড়ে ফেলেছেন</item>
-        <item quantity="one">আপনি এই সময়ের &lt;b>%1$sটি ফ্রি নিবন্ধ&lt;/b> পড়ে ফেলেছেন</item>
+        <item quantity="other">আপনি এই সময়ের &lt;b>%1$sটি ফ্রি নিবন্ধ&lt;/b> পড়ে ফেলেছেন</item>
+        <item quantity="one">আপনি এই সময়ের &lt;b>%1$sটি ফ্রি নিবন্ধ&lt;/b> পড়ে ফেলেছেন</item>
     </plurals>
     <plurals name="zero_free_articles_left_today">
-        <item quantity="other">আপনি আজকের &lt;b>%1$sটি ফ্রি নিবন্ধ&lt;/b> পড়ে ফেলেছেন</item>
-        <item quantity="one">আপনি আজকের &lt;b>%1$sটি ফ্রি নিবন্ধ&lt;/b> পড়ে ফেলেছেন</item>
+        <item quantity="other">আপনি আজকের &lt;b>%1$sটি ফ্রি নিবন্ধ&lt;/b> পড়ে ফেলেছেন</item>
+        <item quantity="one">আপনি আজকের &lt;b>%1$sটি ফ্রি নিবন্ধ&lt;/b> পড়ে ফেলেছেন</item>
     </plurals>
     <plurals name="zero_free_articles_left_week">
-        <item quantity="other">আপনি এই সপ্তাহের &lt;b>%1$sটি ফ্রি নিবন্ধ&lt;/b> পড়ে ফেলেছেন</item>
-        <item quantity="one">আপনি এই সপ্তাহের &lt;b>%1$sটি ফ্রি নিবন্ধ&lt;/b> পড়ে ফেলেছেন</item>
+        <item quantity="other">আপনি এই সপ্তাহের &lt;b>%1$sটি ফ্রি নিবন্ধ&lt;/b> পড়ে ফেলেছেন</item>
+        <item quantity="one">আপনি এই সপ্তাহের &lt;b>%1$sটি ফ্রি নিবন্ধ&lt;/b> পড়ে ফেলেছেন</item>
     </plurals>
     <plurals name="zero_free_articles_left_year">
-        <item quantity="other">আপনি এই বছরের &lt;b>%1$sটি ফ্রি নিবন্ধ&lt;/b> পড়ে ফেলেছেন</item>
-        <item quantity="one">আপনি এই বছরের &lt;b>%1$sটি ফ্রি নিবন্ধ&lt;/b> পড়ে ফেলেছেন</item>
+        <item quantity="other">আপনি এই বছরের &lt;b>%1$sটি ফ্রি নিবন্ধ&lt;/b> পড়ে ফেলেছেন</item>
+        <item quantity="one">আপনি এই বছরের &lt;b>%1$sটি ফ্রি নিবন্ধ&lt;/b> পড়ে ফেলেছেন</item>
     </plurals>
 </resources>

@@ -9,6 +9,16 @@
     <string name="abc_activitychooserview_choose_application">Válasszon ki egy alkalmazást</string>
     <string name="abc_capital_off">KI</string>
     <string name="abc_capital_on">BE</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">Delete</string>
+    <string name="abc_menu_enter_shortcut_label">Enter</string>
+    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">Szóköz</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Menu+</string>
     <string name="abc_search_hint">Keresés…</string>
     <string name="abc_searchview_description_clear">Lekérdezés törlése</string>
     <string name="abc_searchview_description_search">Keresés</string>
@@ -98,6 +108,7 @@
     <string name="common_google_play_services_install_button">Telepítés</string>
     <string name="common_google_play_services_install_text">A(z) %1$s alkalmazás nem fut a Google Play-szolgáltatások nélkül, amelyek hiányoznak az eszközről.</string>
     <string name="common_google_play_services_install_title">A Google Play-szolgáltatások beszerzése</string>
+    <string name="common_google_play_services_notification_channel_name">Google Play-szolgáltatások elérhetősége</string>
     <string name="common_google_play_services_notification_ticker">Google Play-szolgáltatások – hiba</string>
     <string name="common_google_play_services_unknown_issue">A(z) %1$s alkalmazás problémába ütközött a Google Play-szolgáltatások használata során. Próbálkozzon újra.</string>
     <string name="common_google_play_services_unsupported_text">A(z) %1$s alkalmazás nem fut a Google Play-szolgáltatások nélkül, amelyeket eszköze nem támogat.</string>
@@ -179,7 +190,7 @@
     <string name="enable_notifications">Értesítések bekapcsolása</string>
     <string name="enable_sync_dialog_body">A Google Hírek háttérben történő frissítéséhez a szinkronizálás bekapcsol.</string>
     <string name="enable_sync_dialog_title">A szinkronizálás ki van kapcsolva</string>
-    <string name="enumeration_comma">", "</string>
+    <string name="enumeration_comma">,</string>
     <string name="error_blocking_user">Hiba történt a felhasználó letiltása során, próbálkozz újra.</string>
     <string name="error_removing_share">Nem sikerült eltávolítani a megosztást. Próbáld újra.</string>
     <string name="exo_track_selection_auto">Automatikus</string>
@@ -236,6 +247,7 @@
     <string name="iap_failure_to_open">Az alkalmazás nem nyitható meg ehhez a tartalomhoz</string>
     <string name="iap_success_google_news">Hozzáadva a Google Hírekhez</string>
     <string name="image_attribution">Forrásmegjelölés</string>
+    <string name="image_attribution_content_description">Fényképezte: %1$s</string>
     <string name="image_not_available_offline">A kép nem áll rendelkezésre offline módban</string>
     <string name="language_reset">Nyelv visszaállítva</string>
     <string name="launcher_app_name">Hírek</string>
@@ -269,6 +281,7 @@
     <string name="magazines_toggle_to_print_mode">Váltás a nyomtatott változatra</string>
     <string name="marked_as_not_interested">Kevesebb ehhez hasonló hírt látsz majd</string>
     <string name="match_in_list_content_description">%2$d/%1$d. mérkőzés</string>
+    <string name="media_mute">Némítás</string>
     <string name="media_next">Következő</string>
     <string name="media_next_unavailable">A következő elem nem érhető el</string>
     <string name="media_notification_channel_description">A Google Hírek médiaértesítéseinek beállításai</string>
@@ -279,6 +292,7 @@
     <string name="media_previous_unavailable">Az előző elem nem érhető el</string>
     <string name="media_progress">%2$s/%1$s.</string>
     <string name="media_stop">Leállítás</string>
+    <string name="media_unmute">Némítás feloldása</string>
     <string name="mini_cards">Mini kártyák</string>
     <string name="more_info">Bővebben</string>
     <string name="more_options_description">További lehetőségek</string>
@@ -286,7 +300,6 @@
     <string name="move_to_top">Áthelyezés az elejére</string>
     <string name="must_be_online">Győződj meg róla, hogy kapcsolódsz az internethez</string>
     <string name="my_activity">Saját tevékenységek</string>
-    <string name="my_activity_summary">A következőként vagy bejelentkezve: %1$s</string>
     <string name="nativeAd_sponsored">Szponzorált</string>
     <string name="native_store_title">Újságos</string>
     <string name="need_to_rotate_orientation">Forgasd el az eszközt a tartalom megjelenítéséhez.</string>
@@ -317,6 +330,7 @@
     <string name="notification_subscription_enabled">A következőre vonatkozó értesítések engedélyezve: %1$s</string>
     <string name="notification_undo_text">Visszavonás</string>
     <string name="notifications">Értesítések</string>
+    <string name="notifications_and_shared">Értesítések és megosztások</string>
     <string name="notifications_settings_menu_title">Értesítések</string>
     <string name="now_following_topic">Követed ezt a témát</string>
     <string name="ok">OK</string>
@@ -414,12 +428,6 @@
     <string name="removed_from_read_later">Hír eltávolítva a Kedvencek közül</string>
     <string name="report">Jelentés</string>
     <string name="retry">Újra</string>
-    <string name="s1">Kép mentése</string>
-    <string name="s2">Engedélyezi a hirdetés számára a kép tárolását a Képgalériában?</string>
-    <string name="s3">Elfogadás</string>
-    <string name="s4">Elutasítás</string>
-    <string name="s5">Naptáresemény létrehozása</string>
-    <string name="s6">Engedélyezi a hirdetés számára naptáresemény létrehozását?</string>
     <string name="saved_tab_title">Mentett hírek</string>
     <string name="sd_card_not_available_dialog_body">Ehelyett a tartalom az eszköz belső tárhelyére töltődik le.</string>
     <string name="sd_card_not_available_dialog_title">Az SD-kártya nem érhető el</string>
@@ -542,7 +550,7 @@
     <string name="sync_failed_notification_title">Nem sikerült frissíteni a Google Híreket.</string>
     <string name="sync_progress_notification_title">Tartalom letöltése a Google Hírekről</string>
     <string name="team_eliminated">Kiesett</string>
-    <string name="team_more_coverage">További információ – %s</string>
+    <string name="team_more_coverage">További információ a következő csapatról: %s</string>
     <string name="team_unknown">---</string>
     <string name="teams_page_title">Csapatok</string>
     <string name="temperature_unit_celsius">Celsius</string>
@@ -590,9 +598,9 @@
     <string name="user_data_collection_title">Regisztrálás</string>
     <string name="verify_button">Ellenőrzés</string>
     <string name="verify_your_subscription_toast_text">Kérjük, igazold az előfizetésedet</string>
-    <string name="via_twitter_placeholder_kicker">innen: %s</string>
+    <string name="via_twitter_placeholder_kicker">innen: %1$s</string>
     <string name="video">Videó</string>
-    <string name="video_error">A videó nem játszható le. Próbálkozz újra.</string>
+    <string name="video_error">A videó nem játszható le. Próbáld újra.</string>
     <string name="view_all">Összes megtekintése</string>
     <string name="volume_off">Hang kikapcsolása</string>
     <string name="volume_on">Hang bekapcsolása</string>
@@ -606,6 +614,6 @@
     <string name="wifi_only_download_override_dialog_message">Most szeretné letölteni a tartalmat? Ez adatforgalmi díjakkal járhat.</string>
     <string name="wifi_only_download_override_dialog_title">Nincs Wi-Fi-kapcsolat</string>
     <string name="world_cup_2018">2018-as világbajnokság</string>
-    <string name="year_and_month">%1$s. %2$s</string>
+    <string name="year_and_month">%2$s %1$s</string>
     <string name="year_and_month_range">%1$s. %2$s–%3$s</string>
 </resources>

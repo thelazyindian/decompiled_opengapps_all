@@ -9,6 +9,16 @@
     <string name="abc_activitychooserview_choose_application">アプリの選択</string>
     <string name="abc_capital_off">OFF</string>
     <string name="abc_capital_on">ON</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">Delete</string>
+    <string name="abc_menu_enter_shortcut_label">Enter</string>
+    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">Space</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Menu+</string>
     <string name="abc_search_hint">検索…</string>
     <string name="abc_searchview_description_clear">検索キーワードを削除</string>
     <string name="abc_searchview_description_search">検索</string>
@@ -98,6 +108,7 @@
     <string name="common_google_play_services_install_button">インストール</string>
     <string name="common_google_play_services_install_text">「%1$s」の実行には Google Play 開発者サービスが必要ですが、お使いの端末にはインストールされていません。</string>
     <string name="common_google_play_services_install_title">Google Play開発者サービスの入手</string>
+    <string name="common_google_play_services_notification_channel_name">Google Play 開発者サービスの利用</string>
     <string name="common_google_play_services_notification_ticker">Google Play開発者サービスのエラー</string>
     <string name="common_google_play_services_unknown_issue">「%1$s」で Google Play 開発者サービスに問題が発生しています。もう一度お試しください。</string>
     <string name="common_google_play_services_unsupported_text">「%1$s」の実行には Google Play 開発者サービスが必要ですが、お使いの端末ではサポートされていません。</string>
@@ -179,7 +190,7 @@
     <string name="enable_notifications">通知を有効にする</string>
     <string name="enable_sync_dialog_body">バックグラウンドで Google ニュースのコンテンツを更新するには、同期をオンにします。</string>
     <string name="enable_sync_dialog_title">同期はオフになっています</string>
-    <string name="enumeration_comma">"、 "</string>
+    <string name="enumeration_comma">、</string>
     <string name="error_blocking_user">ユーザーをブロックできませんでした。もう一度お試しください。</string>
     <string name="error_removing_share">共有を削除できませんでした。もう一度お試しください。</string>
     <string name="exo_track_selection_auto">自動</string>
@@ -223,7 +234,7 @@
     <string name="go_to_story_360">すべての記事を表示</string>
     <string name="go_to_team_topic">チームに関するニュースにアクセス</string>
     <string name="go_to_topic">トピックに移動</string>
-    <string name="go_to_worldcup_topic">ワールドカップに関するニュースにアクセス</string>
+    <string name="go_to_worldcup_topic">ワールドカップに関するニュースに移動</string>
     <string name="graph_content_group_game_description">ホイール、%s を選択済み</string>
     <string name="graph_content_knockout_game_description">ホイール、%1$s、%2$s対%3$sを選択済み</string>
     <string name="graph_header_group">グループ</string>
@@ -236,6 +247,7 @@
     <string name="iap_failure_to_open">このコンテンツのアプリを開けません</string>
     <string name="iap_success_google_news">Google ニュースに追加しました</string>
     <string name="image_attribution">クレジット</string>
+    <string name="image_attribution_content_description">撮影: %1$s</string>
     <string name="image_not_available_offline">オフラインで利用できない画像です</string>
     <string name="language_reset">言語がリセットされました</string>
     <string name="launcher_app_name">ニュース</string>
@@ -269,6 +281,7 @@
     <string name="magazines_toggle_to_print_mode">印刷エディションに切り替え</string>
     <string name="marked_as_not_interested">類似の記事の表示数が減ります</string>
     <string name="match_in_list_content_description">%1$d/%2$d 件の試合を選択しています</string>
+    <string name="media_mute">ミュート</string>
     <string name="media_next">次へ</string>
     <string name="media_next_unavailable">次のアイテムはありません</string>
     <string name="media_notification_channel_description">Google ニュースのメディア通知の設定</string>
@@ -279,6 +292,7 @@
     <string name="media_previous_unavailable">前のアイテムはありません</string>
     <string name="media_progress">%1$s/%2$s</string>
     <string name="media_stop">停止</string>
+    <string name="media_unmute">ミュートを解除</string>
     <string name="mini_cards">ミニ カード</string>
     <string name="more_info">詳細</string>
     <string name="more_options_description">その他のオプション</string>
@@ -286,9 +300,8 @@
     <string name="move_to_top">最初に移動</string>
     <string name="must_be_online">インターネットに接続してください</string>
     <string name="my_activity">マイ アクティビティ</string>
-    <string name="my_activity_summary">%1$s としてログインしています</string>
     <string name="nativeAd_sponsored">スポンサー提供</string>
-    <string name="native_store_title">ニューススタンド</string>
+    <string name="native_store_title">新聞・雑誌</string>
     <string name="need_to_rotate_orientation">このコンテンツを表示するには、端末を回転してください。</string>
     <string name="needed_to_rotate_orientation">このコンテンツを表示するために画面を自動回転させました。</string>
     <string name="new_magazine_downloadable_notification">%1$s 号が発売されました</string>
@@ -317,6 +330,7 @@
     <string name="notification_subscription_enabled">「%1$s」の通知を有効にしました</string>
     <string name="notification_undo_text">元に戻す</string>
     <string name="notifications">通知</string>
+    <string name="notifications_and_shared">通知と共有済みアイテム</string>
     <string name="notifications_settings_menu_title">通知</string>
     <string name="now_following_topic">このトピックをフォローしています</string>
     <string name="ok">OK</string>
@@ -359,9 +373,9 @@
     <string name="privacy_policy">プライバシー ポリシー</string>
     <string name="profile_icon_description">アカウントと設定</string>
     <string name="progress_label_final">決勝</string>
-    <string name="progress_label_game_one">第 1 節</string>
-    <string name="progress_label_game_three">第 3 節</string>
-    <string name="progress_label_game_two">第 2 節</string>
+    <string name="progress_label_game_one">第1試合</string>
+    <string name="progress_label_game_three">第3試合</string>
+    <string name="progress_label_game_two">第2試合</string>
     <string name="progress_label_quarter_final">準々決勝</string>
     <string name="progress_label_round_of_sixteen">R16</string>
     <string name="progress_label_semi_final">準決勝</string>
@@ -414,12 +428,6 @@
     <string name="removed_from_read_later">記事をお気に入りから削除しました</string>
     <string name="report">報告</string>
     <string name="retry">再試行</string>
-    <string name="s1">画像の保存</string>
-    <string name="s2">広告が画像ギャラリーに画像を保存することを許可しますか？</string>
-    <string name="s3">許可する</string>
-    <string name="s4">許可しない</string>
-    <string name="s5">カレンダーの予定の作成</string>
-    <string name="s6">広告がカレンダーの予定を作成することを許可しますか？</string>
     <string name="saved_tab_title">保存した記事</string>
     <string name="sd_card_not_available_dialog_body">代わりに、コンテンツは端末の内部ストレージにダウンロードされます。</string>
     <string name="sd_card_not_available_dialog_title">SD カード使用不可</string>
@@ -590,7 +598,7 @@
     <string name="user_data_collection_title">登録</string>
     <string name="verify_button">確認</string>
     <string name="verify_your_subscription_toast_text">定期購入を確認してください</string>
-    <string name="via_twitter_placeholder_kicker">（%s）</string>
+    <string name="via_twitter_placeholder_kicker">%1$sから</string>
     <string name="video">動画</string>
     <string name="video_error">動画を再生できません。もう一度お試しください。</string>
     <string name="view_all">すべて表示</string>
@@ -605,7 +613,7 @@
     <string name="wifi_only_download_override_dialog_button_download_now">今すぐダウンロード</string>
     <string name="wifi_only_download_override_dialog_message">このコンテンツを今すぐダウンロードしますか？データ通信料が発生する場合があります。</string>
     <string name="wifi_only_download_override_dialog_title">Wi-Fi 接続なし</string>
-    <string name="world_cup_2018">2018 ワールドカップ</string>
-    <string name="year_and_month">%1$s %2$s</string>
+    <string name="world_cup_2018">2018 年ワールドカップ</string>
+    <string name="year_and_month">%2$s %1$s</string>
     <string name="year_and_month_range">%1$s %2$s～%3$s</string>
 </resources>

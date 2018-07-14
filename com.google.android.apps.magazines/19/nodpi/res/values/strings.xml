@@ -142,6 +142,7 @@ Server: %3$s"</string>
     <string name="common_google_play_services_install_button">Install</string>
     <string name="common_google_play_services_install_text">"%1$s won't run without Google Play services, which are missing from your device."</string>
     <string name="common_google_play_services_install_title">Get Google Play services</string>
+    <string name="common_google_play_services_notification_channel_name">Google Play services availability</string>
     <string name="common_google_play_services_notification_ticker">Google Play services error</string>
     <string name="common_google_play_services_unknown_issue">%1$s is having trouble with Google Play services. Please try again.</string>
     <string name="common_google_play_services_unsupported_text">"%1$s won't run without Google Play services, which are not supported by your device."</string>
@@ -457,6 +458,7 @@ Leave to switch to the public version of Google News starting on October 5th."</
     <string name="manage_subscriptions_uri">app/newsstand_library</string>
     <string name="marked_as_not_interested">"You'll see fewer stories like this"</string>
     <string name="match_in_list_content_description">Match %1$d out of %2$d</string>
+    <string name="media_mute">Mute</string>
     <string name="media_next">Next</string>
     <string name="media_next_unavailable">Next item not available</string>
     <string name="media_notification_channel_description">Settings for Google News media notifications</string>
@@ -467,6 +469,7 @@ Leave to switch to the public version of Google News starting on October 5th."</
     <string name="media_previous_unavailable">Previous item not available</string>
     <string name="media_progress">%1$s of %2$s</string>
     <string name="media_stop">Stop</string>
+    <string name="media_unmute">Unmute</string>
     <string name="min_sync_space_mags">Min. space to sync mags (MB)</string>
     <string name="min_sync_space_news">Min. space to sync news (MB)</string>
     <string name="mini_cards">Mini cards</string>
@@ -479,9 +482,8 @@ Leave to switch to the public version of Google News starting on October 5th."</
     <string name="move_to_top">Move to beginning</string>
     <string name="music_track_album_format">%1$s - %2$s</string>
     <string name="must_be_online">"Make sure you're connected to the Internet"</string>
-    <string name="my_activity">My activity</string>
+    <string name="my_activity">My Activity</string>
     <string name="my_activity_preference_key">myActivity</string>
-    <string name="my_activity_summary">Signed in as %1$s</string>
     <string name="my_activity_url">https://myactivity.google.com/product/news/embed</string>
     <string name="nativeAd_sponsored">Sponsored</string>
     <string name="native_store_title">Newsstand</string>
@@ -515,6 +517,7 @@ Leave to switch to the public version of Google News starting on October 5th."</
     <string name="notification_subscription_enabled">Notifications enabled for %1$s</string>
     <string name="notification_undo_text">Undo</string>
     <string name="notifications">Notifications</string>
+    <string name="notifications_and_shared">Notifications &amp; shared</string>
     <string name="notifications_category_key">notificationsCategory</string>
     <string name="notifications_screen_key">notificationsScreen</string>
     <string name="notifications_settings_menu_title">Notifications</string>
@@ -574,7 +577,7 @@ Leave to switch to the public version of Google News starting on October 5th."</
     <string name="primes_menu_close">Close</string>
     <string name="primes_menu_refresh">Refresh</string>
     <string name="primes_option_all_events">All</string>
-    <string name="primes_version">196760842</string>
+    <string name="primes_version">200650832</string>
     <string name="privacy_policy">Privacy Policy</string>
     <string name="prod_base_url">https://play.google.com/newsstand</string>
     <string name="prod_guc_url">https://newsstand.googleusercontent.com/newsstand</string>
@@ -650,12 +653,6 @@ Leave to switch to the public version of Google News starting on October 5th."</
     <string name="retry">Retry</string>
     <string name="rlz_access_point_exclusive">YH</string>
     <string name="rlz_access_point_non_exclusive">YJ</string>
-    <string name="s1">Save image</string>
-    <string name="s2">Allow Ad to store image in Picture gallery?</string>
-    <string name="s3">Accept</string>
-    <string name="s4">Decline</string>
-    <string name="s5">Create calendar event</string>
-    <string name="s6">Allow Ad to create a calendar event?</string>
     <string name="saved_tab_title">Saved stories</string>
     <string name="sd_card_not_available_dialog_body">"Content will be downloaded to your device's internal storage instead."</string>
     <string name="sd_card_not_available_dialog_title">SD card not available</string>
@@ -931,16 +928,15 @@ Leave to switch to the public version of Google News starting on October 5th."</
     <item type="string" name="APKTOOL_DUMMY_97">false</item>
     <item type="string" name="APKTOOL_DUMMY_9e">false</item>
     <item type="string" name="APKTOOL_DUMMY_a7">false</item>
-    <item type="string" name="APKTOOL_DUMMY_b9">false</item>
     <item type="string" name="APKTOOL_DUMMY_ba">false</item>
-    <item type="string" name="APKTOOL_DUMMY_101">false</item>
+    <item type="string" name="APKTOOL_DUMMY_bb">false</item>
     <item type="string" name="APKTOOL_DUMMY_102">false</item>
-    <item type="string" name="APKTOOL_DUMMY_11e">false</item>
-    <item type="string" name="APKTOOL_DUMMY_122">false</item>
-    <item type="string" name="APKTOOL_DUMMY_13e">false</item>
+    <item type="string" name="APKTOOL_DUMMY_103">false</item>
+    <item type="string" name="APKTOOL_DUMMY_11f">false</item>
+    <item type="string" name="APKTOOL_DUMMY_123">false</item>
     <item type="string" name="APKTOOL_DUMMY_13f">false</item>
-    <item type="string" name="APKTOOL_DUMMY_144">false</item>
-    <item type="string" name="APKTOOL_DUMMY_148">false</item>
+    <item type="string" name="APKTOOL_DUMMY_140">false</item>
+    <item type="string" name="APKTOOL_DUMMY_145">false</item>
     <item type="string" name="APKTOOL_DUMMY_149">false</item>
     <item type="string" name="APKTOOL_DUMMY_14a">false</item>
     <item type="string" name="APKTOOL_DUMMY_14b">false</item>
@@ -962,7 +958,7 @@ Leave to switch to the public version of Google News starting on October 5th."</
     <item type="string" name="APKTOOL_DUMMY_15b">false</item>
     <item type="string" name="APKTOOL_DUMMY_15c">false</item>
     <item type="string" name="APKTOOL_DUMMY_15d">false</item>
-    <item type="string" name="APKTOOL_DUMMY_160">false</item>
+    <item type="string" name="APKTOOL_DUMMY_15e">false</item>
     <item type="string" name="APKTOOL_DUMMY_161">false</item>
     <item type="string" name="APKTOOL_DUMMY_162">false</item>
     <item type="string" name="APKTOOL_DUMMY_163">false</item>
@@ -974,21 +970,21 @@ Leave to switch to the public version of Google News starting on October 5th."</
     <item type="string" name="APKTOOL_DUMMY_169">false</item>
     <item type="string" name="APKTOOL_DUMMY_16a">false</item>
     <item type="string" name="APKTOOL_DUMMY_16b">false</item>
-    <item type="string" name="APKTOOL_DUMMY_16d">false</item>
-    <item type="string" name="APKTOOL_DUMMY_181">false</item>
+    <item type="string" name="APKTOOL_DUMMY_16c">false</item>
+    <item type="string" name="APKTOOL_DUMMY_16e">false</item>
     <item type="string" name="APKTOOL_DUMMY_182">false</item>
-    <item type="string" name="APKTOOL_DUMMY_184">false</item>
-    <item type="string" name="APKTOOL_DUMMY_186">false</item>
-    <item type="string" name="APKTOOL_DUMMY_1bd">false</item>
-    <item type="string" name="APKTOOL_DUMMY_1c4">false</item>
+    <item type="string" name="APKTOOL_DUMMY_183">false</item>
+    <item type="string" name="APKTOOL_DUMMY_185">false</item>
+    <item type="string" name="APKTOOL_DUMMY_187">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1be">false</item>
     <item type="string" name="APKTOOL_DUMMY_1c5">false</item>
     <item type="string" name="APKTOOL_DUMMY_1c6">false</item>
     <item type="string" name="APKTOOL_DUMMY_1c7">false</item>
-    <item type="string" name="APKTOOL_DUMMY_1cd">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1c8">false</item>
     <item type="string" name="APKTOOL_DUMMY_1ce">false</item>
     <item type="string" name="APKTOOL_DUMMY_1cf">false</item>
     <item type="string" name="APKTOOL_DUMMY_1d0">false</item>
-    <item type="string" name="APKTOOL_DUMMY_1d2">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1d1">false</item>
     <item type="string" name="APKTOOL_DUMMY_1d3">false</item>
     <item type="string" name="APKTOOL_DUMMY_1d4">false</item>
     <item type="string" name="APKTOOL_DUMMY_1d5">false</item>
@@ -999,82 +995,86 @@ Leave to switch to the public version of Google News starting on October 5th."</
     <item type="string" name="APKTOOL_DUMMY_1da">false</item>
     <item type="string" name="APKTOOL_DUMMY_1db">false</item>
     <item type="string" name="APKTOOL_DUMMY_1dc">false</item>
-    <item type="string" name="APKTOOL_DUMMY_1de">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1dd">false</item>
     <item type="string" name="APKTOOL_DUMMY_1df">false</item>
-    <item type="string" name="APKTOOL_DUMMY_1fa">false</item>
-    <item type="string" name="APKTOOL_DUMMY_1fd">false</item>
-    <item type="string" name="APKTOOL_DUMMY_208">false</item>
-    <item type="string" name="APKTOOL_DUMMY_211">false</item>
-    <item type="string" name="APKTOOL_DUMMY_219">false</item>
-    <item type="string" name="APKTOOL_DUMMY_225">false</item>
-    <item type="string" name="APKTOOL_DUMMY_233">false</item>
-    <item type="string" name="APKTOOL_DUMMY_23d">false</item>
-    <item type="string" name="APKTOOL_DUMMY_23f">false</item>
-    <item type="string" name="APKTOOL_DUMMY_243">false</item>
-    <item type="string" name="APKTOOL_DUMMY_247">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1e0">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1fb">false</item>
+    <item type="string" name="APKTOOL_DUMMY_1fe">false</item>
+    <item type="string" name="APKTOOL_DUMMY_209">false</item>
+    <item type="string" name="APKTOOL_DUMMY_212">false</item>
+    <item type="string" name="APKTOOL_DUMMY_21a">false</item>
+    <item type="string" name="APKTOOL_DUMMY_226">false</item>
+    <item type="string" name="APKTOOL_DUMMY_23e">false</item>
+    <item type="string" name="APKTOOL_DUMMY_244">false</item>
     <item type="string" name="APKTOOL_DUMMY_248">false</item>
-    <item type="string" name="APKTOOL_DUMMY_24d">false</item>
+    <item type="string" name="APKTOOL_DUMMY_249">false</item>
     <item type="string" name="APKTOOL_DUMMY_24e">false</item>
-    <item type="string" name="APKTOOL_DUMMY_255">false</item>
-    <item type="string" name="APKTOOL_DUMMY_25d">false</item>
-    <item type="string" name="APKTOOL_DUMMY_261">false</item>
-    <item type="string" name="APKTOOL_DUMMY_263">false</item>
-    <item type="string" name="APKTOOL_DUMMY_266">false</item>
+    <item type="string" name="APKTOOL_DUMMY_24f">false</item>
+    <item type="string" name="APKTOOL_DUMMY_254">false</item>
+    <item type="string" name="APKTOOL_DUMMY_256">false</item>
+    <item type="string" name="APKTOOL_DUMMY_25e">false</item>
+    <item type="string" name="APKTOOL_DUMMY_262">false</item>
+    <item type="string" name="APKTOOL_DUMMY_264">false</item>
     <item type="string" name="APKTOOL_DUMMY_267">false</item>
     <item type="string" name="APKTOOL_DUMMY_268">false</item>
-    <item type="string" name="APKTOOL_DUMMY_275">false</item>
-    <item type="string" name="APKTOOL_DUMMY_278">false</item>
+    <item type="string" name="APKTOOL_DUMMY_269">false</item>
+    <item type="string" name="APKTOOL_DUMMY_276">false</item>
     <item type="string" name="APKTOOL_DUMMY_279">false</item>
-    <item type="string" name="APKTOOL_DUMMY_27b">false</item>
+    <item type="string" name="APKTOOL_DUMMY_27a">false</item>
     <item type="string" name="APKTOOL_DUMMY_27c">false</item>
-    <item type="string" name="APKTOOL_DUMMY_27f">false</item>
-    <item type="string" name="APKTOOL_DUMMY_286">false</item>
+    <item type="string" name="APKTOOL_DUMMY_27d">false</item>
+    <item type="string" name="APKTOOL_DUMMY_280">false</item>
     <item type="string" name="APKTOOL_DUMMY_288">false</item>
-    <item type="string" name="APKTOOL_DUMMY_295">false</item>
-    <item type="string" name="APKTOOL_DUMMY_298">false</item>
-    <item type="string" name="APKTOOL_DUMMY_299">false</item>
+    <item type="string" name="APKTOOL_DUMMY_28a">false</item>
+    <item type="string" name="APKTOOL_DUMMY_297">false</item>
     <item type="string" name="APKTOOL_DUMMY_29a">false</item>
     <item type="string" name="APKTOOL_DUMMY_29b">false</item>
-    <item type="string" name="APKTOOL_DUMMY_2b1">false</item>
+    <item type="string" name="APKTOOL_DUMMY_29c">false</item>
+    <item type="string" name="APKTOOL_DUMMY_29d">false</item>
     <item type="string" name="APKTOOL_DUMMY_2b3">false</item>
-    <item type="string" name="APKTOOL_DUMMY_2b4">false</item>
     <item type="string" name="APKTOOL_DUMMY_2b5">false</item>
-    <item type="string" name="APKTOOL_DUMMY_2b8">false</item>
-    <item type="string" name="APKTOOL_DUMMY_2b9">false</item>
+    <item type="string" name="APKTOOL_DUMMY_2b6">false</item>
+    <item type="string" name="APKTOOL_DUMMY_2b7">false</item>
     <item type="string" name="APKTOOL_DUMMY_2ba">false</item>
     <item type="string" name="APKTOOL_DUMMY_2bb">false</item>
+    <item type="string" name="APKTOOL_DUMMY_2bc">false</item>
     <item type="string" name="APKTOOL_DUMMY_2bd">false</item>
-    <item type="string" name="APKTOOL_DUMMY_2be">false</item>
     <item type="string" name="APKTOOL_DUMMY_2bf">false</item>
-    <item type="string" name="APKTOOL_DUMMY_2c2">false</item>
-    <item type="string" name="APKTOOL_DUMMY_2c5">false</item>
-    <item type="string" name="APKTOOL_DUMMY_2c6">false</item>
-    <item type="string" name="APKTOOL_DUMMY_2ca">false</item>
-    <item type="string" name="APKTOOL_DUMMY_2cb">false</item>
-    <item type="string" name="APKTOOL_DUMMY_2ef">false</item>
+    <item type="string" name="APKTOOL_DUMMY_2c0">false</item>
+    <item type="string" name="APKTOOL_DUMMY_2c1">false</item>
+    <item type="string" name="APKTOOL_DUMMY_2c4">false</item>
+    <item type="string" name="APKTOOL_DUMMY_2c7">false</item>
+    <item type="string" name="APKTOOL_DUMMY_2c8">false</item>
+    <item type="string" name="APKTOOL_DUMMY_2c9">false</item>
+    <item type="string" name="APKTOOL_DUMMY_2cd">false</item>
+    <item type="string" name="APKTOOL_DUMMY_2ce">false</item>
     <item type="string" name="APKTOOL_DUMMY_2f2">false</item>
-    <item type="string" name="APKTOOL_DUMMY_311">false</item>
-    <item type="string" name="APKTOOL_DUMMY_315">false</item>
-    <item type="string" name="APKTOOL_DUMMY_31b">false</item>
-    <item type="string" name="APKTOOL_DUMMY_31c">false</item>
-    <item type="string" name="APKTOOL_DUMMY_333">false</item>
+    <item type="string" name="APKTOOL_DUMMY_2f5">false</item>
+    <item type="string" name="APKTOOL_DUMMY_314">false</item>
+    <item type="string" name="APKTOOL_DUMMY_318">false</item>
+    <item type="string" name="APKTOOL_DUMMY_31e">false</item>
+    <item type="string" name="APKTOOL_DUMMY_31f">false</item>
+    <item type="string" name="APKTOOL_DUMMY_330">false</item>
+    <item type="string" name="APKTOOL_DUMMY_331">false</item>
     <item type="string" name="APKTOOL_DUMMY_334">false</item>
-    <item type="string" name="APKTOOL_DUMMY_337">false</item>
+    <item type="string" name="APKTOOL_DUMMY_339">false</item>
+    <item type="string" name="APKTOOL_DUMMY_33a">false</item>
+    <item type="string" name="APKTOOL_DUMMY_33b">false</item>
     <item type="string" name="APKTOOL_DUMMY_33c">false</item>
-    <item type="string" name="APKTOOL_DUMMY_33d">false</item>
-    <item type="string" name="APKTOOL_DUMMY_33e">false</item>
-    <item type="string" name="APKTOOL_DUMMY_33f">false</item>
-    <item type="string" name="APKTOOL_DUMMY_370">false</item>
-    <item type="string" name="APKTOOL_DUMMY_376">false</item>
+    <item type="string" name="APKTOOL_DUMMY_36d">false</item>
+    <item type="string" name="APKTOOL_DUMMY_373">false</item>
+    <item type="string" name="APKTOOL_DUMMY_383">false</item>
+    <item type="string" name="APKTOOL_DUMMY_384">false</item>
+    <item type="string" name="APKTOOL_DUMMY_385">false</item>
     <item type="string" name="APKTOOL_DUMMY_386">false</item>
     <item type="string" name="APKTOOL_DUMMY_387">false</item>
     <item type="string" name="APKTOOL_DUMMY_388">false</item>
-    <item type="string" name="APKTOOL_DUMMY_389">false</item>
     <item type="string" name="APKTOOL_DUMMY_38a">false</item>
-    <item type="string" name="APKTOOL_DUMMY_38b">false</item>
-    <item type="string" name="APKTOOL_DUMMY_38d">false</item>
-    <item type="string" name="APKTOOL_DUMMY_396">false</item>
-    <item type="string" name="APKTOOL_DUMMY_39d">false</item>
+    <item type="string" name="APKTOOL_DUMMY_393">false</item>
+    <item type="string" name="APKTOOL_DUMMY_39a">false</item>
+    <item type="string" name="APKTOOL_DUMMY_3a0">false</item>
+    <item type="string" name="APKTOOL_DUMMY_3a1">false</item>
+    <item type="string" name="APKTOOL_DUMMY_3a2">false</item>
     <item type="string" name="APKTOOL_DUMMY_3a3">false</item>
     <item type="string" name="APKTOOL_DUMMY_3a4">false</item>
     <item type="string" name="APKTOOL_DUMMY_3a5">false</item>
@@ -1082,32 +1082,29 @@ Leave to switch to the public version of Google News starting on October 5th."</
     <item type="string" name="APKTOOL_DUMMY_3a7">false</item>
     <item type="string" name="APKTOOL_DUMMY_3a8">false</item>
     <item type="string" name="APKTOOL_DUMMY_3a9">false</item>
-    <item type="string" name="APKTOOL_DUMMY_3aa">false</item>
-    <item type="string" name="APKTOOL_DUMMY_3ab">false</item>
-    <item type="string" name="APKTOOL_DUMMY_3ac">false</item>
-    <item type="string" name="APKTOOL_DUMMY_3c4">false</item>
-    <item type="string" name="APKTOOL_DUMMY_3cd">false</item>
-    <item type="string" name="APKTOOL_DUMMY_3d7">false</item>
-    <item type="string" name="APKTOOL_DUMMY_3f0">false</item>
-    <item type="string" name="APKTOOL_DUMMY_3fb">false</item>
-    <item type="string" name="APKTOOL_DUMMY_3ff">false</item>
-    <item type="string" name="APKTOOL_DUMMY_401">false</item>
-    <item type="string" name="APKTOOL_DUMMY_408">false</item>
+    <item type="string" name="APKTOOL_DUMMY_3c1">false</item>
+    <item type="string" name="APKTOOL_DUMMY_3ca">false</item>
+    <item type="string" name="APKTOOL_DUMMY_3d4">false</item>
+    <item type="string" name="APKTOOL_DUMMY_3ed">false</item>
+    <item type="string" name="APKTOOL_DUMMY_3f8">false</item>
+    <item type="string" name="APKTOOL_DUMMY_3fc">false</item>
+    <item type="string" name="APKTOOL_DUMMY_3fe">false</item>
+    <item type="string" name="APKTOOL_DUMMY_405">false</item>
+    <item type="string" name="APKTOOL_DUMMY_41d">false</item>
+    <item type="string" name="APKTOOL_DUMMY_41e">false</item>
+    <item type="string" name="APKTOOL_DUMMY_41f">false</item>
     <item type="string" name="APKTOOL_DUMMY_420">false</item>
-    <item type="string" name="APKTOOL_DUMMY_421">false</item>
-    <item type="string" name="APKTOOL_DUMMY_422">false</item>
-    <item type="string" name="APKTOOL_DUMMY_423">false</item>
+    <item type="string" name="APKTOOL_DUMMY_426">false</item>
+    <item type="string" name="APKTOOL_DUMMY_427">false</item>
     <item type="string" name="APKTOOL_DUMMY_429">false</item>
-    <item type="string" name="APKTOOL_DUMMY_42a">false</item>
-    <item type="string" name="APKTOOL_DUMMY_42c">false</item>
+    <item type="string" name="APKTOOL_DUMMY_42d">false</item>
+    <item type="string" name="APKTOOL_DUMMY_42e">false</item>
+    <item type="string" name="APKTOOL_DUMMY_42f">false</item>
     <item type="string" name="APKTOOL_DUMMY_430">false</item>
     <item type="string" name="APKTOOL_DUMMY_431">false</item>
     <item type="string" name="APKTOOL_DUMMY_432">false</item>
     <item type="string" name="APKTOOL_DUMMY_433">false</item>
-    <item type="string" name="APKTOOL_DUMMY_434">false</item>
-    <item type="string" name="APKTOOL_DUMMY_435">false</item>
-    <item type="string" name="APKTOOL_DUMMY_436">false</item>
-    <item type="string" name="APKTOOL_DUMMY_43a">false</item>
-    <item type="string" name="APKTOOL_DUMMY_444">false</item>
-    <item type="string" name="APKTOOL_DUMMY_445">false</item>
+    <item type="string" name="APKTOOL_DUMMY_437">false</item>
+    <item type="string" name="APKTOOL_DUMMY_441">false</item>
+    <item type="string" name="APKTOOL_DUMMY_442">false</item>
 </resources>

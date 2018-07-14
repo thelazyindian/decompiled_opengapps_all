@@ -9,6 +9,16 @@
     <string name="abc_activitychooserview_choose_application">"Kies 'n program"</string>
     <string name="abc_capital_off">AF</string>
     <string name="abc_capital_on">AAN</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">delete</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">Funksie+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">spasiebalk</string>
+    <string name="abc_menu_sym_shortcut_label">Simbool+</string>
+    <string name="abc_prepend_shortcut_label">Kieslys+</string>
     <string name="abc_search_hint">Soek …</string>
     <string name="abc_searchview_description_clear">Vee navraag uit</string>
     <string name="abc_searchview_description_search">Soek</string>
@@ -98,6 +108,7 @@
     <string name="common_google_play_services_install_button">Installeer</string>
     <string name="common_google_play_services_install_text">%1$s sal nie sonder Google Play Dienste werk nie, wat nie op jou toestel is nie.</string>
     <string name="common_google_play_services_install_title">Kry Google Play-dienste</string>
+    <string name="common_google_play_services_notification_channel_name">Beskikbaarheid van Google Play-dienste</string>
     <string name="common_google_play_services_notification_ticker">Google Play Services-fout</string>
     <string name="common_google_play_services_unknown_issue">%1$s ondervind probleme met Google Play Dienste. Probeer asseblief weer.</string>
     <string name="common_google_play_services_unsupported_text">%1$s sal nie werk sonder Google Play Dienste nie, wat nie deur jou toestel gesteun word nie.</string>
@@ -119,7 +130,7 @@
     <string name="continue_reading">Hou aan lees</string>
     <string name="continue_reading_label">Lees verder: %s</string>
     <string name="countdown_days">dae</string>
-    <string name="countdown_hours">ure</string>
+    <string name="countdown_hours">uur</string>
     <string name="countdown_mins">minute</string>
     <string name="countdown_secs">sekondes</string>
     <string name="crash_report_message">Ongelukkig het %s gestop.</string>
@@ -179,7 +190,7 @@
     <string name="enable_notifications">Aktiveer kennisgewings</string>
     <string name="enable_sync_dialog_body">Sinkronisering sal aangeskakel word om Google Nuus-inhoud in die agtergrond te herlaai.</string>
     <string name="enable_sync_dialog_title">Sinkronisasie is afgeskakel</string>
-    <string name="enumeration_comma">", "</string>
+    <string name="enumeration_comma">,</string>
     <string name="error_blocking_user">Kan nie gebruiker blokkeer nie; probeer asseblief weer.</string>
     <string name="error_removing_share">Kon nie deling verwyder nie. Probeer asseblief weer.</string>
     <string name="exo_track_selection_auto">Outo</string>
@@ -223,7 +234,7 @@
     <string name="go_to_story_360">Bekyk Volledige Verslag</string>
     <string name="go_to_team_topic">Gaan na die spannuus</string>
     <string name="go_to_topic">Gaan na onderwerp toe</string>
-    <string name="go_to_worldcup_topic">Gaan na Wêreldbekernuus</string>
+    <string name="go_to_worldcup_topic">Gaan na Wêreldbeker-nuus</string>
     <string name="graph_content_group_game_description">Wiel; %s is gekies</string>
     <string name="graph_content_knockout_game_description">Wiel; %1$s, %2$s vs. %3$s is gekies</string>
     <string name="graph_header_group">Groep</string>
@@ -236,6 +247,7 @@
     <string name="iap_failure_to_open">Kan nie die program vir hierdie inhoud oopmaak nie</string>
     <string name="iap_success_google_news">By Google Nuus gevoeg</string>
     <string name="image_attribution">Erkenning</string>
+    <string name="image_attribution_content_description">Foto deur %1$s</string>
     <string name="image_not_available_offline">Prent nie vanlyn beskikbaar nie</string>
     <string name="language_reset">Taal is teruggestel</string>
     <string name="launcher_app_name">Nuus</string>
@@ -269,6 +281,7 @@
     <string name="magazines_toggle_to_print_mode">Wissel na drukuitgawe</string>
     <string name="marked_as_not_interested">Jy sal minder sulke berigte sien</string>
     <string name="match_in_list_content_description">Wedstryd %1$d van %2$d</string>
+    <string name="media_mute">Demp</string>
     <string name="media_next">Volgende</string>
     <string name="media_next_unavailable">Volgende item is nie beskikbaar nie</string>
     <string name="media_notification_channel_description">Instellings vir Google Nuus se mediakennisgewings</string>
@@ -279,6 +292,7 @@
     <string name="media_previous_unavailable">Vorige item is nie beskikbaar nie</string>
     <string name="media_progress">%1$s van %2$s</string>
     <string name="media_stop">Stop</string>
+    <string name="media_unmute">Ontdemp</string>
     <string name="mini_cards">Minikaarte</string>
     <string name="more_info">Meer inligting</string>
     <string name="more_options_description">Meer opsies</string>
@@ -286,9 +300,8 @@
     <string name="move_to_top">Skuif na begin</string>
     <string name="must_be_online">Maak seker dat jy aan die internet gekoppel is</string>
     <string name="my_activity">My aktiwiteit</string>
-    <string name="my_activity_summary">Aangemeld as %1$s</string>
     <string name="nativeAd_sponsored">Geborg</string>
-    <string name="native_store_title">Kiosk</string>
+    <string name="native_store_title">Nuuskiosk</string>
     <string name="need_to_rotate_orientation">Draai jou toestel om hierdie inhoud te wys.</string>
     <string name="needed_to_rotate_orientation">Die toestel moes outomaties draai om hierdie inhoud te vertoon.</string>
     <string name="new_magazine_downloadable_notification">%1$s uitgawe is beskikbaar</string>
@@ -317,6 +330,7 @@
     <string name="notification_subscription_enabled">Kennisgewings is geaktiveer vir %1$s</string>
     <string name="notification_undo_text">Ontdoen</string>
     <string name="notifications">Kennisgewings</string>
+    <string name="notifications_and_shared">Kennisgewings en gedeel</string>
     <string name="notifications_settings_menu_title">Kennisgewings</string>
     <string name="now_following_topic">Jy volg tans hierdie onderwerp</string>
     <string name="ok">OK</string>
@@ -335,7 +349,7 @@
     <string name="onboarding_title2">Ontmoet die nuwe Google Nuus.</string>
     <string name="open_source_licenses">Oopbronlisensies</string>
     <string name="pause_audio">Laat oudio wag</string>
-    <string name="pause_video">Onderbreek video</string>
+    <string name="pause_video">Laat video wag</string>
     <string name="pii_optional_title">"Om volledige intekenaarvoordele vir %1$s te ontvang, wil die uitgewer 'n bietjie inligting by jou hê"</string>
     <string name="place_autocomplete_clear_button">Maak soektog skoon</string>
     <string name="place_autocomplete_search_hint">Soek</string>
@@ -358,13 +372,13 @@
     <string name="previous_match_content_description">Gaan na vorige wedstryd</string>
     <string name="privacy_policy">Privaatheidbeleid</string>
     <string name="profile_icon_description">Rekening en instellings</string>
-    <string name="progress_label_final">Eindstd.</string>
+    <string name="progress_label_final">Eind.</string>
     <string name="progress_label_game_one">Wedst. 1</string>
     <string name="progress_label_game_three">Wedst. 3</string>
     <string name="progress_label_game_two">Wedst. 2</string>
-    <string name="progress_label_quarter_final">Kwarteind</string>
+    <string name="progress_label_quarter_final">Kwart.</string>
     <string name="progress_label_round_of_sixteen">R van 16</string>
-    <string name="progress_label_semi_final">Halfeind</string>
+    <string name="progress_label_semi_final">Half.</string>
     <string name="progress_title_group_stage">Groepfase</string>
     <string name="progress_title_knockout_stage">Uitklopfase</string>
     <string name="psv_challenge_continue_to_publisher">Gaan voort na die webwerf van %1$s om aan te meld en jou intekening te verifieer.</string>
@@ -414,12 +428,6 @@
     <string name="removed_from_read_later">Berig is uit gunstelinge verwyder</string>
     <string name="report">Gee aan</string>
     <string name="retry">Herprobeer</string>
-    <string name="s1">Stoor prent</string>
-    <string name="s2">Laat advertensie toe om prent in Prentgalery te stoor?</string>
-    <string name="s3">Aanvaar</string>
-    <string name="s4">Wys af</string>
-    <string name="s5">Skep kalendergeleentheid</string>
-    <string name="s6">"Laat advertensie toe om 'n kalendergeleentheid te skep?"</string>
     <string name="saved_tab_title">Gestoorde berigte</string>
     <string name="sd_card_not_available_dialog_body">Inhoud sal eerder na jou toestel se interne berging afgelaai word.</string>
     <string name="sd_card_not_available_dialog_title">SD-kaart nie beskikbaar nie</string>
@@ -543,7 +551,7 @@
     <string name="sync_progress_notification_title">Laai tans Google Nuus-inhoud af</string>
     <string name="team_eliminated">Uitgeskakel</string>
     <string name="team_more_coverage">Meer dekking oor %s</string>
-    <string name="team_unknown">Onbepaald</string>
+    <string name="team_unknown">ONBEPAALD</string>
     <string name="teams_page_title">Spanne</string>
     <string name="temperature_unit_celsius">Celsius</string>
     <string name="temperature_unit_fahrenheit">Fahrenheit</string>
@@ -605,7 +613,7 @@
     <string name="wifi_only_download_override_dialog_button_download_now">Laai nou af</string>
     <string name="wifi_only_download_override_dialog_message">Wil jy hierdie inhoud nou aflaai? Datakostes kan van toepassing wees.</string>
     <string name="wifi_only_download_override_dialog_title">Geen Wi-Fi-verbinding nie</string>
-    <string name="world_cup_2018">Wêreldbeker 2018</string>
+    <string name="world_cup_2018">2018-wêreldbeker</string>
     <string name="year_and_month">%2$s %1$s</string>
     <string name="year_and_month_range">%2$s-%3$s %1$s</string>
 </resources>

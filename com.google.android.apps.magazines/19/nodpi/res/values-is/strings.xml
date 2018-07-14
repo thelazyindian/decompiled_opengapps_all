@@ -7,6 +7,16 @@
     <string name="abc_activitychooserview_choose_application">Veldu forrit</string>
     <string name="abc_capital_off">SLÖKKT</string>
     <string name="abc_capital_on">KVEIKT</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">delete</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">Aðgerðarlykill+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">bilslá</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">Valmynd+</string>
     <string name="abc_search_hint">Leita…</string>
     <string name="abc_searchview_description_clear">Hreinsa fyrirspurn</string>
     <string name="abc_searchview_description_search">Leita</string>
@@ -26,6 +36,7 @@
     <string name="common_google_play_services_install_button">Setja upp</string>
     <string name="common_google_play_services_install_text">%1$s getur ekki keyrt án þjónustu Google Play, sem vantar í tækið þitt.</string>
     <string name="common_google_play_services_install_title">Sækja þjónustu Google Play</string>
+    <string name="common_google_play_services_notification_channel_name">Staða þjónustu Google Play</string>
     <string name="common_google_play_services_notification_ticker">Villa í þjónustu Google Play</string>
     <string name="common_google_play_services_unknown_issue">%1$s á í vandræðum með þjónustu Google Play. Reyndu aftur.</string>
     <string name="common_google_play_services_unsupported_text">%1$s getur ekki keyrt án þjónustu Google Play, sem er ekki studd af tækinu þínu.</string>
@@ -42,12 +53,6 @@
     <string name="place_autocomplete_clear_button">Hreinsa leit</string>
     <string name="place_autocomplete_search_hint">Leita</string>
     <string name="preferences_license_title">Leyfi opins kóða</string>
-    <string name="s1">Vista mynd</string>
-    <string name="s2">Leyfa auglýsingu að vista mynd í myndasafninu?</string>
-    <string name="s3">Samþykkja</string>
-    <string name="s4">Hafna</string>
-    <string name="s5">Búa til dagatalsviðburð</string>
-    <string name="s6">Leyfa auglýsingu að búa til dagatalsviðburð?</string>
     <string name="sendkit_ui_about_suggested_people_info">To make sharing easier, Google suggests people to share with based on your interactions</string>
     <string name="sendkit_ui_about_top_suggestions">About suggested people</string>
     <string name="sendkit_ui_add_message_title">Bæta við skilaboðum</string>

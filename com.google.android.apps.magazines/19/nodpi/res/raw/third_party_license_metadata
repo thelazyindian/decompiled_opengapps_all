@@ -4,66 +4,72 @@
 33562:11344 Android Architecture Components Lifecycle Library
 44968:11344 Android Architecture Components Lifecycle Runtime Library
 56347:10695 Android Compat Support Library
-67079:10695 Android Compatibility Library v4
-77811:10695 Android Compatibility Library v7
-88552:10694 Android Constraint Layout Support Library
-99282:10695 Android Core UI Support Library
-110016:10691 Android Core Utils Support Library
-120747:10695 Android Custom Tabs Support Library
-131477:10695 Android Design Support Library
-142210:10695 Android Fragments Support Library
-152942:10695 Android Graphics Support Library
-163678:10691 Android Media Compat Support Library
-174406:10695 Android Multidex Support Library
-185140:10691 Android Transition Support Library
-195855:11358 Apache Commons Lang
-207226:11358 AutoGson
-218605:10173 Closure Compiler
-228839:10693 Compatibility Libraries for Android asynclayoutinflater.
-239585:10693 Compatibility Libraries for Android collections.
-250337:10693 Compatibility Libraries for Android coordinatorlayout.
-261085:10693 Compatibility Libraries for Android cursoradapter.
-271830:10693 Compatibility Libraries for Android customview.
-282577:10693 Compatibility Libraries for Android documentfile.
-293324:10693 Compatibility Libraries for Android drawerlayout.
-304071:10693 Compatibility Libraries for Android interpolator.
-314812:10693 Compatibility Libraries for Android loader.
-325568:10693 Compatibility Libraries for Android localbroadcastmanager.
-336308:10693 Compatibility Libraries for Android print.
-347060:10693 Compatibility Libraries for Android slidingpanelayout.
-357813:10693 Compatibility Libraries for Android swiperefreshlayout.
-368557:10693 Compatibility Libraries for Android viewpager.
-379261:11358 Dagger
-390635:11357 Error Prone
-402006:11358 ExoPlayer
-413386:11358 FasterXML Jackson
-424760:11358 Google Auto
-436133:11358 Guava JDK5
-447506:11362 Guava JDK7
-458879:11358 J2ObjC
-470249:11358 JSR 250
-481619:11365 JSR 330
-492998:11358 Joda-Time
-504371:11358 LeakCanary
-515750:11357 LeakCanary No-op
-527118:11356 Lottie
-538510:11358 Material Components for Android
-549889:18883 Open Measurement
-568796:12992 Play Common Library
-581799:11358 Volley
-593166:11365 absl
-604542:11358 backup
-615921:10141 customtabsclient
-626074:11358 flexbox
-637441:11358 gson
-648816:11358 joda_convert
-660190:16013 Android SDK
-676225:22655 Checker Framework
-698899:1096 Animal Sniffer
-700007:1606 jquery2
-701624:43785 Cronet
-745419:4771 Glide
-750200:19442 ICU4J
-769654:1602 JSR 305
-771274:1732 Protobuf Nano
-773020:1549 nanohttpd
+67080:10695 Android Compatibility Library v17
+77812:10695 Android Compatibility Library v4
+88544:10695 Android Compatibility Library v7
+99285:10694 Android Constraint Layout Support Library
+110015:10695 Android Core UI Support Library
+120749:10691 Android Core Utils Support Library
+131480:10695 Android Custom Tabs Support Library
+142210:10695 Android Design Support Library
+152951:10695 Android Dynamic Animation Support Library
+163684:10695 Android Fragments Support Library
+174416:10695 Android Graphics Support Library
+185152:10691 Android Media Compat Support Library
+195880:10695 Android Multidex Support Library
+206614:10691 Android Transition Support Library
+217329:11358 Apache Commons Lang
+228700:11358 AutoGson
+240079:10173 Closure Compiler
+250313:10693 Compatibility Libraries for Android asynclayoutinflater.
+261059:10693 Compatibility Libraries for Android collections.
+271811:10693 Compatibility Libraries for Android coordinatorlayout.
+282559:10693 Compatibility Libraries for Android cursoradapter.
+293304:10693 Compatibility Libraries for Android customview.
+304051:10693 Compatibility Libraries for Android documentfile.
+314798:10693 Compatibility Libraries for Android drawerlayout.
+325545:10693 Compatibility Libraries for Android interpolator.
+336286:10693 Compatibility Libraries for Android loader.
+347042:10693 Compatibility Libraries for Android localbroadcastmanager.
+357782:10693 Compatibility Libraries for Android print.
+368534:10693 Compatibility Libraries for Android slidingpanelayout.
+379287:10695 Compatibility Libraries for Android support-slices_core
+390042:10693 Compatibility Libraries for Android swiperefreshlayout.
+400786:10693 Compatibility Libraries for Android viewpager.
+411490:11358 Dagger
+422864:11357 Error Prone
+434235:11358 ExoPlayer
+445615:11358 FasterXML Jackson
+456989:11358 Google Auto
+468362:11358 Guava JDK5
+479735:11362 Guava JDK7
+491108:11358 J2ObjC
+502478:11358 JSR 250
+513848:11365 JSR 330
+525227:11358 Joda-Time
+536600:11358 LeakCanary
+547979:11357 LeakCanary No-op
+559347:11356 Lottie
+570739:11358 Material Components for Android
+582118:18883 Open Measurement
+601025:12992 Play Common Library
+614028:11358 Volley
+625395:11365 absl
+636769:10219 ahat
+646999:11358 backup
+658378:10141 customtabsclient
+668531:11358 flexbox
+679898:11358 gson
+691265:11357 haha
+702639:11358 joda_convert
+714013:16013 Android SDK
+730037:43738 Cronet
+773794:1096 Animal Sniffer
+774902:1602 JSR 305
+776522:1732 Protobuf Nano
+778266:1606 jquery2
+779886:1549 nanohttpd
+781469:1846 Checker Framework Annotations
+783325:4771 Glide
+788106:19442 ICU4J
+807558:869 trove

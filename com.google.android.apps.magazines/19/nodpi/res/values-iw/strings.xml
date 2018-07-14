@@ -9,6 +9,16 @@
     <string name="abc_activitychooserview_choose_application">בחר אפליקציה</string>
     <string name="abc_capital_off">כבוי</string>
     <string name="abc_capital_on">פועל</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+‎</string>
+    <string name="abc_menu_delete_shortcut_label">delete</string>
+    <string name="abc_menu_enter_shortcut_label">Enter</string>
+    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">מקש רווח</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">תפריט+</string>
     <string name="abc_search_hint">חיפוש…</string>
     <string name="abc_searchview_description_clear">מחק שאילתה</string>
     <string name="abc_searchview_description_search">חיפוש</string>
@@ -98,6 +108,7 @@
     <string name="common_google_play_services_install_button">התקן</string>
     <string name="common_google_play_services_install_text">‏האפליקציה %1$s לא תפעל ללא שירותי Google Play, שאינם מותקנים במכשיר.</string>
     <string name="common_google_play_services_install_title">‏קבל את שירותי Google Play</string>
+    <string name="common_google_play_services_notification_channel_name">‏זמינות של שירותי Google Play</string>
     <string name="common_google_play_services_notification_ticker">‏שגיאה בשירותי Google Play</string>
     <string name="common_google_play_services_unknown_issue">‏%1$s נתקלה בבעיה בשירותי Google Play. נסה שוב.</string>
     <string name="common_google_play_services_unsupported_text">‏%1$s לא תפעל ללא שירותי Google Play, שאינם נתמכים במכשיר שלך.</string>
@@ -179,7 +190,7 @@
     <string name="enable_notifications">הפעלת התראות</string>
     <string name="enable_sync_dialog_body">הסנכרון יופעל כדי לרענן תוכן של חדשות Google ברקע.</string>
     <string name="enable_sync_dialog_title">הסנכרון מושבת</string>
-    <string name="enumeration_comma">", "</string>
+    <string name="enumeration_comma">,</string>
     <string name="error_blocking_user">שגיאה בחסימת המשתמש, יש לנסות שוב.</string>
     <string name="error_removing_share">לא ניתן היה להסיר את השיתוף, ניתן לנסות שוב.</string>
     <string name="exo_track_selection_auto">אוטומטי</string>
@@ -199,7 +210,7 @@
     <string name="favorites_cluster_title_topics">נושאים</string>
     <string name="favorites_title">מועדפים</string>
     <string name="favorites_view_all">הצגה וניהול של כל הפריטים</string>
-    <string name="follow_tournament">אני רוצה לעקוב אחר המשחקים</string>
+    <string name="follow_tournament">מעקב אחר המשחקים</string>
     <string name="for_you_pinned">הורדת התוכן \"במיוחד בשבילך\"</string>
     <string name="for_you_pinned_summary">הורדה ושמירת התוכן \"במיוחד בשבילך\" לקריאה לא מקוונת</string>
     <string name="for_you_title">בשבילך</string>
@@ -236,6 +247,7 @@
     <string name="iap_failure_to_open">לא ניתן לפתוח את האפליקציה עבור התוכן הזה</string>
     <string name="iap_success_google_news">נוסף לחדשות Google</string>
     <string name="image_attribution">קרדיט</string>
+    <string name="image_attribution_content_description">תמונה מאת %1$s</string>
     <string name="image_not_available_offline">תמונות אינן זמינות במצב לא מקוון</string>
     <string name="language_reset">השפה אופסה</string>
     <string name="launcher_app_name">חדשות</string>
@@ -269,6 +281,7 @@
     <string name="magazines_toggle_to_print_mode">עבור למהדורת הדפוס</string>
     <string name="marked_as_not_interested">יוצגו לך פחות כתבות כמו זו</string>
     <string name="match_in_list_content_description">משחק %1$d מתוך %2$d</string>
+    <string name="media_mute">השתק</string>
     <string name="media_next">הבא</string>
     <string name="media_next_unavailable">הפריט הבא אינו זמין</string>
     <string name="media_notification_channel_description">הגדרות להודעות מדיה של חדשות Google</string>
@@ -279,6 +292,7 @@
     <string name="media_previous_unavailable">הפריט הקודם אינו זמין</string>
     <string name="media_progress">%1$s מתוך %2$s</string>
     <string name="media_stop">עצור</string>
+    <string name="media_unmute">בטל השתקה</string>
     <string name="mini_cards">מיני כרטיסיות</string>
     <string name="more_info">מידע נוסף</string>
     <string name="more_options_description">עוד אפשרויות</string>
@@ -286,9 +300,8 @@
     <string name="move_to_top">העברה להתחלה</string>
     <string name="must_be_online">ודא שאתה מחובר לאינטרנט</string>
     <string name="my_activity">הפעילות שלי</string>
-    <string name="my_activity_summary">מחובר בשם %1$s</string>
     <string name="nativeAd_sponsored">ממומן</string>
-    <string name="native_store_title">דוכן עיתונים</string>
+    <string name="native_store_title">קיוסק</string>
     <string name="need_to_rotate_orientation">יש לסובב את המכשיר כדי להציג את התוכן הזה.</string>
     <string name="needed_to_rotate_orientation">המכשיר היה צריך לבצע סיבוב אוטומטי כדי להציג תוכן זה.</string>
     <string name="new_magazine_downloadable_notification">גיליון %1$s זמין</string>
@@ -317,6 +330,7 @@
     <string name="notification_subscription_enabled">ההודעות הופעלו עבור %1$s</string>
     <string name="notification_undo_text">ביטול</string>
     <string name="notifications">התראות</string>
+    <string name="notifications_and_shared">הודעות ותוכן ששותף</string>
     <string name="notifications_settings_menu_title">התראות</string>
     <string name="now_following_topic">הנושא הזה נוסף למעקב</string>
     <string name="ok">אישור</string>
@@ -335,7 +349,7 @@
     <string name="onboarding_title2">הגרסה החדשה של חדשות Google</string>
     <string name="open_source_licenses">רישיונות קוד פתוח</string>
     <string name="pause_audio">השהה אודיו</string>
-    <string name="pause_video">השהיית סרטון</string>
+    <string name="pause_video">השהה סרטון</string>
     <string name="pii_optional_title">כדי לקבל את מלוא ההטבות למנויים מ-%1$s, המו\"ל מעוניין לקבל ממך מידע</string>
     <string name="place_autocomplete_clear_button">נקה את החיפוש</string>
     <string name="place_autocomplete_search_hint">חיפוש</string>
@@ -350,7 +364,7 @@
     <string name="play_drawer_open">הצג את חלונית הניווט</string>
     <string name="play_percent_downloaded">הושלמה הורדה של %1$d%%</string>
     <string name="play_star_rating_content_description">דירוג כוכבים: %1$s</string>
-    <string name="play_video">הפעלת סרטון</string>
+    <string name="play_video">הפעל סרטון</string>
     <string name="preferences_license_title">רישיונות קוד פתוח</string>
     <string name="premium_content">תוכן בתשלום</string>
     <string name="premiumstatusview__content_description_premium_purchased">תוכן פרמיום נרכש.</string>
@@ -414,12 +428,6 @@
     <string name="removed_from_read_later">הכתבה הוסרה מהמועדפים</string>
     <string name="report">דיווח</string>
     <string name="retry">נסה שוב</string>
-    <string name="s1">שמור את התמונה</string>
-    <string name="s2">האם לאפשר למודעה לאחסן תמונה בגלריית התמונות?</string>
-    <string name="s3">קבל</string>
-    <string name="s4">דחה</string>
-    <string name="s5">צור אירוע ביומן</string>
-    <string name="s6">האם לאפשר למודעה ליצור אירוע ביומן?</string>
     <string name="saved_tab_title">כתבות ששמרת</string>
     <string name="sd_card_not_available_dialog_body">במקום זאת, הורדת התוכן תתבצע אל האחסון הפנימי של המכשיר.</string>
     <string name="sd_card_not_available_dialog_title">כרטיס ה-SD אינו זמין</string>
@@ -431,7 +439,7 @@
     <string name="sections_only_available_to_paid_subscribers">חלק מהמאמרים זמינים להורדה רק עבור משתמשים רשומים בתשלום.</string>
     <string name="see_original_article">לדף האינטרנט המקורי</string>
     <string name="see_original_edition">מעבר אל %1$s</string>
-    <string name="send_feedback_button">" שליחת משוב"</string>
+    <string name="send_feedback_button">שליחת משוב</string>
     <string name="sending_share">מתבצעת שליחה של שיתוף</string>
     <string name="sendkit_ui_about_suggested_people_info">To make sharing easier, Google suggests people to share with based on your interactions</string>
     <string name="sendkit_ui_about_top_suggestions">About suggested people</string>
@@ -542,7 +550,7 @@
     <string name="sync_failed_notification_title">לא ניתן לרענן את חדשות Google.</string>
     <string name="sync_progress_notification_title">מתבצעת הורדת תוכן של חדשות Google</string>
     <string name="team_eliminated">הודחה</string>
-    <string name="team_more_coverage">כיסוי נוסף על %s</string>
+    <string name="team_more_coverage">מידע נוסף על %s</string>
     <string name="team_unknown">לא נקבע</string>
     <string name="teams_page_title">נבחרות</string>
     <string name="temperature_unit_celsius">צלזיוס</string>
@@ -584,7 +592,7 @@
     <string name="user_data_collection_last_name">שם משפחה</string>
     <string name="user_data_collection_postal_code">מיקוד</string>
     <string name="user_data_collection_privacy_info">כשתבחר ב-%1$s, המו\"ל יקבל את המידע הזה. למידע נוסף, עיין במדיניות הפרטיות של המו\"ל.</string>
-    <string name="user_data_collection_send_button">שליחה</string>
+    <string name="user_data_collection_send_button">שלח</string>
     <string name="user_data_collection_state">מדינה/מחוז</string>
     <string name="user_data_collection_third_party_marketing">המו\"ל רשאי להתיר לגורמי צד שלישי לשלוח לי מידע לגבי מוצרים ושירותים נוספים.</string>
     <string name="user_data_collection_title">הירשם</string>

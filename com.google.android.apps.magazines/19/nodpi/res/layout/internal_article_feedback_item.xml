@@ -16,7 +16,7 @@
                         <CheckBox android:gravity="top" android:id="@id/consent_checkbox" android:layout_width="wrap_content" android:layout_height="wrap_content" android:maxLines="4" style="@style/TextDialogText.CheckBox" />
                         <android.support.v7.widget.AppCompatImageView android:layout_gravity="bottom" android:id="@id/consent_text_shadow" android:layout_width="fill_parent" android:layout_height="40.0dip" android:src="@drawable/gradient_down_white" />
                     </FrameLayout>
-                    <android.support.v7.widget.AppCompatImageView android:layout_gravity="center_horizontal" android:id="@id/consent_text_arrow" android:layout_width="fill_parent" android:layout_height="wrap_content" android:src="@drawable/quantum_ic_keyboard_arrow_up_grey600_24" android:tint="@color/app_color_material" android:rotation="180.0" />
+                    <android.support.v7.widget.AppCompatImageView android:layout_gravity="center_horizontal" android:id="@id/consent_text_arrow" android:layout_width="fill_parent" android:layout_height="wrap_content" android:tint="@color/app_color_material" android:rotation="180.0" ns:srcCompat="@drawable/quantum_ic_keyboard_arrow_up_vd_theme_24" />
                     <android.support.v7.widget.AppCompatButton android:layout_gravity="end" android:id="@id/send_button" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/internal_feedback_send_button" style="@style/Widget.AppCompat.Button.Borderless.Colored" />
                 </LinearLayout>
                 <LinearLayout android:orientation="vertical" android:id="@id/group_container" android:layout_width="fill_parent" android:layout_height="wrap_content">

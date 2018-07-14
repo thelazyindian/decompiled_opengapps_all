@@ -9,6 +9,16 @@
     <string name="abc_activitychooserview_choose_application">Izvēlieties lietotni</string>
     <string name="abc_capital_off">IZSLĒGTS</string>
     <string name="abc_capital_on">IESLĒGTS</string>
+    <string name="abc_menu_alt_shortcut_label">Alternēšanas taustiņš +</string>
+    <string name="abc_menu_ctrl_shortcut_label">Vadīšanas taustiņš +</string>
+    <string name="abc_menu_delete_shortcut_label">dzēšanas taustiņš</string>
+    <string name="abc_menu_enter_shortcut_label">ievadīšanas taustiņš</string>
+    <string name="abc_menu_function_shortcut_label">Funkcijas taustiņš +</string>
+    <string name="abc_menu_meta_shortcut_label">Meta taustiņš +</string>
+    <string name="abc_menu_shift_shortcut_label">Pārslēgšanas taustiņš +</string>
+    <string name="abc_menu_space_shortcut_label">atstarpes taustiņš</string>
+    <string name="abc_menu_sym_shortcut_label">Simbolu taustiņš +</string>
+    <string name="abc_prepend_shortcut_label">Poga Izvēlne +</string>
     <string name="abc_search_hint">Meklējiet…</string>
     <string name="abc_searchview_description_clear">Notīrīt vaicājumu</string>
     <string name="abc_searchview_description_search">Meklēt</string>
@@ -98,6 +108,7 @@
     <string name="common_google_play_services_install_button">Instalēt</string>
     <string name="common_google_play_services_install_text">Lai lietotne %1$s darbotos, ierīcē ir jāinstalē Google Play pakalpojumi.</string>
     <string name="common_google_play_services_install_title">Google Play pakalpojumu iegūšana</string>
+    <string name="common_google_play_services_notification_channel_name">Google Play pakalpojumu pieejamība</string>
     <string name="common_google_play_services_notification_ticker">Google Play pakalpojumu kļūda</string>
     <string name="common_google_play_services_unknown_issue">Lietotnē %1$s ir radusies problēma ar Google Play pakalpojumu darbību. Lūdzu, mēģiniet vēlreiz.</string>
     <string name="common_google_play_services_unsupported_text">Lai lietotne %1$s darbotos, ir nepieciešami Google Play pakalpojumi, taču jūsu ierīce tos neatbalsta.</string>
@@ -179,7 +190,7 @@
     <string name="enable_notifications">Iespējot paziņojumus</string>
     <string name="enable_sync_dialog_body">Lai fonā atsvaidzinātu lietotnes Google ziņas saturu, tiks ieslēgta sinhronizācija.</string>
     <string name="enable_sync_dialog_title">Sinhronizācija izslēgta</string>
-    <string name="enumeration_comma">", "</string>
+    <string name="enumeration_comma">,</string>
     <string name="error_blocking_user">Bloķējot lietotāju, radās kļūda. Lūdzu, mēģiniet vēlreiz.</string>
     <string name="error_removing_share">Nevarēja noņemt vai kopīgot saturu. Lūdzu, mēģiniet vēlreiz.</string>
     <string name="exo_track_selection_auto">Automātisks</string>
@@ -236,6 +247,7 @@
     <string name="iap_failure_to_open">Nevar atvērt lietotni šī satura skatīšanai.</string>
     <string name="iap_success_google_news">Pievienots lietotnei Google ziņas</string>
     <string name="image_attribution">Attiecinājums</string>
+    <string name="image_attribution_content_description">Fotoattēla autors: %1$s</string>
     <string name="image_not_available_offline">Attēls nav pieejams bezsaistē.</string>
     <string name="language_reset">Valoda tika atiestatīta.</string>
     <string name="launcher_app_name">Ziņas</string>
@@ -269,6 +281,7 @@
     <string name="magazines_toggle_to_print_mode">Pāriet uz drukas versiju</string>
     <string name="marked_as_not_interested">Tiks rādīts mazāk šādu rakstu</string>
     <string name="match_in_list_content_description">%1$d. spēle no %2$d</string>
+    <string name="media_mute">Izslēgt skaņu</string>
     <string name="media_next">Nākamais</string>
     <string name="media_next_unavailable">Nākamais vienums nav pieejams</string>
     <string name="media_notification_channel_description">Iestatījumi lietotnes Google ziņas paziņojumiem par multividi</string>
@@ -279,6 +292,7 @@
     <string name="media_previous_unavailable">Iepriekšējais vienums nav pieejams</string>
     <string name="media_progress">%1$s. no %2$s</string>
     <string name="media_stop">Pārtraukt</string>
+    <string name="media_unmute">Ieslēgt skaņu</string>
     <string name="mini_cards">Mini kartītes</string>
     <string name="more_info">Plašāka informācija</string>
     <string name="more_options_description">Citas opcijas</string>
@@ -286,7 +300,6 @@
     <string name="move_to_top">Pārvietot uz sākumu</string>
     <string name="must_be_online">Pārbaudiet, vai ir izveidots savienojums ar internetu.</string>
     <string name="my_activity">Manas darbības</string>
-    <string name="my_activity_summary">Pierakstījies kontā %1$s</string>
     <string name="nativeAd_sponsored">Sponsorēts</string>
     <string name="native_store_title">Kiosks</string>
     <string name="need_to_rotate_orientation">Pagrieziet ierīci, lai attēlotu šo saturu.</string>
@@ -317,6 +330,7 @@
     <string name="notification_subscription_enabled">Iespējoti paziņojumi: %1$s</string>
     <string name="notification_undo_text">Atsaukt</string>
     <string name="notifications">Paziņojumi</string>
+    <string name="notifications_and_shared">Paziņojumi un kopīgots saturs</string>
     <string name="notifications_settings_menu_title">Paziņojumi</string>
     <string name="now_following_topic">Jūs sekojat šai tēmai</string>
     <string name="ok">Labi</string>
@@ -414,12 +428,6 @@
     <string name="removed_from_read_later">Raksts tika noņemts no izlases.</string>
     <string name="report">Ziņot</string>
     <string name="retry">Mēģināt vēlreiz</string>
-    <string name="s1">Attēla saglabāšana</string>
-    <string name="s2">Vai atļaut reklāmai saglabāt attēlu galerijā?</string>
-    <string name="s3">Piekrist</string>
-    <string name="s4">Noraidīt</string>
-    <string name="s5">Kalendāra pasākuma izveide</string>
-    <string name="s6">Vai atļaut reklāmai izveidot kalendāra pasākumu?</string>
     <string name="saved_tab_title">Saglabātie raksti</string>
     <string name="sd_card_not_available_dialog_body">Tā vietā saturs tiks lejupielādēts ierīces iekšējā atmiņā.</string>
     <string name="sd_card_not_available_dialog_title">SD karte nav pieejama</string>
@@ -606,6 +614,6 @@
     <string name="wifi_only_download_override_dialog_message">Vai vēlaties lejupielādēt šo saturu tūlīt? Var tikt piemērota datu pārraides maksa.</string>
     <string name="wifi_only_download_override_dialog_title">Nav Wi-Fi savienojuma</string>
     <string name="world_cup_2018">Pasaules kauss 2018</string>
-    <string name="year_and_month">%2$s, %1$s</string>
+    <string name="year_and_month">%2$s %1$s</string>
     <string name="year_and_month_range">%2$s–%3$s, %1$s</string>
 </resources>

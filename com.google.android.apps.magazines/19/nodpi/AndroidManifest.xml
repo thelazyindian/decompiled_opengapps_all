@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="no"?><manifest xmlns:android="http://schemas.android.com/apk/res/android" android:compileSdkVersion="27" android:compileSdkVersionCodename="P" android:installLocation="auto" package="com.google.android.apps.magazines" platformBuildVersionCode="27" platformBuildVersionName="P">
+<?xml version="1.0" encoding="utf-8" standalone="no"?><manifest xmlns:android="http://schemas.android.com/apk/res/android" android:compileSdkVersion="28" android:compileSdkVersionCodename="9" android:installLocation="auto" package="com.google.android.apps.magazines" platformBuildVersionCode="28" platformBuildVersionName="9">
     <supports-screens android:largeScreens="true" android:normalScreens="true" android:smallScreens="false" android:xlargeScreens="true"/>
     <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE"/>
     <permission android:name="com.google.android.apps.magazines.permission.C2D_MESSAGE" android:protectionLevel="signature"/>
@@ -25,9 +25,10 @@
     <uses-feature android:name="android.hardware.location.gps" android:required="false"/>
     <uses-permission android:name="android.permission.GET_PACKAGE_SIZE"/>
     <uses-feature android:glEsVersion="0x00020000" android:required="true"/>
-    <application android:backupAgent="com.google.apps.dots.android.newsstand.backup.NSBackupAgent" android:fullBackupOnly="false" android:hardwareAccelerated="true" android:icon="@mipmap/adaptiveproduct_google_news" android:label="@string/app_name" android:name="com.google.apps.dots.android.newsstand.NSApplication" android:resizeableActivity="true" android:restrictedAccountType="com.google" android:roundIcon="@mipmap/ic_launcher_icon_round" android:supportsRtl="true" android:theme="@style/NSTheme.Light.CustomToolbar">
+    <application android:backupAgent="com.google.apps.dots.android.newsstand.backup.NSBackupAgent" android:banner="@mipmap/adaptiveproduct_google_news" android:fullBackupOnly="false" android:hardwareAccelerated="true" android:icon="@mipmap/adaptiveproduct_google_news" android:label="@string/app_name" android:name="com.google.apps.dots.android.newsstand.NSApplication" android:resizeableActivity="true" android:restrictedAccountType="com.google" android:roundIcon="@mipmap/ic_launcher_icon_round" android:supportsRtl="true" android:theme="@style/NSTheme.Light.CustomToolbar">
         <uses-library android:name="org.apache.http.legacy" android:required="false"/>
         <meta-data android:name="com.google.android.backup.api_key" android:value="@string/backup_api_key"/>
+        <meta-data android:name="com.google.android.partnersetup.RLZ_BOUNTY_ACCESS_POINT" android:value="@string/rlz_access_point_exclusive"/>
         <activity android:configChanges="keyboardHidden|screenSize" android:exported="true" android:label="@string/launcher_app_name" android:launchMode="singleTop" android:name="com.google.apps.dots.android.app.activity.CurrentsStartActivity" android:theme="@style/NSTheme.SplashScreen">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN"/>
@@ -35,7 +36,7 @@
                 <category android:name="android.intent.category.LAUNCHER"/>
             </intent-filter>
         </activity>
-        <activity android:configChanges="keyboardHidden|orientation|screenSize" android:exported="true" android:label="@string/launcher_app_name" android:launchMode="singleTop" android:name="com.google.apps.dots.android.newsstand.activity.DeepLinkActivity" android:theme="@style/NSTheme.Light.CustomToolbar">
+        <activity android:configChanges="keyboardHidden|orientation|screenSize" android:exported="true" android:label="@string/launcher_app_name" android:launchMode="singleTask" android:name="com.google.apps.dots.android.newsstand.activity.DeepLinkActivity" android:theme="@style/NSTheme.Light.CustomToolbar">
             <intent-filter android:autoVerify="true">
                 <action android:name="android.intent.action.VIEW"/>
                 <category android:name="android.intent.category.DEFAULT"/>

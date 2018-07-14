@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="a11y_image_no_label">صورة غير مصنَّفة في مقالة</string>
+    <string name="a11y_image_no_label">صورة غير مصنَّفة في مقالة</string>
     <string name="a11y_image_with_caption">%s، صورة</string>
     <string name="abc_action_bar_up_description">التنقل إلى أعلى</string>
     <string name="abc_action_menu_overflow_description">خيارات إضافية</string>
@@ -9,6 +9,16 @@
     <string name="abc_activitychooserview_choose_application">اختيار تطبيق</string>
     <string name="abc_capital_off">إيقاف</string>
     <string name="abc_capital_on">تشغيل</string>
+    <string name="abc_menu_alt_shortcut_label">Alt+</string>
+    <string name="abc_menu_ctrl_shortcut_label">Ctrl+</string>
+    <string name="abc_menu_delete_shortcut_label">delete</string>
+    <string name="abc_menu_enter_shortcut_label">enter</string>
+    <string name="abc_menu_function_shortcut_label">Function+</string>
+    <string name="abc_menu_meta_shortcut_label">Meta+</string>
+    <string name="abc_menu_shift_shortcut_label">Shift+</string>
+    <string name="abc_menu_space_shortcut_label">space</string>
+    <string name="abc_menu_sym_shortcut_label">Sym+</string>
+    <string name="abc_prepend_shortcut_label">القائمة+</string>
     <string name="abc_search_hint">بحث…</string>
     <string name="abc_searchview_description_clear">محو طلب البحث</string>
     <string name="abc_searchview_description_search">بحث</string>
@@ -18,7 +28,7 @@
     <string name="activity">النشاط</string>
     <string name="ad_free">مجانًا</string>
     <string name="add_account">إضافة حساب</string>
-    <string name="add_subscription_failed">تعذَّر إضافة الإصدار إلى \"المحتوى المفضّل\". يُرجى إعادة المحاولة لاحقًا.</string>
+    <string name="add_subscription_failed">تعذَّر إضافة الإصدار إلى \"المحتوى المفضّل\". يُرجى إعادة المحاولة لاحقًا.</string>
     <string name="add_to_archive_failed">تعذرت إضافة المجلة إلى الأرشيف. يُرجى إعادة المحاولة لاحقًا.</string>
     <string name="add_to_home_screen">إضافة إلى الشاشة الرئيسية</string>
     <string name="add_to_library">إضافة الموضوع أو المصدر الإخباري إلى \"المحتوى المفضّل\"</string>
@@ -98,6 +108,7 @@
     <string name="common_google_play_services_install_button">تثبيت</string>
     <string name="common_google_play_services_install_text">‏لن يتم تشغيل %1$s بدون خدمات Google Play، والتي لا تتوفر على جهازك.</string>
     <string name="common_google_play_services_install_title">‏الحصول على خدمات Google Play</string>
+    <string name="common_google_play_services_notification_channel_name">‏مدى توفّر خدمات Google Play</string>
     <string name="common_google_play_services_notification_ticker">‏خطأ في خدمات Google Play</string>
     <string name="common_google_play_services_unknown_issue">‏لدى %1$s مشكلة في خدمات Google Play. يُرجى إعادة المحاولة.</string>
     <string name="common_google_play_services_unsupported_text">‏لن يتم تشغيل %1$s بدون خدمات Google Play التي لا يوفرها جهازك.</string>
@@ -179,15 +190,15 @@
     <string name="enable_notifications">تفعيل الإشعارات</string>
     <string name="enable_sync_dialog_body">لتحديث محتوى أخبار Google في الخلفية، سيتم تفعيل المزامنة.</string>
     <string name="enable_sync_dialog_title">تم إيقاف المزامنة</string>
-    <string name="enumeration_comma">"، "</string>
+    <string name="enumeration_comma">،</string>
     <string name="error_blocking_user">حدث خطأ أثناء حظر المستخدم. يُرجى إعادة المحاولة.</string>
     <string name="error_removing_share">تعذّرت إزالة المشاركة. يُرجى إعادة المحاولة.</string>
     <string name="exo_track_selection_auto">تلقائي</string>
     <string name="exo_track_selection_none">بدون اختيار</string>
     <string name="favorites_cluster_empty_headline_articles">لم يتم حفظ أي أخبار لقراءتها لاحقًا</string>
     <string name="favorites_cluster_empty_headline_searches">لم يتم حفظ أي عمليات بحث</string>
-    <string name="favorites_cluster_empty_headline_sources_offline">لم تنزِّل أي مصادر.</string>
-    <string name="favorites_cluster_empty_headline_topics_offline">لم تنزِّل أي مواضيع.</string>
+    <string name="favorites_cluster_empty_headline_sources_offline">لم تنزِّل أي مصادر.</string>
+    <string name="favorites_cluster_empty_headline_topics_offline">لم تنزِّل أي مواضيع.</string>
     <string name="favorites_cluster_empty_text_locations">أنت لا تتابع أي مواقع جغرافية. سترى المزيد من الأخبار في قسم \"أخبار مقترحة لك\" عن المواقع الجغرافية التي تتابعها.</string>
     <string name="favorites_cluster_empty_text_sources">أنت لا تتابع أي مصادر أخبار حاليًا. يمكنك إضافة مصادر لتلقي المزيد من الأخبار منها في الخلاصة \"أخبار مقترحة لك\".</string>
     <string name="favorites_cluster_empty_text_topics">أنت لا تتابع أي مواضيع حاليًا. يمكنك إضافة مواضيع لتلقي المزيد من الأخبار عنها في الخلاصة \"أخبار مقترحة لك\".</string>
@@ -228,7 +239,7 @@
     <string name="graph_content_knockout_game_description">عجلة، تم اختيار %1$s، %2$s في مواجهة %3$s</string>
     <string name="graph_header_group">المجموعة</string>
     <string name="graph_header_knockout">جولة الخروج</string>
-    <string name="graph_hint_tap_game">انقر على مباراة</string>
+    <string name="graph_hint_tap_game">انقر على المباراة.</string>
     <string name="graph_hint_tap_group">انقر على مجموعة.</string>
     <string name="headlines_title">أهم عناوين</string>
     <string name="help">المساعدة</string>
@@ -236,6 +247,7 @@
     <string name="iap_failure_to_open">يتعذّر فتح التطبيق لعرض هذا المحتوى</string>
     <string name="iap_success_google_news">تمت الإضافة إلى أخبار Google</string>
     <string name="image_attribution">تحديد مُلتقِط الصورة</string>
+    <string name="image_attribution_content_description">صورة من %1$s</string>
     <string name="image_not_available_offline">الصورة غير متوفرة بلا إنترنت</string>
     <string name="language_reset">تم إعادة تعيين اللغة</string>
     <string name="launcher_app_name">الأخبار</string>
@@ -269,6 +281,7 @@
     <string name="magazines_toggle_to_print_mode">التبديل إلى إصدار الطباعة</string>
     <string name="marked_as_not_interested">سيظهر لك عدد أقل من الأخبار المماثلة لهذا الخبر</string>
     <string name="match_in_list_content_description">المباراة %1$d من إجمالي %2$d</string>
+    <string name="media_mute">كتم الصوت</string>
     <string name="media_next">التالي</string>
     <string name="media_next_unavailable">العنصر التالي غير متوفر</string>
     <string name="media_notification_channel_description">إعدادات لإشعارات وسائط أخبار Google</string>
@@ -279,16 +292,16 @@
     <string name="media_previous_unavailable">العنصر السابق غير متوفر</string>
     <string name="media_progress">%1$s من %2$s</string>
     <string name="media_stop">إيقاف</string>
+    <string name="media_unmute">إعادة الصوت</string>
     <string name="mini_cards">بطاقات مصغّرة</string>
-    <string name="more_info">مزيد من المعلومات</string>
+    <string name="more_info">معلومات أكثر</string>
     <string name="more_options_description">خيارات أخرى</string>
     <string name="move_to_bottom">الانتقال إلى النهاية</string>
     <string name="move_to_top">الانتقال إلى البداية</string>
     <string name="must_be_online">تأكد من أنك متصل بالإنترنت</string>
     <string name="my_activity">نشاطي</string>
-    <string name="my_activity_summary">الحساب المسجَّل الدخول إليه: %1$s</string>
     <string name="nativeAd_sponsored">دعائية</string>
-    <string name="native_store_title">الصحف والمجلات</string>
+    <string name="native_store_title">التصفّح والاشتراك</string>
     <string name="need_to_rotate_orientation">يمكنك تدوير جهازك لعرض هذا المحتوى.</string>
     <string name="needed_to_rotate_orientation">يحتاج الجهاز إلى إجراء تدوير تلقائي لعرض هذا المحتوى.</string>
     <string name="new_magazine_downloadable_notification">يتوفر إصدار %1$s</string>
@@ -317,6 +330,7 @@
     <string name="notification_subscription_enabled">تمّ تفعيل إشعارات %1$s.</string>
     <string name="notification_undo_text">تراجُع</string>
     <string name="notifications">الإشعارات</string>
+    <string name="notifications_and_shared">الإشعارات والعناصر المشترَكة</string>
     <string name="notifications_settings_menu_title">الإشعارات</string>
     <string name="now_following_topic">أنت تتابع هذا الموضوع</string>
     <string name="ok">موافق</string>
@@ -324,7 +338,7 @@
     <string name="onboarding_not_signed_in">لم يتم تسجيل الدخول</string>
     <string name="onboarding_progress">جارٍ تجميع الأخبار…</string>
     <string name="onboarding_retry">إعادة المحاولة</string>
-    <string name="onboarding_sign_in_prompt">سجِّل الدخول للحصول على الأخبار المخصّصة</string>
+    <string name="onboarding_sign_in_prompt">سجِّل الدخول للحصول على الأخبار المخصّصة</string>
     <string name="onboarding_signing_in">جارِ تسجيل الدخول…</string>
     <string name="onboarding_skip">لنبدأ</string>
     <string name="onboarding_subtitle_1">العناوين الرئيسية</string>
@@ -410,16 +424,10 @@
     <string name="remove_from_read_later">إزالة الخبر من الأخبار المحفوظة</string>
     <string name="remove_sample_toast_text">تمت إزالة النموذج</string>
     <string name="remove_share">إزالة المشاركة</string>
-    <string name="remove_subscription_failed">تعذَّر إزالة الإصدار من \"المحتوى المفضّل\". يُرجى إعادة المحاولة لاحقًا.</string>
+    <string name="remove_subscription_failed">تعذَّر إزالة الإصدار من \"المحتوى المفضّل\". يُرجى إعادة المحاولة لاحقًا.</string>
     <string name="removed_from_read_later">تمت إزالة الخبر من \"المحتوى المفضّل\".</string>
     <string name="report">تقرير</string>
     <string name="retry">إعادة المحاولة</string>
-    <string name="s1">حفظ الصورة</string>
-    <string name="s2">هل تريد السماح للإعلان بتخزين الصورة في معرض الصور؟</string>
-    <string name="s3">قبول</string>
-    <string name="s4">رفض</string>
-    <string name="s5">إنشاء حدث تقويم</string>
-    <string name="s6">هل تريد السماح للإعلان بإنشاء حدث تقويم؟</string>
     <string name="saved_tab_title">الأخبار المحفوظة</string>
     <string name="sd_card_not_available_dialog_body">سيتم تنزيل المحتوى إلى وحدة التخزين الداخلية لجهازك بدلاً من ذلك.</string>
     <string name="sd_card_not_available_dialog_title">بطاقة SD غير متاحة</string>
@@ -492,7 +500,7 @@
     <string name="sendkit_ui_top_suggestions">أهم الاقتراحات</string>
     <string name="sendkit_ui_top_suggestions_info_body">بناءً على معارف يستفيدون من خدمات Google. انقر مرة أخرى للتعرف على مزيد من المعلومات.</string>
     <string name="settings">الإعدادات</string>
-    <string name="settings_preferred_language_region">اللغة والمنطقة المفضَّلتان لديك</string>
+    <string name="settings_preferred_language_region">اللغة والمنطقة المفضَّلتان لديك</string>
     <string name="share">مشاركة</string>
     <string name="share_edition_not_found">يتعذّر العثور على الإصدار الذي تمت مشاركته</string>
     <string name="share_not_sent">تعذّر إرسال المشاركة.</string>
@@ -511,7 +519,7 @@
     <string name="shared_something">لقد شاركتَ محتوى</string>
     <string name="shared_with_you">من &lt;b>%1$s&lt;/b></string>
     <string name="shares">عمليات المشاركة</string>
-    <string name="sharing_not_supported">تتعذَّر مشاركة مقالات المجلة</string>
+    <string name="sharing_not_supported">تتعذَّر مشاركة مقالات المجلة</string>
     <string name="show_only_owned_issues">عرض الأعداد التي أمتلكها فقط</string>
     <string name="slideshow_progress">%1$s / %2$s</string>
     <string name="sort">ترتيب</string>
@@ -586,7 +594,7 @@
     <string name="user_data_collection_privacy_info">عند تحديد %1$s، سيستلم الناشر هذه المعلومات. للمزيد من المعلومات، راجع سياسة الخصوصية لهذا الناشر.</string>
     <string name="user_data_collection_send_button">إرسال</string>
     <string name="user_data_collection_state">الولاية/المقاطعة</string>
-    <string name="user_data_collection_third_party_marketing">يجوز للناشر السماح لجهات خارجية بإرسال معلومات إليَّ حول منتجات وخدمات إضافية.</string>
+    <string name="user_data_collection_third_party_marketing">يجوز للناشر السماح لجهات خارجية بإرسال معلومات إليَّ حول منتجات وخدمات إضافية.</string>
     <string name="user_data_collection_title">تسجيل</string>
     <string name="verify_button">تحقق</string>
     <string name="verify_your_subscription_toast_text">يُرجى إثبات صحة اشتراكك</string>
